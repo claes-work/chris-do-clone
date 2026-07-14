@@ -35,8 +35,14 @@ COLS = [
 # BOOTSTRAP HOOK: /clone-setup appends subject-specific markers here —
 #   P3_EXTRA: guest/Q&A formats named after the subject (e.g. "ask alex|asks alex")
 #   P1_EXTRA: landmark markers — book titles, signature courses, company origin stories
-P3_EXTRA: list[str] = []
-P1_EXTRA: list[str] = []
+P3_EXTRA: list[str] = [
+    # Chris Do / The Futur guest & call-in formats:
+    r"ask chris", r"ask the futur", r"office hours", r"live call",
+]
+P1_EXTRA: list[str] = [
+    # Landmarks: his books and company origin narratives.
+    r"pocket full of do", r"unbland", r"the skool\b", r"heart of stone",
+]
 
 P3_RE = re.compile(
     "|".join([

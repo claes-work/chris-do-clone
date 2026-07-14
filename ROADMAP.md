@@ -55,8 +55,8 @@ Monthly lint. *Needs from user: consent to install schedules.*
 
 ## Phase status
 
-- [ ] Phase 0 — Identity & infrastructure (bootstrap)
-- [ ] Phase 1 — Biography & source map (bootstrap)
+- [x] Phase 0 — Identity & infrastructure (bootstrap) — done 2026-07-14
+- [x] Phase 1 — Biography & source map (bootstrap) — done 2026-07-14
 - [ ] Phase 2 — Books & landmark documents
 - [ ] Phase 3 — Video corpus
 - [ ] Phase 4 — Articles & social

@@ -1,0 +1,16 @@
+# Copyrighted source material — never published
+raw/*
+!raw/README.md
+
+# Pipeline staging (transient enumeration CSVs)
+pipeline/staging-*.csv
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.obsidian/workspace.json
+.obsidian/graph.json
+
+# Python bytecode cache
+__pycache__/
+*.pyc

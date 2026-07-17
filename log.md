@@ -345,3 +345,30 @@ still ungrounded (needs a watched-video sample — Phase 3 note). Persona mode (
 loads a real v2 clone.
 
 Synthesis notes: none (this IS the synthesis pass; debt drained for the P1 tier).
+
+## [2026-07-17] ingest | yt batch (@thefutur 6 + @ChrisDo 1) — P1 stragglers + earliest P2 (2014 Skool era)
+
+Ninth video batch (67 L2 total). Post-synthesis. **P1 tier now fully drained.**
+- Marked 2 stuck @thefutur P1 rows SKIPPED (yt-A9rAaBPE7e0 "My Daily Routine", yt-jX6RuXhlnss
+  "Forget Your Epic Origin Story") — captions failed 3x while peers fetched OK (video-specific
+  no-captions, not global rate-limiting; never Whisper without approval).
+- Ingested the 6 EARLIEST @thefutur videos (Aug–Sep 2014, "The Skool" launch, co-hosted with
+  Jose Caballer) — these predate all prior sources and are the ORIGIN POINTS of his sales
+  frameworks:
+  - ★ Ask for the Sale Pt1 (origin of the qualification triad: like-you / can-do-the-work /
+    can-afford-it) + ★ Pt2 (earliest role-play-a-sale format; Chris plays the tough client).
+  - ★ Overcoming Objections (seed of price→value pivot, opportunity-cost reframe; 11 Chris quotes).
+  - Get Clients/Lead-Gen (closing/pricing Chris, lead-gen Jose), Social Media for Designers
+    (early positions, platform specifics dated), ★ Confidence/Culture/Money (early money-mindset
+    root; guest Rocio Villalobos correctly kept separate from Chris's own refugee backstory).
+- @ChrisDo channel: Blue Ocean Strategy (2026-06-11) — solo Chris applying Kim & Mauborgne
+  (+ Christensen); credited, not originated; not L3.
+Attribution discipline held throughout (Chris vs Jose vs guest; role-play roles labeled;
+2 videos left `attribution: uncertain` lines out of persona voice).
+
+Synthesis notes: debt 1 batch / checkpoint 10 (fresh count after pass 1). Several 2014 ★L3
+"origin point" tags queued — at the next checkpoint, add an EARLY-ROOTS / evolution note to
+topics/sales-clients (the qualification triad, role-play format, and objection→value pivot all
+trace to Aug–Sep 2014). NEW context entity: Rocio Villalobos (2014 guest). Now entering the P2
+long-tail (@thefutur ~1,059 P2 + 44 P3, + @TheFuturAcademy 72 P3 catalog-tier) — expect lower
+per-video novelty; promote sparingly, synthesize every ~10 batches.

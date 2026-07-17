@@ -13,6 +13,12 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 
 | Date | Video | Domains | Notes |
 |------|-------|---------|-------|
+| 2014-08-20 | ★ [How To Ask for the Sale — Part 1](2014-08-20-yt-1HuIfKDr54A.md) | sales-clients; business | earliest content; origin of the qualification triad; Skool-era w/ Jose |
+| 2014-08-20 | ★ [Ask for the Sale — Part 2 (Roleplay)](2014-08-20-yt-0HnRlEuKGoA.md) | sales-clients; business | earliest role-play-a-sale format; Chris plays the client |
+| 2014-09-17 | [How to Get Clients — Lead Gen & Close](2014-09-17-yt-TRd85QvQto0.md) | sales-clients; business; content-strategy | closing/pricing Chris, lead-gen Jose |
+| 2014-09-17 | ★ [Overcoming Client Objections](2014-09-17-yt-OuOL8xQGpyE.md) | sales-clients; business | seed of objection-handling (price→value pivot); Skool-era |
+| 2014-09-17 | [Why Social Media Matters to Designers](2014-09-17-yt-KadIcPiw9lU.md) | content-strategy; business | early (2014) positions; platform specifics dated |
+| 2014-09-30 | ★ [Confidence, Culture & Money](2014-09-30-yt-KDlAjE-2JQM.md) | mindset; business | early money-mindset root; guest Rocio (context) |
 | 2015-07-10 | [My (First) Design Portfolio](2015-07-10-yt-hqYIe5Y76oY.md) | design-craft; branding; business | Skool-era co-host (Chris+Jose); positioning/portfolio |
 | 2015-08-12 | [What is UX Design?](2015-08-12-yt-CJnfAXlBRTE.md) | design-craft; sales-clients; branding | Skool-era; mostly Jose-led UX process |
 | 2015-08-22 | [UX Design 1: Site Audit](2015-08-22-yt-vSx2wayTk0g.md) | design-craft; sales-clients; branding | Skool-era; co-led w/ Jose |
@@ -74,5 +80,11 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2025-05-31 | ★ [0 to 5M Followers — 10 Personal Branding Rules](2025-05-31-yt-RCocxOMQD3M.md) | content-strategy; branding; mindset | personal-branding playbook + mission; L3-candidate |
 | 2025-11-25 | ★ [The Scene Every Salesman Needs to See](2025-11-25-yt-DmKgsjbWw8o.md) | sales-clients; business; mindset | Better Call Saul positioning analysis; L3-candidate |
 
+## @ChrisDo
+
+| Date | Video | Domains | Notes |
+|------|-------|---------|-------|
+| 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
+
 ---
-_60 videos ingested (L2) so far._
+_67 videos ingested (L2) so far._

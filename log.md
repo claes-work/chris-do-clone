@@ -794,3 +794,33 @@ deep-dive + charge-to-diagnose deepen topics/pricing; empathy/trust + ad-agency-
 the prior Defeat series deepen topics/sales-clients. The 2017-07-07 self-aware traits ("angry Asian guy",
 English-writing discomfort, combativeness) further enrich persona/voice at the next Stage P/synthesis.
 Continue P2.
+
+## [2026-07-17] ingest | yt batch (@thefutur, 8) — P2 July-2017 (goals, awareness, Deep-Dive eps, Blind)
+
+Twenty-third video batch (176 L2 total). 6 ★L3.
+- ★ Grow Your Business — Have Clear Goals Ep.5 (2017-07-20) — four-column prioritization grid
+  (activity/impact/urgency/money, 1–5, top-3) + revenue goal-decomposition (annual→quarterly→monthly,
+  overshoot) + daily focus-sheet; 10 quotes. (Melinda Livsey coachee = context.)
+- ★ Feeling Overwhelmed — Information Overload Ep.6 (2017-07-26) — consume-with-purpose (shopping-list
+  vs hoarding), limited-capacity backpack metaphor, business-self-sets-the-learning-agenda, the
+  procrastination-via-craft diagnostic, action-beats-intent; 11 quotes. (Douglas Davis "3 Rs" credited;
+  Melinda = context.)
+- ★ How Will Customers Find You (2017-07-18) — the profit chain traced BACKWARDS (profit←work←close←
+  proposal←RFP←meeting←contact) + awareness→validate→convert→delight→share funnel + "inform or inspire"; 7q.
+- ★ Goal Setting (2017-06-24) — the "magic stairway" scaffolding for recursive goal decomposition +
+  chunking calibration (monthly→weekly→daily→minute); 6 quotes.
+- ★ Motivation, Focus & Grind (2017-07-28) — good-vs-BETTER requires extra effort/late nights;
+  finesse-details-no-one-sees craft standard; 5 quotes. [self-reported: 21-hr shift, first sunrise in office in ~8-9 yrs]
+- ★ Life Inside a Design Studio: Blind Ep.01 (2017-07-22) — "think more, make less"; "design from a
+  place of Truth"; every-project-a-chance-to-learn; 5 quotes + Blind mentorship-culture CONTEXT (interns
+  handed real client briefs; cross-link entities/blind).
+- Document & Show Your Process (2017-07-13) — restatement of show-your-work-reduces-risk (speaker
+  attribution: uncertain, likely Chris); not L3.
+- Day-in-Life of GREG GUNN (2017-07-25) — Chris absent → context page (3rd day-in-life after Encina, Ben Burns).
+
+Synthesis notes: debt 6 batches / checkpoint 10. Strong MINDSET/discipline cluster (goal-setting/magic-
+stairway, prioritization grid + focus-sheet, overwhelm/backpack + procrastination-via-craft, motivation/
+grind) + a CONTENT-STRATEGY awareness model (profit-chain-backwards + funnel + inform-or-inspire) for the
+next checkpoint. Blind Ep01 adds studio-culture biography ("think more make less" is strong voice/beliefs).
+The "Deep Dive"/Melinda-coaching series (eps 4/5/6) is a recurring format — Melinda = context throughout.
+Continue P2.

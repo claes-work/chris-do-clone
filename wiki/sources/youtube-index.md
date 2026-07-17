@@ -131,10 +131,18 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2017-06-18 | ★ [How Pitching Works With Ad Agencies](2017-06-18-yt-TvpOKlrlE7o.md) | sales-clients; business | agency pitch system; anti-spec-work; saying-no; L3-candidate |
 | 2017-06-19 | [Typographic Terminology A to Z](2017-06-19-yt-WzVl_ATHUQ0.md) | design-craft | animated glossary, no speech — context |
 | 2017-06-21 | ★ [Run A Creative Business w/ Melinda Livsey](2017-06-21-yt-D8BN2YSyYkg.md) | business; sales-clients; pricing; branding; mindset | Chris coaches Livsey (context); kiss-off script + money-mindset; L3-candidate |
+| 2017-06-24 | ★ [Goal Setting & How To Achieve Your Goals](2017-06-24-yt-1zLtfzsaP58.md) | mindset | "magic stairway" scaffolding + chunking; L3-candidate |
 | 2017-06-26 | [Day in the Life — Ben Burns](2017-06-26-yt-PfFFujNASTg.md) | business; design-craft; content-strategy | Ben Burns day-in-life; Chris absent — context |
 | 2017-06-28 | ★ [Can You Charge To Diagnose A Creative Problem?](2017-06-28-yt--hTVXeA5TVs.md) | pricing; sales-clients; business | paid discovery; come-in-empty; be-prepared-to-refer; L3-candidate |
 | 2017-07-07 | ★ [Overcome Fears & Start Posting on Social Media](2017-07-07-yt-pYxILzVu35A.md) | mindset; content-strategy | detachment-from-work; fact-vs-opinion filter; self-aware traits; L3-candidate |
 | 2017-07-10 | ★ [How To Charge More For A Logo (Deep Dive ep.4)](2017-07-10-yt-b2wSN1w5QH4.md) | pricing; business; branding | value-based logo pricing; double-your-rate; storytelling scripts; L3-candidate |
+| 2017-07-13 | [Document & Show Your Creative Process](2017-07-13-yt-JErxMo-Ja84.md) | content-strategy; design-craft | show-your-work reduces risk; restatement |
+| 2017-07-18 | ★ [How Will Customers Find You (Inform or Inspire)](2017-07-18-yt-RZr4jEdqyVY.md) | content-strategy; branding; business | profit-chain-backwards + awareness funnel; L3-candidate |
+| 2017-07-20 | ★ [Grow Your Business — Have Clear Goals (Ep.5)](2017-07-20-yt-II7vYSnq2P8.md) | business; mindset | four-column prioritization grid + focus-sheet; Melinda coachee; L3-candidate |
+| 2017-07-22 | ★ [Life Inside a Design Studio: Blind Ep.01](2017-07-22-yt-FR8Qf6kgIAA.md) | business; design-craft | "think more, make less"; design-from-truth; Blind culture; L3-candidate |
+| 2017-07-25 | [Day in the Life — Greg Gunn](2017-07-25-yt-y0xxvHyaebQ.md) | business; design-craft; content-strategy | Greg Gunn day-in-life; Chris absent — context |
+| 2017-07-26 | ★ [Feeling Overwhelmed — Information Overload (Ep.6)](2017-07-26-yt-RpY4t_oAXHg.md) | mindset; business | consume-with-purpose; backpack metaphor; procrastination-via-craft; L3-candidate |
+| 2017-07-28 | ★ [Motivation, Focus & Grind (7 Days Till Delivery)](2017-07-28-yt-4RK_9S0Ycvk.md) | mindset; business | good-vs-better effort; finesse-details-no-one-sees; L3-candidate |
 | 2017-11-15 | ★ [17yr Old Designer Sean Campbell](2017-11-15-yt-xRmqvnKepN4.md) | mindset; design-craft; content-strategy | interview (Campbell = context); logo-critique method; L3-candidate |
 | 2017-12-04 | ★ [What Not To Do With A Design Layout](2017-12-04-yt-atS36kzr8zg.md) | design-craft | layout/craft critique; Chris-led (co-host Molly); L3-candidate |
 | 2017-12-20 | [How To Present Logo Designs to Clients](2017-12-20-yt-BSxg87CoOu4.md) | sales-clients; branding; design-craft | presenter Ben Burns, NOT Chris — context only |
@@ -188,4 +196,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_168 videos ingested (L2) so far._
+_176 videos ingested (L2) so far._

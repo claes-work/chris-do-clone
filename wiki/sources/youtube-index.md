@@ -299,6 +299,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-10-30 | ★ [Two Approaches To Talking About Budget With Clients](2018-10-30-yt-DDBWERuvgFA.md) | pricing; sales-clients | emotion-led (Shannon Gabor=context) vs logic-led (Chris) both reject budget-first; order-taker-vs-advisor; low-ball=positioning-problem; L3-candidate |
 | 2018-10-31 | ★ [How To Get More Clients — A Challenge To Get More Leads](2018-10-31-yt-iWDoF1pJfGY.md) | sales-clients; content-strategy; business | "reach out to 30 new people in a week" (Jim Rohn) + bigger-fish/fringe-creatives outreach taxonomy; L3-candidate |
 | 2018-11-02 | [How Do You Communicate What You Do? (1-min tip)](2018-11-02-yt-qTtEPQP6vSM.md) | branding; sales-clients; content-strategy | reframe self-description → customer value: profile customers, find pain-points you solve; Chris solo |
+| 2018-11-08 | [Manage Time Better — A Challenge to Find More Time](2018-11-08-yt-0IPDtWmYWVg.md) | mindset; business | Commute Challenge: track 2 days in 15-min increments; email=biggest time-sink; Chris solo |
+| 2018-11-09 | ★ [How Strategy Changed My Design Business](2018-11-09-yt-yevZjd-YwUY.md) | business; sales-clients; branding | BIOGRAPHY: Blind near-collapse/reinvention (1995→$7M-peak-2007→2013-inflection→motion-to-branding, CORE from Jose Caballer, Trojan Storage/Oles); Matthew=context; L3-candidate |
+| 2018-11-09 | ★ [How Positioning Your Brand Can Increase Your Value](2018-11-09-yt-ODcdMUgsxMI.md) | branding; pricing; sales-clients | value=max-willingness-to-pay, Rolex-vs-Timex, hourly-billing=self-commoditization, become-the-go-to-person; L3-candidate |
+| 2018-11-12 | [How to Deal With a Client — Direction Changes](2018-11-12-yt-P7qZd8_gdTI.md) | sales-clients; pricing | NOT SUBJECT: Matthew Encina role-play; re-anchor-on-goals, change-order/overage; no persona data |
+| 2018-11-15 | [What is UX Design? The Definition of UX](2018-11-15-yt-nV1I_098dzg.md) | design-craft | CONTEXT: unidentified UX instructor (not Chris) |
+| 2018-11-21 | [Grow Your Audience by Creating Micro-content Videos](2018-11-21-yt-JZQ_NZJApH8.md) | content-strategy | CONTEXT: Mark Contas (Futur video team); Chris absent |
+| 2018-11-22 | ★ [Identity Design → Brand Strategy — Deep Dive w/ Melinda Livsey (Ep.12)](2018-11-22-yt-3el7kOfTPK4.md) | branding; business; mindset | Chris coaches Melinda(context): questionnaire→strategy-workshop, order-taker-vs-consultant, symptom-vs-root-cause, knowledge→equity, Dan Sullivan 3-yr question; L3-candidate |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -348,4 +355,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_328 videos ingested (L2) so far._
+_335 videos ingested (L2) so far._

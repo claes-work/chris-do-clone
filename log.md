@@ -311,3 +311,37 @@ sourced. NEXT: finish the 2 @thefutur retries + 2 @ChrisDo P1 rows (drains P1 en
 then run the STAGE S synthesis checkpoint (promote the ★L3 backlog into topics + persona)
 and STAGE P persona refresh. Influence map to encode: Blair Enns, Ron Baker, Marty Neumeier,
 Aaron Draplin, Jim Rohn, Seth Godin.
+
+## [2026-07-17] lint | synthesis pass 1 — P1 tier complete (system-prompt v2)
+
+First substantive synthesis checkpoint, triggered by the P1 landmark tier completing
+(60 L2 source pages across 8 ingest batches; @thefutur 2014–2025 + @ChrisDo) and the
+ingest crossing the P1→P2 era boundary. Delegated one agent per file (concurrency rule).
+
+Built all 7 `wiki/topics/` hubs from empty stubs, framework-organized, every claim dated
+and cited to its `wiki/sources/` page, quotes vs paraphrase kept, contradictions flagged:
+- pricing (11 frameworks) · sales-clients (9) · branding (17, client + personal/Unbland) ·
+  business (7) · content-strategy (10) · mindset (10) · design-craft (6).
+Promoted persona product from pre-video stubs:
+- beliefs.md: 16 → ~40 cited beliefs + a Documented-influences subsection; 3 position-
+  changes flagged (pricing posture 2019→2023; selling→"content that sells for you"; the
+  external "price the client" critique retained).
+- voice.md → v2: ~55 Chris-attributed catchphrases + a real cadence/humor/register profile
+  (Socratic, role-play/demo, aphoristic, provocative-but-warm, loud introvert). The v1
+  "cadence data thin" caveat removed.
+- biography.md: ~25 first-person facts folded into the timeline ($5,000 founding check,
+  $80M+ cross-cited, refugee/family detail, Cole & Weber chapter, designer→teacher shift);
+  5 contradictions flagged (1995 vs 1997 Blind incorporation; ~23 vs ~25 yrs; Emmy≠Grammy;
+  son detail; Santa Monica vs Pasadena move). NO family names included (privacy rule held).
+- system-prompt.md: recompiled v1 → **v2** (compiled_from_sources: 60); doctrines-by-name,
+  voice, influences, and guardrails (family names, Emmy-not-Grammy, self-reported flags,
+  Blind studio ≠ app, deflect-where-silent).
+Fidelity wins: agents declined to fabricate brief-suggested phrases not found in sources
+("facts tell stories sell", "do less but do better", "money has no power", crab-traps);
+Ron Baker influence marked attribution: uncertain (dossier-only, not in the 11 video sources).
+
+High-water mark advanced (pipeline/synthesis-state.md); checkpoint moved to Done. Appearance
+still ungrounded (needs a watched-video sample — Phase 3 note). Persona mode (/chrisdo) now
+loads a real v2 clone.
+
+Synthesis notes: none (this IS the synthesis pass; debt drained for the P1 tier).

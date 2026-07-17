@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-17
-sources: 2
+sources: 13
 ---
 
 # Voice
@@ -12,86 +12,381 @@ sources exist, their **prose voice** (books, posts) separate from their **spoken
 always cited. Only subject-attributed material belongs on this page.
 
 Seeded v1 from [[../wiki/sources/2026-07-14-research-biography-dossier]] and
-[[../wiki/sources/2026-07-14-research-media-inventory-dossier]].
-
-> ⚠️ **Voice data is THIN.** Everything below is drawn from biographical research,
-> book/product copy, and platform headlines — i.e. curated *written* lines and reported
-> phrasings. There is **no transcript ingestion yet**, so the fine grain of his SPOKEN
-> cadence (sentence rhythm, filler, pausing, how he runs a live pricing role-play, how he
-> answers Q&A) is not yet captured. Do not invent spoken-cadence detail. This page should
-> be substantially rewritten once long-form YouTube/podcast transcripts are ingested.
+[[../wiki/sources/2026-07-14-research-media-inventory-dossier]]. **v2 (2026-07-17):**
+rewritten from eleven ingested long-form transcripts (keynotes, workshops, role-plays,
+and one origin-story interview) — the spoken profile below is now evidenced, not inferred.
+Where a line is a slogan he repeats but originally borrowed, the true author is marked; a
+line he merely *cites* from a book/mentor is marked as a citation, not his own coinage.
 
 ## Signature phrases & catchphrases
 
-Direct quotes unless marked otherwise:
+Verbatim unless marked. He runs a compact stock of repeatable, high-torque lines and
+recycles them across talks — many are aphorisms, puns, or inversions engineered to be
+quoted back to him.
 
-- **"Price the client, not the job."** — Direct quote. His single most-identified line;
-  the title of a well-known Futur video and the anchor of his pricing philosophy.
-  ([[../wiki/sources/2026-07-14-research-biography-dossier]] §12)
-- **"Teach 1 billion people to make a living doing what they love."** — Direct quote
-  (The Futur's mission statement, stated in his own voice).
-  ([[../wiki/sources/2026-07-14-research-biography-dossier]] §8)
-- **"The more you, you are, the more you are."** — Direct quote. Core line of the
-  *Unbland Yourself* thesis (Dec 2025). Deliberately looping/aphoristic.
-  ([[../wiki/sources/2026-07-14-research-biography-dossier]] §9)
-- **"I'll teach you to charge so much it makes your mom nervous. Hard truths gently
-  told."** — Direct quote. His 2026 LinkedIn headline; captures the provocative-but-warm
-  register in one line. ([[../wiki/sources/2026-07-14-research-biography-dossier]] §13)
-- **"A Vietnamese person who happens to be in America."** — Direct quote (near-verbatim
-  self-description, Vietcetera 2024). How he frames his own identity.
-  ([[../wiki/sources/2026-07-14-research-biography-dossier]] §1)
-- **"An excavation manual for the person you buried under years of 'best practices' and
-  business jargon."** — Direct quote. The *Unbland Yourself* tagline (product copy /
-  prose voice). ([[../wiki/sources/2026-07-14-research-biography-dossier]] §9)
-- **"Blind" (naming a visual-communication firm)** — his signature use of irony: he finds
-  it productive that a design studio doing *visual* communication is called "Blind"
-  because it "provokes dialogue." Illustrates a habit of ironic, conversation-starting
-  naming rather than a catchphrase per se. `[self-reported, paraphrase of intent + the
-  ironic name itself]` ([[../wiki/sources/2026-07-14-research-biography-dossier]] §5)
+**Selling / serving**
+
+> "Stop selling. You want to close more jobs? Start serving. Different S word. How can I
+> be of service to you?"
+([[../wiki/sources/2019-04-12-yt-ivKnj9ffcmE]]; echoed in
+[[../wiki/sources/2023-12-23-yt-B-NxAZiDkKo]])
+
+> "Whoever asks more questions wins. Whoever asks more questions is in control of the
+> relationship." ([[../wiki/sources/2023-12-23-yt-B-NxAZiDkKo]];
+[[../wiki/sources/2019-04-12-yt-ivKnj9ffcmE]])
+
+> "Amateurs give advice. Experts diagnose." ([[../wiki/sources/2019-04-12-yt-ivKnj9ffcmE]])
+
+> "When you say it, you're selling. When they say it, you're closing."
+([[../wiki/sources/2019-04-12-yt-ivKnj9ffcmE]])
+
+> "Sales is change management." ([[../wiki/sources/2023-12-23-yt-B-NxAZiDkKo]])
+
+> "Sales is not convincing, it's not persuading, it's not manipulation. Selling is
+> helping. It's about being curious. Selling is learning. Selling is an act of
+> generosity." ([[../wiki/sources/2023-12-23-yt-B-NxAZiDkKo]])
+
+> "You're the fish that jumped in the boat." ([[../wiki/sources/2019-04-12-yt-ivKnj9ffcmE]])
+
+**Pricing / worth**
+
+> "The price I give you today will always be the cheapest price. Wait till you see
+> tomorrow's bill. It'll always be more than today."
+([[../wiki/sources/2024-02-24-yt-f5uYRuqK4g0]]) — his single most-repeated pricing line.
+
+> "When you're a company of one, you don't compete on price anymore, you command a
+> premium." ([[../wiki/sources/2024-01-10-yt-h-eRwbbpfxo]])
+
+> "Price does communicate position, so you have to be bold enough to say I'm worth this
+> much." ([[../wiki/sources/2024-01-10-yt-h-eRwbbpfxo]])
+
+> "I'm not in the bid making business, I'm in the getting money from the client to pay me
+> to value me business." ([[../wiki/sources/2019-04-12-yt-ivKnj9ffcmE]])
+
+> "I'll teach you to charge so much it makes your mom nervous. Hard truths gently told."
+> — his 2026 LinkedIn headline; the spoken analog is his mentor "Blen's" Friday-6-PM
+> phone-call test (charge enough that you're *happy* to pick up on your personal time).
+([[../wiki/sources/2026-07-14-research-biography-dossier]] §13;
+[[../wiki/sources/2024-01-10-yt-h-eRwbbpfxo]])
+
+**Brand / personal brand**
+
+> "Brand is a person's gut feeling. It's not what you say it is, it's what they say it
+> is." — his most-used brand definition (he credits Marty Neumeier for the underlying
+> idea). ([[../wiki/sources/2024-01-10-yt-h-eRwbbpfxo]];
+[[../wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]])
+
+> "People don't fall in love with corporations, they fall in love with personalities."
+> — a line he opens brand talks with and repeats often; he attributes it to his friend
+> Yo Santosa and has fully adopted it. ([[../wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]];
+[[../wiki/sources/2024-01-10-yt-h-eRwbbpfxo]])
+
+> "Weak is strong. Perfect is boring. Real is relatable. Stop selling, start serving.
+> Complexity is an enemy. Adversity is an ally." — his personal-branding summary chant.
+([[../wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]])
+
+> "Complexity is the enemy of comprehension, retention and execution."
+([[../wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]])
+
+> "You are the package." ([[../wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]])
+
+> "To name something is for you to own it." / "When you label them you own them."
+([[../wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]])
+
+> "Your complaint can become your calling."
+([[../wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]])
+
+> "Personal branding is not so much an act of creation, it's an act of self-discovery."
+> / "It's not invention, it's memory." ([[../wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]];
+[[../wiki/sources/2023-12-14-yt-1kUCm1JPzxg]])
+
+> "You pretend to be somebody long enough and you forget who you are."
+([[../wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]];
+[[../wiki/sources/2023-12-14-yt-1kUCm1JPzxg]])
+
+> "When everyone zigs, you zag. And everyone zags, you zug… go in the opposite direction
+> of everybody and you will stand out." ([[../wiki/sources/2023-12-14-yt-1kUCm1JPzxg]])
+
+> "True strength comes from weakness. It comes from vulnerability."
+([[../wiki/sources/2023-12-14-yt-1kUCm1JPzxg]])
+
+> "We can smell intention a mile away." ([[../wiki/sources/2023-12-14-yt-1kUCm1JPzxg]])
+
+> **"loud introvert"** — his own signature two-word self-brand, which he cheerfully admits
+> is imperfect ("it's not a great example of a two-word brand, but it's mine, I'm using
+> it"). ([[../wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]];
+[[../wiki/sources/2023-12-14-yt-1kUCm1JPzxg]])
+
+**Mindset / reframing**
+
+> "If you don't like your story just change it. It's that easy."
+([[../wiki/sources/2019-08-12-yt-f7T1Zs28Deo]])
+
+> "Your life really depends on how you look at the world. What do you see?"
+([[../wiki/sources/2019-08-12-yt-f7T1Zs28Deo]])
+
+> "That's just your BS." — his belief-system pun (BS = Belief System).
+([[../wiki/sources/2019-08-12-yt-f7T1Zs28Deo]])
+
+> "I'm not afraid of the word failure, because I know failure's the tuition I pay for
+> future success." ([[../wiki/sources/2019-08-12-yt-f7T1Zs28Deo]])
+
+> "When something bad happens, say congratulations — and then find one reason why this
+> could be exciting news for you." — his bad-news reframe.
+([[../wiki/sources/2019-08-12-yt-f7T1Zs28Deo]])
+
+> "Impossible can just be reinterpreted as I'm possible." / "Isn't fail just a first
+> attempt in learning?" — his "War Jitsu" word-reframes.
+([[../wiki/sources/2019-08-12-yt-f7T1Zs28Deo]])
+
+> "Legitimate I win, illegitimate I still win even more — I win both ways. You see, I like
+> to design my life." ([[../wiki/sources/2019-08-12-yt-f7T1Zs28Deo]])
+
+> "Limiting beliefs are just lies we tell ourselves."
+([[../wiki/sources/2019-08-12-yt-f7T1Zs28Deo]])
+
+> "Dress for the job you want, not the job you have." — closing career line (borrowed
+> idiom he leans on). ([[../wiki/sources/2019-08-12-yt-f7T1Zs28Deo]])
+
+> "Every problem is an opportunity in disguise." / "Obstacles are a gift."
+([[../wiki/sources/2021-03-16-yt-XH-wD0Jbo5Y]])
+
+> "For me, fortune favors the bold. Go down the different path."
+([[../wiki/sources/2021-03-16-yt-XH-wD0Jbo5Y]])
+
+> "It never got easy, but it got easier." ([[../wiki/sources/2021-03-16-yt-XH-wD0Jbo5Y]])
+
+> "How you respond to an obstacle equals your outcome. O-R-E-O." — his OREO acronym.
+([[../wiki/sources/2021-03-16-yt-XH-wD0Jbo5Y]])
+
+> "You are more than what you make." ([[../wiki/sources/2021-03-16-yt-XH-wD0Jbo5Y]])
+
+> "No pitching, no selling, just give value." — the rule he set for his early YouTube
+> content, now a mantra. ([[../wiki/sources/2021-03-16-yt-XH-wD0Jbo5Y]])
+
+**Discipline / wealth**
+
+> "Every time you say yes to something, you're saying no to something else." / "hell yeah
+> or hell no." — the latter he credits to Derek Sivers.
+([[../wiki/sources/2025-03-11-yt-f6YiuU-P-6E]])
+
+> "Saying no more often gives power to your yes, because if everything's a yes, your yeses
+> have little meaning." ([[../wiki/sources/2025-03-11-yt-f6YiuU-P-6E]])
+
+> "Success has many fathers but failure has one mother."
+([[../wiki/sources/2025-03-11-yt-f6YiuU-P-6E]])
+
+> "When misery sends you the invitation to the pity party, send that invitation back."
+([[../wiki/sources/2025-03-11-yt-f6YiuU-P-6E]])
+
+> "Scarce things are valuable. Do the difficult work."
+([[../wiki/sources/2025-03-11-yt-f6YiuU-P-6E]])
+
+> "Comparison is the thief of joy… the only comparison that's worthwhile is the comparison
+> with your old self." ([[../wiki/sources/2025-03-11-yt-f6YiuU-P-6E]])
+
+> "Love learning, but love applying more… learning for learning's sake is some form of
+> mental masturbation." ([[../wiki/sources/2025-03-11-yt-f6YiuU-P-6E]])
+
+**Permission / teaching**
+
+> "Who? They? Who? … no one can name the 'they.' The 'they' do not exist… you look at
+> this person in a mirror. It's you. I'm going to make a shirt: WHO THEY." — his "who is
+> *they*?" riff. ([[../wiki/sources/2024-01-10-yt-h-eRwbbpfxo]])
+
+> "We're all just looking for permission from somebody… so give yourself the permission
+> slip." ([[../wiki/sources/2024-01-10-yt-h-eRwbbpfxo]])
+
+> "Decide and you will be. Stop letting someone else tell you what you are. Decide it and
+> be it. Fake it till you make it." ([[../wiki/sources/2024-01-10-yt-h-eRwbbpfxo]])
+
+> "When we can become an observer of the world, the world becomes our school and
+> everything becomes our teacher." / "The whole world is your classroom."
+([[../wiki/sources/2020-06-09-yt-ujxvy5NjeRQ]];
+[[../wiki/sources/2024-01-10-yt-h-eRwbbpfxo]])
+
+> "If you can't explain it simply, you just don't know it."
+([[../wiki/sources/2020-06-09-yt-ujxvy5NjeRQ]])
+
+> "When one teaches, two learn." — a borrowed line he flags as "not even mine."
+([[../wiki/sources/2020-06-09-yt-ujxvy5NjeRQ]])
+
+> "I love to be wrong." / "The more you try, the less you have to fear."
+([[../wiki/sources/2020-06-09-yt-ujxvy5NjeRQ]])
+
+> "I'm just here for the action takers."
+([[../wiki/sources/2023-12-14-yt-1kUCm1JPzxg]])
+
+**On himself (recurring self-tags)**
+
+> "I'm unemployable. I cannot work for people… because I'm too stubborn."
+([[../wiki/sources/2024-02-24-yt-f5uYRuqK4g0]])
+
+> "Let's leave the golden goose and let's jump on the pirate ship and see what happens."
+> — how he framed leaving his agency for The Futur.
+([[../wiki/sources/2024-02-24-yt-f5uYRuqK4g0]])
+
+> "I'm a formula guy — if it works, I do it again."
+([[../wiki/sources/2023-12-14-yt-1kUCm1JPzxg]])
+
+*Note on phrases from the v1 dossier not yet found verbatim in transcripts:* "the more
+you, you are, the more you are" and the *Unbland Yourself* tagline remain sourced only to
+[[../wiki/sources/2026-07-14-research-biography-dossier]] (§9). Suggested lines like
+"facts tell, stories sell" and "do less but do better" were **not** found in the ingested
+transcripts — the closest evidenced construct is his **three Fs** ("facts, feelings, and
+fun," credited to Brendan/Brandon Kane), so those unverified slogans are omitted rather
+than invented. ([[../wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]];
+[[../wiki/sources/2024-01-10-yt-h-eRwbbpfxo]])
 
 ## Cadence & delivery
 
-Supportable from current sources (written/headline voice only — see the THIN warning):
+The spoken profile is now well-evidenced across keynotes, workshops, and role-plays.
 
-- **Educator/mentor register.** He speaks and writes as a teacher and coach to creatives,
-  not as a hype marketer. Frame is instructive: he is here to teach you something specific
-  about money, sales, and self-worth. ([[../wiki/sources/2026-07-14-research-biography-dossier]] §7–8)
-- **Provocative but warm — "hard truths gently told."** His own summary of his delivery:
-  the *content* is uncomfortable (charge more, confront your self-worth), the *tone* is
-  gentle rather than combative. ([[../wiki/sources/2026-07-14-research-biography-dossier]] §13)
-- **Aphoristic and looping.** His memorable lines fold back on themselves ("The more you,
-  you are, the more you are") or invert expectations ("price the client, not the job").
-  ([[../wiki/sources/2026-07-14-research-biography-dossier]] §9, §12)
-- **Non-defensive under attack.** Faced with "fraud"/"fake guru" criticism he answered by
-  amplifying it rather than rebutting — a calm, disarming posture.
-  ([[../wiki/sources/2026-07-14-research-biography-dossier]] §12)
-
-**Not yet captured (needs transcript ingestion):** sentence-level rhythm, use of the
-Socratic question-first teaching style associated with his role-plays, humor delivery,
-signature transitions/fillers, how he opens and closes a talk. Do not fabricate these.
+- **Socratic / question-first.** His default teaching move is to answer a question with a
+  question and to model diagnosis over prescription. In live pricing role-plays he
+  narrates the technique in real time: "you notice when you ask me a question, what's the
+  first thing that I do? I ask you more questions."
+  ([[../wiki/sources/2019-04-12-yt-ivKnj9ffcmE]];
+  [[../wiki/sources/2023-12-23-yt-B-NxAZiDkKo]])
+- **Role-play / demo mode — voices both sides.** A signature format: he plays the
+  designer *and* voices the client ("Sarah," "Carrie," "Ernie," "Jody"), acting out the
+  whole exchange, then breaks the fourth wall to debrief what just happened ("Tell me
+  what I sold. I sold nothing"). He'll switch into a client's objection and answer it live.
+  ([[../wiki/sources/2018-04-04-yt--C01FC27Jg0]];
+  [[../wiki/sources/2019-04-12-yt-ivKnj9ffcmE]];
+  [[../wiki/sources/2023-12-23-yt-B-NxAZiDkKo]])
+- **Storytelling through personal anecdote.** He teaches almost everything through a
+  named story from his own life — the $30k loss "graduate degree," the report-card
+  forgery, the "fish you" phishing hat, the "Rift Dagger" render specialist, the $5,000
+  founding check at the Westin Bonaventure. He frequently structures a whole talk on a
+  narrative arc (explicitly builds his reinvention keynote on the hero's journey).
+  ([[../wiki/sources/2024-02-24-yt-f5uYRuqK4g0]];
+  [[../wiki/sources/2019-08-12-yt-f7T1Zs28Deo]];
+  [[../wiki/sources/2021-03-16-yt-XH-wD0Jbo5Y]])
+- **Aphoristic one-liners as punctuation.** He compresses each point into a portable,
+  quotable line (see catchphrases above) — often an inversion ("price the client, not the
+  job"), a pun ("that's just your BS," O-R-E-O), or a rule of three ("facts, feelings,
+  fun"; "weak is strong, perfect is boring, real is relatable").
+  ([[../wiki/sources/2019-08-12-yt-f7T1Zs28Deo]];
+  [[../wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]])
+- **Provocative but warm — "hard truths gently told."** Even when the content confronts
+  (charge more, your armor is heavy, you're a "placating wiener"), the posture stays on
+  the listener's side. In negotiation he stays warm and lightly teasing/flirtatious with
+  the "client," describing his own emotional aim as: "if I can make you laugh and teach
+  you something, I'm gonna win." ([[../wiki/sources/2018-04-04-yt--C01FC27Jg0]];
+  [[../wiki/sources/2026-07-14-research-biography-dossier]] §13)
+- **"Loud introvert" energy.** He tells audiences he's socially awkward, a self-described
+  nerd, and hated the sound of his own voice on camera — then performs confidently anyway.
+  The register is a self-aware introvert who has *decided* to be loud.
+  ([[../wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]];
+  [[../wiki/sources/2021-03-16-yt-XH-wD0Jbo5Y]])
+- **Whiteboard / live-math.** He teaches at a whiteboard and works numbers out loud in
+  front of the room — running a value chain live ("400,000 to make 480,000… 10% is 48,
+  I'll charge you 40"), or diagramming a photo's lighting. Fifteen years teaching in
+  small art-school classrooms is where this fluency comes from ("you either get good or
+  you go home"). ([[../wiki/sources/2019-04-12-yt-ivKnj9ffcmE]];
+  [[../wiki/sources/2020-06-09-yt-ujxvy5NjeRQ]];
+  [[../wiki/sources/2024-02-24-yt-f5uYRuqK4g0]])
+- **Cites books and mentors constantly.** He name-drops sources as scaffolding — Marty
+  Neumeier, Blair Enns, Seth Godin, Al Ries & Jack Trout, Peter Drucker, Ryan Holiday,
+  Jim Rohn, Derek Sivers, Robert McKee, Carl Jung, Zoe Chance, Michael Bungay Stanier,
+  plus mentors Kier McLaren, Kyle Cooper, and "Blen." He is careful to attribute, and
+  will hedge attribution aloud when unsure ("it's Aristotle, I believe").
+  ([[../wiki/sources/2023-12-23-yt-B-NxAZiDkKo]];
+  [[../wiki/sources/2020-06-09-yt-ujxvy5NjeRQ]];
+  [[../wiki/sources/2025-03-11-yt-f6YiuU-P-6E]])
+- **Repetition and callback.** He restates the same line at multiple beats of a talk
+  ("stop selling, start serving" reappears across years and talks), and closes with a
+  "lightning recap" that re-lists the framework. Structure is explicit and numbered
+  (six points; ten habits; five ingredients; SALES acronym; AIDCA).
+  ([[../wiki/sources/2019-04-12-yt-ivKnj9ffcmE]];
+  [[../wiki/sources/2025-03-11-yt-f6YiuU-P-6E]])
 
 ## Vocabulary & register
 
-- Talks fluently in the vocabulary of both **design craft** (typography, letterforms,
-  motion graphics, packaging, constructivism) and **business** (positioning, value,
-  pricing, sales, negotiation, brand strategy) — and deliberately bridges the two.
-  ([[../wiki/sources/2026-07-14-research-biography-dossier]] §2, §5)
-- Frames money bluntly (charge more; the money conversation) but affirmingly.
-  ([[../wiki/sources/2026-07-14-research-biography-dossier]] §13)
+- **Educator/mentor register**, not hype-marketer. He frames himself as teacher,
+  hyper-learner, and coach — "an educator, hyper-learner, who happens to live in the
+  intersection between design and entrepreneurship." Warm, direct, second-person "you";
+  he swaps intimidating words for gentler ones on purpose (uses "share" instead of
+  "teach"; "align or decline" instead of "sell").
+  ([[../wiki/sources/2021-03-16-yt-XH-wD0Jbo5Y]];
+  [[../wiki/sources/2020-06-09-yt-ujxvy5NjeRQ]];
+  [[../wiki/sources/2023-12-23-yt-B-NxAZiDkKo]])
+- **Bridges design craft and business fluently.** In one breath he'll discuss typography,
+  silhouette, color, and letterforms; in the next, positioning, value proposition,
+  premium pricing, karmic equity, and psychographics — and he explicitly bridges the two
+  worlds ("creatives who want to be entrepreneurs and entrepreneurs who want to be
+  creative"). ([[../wiki/sources/2024-01-10-yt-h-eRwbbpfxo]];
+  [[../wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]])
+- **Frameworks, acronyms, and named systems.** He packages ideas as ownable IP: **SALES**
+  (Serve, Ask, Listen, Empathize, Summarize), **OREO** (Obstacle-Response = Outcome),
+  **AIDCA**, the **three Fs**, the **two-word brand**, the **five ingredients**, the
+  **80/20 reinvention** rule. He advises others to name their own systems, and practices
+  what he preaches with the "-do" naming game (donuts, dojo, daily dose, raw do).
+  ([[../wiki/sources/2023-12-23-yt-B-NxAZiDkKo]];
+  [[../wiki/sources/2021-03-16-yt-XH-wD0Jbo5Y]];
+  [[../wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]])
+- **Money talk is blunt but affirming.** He says the uncomfortable number plainly ("$5,000
+  an hour," "charge so much it makes your mom nervous," "because I'm a bastard") while
+  reframing it as service and self-worth rather than greed.
+  ([[../wiki/sources/2024-01-10-yt-h-eRwbbpfxo]];
+  [[../wiki/sources/2024-02-24-yt-f5uYRuqK4g0]])
+- **Self-deprecation as vocabulary.** He routinely casts himself as the fool: "I'm the
+  idiot usually in the story," "unemployable," "cranky bastard," "design snob… it's a
+  disease," "people-pleaser / middle child," a "slow reader," and admits his own brand
+  wasn't strategic ("I'm a formula guy"). The self-lowering is habitual and load-bearing
+  in his rhetoric. ([[../wiki/sources/2023-12-14-yt-1kUCm1JPzxg]];
+  [[../wiki/sources/2024-01-10-yt-h-eRwbbpfxo]];
+  [[../wiki/sources/2024-02-24-yt-f5uYRuqK4g0]])
 
 ## Humor
 
-- Dry irony, most visibly in naming (a visual-comms firm called "Blind") and in the
-  self-aware "makes your mom nervous" framing. Beyond these, humor detail is not yet
-  documented — flag for transcript ingestion.
-  ([[../wiki/sources/2026-07-14-research-biography-dossier]] §5, §13)
+- **Dry, deadpan irony.** Delivers provocations flat and lets them land — naming his
+  design studio "Blind"; a would-be sales book "dofu"; "I priced it high so I can go
+  shopping"; "if there's not an eight in front of that number I'm not even interested."
+  ([[../wiki/sources/2024-01-10-yt-h-eRwbbpfxo]];
+  [[../wiki/sources/2024-02-24-yt-f5uYRuqK4g0]])
+- **Self-deprecation as the main comedic engine.** Most jokes are at his own expense —
+  the report-card forgery ("that's how I learned forgery, pre-Photoshop"), community
+  college as "purgatory… for Asian kids," calling himself a "cranky bastard" and former
+  "placating wiener," "I'm the idiot usually in the story."
+  ([[../wiki/sources/2024-02-24-yt-f5uYRuqK4g0]];
+  [[../wiki/sources/2023-12-14-yt-1kUCm1JPzxg]])
+- **Teasing role-play of clients.** In negotiation demos he plays the client for comic
+  effect and gently mocks bad buyer behavior ("throwing shade on your competition,"
+  "you make an ass out of you — just mostly you, and sometimes me"), and jokes about
+  merch ("I'm going to make a shirt: WHO THEY").
+  ([[../wiki/sources/2019-04-12-yt-ivKnj9ffcmE]];
+  [[../wiki/sources/2024-01-10-yt-h-eRwbbpfxo]])
+- **Pop-culture and film references.** He reaches for movies and TV as teaching devices —
+  *The Sixth Sense* (retroactive storytelling), *Blade Runner* ("the candle that burns
+  twice as bright…") and *Blade Runner 2049* (color grading), Stan Lee/Spider-Man origin,
+  Marvel multiverse, *Star Wars* Star Destroyer lighting, the Netflix cult docuseries.
+  His film-title-design background feeds a habit of close visual analysis.
+  ([[../wiki/sources/2019-08-12-yt-f7T1Zs28Deo]];
+  [[../wiki/sources/2024-02-24-yt-f5uYRuqK4g0]];
+  [[../wiki/sources/2020-06-09-yt-ujxvy5NjeRQ]];
+  [[../wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]])
+- **Wordplay and puns.** "That's just your BS" (belief system), O-R-E-O, "War Jitsu,"
+  "impossible → I'm possible," the whole "-do" naming system.
+  ([[../wiki/sources/2019-08-12-yt-f7T1Zs28Deo]];
+  [[../wiki/sources/2021-03-16-yt-XH-wD0Jbo5Y]])
 
 ## Prose voice (writing / product copy)
 
-- Punchy, workbook-style, second-person and confrontational-but-caring: the reader is
-  someone he's helping "excavate" a buried self. Best current exemplar is the *Unbland
-  Yourself* copy ("an excavation manual for the person you buried under years of 'best
-  practices' and business jargon"). Also authors *Pocket Full of Do* (2019) — a
-  collection of short, aphoristic lessons (title itself a pun on his surname).
+Spoken evidence dominates for now; the written voice is documented mainly through book
+and product copy plus reported LinkedIn behavior.
+
+- **Aphoristic, workbook style.** His book *Pocket Full of Do* (2019) is a collection of
+  short, aphoristic lessons — the title itself a pun on his surname — matching the
+  compressed one-liner rhythm of his spoken catchphrases. The *Unbland Yourself* copy is
+  punchy, second-person, and confrontational-but-caring ("an excavation manual for the
+  person you buried under years of 'best practices' and business jargon").
   ([[../wiki/sources/2026-07-14-research-biography-dossier]] §9;
   [[../wiki/sources/2026-07-14-research-media-inventory-dossier]])
+- **LinkedIn tone: vulnerability over boast.** By his own account his best-performing
+  posts are the vulnerable ones — the pain of accepting his Emmy (shaking knees), his
+  introvert/painful moments — which outperform his triumphant posts roughly 3:1. He
+  writes toward the low-5%, not the highlight reel.
+  ([[../wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]];
+  [[../wiki/sources/2023-12-14-yt-1kUCm1JPzxg]])

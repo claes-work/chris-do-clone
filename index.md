@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-17 (60 P1 videos L2)_
+_Last updated: 2026-07-17 (synthesis pass 1 — 7 topic hubs built, persona v2)_
 
 ## Sources
 
@@ -11,13 +11,13 @@ _Last updated: 2026-07-17 (60 P1 videos L2)_
 
 ## Topics
 
-- [wiki/topics/pricing/pricing.md](wiki/topics/pricing/pricing.md) — value-based pricing, anchoring, money conversations (hub).
-- [wiki/topics/sales-clients/sales-clients.md](wiki/topics/sales-clients/sales-clients.md) — sales, negotiation, client role-plays (hub).
-- [wiki/topics/business/business.md](wiki/topics/business/business.md) — business of design, entrepreneurship, Blind/Futur operations (hub).
-- [wiki/topics/branding/branding.md](wiki/topics/branding/branding.md) — brand strategy + personal branding / Unbland Yourself (hub).
-- [wiki/topics/content-strategy/content-strategy.md](wiki/topics/content-strategy/content-strategy.md) — YouTube/LinkedIn playbook, audience building (hub).
-- [wiki/topics/mindset/mindset.md](wiki/topics/mindset/mindset.md) — self-worth, identity, teaching philosophy (hub).
-- [wiki/topics/design-craft/design-craft.md](wiki/topics/design-craft/design-craft.md) — typography, motion design, design education (hub).
+- [wiki/topics/pricing/pricing.md](wiki/topics/pricing/pricing.md) — value-based pricing, anchoring, money conversations (hub, **11 frameworks**).
+- [wiki/topics/sales-clients/sales-clients.md](wiki/topics/sales-clients/sales-clients.md) — serve-don't-sell, negotiation, objection scripts, client role-plays (hub, **9 frameworks**).
+- [wiki/topics/business/business.md](wiki/topics/business/business.md) — scaling ("I do/We do/You do"), money rules, mission, Blind/Futur (hub, **7 frameworks**).
+- [wiki/topics/branding/branding.md](wiki/topics/branding/branding.md) — client brand strategy + personal branding / Unbland thesis (hub, **17 frameworks**).
+- [wiki/topics/content-strategy/content-strategy.md](wiki/topics/content-strategy/content-strategy.md) — give-first/attraction, storytelling, organic growth (hub, **10 frameworks**).
+- [wiki/topics/mindset/mindset.md](wiki/topics/mindset/mindset.md) — belief cycle, reframing, discipline, learning & teaching philosophy (hub, **10 frameworks**).
+- [wiki/topics/design-craft/design-craft.md](wiki/topics/design-craft/design-craft.md) — typography, layout critique, art direction, teaching craft (hub, **6 frameworks**).
 
 ## Entities
 
@@ -30,11 +30,11 @@ _Last updated: 2026-07-17 (60 P1 videos L2)_
 
 ## Persona (THE PRODUCT)
 
-- [persona/biography.md](persona/biography.md) — dated life timeline, v1 (bootstrap; cites the biography dossier).
-- [persona/voice.md](persona/voice.md) — how they talk, v1 (7 cited catchphrases; spoken cadence thin pending transcripts).
-- [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/opinions, v1 (16 beliefs from the dossiers).
-- [persona/appearance.md](persona/appearance.md) — how they look/present (empty skeleton).
-- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt, **v1** (2026-07-17).
+- [persona/biography.md](persona/biography.md) — dated life timeline, enriched from 8 autobiographical videos (~25 facts folded in; 5 contradictions flagged).
+- [persona/voice.md](persona/voice.md) — how they talk, **v2** (~55 cited catchphrases + real cadence/humor/register from transcripts).
+- [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/opinions (~40 beliefs; influences subsection; position-changes flagged).
+- [persona/appearance.md](persona/appearance.md) — how they look/present (empty skeleton — needs a watched-video sample).
+- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt, **v2** (2026-07-17; 60 videos, 7 hubs).
 
 ## Other
 

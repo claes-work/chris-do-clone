@@ -372,3 +372,32 @@ topics/sales-clients (the qualification triad, role-play format, and objection�
 trace to Aug–Sep 2014). NEW context entity: Rocio Villalobos (2014 guest). Now entering the P2
 long-tail (@thefutur ~1,059 P2 + 44 P3, + @TheFuturAcademy 72 P3 catalog-tier) — expect lower
 per-video novelty; promote sparingly, synthesize every ~10 batches.
+
+## [2026-07-17] ingest | yt batch (@thefutur, 8) — P2 early-2015 ("The Process" era)
+
+Tenth video batch (75 L2 total). First P2 long-tail batch — early-2015 Skool→"The Process"
+era, all co-hosted with Jose Caballer. 7 substantive L2 + 1 minimal context page. 2 ★L3.
+- ★ Trojan Storage Branding Case Study (2015-03-24) — a full end-to-end client identity
+  WORKFLOW not yet in the branding hub: CORE user-profiling, "mind-walking" empathy map,
+  6-category brand definition (Neumeier), scaffolding (Holtzman), fit-check, stylescapes
+  review, fun↔functional sweet-spot, "straight-line system" PM (Belfort); 12 Chris quotes.
+- ★ How to Position a Brand (2015-04-28) — the "WIN" three-circle Venn (love / good-at /
+  pays-well; pick one), match-and-mirror, "say it first"; credits Ries & Trout (*Positioning*)
+  + Neumeier; 7 Chris quotes.
+- 2 GUEST eps firewalled as context: Sue Parker (Frank Creative agency model — caught the
+  "money is respect / walk away" maxim being HERS, not Chris's), Mark Fidelman (social media,
+  early-2015 tactics). 
+- 2 design critiques (Akin; Leigh O'Brien) — Chris's critique lens = persona; recurring
+  portfolio/showreel principles (single-claim positioning, best-work-first, T-shaped,
+  "no filler all killer"), not distinct enough for L3.
+- Design for Startups — Jose-led (his teaching kept as context), Chris co-host.
+- Multi-Camera Live Streaming Setup — technical AV tutorial, 0 Chris persona content →
+  minimal context page (presenter unnamed; likely Chris but attribution: uncertain).
+
+Synthesis notes: debt 2 batches / checkpoint 10. Two ★L3 to fold at the next checkpoint:
+add the Trojan Storage OPERATIONAL client-branding workflow (CORE/stylescapes/scaffolding/
+straight-line) to topics/branding (currently philosophy-only), and the WIN positioning Venn
+to topics/branding + persona/beliefs. Data point: early "The Process" episodes are Jose-heavy
+and guest-heavy — per-video Chris novelty is lower in P2; keep filtering, promote sparingly.
+New context entities: Sue Parker, Mark Fidelman, Rocio (prev). Show naming history captured:
+"The Skool Live" → "The Process" (rebrand noted early 2015).

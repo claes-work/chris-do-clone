@@ -19,6 +19,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2014-09-17 | ★ [Overcoming Client Objections](2014-09-17-yt-OuOL8xQGpyE.md) | sales-clients; business | seed of objection-handling (price→value pivot); Skool-era |
 | 2014-09-17 | [Why Social Media Matters to Designers](2014-09-17-yt-KadIcPiw9lU.md) | content-strategy; business | early (2014) positions; platform specifics dated |
 | 2014-09-30 | ★ [Confidence, Culture & Money](2014-09-30-yt-KDlAjE-2JQM.md) | mindset; business | early money-mindset root; guest Rocio (context) |
+| 2015-01-28 | [New Agency Model — w/ Sue Parker](2015-01-28-yt-vfSLpMCUffA.md) | business | guest (Parker = context); 3 Chris quotes |
+| 2015-02-11 | [Social Media to Grow Business — w/ Mark Fidelman](2015-02-11-yt-ItvgJ3o5CS0.md) | content-strategy; business | guest (Fidelman = context); early positions |
+| 2015-03-24 | ★ [Trojan Storage — Branding Case Study](2015-03-24-yt-FYHD1fBKZDk.md) | branding; design-craft; business | end-to-end client identity workflow (CORE/stylescapes); L3-candidate |
+| 2015-04-07 | [How to Design for Startups](2015-04-07-yt-gmP1ac0xpQA.md) | design-craft; business | Jose-led; Chris co-host |
+| 2015-04-28 | ★ [How to Position a Brand](2015-04-28-yt-KSGzJiK9Uz8.md) | branding; business | WIN positioning Venn (love/good-at/pays-well); L3-candidate |
+| 2015-05-23 | [Critiquing Your Design — Akin](2015-05-23-yt-AC_UlCfltDE.md) | design-craft | portfolio/site critique; recurring craft principles |
+| 2015-06-04 | [Multi-Camera Live Streaming Setup](2015-06-04-yt-deCS7nTkOlY.md) | content-strategy | technical/production tutorial — context only (0 Chris) |
+| 2015-06-19 | [Critiquing Your Design — Leigh O'Brien](2015-06-19-yt-HedbL5OC718.md) | design-craft | showreel/portfolio presentation critique |
 | 2015-07-10 | [My (First) Design Portfolio](2015-07-10-yt-hqYIe5Y76oY.md) | design-craft; branding; business | Skool-era co-host (Chris+Jose); positioning/portfolio |
 | 2015-08-12 | [What is UX Design?](2015-08-12-yt-CJnfAXlBRTE.md) | design-craft; sales-clients; branding | Skool-era; mostly Jose-led UX process |
 | 2015-08-22 | [UX Design 1: Site Audit](2015-08-22-yt-vSx2wayTk0g.md) | design-craft; sales-clients; branding | Skool-era; co-led w/ Jose |
@@ -87,4 +95,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_67 videos ingested (L2) so far._
+_75 videos ingested (L2) so far._

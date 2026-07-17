@@ -3,7 +3,7 @@ type: hub
 domain: content-strategy
 domains: [content-strategy]
 updated: 2026-07-17
-tags: [content-strategy, audience-building, organic-growth, storytelling, attraction-marketing, permission-marketing, community, movement, give-first, awareness-funnel, portfolio, show-your-work, process-not-product]
+tags: [content-strategy, audience-building, organic-growth, storytelling, attraction-marketing, permission-marketing, community, movement, give-first, karmic-equity, awareness-funnel, portfolio, show-your-work, process-not-product, youtube-strategy, thumbnails, cold-open]
 ---
 
 # Content Strategy — hub
@@ -53,9 +53,35 @@ for as long as possible, before you ask for anything.
   feeling people have about your values; you earn it by consistently showing up and
   giving with no strings. `[2025-05-31]` [[wiki/sources/2025-05-31-yt-RCocxOMQD3M]]
 
-- **Karmic-equity / new brand ROI** (from the AdobeMAX keynote): doing good while
-  expecting nothing compounds exponentially — but *every ask resets the account to
-  zero*. `[2023-12-19]` [[wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]]
+- **"Stop selling" — the 2018 origin of the give-first directive** (and the earliest use
+  of the **"karmic equity"** label). Asked the two questions he's asked most — how to
+  build communities and what content strategy to use — his answer is "really really
+  simple: stop selling." Audiences have become "hypersensitive" to being sold to, and the
+  moment you start selling, your credibility, authenticity, and whole value proposition
+  "goes out the door." Instead, create value and give away as much as you can — "short of
+  making yourself go into bankruptcy"; when you *do* pitch, make it very clear you're
+  pitching. `[2018-09-09]` [[wiki/sources/2018-09-09-yt-V-uLjNG73ho]]
+
+  > "The minute you start selling, your credibility, authenticity, your whole value
+  > proposition goes out the door." — Chris Do `[2018-09-09]`
+
+  > "In the whole spirit of karmic equity, the more you give out there, the more people
+  > get back to you." — Chris Do `[2018-09-09]`
+
+  > "When you give so wholly and without expectation, people will reciprocate... the
+  > beauty of humanity and our civilization. Just give stuff away." — Chris Do
+  > `[2018-09-09]`
+
+  **2018 proof-numbers** `[self-reported, 2018-09-09]`
+  [[wiki/sources/2018-09-09-yt-V-uLjNG73ho]]: The Futur growing "300% year over year," in
+  its fourth year of business with no visible ceiling; **517 members giving $5/month** (a
+  growing number), cited as evidence that giving "wholly and without expectation" prompts
+  reciprocity. Treat as a 2018-dated snapshot, not current.
+
+- **Karmic-equity / new brand ROI** (from the AdobeMAX keynote; the "karmic equity" label
+  he coined in 2018, above): doing good while expecting nothing compounds exponentially —
+  but *every ask resets the account to zero*. `[2023-12-19]`
+  [[wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]]
 
   > "Every time you do something that's good and you expect nothing in return... it builds
   > exponentially. But every time you ask for something it resets back to zero." — Chris
@@ -805,6 +831,82 @@ mechanics and the §6 platform-register prism.
 
 ---
 
+## 17. His own YouTube / video-making playbook + "their fear is our opportunity" (2018)
+
+Chris's concrete craft-level playbook for making YouTube videos that get watched and
+shared — the video-production layer beneath the audience-building philosophy above —
+plus the content *thesis* that justifies why an accomplished professional should even be
+on the platform. Drawn from a 2018 talk teaching The Futur's own YouTube playbook. He
+credits **Casey Neistat, Peter McKinnon, Phil DeFranco, and Aaron Draplin** as the
+creators he studied — they are CONTEXT influences/examples, not sources of persona
+material. `[2018-08-06]` [[wiki/sources/2018-08-06-yt-6GMYDlGtHo8]]
+
+- **Thumbnails largely decide the click — use your face, text on the left.** Humans are
+  drawn to look at other humans' faces (he cites an advertising study about eyes looking
+  at camera), so a face-forward thumbnail wins; put big, descriptive text on the **left**
+  because on mobile the timestamp sits bottom-right. `[2018-08-06]`
+  [[wiki/sources/2018-08-06-yt-6GMYDlGtHo8]]
+
+  > "I hate to say this but the thumbnail has a lot to do with whether or not somebody's
+  > going to click on it." — Chris Do `[2018-08-06]`
+
+- **The "cold open."** A TV term: skip the title sequence and jump straight into the most
+  exciting/"craziest" moment — content doesn't have to be linear. Immediately after,
+  tell viewers what they're going to see, or they'll feel their time is wasted and leave.
+  `[2018-08-06]` [[wiki/sources/2018-08-06-yt-6GMYDlGtHo8]]
+
+  > "Don't begin at the beginning on this one. Begin where it's exciting... the car chase,
+  > the shootout, the bank robbery, the emotional breakup. Something bananas." — Chris Do
+  > `[2018-08-06]`
+
+- **Host with high energy + an on-camera persona and a signature prop.** Develop "a
+  personality or persona that is you but not 100% you"; a recurring prop or signature
+  (Peter McKinnon's coffee, Aaron Draplin's hat — both CONTEXT) becomes part of your
+  character and audiences come to expect it. `[2018-08-06]`
+  [[wiki/sources/2018-08-06-yt-6GMYDlGtHo8]]
+
+  > "You have to start to develop a personality or persona that is you but not 100% you."
+  > — Chris Do `[2018-08-06]`
+
+- **A catchphrase / signature intro-and-outro.** Like Phil DeFranco's identical in/out
+  on every video (CONTEXT) — a repeatable catchphrase becomes your signature "and it
+  helps out a lot." `[2018-08-06]` [[wiki/sources/2018-08-06-yt-6GMYDlGtHo8]]
+
+- **No growth hack — quality plus time.** There's no secret formula or shortcut; make
+  high-quality content, great thumbnails, host well, be consistent, and the reward comes.
+  `[2018-08-06]` [[wiki/sources/2018-08-06-yt-6GMYDlGtHo8]] (Consistent with the §16
+  quality-over-frequency stance and §5 consistency mechanics.)
+
+  > "Everybody wants a secret formula, a growth hack, some kind of shortcut. The real
+  > thing is it takes time." — Chris Do `[2018-08-06]`
+
+- **What makes content get shared: strong emotion + a point of view + a broad topic.**
+  Shareable content stirs a strong emotion (positive or negative) and takes a stance —
+  "riding in the middle" doesn't engage anyone; and broader, more *universal* topics beat
+  narrow tutorials (a "don't work overtime" video reaches everyone; a "fix camera shake
+  in Premiere" tutorial shrinks the audience). People share for two reasons: it could
+  help someone they know, or it strengthens their own argument — leveraging confirmation
+  bias. `[2018-08-06]` [[wiki/sources/2018-08-06-yt-6GMYDlGtHo8]]
+
+  > "The more it appeals to a broader audience and [the] more universal the content is,
+  > the better it is." — Chris Do `[2018-08-06]`
+
+- **The content thesis — "their fear is our opportunity."** Experienced older
+  professionals *should* be publishing, because the platform is dominated by young
+  creators with big personalities but little real-world accomplishment giving poor
+  information — yet the accomplished practitioners who *could* fill the gap are too busy
+  running their agencies, don't value the platforms, or won't talk transparently about
+  money, clients, and process. That reluctance is the market gap The Futur exploits by
+  speaking honestly and transparently about real work. `[2018-08-06]`
+  [[wiki/sources/2018-08-06-yt-6GMYDlGtHo8]] (This is the content-strategy expression of
+  the "make enemies / name the gap" positioning; cross-link
+  [[wiki/topics/branding/branding]].)
+
+  > "Their fear is our opportunity, their reluctance is our game, their slow to move is
+  > our window of opportunity." — Chris Do `[2018-08-06]`
+
+---
+
 ## Sources
 
 - [[wiki/sources/2015-11-29-yt-z7Y9TKfgstE]] — "Is Your Design Resume Still Relevant?" —
@@ -827,6 +929,11 @@ mechanics and the §6 platform-register prism.
   (2017-08-02)
 - [[wiki/sources/2017-08-09-yt-5S7n-OODN2A]] — "How To Get Work On Behance" —
   portfolio-platform lead-gen, build-out-applications, 3-days-per-lead ROI (2017-08-09)
+- [[wiki/sources/2018-08-06-yt-6GMYDlGtHo8]] — "5 YouTube Tips (Neistat/McKinnon/
+  DeFranco)" — thumbnails, cold open, persona/props, catchphrase, shareability,
+  broad-topic, "their fear is our opportunity" (2018-08-06)
+- [[wiki/sources/2018-09-09-yt-V-uLjNG73ho]] — "Why Do I Give So Much Away — My Content
+  Strategy" — stop-selling, karmic-equity label origin, 2018 proof-numbers (2018-09-09)
 - [[wiki/sources/2020-06-09-yt-ujxvy5NjeRQ]] — "How to Learn Anything (for creatives)" —
   input/output + learn-reflect-implement-share (2020-06-09)
 - [[wiki/sources/2021-07-11-yt-lrM5CRg-O0I]] — "Easy Way To Market Yourself — Tell Your

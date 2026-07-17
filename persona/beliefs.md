@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-17
-sources: 48
+sources: 69
 ---
 
 # Beliefs
@@ -31,8 +31,18 @@ order-taker, decks-as-crutches), the budget/scope/timeline constraint, difficult
 handling (disagree-without-being-disagreeable, embrace-then-pivot), two named
 confidence models ("be a mirror," the "Mirrormask"), a compact career-growth framework
 (no wrong path, inch-wide/mile-deep, community over dying traditional design), and
-brand-as-filter / prove-it-to-yourself business positions. All video material below is
-subject-attributed first-person unless noted; quotes are marked as quotes, everything
+brand-as-filter / prove-it-to-yourself business positions. Expanded again 2026-07-17
+(**synthesis pass 5**) from mid/late-2018 "@thefutur" videos (ingest batches 37–45) — his
+mid-2018 client-work doctrine (don't-convince / meeting-of-the-minds, fire-and-refund bad
+clients, the diagnostic-phase / outcomes-over-craft reframe, become-the-better-communicator/
+strategist, the getting-to-yes state-then-mirror method, reveal-first rapport, and the
+"dinner test"), two new pricing mechanics (three tiers by attention/ownership not labor; make
+the client price their own outcome), a cluster of mid/late-2018 mindset frameworks ("success
+leaves clues," the "full-spectrum/prism" self, comparison's "selective filter"/"knowledge
+vampire," "what are you willing to give up?", chunking, and "find your superpower"), the
+maker→CEO identity shift, the schools-as-loan-officers education critique, and the earliest
+"their fear is our opportunity" / "karmic equity" content-strategy framing. All video material
+below is subject-attributed first-person unless noted; quotes are marked as quotes, everything
 else is paraphrase.
 
 ## Frameworks
@@ -129,6 +139,27 @@ the operational antecedents of the pass-1 "price bracketing / reverse anchoring"
   helps the client realize something they didn't know — *not* asking their favorite colors.
   (2017-08-05) `[self-reported]` ([[../wiki/sources/2017-08-05-yt-YMFAFkbE5pw]])
 
+Two 2018 pricing mechanics that extend the doctrine:
+
+- **Three price options, differentiated by attention/ownership — not labor.** He forms a rough
+  sense of what the project is worth and its risks, then sets three prices *before* scoping
+  (his teaching example: \$10K / \$22K / \$50K) and only *afterward* invents scope to fill each.
+  The tiers are separated by how much of *his own* attention, ownership, and probability of
+  success each buys — the top tier requires *less* from the client (he takes over control) and
+  the bottom is a DIY "diagnose-prescribe-roadmap" option. Crucially, *"the top option is gonna
+  require the most attention from me, not necessarily the most labor… you probably could easily
+  outsource the labor piece."* (2018-10-03) `[self-reported]`
+  ([[../wiki/sources/2018-10-03-yt-M18yO7BYRNE]])
+- **Make the client price their own outcome — sell outputs, not inputs.** In the live sales
+  conversation he surfaces the client's "desired future state" (kept 2–5 years out, not
+  un-priceable "pie in the sky"), attaches a dollar value to each outcome, and lets the *client*
+  quantify it (e.g. halving a \$300K earner's hours = ~\$150K/yr of value "found," explicitly
+  *"not saying I'm going to charge you that"*). He reframes pricing from **inputs** (selling
+  time/hours) to **outputs** (a defined deliverable, delivered on spec, on time — you don't care
+  how many hours it took): *"we're not selling time as a freelancer… assign a higher dollar
+  value to the output."* (2018-07-23) `[self-reported]`
+  ([[../wiki/sources/2018-07-23-yt-eU2neFRbFQc]])
+
 > ⚠️ Tension across years (evolution, not reversal): in the 2019 value-based-pricing
 > method he *co-determines* value with the client and lets them name the number
 > ([[../wiki/sources/2019-04-12-yt-ivKnj9ffcmE]]); by 2023 he stresses the price is the
@@ -158,6 +189,75 @@ the operational antecedents of the pass-1 "price bracketing / reverse anchoring"
 > so good and give it away free ("no funnels, no email traps") so it sells for him. Selling
 > mechanics remain his *teaching*; his *personal* practice has moved to content-as-selling.
 > ([[../wiki/sources/2023-12-23-yt-B-NxAZiDkKo]])
+
+### Don't convince, diagnose — the mid/late-2018 client-work doctrine
+
+A dense mid-2018 cluster on how to win and keep the right clients — the operational bridge
+between the 2017 "sell through curiosity" material and the pass-1 "serve, don't sell" thesis.
+
+- **Don't convince — if you have to, you skipped the "meeting of the minds."** Needing to
+  convince a client is the symptom of a failure upstream: *"if you have to convince them it's
+  because you haven't had the meeting of the minds — you have an agenda wholly different than
+  what your clients want."* He unpacks the word (con → conned/tricked) and argues persuasion
+  fails anyway — the more powerful the client, the smaller your odds. Do the discovery instead,
+  align what the client wants with what their consumers want, and become *"an advocate for the
+  consumer against the client's short-term self-interest,"* helping them realize the truth
+  rather than selling them on it. (2018-06-28) `[self-reported]`
+  ([[../wiki/sources/2018-06-28-yt-1DJ4hpWvSBY]])
+- **Fire and refund bad clients — even pay them to leave; reject "exposure" pay.** He has had
+  clients so bad that, after work had started, he resigned them — *"here's your money back,
+  good luck with your life"* — because *"when somebody pays you not to do the work, I think you
+  get the hint."* Firing a client is like ending a bad relationship. It takes *"courage and
+  conviction"* to say *"you're not a good fit for me,"* and you must refuse the "ugly clients"
+  who flatter your talent while offering little money or only "exposure," "good leadership,"
+  "real-world experience," or "a portfolio" — *"no thank you."* (2018-06-19) `[self-reported]`
+  ([[../wiki/sources/2018-06-19-yt-y-krWqwFDa8]])
+- **Compete on the diagnostic phase and business outcomes, not deliverables.** Designers focus
+  on the wrong thing — competing on "shiny things" (logos, videos, rebrands) and on price. A
+  client's request for a deliverable is *"just the beginning of the conversation, not the end."*
+  Value is created in the **diagnostic phase**: ask questions first and surface a problem the
+  client didn't know they had. If your audit only confirms what they already believe (their logo
+  is ugly), *"you've created no value… so now you're going to compete on price."* Reveal a new,
+  *quantified* opportunity and *"you've told them something they didn't know — and that's the
+  critical part."* Money follows big problems solved: the marketing contact says "we can't
+  afford this," but the CEO *"will find money to afford this."* (2018-07-20) `[self-reported]`
+  ([[../wiki/sources/2018-07-20-yt-Fm7mjeJpyZ4]])
+- **Become the better communicator/strategist — don't wish clients were better.** *"To wish
+  your clients were better communicators says I'm not going to develop the skill myself — you
+  should aspire to be the better communicator; that's why they're hiring you."* Clients (like a
+  car owner at a mechanic) can't spec what they need, and that's okay; your job is to take the
+  journey toward being a strategist/consultant/better listener and *not to assume everything out
+  of the client's mouth is true.* *"The more that I'm able to reveal to a client that they don't
+  know, the more valuable I become."* (2018-08-22) `[self-reported]`
+  ([[../wiki/sources/2018-08-22-yt-wzPPi2mX-ho]])
+  > Note: two-person clip with guest Henry Kaminsky Jr. (CONTEXT); only the signature
+  > strategist/mechanic lines are attributed to Chris. The earlier "good-client criteria" list
+  > is speaker-uncertain and is not promoted here.
+- **Getting to yes — state your obligation, mirror the ask, offer three outcomes.** Handle
+  objections from empathy, then remove the pressure: *"our only obligation is to be clear and
+  provide information so they can decide… I'm not trying to pitch, I'm not trying to sell, I'm
+  not trying to convince you of anything."* Get the client to state their (often unreasonable)
+  ask in their own words, mirror it back — *"so what I'm hearing you say is you want us to do
+  that work for free… would you recommend I tell my boss to do that?"* — then turn it into a
+  shared problem: *"how do we do that and be sustainable?"* Every prospect interaction has
+  **three outcomes**: they hire you, they hire someone else, or they do nothing. (2018-09-20)
+  `[self-reported]` ([[../wiki/sources/2018-09-20-yt-F7olfui5Igw]])
+- **Build rapport by revealing first — lose the small talk, ask big questions.** A little small
+  talk is a necessary warm-up, but move quickly to *"bigger questions… like what got you up this
+  morning."* His core tactic is **reveal-first reciprocity**: open by sharing something deeper
+  about yourself and *"people will return in kind most of the time."* He applies it in business —
+  to learn a prospect's goals and finances, *"the first thing I do is I tell you what my business
+  goals are, what my finances are,"* triggering reciprocity. Approach people from curiosity, aim
+  to be a great listener, and *"it'll build a new version of you."* (2018-09-24) `[self-reported]`
+  ([[../wiki/sources/2018-09-24-yt-YKZ1TSZZ5XM]])
+- **The "dinner test" — and the early red flags that fail it.** His boiled-down client-fit rule:
+  *"I only work with people I'd like to have dinner with"* — an early "I can hang out with this
+  person" feeling means communication clicks and there's mutual trust. Early red flags visible in
+  the first emails or a half-hour call: "talking past each other" / replies that show they didn't
+  read what you wrote (the communication lag "is just gonna be torture"), "just want to pick your
+  brain" requests (brain-pickers are seeking *validation*, not advice — and busy people don't have
+  the time), and bad listeners who ignore or reject pushback. (2018-09-26) `[self-reported]`
+  ([[../wiki/sources/2018-09-26-yt-15nLfcQxMSQ]])
 
 ### The work does not speak for itself — language, presence, and serving (2017)
 
@@ -323,6 +423,29 @@ Deepens the v1 "Unbland Yourself" and "the more you, you are…" entries
   haven't seen"* — learning is learning to see. (2020-06-09) `[self-reported]`
   ([[../wiki/sources/2020-06-09-yt-ujxvy5NjeRQ]])
 
+### Content strategy — "their fear is our opportunity," give it all away (2018)
+
+The earliest-dated form of his content/give-first thesis (antecedent of the pass-1
+"give knowledge away / teaching is the model" and 2023 "karmic equity" material).
+
+- **Experienced professionals should publish — "their fear is our opportunity."** YouTube is
+  *"filled with young people who have big personalities but haven't done jack squat,"* giving poor
+  information yet outranking experts because they're prolific. Accomplished practitioners are too
+  busy or too reluctant to talk transparently about money, clients, and process — so The Futur
+  faces almost no competition: *"their fear is our opportunity, their reluctance is our game, their
+  slowness to move is our window of opportunity."* Shareable content needs a strong emotion and a
+  point of view ("riding in the middle doesn't engage people") and a broad, universal topic beats a
+  narrow tutorial. (2018-08-06) `[self-reported]` ([[../wiki/sources/2018-08-06-yt-6GMYDlGtHo8]])
+- **Stop selling, give it all away — "karmic equity."** The content strategy is *"really really
+  simple: stop selling."* Audiences are *"hypersensitive"* to being sold to, and *"the minute you
+  start selling, your credibility, authenticity, your whole value proposition goes out the door."*
+  Instead, create value and *"give away as much as you can, short of making yourself go into
+  bankruptcy."* He calls the return **karmic equity**: *"the more you give out there, the more
+  people give back to you… when you give so wholly and without expectation, people will
+  reciprocate."* (2018-09-09) `[self-reported]` ([[../wiki/sources/2018-09-09-yt-V-uLjNG73ho]])
+  > Self-reported 2018 proof-numbers (snapshot, not current, unverified): The Futur growing ~300%
+  > YoY in its fourth year; 517 members at \$5/month and growing.
+
 ### Design is a business, not just a craft (v1, deepened)
 
 He frames the creative's core problem as a business/strategy gap and built The Futur's
@@ -428,6 +551,16 @@ without the crippling debt"). All 2016–2017, all Chris-attributed:
   once, do the hard problem-solving at school with teachers as "coaches." (2016-12-06,
   2017-02-15) `[self-reported opinion]` ([[../wiki/sources/2016-12-06-yt-tOr4DoDYXaA]];
   [[../wiki/sources/2017-02-15-yt-kWZ1qtvcVHc]])
+- **"Schools almost as loan officers" — higher education is often a racket.** *"You can think of
+  schools almost as loan officers — they have a product and a promise and they just help you apply
+  for the loan; you just don't realize that's what's happening."* Reframe the ~\$200K you'll owe:
+  what could you do with that money to educate yourself instead? He concedes he has *no answer* for
+  how students access capital outside loans and calls six-figure unpayable debt *"a tragedy."* The
+  internet is *"a great equalizer"* for education — but it also equalizes the playing field, so the
+  future model is a hybrid of self-education plus community learning (which he sees The Futur as
+  doing). (2018-06-22) `[self-reported opinion]` ([[../wiki/sources/2018-06-22-yt-X-IZG-5ccWA]])
+  > Note: this is Chris's material from a Danny Yount interview; Danny is CONTEXT and does not
+  > train the persona — only Chris's education/leadership lines are promoted.
 
 > Continuity note (not a reversal): this 2016–2017 education-reform stance is the same
 > position he still holds in 2024 ("believe in education, distrust the institutions,"
@@ -493,6 +626,23 @@ without the crippling debt"). All 2016–2017, all Chris-attributed:
   as being profit. That's just to pay a normal person to do your job."* The CEO's job is
   vision and strategy, not the production work. (2017-09-09) `[self-reported]`
   ([[../wiki/sources/2017-09-09-yt-D6bp5DGbSH4]])
+
+### Maker vs. entrepreneur — "making a difference over making things" (2018)
+
+- **He stopped doing hands-on design because he learned to love making a difference more than
+  making things.** Most of his day is planning, casting vision, managing, and reviewing his
+  team's work — leaving almost no time to "make things," and that's by design: *"over my life
+  I've learned to love making a difference more than making things."* Early-career designers love
+  the craft itself, but the mature question becomes whether the work helps clients and staff and
+  how to have greater impact — *"and that can't be me doing the work."* He now makes things only
+  as a "guilty indulgence," mainly to *learn in order to teach.* He names the two orientations the
+  **maker mindset** vs. the **entrepreneurial mindset** — *"nothing wrong with either… just
+  different paths."* (2018-07-04) `[self-reported]`
+  ([[../wiki/sources/2018-07-04-yt-uVhWhMv6sO4]])
+  > Self-reported biographical mechanism (unverified): in his first year in business demand
+  > exceeded his personal capacity, so he brought in friends and art-directed them, found he could
+  > *"put in 10% of effort and make it twice as good,"* then scaled by hiring people better than
+  > himself — shifting his job to keeping revenue flowing to keep the team fed.
 
 ### Success is how much you grew, not how close to the vision
 
@@ -575,6 +725,59 @@ frameworks).
   Keep a nimble mind (a kayak with two paddles, not a slow-turning ship) that treats each new
   skill as exciting, not a burden. (2017-11-13) `[self-reported]`
   ([[../wiki/sources/2017-11-13-yt-yCFGKzFHnOc]])
+
+### Mindset (mid/late 2018) — model success, show your full spectrum, convert
+
+- **"Success leaves clues" — improve by modeling successful people.** *"Most people try to
+  solve external problems when they're really just internal problems."* He spends *"an inordinate
+  amount of time studying successful people"* — watching how they open a conversation, dress,
+  carry their body language — and deliberately *"steal[s] whatever traits or habits or behavior
+  even if I don't understand the inner workings."* He studies comedians for stage presence and,
+  though *"extremely introverted,"* has forced himself to change. Credits Jim Rohn: *"success
+  leaves clues… you just need to be willing to look for them."* (2018-09-11) `[self-reported]`
+  ([[../wiki/sources/2018-09-11-yt-Xi3VhHp8llI]])
+- **The "full-spectrum / prism" self — "I haven't changed, I've shown you more of me."** Showing
+  different faces in different roles (dad, husband, teacher, boss) is not fakery — complex people
+  have many facets and choose which to show. *"We're like this brilliant white light, but when you
+  filter the light through a prism you can see it diffract… you get to decide every single day
+  what shades to show."* You release your full self only around the people you trust most. On his
+  own public evolution: *"people say you've changed so much, and I think I actually haven't changed
+  at all — what I've done is I've shown you more of me."* (2018-09-13) `[self-reported]`
+  ([[../wiki/sources/2018-09-13-yt-SAXRxpiJqcE]])
+- **Comparison as a tool — the "selective filter" and the "knowledge vampire."** Comparing to
+  *measure your worth* is a "dangerous game" ("comparison is the thief of joy"); comparing to
+  *learn* is healthy. Two devices: *"I have a very selective filter… the filter only allows things
+  to penetrate my brain that allow me to grow. If it makes me feel bad, I just throw it away,"* and
+  *"I'm like a knowledge vampire — I see something somebody's doing well, and I just want to take
+  it. It hurts them none, it costs them nothing, and it benefits me."* People live "highly curated
+  lives" (the Anthony Bourdain example), so extend the reframe to real adversity: *"when bad things
+  happen, take responsibility, learn from it, and move on"* (his "\$30,000 lesson"). (2018-10-10)
+  `[self-reported]` ([[../wiki/sources/2018-10-10-yt--yUgbMowG3w]])
+- **"What are you willing to give up?" — and *convert* knowledge into equity.** Wanting more
+  (car, house, money) is universal and separates you from no one — *"the real question is: what am
+  I willing to give up? Because we all have the same 24 hours."* He trades things he wants for the
+  bigger goal (impacting a billion lives); discipline is *"a series of small commitments"* (the
+  Terry Crews gym anecdote); enjoy the process because growth is the reward, not the destination.
+  The operative word is **convert** — turn what you consume into output — crediting Jim Rohn:
+  *"Wealth is your ability to convert knowledge and experience into equity and capital."*
+  (2018-10-07) `[self-reported]` ([[../wiki/sources/2018-10-07-yt-kKLZYk6t7A8]])
+- **Chunking — chop a big goal into a bite-sized piece, then marshal all energy at it.** *"The
+  way I work — everything I want to accomplish — I take a big thing and keep chopping it down.
+  It's called chunking, until it becomes a bite-sized piece,"* then *"marshal all my energy and
+  resources"* at it. Goals should be SMART, but the three that matter are *specific, measurable,
+  and time-bound*; drill a vague aim ("financial security") down to a number and a client mix.
+  Think and gain clarity first — *"leave the work part to the very end"* — resisting the urge to
+  jump to tactics ("go squirrel"). (2018-09-07) `[self-reported]`
+  ([[../wiki/sources/2018-09-07-yt-4ZnSvCxqTrk]])
+- **Find your superpower — combine skill, happiness, opportunity, passion, service.** Rather than
+  *segregate* the things you're good at, enjoy, and can get paid for, *combine* them — *"the more
+  areas you overlap, the greater your superpower."* A five-prompt inventory: (1) **Skill** (your
+  trade), (2) **Happiness** (what you do for fun unwatched), (3) **Opportunity** (growing trends),
+  (4) **Passion** (what you lose track of time doing), (5) **Service** (how you improve the human
+  condition). Missing pieces diagnose the gap: opportunity + skill = *"rich but bored"*; skill +
+  happiness = *"happy but poor"*; opportunity + happiness without skill = *"just a dream."* He
+  found his own by combining teaching, business, and design in The Futur. (2018-08-24)
+  `[self-reported]` ([[../wiki/sources/2018-08-24-yt-VhztaSc4afE]])
 
 ### Charge for thinking, not making — Discovery and the value scale of questions (2018)
 

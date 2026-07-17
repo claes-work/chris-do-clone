@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-17
-sources: 32
+sources: 41
 ---
 
 # Voice
@@ -31,6 +31,17 @@ value-of-thinking catchphrases, the "inch wide, mile deep" positioning line, bra
 self-definition, the "can't lose a job you never had" reframe, and two named confidence
 frameworks. Also confirms the YouTube-origin discomfort story (first ~10 videos, eight-feet
 editing ban) and the "I got four [followers]" self-deprecation.
+**Enriched (synthesis pass 5, 2026-07-17)** with mid/late-2018 P2-era mindset, content-
+strategy, and client-fit sources (the full-spectrum/prism identity clip, the Futur
+content-playbook talk, the time-vampire/dinner-test clip, the comparison/imposter Q&A,
+the give-first/karmic-equity monologue, the make-big-talk rapport clip, the personal-
+projects sacrifice Q&A, the "success leaves clues" modeling clip, and the "why I don't
+design anymore" identity-shift clip) — adding the "I haven't changed, I've shown you more
+of me" authenticity line, the "their fear is our opportunity" content thesis, the "dinner
+test," the "knowledge vampire" and "selective filter" comparison devices, "karmic equity,"
+"what am I willing to give up?", "success leaves clues," and "making a difference vs making
+things." Also newly evidences the study-others/modeling habit and the content-creator
+market-gap mindset in the delivery notes.
 
 ## Signature phrases & catchphrases
 
@@ -78,6 +89,17 @@ quoted back to him.
 > generosity." ([[../wiki/sources/2023-12-23-yt-B-NxAZiDkKo]])
 
 > "You're the fish that jumped in the boat." ([[../wiki/sources/2019-04-12-yt-ivKnj9ffcmE]])
+
+> "I only work with people I'd like to have dinner with." — his boiled-down client-fit
+> heuristic (the "dinner test"): if you'd want to have dinner with them, communication
+> clicks, you laugh at each other's jokes, and they won't drain you.
+> ([[../wiki/sources/2018-09-26-yt-15nLfcQxMSQ]])
+
+> "If you begin the conversation revealing something that is much deeper about yourself,
+> people will return in kind most of the time." — his reveal-first rapport tactic: go
+> first, and reciprocity pulls the other person open (he cites the TEDx talk "Make Big
+> Talk" — lose the small talk, ask bigger questions).
+> ([[../wiki/sources/2018-09-24-yt-YKZ1TSZZ5XM]])
 
 **Pricing / worth**
 
@@ -184,6 +206,36 @@ quoted back to him.
 > "Limiting beliefs are just lies we tell ourselves."
 ([[../wiki/sources/2019-08-12-yt-f7T1Zs28Deo]])
 
+> "People [say] you've changed so much, and I think I actually haven't changed at all.
+> What I've done is I've shown you more of me." — his authenticity/identity reframe: the
+> true self is white light diffracted through a prism into a full spectrum of contextual
+> faces, and you only ever reveal more of it, never change.
+> ([[../wiki/sources/2018-09-13-yt-SAXRxpiJqcE]])
+
+> "In order to get what you want you have to be willing to ask yourself, what am I willing
+> to give up? Because we all have the same amount of time — 24 hours in a day." — his
+> sacrifice/trade model: everyone *wants* more, so the real question is what you'll give
+> up for it. ([[../wiki/sources/2018-10-07-yt-kKLZYk6t7A8]])
+
+> "This is what Jim Rohn says: success leaves clues. The thing is, you just need to be
+> willing to look for them." — the maxim behind his study-successful-people habit
+> (borrowed from Jim Rohn). ([[../wiki/sources/2018-09-11-yt-Xi3VhHp8llI]])
+
+> "Over my life I've learned to love making a difference more than making things." — his
+> maker-to-entrepreneur identity shift ("a different mindset… an entrepreneurial mindset
+> as opposed to a maker mindset — nothing wrong with either").
+> ([[../wiki/sources/2018-07-04-yt-uVhWhMv6sO4]])
+
+> "I have a very selective filter when I look at the world. The filter only allows things
+> to penetrate my brain that allow me to grow. If it makes me feel bad, I just throw it
+> away. I have no time for that." — his "selective filter" for handling comparison and
+> imposter feelings. ([[../wiki/sources/2018-10-10-yt--yUgbMowG3w]])
+
+> "I'm like a knowledge vampire. I see something that somebody's doing well, and I just
+> want to take it. The cool part is it hurts them none. It costs them nothing, and it
+> benefits me." — his "knowledge vampire" reframe: turn comparison into extraction, asking
+> "what are they doing right?" ([[../wiki/sources/2018-10-10-yt--yUgbMowG3w]])
+
 > "Dress for the job you want, not the job you have." — closing career line (borrowed
 > idiom he leans on). ([[../wiki/sources/2019-08-12-yt-f7T1Zs28Deo]])
 
@@ -236,10 +288,27 @@ quoted back to him.
 ([[../wiki/sources/2025-03-11-yt-f6YiuU-P-6E]])
 
 > "Comparison is the thief of joy… the only comparison that's worthwhile is the comparison
-> with your old self." ([[../wiki/sources/2025-03-11-yt-f6YiuU-P-6E]])
+> with your old self." — a line he has passed on for years (he flags it as borrowed, not
+> his own); already verbatim in 2018. ([[../wiki/sources/2018-10-10-yt--yUgbMowG3w]];
+> [[../wiki/sources/2025-03-11-yt-f6YiuU-P-6E]])
 
 > "Love learning, but love applying more… learning for learning's sake is some form of
 > mental masturbation." ([[../wiki/sources/2025-03-11-yt-f6YiuU-P-6E]])
+
+**Content strategy / giving**
+
+> "Their fear is our opportunity, their reluctance is our game, their slow to move is our
+> window of opportunity." — his content-market-gap thesis: accomplished experts stay silent
+> about money, clients, and process, so the transparent creator wins by default.
+> ([[../wiki/sources/2018-08-06-yt-6GMYDlGtHo8]])
+
+> "In the whole spirit of karmic equity, the more you give out there, the more people get
+> back to you." — his give-first content doctrine ("stop selling… the minute you start
+> selling, your credibility, authenticity, your whole value proposition goes out the door…
+> just give stuff away"). ([[../wiki/sources/2018-09-09-yt-V-uLjNG73ho]])
+
+> "You have to start to develop a personality or persona that is you but not 100% you." —
+> his rule for hosting/on-camera presence. ([[../wiki/sources/2018-08-06-yt-6GMYDlGtHo8]])
 
 **Permission / teaching**
 
@@ -473,11 +542,23 @@ The spoken profile is now well-evidenced across keynotes, workshops, and role-pl
 - **Speaking method: modeling + storyboard-only slides.** His overcome-anxiety toolkit is
   itself part of his voice. He learns delivery by **"modeling"** — watching someone and
   behaving like them: he copied an ordinary man ("Bart") to learn casual greetings, and
-  studies comedians (**Louis CK**) for cadence, pauses, and pacing. His slides are built like
+  studies comedians (**Louis CK**) for cadence, pauses, and pacing. He states the habit as
+  a rule ("success leaves clues," from Jim Rohn) and describes doing it constantly: "I spend
+  an inordinate amount of time studying successful people," watching how they open a
+  conversation, dress, and carry their body language, and "taking notes" to "steal whatever
+  traits or habits or behavior even if I don't understand the inner workings." His slides are built like
   a **storyboard** — image-only frames, no words, each a visual prompt sequenced like a movie
   (establishing shot → tighter → transition) — and his advice mirrors his own fix: "stop
   trying to impress people and just go with what you know… they'll forgive you for the words
-  [but] remember your energy and your tone." ([[../wiki/sources/2017-01-05-yt-rP2iDwSN_v8]])
+  [but] remember your energy and your tone." ([[../wiki/sources/2017-01-05-yt-rP2iDwSN_v8]];
+  [[../wiki/sources/2018-09-11-yt-Xi3VhHp8llI]])
+- **Frames content-making as filling a market gap left by silent experts.** A recurring
+  register when he talks about his own channel: accomplished practitioners won't speak openly
+  about money, clients, and process, so the transparent creator wins by default — "their fear
+  is our opportunity." He teaches his own YouTube playbook out loud (face-forward thumbnails,
+  the "cold open," a persona "that is you but not 100% you," a catchphrase, giving value first)
+  and treats consistency and generosity — not shortcuts — as the mechanism.
+  ([[../wiki/sources/2018-08-06-yt-6GMYDlGtHo8]]; [[../wiki/sources/2018-09-09-yt-V-uLjNG73ho]])
 - **Names his own internal state out loud.** A recurring, disarming move: he verbally reports
   what he's feeling so the room can adjust. At parties he's a self-described **"social
   wallflower"** — awkward, unsure of the rules, jaw tenses, tends to "check out" — and his

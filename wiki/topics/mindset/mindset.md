@@ -2,7 +2,7 @@
 type: hub
 domains: [mindset]
 updated: 2026-07-17
-tags: [mindset, self-belief, discipline, decision-making, teaching-philosophy, reframing, resilience, learning, imposter-syndrome, stoicism, momentum, integrity, self-doubt, growth-mindset, self-directed-learning, introvert, authenticity, expectation, action-bias, goal-setting, overwhelm, public-commitment, effort, credentials, be-of-service, career-path, positioning]
+tags: [mindset, self-belief, discipline, decision-making, teaching-philosophy, reframing, resilience, learning, imposter-syndrome, stoicism, momentum, integrity, self-doubt, growth-mindset, self-directed-learning, introvert, authenticity, expectation, action-bias, goal-setting, overwhelm, public-commitment, effort, credentials, be-of-service, career-path, positioning, goal-clarity, chunking, prism-self, comparison, knowledge-vampire, superpower, ikigai, sacrifice, modeling, value-exchange, education]
 ---
 
 # Mindset — hub
@@ -412,6 +412,31 @@ Chris's meta-learning framework, developed in full in the 2020 whiteboard sessio
   > it out there bigger and better than you." — Chris Do, 2017-01-05
   > "I go less away from the formula and more into intuition, but it's all built on
   > fundamentals." — Chris Do, 2017-01-05
+
+- **"Success leaves clues" — study winners and take notes** (2018-09-11,
+  [[wiki/sources/2018-09-11-yt-Xi3VhHp8llI]]): the dated extension of the modeling method
+  above. Chris spends "an inordinate amount of time" watching successful people and taking
+  constant notes on how they open a conversation, dress, carry their body language, and lean
+  in or out — then "steals" those traits even without understanding their "inner workings."
+  He credits the maxim to **Jim Rohn**. *(His citation.)* He studies comedians specifically
+  for stage presence, and frames his own growth as an "extremely introverted" person who
+  forced himself to change (even willing to "sing and dance") rather than doing more of what
+  he's already good at and hoping things change.
+
+  > "So this is what Jim Rohn says, success leaves clues. The thing is, you just need to be
+  > willing to look for them." — Chris Do, 2018-09-11
+  > "I like to kind of steal whatever traits or habits or behavior even if I don't understand
+  > the inner workings." — Chris Do, 2018-09-11
+
+- **Most problems are internal, not external** (2018-09-11): the reframe under the whole
+  modeling method — people try to solve external problems that are really internal ones, and
+  The Futur's success comes from constant self-analysis. (Pairs with §4's inner-critic work
+  and §15's INTJ→ENTJ "temperament is workable" claim.)
+
+  > "Most people try to solve external problems when they're really just internal problems."
+  > — Chris Do, 2018-09-11
+  > "How do I need to change? What books do I need to read? Who do I need to study? What do I
+  > need to become so that people are interested in us?" — Chris Do, 2018-09-11
 
 ---
 
@@ -1209,6 +1234,297 @@ live in the business and content-strategy hubs, the decision-making *mindset* is
 
 ---
 
+## 25. Goal clarity — "fuzzy goals = fuzzy results" & "chunking"
+
+From the 2018 creative-block clinic [[wiki/sources/2018-06-20-yt-HdXfCuKu5Lg]] and the 2018
+goal-coaching demo [[wiki/sources/2018-09-07-yt-4ZnSvCxqTrk]]. Where §18 covers goal
+*decomposition and accountability* (define → chop-down, tactic-vs-goal), this section adds the
+*front-end clarity* devices that make a goal specific enough to act on — plus Chris's named
+method for it, **"chunking."**
+
+- **"Fuzzy goals equals fuzzy results" — the compass / picture / map** (2018-06-20): creative
+  block is a symptom of an unclear goal. Unlike linear/analytical work (A→B→C→D toward a known
+  Z), creative work in "the muck" feels directionless when there is "no compass, no destination,
+  no map." The fix is to know the goal first — it's your compass, giving direction and a picture
+  of where you're heading — then build the process/roadmap ("your creative recipe... a formula
+  for success").
+
+  > "When you're in this muck you have no idea if you made any progress... there is no compass,
+  > there is no destination, there is no map, so it starts to feel like the walls are closing in
+  > on you." — Chris Do, 2018-06-20
+
+- **Rock-to-arch specificity — nail it to two words, then images** (2018-06-20): the more
+  specific the goal — by attaching *words AND images* to it — the more a vague "rock" becomes a
+  recognizable "arch." Abstract concept language ("it's bold, it's beautiful, it's innovative,
+  it's fresh, it's modern") is too fuzzy to guide the work. Practical method: nail your thinking
+  down to two words, then translate those words into images.
+
+  > "A rock becomes an arch the more specific you can get about your goal by attaching words and
+  > images to it." — Chris Do, 2018-06-20
+  > "Try to nail down your thinking in two words, translate those words into images, and then
+  > you're off to a pretty good start." — Chris Do, 2018-06-20
+
+- **"Chunking" — chop it down, then marshal all your energy at it** (2018-09-07): his named
+  general-life method — take a big thing and keep chopping it down until it's a "bite-sized
+  piece," then pour all energy and resources into attracting that one goal. He trims **SMART**
+  (Specific, Measurable, Actionable, Realistic, Time-bound) to the three that matter most —
+  **specific, measurable, time-bound** — so "grow my company" fails as a goal. (The named,
+  energy-focusing companion to §18's "chop it down.")
+
+  > "The way I work — everything that I want to accomplish in life — I just take a big thing and
+  > just keep chopping it down. It's called chunking, until it becomes like a bite-sized piece."
+  > — Chris Do, 2018-09-07
+  > "Once it becomes a bite-sized piece, I'm going to marshal all my energy and resources into
+  > thinking what can I do to attract this kind of work or this kind of goal in my life."
+  > — Chris Do, 2018-09-07
+
+- **Vague-to-specific numeric drill-down** (2018-09-07): worked live — "financial security" →
+  "sub 10k a month" → 120k/year → which client mix realistically gets there (1×10k vs 2×5k vs
+  10×1k), which then focuses the effort ("what kind of clients buy work at 5k or more?"). The
+  clearer the goal, the easier every downstream decision.
+
+  > "The clearer something is in your mind, the more you'll be able to kind of break it down and
+  > take steps towards achieving it." — Chris Do, 2018-09-07
+
+- **Think first, tactical last — "don't go squirrel"** (2018-09-07): spend more time thinking
+  and gaining clarity, be objective, look at the whole picture, and leave the tactical "ABCD"
+  work to the very end, resisting the impulse to jump straight to action steps. (The deliberate
+  counter-move to §17's "too dumb to fail" bias-to-action — reconcilable because they govern
+  different stages: think-first when *setting* the goal, act-fast once it's *set*; date-stamp
+  whichever is invoked.)
+
+  > "How many times I have to say stop guys, stop — let's not dive into the tactical steps ABCD
+  > yet, because we're so quick to like, oh let's go squirrel." — Chris Do, 2018-09-07
+
+---
+
+## 26. The full-spectrum / prism self — authentic identity
+
+From the 2018 "Your True Self Is A Full Spectrum" clip
+[[wiki/sources/2018-09-13-yt-SAXRxpiJqcE]] (all 2018-09-13; guest DJ "Mike" is context). A
+distinct model of *authenticity*: where §14/§23 argue "nobody sees the mask you wear," this
+argues the opposite-facing point — the many faces you *do* show are all genuinely you.
+
+- **Many faces are not fakery** (2018-09-13): showing a different face in each role (dad,
+  husband, teacher, podcaster, boss) is not disingenuous — complex people have many facets and
+  choose which to show in each context; you talk to your kids differently than to your clients,
+  and both are still you.
+
+  > "You have many facets to yourselves, and you choose to show a different face [to] the world."
+  > — Chris Do, 2018-09-13
+
+- **The prism metaphor — white light diffracted** (2018-09-13): a human being is like brilliant
+  white light; passed through a prism it diffracts into the full visible spectrum, and each day
+  you decide which shades to show. You release your "full self" only around the people you trust
+  most — sometimes not even a life partner, sometimes just childhood friends where nobody judges
+  you. [named framework; paraphrase]
+
+  > "We're like this brilliant white light, but when you filter the light through a prism you can
+  > actually see it diffract... the red, the yellow, orange, green and blue. You get to decide
+  > every single day... what shades [to show]." — Chris Do, 2018-09-13
+
+- **"I haven't changed — I've shown you more of me"** (2018-09-13): people perceive he has
+  "changed so much" over the trajectory of the show; he says he hasn't changed at all — he has
+  simply shown more of himself over time. (The authenticity counterpart to §23's "the world
+  already sees you as you are" — here the reveal is *voluntary and gradual*.)
+
+  > "People say you've changed so much, and I think I actually haven't changed at all. What I've
+  > done is I've shown you more of me." — Chris Do, 2018-09-13
+
+---
+
+## 27. Comparison as a tool — "selective filter" & "knowledge vampire"
+
+From the 2018 imposter/comparison coaching clip [[wiki/sources/2018-10-10-yt--yUgbMowG3w]]
+(all 2018-10-10; coachee Connor is context). Two named devices that sharpen the general
+"compare only to your old self" advice (§6) and the imposter material (§9): the harm isn't
+comparison itself but comparing *to measure worth* rather than *to learn*.
+
+- **Compare to learn, not to measure worth** (2018-10-10): comparison is natural (humans are
+  contextual learners) but social media makes it dangerously easy. Comparing to measure your
+  worth is "a dangerous game"; comparing to *learn* is healthy — the test is whether it makes
+  you grow or just puts you down. He relays the maxim **"comparison is the thief of joy"**
+  (marked as an existing quote, not his own). *(His citation.)*
+
+  > "Comparison is the thief of joy." — Chris Do, 2018-10-10 (relaying an existing maxim)
+
+- **The "selective filter"** (2018-10-10): only admit inputs that help you grow; discard
+  anything that merely makes you feel bad. (The same guard-the-door move as §19's "bouncer to
+  the club of your mind.")
+
+  > "I have a very selective filter when I look at the world. The filter only allows things to
+  > penetrate my brain that allow me to grow. If it makes me feel bad, I just throw it away. I
+  > have no time for that." — Chris Do, 2018-10-10
+
+- **The "knowledge vampire"** (2018-10-10): instead of "they got there fast and I'm nowhere
+  near," ask "what are they doing right?" and extract it — at zero cost to them.
+
+  > "I'm like a knowledge vampire. I see something that somebody's doing well, and I just want to
+  > take it. The cool part is it hurts them none. It costs them nothing, and it benefits me."
+  > — Chris Do, 2018-10-10
+
+- **Curated lives aren't real** (2018-10-10): people show the cool places, not the struggles, so
+  social media "in a way, it's not real." He grounds it with the **Anthony Bourdain** example —
+  outwardly on top of the world, yet a "deeper, darker side" existed behind the curated image.
+
+- **The adversity reframe — "a $30,000 lesson"** (2018-10-10): extend the reframe from social
+  media to any bad event — resist the victim frame ("why did this happen to me?") and switch to
+  "what did I learn?" His own case: an oversight (not confirming a contract's end in writing)
+  cost ~$30,000 to exit; obsessing over it is an opportunity-cost drain — better to pay, learn to
+  always follow up in writing, and earn it back than to pay and stay bitter. (The same
+  failure-as-tuition move as §3, dated here.)
+
+  > "That was a $30,000 lesson. That's a bitter pill to swallow, but it's one that I need to
+  > swallow." — Chris Do, 2018-10-10
+  > "When bad things happen to you, take responsibility for it and learn from it and move on."
+  > — Chris Do, 2018-10-10
+
+---
+
+## 28. Find your superpower — the 5-prompt inventory
+
+From the 2018 Digital Design Days keynote wrapper [[wiki/sources/2018-08-24-yt-VhztaSc4afE]]
+(all 2018-08-24; panelist Danny Yount is context). Chris's fullest self-knowledge/positioning
+framework — an ikigai-adjacent method for *combining*, rather than segregating, what you're
+good at, enjoy, and can be paid for.
+
+- **Combine, don't segregate — the five prompts** (2018-08-24): inventory yourself across five
+  prompts — (1) **Skill** (your trade / what you're trained to do), (2) **Happiness** (what you
+  do for fun when nobody's watching), (3) **Opportunity** (trends/fields growing now),
+  (4) **Passion** (what you geek out over and lose track of time doing), (5) **Service to
+  others** (how you improve the human condition). The more they overlap, the greater your
+  "superpower."
+
+  > "Instead of segregating the things that you like, the things that make you money, we're going
+  > to try to figure out a way to combine all those things." — Chris Do, 2018-08-24
+  > "The more areas that you overlap, the greater your superpower." — Chris Do, 2018-08-24
+
+- **The Venn diagnosis of what's missing** (2018-08-24): opportunity + skill without the rest =
+  "rich but bored"; skill + happiness = "happy but poor"; opportunity + happiness without skill =
+  "just a dream." The sweet spot is the overlap. He grounds it autobiographically — a 20-year
+  motion firm (money, not full meaning) and 15+ years teaching (meaning, poor pay) each had
+  "holes"; The Futur closed them by combining teaching, business, and design and revealed his
+  "latent superpower."
+
+  > "If you have opportunity and you're skilled but you're missing the other components, you'll
+  > be rich but bored. If you have skill and happiness, you're happy but poor. If you have
+  > opportunity and happiness without skill, it's just a dream." — Chris Do, 2018-08-24
+
+- **The build Matrix — turn overlaps into a product** (2018-08-24): take two or three items from
+  your lists and run them through three prompts — can you build (a) an educational
+  model/product, (b) a physical product, or (c) an app/website? (Worked examples: lots of bids +
+  liking design → a proposal template; fashion + organizing + technology → a jacket or backpack.)
+
+- **Wealth = converting knowledge into equity; the billion-person yardstick** (2018-08-24): to
+  create wealth you must take action and *make something*. He credits **Jim Rohn** — "wealth is
+  your ability to convert your knowledge and experience into equity and capital" — and adopts
+  **Jason Silva's** definition of a 21st-century billionaire as someone who impacts a billion
+  people "for the better," naming that as his own aim. *(His citations.)*
+
+  > "If you want to create wealth, you have to take action and make something. Summon your courage
+  > to take the first step." — Chris Do, 2018-08-24
+
+---
+
+## 29. The sacrifice trade & "convert knowledge into equity"
+
+From the 2018 "personal projects after a full-time job" coaching segment
+[[wiki/sources/2018-10-07-yt-kKLZYk6t7A8]] (all 2018-10-07; coachee Sharie and team members are
+context). The self-discipline engine reframed as a *trade* — the earlier, dated companion to
+§6's "hell yeah or hell no" and §18's front-loaded-sacrifice belief.
+
+- **"What are you willing to give up?"** (2018-10-07): wanting more (faster car, bigger house,
+  the promotion) is universal and separates you from no one — everyone has the same 24 hours.
+  The discriminating question is what you'll *sacrifice*. You can't be *taught* self-motivation —
+  either you want the thing more than comfort, or you don't.
+
+  > "In order to get what you want you have to be willing to ask yourself, what am I willing to
+  > give up? Because we all have the same amount of time — 24 hours in a day." — Chris Do, 2018-10-07
+  > "I can't help you to become more self-motivated, because only you can be self-motivated."
+  > — Chris Do, 2018-10-07
+
+- **"Life is long, but the window to achieve is short"** (2018-10-07): his father's lesson —
+  work hard now and reap rewards the rest of your life; spread the work out and you wake up at 53
+  not far from where you started. (An earlier dated instance of the front-loaded-sacrifice belief
+  §6/§18 record; note the ⚠️ tension with the §9 mountain metaphor flagged there.)
+
+  > "Life is long, and the amount of time in which you have to achieve something is short."
+  > — Chris Do, 2018-10-07 (relaying his father)
+
+- **"Convert" — knowledge/experience into equity** (2018-10-07): the operative word is
+  *convert* — turn what you consume into output (a note, a sketch, an article), because consuming
+  without converting builds nothing. He credits **Jim Rohn**: "wealth is your ability to convert
+  knowledge and experience into equity and capital." *(His citation; the same idea as §28's
+  wealth definition, dated separately.)*
+
+  > "Wealth is your ability to convert knowledge and experience into equity and capital. The
+  > convert part is the key word." — Chris Do, 2018-10-07 (quoting Jim Rohn)
+
+- **Growth is the reward, not the destination** (2018-10-07): enjoy the process; blend your
+  interests so activities aren't discrete "work vs. not-work" segments; and (crediting **Jim
+  Rohn** again) it matters less to *achieve* a big goal than to become the person you become in
+  its pursuit. (Same yardstick as §12's "success = how much I've grown.")
+
+- **Just start — the Terry Crews small-commitments model** (2018-10-07): discipline is "a series
+  of small commitments." He relays **Terry Crews** — who hates working out but loves the
+  results — breaking the gym into micro-steps (get dressed, drive there, walk in, commit to just
+  arms). *(Crews is his citation.)*
+
+  > "Most people hate working out, but what they love — they love the results, they love what
+  > happens when you put in the work." — Chris Do, 2018-10-07
+
+---
+
+## 30. Education & internships as a value-exchange
+
+From the 2018 internship classroom Q&A [[wiki/sources/2018-07-01-yt-5FDRD7vMIHc]] and the 2018
+"3 Things You Need To Learn In School" interview [[wiki/sources/2018-07-25-yt-W4fhcj5e1wQ]]
+(dates as cited; students and interviewer Elanor Jang are context). Chris's decision framework
+for school/internship choices — treat education as an economic exchange and filter it with an
+explicit criteria list.
+
+- **The learning-vs-money sliding scale** (2018-07-01): an internship is a hybrid of school and
+  work on a scale from "learning (while paying money)" to "money." It pays less than a plain job,
+  but the *sum* (money + knowledge) can be greater — so choose carefully. Working unpaid AND
+  learning nothing is the worst combination (you're better off at Starbucks for $12–13/hour).
+
+  > "If I pay you nothing, what's the point? You're better off working at Starbucks... at least
+  > they pay you 12, 13 bucks an hour." — Chris Do, 2018-07-01
+
+- **Write down your top-three criteria and use them as a filter** (2018-07-01): creatives decide
+  on gut/feeling — instead, write down what you want to gain, pick your top three, and score any
+  option against that list. A key insight that generalizes beyond internships: *when you love
+  something you made, you unconsciously "change the target"* and rewrite the criteria to justify
+  it — which is why you must write them down first. Deciding by a prioritized list is simply what
+  organizations do: "you're just an organization of one right now."
+
+  > "We're creative people, we go with the gut, the feeling, intuition. Freaking make a list, put
+  > it in black and white, everything becomes a lot clearer." — Chris Do, 2018-07-01
+  > "This is what organizations do. You're just an organization of one right now." — Chris Do, 2018-07-01
+
+- **School is a value-exchange — three things to actually learn** (2018-07-25): every
+  transaction is a value exchange — you pay money, the school should return knowledge, experience,
+  network, and contacts; if it doesn't, reconsider being there. The three things worth
+  extracting: (1) **public speaking**, (2) **learning how to learn** (and how to formulate
+  questions — the single most important survival skill, because everything codified into a
+  textbook is already "ancient history"), (3) **logic and reasoning**.
+
+  > "The single most greatest skill that you're going to learn in school is learning how to
+  > learn. Learning how to formulate questions in your mind is probably the most important skill
+  > that you're going to need to survive in the next 100 years." — Chris Do, 2018-07-25
+  > "Everything that you're learning in school is already outdated by the time you learned it. By
+  > the time they codified it, it's a textbook. It's already ancient history." — Chris Do, 2018-07-25
+
+- **Hire on potential, not credentials** (2018-07-25): in his own hiring Chris ignores résumé,
+  school, degree, and whether you attended at all — he hires on quality of work, and overlooks
+  shortcomings for determination, drive, self-learning, communication, and playing well with
+  others, betting on a high ceiling. (The hiring-side mirror of §22's "credentials are crutches.")
+
+  > "What I don't look for is your resume. I don't look for what school you went to, what degree
+  > you got, or even if you went to school at all. None of that matters to me." — Chris Do, 2018-07-25
+
+---
+
 ## Cross-cutting patterns
 
 - **Language is the lever.** War Jitsu (§3), "share" not "teach" (§7), defining words like
@@ -1267,6 +1583,24 @@ live in the business and content-strategy hubs, the decision-making *mindset* is
   "Mirrormask", hating-own-voice YouTube origin story, ego-kill/be-of-service) — 2018-04-21
 - [[wiki/sources/2018-05-06-yt-0WQVRQ07WtE]] — "Power of Self Confidence" ("be nothing / I'm
   just a mirror to you", credentials-as-crutches, therapy question-based model) — 2018-05-06
+- [[wiki/sources/2018-06-20-yt-HdXfCuKu5Lg]] — "Fuzzy Goals Equals Fuzzy Results" (goal →
+  compass/picture/map, rock-to-arch specificity, nail-to-two-words) — 2018-06-20
+- [[wiki/sources/2018-07-01-yt-5FDRD7vMIHc]] — "Watch This Before Your Next Internship"
+  (learning-vs-money scale, top-3-criteria filter, "organization of one") — 2018-07-01
+- [[wiki/sources/2018-07-25-yt-W4fhcj5e1wQ]] — "3 Things You Need To Learn In School"
+  (school as value-exchange, public-speaking / learn-how-to-learn / logic, hire-on-potential) — 2018-07-25
+- [[wiki/sources/2018-08-24-yt-VhztaSc4afE]] — "Finding Your Super Power" (5-prompt inventory,
+  ikigai-style Venn, build Matrix, wealth = convert knowledge to equity) — 2018-08-24
+- [[wiki/sources/2018-09-07-yt-4ZnSvCxqTrk]] — "How To Make Clear Goals" ("chunking", SMART
+  trimmed to specific/measurable/time-bound, numeric drill-down, "don't go squirrel") — 2018-09-07
+- [[wiki/sources/2018-09-11-yt-Xi3VhHp8llI]] — "Success Leaves Clues" (study winners & take
+  notes, steal traits, problems-are-internal, introvert-forced-change) — 2018-09-11
+- [[wiki/sources/2018-09-13-yt-SAXRxpiJqcE]] — "Your True Self Is A Full Spectrum" (prism /
+  full-spectrum self, many-faces authenticity, "I've shown you more of me") — 2018-09-13
+- [[wiki/sources/2018-10-07-yt-kKLZYk6t7A8]] — "Work on Personal Projects After a Full Time Job"
+  ("what are you willing to give up?", convert knowledge→equity, growth-is-the-reward, just-start) — 2018-10-07
+- [[wiki/sources/2018-10-10-yt--yUgbMowG3w]] — "How To Not Feel Like An Imposter When Comparing"
+  ("selective filter", "knowledge vampire", comparison-is-the-thief-of-joy, $30k-lesson reframe) — 2018-10-10
 - [[wiki/sources/2018-11-01-yt-9qwVLdNNZP8]] — Will Paterson interview (imposter syndrome,
   mountain metaphor, see-yourself-through-clients'-eyes) — 2018-11-01
 - [[wiki/sources/2019-08-12-yt-f7T1Zs28Deo]] — ★ AIGA 2019 keynote "What You Believe Becomes

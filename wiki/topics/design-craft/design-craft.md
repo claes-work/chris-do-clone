@@ -3,7 +3,7 @@ type: hub
 domain: design-craft
 domains: [design-craft]
 updated: 2026-07-17
-tags: [design-craft, typography, legibility, layout, composition, art-direction, critique, logo-design, logo-critique, ideation, portfolio, portfolio-review, packaging, teaching, mastery, design-education, creativity, remix, timelessness, restraint, copywriting, developer-handoff, freelance]
+tags: [design-craft, typography, expressive-typography, legibility, layout, composition, art-direction, critique, logo-design, logo-critique, mockups, perceived-value, ideation, portfolio, portfolio-review, packaging, teaching, mastery, design-education, creativity, remix, timelessness, restraint, copywriting, developer-handoff, freelance]
 ---
 
 # Design Craft — hub
@@ -714,6 +714,52 @@ Sharif and the soap contestant are context only, excluded.)*
 
 ---
 
+## 20. Expressive typography — "be expressive WITH the type"
+
+From a 2018 live poster-critique cutdown (a "We Moved" church poster), Chris pushes
+designers off static, rigid grids toward typography that **physically enacts** the
+message. *(Lead critic not named on-camera; identified as Chris from the channel,
+first-person critique framing, and characteristic voice — `attribution: probable`, so
+treat the exact wording as provisional-Chris. Reviewed designer **Levi Jones** and
+co-host **Emily** are context only.)* [[wiki/sources/2018-07-03-yt-ZwEMbqZDkXU]] (2018-07-03)
+
+- **Be expressive WITH the type** — If the brief is expressive, the letters must enact it: a message that is "yelling" (a loud "We Moved") is contradicted by a rigid grid; make it playful — offset the lines and zigzag them back and forth rather than setting them straight. [[wiki/sources/2018-07-03-yt-ZwEMbqZDkXU]] (2018-07-03)
+
+> "if you want to do expressive typography be expressive with it" — Chris Do (attribution: probable) [[wiki/sources/2018-07-03-yt-ZwEMbqZDkXU]] (2018-07-03)
+
+> "be more playful and kind of just offset these like it's a zigzagging back and forth" — Chris Do (attribution: probable) [[wiki/sources/2018-07-03-yt-ZwEMbqZDkXU]] (2018-07-03)
+
+- **Unusual letter-spacing conveys emotion** — Irregular/unusual letter-spacing reads as excitement and makes a layout feel dynamic rather than static. [[wiki/sources/2018-07-03-yt-ZwEMbqZDkXU]] (2018-07-03)
+
+> "because of the unusual letter spacing ... it shows some sense of excitement" — Chris Do (attribution: probable) [[wiki/sources/2018-07-03-yt-ZwEMbqZDkXU]] (2018-07-03)
+
+- **Build a technical aesthetic from found "meaningless data"** — For a technical/industrial look, repurpose found grid / city-plan imagery off the internet as "meaningless data" texture; **desaturate** it so it doesn't fight the existing palette, integrate it with blend modes (screen/invert), and protect legibility so the added texture never buries the readable part. [[wiki/sources/2018-07-03-yt-ZwEMbqZDkXU]] (2018-07-03)
+
+> "I could easily see us adding some kind of grid element in here some other kind of meaningless data thing" — Chris Do (attribution: probable) [[wiki/sources/2018-07-03-yt-ZwEMbqZDkXU]] (2018-07-03)
+
+- **Gradient-as-implied-lighting** — Adding a gradient to a flat graphic element "suggests lighting" — it gives an otherwise flat thing a lighting component the viewer feels without noticing. [[wiki/sources/2018-07-03-yt-ZwEMbqZDkXU]] (2018-07-03)
+
+> "by putting gradient in here it suggests lighting ... it's almost like a very flat thing has some kind of lighting component to it" — Chris Do (attribution: probable) [[wiki/sources/2018-07-03-yt-ZwEMbqZDkXU]] (2018-07-03)
+
+- **Glitch-offset to break predictability** — When a layout still looks "too predictable," offsetting/breaking up lines like a glitch can add interest — an experimental move that may fail. Chris models honest iteration by openly rejecting his own experiment on camera ("it could suck, I'm not saying this is great design"; "I don't like this at all"). [[wiki/sources/2018-07-03-yt-ZwEMbqZDkXU]] (2018-07-03)
+
+*(Cross-refs: reinforces §1 rule #8 "avoid the corners" — "you've taken all the typography and you just kind of jam it into the corners, that's the thing that we're trying to avoid" — and sits on the expressive extreme of §2's "push to an extreme, don't get stuck in the middle." The genuinely-new addition here is that the type must **enact** the message, plus the technical-aesthetic recipe: meaningless-data texture + desaturation + gradient-as-lighting + glitch-offset.)*
+
+---
+
+## 21. Logo value via real-world context / mockups
+
+From a 2018 one-minute solo tip video (sole speaker, Chris Do throughout).
+[[wiki/sources/2018-09-28-yt-uO8VUYwCmFM]] (2018-09-28)
+
+- **Show the mark in context to raise its perceived value** — Present a logo on real-world applications (a t-shirt, gold foil, signage, wayfinding, a crane) rather than flat; making the mark "live in the real world" makes the work read as a big-budget brand and look like you already work with big clients. Applies both to real client work and to portfolio pieces. [[wiki/sources/2018-09-28-yt-uO8VUYwCmFM]] (2018-09-28)
+
+> "putting the logos into real world applications actually gives a lot of strength and makes it very believable as some big-budget brand." — Chris Do [[wiki/sources/2018-09-28-yt-uO8VUYwCmFM]] (2018-09-28)
+
+*(Complements §16's "judge the mark separately from its application": the craft judgment strips a mark bare, but the presentation/selling of the work is strengthened by context/mockups. The perceived-value/positioning angle overlaps the business-of-design domain and is captured there in fuller form.)*
+
+---
+
 ## Excluded — instructor-led
 
 Per fidelity rule #6 (speaker attribution), the following Futur "craft" videos are
@@ -754,6 +800,12 @@ From the 2018 "Young Guns" additions (§§18–19): co-host **Emily**
 and the unnamed soap contestant — [[wiki/sources/2018-03-24-yt-z8BuocNq1Po]],
 [[wiki/sources/2018-05-08-yt-FDhK1R3GJzs]], [[wiki/sources/2018-05-26-yt-gx5hEcIwhnY]])
 are context only; only Chris's evaluation logic and design principles train the persona.
+From the mid/late-2018 additions (§§20–21): in the "We Moved" poster critique
+([[wiki/sources/2018-07-03-yt-ZwEMbqZDkXU]], §20) the **lead critic is not named
+on-camera** (identified as Chris from channel/first-person framing/voice —
+`attribution: probable`); reviewed designer **Levi Jones** (17, at Farm Design) and
+co-host **Emily** are context only. The **2018-09-28 logo-value tip**
+([[wiki/sources/2018-09-28-yt-uO8VUYwCmFM]], §21) is a Chris-only solo video (no co-host).
 The **2018 typography-legibility clip** ([[wiki/sources/2018-02-13-yt-EozQvV3oQ7c]], §17)
 has an **unidentified narrator** (likely Chris, `attribution: uncertain`); its rules are
 promoted but flagged pending verification and must not train voice cadence.
@@ -789,4 +841,6 @@ it trains Chris's *written* design voice, not his verbal cadence.
 - [[wiki/sources/2018-03-24-yt-z8BuocNq1Po]] — Designer Portfolio Reviews, Young Guns Ep.2 (four-category rubric; super stacking; engagement math). (2018-03-24)
 - [[wiki/sources/2018-05-08-yt-FDhK1R3GJzs]] — Pharma Package Design Challenge, Young Guns Ep.3 ("me too" design; shelf presence; aesthetic→demographic; house-vs-name-brand). (2018-05-08)
 - [[wiki/sources/2018-05-26-yt-gx5hEcIwhnY]] — Packaging Critique & Winner, Young Guns Ep.5 (four-criterion rubric; 3-D six-sided sculpture; premium=less-is-more; design the product not the parent). (2018-05-26)
+- [[wiki/sources/2018-07-03-yt-ZwEMbqZDkXU]] — Expressive Typography poster critique, "We Moved" (be expressive WITH the type; unusual letter-spacing = excitement; meaningless-data texture + desaturate + gradient-as-lighting + glitch-offset). **Critic likely Chris — attribution: probable.** (2018-07-03)
+- [[wiki/sources/2018-09-28-yt-uO8VUYwCmFM]] — 1 Simple Tip to Make Your Logos More Valuable (place the mark in real-world context/mockups to raise perceived value). (2018-09-28)
 - [[wiki/sources/2023-06-14-yt-SdCzIDmfDAA]] — Good vs. great designers (bad-to-good slider, mastery, "do less but better," Holtzman). (2023-06-14)

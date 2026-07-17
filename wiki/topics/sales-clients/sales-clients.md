@@ -4,7 +4,7 @@ domain: sales-clients
 domains: [sales-clients]
 created: 2026-07-14
 updated: 2026-07-17
-tags: [sales, negotiation, objection-handling, discovery, positioning, client-management, role-play, serve-dont-sell, embrace-and-pivot, qualifying, closing, client-archetypes, blair-enns, cialdini, leverage, first-client-call, business-development, ambassador, presenting, pitching, money-mindset, strategy-selling, order-taker, trusted-advisor, jobs-to-be-done, decks-are-crutches, difficult-clients, boundary-setting, know-trust-like, inbound-outbound]
+tags: [sales, negotiation, objection-handling, discovery, positioning, client-management, role-play, serve-dont-sell, embrace-and-pivot, qualifying, closing, client-archetypes, blair-enns, cialdini, leverage, first-client-call, business-development, ambassador, presenting, pitching, money-mindset, strategy-selling, order-taker, trusted-advisor, jobs-to-be-done, decks-are-crutches, difficult-clients, boundary-setting, know-trust-like, inbound-outbound, firing-clients, dont-convince, objection-response-deck, control-energy, diagnostic-phase, outcomes-over-craft, strategist-reframe, client-selection, three-outcomes, mirror-the-ask, build-rapport, reciprocity, time-vampires, dinner-test]
 ---
 
 # Sales & Clients — hub
@@ -1437,6 +1437,269 @@ to his father: "nothing in life worth having is free" (2018-01-21, father not na
 
 ---
 
+## 23. Firing / resigning a bad client — refund and pay them to leave (2018)
+
+From "Sometimes You Have To Fire Your Clients" (2018-06-19)
+[[wiki/sources/2018-06-19-yt-y-krWqwFDa8]] — Q&A clip; the audience questions are
+*context, excluded*. A distinct escalation beyond the §8 "refund-and-refer" move: when a
+client is bad enough, **resign them mid-engagement** — refund their money and tell them to
+go, even after the work has started.
+
+> "They were such horrible clients, at some point I said, you know what, I want to resign
+> you as a client. Here's your money back, good luck with your life." (2018-06-19)
+
+- **Paying a client to leave is the final, unmistakable signal** — those clients don't come
+  back and shouldn't be re-approached: "When somebody pays you not to do the work, I think
+  you get the hint, right?" Framed as ending a bad romantic relationship — someone willing
+  to pay you to leave is the clearest sign you don't belong together (2018-06-19).
+- **It takes courage and conviction** to say "you're not a good fit for me"; most people get
+  flattered into staying (2018-06-19).
+- **Reject "ugly clients" who pay in flattery/exposure** — decline clients who praise your
+  talent while offering little money or only implied value ("good leadership," "real-world
+  experience," "a portfolio"): "'oh you do such great work'… 'and here's a hundred dollars'
+  — no thank you." (2018-06-19)
+- *Related (business note, not sales):* his most creatively rewarding work was music videos
+  for bands, but it is financially unsustainable — the studio spends roughly as much
+  finishing the job as the band pays (2018-06-19).
+
+Extends §8 (refund-and-refer, difficult-client archetypes) and §21 (holding a boundary);
+same non-neediness posture as §12 "don't want the work."
+
+---
+
+## 24. "Don't convince" — needing to convince means you skipped the meeting of the minds (2018)
+
+From "How To Convince Your Clients — Don't!" (2018-06-28)
+[[wiki/sources/2018-06-28-yt-1DJ4hpWvSBY]] — single-speaker teaching answer; the opening
+audience question is *context, excluded*. Chris's reframe when asked how to convince a
+design-illiterate client: **you don't convince — the need to convince is itself the symptom
+of a failure upstream.**
+
+> "if you have to convince them it's because you haven't started here — you haven't had the
+> meeting of the minds. you have an agenda… that's wholly different than what your clients
+> want." (2018-06-28)
+
+- **"Convince" contains "con"** — convincing is adjacent to being conned, tricked, deceived
+  (2018-06-28, wordplay).
+- **You can't convince powerful clients anyway** — "the more powerful they are… the
+  likelihood of you convincing them of something is very very small." (2018-06-28)
+- **Do the upstream work instead** — research, brainstorming, word lists, demographics;
+  understand what the client wants AND what their consumers want, and make sure the two
+  align (2018-06-28).
+- **Become the consumer's advocate** — "in this way you are going to be an advocate for the
+  consumer against the clients short-term self-interest"; help the client *realize the
+  truth* themselves rather than persuading them (2018-06-28).
+- **Designer arrogance carries downstream costs the designer doesn't bear** — a name change
+  can invalidate $3M of printing; a menu redesign can turn three fewer tables per service
+  (2018-06-28, illustrative figures).
+
+> Date precedence: §1 dates "Sales is not convincing, it's not persuading, it's not
+> manipulation" to the 2023-12-23 keynote; this 2018-06-28 clip is an earlier, fuller
+> statement of the same anti-convincing stance, echoed again in §28's "I'm not trying to…
+> convince you of anything" (2018-09-20).
+
+---
+
+## 25. The Objection Response Deck — response-move cards + "control energy → neutral" (2018)
+
+From "The Worst Things That Clients Have Said To Me" (2018-07-13)
+[[wiki/sources/2018-07-13-yt-Blja-ucC5_k]] — a Europe-tour workshop vlog; audience objection
+contributions are *context, excluded*. Chris prototypes a card-based tool, the **Objection
+Response Deck**: a list of the most common client objections plus a set of response "cards"
+you play against them.
+
+**Grounding (Blair Enns, *The Win Without Pitching Manifesto*):** it's the creative's job to
+know the objections before the client voices them and address them upfront — "otherwise you
+come across as being defensive." (2018-07-13) Same name-the-objection instinct as §5 (Eight
+Mile) and §10 (embrace-and-pivot).
+
+**The common objections he codified** (2018-07-13): "your work is mediocre," "it's
+overpriced," "I'm not feeling it," "why should I hire you," "what guarantees can you make,"
+"why should I trust you," "it's more than what I need," "your team is too small/too big,"
+"not enough / too much experience," "not enough expertise."
+
+**The response cards** (2018-07-13) — pick and "play" one (or combine, e.g. acknowledge +
+degree):
+- **Acknowledge** — name the other person's state: "you sound angry, you sound frustrated,
+  is everything okay?" — "that will stop them most of the time dead in their tracks."
+- **Answer with a question**
+- **Degree**
+- **Reflect**
+- **"I don't know"**
+
+**The underlying move — control energy to neutral** (2018-07-13):
+
+> "all I do is I control energy. When the energy is negative I bring it to neutral; when
+> it's so positive I bring it back to neutral. This is the art of Zen."
+
+Posture: demonstrate compassion/empathy, be unbiased, wish the client well, and "give up
+influence to gain power" — "I have no goal, I have no agenda, I'm only here to help you."
+(2018-07-13) The neutral/Zen posture is the objection-handling twin of §18 "managing energy"
+and §17's control-and-direct-energy pitch delivery.
+
+---
+
+## 26. The diagnostic phase — sell business outcomes, not deliverables (2018)
+
+From "Why Designers Focus On The Wrong Thing — Try This Instead" (2018-07-20)
+[[wiki/sources/2018-07-20-yt-Fm7mjeJpyZ4]] — coaching; the coached designer is *context,
+excluded*. Chris's canonical **outcomes-over-craft** argument: designers wrongly compete on
+deliverables ("shiny things") and on price instead of on the business problems those
+deliverables are meant to solve.
+
+- **A deliverable request is the start of the conversation, not the end** — "Clients do come
+  to us wanting deliverables… that's just the beginning of the conversation, that's not the
+  end." (2018-07-20)
+- **Value is created in the diagnostic phase** — ask questions before going down the
+  deliverable path so you surface a problem the client didn't know they had: "It's in the
+  diagnostic phase that I'm able to create value for them — surface problems… tell them
+  something they didn't know." (2018-07-20)
+- **Only confirming what they already know creates zero value → you compete on price** —
+  "You've not created any value for them because they came to you knowing that. So now you're
+  going to compete on price because you haven't added anything to the conversation."
+  (2018-07-20)
+- **Money follows big problems** — the marketing contact who says "we can't afford this"
+  usually isn't the decision-maker; "the CEO, the big decision maker, will say 'we will find
+  money to afford this'" when you solve a real problem (e.g. help raise a $20M round)
+  (2018-07-20).
+- **Point the "big creative brain" at bigger problems** than the deliverable in front of you
+  (2018-07-20).
+
+An earlier, compact statement of the §2 diagnose-before-prescribe / §13 "charge to think" /
+§19 sell-thinking-not-making doctrine; the phrase "diagnostic phase" also appears at §22
+(2018-01-21). See [[wiki/topics/pricing/pricing]].
+
+---
+
+## 27. Proactive client selection + the strategist reframe (2018)
+
+From "Choose Your Clients Wisely" (2018-08-22)
+[[wiki/sources/2018-08-22-yt-wzPPi2mX-ho]] — a conversation with guest brand consultant
+**Henry Kaminsky Jr.** (*context, excluded*); captions are unlabeled, so only the signature
+strategist material is Chris-attributed and the good-client criteria list is
+`attribution: uncertain`.
+
+**The strategist reframe (Chris):** don't wish clients were better communicators —
+**become the better communicator/strategist yourself**, because that's why they hire you.
+
+> "You should aspire to be the better communicator… that's why they're hiring you."
+> (2018-08-22)
+
+- **Clients can't spec what they need — and that's okay** — like a car owner who can't
+  diagnose their own engine for the mechanic; they only have to be open enough to talk and
+  smart enough to recognize a right answer when they hear it (2018-08-22).
+- **Take the journey to strategist / consultant / better listener** — and "not to assume
+  that everything that comes out of the client's mouth is true." (2018-08-22)
+- **Revealing what they don't know is the source of your value:**
+
+> "The more that I'm able to reveal to a client that they don't know, the more valuable I
+> become." (2018-08-22)
+
+**Good-client criteria** (2018-08-22, `attribution: uncertain` — possibly Henry's or a
+blend): self-aware, coachable, has done homework / clear direction, treats the project as
+fun; **values their time** (clients with too much free time turn a 10-minute call into two
+hours); **risk-tolerant** ("if you're looking for the safe choice, we are not the safe
+choice"); shares **common values** ("I don't want to work with people who want to destroy
+the world"). The "not the safe choice" filter is the sales-call inverse of §5's observation
+that clients ultimately want the *safe* choice.
+
+The proactive front-end counterpart to §23 (removing bad clients already in the door) and §8
+(archetypes).
+
+---
+
+## 28. Getting to YES — empathy-first, mirror-the-ask, the three outcomes (2018)
+
+From "Getting Clients to YES" (2018-09-20)
+[[wiki/sources/2018-09-20-yt-F7olfui5Igw]] — a real-time coaching role-play two hours before
+a ~$50k client call; the coachee is *context, excluded*. The prospect's CEO, burned by
+agencies before, is hesitant and wants some bid work done for free.
+
+- **Start from empathy** — understand the client's concerns and why they hesitate before
+  doing anything else (2018-09-20).
+- **Your only obligation is clarity, not persuasion:**
+
+> "our only obligation is to be clear and provide them with information so they can make a
+> decision… I'm not trying to pitch, I'm not trying to sell, I'm not trying to convince you
+> of anything." (2018-09-20)
+
+(Same anti-convincing stance as §24 and §1.)
+
+- **Get the client to state the ask in their own words, then mirror it back** so they hear
+  its absurdity — "so what I'm hearing you say is… you want us to do that work for free…
+  would you recommend that I go tell my boss to do that work for free?" (2018-09-20)
+- **Turn the unreasonable ask into a shared problem** — put the burden back on them: "how do
+  we do that and be sustainable?" (2018-09-20)
+- **The three outcomes** of any prospect interaction: (1) they hire us, (2) they hire someone
+  else, (3) they do nothing (2018-09-20).
+- **De-risk a burned client** — surface the warning signs of the vendor who burned them
+  (small team, no legitimate office), then offer to let them meet the owner/executives, visit
+  the office, or take a virtual tour; offer a **phased engagement** to mitigate risk
+  (2018-09-20).
+
+> Date precedence: §1 states the "three options — hire you, hire someone else, or do nothing"
+> model at 2023-12-23; this 2018-09-20 "three outcomes" is an earlier recorded instance of
+> the same model.
+
+---
+
+## 29. Build rapport — reveal-first reciprocity & "make big talk" (2018)
+
+From "How to build rapport — Lose the Small Talk, Ask Big Questions" (2018-09-24)
+[[wiki/sources/2018-09-24-yt-YKZ1TSZZ5XM]] — the viewer's question is *context, excluded*.
+How Chris warms up a relationship fast and, in business, gets a prospect to disclose goals
+and finances.
+
+- **A little small talk is a necessary warm-up** — "to build rapport with people we have to
+  do a little bit of that first" — but move past it quickly by asking bigger questions
+  (2018-09-24).
+- **"Make big talk"** (references the TEDx talk of that name): time is short, so ask bigger
+  questions — "what got you up this morning" — instead of weather-level small talk; he also
+  owns a physical deck of conversation-starter cards (2018-09-24).
+- **Reveal-first reciprocity** — open by revealing something deeper about yourself and people
+  return in kind: "if you begin the conversation revealing something that is much deeper about
+  yourself people will return in kind most of the time" (beware oversharing) (2018-09-24).
+- **Applied to discovery** — to learn a prospect's goals/financials, disclose your own first:
+  "if I want to know about your business and… your financials… the first thing I do is I tell
+  you what my business goals are, what my finances are… there's this thing of reciprocity that
+  you feel like you got to tell me." (2018-09-24)
+- **Practice from curiosity, aim to be a great listener** — "approach… from the point of view
+  that I'm curious about you, I just want to be a great listener, and it'll build a new
+  version of you." (2018-09-24)
+
+Reciprocity is one of the Cialdini principles Chris names in §10; this is the
+rapport-building application. Complements §9 (practice rapport with strangers) and the §2
+listening stack.
+
+---
+
+## 30. Avoid time-wasters — earliest red flags & the "dinner test" (2018)
+
+From "Avoid Clients Who Waste Your Time" (2018-09-26)
+[[wiki/sources/2018-09-26-yt-15nLfcQxMSQ]] — single-speaker. The **earliest signals**,
+visible in the first emails or the initial sales call, that a client will be a "time
+vampire":
+
+- **"Talking past each other"** — you reply to an email and their next email makes clear they
+  didn't read it: "the communication lag is just gonna be torture." (2018-09-26)
+- **"Just want to pick your brain"** — "people who have the time to sit around picking
+  someone's brain are not busy people"; what they usually want is *validation from an
+  expert*, not advice (2018-09-26).
+- **Bad listeners** — push back on them and they ignore or reject it (2018-09-26).
+- All of these are discoverable quickly; "by the end of a half-hour sales call you'll know if
+  it's a bad fit." (2018-09-26)
+
+**The dinner test** — the boiled-down heuristic:
+
+> "I only work with people I'd like to have dinner with." (2018-09-26)
+
+An early "I think I can hang out with this person" feeling means communication clicks, you
+laugh at each other's jokes, there's mutual trust, and they won't bug you (2018-09-26).
+Sharpens the §8 "trust your gut / vibe in the first meeting" screen and the §9 qualification
+triad ("do I like you?").
+
+---
+
 ## Cross-links
 
 - [[wiki/topics/pricing/pricing]] — value-based pricing, the desired-future-state → value
@@ -1498,6 +1761,22 @@ to his father: "nothing in life worth having is free" (2018-01-21, father not na
   double-down-on-their-thinking, brand-building-not-logo-building; *client role = context.*
 - [[wiki/sources/2018-04-04-yt--C01FC27Jg0]] — Price-buyer / £2,000 branding role-play
   (2018-04-04) — take-away close, insurance-policy reframe, Jim Rohn proportionality.
+- [[wiki/sources/2018-06-19-yt-y-krWqwFDa8]] — Sometimes You Have To Fire Your Clients
+  (2018-06-19) — resign/refund a bad client, "pay you to leave," reject "ugly clients"; *audience = context.*
+- [[wiki/sources/2018-06-28-yt-1DJ4hpWvSBY]] — How To Convince Your Clients — Don't! (2018-06-28) —
+  don't convince, meeting-of-the-minds, discovery, advocate for the consumer.
+- [[wiki/sources/2018-07-13-yt-Blja-ucC5_k]] — The Worst Things Clients Have Said (2018-07-13) —
+  the Objection Response Deck (acknowledge/answer-with-a-question/degree/reflect), control-energy-to-neutral (Blair Enns).
+- [[wiki/sources/2018-07-20-yt-Fm7mjeJpyZ4]] — Designers Focus On The Wrong Thing (2018-07-20) —
+  diagnostic phase, outcomes-over-craft, "tell them something they didn't know," money follows big problems.
+- [[wiki/sources/2018-08-22-yt-wzPPi2mX-ho]] — Choose Your Clients Wisely (2018-08-22) —
+  proactive client selection, strategist reframe ("reveal what they don't know"); *guest Henry Kaminsky Jr. = context.*
+- [[wiki/sources/2018-09-20-yt-F7olfui5Igw]] — Getting Clients to YES (2018-09-20) —
+  empathy-first, mirror-the-ask, three outcomes, de-risk via phased engagement; *coachee = context.*
+- [[wiki/sources/2018-09-24-yt-YKZ1TSZZ5XM]] — How to Build Rapport (2018-09-24) —
+  reveal-first reciprocity, "make big talk," curiosity + listening; *viewer = context.*
+- [[wiki/sources/2018-09-26-yt-15nLfcQxMSQ]] — Avoid Clients Who Waste Your Time (2018-09-26) —
+  earliest red flags (talking-past-each-other, brain-picking, bad listeners), the "dinner test."
 - [[wiki/sources/2018-10-17-yt-DjgVwN_k_88]] — How to Negotiate a Lowball Offer
   (2018-10-17) — anchoring, re-anchoring, negotiate-against-themselves.
 - [[wiki/sources/2019-04-12-yt-ivKnj9ffcmE]] — Value-Based Pricing / AIGA (2019-04-12) —

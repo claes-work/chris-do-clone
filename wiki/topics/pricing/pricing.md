@@ -4,7 +4,7 @@ domain: pricing
 domains: [pricing]
 created: 2026-07-14
 updated: 2026-07-17
-tags: [pricing, value-based-pricing, price-the-client, anchoring, discount-for-uncertainty, raising-rates, objection-handling, negotiation, price-bracketing, competitive-positioning, charge-for-discovery, embrace-and-pivot, storytelling, budget-scope-timeline, budget-first, cant-lose-a-job-you-never-had, value-scale-of-questions, discovery-as-a-service, strategy-pricing, get-paid-to-think, price-as-qualifier, double-the-rate-ladder]
+tags: [pricing, value-based-pricing, price-the-client, anchoring, discount-for-uncertainty, raising-rates, objection-handling, negotiation, price-bracketing, competitive-positioning, charge-for-discovery, embrace-and-pivot, storytelling, budget-scope-timeline, budget-first, cant-lose-a-job-you-never-had, value-scale-of-questions, discovery-as-a-service, strategy-pricing, get-paid-to-think, price-as-qualifier, double-the-rate-ladder, inputs-vs-outputs, desired-future-state, train-of-thought, feeling-thought-reaction, limbic-brain, price-options, attention-ownership, price-first-scope-after]
 ---
 
 # Pricing — hub
@@ -788,6 +788,153 @@ clients._
 
 ---
 
+## 19. Live value-pricing demo — make the client price their own outcome
+
+_Est. 2018-07-23. A live, scripted walkthrough of the value conversation applied to a
+freelancer who wants to work less: surface the desired future state, then attach a dollar
+value to the outcome so the client prices it themselves._
+
+The mechanics behind §2 (the backwards sequence) and §3 (diagnose, don't pitch), shown as
+a running dialogue rather than a principle.
+
+> "I honestly think you should be moving towards a project base thing so that we're not
+> measuring time anymore. We're not selling time as a freelancer." — Chris Do,
+> [[wiki/sources/2018-07-23-yt-eU2neFRbFQc]]
+
+- **Surface the desired future state, but bound it 2–5 years out.** "I want you to try to
+  surface the desired future state. Don't go too far out because then it gets too
+  dreamy... Somewhere between 2 to 5 years seems to work" — far enough to be aspirational,
+  not so far it becomes un-priceable "pie in the sky"
+  ([[wiki/sources/2018-07-23-yt-eU2neFRbFQc]]).
+- **The "half the time = half the revenue as saved value" anchor.** If a client earns the
+  same money in half the working time, the freed-up time carries a dollar value you can
+  name. Chris's live math (applied to the client's own numbers): "If it takes you 30 hours
+  to earn $300,000 a year... you only have to work half of the time... You've done twice as
+  much work in half of the time... So that means I have saved you... $150,000. It's worth
+  $150,000." Framed explicitly as value *found*, not a fee quoted
+  ([[wiki/sources/2018-07-23-yt-eU2neFRbFQc]]).
+- **Price the emotional value too, not just the money saved** — coming in only for "the
+  sale, all the high-level thinking" and none of "the garbage." Ask the client to put a
+  price on that release, not just the revenue ([[wiki/sources/2018-07-23-yt-eU2neFRbFQc]]).
+- **Inputs vs. Outputs — sell the output.** "We're gonna sell what [Peter] Blair calls
+  'Inputs' which is selling time... The 2nd way of bidding and estimating projects is
+  called 'Outputs.' So we don't care how many hours or how many people get involved in the
+  thing. We only care that the product at the end is what we've asked for in the time that
+  we've asked for it." Then: "Now what we want to do is assign a higher dollar value to the
+  output." One workable model is a defined 2–3 week sprint where *you* define what "done"
+  (an MVP) looks like ([[wiki/sources/2018-07-23-yt-eU2neFRbFQc]]).
+
+  > ⚠️ ATTRIBUTION UNCERTAIN: Chris credits the Inputs-vs-Outputs framing to "Peter Blair,"
+  > but the name is likely a garbled reference (possibly conflating Blair Enns). Treat the
+  > *source attribution* as unverified; the Inputs/Outputs distinction as Chris teaches it
+  > is solid. [[wiki/sources/2018-07-23-yt-eU2neFRbFQc]]
+
+- **Don't chase a higher hourly rate first.** You do NOT need to reach $500/hour before your
+  first hire — the plan is to move *off* hourly entirely, not to maximize the hourly number
+  ([[wiki/sources/2018-07-23-yt-eU2neFRbFQc]]).
+
+> CONTEXT (not Chris-attributed): the coachee "Ron" supplies the **"10 chunks" week-budgeting
+> device** — he splits his week into 10 chunks (a morning + an afternoon session each), then
+> allocates chunks to make "free time" quantifiable in the conversation. The framing is the
+> client's; Chris adopts it into the pricing dialogue. All of Ron's income figures
+> ($200K/$300K/$4M) are his own self-reported/aspirational numbers, never Chris's.
+> `[context — client]` [[wiki/sources/2018-07-23-yt-eU2neFRbFQc]]
+
+---
+
+## 20. The "train of thought" — emotional sequencing in money conversations
+
+_Est. 2018-07-30 (Barcelona workshop). Not *what* to say in the low-budget conversation
+(that's §9, §14) but the emotional *order* in which to say it — sequence feeling → thought
+→ reaction instead of leading with the reaction._
+
+Creatives are conflict-averse, so on bad news (a low budget) they either fight the client
+or "shut up and eat it" — both are the *reaction*, the wrong place to start.
+
+> "The train of thought has many parts... one is a reaction, the reaction is the caboose...
+> what's at the front of the train? The engine." — Chris Do,
+> [[wiki/sources/2018-07-30-yt-5r5eQzg11MI]]
+
+- **Engine vs. caboose.** A response is a train: the **engine** at the front is the base
+  *feeling*; the middle cars are what you're *thinking*; the **caboose** at the back is the
+  *reaction* (e.g. "you get what you pay for"). Most people wrongly start at the caboose.
+  "The trick here is: don't start at the ending, start at the beginning"
+  ([[wiki/sources/2018-07-30-yt-5r5eQzg11MI]]).
+- **Correct sequence: feeling → thought → reaction.** "You start with a feeling — and you
+  want to go with a base emotion — and then you want to connect it with things that you're
+  thinking about prior to reacting. It changes the entire complexion of the dialogue." Same
+  content, completely different landing ([[wiki/sources/2018-07-30-yt-5r5eQzg11MI]]).
+- **Worked line:** "I feel a little confused. You talked about this wonderful project with
+  all these features and functions — I just can't resolve in my brain how we could possibly
+  do that... and it makes me feel like, I think you get what you pay for" — the same "you
+  get what you pay for" content, but led by the feeling so it reads as neutral, not
+  combative ([[wiki/sources/2018-07-30-yt-5r5eQzg11MI]]).
+- **Limbic vs. neocortex (why raw emotion comes out wrong).** The base emotion "comes from
+  your limbic brain, the gut feeling, the thing that makes decisions... it doesn't have
+  words." Only when it transfers to the neocortex do words appear, and in that jump things
+  "come out wrong" (his analogy: saying stupid things "around a handsome man or a pretty
+  girl") ([[wiki/sources/2018-07-30-yt-5r5eQzg11MI]]).
+- **The "feeling chart" tool.** Pick a *constructive* base feeling to start from ("confused,"
+  "uncomfortable") — not extremes like "loathing," "angry," or "ecstasy." The real aim is
+  mindfulness: becoming aware enough of your thoughts to "think about your reaction before
+  you say things" ([[wiki/sources/2018-07-30-yt-5r5eQzg11MI]]).
+- **Directness beats silence.** "When you don't tell people what you're thinking you're
+  being obscure, you're beating around the bush, and people just want to get a direct answer
+  from you." The core skill: "saying what it is you think without offending people in the
+  room" ([[wiki/sources/2018-07-30-yt-5r5eQzg11MI]]).
+
+> CONTEXT (not Chris-attributed): the workshop participant supplies the combative baseline
+> Chris corrects — "We trained ourselves to fight with them... it is a fight actually" and
+> "If you're willing to pay me for 1k I can't give you work that's worth 10k." Her lines are
+> context, not persona data. `[context — participant]`
+> [[wiki/sources/2018-07-30-yt-5r5eQzg11MI]]
+
+---
+
+## 21. Three price options differentiated by attention & ownership (not labor)
+
+_Est. 2018-10-03. Extends the "always offer three options" idea in §5 with Chris's own
+axis: the tiers differ by how much of his attention/ownership and probability of success
+each buys — not by labor or deliverable count — and he sets the prices *before* scoping._
+
+Where §5's three-option framework (Ron Baker's) shifts the client from "*should* I work
+with you?" to "*how* should I?", this clip specifies **what differentiates the tiers** and
+**the order of operations**.
+
+> "I'm gonna create three prices underneath this — the bottom price $10,000, the middle
+> price 22,000, top price 50,000 — and then I'll start thinking about scope." — Chris Do,
+> [[wiki/sources/2018-10-03-yt-M18yO7BYRNE]]
+
+- **Price first, invent scope after.** Start from a rough sense of what the project is worth
+  to the client and the risks involved, set three numbers, and *then* work out what scope
+  could justify each — the inverse of pricing up from a deliverable list
+  ([[wiki/sources/2018-10-03-yt-M18yO7BYRNE]]).
+- **The differentiator is attention/ownership, not labor.** "The top option is gonna be
+  require the most attention from me, not necessarily the most labor... you probably could
+  easily outsource the labor piece." What the client pays up for is Chris's ownership and
+  the higher odds of success ([[wiki/sources/2018-10-03-yt-M18yO7BYRNE]]).
+- **Inverse client effort — the higher tier needs LESS from the client.** "At the top option
+  I'm probably gonna be requiring less from the client... I'm gonna be taking more ownership
+  of the project, I'm gonna take over as much control of project as I can"
+  ([[wiki/sources/2018-10-03-yt-M18yO7BYRNE]]).
+- **The tier ladder:**
+  - **Bottom (~$10K) — DIY diagnose-and-prescribe.** "The lowest option would be the total
+    DIY option where perhaps I come in, diagnose the situation, prescribe a course of action,
+    and I give them a road map or a report." Least of Chris's attention.
+  - **Middle (~$22K) — collaboration.** "The middle piece is going to be more of a
+    collaboration" between Chris and the client.
+  - **Top (~$50K) — full ownership.** Chris takes over as much control as he can, requires
+    the least from the client, and gives it the most attention
+    ([[wiki/sources/2018-10-03-yt-M18yO7BYRNE]]).
+- **Price buys probability of success.** "As you go up... you're increasing the likelihood
+  that the project will be a success in taking on more ownership"
+  ([[wiki/sources/2018-10-03-yt-M18yO7BYRNE]]).
+
+_Figures ($10K/$22K/$50K) are an illustrative teaching example from a short clip, not a
+fixed rate card._
+
+---
+
 ## Worked figures & self-reported claims
 
 Concrete numbers Chris cites for his own business or in case studies. Studio rates and the
@@ -864,7 +1011,10 @@ qualifying), [[wiki/entities/the-futur|The Futur]].
 - [[wiki/sources/2018-03-02-yt-D2rDvkSfrCI]] — Strategy pricing / value progression ep.9 (get paid to think, separating strategy validates value, say no)
 - [[wiki/sources/2018-03-08-yt-dKIyObgkBVI]] — Sell strategy without visuals role-play ep.10 (strategy $5–10k separate, price-as-qualifier, $5k→$10k→$20k ladder, Club 33 demo)
 - [[wiki/sources/2018-04-04-yt--C01FC27Jg0]] — Handling a price buyer / low-budget client (take-away + insurance-policy script)
+- [[wiki/sources/2018-07-23-yt-eU2neFRbFQc]] — How to work less and make more (live value-pricing demo, half-time-as-saved-value, Inputs vs. Outputs)
+- [[wiki/sources/2018-07-30-yt-5r5eQzg11MI]] — Talk to clients about money, Barcelona workshop (the "train of thought" feeling→thought→reaction sequencing)
 - [[wiki/sources/2018-08-27-yt-gIw-PBNXWgE]] — Raising prices without losing clients (raise on every new client, supply/demand, mindset)
+- [[wiki/sources/2018-10-03-yt-M18yO7BYRNE]] — Give your client price options (three tiers by attention/ownership, price-first-scope-after)
 - [[wiki/sources/2018-10-17-yt-DjgVwN_k_88]] — Negotiating a lowball offer (anchoring, re-anchoring, start high)
 - [[wiki/sources/2019-04-12-yt-ivKnj9ffcmE]] — Value-based pricing (the flip-the-sequence method, discount for uncertainty)
 - [[wiki/sources/2019-12-26-yt-RFk8ZmIDrFM]] — "Your price is too high" role-play (ROI + walk-away, risk reversal)

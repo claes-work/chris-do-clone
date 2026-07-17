@@ -227,6 +227,12 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-05-26 | [MASTERMIND: How Outsiders Break Rules (Ep.9)](2018-05-26-yt-ittd4gieExk.md) | mindset; business | CONTEXT: ~100% Kier McLaren; Chris absent (referenced); Kier entity material |
 | 2018-05-27 | [MASTERMIND: What Failure Teaches About Humility (Ep.10)](2018-05-27-yt-gy5KZlLRl2c.md) | mindset | CONTEXT: ~100% Kier McLaren; Chris absent; completes Kier series (Eps 1–10) |
 | 2018-06-05 | [Gain Clarity w/ Clients Using Objective Criteria — Dr. Holtzman (Pt.1)](2018-06-05-yt-FPouel_NEWI.md) | sales-clients; business | CONTEXT: guest Dr. Samuel Holtzman (criterion-driven discovery); Chris thin (empathy-in-design); Holtzman entity |
+| 2018-06-06 | [Meet Blade Runner 2049 Title Designer — Danny Yount (Pt.1)](2018-06-06-yt-vJ7qXaZW-KY.md) | design-craft | CONTEXT: Danny Yount interview (title-design influence, ~80%); Chris interviewer; Danny-Yount entity + Chris bio nuggets |
+| 2018-06-19 | ★ [Sometimes You Have To Fire Your Clients](2018-06-19-yt-y-krWqwFDa8.md) | sales-clients; business; mindset | resign a bad client (refund + pay them to leave); reject "ugly clients" who pay in exposure; Chris solo; L3-candidate |
+| 2018-06-20 | [Best Career Advice From 3 Industry Pros](2018-06-20-yt-_T_qyf9dlKg.md) | mindset; design-craft | CONTEXT: 3 unnamed guests; Chris absent/host only; no persona data |
+| 2018-06-20 | ★ [Get Clear & Avoid Creative Block — Fuzzy Goals = Fuzzy Results](2018-06-20-yt-HdXfCuKu5Lg.md) | mindset; design-craft | "fuzzy goals = fuzzy results": goal→compass→picture→map, rock-to-arch specificity; Chris teacher, student=context; L3-candidate |
+| 2018-06-22 | [Becoming A Main Title Designer — Danny Yount (Pt.2)](2018-06-22-yt-X-IZG-5ccWA.md) | design-craft | CONTEXT: mostly Danny Yount; Chris adds creative-team-leadership + education/student-debt critique |
+| 2018-06-26 | ★ [Advice for Students — My Life at Design College](2018-06-26-yt-l-3txt1yNDU.md) | mindset; design-craft | RICH biography: ArtCenter years, all-nighters, Bruce Hubbard D-grade, financial-reality (debunks rich-kid myth), 18–19 turning point; L3-candidate |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -276,4 +282,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_256 videos ingested (L2) so far._
+_262 videos ingested (L2) so far._

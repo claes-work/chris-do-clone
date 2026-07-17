@@ -233,6 +233,11 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-06-20 | ★ [Get Clear & Avoid Creative Block — Fuzzy Goals = Fuzzy Results](2018-06-20-yt-HdXfCuKu5Lg.md) | mindset; design-craft | "fuzzy goals = fuzzy results": goal→compass→picture→map, rock-to-arch specificity; Chris teacher, student=context; L3-candidate |
 | 2018-06-22 | [Becoming A Main Title Designer — Danny Yount (Pt.2)](2018-06-22-yt-X-IZG-5ccWA.md) | design-craft | CONTEXT: mostly Danny Yount; Chris adds creative-team-leadership + education/student-debt critique |
 | 2018-06-26 | ★ [Advice for Students — My Life at Design College](2018-06-26-yt-l-3txt1yNDU.md) | mindset; design-craft | RICH biography: ArtCenter years, all-nighters, Bruce Hubbard D-grade, financial-reality (debunks rich-kid myth), 18–19 turning point; L3-candidate |
+| 2018-06-26 | [Domain Name & Brand Naming Strategies](2018-06-26-yt-h1cI9Ti1lG0.md) | branding; content-strategy | CONTEXT: narrated by Ben Burns (NOT Chris); bio nugget: no personal website as of 2018-06 |
+| 2018-06-28 | ★ [How To Convince Your Clients — Don't!](2018-06-28-yt-1DJ4hpWvSBY.md) | sales-clients; mindset | needing-to-convince = you skipped the meeting-of-minds → discovery + advocate-for-consumer + help-them-realize-truth; Chris solo; L3-candidate |
+| 2018-06-29 | [Work Or Go To School — Choose One & Focus](2018-06-29-yt-f-2oME87pl0.md) | mindset; business | school-vs-work as two transactions, choose-one-and-focus; Chris, student=context |
+| 2018-07-01 | ★ [Watch This Before Your Next Internship!](2018-07-01-yt-5FDRD7vMIHc.md) | mindset; design-craft | learning-vs-money sliding scale, top-3-criteria filter, "change the target when you love the work," junior-year timing; L3-candidate |
+| 2018-07-02 | ★ [Why Networking Doesn't Work](2018-07-02-yt-MxShKURqbM0.md) | sales-clients; mindset | attract-your-mentor-by-leveling-up (Brian Tracy, close-the-gap), networking-as-reciprocity; origin story (Epitaph→Novacom→first Buick commercial); L3-candidate |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -282,4 +287,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_262 videos ingested (L2) so far._
+_267 videos ingested (L2) so far._

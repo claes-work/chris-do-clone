@@ -125,3 +125,35 @@ especially (2 landmark pricing videos: 2015-10-08 + 2016-10-22) is ready for a t
 promotion; also design-craft/typography, branding/logo+confidence, mindset/money +
 origin-story→biography, sales/kiss-off script. New context figures: Ben Burns, Melinda
 Livsey (already in futur-instructors entity), Sean Campbell, Dave Moon, Yo Santosa.
+
+## [2026-07-17] ingest | yt batch (@thefutur, 8) — P1 2017–2018 mature Futur (pricing/negotiation)
+
+Third video batch (24 L2 total). 8 P1 → L2, one subagent each, strict attribution.
+Pricing/sales-heavy era; two craft videos turned out to be led by Futur instructors, two
+were guest interviews.
+- ★ Price Buyers / Low-Budget Role Play (2018-04-04) — near-complete price-buyer
+  negotiation script (take-away open, anchor reset, cost-of-inaction, Jim Rohn
+  proportionality, "insurance policy" reframe, graceful exit); 17 quotes. Chris voices
+  the designer role (labeled).
+- ★ Raise Prices Without Losing Clients (2018-08-27) — 9 reusable frameworks for raising
+  rates; 17 quotes.
+- ★ Negotiate a Lowball Offer (2018-10-17) — anchoring/re-anchoring, "start high, make
+  them negotiate against themselves", "whoever says it first"; 13 quotes.
+- ★ What Not To Do With A Design Layout (2017-12-04) — layout craft critique; Chris-led
+  with new co-host Molly; 6 quotes.
+- Present Logo Designs to Clients (2017-12-20) — presenter is BEN BURNS, not Chris →
+  context page, 0 Chris quotes (only Chris's "scaffolding" concept cited secondhand).
+- Simple Tips to Improve your Design (2018-08-01) — MATTHEW ENCINA solo → context page,
+  0 Chris quotes.
+- Will Paterson interview (2018-11-01) — guest origin story (context, firewalled);
+  Chris's imposter-syndrome reframe + "clients seeking you out qualifies you"; 6 quotes.
+- Joey Cofone / Baron Fig Pt.1 (2018-12-01) — guest bio (context, firewalled); Chris's
+  risk/resilience + parenting-vs-comfort framing; 4 quotes. Part 2 is a later ledger item.
+
+Synthesis notes: debt now 3 batches / checkpoint 10. SALES-CLIENTS is now richly sourced
+(role-play script + lowball anchoring + price-buyer handling) and PRICING even more so
+(raise-rates frameworks join the 2 earlier landmark pricing videos) — both ripe for
+topics promotion at the checkpoint. New context figures to consider for entities: Ben
+Burns (already in futur-instructors), Molly (co-host), Will Paterson, Joey Cofone/Baron Fig.
+Reminder: two @thefutur "craft tutorial" P1s are actually Encina/Burns, not Chris — keep
+attribution vigilant on craft titles.

@@ -251,6 +251,12 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-07-27 | [Resume Tips for Designers — How To Stand Out](2018-07-27-yt-KO6zV5C0COc.md) | content-strategy | CONTEXT: non-Chris instructor + co-host Emily; Chris absent; pro-resume-artifact (vs resume-is-dead) |
 | 2018-07-30 | ★ [How To Talk To Clients About Money & Budget — Barcelona](2018-07-30-yt-5r5eQzg11MI.md) | pricing; sales-clients | "train of thought": feeling→thought→reaction sequencing, limbic-vs-neocortex, feeling-chart; Chris lead, partner+host=context; L3-candidate |
 | 2018-07-31 | [Taking the Pressure OFF of Client Presentations](2018-07-31-yt-M2Jls1C9pbE.md) | sales-clients; mindset | CONTEXT: Ben Burns prepping a pitch (channels Chris 2nd-hand); Chris absent; serve-not-prove |
+| 2018-08-02 | [How to Submit Your Portfolio — Application Tips](2018-08-02-yt-onvdHlv0p-Q.md) | design-craft; business | CONTEXT: Greg Gunn + Scott Rothstein; Chris absent |
+| 2018-08-03 | [Supercharge Your Personal Brand Through Instagram](2018-08-03-yt-A7CnmWIPz7o.md) | content-strategy; branding | CONTEXT: unnamed photographer/instructor; Chris absent |
+| 2018-08-06 | ★ [5 YouTube Tips (Neistat, McKinnon, DeFranco)](2018-08-06-yt-6GMYDlGtHo8.md) | content-strategy | Chris's own content playbook: thumbnails, cold-open, persona/props, catchphrase, shareability, "their fear is our opportunity"; influences=context; L3-candidate |
+| 2018-08-07 | [Productivity Tips to Get More Done](2018-08-07-yt-z9ZBn4n1iD8.md) | mindset | CONTEXT (attribution uncertain): could be Chris or a Futur producer; no persona data |
+| 2018-08-08 | [MASTERMIND: Overcome Fear (Ep.13)](2018-08-08-yt-rYJ-_76rDIM.md) | mindset | CONTEXT: ~100% Kier McLaren; Chris absent; Kier entity |
+| 2018-08-13 | [How To Set Up Your Design Business: LLC vs Sole Proprietorship](2018-08-13-yt-3wckIG_SQA8.md) | business | Chris-led but generic legal how-to ("talk to an attorney"); low persona value; coachees=context |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -300,4 +306,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_280 videos ingested (L2) so far._
+_286 videos ingested (L2) so far._

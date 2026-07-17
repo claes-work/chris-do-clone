@@ -251,3 +251,34 @@ Neumeier link). New context/influence entities worth pages later: Ron Baker, Bla
 Brendan Kane, Joana Galvao, Marty Neumeier (recurring). Wealth/money content mapped to
 business+mindset (no 'wealth' folder in taxonomy) — flag for user if a wealth domain is
 wanted. @thefutur guest "masterclass" titles are guest-led — attribution vigilance holds.
+
+## [2026-07-17] ingest | yt batch (@thefutur, 8) — P1 2023–2024 (personal branding, pricing, selling)
+
+Seventh video batch (54 L2 total). 8 P1 → L2. Exceptionally high persona yield — SEVEN
+★L3-candidates. Personal-branding-heavy (aligns with the Unbland Yourself thesis).
+- ★ AdobeMAX 2023 — Personal Branding keynote (2023-12-19) — the full personal-branding
+  framework (four-part comic mythology, Persona vs Shadow, two-word brand, shadow-word +
+  transformer, "make enemies", naming-to-own, EO 5% rule); 28 quotes + rich biography
+  ("loud introvert", Draplin origin of his framework, Jose Caballer pushed him onto camera,
+  "-do" naming + C-D-O monogram). UNBLAND-CORE.
+- ★ Personal Brand Masterclass (2023-12-14) — Chris-taught workshop; two-word-brand
+  exercise, shadow→transformer, "loud introvert" self-analysis; 29 quotes.
+- ★ Branding for Non-Creatives keynote (2024-01-10) — branding fundamentals for business
+  audiences; pricing-as-positioning; The Ugly Company case; 33 quotes + biography.
+- ★ Selling Without Being Salesy (2023-12-23) — "serve-don't-sell" philosophy + SALES
+  framework; 45 quotes.
+- ★ Don't Justify Your Prices (2023-10-19) — have-to-have vs nice-to-have redesign +
+  never-cede-the-higher-ground (symmetry of logic); 18 quotes.
+- ★ Raising Rates $2k→$5k (2023-04-24) — raise-your-rate-to-raise-client-quality ladder;
+  guest (DesignJoy, likely Brett Williams — uncertain) context; 6 Chris quotes.
+- ★ The Secret To 'Great' Design (2023-06-14) — Chris-led critique; teaching philosophy,
+  "do less but do better", bad-to-good gradient critique; 7 quotes.
+- Powerful LinkedIn Presence (2023-12-30) — GUEST "Yasin / Hey J" (context, name uncertain);
+  Chris reframes only; 4 Chris quotes; not L3.
+
+Synthesis notes: debt 7 batches / checkpoint 10. HUGE branding/personal-branding L3 backlog
+now (2 keynotes + masterclass — the Unbland thesis is well sourced) plus more pricing/sales
+landmarks. Influence/entity notes: Aaron Draplin (origin of Chris's branding framework),
+Alex Hormozi (recurring reference), Brett Williams/DesignJoy, Yasin/Hey J. @thefutur P1
+nearly drained (8 left). Plan: 1 more @thefutur P1 batch drains the tier → then Stage S
+synthesis checkpoint (promote the large ★L3 backlog into topics + persona) → Stage P.

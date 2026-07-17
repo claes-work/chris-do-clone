@@ -59,6 +59,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2022-12-15 | ★ [5 Books That Made Me A Millionaire](2022-12-15-yt-6Thuc_W_dDU.md) | mindset; business; sales-clients | book takeaways (Enns, Neumeier, Rohn…); L3-candidate |
 | 2022-12-27 | ★ [5 Money Rules To Make More Money](2022-12-27-yt-o8IdDEJym1U.md) | mindset; business | delegate/value-price/focus/money-talk/invest; L3-candidate |
 | 2023-03-09 | ★ [Attract Customers Like a Magnet (Masterclass 5/5)](2023-03-09-yt-CiyNGOIbwcE.md) | content-strategy; branding; business | attraction-marketing (Chris solo, host=context); L3-candidate |
+| 2023-04-24 | ★ [Raising Your Design Rates $2k→$5k](2023-04-24-yt-kTFhQf5_RxI.md) | pricing; business; sales-clients | raise-rate→better-clients ladder; guest (DesignJoy) context; L3-candidate |
+| 2023-06-14 | ★ [The Secret To 'Great' Design](2023-06-14-yt-SdCzIDmfDAA.md) | design-craft; mindset | teaching philosophy + "do less but do better"; L3-candidate |
+| 2023-10-19 | ★ [Don't Justify Your Prices. Do This Instead.](2023-10-19-yt-Abi8kwkfZbA.md) | pricing; sales-clients; business | have-to-have vs nice-to-have; never cede higher ground; L3-candidate |
+| 2023-12-14 | ★ [How To Build A Successful Personal Brand (Masterclass)](2023-12-14-yt-1kUCm1JPzxg.md) | branding; content-strategy; mindset | two-word-brand, shadow→transformer; Chris-taught; L3-candidate |
+| 2023-12-19 | ★ [Personal Branding — AdobeMAX 2023 keynote](2023-12-19-yt-MVz9mm0Z-7g.md) | branding; content-strategy; mindset | Unbland-core keynote + biography; L3-candidate |
+| 2023-12-23 | ★ [Selling Without Being Salesy](2023-12-23-yt-B-NxAZiDkKo.md) | sales-clients; mindset; business | serve-don't-sell + SALES framework; L3-candidate |
+| 2023-12-30 | [Powerful LinkedIn Presence (LinkedIn Expert)](2023-12-30-yt-GfDMqfnFHxM.md) | content-strategy; branding | guest Yasin/Hey J (context); 4 Chris quotes |
+| 2024-01-10 | ★ [Branding for Non-Creatives — Crash Course Keynote](2024-01-10-yt-h-eRwbbpfxo.md) | branding; content-strategy; business | branding fundamentals keynote + biography; L3-candidate |
 
 ---
-_46 videos ingested (L2) so far._
+_54 videos ingested (L2) so far._

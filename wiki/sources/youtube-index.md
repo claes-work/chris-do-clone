@@ -294,6 +294,11 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-10-22 | [Jurassic Park Movie Poster Design — The One Sheet](2018-10-22-yt-0GDdLY4nLuA.md) | design-craft; branding | CONTEXT: Stuart Schuster + Ben Burns; Chris absent (greenlighter only) |
 | 2018-10-23 | ★ [You're Charging Too Little — Why You're Angry When Clients Call](2018-10-23-yt-yoGvz6lvTfQ.md) | pricing; mindset; sales-clients | resentment/dread-on-a-client-call = you-charged-too-little underpricing signal (Blair Enns); Chris solo; L3-candidate |
 | 2018-10-25 | [Ask More Questions Until The Problem or Solution Becomes Clear](2018-10-25-yt--cuy994Fs64.md) | sales-clients; design-craft; mindset | "foreign idea = invader" psychology, "I sell you your idea," clarity→pricing bridge; Chris solo |
+| 2018-10-26 | [Adobe MAX 2018 — First Impressions & Event Recap](2018-10-26-yt-tkk6yXM2T90.md) | content-strategy; mindset | sponsored recap vlog; Chris "fundamentals-not-tools"; Ben Burns/Matthew=context |
+| 2018-10-29 | [How To Sell Your Design Services Without Experience](2018-10-29-yt-RIVGm5E6KsE.md) | sales-clients; mindset; branding | sell PEOPLE not portfolio/process; reframe toward identity+confidence; Chris solo |
+| 2018-10-30 | ★ [Two Approaches To Talking About Budget With Clients](2018-10-30-yt-DDBWERuvgFA.md) | pricing; sales-clients | emotion-led (Shannon Gabor=context) vs logic-led (Chris) both reject budget-first; order-taker-vs-advisor; low-ball=positioning-problem; L3-candidate |
+| 2018-10-31 | ★ [How To Get More Clients — A Challenge To Get More Leads](2018-10-31-yt-iWDoF1pJfGY.md) | sales-clients; content-strategy; business | "reach out to 30 new people in a week" (Jim Rohn) + bigger-fish/fringe-creatives outreach taxonomy; L3-candidate |
+| 2018-11-02 | [How Do You Communicate What You Do? (1-min tip)](2018-11-02-yt-qTtEPQP6vSM.md) | branding; sales-clients; content-strategy | reframe self-description → customer value: profile customers, find pain-points you solve; Chris solo |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -343,4 +348,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_323 videos ingested (L2) so far._
+_328 videos ingested (L2) so far._

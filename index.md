@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-14 (bootstrap)_
+_Last updated: 2026-07-17 (persona v1 compiled)_
 
 ## Sources
 
@@ -31,10 +31,10 @@ _Last updated: 2026-07-14 (bootstrap)_
 ## Persona (THE PRODUCT)
 
 - [persona/biography.md](persona/biography.md) — dated life timeline, v1 (bootstrap; cites the biography dossier).
-- [persona/voice.md](persona/voice.md) — how they talk (empty skeleton).
-- [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/opinions (empty skeleton).
+- [persona/voice.md](persona/voice.md) — how they talk, v1 (7 cited catchphrases; spoken cadence thin pending transcripts).
+- [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/opinions, v1 (16 beliefs from the dossiers).
 - [persona/appearance.md](persona/appearance.md) — how they look/present (empty skeleton).
-- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt (not compiled yet).
+- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt, **v1** (2026-07-17).
 
 ## Other
 

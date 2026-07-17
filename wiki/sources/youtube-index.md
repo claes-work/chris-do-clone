@@ -306,6 +306,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-11-15 | [What is UX Design? The Definition of UX](2018-11-15-yt-nV1I_098dzg.md) | design-craft | CONTEXT: unidentified UX instructor (not Chris) |
 | 2018-11-21 | [Grow Your Audience by Creating Micro-content Videos](2018-11-21-yt-JZQ_NZJApH8.md) | content-strategy | CONTEXT: Mark Contas (Futur video team); Chris absent |
 | 2018-11-22 | ★ [Identity Design → Brand Strategy — Deep Dive w/ Melinda Livsey (Ep.12)](2018-11-22-yt-3el7kOfTPK4.md) | branding; business; mindset | Chris coaches Melinda(context): questionnaire→strategy-workshop, order-taker-vs-consultant, symptom-vs-root-cause, knowledge→equity, Dan Sullivan 3-yr question; L3-candidate |
+| 2018-11-22 | [UX Design Process — First Questions to Ask](2018-11-22-yt-RjzyZeZo5ZU.md) | design-craft | CONTEXT: non-Chris UX instructor (refers to Ben Burns 3rd person) |
+| 2018-11-24 | ★ [Starting Your Business: Company Culture](2018-11-24-yt-xefSymuwzzI.md) | business; mindset | culture-as-competitive-advantage (compete on treatment+management), burnout-via-project-selection; coachee=context; L3-candidate |
+| 2018-11-25 | [Logo Critique: Custom Lettering — Monoline M in Illustrator](2018-11-25-yt-SPmqQb7AaME.md) | design-craft | Chris-confirmed tool tutorial; optical-correction-over-mathematical; low persona value |
+| 2018-11-27 | [What Would You Do Differently If You Had To Start Over?](2018-11-27-yt-MdxqVGLaLYg.md) | mindset; business | bio nuggets: would-not-have-a-business-partner, camera-fear overcome; moat/gun-turrets metaphor; Chris solo |
+| 2018-12-03 | [Work-Life Balance: Take Mini Vacations — Joey Cofone (Baron Fig, Pt.2)](2018-12-03-yt-apuUYmUGKP0.md) | mindset; business | CONTEXT: ~90% Joey Cofone (Baron Fig); Chris framing only; entity material |
+| 2018-12-04 | ★ [Come Up With Better Ideas — Unlock The Power Of Your Subconscious](2018-12-04-yt-nhUupKOj8I4.md) | design-craft; mindset | DELIBERATE INCUBATION: 2-3 keywords → saturate → stop-and-sleep → capture in shower/walk; clarity=onboarding; Chris solo; L3-candidate |
+| 2018-12-05 | ★ [Take Full Responsibility — Going Against Your Parents' Wishes](2018-12-05-yt-mruxbUxEUS4.md) | mindset | BIOGRAPHY: parents not-supportive of design, ArtCenter, rejected UCLA/UCSD/CalPoly, self-funded, "black sheep" among high-achiever cousins; Chris solo; L3-candidate |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -355,4 +362,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_335 videos ingested (L2) so far._
+_342 videos ingested (L2) so far._

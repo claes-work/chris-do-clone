@@ -658,3 +658,28 @@ High-water mark advanced (through batch 17, L2=129); checkpoint → Done. index.
 persona lines updated. Persona mode (/chrisdo) now loads v3.
 
 Synthesis notes: none (this IS the synthesis pass; 2014–2017 P2 debt drained).
+
+## [2026-07-17] ingest | yt batch (@thefutur, 8) — P2 early-2017 (low-yield: tours/tutorials/guests)
+
+Eighteenth video batch (137 L2 total). Low-persona-value cluster, as expected in the P2 tail. 1 ★L3.
+- ★ Kyle Cooper interview PT1 (2017-03-29) — guest = KYLE COOPER (legendary main-title designer,
+  Se7en; a documented Chris INFLUENCE who gave him his first title gigs — Island of Dr. Moreau,
+  Celtic Pride). Kyle's craft/career = context (firewalled from Chris's bio). Chris's own reusable
+  contributions: "going past the sale" vs "stop at yes", decision-maker-vs-order-taker, go-all-in-
+  on-strengths; 6 Chris quotes. **Kyle Cooper is an ENTITY candidate** (wiki/entities/). PT2 exists.
+- Blind/Futur Studio Tour (2017-02-17) — Chris-narrated; moderate value: "author not maker" media
+  thesis, get-out-of-their-way management, 5pm no-work ritual; 8 quotes. ⚠️ CONTRADICTION: he says
+  "two Emmys" here — conflicts with the registry-verified SINGLE Emmy (Heart of Stone 2010). Recorded
+  as [self-reported]; flag for lint/biography (do NOT propagate "two" as fact).
+- Legally Speaking PT1 & PT2 (Stuart Carroll, attorney) — guest LEGAL expertise = context, NOT
+  encoded as Chris's knowledge or as legal advice; only Chris's business-realist framing kept
+  (6+6 quotes). Stuart Carroll = minor entity candidate.
+- Context/NOT-Chris (0 persona quotes → context pages): Book-Cover Speed Design (no narration),
+  Double-Exposure Photoshop tutorial (Matthew Encina), Stop-Motion On-Set (Blind crew), Ayzenberg
+  Studio Tour (Chris host-only).
+
+Synthesis notes: debt 1 batch / checkpoint 10 (fresh after pass 2). Little to promote (mostly context).
+For NEXT checkpoint: Kyle Cooper's "going past the sale / stop at sale-vs-yes" nuance for sales-clients;
+create wiki/entities pages for Kyle Cooper (influence — first title gigs) and maybe Stuart Carroll
+(legal). LINT ITEM: reconcile the self-reported "two Emmys" (2017 studio tour) vs registry single
+Emmy — biography/system-prompt must keep "an Emmy" (Emmy≠Grammy guardrail already holds). Continue P2.

@@ -93,6 +93,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2017-02-12 | [Typography Manual Cover — Speed Design Pt.1](2017-02-12-yt-5iS3Vt0ZSXk.md) | design-craft | no narration — context only (0 Chris) |
 | 2017-02-15 | ★ [What Lies Were You Told in Design School?](2017-02-15-yt-kWZ1qtvcVHc.md) | design-craft; mindset; business | education-reform thesis; degree-skepticism; L3-candidate |
 | 2017-02-17 | [Typography Manual Cover — Speed Design Pt.2](2017-02-17-yt-IRS4idvfRwc.md) | design-craft | no narration — context only (0 Chris) |
+| 2017-02-17 | [Blind/Futur Studio Tour (FB Live w/ Art Center)](2017-02-17-yt-BFhxfcHCjK8.md) | business; content-strategy; mindset | Chris-narrated; "author not maker" thesis; ⚠️ self-reported "two Emmys" |
+| 2017-02-23 | [Legally Speaking — Attorney Stuart Carroll (PT1)](2017-02-23-yt-LOeJ3be9vJE.md) | business; design-craft | guest attorney (legal = context) |
+| 2017-02-28 | [Book Cover — Speed Design](2017-02-28-yt-AOzBE7kZqCM.md) | design-craft | no narration — context only (0 Chris) |
+| 2017-03-03 | [Legally Speaking — Attorney Stuart Carroll (PT2)](2017-03-03-yt-y0yvfC0JBqI.md) | business; design-craft | guest attorney (legal = context) |
+| 2017-03-08 | [Double Exposure Effect in Photoshop](2017-03-08-yt-Xy8hIBfrizA.md) | design-craft | Matthew Encina, NOT Chris — context only |
+| 2017-03-10 | [On Set: Stop-Motion Commercial](2017-03-10-yt-pZFtuCNhG30.md) | design-craft | Blind crew BTS; Chris not featured — context only |
+| 2017-03-19 | [Ad Agency Studio Tour — Ayzenberg Group](2017-03-19-yt-YAc3jkdb2MU.md) | business | Chris host-only; 0 persona — context only |
+| 2017-03-29 | ★ [Design Legends — Kyle Cooper (PT1)](2017-03-29-yt-Qa7kjIiLdCE.md) | design-craft; business | Kyle Cooper interview (context); Chris "going past the sale" / decision-maker-vs-order-taker; L3-candidate |
 | 2017-03-31 | [Day in the Life — Matthew Encina](2017-03-31-yt-I7YtYmJl4Sw.md) | business; design-craft; content-strategy | Encina day-in-life; NO Chris persona data — context only |
 | 2017-04-22 | [What companies look for in a portfolio](2017-04-22-yt-X_tUOfHpoyM.md) | business; design-craft; mindset | classroom Q&A (CSUN/Dave Moon context) |
 | 2017-06-21 | ★ [Run A Creative Business w/ Melinda Livsey](2017-06-21-yt-D8BN2YSyYkg.md) | business; sales-clients; pricing; branding; mindset | Chris coaches Livsey (context); kiss-off script + money-mindset; L3-candidate |
@@ -149,4 +157,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_129 videos ingested (L2) so far._
+_137 videos ingested (L2) so far._

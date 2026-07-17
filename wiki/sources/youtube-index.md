@@ -313,6 +313,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-12-03 | [Work-Life Balance: Take Mini Vacations — Joey Cofone (Baron Fig, Pt.2)](2018-12-03-yt-apuUYmUGKP0.md) | mindset; business | CONTEXT: ~90% Joey Cofone (Baron Fig); Chris framing only; entity material |
 | 2018-12-04 | ★ [Come Up With Better Ideas — Unlock The Power Of Your Subconscious](2018-12-04-yt-nhUupKOj8I4.md) | design-craft; mindset | DELIBERATE INCUBATION: 2-3 keywords → saturate → stop-and-sleep → capture in shower/walk; clarity=onboarding; Chris solo; L3-candidate |
 | 2018-12-05 | ★ [Take Full Responsibility — Going Against Your Parents' Wishes](2018-12-05-yt-mruxbUxEUS4.md) | mindset | BIOGRAPHY: parents not-supportive of design, ArtCenter, rejected UCLA/UCSD/CalPoly, self-funded, "black sheep" among high-achiever cousins; Chris solo; L3-candidate |
+| 2018-12-10 | [Will AI Take MY Job?](2018-12-10-yt-8mzKkbZUnRA.md) | mindset; business | CONTEXT: guest interview — answers are Seth Godin's (Linchpin, work-vs-job); Chris interviewer only |
+| 2018-12-10 | ★ [How Can I Attract My Ideal Client? Content Marketing w/ Melinda Livsey (Ep.13)](2018-12-10-yt-37gKuNp-XLw.md) | content-strategy; sales-clients; branding | write-for-a-previous-you, give-best-advice-free, creatives-become-champions, community-over-competition; Melinda=context; L3-candidate |
+| 2018-12-11 | [How to Apply What You Learn](2018-12-11-yt-nI5NmyTtyu4.md) | mindset; content-strategy | consume→convert→share, don't-be-a-learning-hoarder; Chris solo |
+| 2018-12-12 | [What Is Your Creative Process? A Documenting Challenge](2018-12-12-yt-DxvKsid8trg.md) | design-craft; mindset; content-strategy | document-tacit-process = precursor to codify-steps + delegation + explain-to-clients; Coffee Challenge; Chris solo |
+| 2018-12-16 | [Pros & Cons of Running A Design Business From Home](2018-12-16-yt-7bDassY8uP0.md) | business; mindset | distributed-teams, remote-hiring, cost-of-living-arbitrage; Chris solo; generic |
+| 2018-12-19 | ★ [How to Make More Time: Document, Delegate, Automate](2018-12-19-yt-I09EDxElu3o.md) | business; mindset | doc mechanics: 2 audiences, 6-point how-to, medium-agnostic, Notion-wiki + public-YouTube training; Matthew/Jonah=context; L3-candidate |
+| 2018-12-20 | ★ [How to Get a Mentor](2018-12-20-yt-3PMB0emL7RY.md) | sales-clients; mindset | value-exchange, ask-SMALL (15min for a yes), scaffolding (trade-up), give-2-5x-value, don't-assume; complements level-up-to-close-gap; L3-candidate |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -362,4 +369,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_342 videos ingested (L2) so far._
+_349 videos ingested (L2) so far._

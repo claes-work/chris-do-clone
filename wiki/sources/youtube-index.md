@@ -167,8 +167,15 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2017-10-17 | [What Motivates Creative People (2 min Cutdown)](2017-10-17-yt-4oGtHgo3OwE.md) | business; mindset | take-care-of-your-people culture/motivation; Chris solo; likely excerpt |
 | 2017-10-24 | [Be a BETTER Creative Director — Communicate](2017-10-24-yt-3jD8i1No1L0.md) | design-craft; business; mindset | CONTEXT: Chris ABSENT (Adobe MAX); Matthew Encina + Molly host; no persona data |
 | 2017-10-31 | [Pitch This! How To Talk About Design Like a Pro](2017-10-31-yt-3jBen84xtSM.md) | sales-clients; design-craft; branding | context-first/story/crescendo pitch structure; Ben+Matthew=context; attribution uncertain |
+| 2017-11-01 | [Master the Pen Tool in Adobe Illustrator](2017-11-01-yt-Ow6g-kHRR1Y.md) | design-craft | pen-tool tutorial; Chris teaching; low persona value (software mechanics) |
+| 2017-11-08 | ★ [Get Out Of Your Comfort Zone — Publicly Commit (Ep.1/4)](2017-11-08-yt-fRUYLjkfZKI.md) | mindset | public-commitment/accountability, conversation difficulty-ladder; Melinda/Rebecca=context; L3-candidate |
+| 2017-11-13 | ★ [Stop Overthinking — Take Action (Ep.3)](2017-11-13-yt-yCFGKzFHnOc.md) | mindset | "too-dumb-to-fail" action model, kayak-vs-ship metaphor; Melinda/guest=context; L3-candidate |
 | 2017-11-15 | ★ [17yr Old Designer Sean Campbell](2017-11-15-yt-xRmqvnKepN4.md) | mindset; design-craft; content-strategy | interview (Campbell = context); logo-critique method; L3-candidate |
+| 2017-11-23 | ★ [The Best Logos Are Simple, Not Overworked](2017-11-23-yt-TH-jqZ4xueI.md) | design-craft; branding | restraint=timelessness, judge mark separate from application, Dieter Rams; Molly=context; L3-candidate |
 | 2017-12-04 | ★ [What Not To Do With A Design Layout](2017-12-04-yt-atS36kzr8zg.md) | design-craft | layout/craft critique; Chris-led (co-host Molly); L3-candidate |
+| 2017-12-07 | ★ [Self-Doubt & Imposter Syndrome — Tips To Overcome](2017-12-07-yt-EIW1Xt5l2T8.md) | mindset | self-confidence-vs-self-esteem, caregiver-imprint, empty-chair; therapist=context; rich Chris biography; L3-candidate |
+| 2017-12-12 | [Learn Typography: Design Course Trailer](2017-12-12-yt-gI8fEZvwZyY.md) | design-craft | promo trailer; VOICE BANK — "if you don't control type, type controls you" catchphrases |
+| 2017-12-15 | ★ [F1 Formula 1 Logo Review Critique](2017-12-15-yt-y42PI9peurI.md) | design-craft; branding | "logo is the tip of the beast" — judge system/business-fit not standalone; Chris solo; L3-candidate |
 | 2017-12-20 | [How To Present Logo Designs to Clients](2017-12-20-yt-BSxg87CoOu4.md) | sales-clients; branding; design-craft | presenter Ben Burns, NOT Chris — context only |
 | 2018-04-04 | ★ [Respond to Price Buyers / Low-Budget Clients (Role Play)](2018-04-04-yt--C01FC27Jg0.md) | sales-clients; pricing; business | price-buyer negotiation script; L3-candidate |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
@@ -220,4 +227,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_200 videos ingested (L2) so far._
+_207 videos ingested (L2) so far._

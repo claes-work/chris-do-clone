@@ -57,8 +57,15 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2016-04-30 | ★ [Big Client Meeting: Sell Large Digital Projects](2016-04-30-yt-FU63Tv3FiKo.md) | sales-clients; business; pricing | big-meeting selling framework (role-play); L3-candidate |
 | 2016-05-14 | [Conversion Optimization Funnel (CRO)](2016-05-14-yt-a6NDggNvspU.md) | content-strategy; business | guest-led (Alan Martinez); 3 Chris quotes |
 | 2016-05-20 | [How to Get a Graphic Design Job in LA](2016-05-20-yt-NnRgT4vRylQ.md) | business; design-craft; content-strategy | hiring/career; intl-designer angle |
+| 2016-06-09 | [How to Get Hired as a Graphic Designer](2016-06-09-yt--9WuYBXZ-jw.md) | business; design-craft; content-strategy | hiring; overlaps existing |
+| 2016-06-16 | ★ [Be a Happier, Better Designer](2016-06-16-yt-6ZtbgCbcyeo.md) | mindset; business | success=growth; "absent a narrative, people invent one"; L3-candidate |
+| 2016-06-21 | ★ [Where Do Good Ideas Come From?](2016-06-21-yt-hvrmngTHVJ8.md) | design-craft; mindset; content-strategy | everything-is-remix; copy-transform-combine; L3-candidate |
+| 2016-06-28 | ★ [What Do I Need to Learn In Design School?](2016-06-28-yt-O4H_7TTe2tM.md) | design-craft; mindset; business | self-directed learning; deliberate discomfort; L3-candidate |
+| 2016-06-30 | ★ [Rethinking Design Education](2016-06-30-yt-veG3WbwwaGk.md) | design-craft; business; mindset | germ of The Futur mission (debt critique, moral obligation); L3-candidate |
 | 2016-07-08 | ★ [Typography Design & Art Direction](2016-07-08-yt-DLeSPCTA9Wg.md) | design-craft | Chris-led masterclass; L3-candidate |
+| 2016-07-13 | ★ [Freelance Tips — Motion Design LA](2016-07-13-yt-C4_O3-TjGWg.md) | business; design-craft | hold/book/challenge freelance-negotiation framework; L3-candidate |
 | 2016-07-16 | [Design Theory: Dynamic Compositions](2016-07-16-yt-z4HjltaEV2E.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
+| 2016-08-11 | ★ [How to Write Content for Web](2016-08-11-yt-wgnUkvMRFsI.md) | content-strategy; design-craft | AIDA-for-headlines + bridge-the-gap; Chris coaches copywriter; L3-candidate |
 | 2016-10-22 | ★ [Pricing Design Work & Creativity (The Guide)](2016-10-22-yt-RKXZ7t_RiOE.md) | pricing; business; sales-clients | value-based pricing doctrine; Chris-led; L3-candidate |
 | 2016-11-06 | ★ [Typography Tutorial — 10 rules](2016-11-06-yt-QrNi9FmdlxY.md) | design-craft | motion "type manual" (written voice); L3-candidate |
 | 2016-11-08 | ★ [I Wish I Knew This: Logo Design](2016-11-08-yt-Unw8GLHtCso.md) | design-craft; branding; business | "difference is confidence"; w/ Ben Burns (context); L3-candidate |
@@ -119,4 +126,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_99 videos ingested (L2) so far._
+_106 videos ingested (L2) so far._

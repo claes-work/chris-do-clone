@@ -488,3 +488,35 @@ framework; MINDSET gains the integrity credo + escape-velocity. Combined with th
 Embrace-and-Pivot, happy-ears, Trojan Storage workflow, and WIN Venn, the next Stage S should
 meaningfully deepen topics/sales-clients + topics/mindset + topics/branding. New context entities:
 Karen McGrane, Alan Martinez (Noble Digital). Continue P2.
+
+## [2026-07-17] ingest | yt batch (@thefutur, 7) — P2 mid-2016 (design-education cluster)
+
+Fourteenth video batch (106 L2 total). 8 selected; 7 → L2 (yt-d77cDtH8bo0 "Web Design Review"
+transient caption fail, left OPEN). High yield — 6 ★L3, incl. a coherent DESIGN-EDUCATION cluster.
+- ★ Rethinking Design Education (2016-06-30) — the GERM of The Futur's mission: quarter-million
+  student-debt critique, "teach them not to be makers" (business of design > craft), offshoring/
+  value-collapse, better creative education as a "moral obligation", Lynda Weinman After-Effects
+  origin. Biography anchors [self-reported] (kids aged 12 & 10 in 2016 — no names). 11 quotes.
+- ★ What to Learn in Design School (2016-06-28) — self-directed learning; deliberate discomfort as
+  the marker of growth; 6 quotes.
+- ★ Be a Happier, Better Designer (2016-06-16) — success=personal-growth (not vision-match);
+  "absent a narrative, people invent one"; "hands up, no excuses" apology framework; 15 quotes.
+  (Credits business-coach Kier for "all companies are customer-service companies".)
+- ★ Where Do Good Ideas Come From? (2016-06-21) — creativity/originality: "everything is a remix",
+  copy-transform-combine (cites Kirby Ferguson), "I'd ban the word plagiarism", master-copy
+  pedagogy; 12 quotes.
+- ★ Freelance Tips — Motion Design LA (2016-07-13) — freelance-negotiation framework: hold/book/
+  challenge, "put yourself on hold first", rate-anchoring, cancellation clauses, bring-conflict-
+  upfront; 18 quotes.
+- ★ How to Write Content for Web (2016-08-11) — Chris coaches copywriter Janica; AIDA-for-web-
+  headlines + "bridge the gap" positioning + "explain it to a fifth grader"; 10 quotes.
+- Get Hired 2016 — overlaps existing hiring coverage; 3 quotes; not L3.
+
+Synthesis notes: debt 6 batches / checkpoint 10. Growing multi-domain ★L3 backlog. This batch adds
+a DESIGN-EDUCATION theme (not yet its own hub — the taxonomy has design-craft + business + mindset;
+the education-reform thesis spans all three and is the ideological ROOT of The Futur — fold into
+biography + business/mission + a design-craft "teaching philosophy" section at the next Stage S).
+Also: freelance-negotiation (business), creativity/remix (design-craft/mindset), web-copywriting
+(content-strategy). New biography anchors + the "moral obligation" education thesis are strong
+persona/biography material. Context entities: Karen McGrane, Alan Martinez, Petrula Vrontikis &
+Alison Goodman (Art Center faculty, 2016 panel). Continue P2.

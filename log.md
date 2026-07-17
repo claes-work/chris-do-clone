@@ -221,3 +221,33 @@ Reinvent + Learn-Anything), content-strategy (tell-your-story + Instagram playbo
 context/influence figures: Marty Neumeier (The Brand Gap — recurring influence), co-host
 "Mo", Michael Janda. Attribution reminder: a "What Is Branding" explainer was actually a
 guest interview — keep checking who actually delivers the content.
+
+## [2026-07-17] ingest | yt batch (@thefutur, 7) — P1 2022–2023 (masterclasses + money/scaling)
+
+Sixth video batch (46 L2 total; 8 selected, 1 skipped). Skipped yt-lzmE3mYrbL0 ("Design
+From Scratch" documentary TRAILER — promo, no page). 7 → L2.
+- 3 GUEST masterclasses, expertise firewalled as context (NOT persona): Brendan Kane
+  (social media; 4 Chris quotes), Joana Galvao (lead-gen; 5 Chris quotes), Ron Baker
+  (value pricing; 6 Chris quotes). NOTE the Baker episode: Chris explicitly credits
+  **Ron Baker + Blair Enns** as the sources of his value-based pricing — a documented
+  influence link to record in beliefs at synthesis.
+- ★ How I Scaled My Creative Agency To $80M (2022-12-01) — "I do / We do / You do"
+  delegation model + Blind biography; the $80M is **[self-reported]** (flagged everywhere);
+  studio credit: main titles for *Dogtown and Z-Boys* (2001); 16 quotes.
+- ★ 5 Books That Made Me A Millionaire (2022-12-15) — takeaways from Blair Enns (Win
+  Without Pitching), Michael Bungay Stanier, Kevin Daley (Socratic Selling), Jim Rohn,
+  Marty Neumeier (Brand Flip); 11 quotes.
+- ★ 5 Money Rules (2022-12-27) — delegate / value-price / focus / have-the-money-
+  conversation / invest-in-compoundable-skills; 14 quotes. Mentions Kyle Cooper, R/Greenberg,
+  Alex Hormozi.
+- ★ Attract Customers Like a Magnet — Masterclass 5/5 (2023-03-09) — CHRIS-taught (host =
+  context); attraction/permission-marketing playbook (Seth Godin lineage) + biography
+  (15 yrs teaching, designer→teacher identity shift); 14 quotes.
+
+Synthesis notes: debt 6 batches / checkpoint 10. Four more Chris L3 landmarks (scaling,
+books, money rules, attraction marketing) + a documented pricing INFLUENCE MAP (Ron Baker,
+Blair Enns) and reading list (adds Michael Bungay Stanier, Kevin Daley, Jim Rohn to the
+Neumeier link). New context/influence entities worth pages later: Ron Baker, Blair Enns,
+Brendan Kane, Joana Galvao, Marty Neumeier (recurring). Wealth/money content mapped to
+business+mindset (no 'wealth' folder in taxonomy) — flag for user if a wealth domain is
+wanted. @thefutur guest "masterclass" titles are guest-led — attribution vigilance holds.

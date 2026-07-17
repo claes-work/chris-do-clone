@@ -52,6 +52,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2021-03-16 | ★ [Reinvent Yourself — Obstacles Are Opportunities](2021-03-16-yt-XH-wD0Jbo5Y.md) | mindset; business | reinvention/origin-story keynote + biography; L3-candidate |
 | 2021-07-11 | ★ [Market Yourself — Tell Your Story Pt.1](2021-07-11-yt-lrM5CRg-O0I.md) | content-strategy; branding; mindset | personal-branding storytelling framework; L3-candidate |
 | 2022-04-20 | ★ [How I Got 800K+ Instagram Followers Organically](2022-04-20-yt-6YFU39Vfw0E.md) | content-strategy; business | organic-growth playbook (self-reported metrics); L3-candidate |
+| 2022-08-11 | [Science of Social Media — Masterclass w/ Brendan Kane](2022-08-11-yt-s9YsIgBX5jg.md) | content-strategy; business | guest masterclass (Kane = context); 4 Chris quotes |
+| 2022-08-22 | [Lead Generation Machine — Masterclass w/ Joana Galvao](2022-08-22-yt-Zl2NEKUCZSg.md) | business; sales-clients; content-strategy | guest masterclass (Galvao = context); 5 Chris quotes |
+| 2022-09-22 | [Price & Value — Masterclass w/ Ron Baker](2022-09-22-yt-TB54_6bEP-A.md) | pricing; business; sales-clients | guest masterclass (Baker = context/influence on Chris's VBP); 6 Chris quotes |
+| 2022-12-01 | ★ [How I Scaled My Creative Agency To $80M](2022-12-01-yt-Qn5PPMhHkXM.md) | business; mindset | "I do/We do/You do" scaling + Blind biography ($80M self-reported); L3-candidate |
+| 2022-12-15 | ★ [5 Books That Made Me A Millionaire](2022-12-15-yt-6Thuc_W_dDU.md) | mindset; business; sales-clients | book takeaways (Enns, Neumeier, Rohn…); L3-candidate |
+| 2022-12-27 | ★ [5 Money Rules To Make More Money](2022-12-27-yt-o8IdDEJym1U.md) | mindset; business | delegate/value-price/focus/money-talk/invest; L3-candidate |
+| 2023-03-09 | ★ [Attract Customers Like a Magnet (Masterclass 5/5)](2023-03-09-yt-CiyNGOIbwcE.md) | content-strategy; branding; business | attraction-marketing (Chris solo, host=context); L3-candidate |
 
 ---
-_39 videos ingested (L2) so far._
+_46 videos ingested (L2) so far._

@@ -714,3 +714,31 @@ add the Kyle Cooper mentor/freelance relationship (already in dossier as R/GA gi
 corroborated) + create wiki/entities/kyle-cooper (influence). Data point: Futur Pro-Call publish
 dates can lag recording by months (this one recorded Oct-2016, published Apr-2017) — date opinions to
 the RECORDING when stated. Continue P2.
+
+## [2026-07-17] ingest | yt batch (@thefutur, 8) — P2 May-2017 (strategy series + failure postmortem)
+
+Twentieth video batch (153 L2 total). 5 ★L3.
+- ★ Strategy debate Pt.2 (2017-05-03) + ★ Pt.3 conclusion (2017-05-05) — complete the "Hope or Hype"
+  strategy series (Pt1 was 2017-05-02): symptoms-vs-root-cause, "common language of business",
+  autonomy→creative-control (Pink), "design is the APPLICATION of strategy / a byproduct not the
+  product", + the Pt3 origin story of Blind's post-2008 decline & brand-strategy pivot, the five
+  collaboration rules, three golden questions, "ask why three times", and the "inverse bell curve /
+  decline of the middle-class designer". 7 + 12 quotes. (Opponent Mark Posh + panel = context.)
+- ★ What Does It Mean To Be Passionate? (2017-05-15) — passion = the visible VOLUME/DEPTH of
+  exploration ("55 versions in 90 minutes"); Art Center intense-competitor origin; 5 quotes.
+- ★ Never Too Late To Get Started In Design (2017-05-20) — age/life-experience as a design ASSET;
+  "class is a job interview / professors are references"; serve-the-brief; 7 quotes. (Reviewee Evan,
+  43-yr career-changer, = context.)
+- ★ How to Deal with Defeat — Losing a $1M Job Pt.1 (2017-05-23) — candid Blind proposal postmortem:
+  metabolizing defeat, the "what we did right" after-action checklist, pitching lessons; 14 quotes.
+  Self-reported figures ($1M project, ~$900k award, $5M annual goal, ~20% of year's billings).
+  ⚠️ NEW self-reported claim: a MILITARY/ARMY background (Army "after-action review"). NOT in the
+  biography dossier; source is attribution:uncertain. Logged to wiki/gaps.md as a VERIFY item — do
+  NOT propagate "Army service" as biographical fact (may be a borrowed AAR concept, not personal service).
+- Context/NOT-Chris: Yo Santosa AIGA solo talk (Chris audience only, 0 quotes; Yo entity candidate),
+  2 Nils Lindstrom typography sessions (guest instructor, Chris absent; Nils entity candidate).
+
+Synthesis notes: debt 3 batches / checkpoint 10. Strategy series (3 parts) is a strong strategy/
+business-of-design promotion cluster for the next checkpoint; also passion + never-too-late + the
+failure-postmortem for mindset. NEW entity candidates: Nils Lindstrom (Art Center type prof), Yo
+Santosa (recurring). VERIFY items carried in gaps.md: "Army background" and "two Emmys". Continue P2.

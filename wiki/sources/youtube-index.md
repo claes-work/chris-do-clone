@@ -111,6 +111,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2017-04-25 | ★ [Beliefs & Behavior Define Your Personal Brand](2017-04-25-yt-MUHQVsOnKbw.md) | branding; mindset; content-strategy | beliefs→brand; think-say-do harmony (Unbland); L3-candidate |
 | 2017-04-28 | ★ [Designing for Business Goals + Client Empathy](2017-04-28-yt-GmHjnLVDcuY.md) | sales-clients; design-craft; business | design-as-business discovery + empathy-as-fiduciary; L3-candidate |
 | 2017-05-02 | ★ [Is Strategy for Creatives Who Can't Design? (Pt.1/3)](2017-05-02-yt-0Cgi_aFM4j8.md) | business; branding; design-craft | "strategy supports the design"; debate (Mark Posh context); L3-candidate |
+| 2017-05-03 | ★ [Is Strategy HOPE for Creatives? (Pt.2/3)](2017-05-03-yt-A65A-yW-FzY.md) | business; branding; design-craft | symptoms-vs-root-cause; autonomy→creative-control; L3-candidate |
+| 2017-05-05 | ★ [Design Strategy: Hope or Hype — Conclusion (Pt.3/3)](2017-05-05-yt-vCz4bRcIcpg.md) | business; branding; content-strategy | Blind post-2008 pivot; three golden questions; inverse-bell-curve; L3-candidate |
+| 2017-05-09 | [Branding Identity — Yo Santosa (AIGA talk)](2017-05-09-yt-3FchyEpyKEc.md) | branding; design-craft | Yo Santosa solo talk; Chris audience only — context |
+| 2017-05-15 | ★ [What Does It Mean To Be Passionate?](2017-05-15-yt-kRNKFtz8_eQ.md) | mindset | passion = volume/depth of exploration ("55 versions"); L3-candidate |
+| 2017-05-15 | [Weighting Type — Nils Lindstrom](2017-05-15-yt-vOfJtag08kU.md) | design-craft | guest instructor typography; Chris absent — context |
+| 2017-05-20 | ★ [Never Too Late To Get Started In Design](2017-05-20-yt-7Z1XaGDFPoE.md) | design-craft; mindset; business | age-as-design-asset; class=job-interview; L3-candidate |
+| 2017-05-23 | ★ [How to Deal with Defeat — Losing a $1M Job (Pt.1)](2017-05-23-yt-3LSk_YXpldc.md) | mindset; business; sales-clients | failure postmortem; ⚠️ self-reported "Army/AAR background" (verify) |
+| 2017-05-24 | [Lettering 01 Course — Nils Lindstrom](2017-05-24-yt-X4z51naCxWY.md) | design-craft | guest instructor lettering course; Chris absent — context |
 | 2017-06-21 | ★ [Run A Creative Business w/ Melinda Livsey](2017-06-21-yt-D8BN2YSyYkg.md) | business; sales-clients; pricing; branding; mindset | Chris coaches Livsey (context); kiss-off script + money-mindset; L3-candidate |
 | 2017-11-15 | ★ [17yr Old Designer Sean Campbell](2017-11-15-yt-xRmqvnKepN4.md) | mindset; design-craft; content-strategy | interview (Campbell = context); logo-critique method; L3-candidate |
 | 2017-12-04 | ★ [What Not To Do With A Design Layout](2017-12-04-yt-atS36kzr8zg.md) | design-craft | layout/craft critique; Chris-led (co-host Molly); L3-candidate |
@@ -165,4 +173,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_145 videos ingested (L2) so far._
+_153 videos ingested (L2) so far._

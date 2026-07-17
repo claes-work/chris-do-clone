@@ -11,6 +11,14 @@ that was missing) and by lint passes. Each entry: date noticed, what was missing
 
 ## Open
 
+- **2026-07-17 — VERIFY: self-reported "military / Army background".** In the million-dollar-loss
+  postmortem ([[wiki/sources/2017-05-23-yt-3LSk_YXpldc]]) Chris references a military/Army background
+  and the Army "after-action review" (AAR) practice. This is NOT in the biography dossier (which has
+  refugee→San Jose→ArtCenter→Blind, no military service). Source page is `attribution: uncertain`.
+  Do NOT propagate "Army service" as biographical fact until corroborated — it may be a borrowed
+  concept (AAR) rather than personal service. Also unresolved: self-reported "two Emmys"
+  ([[wiki/sources/2017-02-17-yt-BFhxfcHCjK8]]) vs registry-verified single Emmy.
+
 - **2026-07-17 — Spoken-voice cadence essentially uncaptured.** persona/voice.md v1 was
   built from the biography/media-inventory dossiers only (no transcripts ingested yet).
   Sentence rhythm, his Socratic/question-first role-play style, fillers, talk

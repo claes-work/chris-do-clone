@@ -190,3 +190,34 @@ beliefs.md + voice.md + topics/mindset). Building A Brand is process context, no
 New context entities to consider: Matthew Encina (Blind CD), Hamilton Family Brewery
 (client). Data point for SUBJECT.md rules: @thefutur "Building A Brand"/documentary series
 are largely team-led — attribution vigilance required (several P1s yield ~0 Chris voice).
+
+## [2026-07-17] ingest | yt batch (@thefutur, 7) — P1 2019–2022 (sales, mindset, content-strategy)
+
+Fifth video batch (39 L2 total). 8 selected; 7 → L2 (yt-lzmE3mYrbL0 hit a transient
+caption-fetch failure — left OPEN for retry next batch, NOT marked no-captions). High
+persona yield; content-strategy (previously thin) now well sourced.
+- ★ Price Too High Role-Play (2019-12-26) — two-play price-objection script (qualify-then-
+  walk + risk-reversal anchor); co-host Mo; 20+ quotes.
+- ★ How to Learn Anything (2020-06-09) — "Five Ingredients" deconstruction + learn-reflect-
+  implement-share cycle; 15 quotes.
+- ★ Use This Sales Technique (2020-08-19) — "Eight Mile Principle" (name the client's
+  objection before they do); Better Call Saul examples quarantined as teaching aids; 13 quotes.
+- ★ Reinvent Yourself (2021-03-16) — reinvention/origin-story keynote (OREO formula,
+  obstacle-as-opportunity, 80/20 reinvention, "you are more than what you make"); 19 quotes
+  + rich autobiography (career arc; The Futur founded after AIGA + Art Center rejected his
+  online-ed pitch; "wife is also a designer" — no name).
+- ★ Tell Your Story Pt.1 (2021-07-11) — personal-branding storytelling framework (Unbland
+  thesis on-ramp); 13 quotes. Part 2 is a later ledger item.
+- ★ 800K Instagram Organically (2022-04-20) — content-strategy organic-growth playbook
+  (give-first/teach/carousels/consistency); 14 quotes; growth metrics self-reported.
+- What Is Branding? (2019-12-31) — actually a MARTY NEUMEIER interview; the branding
+  definition is Neumeier's (context, credit him), only 2 Chris quotes ("brand = reputation").
+
+Synthesis notes: debt now 5 batches / checkpoint 10. Six more L3 landmarks. Domain coverage
+now strong across pricing, sales-clients, mindset, and content-strategy — the next Stage S
+checkpoint (at ~10 batches) should promote: pricing (VBP + estimating landmarks), sales-
+clients (role-play/negotiation/objection scripts + Eight Mile Principle), mindset (AIGA +
+Reinvent + Learn-Anything), content-strategy (tell-your-story + Instagram playbook). New
+context/influence figures: Marty Neumeier (The Brand Gap — recurring influence), co-host
+"Mo", Michael Janda. Attribution reminder: a "What Is Branding" explainer was actually a
+guest interview — keep checking who actually delivers the content.

@@ -45,6 +45,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2019-06-27 | [Building A Brand Ep.6 — Logo Process with Client](2019-06-27-yt-A24V7CUWe4M.md) | sales-clients; branding; design-craft | Chris off-camera (uncertain); mostly team context |
 | 2019-07-03 | [Building A Brand Ep.7 — When Clients Change Their Mind](2019-07-03-yt-pYzRq3fvuDQ.md) | sales-clients; branding; business | Chris cold-open only; mostly team context |
 | 2019-08-12 | ★ [What You Believe Becomes Reality — AIGA 2019 keynote](2019-08-12-yt-f7T1Zs28Deo.md) | mindset; business; branding | landmark mindset keynote + biography; L3-candidate |
+| 2019-12-26 | ★ [When Client Says 'Your Price Is Too High' (Role Play)](2019-12-26-yt-RFk8ZmIDrFM.md) | sales-clients; pricing; business | qualify-then-walk + risk-reversal script; L3-candidate |
+| 2019-12-31 | [What Is Branding? 4-Min Crash Course](2019-12-31-yt-sO4te2QNsHY.md) | branding; business | Marty Neumeier interview — definition is Neumeier's (context) |
+| 2020-06-09 | ★ [How to Learn Anything (Whiteboard)](2020-06-09-yt-ujxvy5NjeRQ.md) | mindset; content-strategy | Five Ingredients + learn-reflect-implement-share; L3-candidate |
+| 2020-08-19 | ★ [Use This Sales Technique When You Pitch](2020-08-19-yt-EeBfMUD7j60.md) | sales-clients; business | "Eight Mile Principle" (name the objection first); L3-candidate |
+| 2021-03-16 | ★ [Reinvent Yourself — Obstacles Are Opportunities](2021-03-16-yt-XH-wD0Jbo5Y.md) | mindset; business | reinvention/origin-story keynote + biography; L3-candidate |
+| 2021-07-11 | ★ [Market Yourself — Tell Your Story Pt.1](2021-07-11-yt-lrM5CRg-O0I.md) | content-strategy; branding; mindset | personal-branding storytelling framework; L3-candidate |
+| 2022-04-20 | ★ [How I Got 800K+ Instagram Followers Organically](2022-04-20-yt-6YFU39Vfw0E.md) | content-strategy; business | organic-growth playbook (self-reported metrics); L3-candidate |
 
 ---
-_32 videos ingested (L2) so far._
+_39 videos ingested (L2) so far._

@@ -614,3 +614,47 @@ business frameworks (Embrace-and-Pivot origin, client red-flags, big-meeting, in
 3-keys, transition/runway, creative-culture) → topics/sales-clients + topics/business; (4) branding
 (Trojan Storage workflow, WIN Venn); (5) new biography facts (Blind Coldplay 'Ink' credit, "Second
 Shift" venture w/ Kier McLaren, $80M etc.). Next iteration: run Stage S, then resume P2.
+
+## [2026-07-17] lint | synthesis pass 2 — P2 era 2014–2017 (system-prompt v3)
+
+Second synthesis checkpoint (triggered at ~9 batches / ~69 L2 pages accumulated since pass 1;
+the 2014–2017 "Skool → The Process" era). Delegated one agent per file (concurrency rule).
+ENRICHED the existing hubs (did NOT rebuild) and lifted the persona product to v3.
+
+Topic hubs enriched (new sections, all dated + cited, contradictions flagged):
+- sales-clients (+5 sections / ~10 frameworks): qualification triad (2014), **Embrace-and-Pivot**
+  method (+ rock-paper-scissor + retreat-and-follow; lineage 2014 seed → 2016 method → 2020
+  Eight Mile), big-client-meeting (elicit each stakeholder's top-3 objections, paid discovery),
+  "don't want the work" negotiation leverage / kill-the-engagement-3x, educe-don't-educate,
+  client-archetype screen + bad-taste objective-measures + alternative compensation.
+- business (+5 sections / ~22 frameworks): go-to-market & the-numbers (want-to-preneur, runway/
+  worry-date), creative-culture (hire AND fire on values; Second Shift venture), the education-
+  reform MISSION (root of The Futur), success-principles + referral ask, layered bid model.
+- mindset (+4 sections / ~16): learning philosophy, momentum/integrity credo, success=growth,
+  overcome self-doubt/fear (hijack-mentors, reality-distortion, "I just sucked less").
+- design-craft (+5 sections / ~18): creativity-remix, copywriting, designer→dev handoff,
+  teaching/education (craft angle), freelance working terms.
+- branding (+6 frameworks): the Blind client-engagement WORKFLOW (CORE/mind-walking/6-category/
+  scaffolding/stylescapes/straight-line) + WIN positioning Venn + brand-messaging.
+- content-strategy (+3 sections / ~7): web-copy (AIDA/bridge-the-gap), content-as-lead-gen,
+  "resume is dead → show work".
+Persona:
+- beliefs.md: ~40 → ~57 cited beliefs (integrity/values, education-reform, culture, self-belief);
+  influences expanded (Mike Janda, Zappos/Hsieh, Daniel Pink, Michael Beirut, Kier McLaren).
+- voice.md → v3: +6 catchphrases ("I copy and steal relentlessly", "I just sucked less",
+  "amateurs give advice experts diagnose", "not making a decision is a decision"...) + deep
+  self-awareness (overcame severe public-speaking terror; learns by MODELING; "logical/robotic"
+  deconstructor; social wallflower). sources 13→18.
+- appearance.md: SEEDED from empty stub → 15 cited self-reported facts (bald; hats + bold
+  eyewear identity system; calm measured on-camera; storyboard-only slides). Watched-video
+  visual sample still flagged as a GAP.
+- biography.md: +~8 facts (Lynda Weinman After-Effects origin; parents-cut-him-off; Blind scale
+  numbers [self-reported]; Second Shift venture; Coldplay 'Ink' interactive video ~2014;
+  education-reform thesis; ~21-yr marriage; overcame anxiety ~2015). sources 9→17. NO family names.
+- system-prompt.md: v2 → **v3** (compiled_from_sources: 129); added voice depth, appearance cues,
+  and the new doctrines by name; guardrails intact (family names, Emmy≠Grammy, self-reported flags).
+
+High-water mark advanced (through batch 17, L2=129); checkpoint → Done. index.md hub counts +
+persona lines updated. Persona mode (/chrisdo) now loads v3.
+
+Synthesis notes: none (this IS the synthesis pass; 2014–2017 P2 debt drained).

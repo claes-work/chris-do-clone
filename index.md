@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-17 (129 L2; draining P2)_
+_Last updated: 2026-07-17 (synthesis pass 2 — hubs enriched, persona v3)_
 
 ## Sources
 
@@ -12,12 +12,12 @@ _Last updated: 2026-07-17 (129 L2; draining P2)_
 ## Topics
 
 - [wiki/topics/pricing/pricing.md](wiki/topics/pricing/pricing.md) — value-based pricing, anchoring, money conversations (hub, **11 frameworks**).
-- [wiki/topics/sales-clients/sales-clients.md](wiki/topics/sales-clients/sales-clients.md) — serve-don't-sell, negotiation, objection scripts, client role-plays (hub, **9 frameworks**).
-- [wiki/topics/business/business.md](wiki/topics/business/business.md) — scaling ("I do/We do/You do"), money rules, mission, Blind/Futur (hub, **7 frameworks**).
-- [wiki/topics/branding/branding.md](wiki/topics/branding/branding.md) — client brand strategy + personal branding / Unbland thesis (hub, **17 frameworks**).
-- [wiki/topics/content-strategy/content-strategy.md](wiki/topics/content-strategy/content-strategy.md) — give-first/attraction, storytelling, organic growth (hub, **10 frameworks**).
-- [wiki/topics/mindset/mindset.md](wiki/topics/mindset/mindset.md) — belief cycle, reframing, discipline, learning & teaching philosophy (hub, **10 frameworks**).
-- [wiki/topics/design-craft/design-craft.md](wiki/topics/design-craft/design-craft.md) — typography, layout critique, art direction, teaching craft (hub, **6 frameworks**).
+- [wiki/topics/sales-clients/sales-clients.md](wiki/topics/sales-clients/sales-clients.md) — serve-don't-sell, negotiation, objection scripts, client role-plays (hub, **14 frameworks**).
+- [wiki/topics/business/business.md](wiki/topics/business/business.md) — scaling ("I do/We do/You do"), money rules, mission, Blind/Futur + education-reform mission (hub, **12 frameworks**).
+- [wiki/topics/branding/branding.md](wiki/topics/branding/branding.md) — client brand strategy + personal branding / Unbland thesis + client-engagement workflow (hub, **23 frameworks**).
+- [wiki/topics/content-strategy/content-strategy.md](wiki/topics/content-strategy/content-strategy.md) — give-first/attraction, storytelling, organic growth (hub, **13 frameworks**).
+- [wiki/topics/mindset/mindset.md](wiki/topics/mindset/mindset.md) — belief cycle, reframing, discipline, learning & teaching philosophy (hub, **14 frameworks**).
+- [wiki/topics/design-craft/design-craft.md](wiki/topics/design-craft/design-craft.md) — typography, layout critique, art direction, creativity/remix, teaching craft (hub, **11 frameworks**).
 
 ## Entities
 
@@ -30,11 +30,11 @@ _Last updated: 2026-07-17 (129 L2; draining P2)_
 
 ## Persona (THE PRODUCT)
 
-- [persona/biography.md](persona/biography.md) — dated life timeline, enriched from 8 autobiographical videos (~25 facts folded in; 5 contradictions flagged).
-- [persona/voice.md](persona/voice.md) — how they talk, **v2** (~55 cited catchphrases + real cadence/humor/register from transcripts).
-- [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/opinions (~40 beliefs; influences subsection; position-changes flagged).
-- [persona/appearance.md](persona/appearance.md) — how they look/present (empty skeleton — needs a watched-video sample).
-- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt, **v2** (2026-07-17; 60 videos, 7 hubs).
+- [persona/biography.md](persona/biography.md) — dated life timeline, enriched across 2 synthesis passes (~33 facts; Coldplay 'Ink', Second Shift, education-reform thesis).
+- [persona/voice.md](persona/voice.md) — how they talk, **v3** (~60 cited catchphrases + self-aware traits: overcame public-speaking terror, learn-by-modeling, "logical/robotic").
+- [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/opinions (~57 beliefs; influences subsection; position-changes flagged).
+- [persona/appearance.md](persona/appearance.md) — how they look/present (**seeded**: 15 cited self-reported facts; watched-video visual sample still a gap).
+- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt, **v3** (2026-07-17; 129 videos, 7 hubs).
 
 ## Other
 

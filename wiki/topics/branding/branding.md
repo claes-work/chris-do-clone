@@ -183,6 +183,144 @@ From blind's *Building A Brand* documentary and the logo-pricing session:
 > confirmed before flowing into persona voice.
 > [[wiki/sources/2019-06-27-yt-A24V7CUWe4M]]
 
+### Framework 18 — The "WIN" positioning Venn (positioning a practice / self)
+
+The earliest fully-worked positioning method in the corpus, from a 2015 *The Process*
+episode. It sits under Framework 3 (positioning relative to competitors, Ries & Trout)
+but adds a concrete self-positioning tool and the tactics for acting on it. (2015-04-28)
+[[wiki/sources/2015-04-28-yt-KSGzJiK9Uz8]]
+
+- **The three-circle Venn**: what you **love** ∩ what you're **good at** ∩ what **pays
+  well**. Each pairing is a trap — love + good-at = "happy but poor"; love + pays-well =
+  "just a dream / you're a dreamer"; good-at + pays-well = "rich but bored" (why designers
+  go in-house). The center of all three is the **WIN**. (2015-04-28)
+  [[wiki/sources/2015-04-28-yt-KSGzJiK9Uz8]]
+- **"Pick one."** A designer can *do* packaging, typography, identity, UX/UI — but should
+  stand for and claim expertise in **one** thing, then bring the rest in later once trusted.
+  > "You can stand for one thing… it's very hard to claim all of these things, so what you
+  > have to do in my opinion is PICK ONE!" (2015-04-28) [[wiki/sources/2015-04-28-yt-KSGzJiK9Uz8]]
+  He grounds "pick one" in the **mental-box** memory argument — the brain remembers only the
+  top of each category (mp3 player → iPod), so claiming everything makes you unmemorable:
+  > "if you try to claim everything, people won't remember you." He **credits this to Marty
+  > Neumeier** (garbled on the caption as "Marty Newman"). (2015-04-28)
+  [[wiki/sources/2015-04-28-yt-KSGzJiK9Uz8]] The book *Positioning: The Battle for the Mind*
+  (**Ries & Trout**) is named in-episode as the canonical source (by co-host Jose, context).
+- **Match and mirror.** To win a client, profile them and adopt their look, tone, messaging,
+  vocabulary and volume so they feel comfortable with you.
+  > "understand who your customers are, and you need to start to sound and look like them."
+  (2015-04-28) [[wiki/sources/2015-04-28-yt-KSGzJiK9Uz8]] Supported with a **Tony Robbins**
+  quote (credited): "people like people who are like themselves, or how they'd like to be."
+- **"Say it / make the claim first."** Most design portfolios "don't say anything" and stake
+  no claim; make a specific benefit-led claim *before* you can fully back it up, then build
+  the proof over time. > "Make the claim first and start to build over time, expertise that
+  > supports your claim." (2015-04-28) [[wiki/sources/2015-04-28-yt-KSGzJiK9Uz8]] *(The
+  "say it and stick to it" phrasing is Jose's, adopted by Chris — context.)*
+
+### Framework 19 — Brand messaging: the voice lives on every touchpoint
+
+The experience-over-logo thesis (Framework 1) applied to *messaging* — from a 2015 solo vlog
+using the W Hotel Taipei as a live case study. (2015-07-21)
+[[wiki/sources/2015-07-21-yt-1LPz8GITlHY]]
+
+- Branding is the *entire experience*, not the mark:
+  > "It's not about the logo and the identity, it's about the entire experience, how you
+  > treat your customers." (2015-07-21) [[wiki/sources/2015-07-21-yt-1LPz8GITlHY]]
+- **Every ordinary touchpoint carries on-brand copy in one consistent voice.** The hotel's
+  toilet-paper roll labeled "backup plan," the comb "for those that like a kinky or straight,"
+  the makeup remover "take it off" — whimsical, playful, lightly cheeky, and always "in the
+  spirit of the brand." This is Framework 5's brand-filter, applied to the whole customer
+  environment rather than one company line. (2015-07-21)
+  [[wiki/sources/2015-07-21-yt-1LPz8GITlHY]]
+- **A versatile logomark and a repeated visual motif compound the brand.** The W reused as a
+  bathroom sign (upright = women, flipped = men); a strong diagonal bias carried across
+  monitors, menus and the fitness club.
+  > "The more ways you can use a logo that you designed and apply throughout the entire
+  > system, the better, the stronger the brand becomes." (2015-07-21)
+  [[wiki/sources/2015-07-21-yt-1LPz8GITlHY]] (Cross-ref Framework 14 — consistency.)
+
+---
+
+## Part 1b — The blind client-engagement workflow (The Process, 2015)
+
+An end-to-end operational workflow for a real identity + web project — the **Trojan Storage**
+rebrand at [[wiki/entities/blind]], narrated by Chris on *The Process* with co-host Jose
+Caballer (context; Jose ran the CORE session and wrote much of the copy). This is the earliest
+detailed picture of *how* the brand-strategy ideas above actually get executed with a client
+in the room, and it prefigures the 2024 customer-first value-prop chain (Framework 6).
+(2015-03-24) [[wiki/sources/2015-03-24-yt-FYHD1fBKZDk]]
+
+### Framework 20 — "Turn on the light": define the user first (CORE + mind-walking)
+
+- The single biggest lever for design style is knowing *who* you build for; without it you're
+  "figuratively bumping around in the dark" on intuition alone.
+  > "Let's turn on the light on this… once you know who you're building it for… it's
+  > exponentially easier." (2015-03-24) [[wiki/sources/2015-03-24-yt-FYHD1fBKZDk]]
+- **User profiling** (a stripped-down edit of Jose's **CORE framework**, context): write a
+  short "Central Casting" story for each primary customer type — demographics *and*
+  psychographics (opinions, attitudes, behaviors) — then derive their wants and needs. Done
+  *live with the client*, time-boxed (~15 min per profile, top-three needs each).
+- **"Mind walking"** empathy exercise: map what the customer thinks / hears / does / feels /
+  says / sees (an empathy map in all but name). The prerequisite is empathy + imagination:
+  > "You have to walk in their shoes, look at the world through their eyes." (2015-03-24)
+  [[wiki/sources/2015-03-24-yt-FYHD1fBKZDk]]
+- Doing this *with* the client surfaces truths you can't find online (Trojan's clientele was
+  >90% female, many single moms in transition, lower-middle-class; "moving is one of the most
+  stressful things you can do") — which convert directly to requirements: safe/secure,
+  kid-friendly, simple. > "You have to work hard at making it simple." (2015-03-24)
+  [[wiki/sources/2015-03-24-yt-FYHD1fBKZDk]] The client stance is partnership, not vendorship:
+  > "I'm not a vendor, they're not a client — we are partners." (2015-03-24)
+  [[wiki/sources/2015-03-24-yt-FYHD1fBKZDk]]
+
+### Framework 21 — Six-category brand definition + "scaffolding"
+
+- Define the brand across **six categories** — culture, customer, voice, feel, impact, and
+  X-Factor — pulling keywords and plugging them in "because it's a lot easier to write."
+  Chris **credits the approach to Marty Neumeier**. (2015-03-24)
+  [[wiki/sources/2015-03-24-yt-FYHD1fBKZDk]]
+- Write broad and casual first (pull words without worrying about sentences, "not too
+  self-aware"), then one sentence at a time. He names this **"scaffolding"** — a small step
+  toward the goal where every step advances it — and **credits the term to Dr. Holtzman**.
+  (2015-03-24) [[wiki/sources/2015-03-24-yt-FYHD1fBKZDk]]
+- The positioning statement is written *by the client* in the facilitated session (Chris
+  "filled it in and adjusted"). Logo exploration is driven by the three visual keywords —
+  **safe, strong, secure** ("very visual words, not big abstract ones") — evolving Trojan's
+  literal padlock into an abstract structure that also reads as a lock, preserving brand
+  equity. (2015-03-24) [[wiki/sources/2015-03-24-yt-FYHD1fBKZDk]]
+
+### Framework 22 — Stylescapes, the fit check, and the fun↔functional sweet spot
+
+- **Stylescapes**: typography-driven mood explorations that deliberately *don't* look like
+  websites. Presented **one at a time** (never side by side); each stakeholder is asked
+  likes/dislikes ("getting a temperature read") to build consensus, then a consolidated
+  stylescape is shown. Clients are pre-briefed a week ahead with an example so they know what
+  to expect. Chris presents **neutrally** — > "I have no horse in the game." — refusing to
+  "lead the witness." (2015-03-24) [[wiki/sources/2015-03-24-yt-FYHD1fBKZDk]]
+- **Fit check**: validate the direction *early* ("before we go too far") so the client is
+  never surprised — and because their early reactions reveal things you didn't anticipate.
+  (2015-03-24) [[wiki/sources/2015-03-24-yt-FYHD1fBKZDk]]
+- **Fun ↔ functional spectrum**: when abundant client feedback threatens a "tailspin," plot
+  the extremes — a fun/quirky version at one end, a bold Swiss/boxed-up version at the other —
+  and the "sweet spot" sits in the middle. Defining the edges lets you "walk your way in."
+  (2015-03-24) [[wiki/sources/2015-03-24-yt-FYHD1fBKZDk]]
+
+### Framework 23 — The "straight-line system" (project management) + the designer writes the brief
+
+- **Straight-line system**: the ideal path from brief to delivery is a straight line, but
+  reality zig-zags; put "a ceiling and a basement" on the process to rein it in.
+  > "Designers are powerful, developers are powerful, and clients are powerful — but we've got
+  > to keep them boxed in." He **credits the straight-line idea to Jordan Belfort** (*The Wolf
+  > of Wall Street*), who used it for sales. (2015-03-24)
+  [[wiki/sources/2015-03-24-yt-FYHD1fBKZDk]]
+- **The designer should write the objective/brief**, not a marketer — only the designer sees
+  the work "from beginning to end," so a marketer's brief creates a "chasm" of words that feel
+  good but "don't mean anything" and can't be executed. (Jose pushes back that it can be done
+  collaboratively; Chris concedes collaboration works in a facilitated room but maintains the
+  designer should lead.) (2015-03-24) [[wiki/sources/2015-03-24-yt-FYHD1fBKZDk]]
+- Land-and-expand outcome: the job began as *only* a logo + site facelift and grew into office
+  paint, signage, interior design, 3D renders, and even architectural design work — because
+  defining the user and brand so precisely earned the client's unprompted "you've somehow been
+  able to crawl inside my brain." (2015-03-24) [[wiki/sources/2015-03-24-yt-FYHD1fBKZDk]]
+
 ---
 
 ## Part 2 — Personal branding: the *Unbland Yourself* thesis
@@ -375,8 +513,19 @@ Chris's signature exercise, refined across the 2023 masterclass and AdobeMAX key
   "aha"). [[wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]]; [[wiki/sources/2021-07-11-yt-lrM5CRg-O0I]]
 - **Seth Godin** — marketing as generosity, permission marketing, *All Marketers Are
   Liars*. [[wiki/sources/2024-01-10-yt-h-eRwbbpfxo]]; [[wiki/sources/2023-12-14-yt-1kUCm1JPzxg]]
-- **Al Ries & Jack Trout** (*Positioning*) — positioning relative to competitors.
-  [[wiki/sources/2024-01-10-yt-h-eRwbbpfxo]]
+- **Al Ries & Jack Trout** (*Positioning: The Battle for the Mind*) — positioning relative to
+  competitors; named in-episode as the canonical source.
+  [[wiki/sources/2024-01-10-yt-h-eRwbbpfxo]]; [[wiki/sources/2015-04-28-yt-KSGzJiK9Uz8]]
+- **Marty Neumeier** (again) — the **six-category** brand-definition/keyword method and the
+  **mental-box** memory argument behind "pick one."
+  [[wiki/sources/2015-03-24-yt-FYHD1fBKZDk]]; [[wiki/sources/2015-04-28-yt-KSGzJiK9Uz8]]
+- **Jordan Belfort** (*The Wolf of Wall Street*) — the **straight-line system**, borrowed from
+  sales into project management. [[wiki/sources/2015-03-24-yt-FYHD1fBKZDk]]
+- **Dr. Holtzman** — **"scaffolding"** (small steps that each advance toward the goal).
+  [[wiki/sources/2015-03-24-yt-FYHD1fBKZDk]]
+- **Guy Kawasaki** (hire A+ players) and **Tony Robbins** (people like people who are like
+  themselves — the match-and-mirror basis) — credited in passing.
+  [[wiki/sources/2015-03-24-yt-FYHD1fBKZDk]]; [[wiki/sources/2015-04-28-yt-KSGzJiK9Uz8]]
 - **Carl Jung** — Persona / Shadow. [[wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]];
   [[wiki/sources/2023-12-14-yt-1kUCm1JPzxg]]
 - **Simon Sinek** (buy the why), **Robert McKee** (*Story*), **Stan Lee** (Spider-Man
@@ -387,6 +536,13 @@ Chris's signature exercise, refined across the 2023 masterclass and AdobeMAX key
 
 ## Sources
 
+- [[wiki/sources/2015-03-24-yt-FYHD1fBKZDk]] — *The Process*: Trojan Storage identity + web
+  case study (the blind client-engagement workflow; CORE profiling, mind-walking, six-category
+  brand, scaffolding, stylescapes, fit-check, straight-line PM). 2015-03-24.
+- [[wiki/sources/2015-04-28-yt-KSGzJiK9Uz8]] — *The Process*: "How to Position a Brand" (the
+  WIN Venn — love/good-at/pays-well; pick one; match-and-mirror; claim-first). 2015-04-28.
+- [[wiki/sources/2015-07-21-yt-1LPz8GITlHY]] — *The Process*: Brand Messaging at the W Hotel
+  (experience > logo; on-brand voice on every touchpoint). 2015-07-21.
 - [[wiki/sources/2015-12-13-yt-mnSgHLBpOpw]] — *The Process* w/ Yo Santosa (branding
   masterclass; logo≠brand, brand-filter method). 2015-12-13.
 - [[wiki/sources/2016-11-08-yt-Unw8GLHtCso]] — Why designers undercharge for logos ("the

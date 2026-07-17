@@ -443,10 +443,192 @@ content.
 
 ---
 
+## 11. Copywriting craft for owned media (the 2016 web-copy session)
+
+How Chris writes the words on his *own* media (landing pages, headlines, posts) — the
+messaging craft underneath the media machine. Drawn from a 2016 live session directing
+his studio's website relaunch copy. (Studio was then "Blind.")
+
+- **AIDA applied to web headlines** — his structural template for a page/post: **A**ttention
+  (the headline must be *self-selecting* and appeal to the reader's self-interest — cites
+  *How to Win Friends and Influence People* as a self-selecting title) → **D**etail (the how)
+  → **D**esired state (paint the aspirational picture) → call to **A**ction (the clearer the
+  better — "start a project," "get a quote"). He learned it from a breakdown of the
+  *Glengarry Glen Ross* Alec Baldwin scene. `[2016-08-11]`
+  [[wiki/sources/2016-08-11-yt-wgnUkvMRFsI]]
+
+- **"Bridge the gap" as a positioning device** — frame what you do as bridging a gap the
+  reader feels: goals→results (his favorite — "simple, everyone gets it"),
+  strategy→execution, brand→users, external perception→internal value. Pick one anchor word
+  per side. `[2016-08-11]` [[wiki/sources/2016-08-11-yt-wgnUkvMRFsI]]
+
+- **The "fifth grader" clarity test** — if you can't explain it to your mom or a fifth
+  grader, it's not clear enough; benchmark against "Think Different" / "Just Do It." Pair
+  with his preference for structuring things in **threes**. `[2016-08-11]`
+  [[wiki/sources/2016-08-11-yt-wgnUkvMRFsI]]
+
+  > "If you had to explain it to your mom or a fifth grader... when you can explain it that
+  > way, like Think Different, I don't have to explain it to anybody. It's that clear." —
+  > Chris Do `[2016-08-11]`
+
+- **Don't sell in the copy — ask questions.** Avoid "artful," "beautiful design,"
+  "award-winning" ("that's not what matters"), and never say "trust us." Demonstrate value
+  by asking good questions about the reader's situation. `[2016-08-11]`
+  [[wiki/sources/2016-08-11-yt-wgnUkvMRFsI]] (Ties to the "educe / draw out" principle in
+  §12 and to §2 attraction marketing.)
+
+  > "When you say trust us, I don't trust you." — Chris Do `[2016-08-11]`
+
+  > "Don't sell. Don't tell them you're an expert... Just ask them some questions. And the
+  > quality of the questions you ask will then express your value." — Chris Do `[2016-08-11]`
+
+- **Write user-centered, not portfolio-centered.** The old site was reel/"just show me the
+  work"–driven; the new copy starts from what the *user* wants (Simon Sinek's "start with
+  why" — lead with beliefs/values, like Apple). `[2016-08-11]`
+  [[wiki/sources/2016-08-11-yt-wgnUkvMRFsI]] See [[wiki/topics/branding/branding]] for the
+  positioning/"business design consultant" repositioning this copy served.
+
+---
+
+## 12. Content as lead-gen: get found, then draw out (the 2016 SEO/lead-gen session)
+
+Chris's early framing of content as the mechanism that makes better clients *find you* —
+the 2016 seed of the mature attraction-marketing engine in §2.
+
+- **Reframe the problem:** not "how do I find clients" but **"how do better clients find
+  you?"** Most creatives make themselves hard to find, leaning only on referral. (He
+  includes himself.) `[2016-10-19]` [[wiki/sources/2016-10-19-yt-0cyFrU3UaMc]]
+
+  > "You make it really hard to find you. And I include myself in this group. Don't make it
+  > hard to find you." — Chris Do `[2016-10-19]`
+
+- **Own a vertical — be "that guy" for one thing** (cites Michael Bierut/Pentagram as the
+  go-to for logo commentary). Consistency of subject matter earns follows and authority.
+  `[2016-10-19]` [[wiki/sources/2016-10-19-yt-0cyFrU3UaMc]]
+
+  > "So think about what your vertical is. Own it. Hashtag it. Keyword that." — Chris Do
+  > `[2016-10-19]`
+
+- **The "diary of ideas" content workflow** — consume constantly, capture ideas by typing
+  them into Keynote on his phone, export a PNG, and schedule it into his feeds. Treats social
+  as a running idea diary rather than a sales channel. `[2016-10-19]`
+  [[wiki/sources/2016-10-19-yt-0cyFrU3UaMc]]
+
+  > "I just look at Facebook, Twitter and Instagram as my diary of ideas." — Chris Do
+  > `[2016-10-19]`
+
+- **Micro-content — the "pizza" metaphor.** Break one long piece into bite-sized snackable
+  pieces reprocessed for different audiences: a tip becomes a tweet becomes a graphic becomes
+  an infographic. `[2016-10-19]` [[wiki/sources/2016-10-19-yt-0cyFrU3UaMc]] (Distinct from
+  the §9 *format ladder*, which scales one idea *up* tweet→book; here one big piece is broken
+  *down* into many.)
+
+  > "Micro content... you just take a big pizza. You pull the pepperoni off and you sell that
+  > to somebody... just make it like these bite-sized snackable pieces." — Chris Do
+  > `[2016-10-19]`
+
+- **Educate = "educe" = draw OUT, not push in.** Lecturing a client is condescending; ask
+  genuine questions to draw out the real need. This is the sales-conversation twin of the
+  "ask questions, don't sell" copy rule in §11. `[2016-10-19]`
+  [[wiki/sources/2016-10-19-yt-0cyFrU3UaMc]]
+
+  > "The root word is 'educe'. It means to draw out. I'm not trying to push something in.
+  > I'm just trying to draw out what you need." — Chris Do `[2016-10-19]`
+
+- **Warm vs. cold, and "social prospecting."** Cold calling/emailing "doesn't work"; a warm
+  lead has already shown interest, so watch who engages with you and reach out fast with a
+  short, helpful message. The **durable principle:** move on the people who signalled
+  interest, quickly. `[2016-10-19]` [[wiki/sources/2016-10-19-yt-0cyFrU3UaMc]]
+
+  > ⚠️ DATED TACTICS — the *specific* 2016 mechanics here are stale: LinkedIn-profile-viewer
+  > and Wistia-viewer lists as the "warm" signal, hashtag-set testing stored in
+  > Evernote/Google Drive, "market to marketers" outreach, and social-prospecting to the
+  > junior person who runs a company's social account. Treat the platform specifics as
+  > period detail; keep only the durable idea (interest-signal → fast, short, helpful
+  > follow-up). Guest/borrowed tactics — Gary Vaynerchuk's "Jab, Jab, Jab, Right Hook" and
+  > Google's "advertising is dead → entertain me / inform me" framing — are credited to
+  > their sources, not Chris's own.
+
+---
+
+## 13. Self-positioning: "the resume is dead — show the work" (2015–2016 origin)
+
+The earliest articulation of Chris's core content-strategy thesis: you don't get hired by
+*telling* people you're good, you get **found** by showing the work and positioning yourself
+deliberately. This is the origin point of the whole "make yourself easy to find" idea that
+matures into the infinite game (§5) and attraction marketing (§2). Cross-link
+[[wiki/topics/branding/branding]] (positioning) — this page keeps the *content/media* angle.
+
+- **The resume is dead — nobody cares; show the work.** Designers over-invest in the resume
+  as a typographic exercise; a hirer just needs to see the work and decides in ~60 seconds
+  from a link. Your resume lives on LinkedIn, your work lives on Behance/Vimeo. Spend more
+  than ~30 minutes on a resume and "something else is wrong." `[2015-11-29]`
+  [[wiki/sources/2015-11-29-yt-z7Y9TKfgstE]]
+
+  > "Nobody cares. Nobody cares because all I need you to do is to show me the work." —
+  > Chris Do `[2015-11-29]`
+
+  > "Today's resume lives on LinkedIn and your work lives on Behance or on Vimeo... I'm going
+  > to make a decision in 60 seconds if you're the right person or not." — Chris Do
+  > `[2015-11-29]`
+
+- **Go around the gatekeeper — direct outreach past HR.** Sending your work through HR means
+  "you're already screwed"; do your homework, find the decision-maker / creative director,
+  and connect with them directly with a link to your work. `[2015-11-29]`
+  [[wiki/sources/2015-11-29-yt-z7Y9TKfgstE]]
+
+  > "If you have to send your resume in through the HR person, that's your gatekeeper. You're
+  > already screwed... Find out who's making the decisions, who the creative director is, and
+  > connect with them." — Chris Do `[2015-11-29]`
+
+- **Deliberate, evolving self-positioning.** He stopped calling himself "graphic
+  designer/director/motion graphics person" and now describes himself as a **"business design
+  consultant"** — testing labels, watching how people react. How you describe yourself, and
+  who's looking, matters enormously. `[2015-11-29]`
+  [[wiki/sources/2015-11-29-yt-z7Y9TKfgstE]] (This repositioning is what the §11 web copy was
+  written to sell.)
+
+- **Become a media entity / thought leader.** Publish posts and articles, embed video on your
+  profile, and get comfortable on camera — being a "media entity" is increasingly the point.
+  This is the same person, one year before the give-first machine, prescribing content as the
+  path to being found. `[2015-11-29]` [[wiki/sources/2015-11-29-yt-z7Y9TKfgstE]]
+
+- **Invest in in-context mockups, not resume polish** — show the design "living and
+  breathing" in real environments (Behance portfolios, affordable Creative Market comp
+  templates) instead of typesetting a resume. `[2015-11-29]`
+  [[wiki/sources/2015-11-29-yt-z7Y9TKfgstE]]
+
+- **Tailor the portfolio to the target.** Send a fashion client only your watercolor work, a
+  corporate-ID prospect only typography — match what you show to who you're pitching; make
+  multiple tailored landing pages. `[2016-06-09]`
+  [[wiki/sources/2016-06-09-yt--9WuYBXZ-jw]]
+
+> ⚠️ EVOLUTION (soft contradiction): The 2015–2016 self-marketing stance is noticeably more
+> **outbound** — *you* find the decision-maker, reach out, do "social prospecting," market to
+> marketers (§12–13). By 2021–2025 the emphasis inverts toward pure give-first inbound —
+> make people find *you*, and "every ask resets to zero" (§1, §5). The through-line is
+> constant ("make yourself easy to find; show the work"), but early Chris actively knocks on
+> doors where later Chris waits to be knocked on. Consistent with the sequencing he later
+> articulates (transactional/outbound as the on-ramp; give-first as the destination — see the
+> §1/§2 contradiction callouts).
+
+> Note: co-host **Jose Caballer** (2015-11-29: 20th-century-resume thesis, the three resume
+> mistakes, the Nina Mufleh/Airbnb case) is CONTEXT, not persona — excluded above.
+
+---
+
 ## Sources
 
+- [[wiki/sources/2015-11-29-yt-z7Y9TKfgstE]] — "Is Your Design Resume Still Relevant?" —
+  resume-is-dead, show-the-work, self-positioning, direct outreach (2015-11-29)
 - [[wiki/sources/2016-03-15-yt-UE3OufWmnMY]] — "How To: Tell A Great Story — 5
   storytelling tips" (2016-03-15)
+- [[wiki/sources/2016-06-09-yt--9WuYBXZ-jw]] — "How to Get Hired as a Graphic Designer
+  2016" — tailored portfolios matched to the target (2016-06-09)
+- [[wiki/sources/2016-08-11-yt-wgnUkvMRFsI]] — "How to Write Content for Web" — AIDA
+  headlines, bridge-the-gap, fifth-grader clarity test, ask-don't-sell (2016-08-11)
+- [[wiki/sources/2016-10-19-yt-0cyFrU3UaMc]] — "How Will Clients Find You: SEO & Lead
+  Generation pt. 2" — get-found, micro-content pizza, educe, warm-vs-cold (2016-10-19)
 - [[wiki/sources/2020-06-09-yt-ujxvy5NjeRQ]] — "How to Learn Anything (for creatives)" —
   input/output + learn-reflect-implement-share (2020-06-09)
 - [[wiki/sources/2021-07-11-yt-lrM5CRg-O0I]] — "Easy Way To Market Yourself — Tell Your

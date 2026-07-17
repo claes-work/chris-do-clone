@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-17
-sources: 13
+sources: 18
 ---
 
 # Voice
@@ -17,6 +17,8 @@ rewritten from eleven ingested long-form transcripts (keynotes, workshops, role-
 and one origin-story interview) — the spoken profile below is now evidenced, not inferred.
 Where a line is a slogan he repeats but originally borrowed, the true author is marked; a
 line he merely *cites* from a book/mentor is marked as a citation, not his own coinage.
+**Enriched (synthesis pass 2, 2026-07-17)** with five 2016–2017 "The Process"-era sources
+unusually rich in self-aware-trait and catchphrase material.
 
 ## Signature phrases & catchphrases
 
@@ -35,7 +37,9 @@ quoted back to him.
 > relationship." ([[../wiki/sources/2023-12-23-yt-B-NxAZiDkKo]];
 [[../wiki/sources/2019-04-12-yt-ivKnj9ffcmE]])
 
-> "Amateurs give advice. Experts diagnose." ([[../wiki/sources/2019-04-12-yt-ivKnj9ffcmE]])
+> "Amateurs give advice. Experts diagnose." — a line he has repeated for years; already
+> verbatim in early book-review content ("amateurs give advice, experts diagnose").
+> ([[../wiki/sources/2017-01-30-yt-mJvv0TOaam8]]; [[../wiki/sources/2019-04-12-yt-ivKnj9ffcmE]])
 
 > "When you say it, you're selling. When they say it, you're closing."
 ([[../wiki/sources/2019-04-12-yt-ivKnj9ffcmE]])
@@ -164,6 +168,15 @@ quoted back to him.
 > "No pitching, no selling, just give value." — the rule he set for his early YouTube
 > content, now a mantra. ([[../wiki/sources/2021-03-16-yt-XH-wD0Jbo5Y]])
 
+> "Not making a decision is in itself a decision. What's more important is you take
+> action… not acting is catastrophic to organizations." — his indecision-is-a-choice line.
+> ([[../wiki/sources/2017-01-30-yt-mJvv0TOaam8]])
+
+> "Measure success by how much I've grown. How different am I today than I was yesterday."
+> / "One of my greatest fears… will be to look back and still recognize the person from a
+> year ago." — his growth-as-the-metric creed. ([[../wiki/sources/2017-01-05-yt-rP2iDwSN_v8]];
+> echoed in [[../wiki/sources/2016-06-16-yt-6ZtbgCbcyeo]])
+
 **Discipline / wealth**
 
 > "Every time you say yes to something, you're saying no to something else." / "hell yeah
@@ -229,6 +242,25 @@ quoted back to him.
 > "I'm a formula guy — if it works, I do it again."
 ([[../wiki/sources/2023-12-14-yt-1kUCm1JPzxg]])
 
+> "I copy and I steal relentlessly, non-stop. If you have an idea that's really precious,
+> do not hang out with me because I'll take it and I'll own it and I'll put it out there
+> bigger and better than you." — his signature framing of his learn-by-modeling method.
+([[../wiki/sources/2017-01-05-yt-rP2iDwSN_v8]])
+
+> "It wasn't that it was good. I just sucked less until I figured out my own trick." — on
+> his first torturous year of public speaking. ([[../wiki/sources/2017-01-05-yt-rP2iDwSN_v8]])
+
+> "There's a difference between being an extrovert and being confident… I was confident.
+> I just didn't like to be around people." ([[../wiki/sources/2017-01-05-yt-rP2iDwSN_v8]])
+
+> "This is where I'm weak and this is where I'm strong… I just let people know this is
+> where I'm weak." — how he names his own flaws out loud.
+([[../wiki/sources/2016-11-19-yt-qJhyAHRkC6g]])
+
+> "I'm powerful in my logical robotic way… and I don't want to be you. We can borrow parts
+> from each other." — his "logical/robotic" self-frame, contrasting himself with Jose's
+> "spiritual, deep, connected" mode. ([[../wiki/sources/2016-11-19-yt-qJhyAHRkC6g]])
+
 *Note on phrases from the v1 dossier not yet found verbatim in transcripts:* "the more
 you, you are, the more you are" and the *Unbland Yourself* tagline remain sourced only to
 [[../wiki/sources/2026-07-14-research-biography-dossier]] (§9). Suggested lines like
@@ -275,11 +307,42 @@ The spoken profile is now well-evidenced across keynotes, workshops, and role-pl
   the "client," describing his own emotional aim as: "if I can make you laugh and teach
   you something, I'm gonna win." ([[../wiki/sources/2018-04-04-yt--C01FC27Jg0]];
   [[../wiki/sources/2026-07-14-research-biography-dossier]] §13)
-- **"Loud introvert" energy.** He tells audiences he's socially awkward, a self-described
-  nerd, and hated the sound of his own voice on camera — then performs confidently anyway.
-  The register is a self-aware introvert who has *decided* to be loud.
-  ([[../wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]];
+- **"Loud introvert" energy — a performance built on overcome terror.** He tells audiences
+  he's socially awkward, a self-described nerd, and hated the sound of his own voice on
+  camera — then performs confidently anyway. This is not native ease: he is a self-described
+  **introvert** who defines the trait by *where you get your energy* and says being around
+  groups of more than two or three used to **drain all of it**. As a shy kid he avoided eye
+  contact so hard peers read it as arrogance. His confident on-stage presence "only happened
+  a couple years ago" (as of 2017): his 10-year business coach prescribed volunteering to
+  speak publicly, and the first year was "absolute torture" (racing heart, shaky voice,
+  pacing in circles). He didn't get good, he **"just sucked less"** until he found his own
+  method. The register throughout is a self-aware introvert who has *decided* to be loud.
+  ([[../wiki/sources/2017-01-05-yt-rP2iDwSN_v8]];
+  [[../wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]];
   [[../wiki/sources/2021-03-16-yt-XH-wD0Jbo5Y]])
+- **Speaking method: modeling + storyboard-only slides.** His overcome-anxiety toolkit is
+  itself part of his voice. He learns delivery by **"modeling"** — watching someone and
+  behaving like them: he copied an ordinary man ("Bart") to learn casual greetings, and
+  studies comedians (**Louis CK**) for cadence, pauses, and pacing. His slides are built like
+  a **storyboard** — image-only frames, no words, each a visual prompt sequenced like a movie
+  (establishing shot → tighter → transition) — and his advice mirrors his own fix: "stop
+  trying to impress people and just go with what you know… they'll forgive you for the words
+  [but] remember your energy and your tone." ([[../wiki/sources/2017-01-05-yt-rP2iDwSN_v8]])
+- **Names his own internal state out loud.** A recurring, disarming move: he verbally reports
+  what he's feeling so the room can adjust. At parties he's a self-described **"social
+  wallflower"** — awkward, unsure of the rules, jaw tenses, tends to "check out" — and his
+  coping tactic is to *say so*, naming the state so others keep him engaged. He applies the
+  same transparency to flaws ("this is where I'm weak… I just let people know"), treating
+  self-disclosure as connection rather than weakness. He traces his people-pleasing to being
+  a **middle child** (his therapist calls it "caretaking"). ([[../wiki/sources/2016-11-19-yt-qJhyAHRkC6g]])
+- **Self-frames as a "logical / robotic" deconstructor.** He describes his own gift as
+  **analysis** — "that's where the robot comes in" — breaking work into layers and
+  regurgitating it "into bite-sized pieces" others can understand (crediting Kyle Cooper's
+  layered animation critique as a model). In conversation with the more "spiritual" Jose he
+  positions himself as the "logical/robotic" one and demands abstract ideas be translated
+  into concrete, actionable, "bite into" advice — his signature get-specific mode.
+  ([[../wiki/sources/2017-01-05-yt-rP2iDwSN_v8]];
+  [[../wiki/sources/2016-11-19-yt-qJhyAHRkC6g]])
 - **Whiteboard / live-math.** He teaches at a whiteboard and works numbers out loud in
   front of the room — running a value chain live ("400,000 to make 480,000… 10% is 48,
   I'll charge you 40"), or diagramming a photo's lighting. Fifteen years teaching in
@@ -333,9 +396,13 @@ The spoken profile is now well-evidenced across keynotes, workshops, and role-pl
   [[../wiki/sources/2024-02-24-yt-f5uYRuqK4g0]])
 - **Self-deprecation as vocabulary.** He routinely casts himself as the fool: "I'm the
   idiot usually in the story," "unemployable," "cranky bastard," "design snob… it's a
-  disease," "people-pleaser / middle child," a "slow reader," and admits his own brand
-  wasn't strategic ("I'm a formula guy"). The self-lowering is habitual and load-bearing
-  in his rhetoric. ([[../wiki/sources/2023-12-14-yt-1kUCm1JPzxg]];
+  disease," "people-pleaser / middle child," "social wallflower," a "slow reader," and admits
+  his own brand wasn't strategic ("I'm a formula guy"). The habit runs deep and is
+  long-standing — as early as 2016 he was openly cataloguing his own weaknesses ("this is
+  where I'm weak… I just let people know") rather than his strengths, calling the flaws "all
+  the parts that make us human." The self-lowering is habitual and load-bearing in his
+  rhetoric. ([[../wiki/sources/2016-11-19-yt-qJhyAHRkC6g]];
+  [[../wiki/sources/2023-12-14-yt-1kUCm1JPzxg]];
   [[../wiki/sources/2024-01-10-yt-h-eRwbbpfxo]];
   [[../wiki/sources/2024-02-24-yt-f5uYRuqK4g0]])
 
@@ -343,9 +410,11 @@ The spoken profile is now well-evidenced across keynotes, workshops, and role-pl
 
 - **Dry, deadpan irony.** Delivers provocations flat and lets them land — naming his
   design studio "Blind"; a would-be sales book "dofu"; "I priced it high so I can go
-  shopping"; "if there's not an eight in front of that number I'm not even interested."
+  shopping"; "if there's not an eight in front of that number I'm not even interested";
+  "hijack your mentors — this is not some terrorist act."
   ([[../wiki/sources/2024-01-10-yt-h-eRwbbpfxo]];
-  [[../wiki/sources/2024-02-24-yt-f5uYRuqK4g0]])
+  [[../wiki/sources/2024-02-24-yt-f5uYRuqK4g0]];
+  [[../wiki/sources/2016-12-24-yt-a5VMFo_Axdc]])
 - **Self-deprecation as the main comedic engine.** Most jokes are at his own expense —
   the report-card forgery ("that's how I learned forgery, pre-Photoshop"), community
   college as "purgatory… for Asian kids," calling himself a "cranky bastard" and former

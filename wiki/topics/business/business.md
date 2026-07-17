@@ -4,7 +4,7 @@ domain: business
 domains: [business]
 created: 2026-07-14
 updated: 2026-07-17
-tags: [business, entrepreneurship, scaling, agency, delegation, positioning, money, mission, reading-list]
+tags: [business, entrepreneurship, scaling, agency, delegation, positioning, money, mission, reading-list, culture, design-education, cash-flow, referrals]
 ---
 
 # Business — hub
@@ -336,6 +336,283 @@ registry records and caveats):
 
 ---
 
+## 8. Going to market & knowing the numbers
+
+Drawn from two early Process-era (2016) sessions that push a designer to think like a
+business owner.
+
+**Offer one thing first.** When first marketing a studio, lead with a *single* service and
+show as many examples of it as possible — "people are information rich and time poor," and
+a spread of services just confuses buyers. Chris flags multi-service scatter as a mistake
+he made himself over 20 years. The one exception: you *can* lead with **branding**, because
+branding is the "umbrella" offer — but only if you have the case studies to stake and prove
+the expert claim ([[wiki/sources/2016-02-24-yt-4ZeNq6s_aX4]], 2016-02-24). Complements the
+focus/positioning logic in §3.
+
+> "In the very beginning when you're marketing your company, offer one thing and try to show
+> as many examples of that thing as possible, because people are one, information rich, and
+> two, time poor." (2016-02-24)
+
+**Make vs. manage.** A principal who is still producing the work cannot manage the firm —
+"if you're making it, then you can't manage." At any real volume of new opportunities
+there's no time left to make; the owner's job becomes transferring knowledge to younger
+designers so they deliver to the level he promised clients
+([[wiki/sources/2016-02-24-yt-4ZeNq6s_aX4]], 2016-02-24). This is the earlier, blunter
+statement of the essential-work insight in §2.
+
+> "If you're making it, then you can't manage. So you either choose to manage or you choose
+> to make something." (2016-02-24)
+
+**Entrepreneur vs. "want-to-preneur."** (Chris frames it as a Mark Cuban idea.) Most
+creatives love the *idea* of running a company — "it's sexy, 'I run a company'" — but refuse
+to learn the business dynamics: value pricing, order-of-magnitude bidding, asking for the
+sale, talking about money. Wanting the title without the mechanics is the want-to-preneur
+trap ([[wiki/sources/2016-10-28-yt-gm66Etsi2-c]], 2016-10-28).
+
+> "Are you an entrepreneur or are you a want-to-preneur… you like the idea, it's sexy, 'I run
+> a company,' but you don't want to understand the business dynamics." (2016-10-28)
+
+**"Sell what the world can do."** An earlier (2016) articulation of §2. Chris says he "sells
+ideas," not execution — he doesn't know how to build a website; he prices a job to afford the
+best specialist and marks that up. The margin between the specialist's cost and his price —
+"the gap" — is where profit *and* contingency room live: the bigger the gap, the more room
+for mistakes, changes, and things that don't work out
+([[wiki/sources/2016-10-28-yt-gm66Etsi2-c]], 2016-10-28).
+
+> "You guys sell what you do. I sell what the world can do… I don't know how to make a
+> website… I just sell ideas." (2016-10-28)
+
+**Financial IQ = client power.** Knowing your numbers lets you "engage with clients on a
+higher level." The literacy Chris walks designers through
+([[wiki/sources/2016-10-28-yt-gm66Etsi2-c]], 2016-10-28):
+
+- *Gross vs. net.* Gross profit = revenue − cost of goods sold (COGS); net profit = gross −
+  overhead (the intangibles — bookkeeper, attorney — that never appear as project line items).
+- *Runway / "worry date"* — his most reusable cash-flow tool, credited to **Mike Janda**
+  (*Burn Your Portfolio*; Janda's term is "worry date," Chris calls it "runway"): accounts
+  receivable (cash + unpaid invoices) ÷ monthly overhead = months of runway; the **worry
+  date** is runway minus one month — the point at which you must act (cut costs, let people
+  go) before you hit zero. He frames it as an airplane needing runway to land: "if it doesn't,
+  you die."
+- *Lines of credit* — how U.S. businesses bridge cash-flow gaps; build a real banker
+  relationship as a signal of business health.
+
+> "Your financial IQ allows you to engage with clients on a higher level." (2016-10-28)
+
+Self-reported studio numbers from the same session (Blind, 2016): monthly burn rate ≈
+**$200,000/mo** `[self-reported]`; worry date ≈ **6 months** out with no new business; a Wells
+Fargo line of credit ≈ **$600,000** `[self-reported]` (says they've likely never drawn on it),
+on a ~20-year banking relationship ([[wiki/sources/2016-10-28-yt-gm66Etsi2-c]], 2016-10-28). A
+rare candid counter-experiment to his own premium-positioning gospel (§3): to reach clients
+who couldn't afford Blind, the studio literally spun up a **second company** with a new
+identity and deliberately weaker work — it failed, and he went back to the higher-priced
+brand (a data point that ended up *confirming* "raise the gate" rather than refuting it)
+`[self-reported]`.
+
+> ⚠️ CONTRADICTION (practice vs. preach): Chris preaches "financial IQ = client power," yet in
+> the same 2016-10-28 session admits he'd "rather not look at" his own finances and delegates
+> them to his bookkeeper (Monica), CPA, and wife (Jesse) — even conceding designers often
+> "work better when they don't know this stuff." He names this as a weakness to fix, not a
+> model to copy.
+
+---
+
+## 9. Building a creative culture — hire *and* fire on values
+
+Rooted in a candid failure story: at [[wiki/entities/blind|Blind]], Chris first hired purely
+for talent, regardless of shared values, and the culture went unmanaged and toxic — he
+"wasn't happy to show up to work anymore." His coach **Kier McLaren** assigned him to define
+his core values; unable to articulate his own, Chris adapted **Zappos'** published core
+values (from Tony Hsieh's *Delivering Happiness*) into Blind's
+([[wiki/sources/2016-11-03-yt-kmZkRkxWj2c]], 2016-11-03, `[self-reported]`).
+
+> "I let creativity be my guiding force… people that didn't necessarily share my same values
+> or beliefs but they were really good… the company culture was unmanaged and I got to a
+> point in which I wasn't happy to show up to work anymore." (2016-11-03)
+
+Core principles:
+
+- **Hire on values, fire on values.** Values you "live and breathe by" are the hiring *and*
+  firing filter. Blind now screens candidates with tests for values/beliefs; talented misfits
+  "don't get through the net." Purging everyone who didn't fit took ~1.5 years (they quit or
+  were asked to leave); afterward it "felt like a brand-new company" that could move fast
+  ([[wiki/sources/2016-11-03-yt-kmZkRkxWj2c]], 2016-11-03, `[self-reported]`).
+  > "These are things that you have to live and breathe by, so you hire based on your values
+  > and you have to consequently fire based on those values too." (2016-11-03)
+- **Never fire for a first mistake.** Set from the top: "it's okay to fail." Blind won't fire
+  anyone for a mistake — only for *repeating* the same mistake without learning. Fear of
+  mistakes makes designers retreat to the same safe Photoshop/After Effects tricks
+  ([[wiki/sources/2016-11-03-yt-kmZkRkxWj2c]], 2016-11-03).
+  > "We will never fire somebody because they made a mistake. Now if you make the mistake
+  > repeatedly… that's an issue, because you never learn from it." (2016-11-03)
+- **Motivate with more than money.** Chris cites **Daniel Pink** (autonomy, mastery, purpose)
+  as the components of culture and **Simon Sinek** on why people value time and energy over
+  money. Incentive experiment at Blind: cash bonuses worked for senior creatives, but younger
+  designers "rebelled" against more money and wanted pizza parties and monthly bowling
+  instead — they were really buying shared *time*
+  ([[wiki/sources/2016-11-03-yt-kmZkRkxWj2c]], 2016-11-03, `[self-reported]`).
+  > "The one resource that you can't get more of is your time… they wanted time and energy
+  > spent together." (2016-11-03)
+- **Low-cost culture tactics** (from *Delivering Happiness* and colleagues): let people
+  personalize their space; route everyone through one entrance to force interaction; a
+  mandatory 5:00 break with loud music to get people off their machines; goofy dress-up days;
+  group hikes so staff "see the boss sweat" and everyone's on equal footing
+  ([[wiki/sources/2016-11-03-yt-kmZkRkxWj2c]], 2016-11-03).
+- **Managing creatives is "like herding cats."** Emotionally driven and ego-laden — the
+  hardest people to manage, and the same traits make them powerful. Chris now hires for
+  emotional maturity ("it's not about me and my work, it's about solving the problem") and
+  screens culture fit hard — Blind's interview once put "the three weirdest people in the
+  company" in front of a candidate; survive them and you're "family"
+  ([[wiki/sources/2017-02-15-yt-kWZ1qtvcVHc]], 2017-02-15, `[self-reported]`).
+  > "Managing creative staff is like herding cats… they're the hardest people to manage,
+  > period." (2017-02-15)
+
+**Second Shift — the culture-consulting venture.** In 2016 Chris and Kier McLaren plugged a
+joint consulting venture, **Second Shift** `[self-reported]`, that helps creative companies
+evaluate and improve their culture ([[wiki/sources/2016-11-03-yt-kmZkRkxWj2c]], 2016-11-03).
+
+---
+
+## 10. The mission's root — reforming design education
+
+The ideological seed of the "teach 1 billion people" mission (§6) and The Futur's "private
+art school without the crippling debt" self-description
+([[wiki/entities/the-futur]]). Across three 2016–2017 Process episodes Chris builds a
+consistent thesis:
+
+- **Maker vs. strategist — "teach them not to be makers."** Design schools overwhelmingly
+  train *makers* (production/craft), but in a globally connected 2016 world there are far more
+  makers, so the economic value of making is "going really down… really fast." Elite schools
+  should elevate students past the maker role into the harder-to-offshore work: finding
+  clients, distilling briefs, assembling and managing teams, and making money
+  ([[wiki/sources/2016-06-30-yt-veG3WbwwaGk]], 2016-06-30). He's careful to add he still
+  needs, respects and pays his makers well — this is about *expectation management*, not
+  contempt for craft.
+  > "We have to teach them not to be makers. We have to elevate them to be the person who can
+  > go out and find a client, talk about real business problems… put together a team and to
+  > manage that and to make money." (2016-06-30)
+- **Cost vs. value; the student-debt critique.** Cost is the expense; value is what you
+  actually get. A $200k education returning $500k of value is a bargain; returning $100k, it's
+  just an expense. Art schools over-index on hard skills (making) while the soft skills that
+  get people hired and paid — communication, leadership, storytelling, negotiation,
+  entrepreneurship — are learned on the job, if at all. Graduates can carry a quarter-million
+  dollars of uniquely dangerous student debt
+  ([[wiki/sources/2016-12-06-yt-tOr4DoDYXaA]], 2016-12-06;
+  [[wiki/sources/2016-06-30-yt-veG3WbwwaGk]], 2016-06-30).
+  > "If your private school education in design costs $200,000, but you get $500,000 worth of
+  > value, then it's a bargain. But you pay $200,000 and you get $100,000 worth of education —
+  > well, that's an expense." (2016-12-06)
+- **Practice over credentials — "your degree don't matter."** As a hiring manager Chris says
+  he never looks at school, degree, attendance or GPA — the degree's value is "a myth" that
+  worked in the 1980s but not in 2016. He resents that after ~20 years in the field and ~15
+  teaching he's still an "assistant adjunct instructor" for lacking a master's he doesn't
+  want — the qualification being that degrees matter *within academia* (tenure, pay) while
+  field practice matters far more for actually teaching design. His crystallized line: the
+  amount of education is not proportionate to the value you get from it
+  ([[wiki/sources/2016-12-06-yt-tOr4DoDYXaA]], 2016-12-06;
+  [[wiki/sources/2017-02-15-yt-kWZ1qtvcVHc]], 2017-02-15, `[self-reported]`).
+  > "The amount of education that you get is not proportionate to the value you get out of it,
+  > period." (2017-02-15)
+- **The alternatives — apprenticeship and the flipped classroom.** Instead of ~$100k tuition
+  for a 90-second grad reel ("a thousand dollars a second"), pay industry masters ~$10k each
+  to apprentice under them — $100k buys ~10 mentorships around the world. And flip the
+  classroom: record the single best authority once, have students watch at home, and use
+  class time for hard creative problem-solving with teachers acting as *coaches*, not
+  lecturers ([[wiki/sources/2016-12-06-yt-tOr4DoDYXaA]], 2016-12-06; illustrative figures
+  `[self-reported]`).
+  > "For $100,000, how many rock star, trailblazing, industry titans can you get at ten
+  > thousand bucks a pop? … the number is 10." (2016-12-06)
+
+Chris frames leading this reform as a near "moral obligation" of top schools — and, failing
+that, of The Futur ([[wiki/sources/2016-06-30-yt-veG3WbwwaGk]], 2016-06-30). See §6 for the
+mission this thesis grew into, and [[wiki/entities/the-futur]] for the company that
+operationalizes it.
+
+---
+
+## 11. Running the business — success principles & the referral ask
+
+From "How To Run A Design Business pt.1" (2016-10-11), pairing a personal-operating-principles
+talk with a practical lead-generation clinic.
+
+**Three "success principles" — each deliberately inverted from conventional virtue**
+([[wiki/sources/2016-10-11-yt-W9r5NbxxTW0]], 2016-10-11):
+
+1. **Moderation → intensity.** "If you do everything in moderation you live a life of
+   mediocrity." He goes all in — does something well or not at all.
+2. **Patience → urgency.** Your time is your most valuable asset — worth more than the money
+   a client pays. He lives as if tomorrow could be his last day: act now, don't defer.
+3. **Humility → self-love.** Against the training to stay humble, he argues creatives must
+   learn to love themselves and acknowledge their gifts "almost on a daily basis," using that
+   confidence as fuel (he suggests a daily "love letter to yourself" to reprogram low
+   confidence).
+
+> "If you do everything in moderation you live a life of mediocrity… I want to go in all the
+> way. I'm gonna do well at something or I'm not gonna do it at all." (2016-10-11)
+
+> "You have to learn to love yourself, to appreciate the gifts that you have, and to
+> acknowledge that almost on a daily basis." (2016-10-11)
+
+**The scaffolded referral ask.** Word-of-mouth is the most effective lead source (warm leads
+that close) but, as usually practiced, *passive* — you have no control over whether a client
+refers you. Make it active by asking **before the job ends**, while feelings are good and
+you're not yet "out of sight, out of mind." Never open with the hard ask — **scaffold it in
+~3 steps**: (a) confirm they're happy with the work, (b) establish your *need* ("I'm
+expanding my practice, I added a designer"), (c) ask specifically, "is there somebody you
+know I could reach out to?" — phrasing that puts the work on your plate, not theirs — then
+follow up ([[wiki/sources/2016-10-11-yt-W9r5NbxxTW0]], 2016-10-11).
+
+> "You have to scaffold — build up towards it. You have to establish need, desire, then you
+> can do that… usually you can do it three steps." (2016-10-11)
+
+**Reciprocity.** (Chris attributes it to Cialdini's *Influence*.) Genuinely helping someone —
+even connecting them to your chiropractor at no profit — makes them feel indebted and more
+likely to help back; his own paid financial advisor now refers clients to him. He's skeptical
+of formal "networking" (contrived, hidden-agenda) and prefers being a **connector/matchmaker**
+and building real relationships. The closing reframe he endorses from Ben Burns: stop asking
+"how do I find better clients?" and ask "**how do better clients find you?**"
+([[wiki/sources/2016-10-11-yt-W9r5NbxxTW0]], 2016-10-11).
+
+> "When you genuinely help somebody, they feel indebted to you, and they're more likely to
+> help you." (2016-10-11)
+
+---
+
+## 12. The anatomy of a bid — COGS → overhead → profit → value
+
+From a solo book-review of *101 Things I Learned in Business School* (2017-01-30), Chris lays
+out the layered structure of a bid — an early, structured articulation of the value-based
+pricing he's now known for. Four stacked layers
+([[wiki/sources/2017-01-30-yt-mJvv0TOaam8]], 2017-01-30):
+
+1. **Cost of goods sold (COGS)** — labor (you, staff, freelancers, outsourced specialists
+   like web dev) and materials (stock, commissioned illustration, fonts, production).
+2. **Overhead** — rent, equipment, software, utilities, insurance — everything absorbed as an
+   owner, which must be factored into every bid.
+3. **Profit** — a *separate* layer on top. Paying yourself is not profit; covering costs alone
+   means you only broke even, and a business needs profit (roughly 5–40%; The Futur adds ~30%
+   on video/post) as a "rainy-day fund."
+4. **Value to the client** — the highest and most important layer: helping the client hit a
+   business goal (signups, registrations, conversions), campaign value, clarity, and the value
+   of *avoiding* loss (lost sales, a bad 50,000-unit print run).
+
+> "Paying yourself is not considered profit. All businesses need to make profit in order to
+> continue." (2017-01-30)
+
+> "Set a price based on the customer's perception of value." (2017-01-30)
+
+This is the "anatomy of the bid" that sits underneath the value-pricing techniques in
+[[wiki/topics/pricing/pricing]] — cross-referenced there. The same session yields two
+management maxims worth carrying here: **"hire your own boss"** (resist hiring another creative
+like you; hire someone to run the business-of-the-business so you can stay on the work you
+love — a complement to the first-hire logic in §2) and **"amateurs give advice, experts
+diagnose"** (understand the client's real problem before prescribing a logo/website/video)
+([[wiki/sources/2017-01-30-yt-mJvv0TOaam8]], 2017-01-30).
+
+> "Amateurs give advice, experts diagnose." (2017-01-30)
+
+---
+
 ## See also
 
 - [[wiki/topics/pricing/pricing]] — value-based pricing, "price the client not the job,"
@@ -345,8 +622,24 @@ registry records and caveats):
 
 ## Sources
 
+- [[wiki/sources/2016-02-24-yt-4ZeNq6s_aX4]] — "3 Tips on starting your own design agency"
+  (offer one thing; make vs. manage), 2016-02-24
+- [[wiki/sources/2016-06-30-yt-veG3WbwwaGk]] — "Rethinking Design Education" (maker vs.
+  strategist; student-debt critique — education-reform thesis), 2016-06-30
+- [[wiki/sources/2016-10-11-yt-W9r5NbxxTW0]] — "3 Keys To Success / How To Run A Design
+  Business pt.1" (intensity/urgency/self-love; scaffolded referral ask; reciprocity), 2016-10-11
+- [[wiki/sources/2016-10-28-yt-gm66Etsi2-c]] — "Am I An Entrepreneur? design→business
+  transition" (want-to-preneur; sell what the world can do; runway/worry-date), 2016-10-28
+- [[wiki/sources/2016-11-03-yt-kmZkRkxWj2c]] — "How to create a creative culture in a company"
+  (hire/fire on values; low-cost culture tactics; Second Shift), 2016-11-03
+- [[wiki/sources/2016-12-06-yt-tOr4DoDYXaA]] — "Should You Go To Design School: Doing The Math"
+  (cost vs. value; demo-reel math; apprenticeship & flipped classroom), 2016-12-06
 - [[wiki/sources/2016-12-16-yt-jmml6kzmkjY]] — "How I Became A Graphic Designer" (origin
   story Pt. 1), 2016-12-16
+- [[wiki/sources/2017-01-30-yt-mJvv0TOaam8]] — "101 Things I Learned in Business School — Book
+  Review" (layered bid model COGS→overhead→profit→value; management maxims), 2017-01-30
+- [[wiki/sources/2017-02-15-yt-kWZ1qtvcVHc]] — "What Lies Were You Told in Design School?"
+  (degree myth; education not proportionate to value; herding cats), 2017-02-15
 - [[wiki/sources/2017-06-21-yt-D8BN2YSyYkg]] — Melinda Livsey coaching: new business,
   delegation, focus, "raise the gate," money mindset, 2017-06-21
 - [[wiki/sources/2019-08-12-yt-f7T1Zs28Deo]] — "What You Believe Becomes Reality" (AIGA

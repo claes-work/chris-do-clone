@@ -4,15 +4,17 @@ domain: sales-clients
 domains: [sales-clients]
 created: 2026-07-14
 updated: 2026-07-17
-tags: [sales, negotiation, objection-handling, discovery, positioning, client-management, role-play, serve-dont-sell]
+tags: [sales, negotiation, objection-handling, discovery, positioning, client-management, role-play, serve-dont-sell, embrace-and-pivot, qualifying, closing, client-archetypes, blair-enns, cialdini, leverage]
 ---
 
 # Sales & Clients — hub
 
-Chris Do's sales and client-work frameworks: how to sell without being salesy, run a
-discovery/diagnosis conversation, negotiate and anchor price, handle the "your price is
-too high" objection, pre-empt objections, position and "create" a customer, present and
-defend creative work, and manage scope change and difficult clients. Heavy overlap with
+Chris Do's sales and client-work frameworks: how to sell without being salesy, qualify a
+prospect and "ask" for the next step, run a discovery/diagnosis conversation, negotiate and
+anchor price, hold negotiating leverage ("don't want the work"), embrace-and-pivot through
+objections, handle the "your price is too high" objection, pre-empt objections, position and
+"create" a customer, sell a large multi-stakeholder project, present and defend creative work,
+close without over-talking, and manage scope change and difficult clients. Heavy overlap with
 [[wiki/topics/pricing/pricing]] — this hub covers the *conversation and relationship*;
 the pricing hub covers the *number and its construction*.
 
@@ -147,6 +149,24 @@ experience you let them articulate the value of responsiveness and respect —
 "You're the fish that jumped in the boat." The 2023 keynote generalizes this: "By asking
 the right questions, the clients will sell themselves."
 
+**"Happy ears"** (2015-10-20) [[wiki/sources/2015-10-20-yt-k22HKpzDMg4]] — a sales term for
+hearing only what you want to hear and ignoring contradicting evidence, "like the locomotive
+train that only goes forward or stops but never turns." Active listening is the antidote —
+"quiet the thoughts in your head… let the evidence lead you to the next step," and "asking is
+more important than talking." Each question should halve the realm of possibilities; vague,
+open-ended questions get big useless answers ("you have only yourself to blame").
+
+**Ask "why" three times — need vs. want** (2015-10-20): "make it bigger" is a *want*; asking
+why three times reaches the *need* (the real issue is contrast — yellow type on white, hard to
+read — not size, so you offer a darker yellow next meeting).
+
+> "Ask why three times, because when you ask why three times you get to the root of what it
+> is." — Chris Do (2015-10-20)
+
+**Speak human, not jargon** (2015-10-20): asking whether a site should be "responsive, native,
+adaptive" intimidates clients — nobody wants to look stupid, so they just go along. Understand
+the users and their needs first, then prescribe.
+
 See [[wiki/topics/pricing/pricing]] for the pricing *sequence* this discovery feeds
 (desired future state → success metrics → value → price → scope).
 
@@ -196,8 +216,9 @@ work with you, we'll make the money work."
 > ("say your number first," "start high," "whoever says it first wins," 2018-10-17
 > [[wiki/sources/2018-10-17-yt-DjgVwN_k_88]]). But in the value-based-pricing method Chris
 > teaches the opposite — **let the client name the value/price**: "When you say it, you're
-> selling. When they say it, you're closing" (2019-04-12
-> [[wiki/sources/2019-04-12-yt-ivKnj9ffcmE]]). The reconciliation Chris implies but never
+> selling. When they say it, you're closing" (stated as early as 2016-10-19
+> [[wiki/sources/2016-10-19-yt-0cyFrU3UaMc]], repeated 2019-04-12
+> [[wiki/sources/2019-04-12-yt-ivKnj9ffcmE]]; see §13). The reconciliation Chris implies but never
 > states outright: *let the client name the **value** (the size of the prize) during
 > discovery, then **you** anchor the **fee** against that value.* The two rules apply to
 > different numbers, but on their face they conflict and should be read together.
@@ -338,6 +359,24 @@ extras with you as trusted advisor on ROI:
 cheap vendor ("throwing shade on your competition"), and close with "Call me only if you
 don't feel fully confident in the options that you have."
 
+### 4e. Alternative compensation model (can't-pay-cash clients)
+
+From "How Will Clients Find You" (2016-10-19) [[wiki/sources/2016-10-19-yt-0cyFrU3UaMc]] —
+Chris-led workshop. When a client genuinely can't afford your fee (judged from their
+revenue/margins) but the work is worth doing, restructure *how* you get paid rather than
+discount: they cover your hard costs (so you're never out of pocket) and everything above
+that is negotiable — **equity** (tech company), **product** (product company), or a **revenue
+share** ("making money while we sleep… the holy grail of the service industry").
+
+- **Let the client name the number** — "I don't ask for what that payment is. I let them
+  figure it out because, generally speaking, they're going to be more generous to me than I
+  would be to myself" — then negotiate up (his example: the client offered 50% rev-share after
+  expenses when Chris would only have asked for 15%). (2016-10-19)
+
+Distinct from the §4b risk-reversal play (which is engineered so the client *chooses* the
+flat fee); here the alternative structure is the intended deal. See also
+[[wiki/topics/pricing/pricing]].
+
 ---
 
 ## 5. The Eight Mile Principle — name the objection before they do
@@ -346,6 +385,12 @@ From "Use This Sales Technique The Next Time You Pitch" (2020-08-19)
 [[wiki/sources/2020-08-19-yt-EeBfMUD7j60]] — Chris analyzes two competing pitch scenes
 from *Better Call Saul* (Kim Wexler's small firm vs. Chuck McGill's big firm).
 *The character lines are teaching examples, NOT persona data.*
+
+> **Lineage.** The Eight Mile Principle (2020) is the mature restatement of a method Chris was
+> already teaching as **"Embrace and Pivot"** in 2015–2016 (§10), which itself grew from a 2014
+> "pivot, don't confront" seed. "Say it first / name the objection" here is the same instinct
+> as Blair Enns' "raise the objections first" (§10) and the elicit-every-stakeholder's-objection
+> move in the big-client meeting (§11).
 
 **Core thesis** (2020-08-19):
 
@@ -502,9 +547,299 @@ Pitching Manifesto*:
 don't have to meet their deliverable (e.g. offer a 30-second video instead of a
 one-minute one). See also §4d have-to-have vs. nice-to-have.
 
+**Good vs. bad client archetypes** (2016-03-08) [[wiki/sources/2016-03-08-yt-7IwTua4AaRY]] —
+co-hosted with Jose Caballer; the colorful archetype *names* (the "Pete Campbell producer,"
+"Squirrel CEO," "Donald Trump CEO," "Zen CEO") are largely Jose's, *context* — but the
+screening thesis is Chris's. Bad-client tells Chris flags in his own voice: a client who makes
+you feel you must *prove yourself* ("so what are you going to do for us?"); one who opens with
+"wow you guys are really expensive" instead of complimenting the work; hourly-rate/scope-fixated
+buyers ("hourly rates diminish the value of what you provide"); micromanagers who tell you
+*both* what to do and how; no-boundaries clients (Sunday-night calls); obscure-feedback clients
+("I'll know it when I see it"); "everything is easy" needlers; indecisive committee-pollers;
+personal-attackers; poker-faced/opaque clients; and blame-shifters. Counter-intuitively,
+**"creative clients are the worst"** — they treat creativity "as a byproduct of breathing," so
+they either say "just do it, it's easy" or take over and reduce you to a "mouse jockey." Good
+clients trust you as the expert and let you work; are "servant leaders versus boss dictators";
+value design as a competitive advantage (not "sauce you pour over a faulty product"); and share
+credit and refer you upward.
+
+**Trust your gut; there are no bad clients, only volunteers** (2016-03-08): the warning signs
+are felt as a "vibe" in the *first* meeting, and ignoring your instinct is done "at your own
+peril."
+
+> "I don't believe in victims, I believe in volunteers — so if you have bad clients it's
+> because you continue to accept relationships that aren't productive and healthy." — Chris Do
+> (2016-03-08)
+
+> "your degree of self-awareness will determine what choices you make" — Chris Do (2016-03-08)
+
+Low overhead is what buys the power to say no ("no is an incredibly powerful word"); Chris says
+the team "literally walked away from a million-dollar job… because I got the wrong vibe from
+the client — they were being evasive and dodgy" (2016-03-08). This predates and restates the
+§12 "don't want the work" leverage stance and reinforces the §8 Blair-Enns resentment signal:
+
+> "the reason why you're resentful when a client calls you is because you haven't charged
+> enough… the solution [is] very simple: charge more." — Chris Do (2016-03-08)
+
+**The bad-taste client — subjective → objective, diagnose *with*, refund-and-refer**
+(2016-04-01) [[wiki/sources/2016-04-01-yt-03lX4hn7tJ0]]. Taste is purely subjective ("there is
+no certified king of good taste"), so stop arguing it:
+
+1. **Replace subjective measures with objective ones** the client agrees to up front — delivery
+   date, print-budget cap, the message (e.g. a two-for-one offer), the audience (e.g. expectant
+   mothers): "You need to define an objective measure of success, as opposed to a subjective
+   measure — subjective is like: is it good, is it cool, is it clean."
+2. **Diagnose the problem *with* the client, not *for* them** — this "changes the dynamic from
+   being an order taker to at least one of an equal, if not an expert."
+3. **If the work is genuinely destroying you, refund and refer** rather than resent them: "I'm
+   going to refund your money… I'll refer some other designers… but don't take the money, hate
+   them and hate the process the whole way."
+
+Grounds it in Blair Enns' commandment "Thou shalt not prescribe a solution prior to diagnosing
+the problem" (2016-04-01) — the same diagnose-before-prescribe rule as §2.
+
 ---
 
-## 9. Role-play scripts (quick reference)
+## 9. Qualifying the client & "the ask" (2014 origins)
+
+The earliest recorded Futur/Skool-era sales material (Aug 2014), co-hosted with **Jose
+Caballer** (whose "karmic-equity" long-tail philosophy is *context, excluded*). These episodes
+are a plausible origin point of Chris's later qualifying/closing frameworks.
+
+**The qualification triad** (2014-08-20) [[wiki/sources/2014-08-20-yt-1HuIfKDr54A]] — before
+pursuing any sale, qualify the prospect on three things:
+1. **Do I like you?** — are they good energy?
+2. **Can I do the work?** — is it genuinely in my area of expertise?
+3. **Can they afford it?** — is the budget big enough to cover agency overhead?
+
+> "Can you afford my services? Because I meet a lot of people who want to hire us and they have
+> $500… but for me that's not [enough]… because we have a big system overhead here — designers,
+> producers, coordinators." — Chris Do (2014-08-20)
+
+**Qualify budget early, decline gracefully** (2014-08-20)
+[[wiki/sources/2014-08-20-yt-0HnRlEuKGoA]]: ask the budget up front; if it's far too low
+("$400"), thank them for saying so, explain it can't work "given the nature of my company," and
+**offer referrals** rather than waste anyone's time. (This move recurs at 2015-10-20 and
+2016-03-08 — see §8 — and is the polite twin of the §12 walk-away.)
+
+**Get to a fast yes or no** (2014-08-20): "the worst answer that you can get is maybe because it
+sucks all of your time." Your time is finite; drive to a decision so you can move on.
+
+**"The ask" = advance to the next step, not close** (2014-08-20)
+[[wiki/sources/2014-08-20-yt-0HnRlEuKGoA]]: you're not asking for money or a signed deal; you're
+asking to get to the next contact/meeting/presentation. It usually takes one to three "dates"
+before a deal closes.
+
+**Scaffold questions toward the ask** (2014-08-20): build a stair-step series of questions that
+establishes the problem and *leads* to the ask, so it never feels abrupt (an abrupt ask is
+"high friction" and produces an inauthentic yes).
+
+> "Build a series of questions that leads you to the ultimate ask. So the ask is, can I do a
+> presentation for you?… is there a project that's coming up that I could take a look at?"
+> — Chris Do (2014-08-20)
+
+**Practice rapport with strangers** (2014-08-20): talk to servers, people in elevators, on
+airplanes — "with no intent to close, purely to learn" — so the real ask is never the first
+time you've done it. Cites Dale Carnegie's *How to Win Friends and Influence People*; "people
+are just as afraid of you as you are of them."
+
+**Be well-rounded — multiple "entry points"** (2014-08-20): talking only about design (your
+favorite Helvetica) connects you only with other designers who can't hire you; hobbies (his:
+MMA, volleyball, skateboarding, video games, comics) give you many ways to connect with buyers.
+
+---
+
+## 10. Embrace and Pivot — the objection-handling method (2014 seed → 2016)
+
+Chris's core method for handling the three stock objections ("too expensive," "not enough
+experience," "you don't know our industry"): **don't fight head-on — embrace the objection,
+make the client dig into their position, then pivot** so the alternative looks worse and you
+look different. This is the direct ancestor of the §5 Eight Mile Principle.
+
+**Lineage:**
+- **2014 seed** — "every time I hit a barrier, I just pivot, I don't want to hit it head on"
+  (2014-09-17) [[wiki/sources/2014-09-17-yt-OuOL8xQGpyE]].
+- **2015 — "mental jujitsu"** — first framed as embrace-and-pivot at Cal State LA (2015-10-20)
+  [[wiki/sources/2015-10-20-yt-k22HKpzDMg4]].
+- **2016 — full method, "The Art of the Argument"** (2016-01-09)
+  [[wiki/sources/2016-01-09-yt-LMvb32KyXP8]] — the most complete articulation.
+- **2016 — restated** in a lead-gen context (2016-10-19)
+  [[wiki/sources/2016-10-19-yt-0cyFrU3UaMc]].
+- **2020 →** matures into the Eight Mile Principle (§5).
+
+**The four beats** (2016-01-09): (a) **own/embrace** the objection ("you're right, we are too
+expensive"); (b) **make them dig in** by affirming their position (the *Thank You for Smoking*
+"chocolate vs. vanilla" setup); (c) **paint the alternative** as undesirable; (d) **pivot** to
+why you're different. You must acknowledge the objection first — changing the subject without it
+makes you look "slippery" and "distrustful."
+
+> "You have to embrace and pivot." / "You don't need to prove you're right if you can just find
+> the hole in the other person's logic." — Chris Do (2016-01-09)
+
+> "What we want to do is embrace, and what we want to do is pivot, so that we're both on the
+> same team… We want to be facing the same direction as our clients." — Chris Do (2015-10-20)
+
+**Why it works — the consistency trap (Cialdini)** (2016-01-09, 2015-10-20): people strive to
+stay **consistent** with prior commitments; contradict them ("blue" vs. their "red") and they
+dig in harder to avoid looking foolish — so never force them to dig in *against you*. Chris
+names Cialdini's six principles — **reciprocity, consistency, social proof, authority, liking,
+scarcity** — and says five of the six drive embrace-and-pivot.
+
+**The rock-paper-scissor "middle player" model** (2016-01-09): the whole objection game is
+rock-paper-scissor — you can beat one competitor but not all. You (Blind) are usually the
+**medium** player: the giant firm beats you on experience/resources; the tiny/offshore shop
+beats you on price. Argue "we're worth it" and the bigger firm wins; drop your price and the
+cheap shop wins (and cutting price just means cutting scope = "less for less"). Head-on argument
+is therefore always a trap.
+
+> "Think of it as a game of rock paper scissor. You can beat one but you can't beat all." /
+> "You're the bull, and you're not the bullfighter." — Chris Do (2016-01-09)
+
+**The pivot scripts** (2016-01-09):
+- **Price** — embrace ("we are expensive, but there's a good reason"), then paint most designers
+  as "pretty makers" whose beautiful work "won't fundamentally move the needle" — "what I do is
+  different." Defeat "too expensive" by **not talking about money at all**.
+- **Domain expertise (Terry Richardson analogy)** — a top photographer often shoots on a cheap
+  disposable camera; you come to him for *what he does*, so "don't dictate process to me."
+- **Experience** — "I will forget — you will forget more than what I can learn. You're the
+  experts… I'm not trying to outgun you 'cause I'll lose"; your *process* transfers the client's
+  organizational knowledge to your team.
+- **Expert = low-risk but undifferentiated** — validate the big expert firm, then: "they've done
+  it for everyone else, including your competitors… if you want undifferentiated work dictated by
+  a cookie-cutter process, we're not for you."
+- **Differentiator close + take-away** — "I help businesses grow… I can't guarantee you success,
+  but I will give you the best shot at winning," then "if you don't need help in this way, save
+  your money, hire the other guys… we'll be here in six months."
+
+**The 2014 value-pivot seed** (2014-09-17) [[wiki/sources/2014-09-17-yt-OuOL8xQGpyE]] — the same
+instinct applied to the price objection two years earlier: diffuse the money question ("let's
+put the money aside for a second… what do you hope the video to do?"); the car analogy for
+**asymmetrical spending logic** (people happily overpay for a BMW M5 or Porsche 911 but get
+"sticker shock" on their own marketing); quantify **opportunity cost** (a 3-month delay on a
++$2.4M/yr goal ≈ $600k, far more than the fee); and **"you will lose the aesthetic fight every
+single time"** — a business buyer can barely see the quality difference, so sell the business
+outcome, not the aesthetic object. Credibility posture from the same talk: **"be totally naked
+and tell the truth"** — admit what you don't know, offer three references and your cell number;
+"if you walk in… so unsure of who you are… you've already lost the entire bid."
+
+See also §12 for the Blair-Enns "retreat and follow / kill the engagement" leverage moves Chris
+teaches alongside embrace-and-pivot.
+
+---
+
+## 11. Selling large projects — the big client meeting (2016)
+
+From "Big Client Meeting: How to Sell Large Digital Projects" (2016-04-30)
+[[wiki/sources/2016-04-30-yt-FU63Tv3FiKo]] — role-play of a first sales call for a large (~$1B
+client, $250k–$500k) e-commerce project; Chris = seller, Jose = client "Jill" (*context*).
+Chris's own-voice coaching debrief is the framework:
+
+- **Diagnose, don't sell** — clients arrive asking for a deliverable ("we need an app"); resist
+  and diagnose first: "I'm not here to try and sell you a solution… I want to spend some time
+  diagnosing the problem with you."
+- **Listen more than you talk; write down every concern** — "every time I heard a concern I
+  wrote it down," then circle back to the biggest first.
+- **Elicit *every* stakeholder's top-three objections** — not just the person in front of you.
+  Directly ask what the CTO, CMO, and CEO will each object to; if your contact doesn't know, ask
+  "who else is concerned and what are their concerns." (Same name-the-objection instinct as
+  §5/§10, applied across a buying committee.)
+- **Mirror concerns back** — repeating them proves you listened *and* validates the person, and
+  tells you exactly what your pitch deck must address to win: "By saying it back to them… I'm
+  validating you at the same time."
+- **Be direct without being a jerk** — "people genuinely like people who are direct… without
+  being crass or rude or confrontational."
+- **Separate the problem from the scope/cost** — "you can probably do anything for $250,000 if
+  you do the discovery right"; a good discovery lets you fit the main problem inside almost any
+  budget.
+- **Land a paid discovery phase ($30–40k)** as the immediate next step when scope/budget are
+  unresolved — "during the discovery phase you're negotiating the scope." (The paid-discovery
+  de-risk also appears at 2014-09-17 as a ~$20k two-day phase — an early instance.)
+- **Walk away** if the budget genuinely can't work: "I'm sure there are companies out there that
+  can do what you want. We're probably not the right vendor… I don't want to waste your time."
+
+---
+
+## 12. Negotiation posture — "don't want the work" (2016)
+
+From "Integrity vs Profitability pt. 1" (2016-08-25) [[wiki/sources/2016-08-25-yt-aJzY8P4bWb0]]
+— studio episode with Jose Caballer and TypeEd guests (*context, excluded*). Chris's leverage
+stance:
+
+**Terms are set in the first few minutes** — "the terms of engagement and the relationship and
+leverage and power is established within the first few minutes of your dialogue… If you're
+needy, if you're desperate… people can smell it on you." A rate delivered with a rising
+question-mark tone tells the client it isn't your real number.
+
+**Don't want the work — kill the engagement three times** (credited to **Blair Enns**): "try to
+kill the engagement at least three times during the initial conversation. If I don't want the
+work then… I'm not desperate… all that leverage they have against you is taken away." Creatives
+are "other-validated" people-pleasers who "hand [self-worth] to them on a silver platter" — the
+counter is a "mastery mindset": **"the more I say no, the more they say yes."** (Same Blair-Enns
+move as the §10 "retreat and follow" / "I'm not sure a company of your size can afford us"
+reverse-qualify, and it underwrites the §4c take-away close.)
+
+**Runway underwrites the "no"** — the caveat: "you've got to put yourself in a position where you
+know you're not eating Wonderbread for dinner, because then you have no leverage — you have to
+eat first."
+
+**Red-flag language to train your ear for**: a low-budget "stinker" pitched as "the start of a
+relationship"; "exposure"; "it'll be great for your portfolio"; and the word "**just**" ("we
+*just* don't have the budget"). His reply to the portfolio pitch: "My portfolio is looking
+pretty good — I appreciate your concern, but no thank you… that's why you called me in the first
+place."
+
+**Don't break down your numbers** — quote a chunk price + revision count, not a line-item
+breakdown, to defeat competitive line-item bidding: "it's just a chunk — we're in or we're not."
+If they say no, you learn you're out of the ballpark and stop wasting time.
+
+**Spec work vs. RFPs** — he refuses speculative *pitch decks* (a $30k gamble on a $400k job) but
+*does* answer client-direct RFPs "under [his] own rules": don't answer every question (that puts
+you on equal footing); find the **three things** they need to know to hire you; reuse a master
+deck; give bulk, not granular, numbers.
+
+**You can be too tough** — "there is such a thing as being too tough of a negotiator — winning
+the negotiation just losing the job." Practice on the next job you *don't* want: "act as if you
+don't want that job… see what happens."
+
+> ⚠️ Note the "start high" tension with pricing craft: on discounting Chris insists you never
+> just drop the number — "if you reduce price you must pull scope" (fewer versions, less time),
+> and set a caveat that if scope "spirals out of control" you'll re-open the price conversation
+> "before DEFCON 5" (2016-08-25). Same logic as §4d have-to-have/nice-to-have and
+> [[wiki/topics/pricing/pricing]].
+
+---
+
+## 13. Closing discipline & "educe, don't educate" (2015–2016)
+
+**When they say yes, shut up** (2015-10-20) [[wiki/sources/2015-10-20-yt-k22HKpzDMg4]]: people
+keep pitching after the yes and talk themselves *out* of the sale (the Jordan Belfort car-buying
+story — the Mercedes rep kept selling and lost it; BMW/Porsche just did the paperwork). "When
+somebody is ready to buy, shut up and get out of the way." And if they say no, ask why — "you
+can turn the negative into a positive."
+
+**Selling vs. closing** (2016-10-19) [[wiki/sources/2016-10-19-yt-0cyFrU3UaMc]]:
+
+> "When you do the talking, you're selling. When they say it, they believe it, you're closing."
+> — Chris Do (2016-10-19)
+
+This is the earliest recorded statement of the line later repeated in the AIGA value-pricing
+method (2019-04-12) — see the §3 contradiction note. Self-praise destroys trust ("no great lover
+talks about themselves like that").
+
+**"Educe, don't educate"** (2016-10-19): lecturing a client is condescending; the root of
+*educate* is **"educe" — to draw out**, not push in. Ask genuine questions to draw out the real
+need (a client asking for a website may really need $20k of video, because that's what their
+customers actually watch). "If you have one tool like a hammer, everything looks like a nail —
+that's not the way you service clients."
+
+**Charge to think** (2016-10-19): designers "feel guilty to be paid for talking and thinking,"
+unlike attorneys and consultants. Use financial-advisor framing: "I typically charge $10–20k for
+discovery/strategy; this first half hour is on me — after that it's on you." (Feeds §4e and the
+paid-discovery move in §11.)
+
+---
+
+## 14. Role-play scripts (quick reference)
 
 The Futur's signature format. Reusable scripted openings/closings pulled from the sources
 above — all are Chris voicing the designer/service-provider unless noted:
@@ -531,6 +866,23 @@ above — all are Chris voicing the designer/service-provider unless noted:
   wait for an *emphatic* yes.
 - **Graceful exit** (2018-04-04): "I wish you well… if you need my help assessing other
   firms I'd be glad to help you."
+- **Qualify budget, decline gracefully** (2014-08-20
+  [[wiki/sources/2014-08-20-yt-0HnRlEuKGoA]]): "Given the nature of my company… there's no way I
+  can do this project for you. I don't want to waste your time — let me make some recommendations
+  for a referral."
+- **Scaffolded soft-ask** (2014-08-20 [[wiki/sources/2014-08-20-yt-1HuIfKDr54A]]): "I'd love to
+  present some work to you, if this is a relationship that might benefit your company."
+- **Retreat-and-follow / reverse-qualify** (2016-01-09
+  [[wiki/sources/2016-01-09-yt-LMvb32KyXP8]]): "I'm not sure a company of your size can afford us."
+- **Embrace the objection** (2016-01-09): "You're right — we are too expensive. There's a good
+  reason… what I do is different."
+- **Kill-the-engagement / portfolio-pitch reply** (2016-08-25
+  [[wiki/sources/2016-08-25-yt-aJzY8P4bWb0]]): "My portfolio's looking pretty good — I appreciate
+  your concern, but no thank you."
+- **Big-meeting opener** (2016-04-30 [[wiki/sources/2016-04-30-yt-FU63Tv3FiKo]]): "I'm not here
+  to sell you a solution — I want to spend some time diagnosing the problem with you."
+- **Alternative compensation** (2016-10-19 [[wiki/sources/2016-10-19-yt-0cyFrU3UaMc]]): "I'm open
+  to an alternative compensation model — making money while we sleep. Would you like to do that?"
 
 ---
 
@@ -545,10 +897,30 @@ above — all are Chris voicing the designer/service-provider unless noted:
 
 ## Sources
 
+- [[wiki/sources/2014-08-20-yt-1HuIfKDr54A]] — How To Ask for the Sale Pt.1 (2014-08-20) —
+  qualification triad, scaffold-the-ask, rapport practice; *co-host Jose = context.*
+- [[wiki/sources/2014-08-20-yt-0HnRlEuKGoA]] — Ask for the Sale Pt.2 / role-play (2014-08-20) —
+  the-ask-as-next-step, budget-qualify-and-decline, fast yes/no; *co-host Jose = context.*
+- [[wiki/sources/2014-09-17-yt-OuOL8xQGpyE]] — Overcoming Client Objections (2014-09-17) —
+  pivot-don't-confront seed, car/opportunity-cost, paid discovery, "be naked."
 - [[wiki/sources/2015-08-12-yt-CJnfAXlBRTE]] — What is UX Design? (2015-08-12) — *mostly
   Jose Caballer; minor Chris (user-centric framing).*
 - [[wiki/sources/2015-10-08-yt-wd0ejVP_g78]] — Pricing & Estimating / running a design
   business (2015-10-08) — client power, revisions-as-signal, sell confidence not portfolio.
+- [[wiki/sources/2015-10-20-yt-k22HKpzDMg4]] — The Client Is Not Your Enemy (2015-10-20) —
+  happy ears, ask-why-3x, mental-jujitsu (embrace/pivot seed), shut-up-when-they-say-yes.
+- [[wiki/sources/2016-01-09-yt-LMvb32KyXP8]] — The Art of the Argument (2016-01-09) —
+  Embrace-and-Pivot method, rock-paper-scissor, Cialdini, retreat-and-follow (Blair Enns).
+- [[wiki/sources/2016-03-08-yt-7IwTua4AaRY]] — Client Red Flags (2016-03-08) — good/bad client
+  archetypes, gut/self-awareness screen, resentment=underpricing; *archetype names = Jose.*
+- [[wiki/sources/2016-04-01-yt-03lX4hn7tJ0]] — Clients With Bad Taste (2016-04-01) —
+  subjective→objective measures, diagnose-with-client, refund-and-refer.
+- [[wiki/sources/2016-04-30-yt-FU63Tv3FiKo]] — Big Client Meeting (2016-04-30) — large-project
+  first call: elicit each stakeholder's objections, mirror, paid discovery, walk-away.
+- [[wiki/sources/2016-08-25-yt-aJzY8P4bWb0]] — Integrity vs Profitability Pt.1 (2016-08-25) —
+  don't-want-the-work, kill-the-engagement-3x (Blair Enns), first-minutes leverage, spec-work.
+- [[wiki/sources/2016-10-19-yt-0cyFrU3UaMc]] — SEO & Lead Generation Pt.2 (2016-10-19) —
+  selling-vs-closing, educe/educate, embrace-and-pivot, alternative compensation model.
 - [[wiki/sources/2017-12-20-yt-BSxg87CoOu4]] — How to present logo designs (2017-12-20) —
   *Ben Burns, NOT Chris; team doctrine.*
 - [[wiki/sources/2018-04-04-yt--C01FC27Jg0]] — Price-buyer / £2,000 branding role-play

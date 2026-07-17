@@ -66,3 +66,29 @@ index.md persona lines updated. No wiki/topics or ledger changes (nothing ingest
 
 Synthesis notes: none (no new source material this iteration — persona built from
 already-filed dossiers).
+
+## [2026-07-17] ingest | yt batch (@thefutur, 8) — P1 2015–2016 Skool-era
+
+First video batch. 8 P1 long-form → L2 source pages (one subagent per video, strict
+Chris-vs-Jose/guest attribution for the co-hosted Skool era). All had captions.
+- Pricing & Estimating (2015-10-08) — ★L3-candidate; Chris-led worked bid build-up
+  (artist rate→markup→producer→AD→overhead→20% profit), 30-quote pricing bank.
+- Branding w/ Yo Santosa (2015-12-13) — ★L3-candidate; logo≠brand/Neumeier, "brand
+  filter" method; guest Yo Santosa (Ferroconcrete) flagged as entity candidate.
+- Typography & Art Direction (2016-07-08) — ★L3-candidate; craft + how-to-give-art-
+  direction masterclass, 10 Chris quotes.
+- First Design Portfolio (2015-07-10) — positioning/T-shaped/"no filler all killer".
+- Storytelling 5 tips (2016-03-15) — solo Chris; McKee/Kindra Hall/Glebas scaffolding.
+- What is UX / Site Audit (2015-08-12, 2015-08-22) — UX process largely Jose-led;
+  Chris supplies client/design-craft judgment; captions garbled, some attribution: uncertain.
+- Dynamic Compositions (2016-07-16) — taught by Matthew Encina, NOT Chris → recorded as
+  context, excluded from persona voice (only 2 Chris intro lines).
+Caption garbles noted on-page for names/numbers/typefaces (verify before persona promotion).
+
+Synthesis notes: 3 ★L3-candidates pending promotion → pricing (worked bid build-up +
+value-based pricing logic: "how much would you pay someone else to do it", "you cannot
+charge the same amount you pay the person", client-power/underbidding psychology),
+branding (logo≠brand, brand-filter method, speak-the-language-of-business, equity-for-
+value), design-craft (typography contrast/figure-ground/proportion + empowering-feedback
+art-direction method). New entity candidate: Yo Santosa. voice.md gains real spoken-voice
+quotes (portfolio, pricing, branding, storytelling) — refresh at next synthesis/persona pass.

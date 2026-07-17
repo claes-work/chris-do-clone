@@ -272,6 +272,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-09-07 | ★ [How To Make Clear Goals You Can Achieve](2018-09-07-yt-4ZnSvCxqTrk.md) | mindset | "chunking" (chop big goal to bite-size), live vague→specific drill-down, think-first-tactical-last; Ryan=context; L3-candidate |
 | 2018-09-09 | [Why Do I Give So Much Away — My Content Strategy](2018-09-09-yt-V-uLjNG73ho.md) | content-strategy; business; mindset | stop-selling (audiences hypersensitive), "karmic equity"; self-reported 300%/yr, 517 members @$5/mo; Chris solo |
 | 2018-09-11 | ★ [Success Leaves Clues — How to Study Successful People](2018-09-11-yt-Xi3VhHp8llI.md) | mindset | learn-by-modeling / study-successful-people, introvert-who-forced-change; Chris solo; L3-candidate |
+| 2018-09-13 | ★ [Your True Self Is A Full Spectrum](2018-09-13-yt-SAXRxpiJqcE.md) | mindset; branding | prism/full-spectrum authentic-identity ("I haven't changed, I've shown you more of me"); DJ Mike=context; L3-candidate |
+| 2018-09-14 | [How to Create a Wax Seal Logo Mockup in Photoshop](2018-09-14-yt-3i-jz-6Xu8U.md) | design-craft | CONTEXT: Emily-led tool tutorial; Chris interviewer only |
+| 2018-09-17 | [How To Make Your Idea Happen](2018-09-17-yt-8he7nM4W1vw.md) | mindset; business | "invert the pyramid" prototype→crowdfund→validate; Chris solo, coachees=context |
+| 2018-09-18 | [Day in the Life — Presentation FAIL VLOG](2018-09-18-yt-V1YsOVSSNcE.md) | design-craft; mindset | CONTEXT: Matthew Encina's SIGGRAPH day; Chris absent |
+| 2018-09-20 | ★ [Getting Clients to YES](2018-09-20-yt-F7olfui5Igw.md) | sales-clients; pricing | empathy-first, get-client-to-state-ask-then-mirror, three-outcomes, phased de-risking; coachee=context; L3-candidate |
+| 2018-09-24 | ★ [How To Build Rapport — Lose the Small Talk, Ask Big Questions](2018-09-24-yt-YKZ1TSZZ5XM.md) | sales-clients; mindset | reveal-first reciprocity, "make big talk"/bigger questions, curiosity+listening; interviewer=context; L3-candidate |
+| 2018-09-24 | [How to Pitch to Potential Clients](2018-09-24-yt-i7O4AtfeM6k.md) | sales-clients; pricing | post-pitch debrief: context-framing vs brief, client-ownership, incubation, pitch-objectively; Chris solo; reinforces Pitch-This |
+| 2018-09-25 | [Easy Way To Draw a Monoline Logo (Illustrator)](2018-09-25-yt-59RisFrQZY4.md) | design-craft | CONTEXT: tool tutorial (attribution uncertain); no persona data |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -321,4 +329,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_301 videos ingested (L2) so far._
+_309 videos ingested (L2) so far._

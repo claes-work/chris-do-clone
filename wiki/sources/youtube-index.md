@@ -65,7 +65,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2016-07-08 | ★ [Typography Design & Art Direction](2016-07-08-yt-DLeSPCTA9Wg.md) | design-craft | Chris-led masterclass; L3-candidate |
 | 2016-07-13 | ★ [Freelance Tips — Motion Design LA](2016-07-13-yt-C4_O3-TjGWg.md) | business; design-craft | hold/book/challenge freelance-negotiation framework; L3-candidate |
 | 2016-07-16 | [Design Theory: Dynamic Compositions](2016-07-16-yt-z4HjltaEV2E.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
+| 2016-07-23 | [Web Design Review](2016-07-23-yt-d77cDtH8bo0.md) | design-craft | Blind-site critique; web-craft fundamentals |
 | 2016-08-11 | ★ [How to Write Content for Web](2016-08-11-yt-wgnUkvMRFsI.md) | content-strategy; design-craft | AIDA-for-headlines + bridge-the-gap; Chris coaches copywriter; L3-candidate |
+| 2016-08-14 | [Design a Website from Wireframes](2016-08-14-yt-j5DK9jsEaUA.md) | design-craft; content-strategy | Chris-led review (intern Charlene Chen) |
+| 2016-08-25 | ★ [Integrity vs Profitability (pt.1/3)](2016-08-25-yt-aJzY8P4bWb0.md) | mindset; business | kill-engagement-3x, first-minutes leverage, spec-work philosophy; L3-candidate |
+| 2016-09-05 | [Marketing & Social Media Tips (pt.3/3)](2016-09-05-yt-oOez6KmcQJ8.md) | content-strategy; business | panel; externally-specialize/internally-diversify |
+| 2016-09-20 | ★ [Web Design Review pt.2](2016-09-20-yt-qtLx2CIbS2M.md) | design-craft | designer→dev handoff rule; first-pass posture; L3-candidate |
+| 2016-09-21 | [Lettering Workshop — Gemma O'Brien](2016-09-21-yt-qofsxACNsQw.md) | design-craft | 100% guest (Chris absent) — context only |
+| 2016-09-23 | [3 Things To Do Before You Design](2016-09-23-yt-xM-0aeHbk5Y.md) | design-craft; sales-clients; business | taught by Matthew Encina, NOT Chris — context only |
 | 2016-10-22 | ★ [Pricing Design Work & Creativity (The Guide)](2016-10-22-yt-RKXZ7t_RiOE.md) | pricing; business; sales-clients | value-based pricing doctrine; Chris-led; L3-candidate |
 | 2016-11-06 | ★ [Typography Tutorial — 10 rules](2016-11-06-yt-QrNi9FmdlxY.md) | design-craft | motion "type manual" (written voice); L3-candidate |
 | 2016-11-08 | ★ [I Wish I Knew This: Logo Design](2016-11-08-yt-Unw8GLHtCso.md) | design-craft; branding; business | "difference is confidence"; w/ Ben Burns (context); L3-candidate |
@@ -126,4 +133,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_106 videos ingested (L2) so far._
+_113 videos ingested (L2) so far._

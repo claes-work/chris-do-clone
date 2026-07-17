@@ -520,3 +520,29 @@ Also: freelance-negotiation (business), creativity/remix (design-craft/mindset),
 (content-strategy). New biography anchors + the "moral obligation" education thesis are strong
 persona/biography material. Context entities: Karen McGrane, Alan Martinez, Petrula Vrontikis &
 Alison Goodman (Art Center faculty, 2016 panel). Continue P2.
+
+## [2026-07-17] ingest | yt batch (@thefutur, 7) — P2 late-2016 (values + web-craft)
+
+Fifteenth video batch (113 L2 total). 8 selected; 7 → L2 (yt-eN-Tti_iqwM "Responsive Web
+Design" transient caption fail, left OPEN). 2 ★L3.
+- ★ Integrity vs Profitability pt.1/3 (2016-08-25) — VALUES + negotiation: kill-the-engagement-
+  3x (credits Blair Enns), first-minutes leverage, "the more I say no the more they say yes",
+  Wonderbread-leverage rule, spec-work/RFP philosophy, no granular bidding; 11 quotes. (Guests
+  Michael Stinson/Rachel Elnar TypeEd = context.) Note: Parts 2-3 are later ledger items.
+- ★ Web Design Review pt.2 (2016-09-20) — process principles: the designer→developer HANDOFF
+  rule (don't edit their CSS; screencap + annotate + let the dev own the code) and a first-pass
+  review posture; 7 quotes.
+- Web Design Review (2016-07-23) & Website from Wireframes (2016-08-14) — Chris-led craft
+  reviews of Blind's own work (context: designers Jamie Van Wart, Charlene Chen); conventional
+  web-craft, not L3. Marketing/Social Tips pt.3/3 — panel; standard content-strategy.
+- Context/NOT-Chris: Gemma O'Brien lettering workshop (100% guest, Chris absent); "3 Things To
+  Do Before You Design" — taught by MATTHEW ENCINA, not Chris (attribution catch — the title
+  looked Chris-ish but it's Encina's pre-design/discovery framework). Both context-only pages.
+
+Synthesis notes: debt 7 batches / checkpoint 10 (approaching). ★L3 to fold: integrity/values +
+negotiation (kill-engagement-3x, first-minutes leverage, spec-work stance) into topics/sales-
+clients + persona/beliefs; the designer→dev handoff + first-pass posture into design-craft. This
+"Integrity vs Profitability" is a 3-part series — Parts 2/3 will surface later; cross-link. Repeated
+lesson: @thefutur design videos are frequently instructor-led (Encina) or guest workshops (Gemma
+O'Brien) — attribution vigilance holds. New context entities: Gemma O'Brien, TypeEd (Michael
+Stinson/Rachel Elnar). Continue P2.

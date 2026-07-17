@@ -195,10 +195,16 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-02-26 | [MASTERMIND: Business Coach Kier McLaren (Ep.1 Intro)](2018-02-26-yt-J_m9-4rgpiE.md) | business | CONTEXT: ~95% Kier McLaren bio; Chris 15s framing; Kier entity material |
 | 2018-02-28 | [What Does An Executive Producer Actually Do?](2018-02-28-yt-jOeHZVWAbaw.md) | business; sales-clients; content-strategy | CONTEXT: Scott Ross (Blind/Futur EP) explains his role; Chris absent |
 | 2018-03-02 | ★ [From $0 to $5k For Strategy in 6 Months (Ep.9)](2018-03-02-yt-D2rDvkSfrCI.md) | pricing; sales-clients; business | charge-for-thinking, strategy>objectives>deliverables, budget=5–10% gross, lead-with-strategy; Melinda=context; L3-candidate |
+| 2018-03-06 | [Starting Over — How Do You Rebuild Your Identity?](2018-03-06-yt-v-xKqqXPlDg.md) | mindset | CONTEXT: guest interview (identity/reinvention = guest); Chris interviewer only |
 | 2018-03-08 | ★ [How To Sell Strategy Without Design or Visuals (Role Play Ep.10)](2018-03-08-yt-dKIyObgkBVI.md) | sales-clients; pricing; business | sell-thinking-not-making, Tender-Greens/Club-33 intangibles, order-taker-vs-advisor, price-as-qualifier; Melinda=context; L3-candidate |
 | 2018-03-08 | ★ [Designers Need To Change The World — Euro Tour VLog (London day 1)](2018-03-08-yt-eP5jYUmtiQo.md) | business; mindset; content-strategy | "designers' responsibility to change the world" mission thesis; thin/attribution-uncertain; L3-candidate |
 | 2018-03-10 | [MASTERMIND: Why You Shouldn't Take Low Paying Work (Ep.2)](2018-03-10-yt-x8aMA-kbldo.md) | pricing; business | CONTEXT: ~100% Kier McLaren; anti-lowball thesis is Kier's (Chris endorses); Kier entity material |
 | 2018-03-12 | [Future London Event Recap VLOG (day 2)](2018-03-12-yt-pabF-nu6bMo.md) | business; content-strategy; mindset | montage of familiar Futur themes; Chris to-camera; mostly logistics |
+| 2018-03-13 | [MASTERMIND: Break Rules, Take Risks (Ep.3)](2018-03-13-yt-v-dQZ7URtVc.md) | mindset; business | CONTEXT: ~100% Kier McLaren bio; Chris absent; Kier entity material |
+| 2018-03-16 | ★ [Dealing With Tough Clients Who Tell You What To Do (Role Play Ep.11)](2018-03-16-yt-fiCVUdEFtqc.md) | sales-clients; mindset | reassert expertise w/o arguing: disagree-not-disagreeable, embrace-then-pivot, doctor/diagnosis, brand-not-logo; Chris=designer, Melinda=context; L3-candidate |
+| 2018-03-23 | [How to Network Through Email or Direct Message](2018-03-23-yt-2Xs3371FdzA.md) | sales-clients; content-strategy | CONTEXT: presenter Matthew Encina (NOT Chris); no persona data |
+| 2018-03-24 | ★ [Designer Portfolio Reviews — Young Guns (Ep.2)](2018-03-24-yt-z8BuocNq1Po.md) | design-craft; branding; content-strategy | Chris-confirmed reviewer: 4-category rubric (social/presentation/clarity/personality, 1–5), "super stacking," engagement-math; Emily+designers=context; L3-candidate |
+| 2018-03-26 | [How to Find Clients that Value Design](2018-03-26-yt-w_TYQQIagwc.md) | sales-clients; branding; business | CONTEXT: Ben Burns interviews Ran Segall/Flux; Chris absent |
 | 2018-04-04 | ★ [Respond to Price Buyers / Low-Budget Clients (Role Play)](2018-04-04-yt--C01FC27Jg0.md) | sales-clients; pricing; business | price-buyer negotiation script; L3-candidate |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
@@ -249,4 +255,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_229 videos ingested (L2) so far._
+_235 videos ingested (L2) so far._

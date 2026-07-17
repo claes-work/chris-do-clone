@@ -85,6 +85,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2016-11-19 | [How to Be More Relatable? (Jose coaches Chris)](2016-11-19-yt-qJhyAHRkC6g.md) | content-strategy; mindset; branding | self-aware persona traits (voice/appearance); Jose = context |
 | 2016-12-06 | ★ [Should You Go To Design School? (the math)](2016-12-06-yt-tOr4DoDYXaA.md) | design-craft; business; mindset | education cost-vs-value; reinforces Futur-mission thesis; L3-candidate |
 | 2016-12-16 | ★ [How I Became A Graphic Designer — origin story Pt.1](2016-12-16-yt-jmml6kzmkjY.md) | mindset; business; design-craft | pre-design-school autobiography; L3-candidate (biography) |
+| 2016-12-24 | ★ [How to Overcome Self Doubt](2016-12-24-yt-a5VMFo_Axdc.md) | mindset; business | hijack-mentors; reality-distortion self-belief; L3-candidate |
+| 2017-01-05 | ★ [Overcome Your Fears (Public Speaking, Insecurities)](2017-01-05-yt-rP2iDwSN_v8.md) | mindset; business; design-craft | "I copy and steal"; self-aware traits (voice/appearance); L3-candidate |
+| 2017-01-08 | [Coldplay 'Ink' Making-Of (Blind)](2017-01-08-yt-DaHYi27pAYs.md) | design-craft; business | Blind interactive-video case; narrator unconfirmed — context/portfolio |
+| 2017-01-30 | ★ [101 Things I Learned in Business School (Review)](2017-01-30-yt-mJvv0TOaam8.md) | business; mindset | layered bid model; "experts diagnose"; L3-candidate |
+| 2017-02-03 | [Live Design Critique (Facebook)](2017-02-03-yt-y1QzpLFgtqA.md) | design-craft; branding | portfolio-presentation critique; Ben Burns co-host (context) |
+| 2017-02-12 | [Typography Manual Cover — Speed Design Pt.1](2017-02-12-yt-5iS3Vt0ZSXk.md) | design-craft | no narration — context only (0 Chris) |
+| 2017-02-15 | ★ [What Lies Were You Told in Design School?](2017-02-15-yt-kWZ1qtvcVHc.md) | design-craft; mindset; business | education-reform thesis; degree-skepticism; L3-candidate |
+| 2017-02-17 | [Typography Manual Cover — Speed Design Pt.2](2017-02-17-yt-IRS4idvfRwc.md) | design-craft | no narration — context only (0 Chris) |
 | 2017-03-31 | [Day in the Life — Matthew Encina](2017-03-31-yt-I7YtYmJl4Sw.md) | business; design-craft; content-strategy | Encina day-in-life; NO Chris persona data — context only |
 | 2017-04-22 | [What companies look for in a portfolio](2017-04-22-yt-X_tUOfHpoyM.md) | business; design-craft; mindset | classroom Q&A (CSUN/Dave Moon context) |
 | 2017-06-21 | ★ [Run A Creative Business w/ Melinda Livsey](2017-06-21-yt-D8BN2YSyYkg.md) | business; sales-clients; pricing; branding; mindset | Chris coaches Livsey (context); kiss-off script + money-mindset; L3-candidate |
@@ -141,4 +149,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_121 videos ingested (L2) so far._
+_129 videos ingested (L2) so far._

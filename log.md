@@ -579,3 +579,38 @@ and give the first real persona/appearance.md-adjacent behavioral notes. Also: t
 now has THREE strong sources (2016-06-30, 2016-12-06, + Reinvent 2021) → promote a "design education /
 The Futur mission" thread into persona/biography + topics/business. New entities: "Second Shift" (Chris+
 Kier McLaren venture). Continue P2 — one more batch, then Stage S checkpoint.
+
+## [2026-07-17] ingest | yt batch (@thefutur, 8) — P2 early-2017 (mindset + education)
+
+Seventeenth video batch (129 L2 total; P2 now <1000). 8 → L2. 4 ★L3 + 2 minimal context + 1 portfolio-context.
+- ★ Overcome Self Doubt (2016-12-24) — "hijack your mentors" (Beirut), Kanye reality-distortion
+  self-belief, explorer-vs-GPS metaphor, a "dark night of the soul" autobiographical arc; 12 quotes.
+  [self-reported: parents cut him off, ~21-year marriage — family kept unnamed].
+- ★ Overcome Your Fears (2017-01-05) — "I copy and I steal relentlessly", "I just sucked less",
+  growth-as-success; MORE self-aware persona traits: former severe social/public-speaking terror
+  overcome only ~2 yrs prior, learns by MODELING (Louis CK for cadence), self-frames as analytical
+  "robot" who deconstructs in layers, storyboard-only slides; 11 quotes.
+- ★ 101 Things I Learned in Business School — Review (2017-01-30) — his layered bid model
+  (COGS→overhead→profit→value-to-client); recurring signatures ("amateurs give advice, experts
+  diagnose"; "not making a decision is a decision"); 15 quotes.
+- ★ What Lies Were You Told in Design School? (2017-02-15) — degree-skepticism, practice-over-
+  credentials, "amount of education ≠ value you get", his stuck adjunct title as evidence; a 4th
+  strong education-reform source (host Petrula Vrontikis takes the pro-degree devil's-advocate =
+  context); 12 quotes.
+- Coldplay 'Ink' Making-Of (2017-01-08) — Blind's interactive branching music video (Post-It →
+  story-matrix; 2D/3D/cel); narrator can't be confirmed as Chris → context page, but a real BLIND
+  PORTFOLIO/biography fact (the "Ink" interactive video, publicly ~2014).
+- Live Design Critique (2017-02-03) — 11 quotes, portfolio-presentation reinforcement; not L3.
+- Typography-Cover Speed Design Pt.1 & Pt.2 (2017-02-12/17) — no narration → minimal context pages.
+
+Synthesis notes: debt 9 batches / checkpoint 10 — NEXT ITERATION IS THE STAGE S CHECKPOINT.
+Very large ★L3 backlog accumulated since pass 1 (~30+ across sales-clients, business, mindset,
+design-craft, content-strategy, branding). Priorities to promote at Stage S: (1) SELF-AWARE PERSONA
+TRAITS from the fears/relatability videos → materially upgrade persona/voice.md + seed persona/
+appearance.md (former public-speaking terror, introvert/wallflower, learns-by-modeling, analytical-
+"robot", storyboard-only slides); (2) EDUCATION-REFORM thesis (4 sources: 2016-06-30, 2016-12-06,
+2017-02-15, + 2021 Reinvent) → persona/biography + topics/business mission; (3) the many sales/
+business frameworks (Embrace-and-Pivot origin, client red-flags, big-meeting, integrity/negotiation,
+3-keys, transition/runway, creative-culture) → topics/sales-clients + topics/business; (4) branding
+(Trojan Storage workflow, WIN Venn); (5) new biography facts (Blind Coldplay 'Ink' credit, "Second
+Shift" venture w/ Kier McLaren, $80M etc.). Next iteration: run Stage S, then resume P2.

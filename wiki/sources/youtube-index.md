@@ -178,10 +178,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2017-12-15 | ★ [F1 Formula 1 Logo Review Critique](2017-12-15-yt-y42PI9peurI.md) | design-craft; branding | "logo is the tip of the beast" — judge system/business-fit not standalone; Chris solo; L3-candidate |
 | 2017-12-20 | [How To Present Logo Designs to Clients](2017-12-20-yt-BSxg87CoOu4.md) | sales-clients; branding; design-craft | presenter Ben Burns, NOT Chris — context only |
 | 2017-12-26 | [DIY Packaging Design Assignment Challenge](2017-12-26-yt-yg9-bxIf4s4.md) | design-craft; branding; content-strategy | packaging-redesign exercise (item under $10); student=context |
+| 2018-01-01 | [Why Being Bad Is Good For Art (3 min edit)](2018-01-01-yt-ScACW5YgiXs.md) | mindset; design-craft | CONTEXT: Chris absent; guest Jonah Loeb + host Mark Contreras |
 | 2018-01-10 | [Double Your Revenue — Grow Your Design Agency](2018-01-10-yt-QPKUN40ZjK8.md) | business; pricing; sales-clients | referral/low-hanging-fruit/order-of-ask coaching; coachees=context |
 | 2018-01-17 | [How Do You Learn Soft Skills? Learning How To Learn](2018-01-17-yt-NSgh1UVfKTU.md) | mindset | short clip; Socratic self-teaching heuristic; Cialdini ref |
 | 2018-01-21 | ★ [Basic Steps On How To Get More Sales (Edit)](2018-01-21-yt-XL1Hb9ffcis.md) | sales-clients | VOICE BANK: amateurs-advise/experts-diagnose, paid-to-think-vs-make, know-trust-like; L3-candidate |
 | 2018-01-23 | ★ [How To Say NO To A Toxic Boss (Role Play)](2018-01-23-yt-sBNHvx8Vc6M.md) | sales-clients; mindset; pricing | boundary-setting voice, "charge more to do that"; Chris=employee, Greg=context; L3-candidate |
+| 2018-01-28 | [How To Hire Freelancers & Grow Your Business (Pro Call)](2018-01-28-yt-MabpAXttXME.md) | business; sales-clients | day-rate vs margin logic; coachee unnamed=context; self-reported |
+| 2018-01-29 | [How to Quit Without Burning Bridges](2018-01-29-yt-xHv5qBbkEZw.md) | mindset; sales-clients; business | graceful off-boarding anecdote (short); attribution uncertain (likely Chris) |
+| 2018-02-03 | [Emily's First Graphic Design Portfolio Review (Pt.1)](2018-02-03-yt-13jsuMkJxMY.md) | design-craft; branding | CONTEXT: Greg Gunn reviews (Chris absent) |
 | 2018-04-04 | ★ [Respond to Price Buyers / Low-Budget Clients (Role Play)](2018-04-04-yt--C01FC27Jg0.md) | sales-clients; pricing; business | price-buyer negotiation script; L3-candidate |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
@@ -232,4 +236,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_212 videos ingested (L2) so far._
+_216 videos ingested (L2) so far._

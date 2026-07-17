@@ -282,3 +282,32 @@ landmarks. Influence/entity notes: Aaron Draplin (origin of Chris's branding fra
 Alex Hormozi (recurring reference), Brett Williams/DesignJoy, Yasin/Hey J. @thefutur P1
 nearly drained (8 left). Plan: 1 more @thefutur P1 batch drains the tier → then Stage S
 synthesis checkpoint (promote the large ★L3 backlog into topics + persona) → Stage P.
+
+## [2026-07-17] ingest | yt batch (@thefutur, 6) — P1 2024–2025 (biography, pricing, personal branding)
+
+Eighth video batch (60 L2 total). 8 selected; 6 → L2; 2 transient caption-fetch failures
+(yt-A9rAaBPE7e0, yt-jX6RuXhlnss) left OPEN for retry. 5 more ★L3-candidates.
+- ★ Who Is Chris Do & The Futur? Origin Story (2024-02-24) — richest biography source yet
+  (guest on Travis Makes Friends podcast, republished): Vietnam→Kansas City→San Jose,
+  middle of 3 brothers, SD City College (mentor Candace Lopez)→Art Center, **Blind founded
+  Dec 1995 on a $5,000 check, ~25 yrs, grossed $80M+** [self-reported], The Futur "$4–5M";
+  35 quotes. Corroborates + enriches the bio dossier.
+- ★ $500→$100k Logo Pricing Deep-Dive (2025-04-08) — charge-more evolution + full price-the-
+  client method; 30 quotes. NOTE: the title figure is illustrative — the real narrated deal
+  is ~$69k for an event-branding package, flagged on-page.
+- ★ 0→5M Followers: 10 Personal Branding Rules (2025-05-31) — his personal-branding playbook
+  + mission ("teach a billion", "private art school without the crippling debt"); ~40 quotes.
+- ★ 10 Habits I Quit (Broke→Millionaire) (2025-03-11) — discipline/mindset; 24 quotes.
+- ★ The Scene Every Salesman Needs to See (2025-11-25) — Better Call Saul positioning
+  breakdown (create-the-customer / Blue Ocean); film dialogue quarantined; 7 quotes.
+- From $13 to $100K Brand Deals w/ Adrian Per (2024-11-06) — GUEST @OMGAdrian (context,
+  firewalled); 6 Chris quotes; not L3.
+
+Synthesis notes: debt 8 batches / checkpoint 10. @thefutur P1 nearly drained (only the 2
+retries remain). The biography L3 backlog is now large (origin stories 2016 Pt1 + 2019
+Reinvent + 2024 Travis + AdobeMAX/Branding keynotes) and consistent — strong feed for a
+biography.md v2 at synthesis. Pricing/sales/mindset/branding/content-strategy all deeply
+sourced. NEXT: finish the 2 @thefutur retries + 2 @ChrisDo P1 rows (drains P1 entirely),
+then run the STAGE S synthesis checkpoint (promote the ★L3 backlog into topics + persona)
+and STAGE P persona refresh. Influence map to encode: Blair Enns, Ron Baker, Marty Neumeier,
+Aaron Draplin, Jim Rohn, Seth Godin.

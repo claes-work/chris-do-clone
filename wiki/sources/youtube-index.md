@@ -67,6 +67,12 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-12-23 | ★ [Selling Without Being Salesy](2023-12-23-yt-B-NxAZiDkKo.md) | sales-clients; mindset; business | serve-don't-sell + SALES framework; L3-candidate |
 | 2023-12-30 | [Powerful LinkedIn Presence (LinkedIn Expert)](2023-12-30-yt-GfDMqfnFHxM.md) | content-strategy; branding | guest Yasin/Hey J (context); 4 Chris quotes |
 | 2024-01-10 | ★ [Branding for Non-Creatives — Crash Course Keynote](2024-01-10-yt-h-eRwbbpfxo.md) | branding; content-strategy; business | branding fundamentals keynote + biography; L3-candidate |
+| 2024-02-24 | ★ [Who Is Chris Do & The Futur? Origin Story](2024-02-24-yt-f5uYRuqK4g0.md) | mindset; business | richest biography source (Travis Makes Friends podcast); L3-candidate |
+| 2024-11-06 | [From $13 to $100K Brand Deals — w/ Adrian Per](2024-11-06-yt-KvUO_1lrNcQ.md) | content-strategy; business | guest interview (Per = context); 6 Chris quotes |
+| 2025-03-11 | ★ [10 Habits I Quit To Go From Broke To Millionaire](2025-03-11-yt-f6YiuU-P-6E.md) | mindset; business | discipline/mindset feed; L3-candidate |
+| 2025-04-08 | ★ [$500 to $100,000 For A Logo (Pricing Deep Dive)](2025-04-08-yt-b0fQyaBSSI0.md) | pricing; business; sales-clients | charge-more evolution + biography; L3-candidate |
+| 2025-05-31 | ★ [0 to 5M Followers — 10 Personal Branding Rules](2025-05-31-yt-RCocxOMQD3M.md) | content-strategy; branding; mindset | personal-branding playbook + mission; L3-candidate |
+| 2025-11-25 | ★ [The Scene Every Salesman Needs to See](2025-11-25-yt-DmKgsjbWw8o.md) | sales-clients; business; mindset | Better Call Saul positioning analysis; L3-candidate |
 
 ---
-_54 videos ingested (L2) so far._
+_60 videos ingested (L2) so far._

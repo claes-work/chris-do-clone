@@ -92,3 +92,36 @@ branding (logo≠brand, brand-filter method, speak-the-language-of-business, equ
 value), design-craft (typography contrast/figure-ground/proportion + empowering-feedback
 art-direction method). New entity candidate: Yo Santosa. voice.md gains real spoken-voice
 quotes (portfolio, pricing, branding, storytelling) — refresh at next synthesis/persona pass.
+
+## [2026-07-17] ingest | yt batch (@thefutur, 8) — P1 2016–2017 Skool→Futur transition
+
+Second video batch (16 L2 total). 8 P1 long-form → L2 pages, one subagent each, strict
+attribution across the Skool→Futur handoff (Jose gone by late 2016; Futur instructors
+Encina/Burns/Livsey now appear).
+- ★ Pricing Design Work (2016-10-22) — foundational value-based pricing doctrine
+  ("price the client not the job", risk-as-lever, anti-hourly symmetry, discovery "meta
+  moment", double-keystone margin, subcontract-and-keep-the-spread); 28 Chris quotes.
+- ★ Typography 10 rules (2016-11-06) — motion "type manual", Chris/Blind authored; note
+  it's WRITTEN voice (no narration), not spoken cadence.
+- ★ Logo Design "I Wish" (2016-11-08) — w/ Ben Burns (context); "the difference is
+  confidence", symmetry-of-logic, luxury-vs-volume; 9 Chris quotes.
+- ★ Origin story Pt.1 (2016-12-16) — primary autobiography, pre-design-school chapter
+  (silkscreen shop, "tracer", Tombow-marker epiphany, junior-year art nudge); 13 quotes.
+  Adds specifics beyond the dossier (proper nouns need spelling verification). Biography.
+- Day in the Life — Matthew Encina (2017-03-31) — Chris essentially ABSENT; context page,
+  0 persona quotes (correctly excluded).
+- Portfolio & passion (2017-04-22) — CSUN classroom Q&A (instructor Dave Moon context);
+  "three shows a pattern", don't fake passion; 10 Chris quotes.
+- ★ Run A Creative Business w/ Melinda Livsey (2017-06-21) — Chris coaches Livsey
+  (context); full new-business "kiss-off" script, money-has-no-power mindset (immigrant
+  backstory + poker + secret backup plan), "raise the gate" positioning; 11 Chris quotes.
+- ★ Sean Campbell "Young Gun" (2017-11-15) — interview (Campbell context); conceptual
+  logo-critique method (combine two symbols; curved corners = "dull"; crown-from-knives),
+  discipline/constraint reframe; 5 Chris quotes.
+Caption garbles flagged on-page (typefaces, names like Cisco/Draplin, Cal State Northridge).
+
+Synthesis notes: debt now 2 batches / checkpoint 10. Strong L3 pipeline building — PRICING
+especially (2 landmark pricing videos: 2015-10-08 + 2016-10-22) is ready for a topics/pricing
+promotion; also design-craft/typography, branding/logo+confidence, mindset/money +
+origin-story→biography, sales/kiss-off script. New context figures: Ben Burns, Melinda
+Livsey (already in futur-instructors entity), Sean Campbell, Dave Moon, Yo Santosa.

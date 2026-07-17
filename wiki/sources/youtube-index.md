@@ -21,6 +21,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2016-03-15 | [How To Tell A Great Story (5 tips)](2016-03-15-yt-UE3OufWmnMY.md) | content-strategy; branding; mindset | solo Chris vlog |
 | 2016-07-08 | ★ [Typography Design & Art Direction](2016-07-08-yt-DLeSPCTA9Wg.md) | design-craft | Chris-led masterclass; L3-candidate |
 | 2016-07-16 | [Design Theory: Dynamic Compositions](2016-07-16-yt-z4HjltaEV2E.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
+| 2016-10-22 | ★ [Pricing Design Work & Creativity (The Guide)](2016-10-22-yt-RKXZ7t_RiOE.md) | pricing; business; sales-clients | value-based pricing doctrine; Chris-led; L3-candidate |
+| 2016-11-06 | ★ [Typography Tutorial — 10 rules](2016-11-06-yt-QrNi9FmdlxY.md) | design-craft | motion "type manual" (written voice); L3-candidate |
+| 2016-11-08 | ★ [I Wish I Knew This: Logo Design](2016-11-08-yt-Unw8GLHtCso.md) | design-craft; branding; business | "difference is confidence"; w/ Ben Burns (context); L3-candidate |
+| 2016-12-16 | ★ [How I Became A Graphic Designer — origin story Pt.1](2016-12-16-yt-jmml6kzmkjY.md) | mindset; business; design-craft | pre-design-school autobiography; L3-candidate (biography) |
+| 2017-03-31 | [Day in the Life — Matthew Encina](2017-03-31-yt-I7YtYmJl4Sw.md) | business; design-craft; content-strategy | Encina day-in-life; NO Chris persona data — context only |
+| 2017-04-22 | [What companies look for in a portfolio](2017-04-22-yt-X_tUOfHpoyM.md) | business; design-craft; mindset | classroom Q&A (CSUN/Dave Moon context) |
+| 2017-06-21 | ★ [Run A Creative Business w/ Melinda Livsey](2017-06-21-yt-D8BN2YSyYkg.md) | business; sales-clients; pricing; branding; mindset | Chris coaches Livsey (context); kiss-off script + money-mindset; L3-candidate |
+| 2017-11-15 | ★ [17yr Old Designer Sean Campbell](2017-11-15-yt-xRmqvnKepN4.md) | mindset; design-craft; content-strategy | interview (Campbell = context); logo-critique method; L3-candidate |
 
 ---
-_8 videos ingested (L2) so far._
+_16 videos ingested (L2) so far._

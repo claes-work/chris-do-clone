@@ -169,6 +169,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2017-10-31 | [Pitch This! How To Talk About Design Like a Pro](2017-10-31-yt-3jBen84xtSM.md) | sales-clients; design-craft; branding | context-first/story/crescendo pitch structure; Ben+Matthew=context; attribution uncertain |
 | 2017-11-01 | [Master the Pen Tool in Adobe Illustrator](2017-11-01-yt-Ow6g-kHRR1Y.md) | design-craft | pen-tool tutorial; Chris teaching; low persona value (software mechanics) |
 | 2017-11-08 | ★ [Get Out Of Your Comfort Zone — Publicly Commit (Ep.1/4)](2017-11-08-yt-fRUYLjkfZKI.md) | mindset | public-commitment/accountability, conversation difficulty-ladder; Melinda/Rebecca=context; L3-candidate |
+| 2017-11-11 | ★ [How To Talk About Money With Clients (Ep.2/4)](2017-11-11-yt-OBCuDSxl_A8.md) | pricing; sales-clients; mindset | budget/scope/timeline "pick two of three", "you can't lose a job you never had", budget-first qualifying; workshop=context; L3-candidate |
 | 2017-11-13 | ★ [Stop Overthinking — Take Action (Ep.3)](2017-11-13-yt-yCFGKzFHnOc.md) | mindset | "too-dumb-to-fail" action model, kayak-vs-ship metaphor; Melinda/guest=context; L3-candidate |
 | 2017-11-15 | ★ [17yr Old Designer Sean Campbell](2017-11-15-yt-xRmqvnKepN4.md) | mindset; design-craft; content-strategy | interview (Campbell = context); logo-critique method; L3-candidate |
 | 2017-11-23 | ★ [The Best Logos Are Simple, Not Overworked](2017-11-23-yt-TH-jqZ4xueI.md) | design-craft; branding | restraint=timelessness, judge mark separate from application, Dieter Rams; Molly=context; L3-candidate |
@@ -183,9 +184,15 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-01-17 | [How Do You Learn Soft Skills? Learning How To Learn](2018-01-17-yt-NSgh1UVfKTU.md) | mindset | short clip; Socratic self-teaching heuristic; Cialdini ref |
 | 2018-01-21 | ★ [Basic Steps On How To Get More Sales (Edit)](2018-01-21-yt-XL1Hb9ffcis.md) | sales-clients | VOICE BANK: amateurs-advise/experts-diagnose, paid-to-think-vs-make, know-trust-like; L3-candidate |
 | 2018-01-23 | ★ [How To Say NO To A Toxic Boss (Role Play)](2018-01-23-yt-sBNHvx8Vc6M.md) | sales-clients; mindset; pricing | boundary-setting voice, "charge more to do that"; Chris=employee, Greg=context; L3-candidate |
+| 2018-01-26 | [Wood Cut Effect w/ the Ai Pen Tool — Patrick Seymour](2018-01-26-yt-D9d56YM1i7U.md) | design-craft | CONTEXT: Patrick Seymour tutorial; Chris interviewer only |
 | 2018-01-28 | [How To Hire Freelancers & Grow Your Business (Pro Call)](2018-01-28-yt-MabpAXttXME.md) | business; sales-clients | day-rate vs margin logic; coachee unnamed=context; self-reported |
 | 2018-01-29 | [How to Quit Without Burning Bridges](2018-01-29-yt-xHv5qBbkEZw.md) | mindset; sales-clients; business | graceful off-boarding anecdote (short); attribution uncertain (likely Chris) |
 | 2018-02-03 | [Emily's First Graphic Design Portfolio Review (Pt.1)](2018-02-03-yt-13jsuMkJxMY.md) | design-craft; branding | CONTEXT: Greg Gunn reviews (Chris absent) |
+| 2018-02-07 | [Emily's First Graphic Design Portfolio Review (Pt.2)](2018-02-07-yt-zk2qp_YxYVM.md) | design-craft; branding | CONTEXT: Chris absent (3rd-person); reviewer likely Greg Gunn |
+| 2018-02-08 | [Inspiration Is For Amateurs — Ideas w/ Kyle Cooper (edit)](2018-02-08-yt-l4NRhEp5efU.md) | design-craft; mindset | CONTEXT: Kyle Cooper interview (~80% Kyle=influence); "let the problem tell you what it wants"; Kyle-Cooper entity material |
+| 2018-02-09 | [Young Graphic Designers Get Coached — Young Guns (Ep.1)](2018-02-09-yt-b9uU-ZjgiHU.md) | mindset; sales-clients; business | series intro/teaser; Chris coaches but doesn't speak on-camera; coachees=context |
+| 2018-02-13 | ★ [Typography — Rules for Graphic Design](2018-02-13-yt-EozQvV3oQ7c.md) | design-craft | legibility rules: triadic size/measure/leading, x-height→leading, 65/52 char max-measure, 9–12pt; attribution uncertain (verify); L3-candidate |
+| 2018-02-26 | [MASTERMIND: Business Coach Kier McLaren (Ep.1 Intro)](2018-02-26-yt-J_m9-4rgpiE.md) | business | CONTEXT: ~95% Kier McLaren bio; Chris 15s framing; Kier entity material |
 | 2018-04-04 | ★ [Respond to Price Buyers / Low-Budget Clients (Role Play)](2018-04-04-yt--C01FC27Jg0.md) | sales-clients; pricing; business | price-buyer negotiation script; L3-candidate |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
@@ -236,4 +243,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_216 videos ingested (L2) so far._
+_223 videos ingested (L2) so far._

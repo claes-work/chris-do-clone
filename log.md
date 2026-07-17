@@ -742,3 +742,25 @@ Synthesis notes: debt 3 batches / checkpoint 10. Strategy series (3 parts) is a 
 business-of-design promotion cluster for the next checkpoint; also passion + never-too-late + the
 failure-postmortem for mindset. NEW entity candidates: Nils Lindstrom (Art Center type prof), Yo
 Santosa (recurring). VERIFY items carried in gaps.md: "Army background" and "two Emmys". Continue P2.
+
+## [2026-07-17] ingest | yt batch (@thefutur, 8) — P2 late-May/June-2017 (defeat series + closing)
+
+Twenty-first video batch (161 L2 total). 6 ★L3. Completes the 4-part "Dealing with Defeat" postmortem.
+- ★ "Dealing with Defeat" postmortem Pt.2/3/4 (2017-05-27/29, 06-13) — completes the candid lost-$1M
+  proposal series (Pt.1 = 2017-05-23): Pt2 "call the domain experts" winning formula + throw-yourself-
+  on-the-sword + experts-ask-great-questions (11q); Pt3 "executive producer" mental model + "you must
+  ask or you will fail" + trust-experts (10q); Pt4 conclusion "surface the unspoken objections" +
+  diagnose-don't-prescribe + be-the-least-risky-option (8q). Rich sales/pitching/failure-handling.
+- ★ Stop Selling. Start Closing. (2017-06-09) — "Whisper vs Scream" + consultative diagnostic closing;
+  "when you say it you're selling, when they say it you're closing"; Blair Enns Win Without Pitching; 17q.
+- ★ NAB 2017 keynote — Tell Your Brand Story (2017-05-25) — differentiate via story; shoemaker's-kids
+  trap; Significant Objects 30× value experiment; 4 quotes.
+- ★ Designer as Entrepreneur (2017-05-31) — go-beyond-aesthetics; Shark-Tank pitch-structure critique; 7q.
+- Context: 2 Photoshop tutorials (Chris narrates but pure technique → 0 persona quotes, context pages).
+
+Synthesis notes: debt 4 batches / checkpoint 10. STRONG sales-clients cluster for the next checkpoint:
+the whole Defeat 4-parter (pitching/failure lessons: call-the-experts, executive-producer, must-ask,
+surface-unspoken-objections, diagnose-don't-prescribe, least-risky-option) + Stop-Selling "Whisper vs
+Scream" — these deepen topics/sales-clients materially. Plus NAB brand-storytelling → branding/content,
+designer-as-entrepreneur → business. Note: even Chris-narrated Photoshop technique tutorials yield ~0
+persona value (procedural) — correctly context. Continue P2.

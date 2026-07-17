@@ -119,6 +119,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2017-05-20 | ★ [Never Too Late To Get Started In Design](2017-05-20-yt-7Z1XaGDFPoE.md) | design-craft; mindset; business | age-as-design-asset; class=job-interview; L3-candidate |
 | 2017-05-23 | ★ [How to Deal with Defeat — Losing a $1M Job (Pt.1)](2017-05-23-yt-3LSk_YXpldc.md) | mindset; business; sales-clients | failure postmortem; ⚠️ self-reported "Army/AAR background" (verify) |
 | 2017-05-24 | [Lettering 01 Course — Nils Lindstrom](2017-05-24-yt-X4z51naCxWY.md) | design-craft | guest instructor lettering course; Chris absent — context |
+| 2017-05-25 | ★ [Tell Your Brand Story (NAB 2017 keynote)](2017-05-25-yt-GDd5y8IYErE.md) | branding; content-strategy; business | brand-storytelling thesis; Significant Objects 30×; L3-candidate |
+| 2017-05-27 | ★ [Amateur Mistakes Experts Don't Make — Defeat Pt.2](2017-05-27-yt-VMirFYktjSA.md) | sales-clients; mindset; business | call-the-domain-experts; throw-on-sword; L3-candidate |
+| 2017-05-29 | ★ [Trust Experts To Do Their Job — Defeat Pt.3](2017-05-29-yt-Q7U8Tzt0Qv0.md) | sales-clients; mindset; business | executive-producer model; must-ask-or-fail; L3-candidate |
+| 2017-05-31 | ★ [Designer as Entrepreneur (CSUN review)](2017-05-31-yt-ur4V9tKfvaA.md) | business; design-craft; mindset | go-beyond-aesthetics; Shark-Tank critique; L3-candidate |
+| 2017-06-02 | [Layer Masks vs Multiply (Photoshop)](2017-06-02-yt-c36wyu-b4_o.md) | design-craft | Chris narrates, pure technique — context |
+| 2017-06-06 | [Distressed Type Texture (Photoshop)](2017-06-06-yt-qP6yj5X-_Go.md) | design-craft | Chris narrates, pure technique — context |
+| 2017-06-09 | ★ [Stop Selling. Start Closing. (Win Without Pitching)](2017-06-09-yt-cHveCGDZfhQ.md) | sales-clients; business | Whisper-vs-Scream; consultative closing; L3-candidate |
+| 2017-06-13 | ★ [Surface Unspoken Objections — Defeat Pt.4 (conclusion)](2017-06-13-yt-b7dQXL-3jj8.md) | sales-clients; mindset; business | surface-unspoken-objections; diagnose-don't-prescribe; least-risky-option; L3-candidate |
 | 2017-06-21 | ★ [Run A Creative Business w/ Melinda Livsey](2017-06-21-yt-D8BN2YSyYkg.md) | business; sales-clients; pricing; branding; mindset | Chris coaches Livsey (context); kiss-off script + money-mindset; L3-candidate |
 | 2017-11-15 | ★ [17yr Old Designer Sean Campbell](2017-11-15-yt-xRmqvnKepN4.md) | mindset; design-craft; content-strategy | interview (Campbell = context); logo-critique method; L3-candidate |
 | 2017-12-04 | ★ [What Not To Do With A Design Layout](2017-12-04-yt-atS36kzr8zg.md) | design-craft | layout/craft critique; Chris-led (co-host Molly); L3-candidate |
@@ -173,4 +181,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_153 videos ingested (L2) so far._
+_161 videos ingested (L2) so far._

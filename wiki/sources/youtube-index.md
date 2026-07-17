@@ -289,6 +289,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-10-08 | [3 Editing Tips (Organized, Hook, Clear Goal)](2018-10-08-yt-1m7CVb3LqQw.md) | content-strategy | CONTEXT: unnamed Futur editor; Chris absent |
 | 2018-10-10 | ★ [How To Not Feel Like An Imposter When Comparing Yourself](2018-10-10-yt--yUgbMowG3w.md) | mindset | "selective filter", "knowledge vampire" (compare-to-learn), comparison-thief-of-joy, adversity-reframe; Connor=context; L3-candidate |
 | 2018-10-12 | [How to Position Yourself as an Expert If You Have No Experience](2018-10-12-yt-E4oDHKVYOSk.md) | branding; content-strategy; mindset | do-good-work-IS-positioning, get-known-for-one-thing-then-flip, vulnerability/grow-together; coachees=context |
+| 2018-10-15 | ★ [Mindset Shift: Long vs Short Term Goals](2018-10-15-yt-EkHAQQjhl90.md) | mindset; business | BIO/voice: rock-bottom→identity-decision, delayed-gratification, out-hustle, Spock-detachment, daily-gratitude; coachees=context; L3-candidate |
 | 2018-10-18 | ★ [How to Talk About Price Using Price Bracketing](2018-10-18-yt-87CPZdh6FIc.md) | pricing; sales-clients | anchoring REVERSAL (bigger number first, "300 and 150"), verbal-upfront-pricing, sonar metaphor; Joe=context; L3-candidate |
 | 2018-10-19 | [12 Tips — Branding Advice from Johnny Cupcakes](2018-10-19-yt-7UCv0mj8Uc8.md) | branding; content-strategy | CONTEXT: Johnny Cupcakes/Johnny Earle (~90% guest); experiential packaging, story-first; Chris interviewer |
 | 2018-10-22 | [Jurassic Park Movie Poster Design — The One Sheet](2018-10-22-yt-0GDdLY4nLuA.md) | design-craft; branding | CONTEXT: Stuart Schuster + Ben Burns; Chris absent (greenlighter only) |
@@ -320,6 +321,12 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-12-16 | [Pros & Cons of Running A Design Business From Home](2018-12-16-yt-7bDassY8uP0.md) | business; mindset | distributed-teams, remote-hiring, cost-of-living-arbitrage; Chris solo; generic |
 | 2018-12-19 | ★ [How to Make More Time: Document, Delegate, Automate](2018-12-19-yt-I09EDxElu3o.md) | business; mindset | doc mechanics: 2 audiences, 6-point how-to, medium-agnostic, Notion-wiki + public-YouTube training; Matthew/Jonah=context; L3-candidate |
 | 2018-12-20 | ★ [How to Get a Mentor](2018-12-20-yt-3PMB0emL7RY.md) | sales-clients; mindset | value-exchange, ask-SMALL (15min for a yes), scaffolding (trade-up), give-2-5x-value, don't-assume; complements level-up-to-close-gap; L3-candidate |
+| 2018-12-26 | ★ [Stop Charging Hourly — Pricing Design Work](2018-12-26-yt-jE53O1PzmNU.md) | pricing; sales-clients | Socratic-flip, symmetry-of-logic (can't cap AND count hours), "hourly punishes me for being good", value-appreciates ($18k→26k); Jung=context; L3-candidate |
+| 2018-12-31 | [Top 10 Tips for Designers 2018 — Best of The Futur](2018-12-31-yt-8HRoeBG6YiE.md) | design-craft; mindset; sales-clients | CONTEXT-mixed compilation; Chris tips (retreat-and-follow, value=quality-of-questions) + many instructors/guests fenced |
+| 2019-01-04 | [Unorthodox Marketing by Johnny Cupcakes](2019-01-04-yt-Xxq7c0wGGeA.md) | branding; content-strategy | CONTEXT: ~95% Johnny Cupcakes (limited-drops, experiential giveaways, rent-free pop-ups via barter); Chris close only |
+| 2019-01-06 | [Creative Block is a Myth — Seth Godin in One Minute](2019-01-06-yt-VRdFjL_uNoo.md) | mindset; design-craft | CONTEXT: 100% Seth Godin (permission-to-write-badly); Chris absent; entity material |
+| 2019-01-08 | [Atomic Design — Make Web & UI Design Easier](2019-01-08-yt-W3A33dmp17E.md) | design-craft | CONTEXT: unattributed Futur instructor (Brad Frost concept); Chris absent |
+| 2019-01-14 | ★ [5 Things You Should NEVER Do on a Sales Call](2019-01-14-yt-eoNH6ol9bmM.md) | sales-clients | (1)don't-be-desperate (2)don't-interrupt (3)don't-assume/ask (4)don't-go-past-the-sale (5)don't-fixate-on-script/listen (10/90, two-ears-one-mouth); Chris solo; L3-candidate |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -369,4 +376,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_349 videos ingested (L2) so far._
+_356 videos ingested (L2) so far._

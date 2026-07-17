@@ -24,5 +24,11 @@ that was missing) and by lint passes. Each entry: date noticed, what was missing
   mechanics, content-strategy specifics). Fills in during synthesis after topic ingest.
 - **2026-07-17 — appearance.md still empty.** Needs a watched-video sample (~10–20 across
   years) per ROADMAP Phase 3; captions can't supply it.
+- **2026-07-17 — POLICY QUESTION: a son's name is now self-reported on-camera.** In the
+  AIGA 2019 keynote ([[wiki/sources/2019-08-12-yt-f7T1Zs28Deo]]) Chris names one of his
+  sons. SUBJECT.md's standing rule treats family names as not-public, so the name was
+  **redacted** from that source page. Decision needed from the repo owner: keep the
+  blanket redaction, or allow names Chris himself has stated publicly. Until decided,
+  loops keep redacting family names everywhere.
 
 ## Resolved

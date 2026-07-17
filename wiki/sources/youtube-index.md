@@ -37,6 +37,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
 | 2018-11-01 | [How I Got Started — Will Paterson](2018-11-01-yt-9qwVLdNNZP8.md) | mindset; design-craft; content-strategy | interview (Paterson = context); imposter-syndrome reframe |
 | 2018-12-01 | [How I Started My Business — Joey Cofone (Baron Fig) Pt.1](2018-12-01-yt-VjZIxmrUl1E.md) | business; mindset; branding | interview (Cofone = context); risk/resilience |
+| 2019-04-12 | ★ [How To Charge For Design — Value Based Pricing](2019-04-12-yt-ivKnj9ffcmE.md) | pricing; business; sales-clients | canonical VBP (backwards-sequence); L3-candidate |
+| 2019-05-22 | [Building A Brand Ep.1 — Starting the Process](2019-05-22-yt-mxgOY2Ms-YI.md) | branding; business; sales-clients | Blind team-led; Chris absent — context (client: Hamilton Family Brewery) |
+| 2019-05-29 | [Building A Brand Ep.2 — Defining the Customer](2019-05-29-yt-fZD-IFlKb68.md) | branding; business | team-led; Chris absent — context |
+| 2019-06-05 | [Building A Brand Ep.3 — Working on a Design Team](2019-06-05-yt-yG6wbR03bLs.md) | business; branding; design-craft | team-led; Chris absent — context |
+| 2019-06-12 | [Building A Brand Ep.4 — Narrowing Design Ideas](2019-06-12-yt-48x0psjq6Uk.md) | design-craft; branding; business | Chris brief at end; mostly team context |
+| 2019-06-27 | [Building A Brand Ep.6 — Logo Process with Client](2019-06-27-yt-A24V7CUWe4M.md) | sales-clients; branding; design-craft | Chris off-camera (uncertain); mostly team context |
+| 2019-07-03 | [Building A Brand Ep.7 — When Clients Change Their Mind](2019-07-03-yt-pYzRq3fvuDQ.md) | sales-clients; branding; business | Chris cold-open only; mostly team context |
+| 2019-08-12 | ★ [What You Believe Becomes Reality — AIGA 2019 keynote](2019-08-12-yt-f7T1Zs28Deo.md) | mindset; business; branding | landmark mindset keynote + biography; L3-candidate |
 
 ---
-_24 videos ingested (L2) so far._
+_32 videos ingested (L2) so far._

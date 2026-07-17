@@ -157,3 +157,36 @@ topics promotion at the checkpoint. New context figures to consider for entities
 Burns (already in futur-instructors), Molly (co-host), Will Paterson, Joey Cofone/Baron Fig.
 Reminder: two @thefutur "craft tutorial" P1s are actually Encina/Burns, not Chris — keep
 attribution vigilant on craft titles.
+
+## [2026-07-17] ingest | yt batch (@thefutur, 8) — P1 2019 (VBP, Building A Brand, AIGA keynote)
+
+Fourth video batch (32 L2 total). 8 P1 → L2, one subagent each, strict attribution.
+- ★ How To Charge For Design / Value-Based Pricing (2019-04-12) — canonical VBP method:
+  backwards sequence (desired future state → metrics → value → price → scope), diagnose-
+  don't-pitch, let-the-client-name-the-value, price anchoring, discount-for-uncertainty,
+  single-page round-number bid; 27 Chris quotes. Credits Blair Enns (Pricing Creativity),
+  Jim Rohn. Landmark pricing source.
+- ★ What You Believe Becomes Reality — AIGA 2019 full keynote (2019-08-12) — landmark
+  MINDSET talk: belief-cycle model, interpretation-between-input-and-output, reframing
+  ("congratulations", impossible→I'm possible, "War Jitsu"), inner-critic 3-column
+  exercise (from his own therapy + Firestone), "design your life", "failure is the tuition
+  I pay for future success"; 35 quotes + autobiography ($30k loss lesson, tough-immigrant-
+  dad upbringing, forged report card, therapy). PROMOTE into beliefs/voice/mindset.
+- Building A Brand series Eps 1,2,3,4,6,7 (2019-05-22 → 2019-07-03) — documentary of a
+  real Blind engagement for client HAMILTON FAMILY BREWERY (owners Josh & Kristen
+  Hamilton). KEY FINDING: this series is led by Blind creative directors MATTHEW ENCINA
+  and BEN BURNS, NOT Chris. Chris is essentially absent (Eps 1/2/3), brief at the end of
+  Ep4 (5 quotes), off-camera/uncertain in Ep6, and only in Ep7's cold-open (1 quote).
+  Filed as CONTEXT pages; team/client material walled off from persona.
+
+> ⚠️ POLICY: the AIGA keynote names one of Chris's sons on-camera. Per SUBJECT.md's
+> family-privacy rule (names = not-public), the name was REDACTED from the source page and
+> a decision item was logged to wiki/gaps.md for the repo owner.
+
+Synthesis notes: debt now 4 batches / checkpoint 10. Two more landmark L3 sources this
+batch — PRICING (2019 VBP joins the earlier pricing landmarks — pricing is now very well
+sourced) and MINDSET (AIGA keynote is the first deep mindset/self-belief source, prime for
+beliefs.md + voice.md + topics/mindset). Building A Brand is process context, not persona.
+New context entities to consider: Matthew Encina (Blind CD), Hamilton Family Brewery
+(client). Data point for SUBJECT.md rules: @thefutur "Building A Brand"/documentary series
+are largely team-led — attribution vigilance required (several P1s yield ~0 Chris voice).

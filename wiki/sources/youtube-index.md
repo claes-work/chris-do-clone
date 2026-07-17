@@ -159,6 +159,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2017-09-12 | ★ [An Introvert's Guide To Getting Clients & Networking (Ep.2)](2017-09-12-yt-pGzFzFJ04l8.md) | sales-clients; mindset; content-strategy | ambassador-not-salesperson, warm network, inbound pull; Rebecca=context; L3-candidate |
 | 2017-09-16 | ★ [Master Your Creative Process — NAB Talk 2017](2017-09-16-yt-GgLhl71jVgw.md) | mindset; design-craft; content-strategy | creative-process formula + positive-knowing + burnout/origin mythology; L3-candidate |
 | 2017-10-03 | ★ [Secret Power of Introverts — Being A Great Listener (Ep.4)](2017-10-03-yt--en6iRuZ9DM.md) | mindset; sales-clients | INTJ→ENTJ arc, ego/expectation, design-gave-identity origin; Rebecca=context; L3-candidate |
+| 2017-10-08 | ★ [Pitch This! Present Design Work Like a Pro](2017-10-08-yt-rOGAJwm3n_M.md) | sales-clients; design-craft; branding | presenting doctrine: language as power, work doesn't speak, give a lens; Ben Burns=context; L3-candidate |
+| 2017-10-08 | ★ [Typography Critique — Gourmet Goods Brochure](2017-10-08-yt-ND4VNkb4J3o.md) | design-craft | serif-pairing, white-space=luxury, break/hug the gutter, rule of thirds; Molly/Eddie=context; L3-candidate |
+| 2017-10-10 | ★ [Graphic Design Pioneer — Alexander Rodchenko (Constructivism)](2017-10-10-yt--MMwGkUioFQ.md) | design-craft | anti-originality thesis + timeless-over-trendy + geometric foundations; Chris+Ben co-teach; L3-candidate |
+| 2017-10-11 | ★ [How To Brainstorm Using Google Search & Stock Sites](2017-10-11-yt-Xng-RR0XOWY.md) | design-craft | "art of search" ideation method (autocomplete, three-flicks, stock metatags); Emily/Molly=context; L3-candidate |
+| 2017-10-17 | ★ [Working w/ Clients — "Ben Tells All"](2017-10-17-yt-UHpjAyAqRd0.md) | sales-clients; mindset | Chris-primary (title misleading): money-mindset, call technique, imposter syndrome; Ben Burns=interviewee/context; L3-candidate |
+| 2017-10-17 | [What Motivates Creative People (2 min Cutdown)](2017-10-17-yt-4oGtHgo3OwE.md) | business; mindset | take-care-of-your-people culture/motivation; Chris solo; likely excerpt |
+| 2017-10-24 | [Be a BETTER Creative Director — Communicate](2017-10-24-yt-3jD8i1No1L0.md) | design-craft; business; mindset | CONTEXT: Chris ABSENT (Adobe MAX); Matthew Encina + Molly host; no persona data |
+| 2017-10-31 | [Pitch This! How To Talk About Design Like a Pro](2017-10-31-yt-3jBen84xtSM.md) | sales-clients; design-craft; branding | context-first/story/crescendo pitch structure; Ben+Matthew=context; attribution uncertain |
 | 2017-11-15 | ★ [17yr Old Designer Sean Campbell](2017-11-15-yt-xRmqvnKepN4.md) | mindset; design-craft; content-strategy | interview (Campbell = context); logo-critique method; L3-candidate |
 | 2017-12-04 | ★ [What Not To Do With A Design Layout](2017-12-04-yt-atS36kzr8zg.md) | design-craft | layout/craft critique; Chris-led (co-host Molly); L3-candidate |
 | 2017-12-20 | [How To Present Logo Designs to Clients](2017-12-20-yt-BSxg87CoOu4.md) | sales-clients; branding; design-craft | presenter Ben Burns, NOT Chris — context only |
@@ -212,4 +220,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_192 videos ingested (L2) so far._
+_200 videos ingested (L2) so far._

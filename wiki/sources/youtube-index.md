@@ -234,6 +234,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-06-22 | [Becoming A Main Title Designer — Danny Yount (Pt.2)](2018-06-22-yt-X-IZG-5ccWA.md) | design-craft | CONTEXT: mostly Danny Yount; Chris adds creative-team-leadership + education/student-debt critique |
 | 2018-06-26 | ★ [Advice for Students — My Life at Design College](2018-06-26-yt-l-3txt1yNDU.md) | mindset; design-craft | RICH biography: ArtCenter years, all-nighters, Bruce Hubbard D-grade, financial-reality (debunks rich-kid myth), 18–19 turning point; L3-candidate |
 | 2018-06-26 | [Domain Name & Brand Naming Strategies](2018-06-26-yt-h1cI9Ti1lG0.md) | branding; content-strategy | CONTEXT: narrated by Ben Burns (NOT Chris); bio nugget: no personal website as of 2018-06 |
+| 2018-06-27 | [4 Video Production Hacks (Audio, Organization)](2018-06-27-yt-rJf_gphvDrY.md) | content-strategy | CONTEXT: Futur crew Aaron & Mark; Chris absent |
 | 2018-06-28 | ★ [How To Convince Your Clients — Don't!](2018-06-28-yt-1DJ4hpWvSBY.md) | sales-clients; mindset | needing-to-convince = you skipped the meeting-of-minds → discovery + advocate-for-consumer + help-them-realize-truth; Chris solo; L3-candidate |
 | 2018-06-29 | [Work Or Go To School — Choose One & Focus](2018-06-29-yt-f-2oME87pl0.md) | mindset; business | school-vs-work as two transactions, choose-one-and-focus; Chris, student=context |
 | 2018-07-01 | ★ [Watch This Before Your Next Internship!](2018-07-01-yt-5FDRD7vMIHc.md) | mindset; design-craft | learning-vs-money sliding scale, top-3-criteria filter, "change the target when you love the work," junior-year timing; L3-candidate |
@@ -257,6 +258,12 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-08-07 | [Productivity Tips to Get More Done](2018-08-07-yt-z9ZBn4n1iD8.md) | mindset | CONTEXT (attribution uncertain): could be Chris or a Futur producer; no persona data |
 | 2018-08-08 | [MASTERMIND: Overcome Fear (Ep.13)](2018-08-08-yt-rYJ-_76rDIM.md) | mindset | CONTEXT: ~100% Kier McLaren; Chris absent; Kier entity |
 | 2018-08-13 | [How To Set Up Your Design Business: LLC vs Sole Proprietorship](2018-08-13-yt-3wckIG_SQA8.md) | business | Chris-led but generic legal how-to ("talk to an attorney"); low persona value; coachees=context |
+| 2018-08-15 | [3 Minutes Of Pure Branding Gold By Brian Collins](2018-08-15-yt-bgStKKE6RUk.md) | branding; design-craft | CONTEXT: Brian Collins (COLLINS=influence); Chris absent; entity material |
+| 2018-08-20 | [The Futur Office Tour (Casey Neistat 368)](2018-08-20-yt-g2xE2wkWIV4.md) | business; content-strategy | office-tour vlog (~70% tour); mission-framing likely-Chris (uncertain); team=context |
+| 2018-08-22 | ★ [Choose Your Clients Wisely](2018-08-22-yt-wzPPi2mX-ho.md) | sales-clients; business; mindset | become-the-better-communicator/strategist (car-mechanic, "reveal what they don't know = more valuable"); guest Henry Kaminsky Jr=context; L3-candidate |
+| 2018-08-24 | ★ [How Do I Know What I'm Good At? Finding Your Super Power](2018-08-24-yt-VhztaSc4afE.md) | mindset; branding | 5-prompt inventory (skill/happiness/opportunity/passion/service) ikigai-adjacent + build-matrix; Danny Yount panel=context; L3-candidate |
+| 2018-08-29 | [Brainstorming Beyond the Brief — Dr. Holtzman Pt.2 (Heineken)](2018-08-29-yt-6GodcTLloaw.md) | design-craft; sales-clients | CONTEXT: guest Dr. Holtzman ("decode the brief" + shoes empathy); Chris intro-framing only |
+| 2018-08-30 | [MASTERMIND: How To Get Work — Reach Out (Ep.18)](2018-08-30-yt-XtCWo340xDo.md) | mindset; sales-clients | CONTEXT: ~100% Kier McLaren; Chris absent; Kier entity |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -306,4 +313,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_286 videos ingested (L2) so far._
+_293 videos ingested (L2) so far._

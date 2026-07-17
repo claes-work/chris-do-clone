@@ -280,6 +280,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-09-24 | ★ [How To Build Rapport — Lose the Small Talk, Ask Big Questions](2018-09-24-yt-YKZ1TSZZ5XM.md) | sales-clients; mindset | reveal-first reciprocity, "make big talk"/bigger questions, curiosity+listening; interviewer=context; L3-candidate |
 | 2018-09-24 | [How to Pitch to Potential Clients](2018-09-24-yt-i7O4AtfeM6k.md) | sales-clients; pricing | post-pitch debrief: context-framing vs brief, client-ownership, incubation, pitch-objectively; Chris solo; reinforces Pitch-This |
 | 2018-09-25 | [Easy Way To Draw a Monoline Logo (Illustrator)](2018-09-25-yt-59RisFrQZY4.md) | design-craft | CONTEXT: tool tutorial (attribution uncertain); no persona data |
+| 2018-09-26 | [Avoid Clients Who Waste Your Time](2018-09-26-yt-15nLfcQxMSQ.md) | sales-clients; business | earliest red-flags + "dinner test" heuristic; Chris solo; refines client-selection |
+| 2018-09-28 | [1 Simple Tip to Make Your Logos More Valuable](2018-09-28-yt-uO8VUYwCmFM.md) | design-craft; branding; pricing | mockups/real-world context raise perceived value; Chris solo |
+| 2018-10-02 | [Get More Views — Define the Gap (Story Structure)](2018-10-02-yt-aBz0fSkCG4Y.md) | content-strategy | CONTEXT: Ricky (Futur videographer); Chris absent |
+| 2018-10-03 | ★ [Pricing Strategies — Give Your Client Price Options](2018-10-03-yt-M18yO7BYRNE.md) | pricing; sales-clients | 3 tiers by attention/ownership/probability (NOT labor), price-first-scope-after, inverse-client-effort; L3-candidate |
+| 2018-10-04 | [Starting Your Business: Budget Vs. Profit](2018-10-04-yt-Jx9-pOPCv1Y.md) | business; pricing | deposits, cash-flow, revenue-vs-profit primer; Chris solo; generic |
+| 2018-10-07 | ★ [How to Work on Personal Projects After a Full-Time Job](2018-10-07-yt-kKLZYk6t7A8.md) | mindset | "what are you willing to give up?" sacrifice/trade, knowledge→equity, growth-is-the-reward, just-start; coachees=context; L3-candidate |
+| 2018-10-08 | [3 Editing Tips (Organized, Hook, Clear Goal)](2018-10-08-yt-1m7CVb3LqQw.md) | content-strategy | CONTEXT: unnamed Futur editor; Chris absent |
+| 2018-10-10 | ★ [How To Not Feel Like An Imposter When Comparing Yourself](2018-10-10-yt--yUgbMowG3w.md) | mindset | "selective filter", "knowledge vampire" (compare-to-learn), comparison-thief-of-joy, adversity-reframe; Connor=context; L3-candidate |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -329,4 +337,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_309 videos ingested (L2) so far._
+_317 videos ingested (L2) so far._

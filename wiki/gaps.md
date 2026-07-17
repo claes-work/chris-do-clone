@@ -11,6 +11,11 @@ that was missing) and by lint passes. Each entry: date noticed, what was missing
 
 ## Open
 
+- **2026-07-17 — VERIFY: self-reported early-Blind financials.** In "Personal Projects After a Full-Time
+  Job" ([[wiki/sources/2018-10-07-yt-kKLZYk6t7A8]]) Chris states he founded Blind by age 22 and did
+  "$2M in billings in the first two years." Self-reported; corroborate against the biography dossier
+  (which has the ~1995 founding) before entering these figures into `persona/biography.md`.
+
 - **2026-07-17 — VERIFY: self-reported "military / Army background".** In the million-dollar-loss
   postmortem ([[wiki/sources/2017-05-23-yt-3LSk_YXpldc]]) Chris references a military/Army background
   and the Army "after-action review" (AAR) practice. This is NOT in the biography dossier (which has

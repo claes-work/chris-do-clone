@@ -238,6 +238,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-06-29 | [Work Or Go To School — Choose One & Focus](2018-06-29-yt-f-2oME87pl0.md) | mindset; business | school-vs-work as two transactions, choose-one-and-focus; Chris, student=context |
 | 2018-07-01 | ★ [Watch This Before Your Next Internship!](2018-07-01-yt-5FDRD7vMIHc.md) | mindset; design-craft | learning-vs-money sliding scale, top-3-criteria filter, "change the target when you love the work," junior-year timing; L3-candidate |
 | 2018-07-02 | ★ [Why Networking Doesn't Work](2018-07-02-yt-MxShKURqbM0.md) | sales-clients; mindset | attract-your-mentor-by-leveling-up (Brian Tracy, close-the-gap), networking-as-reciprocity; origin story (Epitaph→Novacom→first Buick commercial); L3-candidate |
+| 2018-07-03 | ★ [Expressive Typography Critique (Cutdown)](2018-07-03-yt-ZwEMbqZDkXU.md) | design-craft | be-expressive-with-the-type (offset/zigzag enacts message), letter-spacing=emotion, meaningless-data texture; Chris-probable, Levi/Emily=context; L3-candidate |
+| 2018-07-04 | ★ [Why I Don't Work On Design Projects Anymore](2018-07-04-yt-uVhWhMv6sO4.md) | business; mindset | CEO/identity-shift (making-a-difference-vs-making-things, maker-vs-entrepreneur); bio: scaling mechanism; Shane=context; L3-candidate |
+| 2018-07-11 | [How to Growth Hack Your Instagram Profile](2018-07-11-yt-Qsgl5baPHUs.md) | content-strategy | CONTEXT: non-Chris instructor (unnamed); Chris absent |
+| 2018-07-13 | ★ [The Worst Things That Clients Have Said To Me](2018-07-13-yt-Blja-ucC5_k.md) | sales-clients; mindset | Objection Response Deck (acknowledge/answer-with-question/degree/reflect), control-energy-to-neutral, Blair Enns; Chris, Rob=context; L3-candidate |
+| 2018-07-16 | ★ [How To Scale Your Business, Multiply Your Time, and Delegate](2018-07-16-yt-OCcbTVbuRIg.md) | business; mindset | codify-process-into-≤5-steps (ArtCenter red-blue-dot origin), high-vs-super-high quality threshold, churn-to-superstar team; coachee=context; L3-candidate |
+| 2018-07-17 | [MASTERMIND: Living A Creative Life (Ep.11)](2018-07-17-yt-uL4Tn0796XI.md) | mindset | CONTEXT: ~100% Kier McLaren; Chris absent; "you are not what you do"; Kier entity |
+| 2018-07-19 | [MASTERMIND: Hard To Make Decisions (Ep.12)](2018-07-19-yt-ADT5g_gxcXI.md) | mindset | CONTEXT: ~100% Kier McLaren; Chris absent; ego-serving decisions, neuroplasticity; Kier entity |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -287,4 +294,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_267 videos ingested (L2) so far._
+_274 videos ingested (L2) so far._

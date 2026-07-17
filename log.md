@@ -546,3 +546,36 @@ clients + persona/beliefs; the designer→dev handoff + first-pass posture into 
 lesson: @thefutur design videos are frequently instructor-led (Encina) or guest workshops (Gemma
 O'Brien) — attribution vigilance holds. New context entities: Gemma O'Brien, TypeEd (Michael
 Stinson/Rachel Elnar). Continue P2.
+
+## [2026-07-17] ingest | yt batch (@thefutur, 8) — P2 late-2016 (business + education thesis)
+
+Sixteenth video batch (121 L2 total). 8 → L2. 6 ★L3 — a strong business/leadership + education run.
+- ★ 3 Keys To Run A Design Business pt.1 (2016-10-11) — inverted success principles (moderation→
+  intensity, patience→urgency, humility→self-love) + scaffolded referral-ask/reciprocity script; 12 quotes.
+- ★ SEO & Lead Generation pt.2 (2016-10-19) — "when you do the talking you're selling; when they say
+  it you're closing", educe/educate, warm-vs-cold leads, "market to marketers", alt-comp (equity/rev-
+  share); 18 quotes.
+- ★ Design→Business Transition (2016-10-28) — "sell what the world can do, not what you can do";
+  entrepreneur vs "want-to-preneur" (Cuban); runway/"worry-date" cash-flow tool (Mike Janda, renamed);
+  self-reported Blind numbers ($200k/mo burn, $600k LOC); 12 quotes.
+- ★ Create a Creative Culture (2016-11-03) — values-based hire AND fire (Zappos), autonomy-mastery-
+  purpose (Pink), low-cost culture tactics, "never fire for a first mistake"; 8 quotes. NEW venture
+  surfaced: "Second Shift" consulting w/ Kier McLaren.
+- ★ Logo Design Pt.2 (2016-11-12) — $5k-logo client-empathy framework, double-the-price/push-the-
+  ceiling, three-things-every-business-needs, "you are good enough"; Ben Burns = context; 6 quotes.
+- ★ Should You Go To Design School? (2016-12-06) — cost-vs-value math, "degree is a myth", pay-to-
+  apprentice, flipped classroom; the clearest early seed of the Futur "private art school without the
+  crippling debt" mission (cross-links 2016-06-30); 11 quotes.
+- How to Be More Relatable? (2016-11-19) — Jose coaches Chris (Jose = context); NOT L3, but surfaced
+  RICH self-aware persona traits for voice/appearance: relatability-as-acknowledged-weakness, "social
+  wallflower" (jaw tenses, checks out at parties), people-pleasing/middle-child, self-frames as
+  "logical/robotic" vs Jose's "spiritual", demands concrete-over-"woo". 10 Chris quotes.
+- Responsive Web Design (2016-10-01) — Chris moderates a team-led technical walkthrough; not L3.
+
+Synthesis notes: debt 8 batches / checkpoint 10 (checkpoint is 2 batches out — will run Stage S soon).
+Big multi-domain ★L3 backlog. NEW for the next Stage P/persona pass: the relatability video's self-aware
+traits materially deepen persona/voice.md ("loud introvert" → wallflower/logical-robotic/people-pleaser)
+and give the first real persona/appearance.md-adjacent behavioral notes. Also: the education-reform thesis
+now has THREE strong sources (2016-06-30, 2016-12-06, + Reinvent 2021) → promote a "design education /
+The Futur mission" thread into persona/biography + topics/business. New entities: "Second Shift" (Chris+
+Kier McLaren venture). Continue P2 — one more batch, then Stage S checkpoint.

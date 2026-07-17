@@ -73,9 +73,17 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2016-09-20 | ★ [Web Design Review pt.2](2016-09-20-yt-qtLx2CIbS2M.md) | design-craft | designer→dev handoff rule; first-pass posture; L3-candidate |
 | 2016-09-21 | [Lettering Workshop — Gemma O'Brien](2016-09-21-yt-qofsxACNsQw.md) | design-craft | 100% guest (Chris absent) — context only |
 | 2016-09-23 | [3 Things To Do Before You Design](2016-09-23-yt-xM-0aeHbk5Y.md) | design-craft; sales-clients; business | taught by Matthew Encina, NOT Chris — context only |
+| 2016-10-01 | [Responsive Web Design for Mobile & Tablet](2016-10-01-yt-eN-Tti_iqwM.md) | design-craft | Chris moderates; team-led technical walkthrough |
+| 2016-10-11 | ★ [3 Keys To Success — Run A Design Business (pt.1)](2016-10-11-yt-W9r5NbxxTW0.md) | business; sales-clients | inverted success principles + referral-ask; L3-candidate |
+| 2016-10-19 | ★ [How Will Clients Find You: SEO & Lead Gen (pt.2)](2016-10-19-yt-0cyFrU3UaMc.md) | content-strategy; business | "when you talk you're selling; when they say it you're closing"; L3-candidate |
 | 2016-10-22 | ★ [Pricing Design Work & Creativity (The Guide)](2016-10-22-yt-RKXZ7t_RiOE.md) | pricing; business; sales-clients | value-based pricing doctrine; Chris-led; L3-candidate |
+| 2016-10-28 | ★ [Am I An Entrepreneur? (design→business transition)](2016-10-28-yt-gm66Etsi2-c.md) | business; mindset | want-to-preneur; runway/worry-date; L3-candidate |
+| 2016-11-03 | ★ [How to Create a Creative Culture](2016-11-03-yt-kmZkRkxWj2c.md) | business; mindset | values-based hire+fire; culture tactics; L3-candidate |
 | 2016-11-06 | ★ [Typography Tutorial — 10 rules](2016-11-06-yt-QrNi9FmdlxY.md) | design-craft | motion "type manual" (written voice); L3-candidate |
 | 2016-11-08 | ★ [I Wish I Knew This: Logo Design](2016-11-08-yt-Unw8GLHtCso.md) | design-craft; branding; business | "difference is confidence"; w/ Ben Burns (context); L3-candidate |
+| 2016-11-12 | ★ [I Wish I Knew This: Logo Design Pt.2](2016-11-12-yt-mg0V0ARv5Jw.md) | design-craft; branding; business | $5k-logo empathy; double-the-price; Ben Burns context; L3-candidate |
+| 2016-11-19 | [How to Be More Relatable? (Jose coaches Chris)](2016-11-19-yt-qJhyAHRkC6g.md) | content-strategy; mindset; branding | self-aware persona traits (voice/appearance); Jose = context |
+| 2016-12-06 | ★ [Should You Go To Design School? (the math)](2016-12-06-yt-tOr4DoDYXaA.md) | design-craft; business; mindset | education cost-vs-value; reinforces Futur-mission thesis; L3-candidate |
 | 2016-12-16 | ★ [How I Became A Graphic Designer — origin story Pt.1](2016-12-16-yt-jmml6kzmkjY.md) | mindset; business; design-craft | pre-design-school autobiography; L3-candidate (biography) |
 | 2017-03-31 | [Day in the Life — Matthew Encina](2017-03-31-yt-I7YtYmJl4Sw.md) | business; design-craft; content-strategy | Encina day-in-life; NO Chris persona data — context only |
 | 2017-04-22 | [What companies look for in a portfolio](2017-04-22-yt-X_tUOfHpoyM.md) | business; design-craft; mindset | classroom Q&A (CSUN/Dave Moon context) |
@@ -133,4 +141,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_113 videos ingested (L2) so far._
+_121 videos ingested (L2) so far._

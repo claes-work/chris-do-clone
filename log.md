@@ -432,3 +432,32 @@ Synthesis notes: debt 3 batches / checkpoint 10. Nothing new to promote this bat
 restatement or non-Chris). Carrying forward the 2 prior-batch ★L3 (Trojan Storage workflow,
 WIN positioning Venn). New context entities: Kier McLaren (recurring consultant), Imin Pao,
 Sue Parker, Mark Fidelman. Continue P2 drain.
+
+## [2026-07-17] ingest | yt batch (@thefutur, 8) — P2 late-2015→early-2016 ("The Process")
+
+Twelfth video batch (91 L2 total). 8 → L2. 3 ★L3 (richer than the last P2 batch — several
+solo-Chris lectures).
+- ★ The Client Is Not Your Enemy (2015-10-20) — solo Cal State LA lecture; distinct client-
+  relationship frameworks: "let go of the artist persona", "happy ears" (active listening),
+  "embrace and pivot / mental jujitsu", "ask why three times" (need vs want), "shut up when
+  the client says yes" (Belfort); 17 quotes.
+- ★ 3 Most Common Client Objections (2016-01-09) — the EARLIEST/fullest articulation of his
+  "Embrace and Pivot" objection method (own → make them dig in → paint alternative undesirable
+  → pivot), the rock-paper-scissor "middle player" model, and Blair-Enns retreat-and-follow.
+  This PREDATES and underpins the later Eight Mile Principle (topics/sales-clients §5); 21 quotes.
+- ★ Is Your Design Resume Still Relevant? (2015-11-29) — "resume is dead → show the work,
+  self-position deliberately, direct outreach past HR gatekeepers, build mockups"; 7 quotes.
+- How To Be A Great Facilitator (2016-01-23) — Chris-led (confirmed), 9 quotes; but the named
+  CORE framework is JOSE's — Chris explicitly adapts/diverges (personas-first; keep the
+  negatives). Documented divergence, not L3.
+- 3 Tips to Start an Agency (2016-02-24) — market-one-thing / branding-umbrella / make-vs-
+  manage; 7 quotes.
+- Context/low-value: UX3 pt2 (Jose-led), Books to Learn UX (not Chris on camera), Vlog Travel
+  Camera Setup (gear tutorial, minimal context page, 0 Chris).
+
+Synthesis notes: debt 4 batches / checkpoint 10. Growing ★L3 backlog for the NEXT checkpoint,
+esp. SALES-CLIENTS evolution: the Embrace-and-Pivot method (2016-01-09) is the documented ROOT
+of the objection-handling frameworks already in the hub — add an "origins/evolution" note.
+Also client-relationship ("happy ears", ask-why-3x, shut-up-when-yes) and career-positioning
+("resume is dead", direct outreach) are promotable. Carrying: Trojan Storage workflow + WIN
+Venn (prev batch). Documented framework-attribution nuance: CORE = Jose's, Chris adapts it.

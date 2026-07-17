@@ -39,7 +39,15 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2015-09-15 | [Business Consulting AMA — w/ Kier McLaren](2015-09-15-yt-F06ePJZEmK0.md) | business | consultant guest (context); 4 Chris quotes |
 | 2015-09-23 | [UX Design 3: Prioritize Features](2015-09-23-yt-kiEKBzZdI-c.md) | design-craft; sales-clients | Jose-led (context) |
 | 2015-10-08 | ★ [Pricing & Estimating Creative Design Jobs](2015-10-08-yt-wd0ejVP_g78.md) | pricing; business; sales-clients | Chris-led worked bid build-up; L3-candidate |
+| 2015-10-14 | [UX Design 3: Prioritize Features pt.2](2015-10-14-yt-tkci5FarrlA.md) | design-craft; sales-clients | Jose-led (context) |
+| 2015-10-20 | ★ [The Client Is Not Your Enemy](2015-10-20-yt-k22HKpzDMg4.md) | sales-clients; mindset; business | happy ears / embrace-and-pivot / ask-why-3x; solo Cal State LA; L3-candidate |
+| 2015-11-29 | ★ [Is Your Design Resume Still Relevant?](2015-11-29-yt-z7Y9TKfgstE.md) | business; design-craft; content-strategy | "resume is dead → show work + direct outreach"; L3-candidate |
 | 2015-12-13 | ★ [Branding: Identity Design w/ Yo Santosa](2015-12-13-yt-mnSgHLBpOpw.md) | branding; design-craft; business; mindset | guest Yo Santosa; L3-candidate |
+| 2016-01-09 | ★ [3 Most Common Client Objections](2016-01-09-yt-LMvb32KyXP8.md) | sales-clients; business | Embrace-and-Pivot method (underpins Eight Mile); L3-candidate |
+| 2016-01-23 | [How To Be A Great Facilitator](2016-01-23-yt-Xt3Eosr-oJk.md) | business; sales-clients; mindset | Chris-led; CORE is Jose's (Chris diverges) |
+| 2016-01-26 | [Books To Read to Learn UX](2016-01-26-yt-_Kx1i2Q__V8.md) | design-craft | not Chris on camera (likely Jose); context |
+| 2016-02-18 | [Vlog Travel Camera Setup](2016-02-18-yt-76TtlDL6yE8.md) | content-strategy | gear tutorial — context only (0 Chris) |
+| 2016-02-24 | [3 Tips on Starting Your Own Design Agency](2016-02-24-yt-4ZeNq6s_aX4.md) | business | market-one-thing / make-vs-manage |
 | 2016-03-15 | [How To Tell A Great Story (5 tips)](2016-03-15-yt-UE3OufWmnMY.md) | content-strategy; branding; mindset | solo Chris vlog |
 | 2016-07-08 | ★ [Typography Design & Art Direction](2016-07-08-yt-DLeSPCTA9Wg.md) | design-craft | Chris-led masterclass; L3-candidate |
 | 2016-07-16 | [Design Theory: Dynamic Compositions](2016-07-16-yt-z4HjltaEV2E.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
@@ -103,4 +111,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_83 videos ingested (L2) so far._
+_91 videos ingested (L2) so far._

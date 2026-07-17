@@ -4,7 +4,7 @@ domain: sales-clients
 domains: [sales-clients]
 created: 2026-07-14
 updated: 2026-07-17
-tags: [sales, negotiation, objection-handling, discovery, positioning, client-management, role-play, serve-dont-sell, embrace-and-pivot, qualifying, closing, client-archetypes, blair-enns, cialdini, leverage]
+tags: [sales, negotiation, objection-handling, discovery, positioning, client-management, role-play, serve-dont-sell, embrace-and-pivot, qualifying, closing, client-archetypes, blair-enns, cialdini, leverage, first-client-call, business-development, ambassador, presenting, pitching, money-mindset]
 ---
 
 # Sales & Clients — hub
@@ -469,6 +469,7 @@ Other moves from the breakdown (2025-11-25, paraphrase):
 ## 7. Presenting & defending creative work to clients
 
 How to present work so the client buys one concept and stays out of the art-director seat.
+(For Chris's own-voice doctrine on *how to describe/pitch the work itself*, see §17.)
 
 > ⚠️ ATTRIBUTION NOTE: The most detailed logo-presentation methodology
 > (2017-12-20 [[wiki/sources/2017-12-20-yt-BSxg87CoOu4]]) is presented by **Ben Burns**,
@@ -886,6 +887,329 @@ above — all are Chris voicing the designer/service-provider unless noted:
 
 ---
 
+## 15. The first client call — high-level, float numbers, confirm-before-you-propose (2017)
+
+From "The Process" Ep.7, a first-client-meeting coaching session (2017-08-05)
+[[wiki/sources/2017-08-05-yt-YMFAFkbE5pw]] — Chris coaches Melinda Livsey (*context,
+excluded*) through two role-plays; the framework is Chris's own-voice coaching plus his
+demonstrated designer technique in the second role-play. This is Chris's fullest early
+account of *how to run the first call*.
+
+**The first call is high-level — NOT a scoping session** (2017-08-05):
+
+> "First call is high level. First call is about building rapport, earning trust,
+> demonstrating enthusiasm and passion, and that you're not a BS-er and you know what
+> you're talking about."
+
+You do not do all the scoping on the first call; you assess whether they can afford you
+before any deep scoping — "if we're not in the same ballpark I can't work with you."
+
+**Never build free proposals — confirm the price before you hang up** (2017-08-05): get a
+yes/no on the price range *on the call*, or you'll go away and build a full proposal
+(milestones, breakdown) for a prospect who already privately decided you're too expensive
+but was too embarrassed to say so.
+
+> "You don't want to be in the proposal building business, because you get paid exactly
+> zero dollars to build proposals... I want to be very clear about that: if we go away and
+> come back with a bid for these things in this price range, are you okay with that? And
+> you have to ask it in a way that I can say no and not lose face and feel embarrassed."
+
+**Qualify budget by "floating numbers"** (2017-08-05): ask about budget in a way the
+client can decline without losing face (like being in a fancy shop you can't afford —
+people won't blurt out "I can't afford this").
+
+> "What I like to do is just kind of float some numbers by you to see what you're
+> comfortable spending, and then I sit down with my developer and we'll figure out what we
+> should do and how we should approach it."
+
+**Bid the unknown on the high side** (2017-08-05) — for a service that's new/uncertain to
+you, quote a range on the high side and do a paid discovery before bidding it precisely
+(consistent with §3 "start high" anchoring):
+
+> "I'm going to bid on the high side, because I don't want to go out of business because I
+> underbid the job. It's not fair to you, it wouldn't be fair to me either. So we'll do a
+> little discovery, we'll figure it out, and then we'll bid it correctly once we know what
+> we're building."
+
+**Warmth over the phone — "flirting" & the smile trick** (2017-08-05): over the phone you
+can't read faces, so warmth must come through the voice — project enthusiasm and
+positivity. "Flirting" here means paying a compliment and making the person feel good,
+NOT sexual innuendo.
+
+> "It's almost like I'm flirting with you. I want you to feel good... A lot of people
+> assume flirting has some kind of sexual innuendo, and it's not — it's about paying a
+> compliment to somebody, making them feel good about themselves."
+
+> "One simple trick is to say things with a smile, even though they can't see you. If you
+> say things with a smile, it comes out a little bit differently... your tone changes."
+
+**Win on something other than price** (2017-08-05): "most of the time we're the highest
+bid... so I'm not going to win it on price, I have to win it on something else" — charm,
+presence, engagement, empathy (echoes §6 "sell confidence").
+
+**Weave back what you heard = trust** (2017-08-05):
+
+> "The more you're able to weave in what you heard into the conversation, subliminally
+> you're sending a signal to that person that 'I heard you, man, and I believe what you
+> believe'... That garners trust."
+
+**Money-mindset — "I don't need this client" (the box metaphor)** (2017-08-05): detach
+from needing the win so the anxiety doesn't tighten your face/tone; put your expectations
+and emotional attachment "in a box." This is the first-call twin of the §12 "don't want
+the work" leverage stance.
+
+> "I don't need this client. I don't care if I have this client, and if they pick somebody
+> else they made a big mistake in their life... So go ahead, please, work with the other
+> person, pay less money, try to take a shortcut — and I truly believe this, if it doesn't
+> work out it's because you didn't pick the right partner."
+
+That confidence has to be earned by doing the work — "You can't hire someone else to do
+your push-ups for you." (2017-08-05)
+
+**Know the objections in advance — the objection bell curve** (2017-08-05): know every
+objection and your response before the call. Objections vary by client tier: cheap
+low-end clients throw many ("cheap wankers"); the mid-range sweet spot has very few and
+good money; six-figure engagements bring a whole new set. Stay in the middle.
+
+> "At the beginning of your career, for lower-level clients, they have a lot of objections
+> because they're cheap wankers... Somewhere in the middle, where you're heading, very few
+> objections... When you get into the six-figure engagement, you've got a whole bunch of
+> new objections. So as long as you're in the middle of that bell curve, life is good."
+
+**Don't over-sell** (2017-08-05): once the client is agreeable, stop adding — "I could
+have sold a lot more to you, but you were so agreeable... I'm not going to offer up
+things" that aren't yet in the client's wheelhouse. (Same shut-up-after-the-yes
+discipline as §13.)
+
+**Know your own process cold** (2017-08-05): describing your deliverables should be "one
+flow," not stumbling or reading a script — otherwise the client suspects you invented it
+to jack up the price. "If I don't know my own process and what I'm going to deliver, then
+I'm not ready for this kind of conversation."
+
+**Charge for Discovery (the "next level")** (2017-08-05) — flagged as the level beyond the
+first call, and the same principle as §13 "charge to think" and the §11 paid-discovery
+move:
+
+> "If you're able to help the client solve a problem through talking, you should charge
+> money for it — whatever you want to call it: strategy, discovery, a brand audit call...
+> Let's start with some nominal fee, let's say $500."
+
+> "Don't mistake this — asking questions like what your favorite colors are and the brands
+> that you love, that is not discovery at all. Discovery is about helping the client
+> realize something they didn't know."
+
+---
+
+## 16. Introvert business development — the "ambassador" method (2017)
+
+From an introvert-networking coaching session (2017-09-12)
+[[wiki/sources/2017-09-12-yt-pGzFzFJ04l8]] — Chris coaches an early-stage designer,
+"Rebecca" (*context, excluded*), on how to get that first meeting without cold networking.
+A self-contained BD framework: start from warmth and passion, become an *ambassador* not a
+salesperson, target realistically-sized clients, and let inbound content pull business in.
+
+**Start with low-hanging fruit — people you know + your own passions** (2017-09-12):
+
+> "Start with the low-hanging fruit, start with people you know, start with activities,
+> hobbies and interest that you're very passionate about. Just start there."
+
+Mine your existing network for introductions (e.g. ask your accountant directly: "I do
+killer websites — do you know anyone who could use this? Please connect us.").
+
+**Chase the suppliers and the mom-and-pop shops, not the dream brand** (2017-09-12):
+everyone wants the big brand (Lululemon), but small local businesses that can afford a
+modest fee desperately need help — and you make a bigger difference at a small company.
+Scaffold up: little studios first, the dream brand later.
+
+> "Everybody looks at the big brand but they never look at the suppliers and the small
+> mom-and-pop chains that are just right within your grasp that desperately need help...
+> and you would make a big difference at a smaller company than you would at a big
+> company."
+
+> "First we'll do the little yoga studios and the next thing will be working for
+> Lululemon as a client."
+
+**Be an ambassador, not a salesperson — the "creature of habit" pattern** (2017-09-12):
+become a helpful regular in a place/community and build a relationship over weeks/months
+*before* mentioning what you do (his Tender Greens story: helping confused customers order
+→ introductions up the chain to the chef and marketing director). Consistency of presence
+is the mechanism.
+
+> "I'm a creature of habit. I go to the same place, I order the same thing day in and day
+> out... there's an advantage to that because you get to know the people and they get to
+> know you. If you're bouncing around trying lots of different things, nobody gets to know
+> you and you don't get to know them."
+
+**Reframe networking — show up to learn/share/create value** (2017-09-12): drop the intent
+to close, or you sound like an ad.
+
+> "Forget about trying to get new business, just be out there to learn, to share, to
+> create value. That's the most important thing I can tell you — otherwise everything you
+> say sounds like a promotion, it sounds like an advertisement."
+
+**Outreach opener for a brand you genuinely love** (2017-09-12):
+
+> "Hey, I love your product, the spices that you make [are] amazing. I can't help but
+> notice that when I went to the site some of it was broken — do you think this is
+> affecting your sales? Is this something that you think you need to work on?"
+
+**Patience and non-desperation** (2017-09-12): "My urgency isn't their problem. Their
+urgency is my problem — that's what I'm waiting for." / "I waited nine months for my
+friend to call me. I can wait this out." (Same non-neediness as §12.)
+
+**Inbound is his method today** (2017-09-12): create so much content that people come to
+you — disavowing his own early "sit in my room and work came in" method as a bad plan.
+
+> "The business comes to me today, and the way it comes to me is because I'm creating so
+> much inbound content... people that I've known for 10, 15, 20 years are coming out of
+> the woodwork... You have to put yourself out there in order to bring them in."
+
+**Launch-phase discounted/spec work — with "sober eyes"** (2017-09-12): only in the launch
+phase, breakeven or even at-a-loss work is acceptable to build a portfolio/client base —
+but under-charged clients are "one and done" (they rarely return at a higher rate), so
+only take it if the work is good enough to leverage into the next job. (Touches pricing —
+see [[wiki/topics/pricing/pricing]].)
+
+---
+
+## 17. "Pitch This!" — how to talk about design like a pro (2017)
+
+Chris's own-voice **presenting/pitch-delivery** doctrine, from the debut of The Futur's
+"Pitch This!" segment (2017-10-08) [[wiki/sources/2017-10-08-yt-rOGAJwm3n_M]] and a
+follow-up practice episode (2017-10-31) [[wiki/sources/2017-10-31-yt-3jBen84xtSM]]. In
+both, Chris re-pitches a frame himself to model the technique; the "student" pitches
+(Ben, Matthew) are *context, excluded*. Distinct from §7, which is team-attributed doctrine
+on *guiding the client's choice*; this section is Chris on *how to describe the work*.
+
+**Language is the presenter's power — the work does NOT speak for itself** (2017-10-08):
+he used to think "art speak" was lazy BS and good work should speak for itself; he now
+sees describing work specifically — "painting in the gaps" of the client's imagination —
+as the art director's real, distinct skill.
+
+> "I used to feel like if I did all the work and the work was good it should speak for
+> itself... And now that I'm a little older... I realized the power of language and how
+> specific you can describe something and to kind of paint in the gaps, to fill in the
+> imagination — that's your power as a presenter, as an art director."
+
+**The can't-present ceiling** (2017-10-08):
+
+> "If you're a great designer and you can't present the work, you can't articulate the
+> ideas and the thinking behind it, you're only gonna go so high in the corporate chain,
+> you're going to only attract a certain kind of client."
+
+**Give the client a lens/theme up front** (2017-10-08): naming the work ("the new
+nautical") hands the client a lens to view it through. (In the motion-frames episode this
+generalizes to *set context first* — see below.)
+
+**Anchor the unknown to the known — build a shared visual language** (2017-10-08): the
+core technique. The person across the table is not a designer; explaining one design term
+with another design term makes their eyes roll.
+
+> "What we want to do is we want to take something we don't know and attach it to something
+> we do know. So when you talk about type and you use another type term, that's not going
+> to help people. But if you talk about design and you connect it to something that they
+> know... then we have this shared visual language."
+
+In his model pitch he grounds every abstract choice in a concrete client-known reference
+(this is a *working harbor* — sailboats + container ships — not a yacht club; utilitarian
+type echoes container-ship architecture; the reversed "450" nods to translucent sail
+typography "without it being too on the nose").
+
+**Describe the non-visual senses** (2017-10-08): tell people how something feels in the
+hand, its texture, what you hear or touch — clients remember it.
+
+> "The only thing that I felt was missing... is literally telling people how something
+> feels like in their hand... describing the other senses, what you hear, what you might
+> touch, what it feels like — those are all good things."
+
+**Surface the mood boards deliberately to extract feedback** (2017-10-08): mood boards /
+tear sheets take time to select, so pull them out, highlight them, and talk about them on
+purpose — otherwise the client never looks and there's no point including them. Be
+deliberate not only in *what* goes on the page but in *how you talk about it*, "because I
+want that feedback."
+
+**Word choice matters** (2017-10-08): "salty" reads as grumpy/bitter/negative to a client
+— pick client-flattering words ("weathered sea captain"). Avoid sounding "pitchy" (like
+you're selling); prefer a straightforward "say it as it is and fill in the gaps."
+
+**Set context BEFORE the details — then story, then crescendo** (2017-10-31): the most
+important move in a pitch is to give a frame of reference up front so the audience knows
+how to evaluate what they're seeing.
+
+> "Before you go into describing whatever you're pitching... give people the context —
+> before we get into the details let me give you a frame of reference for what we're
+> looking at so you know how to evaluate these things."
+
+> "Here's the overall piece, here's how it's going to unfold over time, and I'm gonna take
+> you frame by frame of how this story develops."
+
+Then spend time on the crescendo/ending — "This is the crescendo, this is where it ends,
+and this is why it's all important" — and deliberately "blow through" repetitive frames
+that are "just more of the same." When pitching found work with no given context, invent a
+reasonable frame so pitcher and audience "can both talk about it in the same way."
+(2017-10-31)
+
+---
+
+## 18. Client-call presence — "show up empty" & managing energy (2017)
+
+From a status-check dialogue with Ben Burns (*context, excluded*) reviewing real client
+calls (2017-10-17) [[wiki/sources/2017-10-17-yt-UHpjAyAqRd0]]. How Chris carries himself
+*inside* the call — the state, not the script.
+
+**"Show up empty"** (2017-10-17): not unprepared or lazy — you've done the brief/homework,
+then you purge expectations, attachments, and bad energy (a prior fight, the bills, the
+next client) so you're wholly present.
+
+> "The emptiness that I'm talking about is getting rid of what your expectations are, any
+> kind of attachment, any kind of bad energy."
+
+He preps very little in the moment and trusts his training — a "Zen moment," "zoned in."
+His first ~1.5–2 years of calls he was "a nervous wreck" with scripts and questions;
+there's no shortcut, but you work toward trusting your preparation and trusting the other
+people are good people too, and accepting "it's okay for it not to work out." (2017-10-17)
+
+**Managing energy** (2017-10-17): "I'm just managing energy... when I hear something that
+is a negative energy I need to then take that and spin around and turn it into positive
+energy" — without being a "snake oil salesman."
+
+**Unpack loaded questions — repeat them back** (2017-10-17): when a client fires a
+"shotgun"/loaded question, take it apart, repeat it back so they feel heard and validated,
+then answer the truest sub-question or ask which matters most.
+
+> "I want to unpack the question because it's loaded... I heard four questions there, let
+> me repeat it back to you." / "I learned this from my therapist — when you say it back to
+> them they feel very important and that they felt heard."
+
+He contrasts this with the "politician" technique (talk until you answer the question *you*
+wanted): smart people notice they were never answered and feel manipulated. (2017-10-17)
+
+**Non-adversarial selling** (2017-10-17): never treat a lead as us-vs-them — both parties
+want the client's business to succeed, and naming that shared motivation is powerful.
+Being yourself matters: "The minute we're not ourselves we're already at a disadvantage."
+
+**Abundance vs. scarcity** (2017-10-17): there are as many billion-dollar clients with
+six-figure identity jobs as there are $5,000 clients — more and bigger jobs always exist
+(partly a function of living in a high-commerce city). Don't negotiate against yourself out
+of perceived scarcity.
+
+**Price as gatekeeper; "their loss"** (2017-10-17) — the money-mindset that underwrites the
+walk-away (same posture as §12 and §15):
+
+> "If they go with somebody else it's their loss... because I create so much value for my
+> client... and for that I have to charge a certain amount of money. That's my gatekeeper."
+
+**Real business people vs. "hobbyists built around a trade"** (2017-10-17): the clients he
+wants understand "it takes money to make money," treat money as a tool, value ideas, and
+move to grow; small owners who cling to every cent, undervalue ideas, and micromanage are
+"not real business people." Ideas carry value — a "white-collar concept," against the
+"blue-collar" belief that only physical labor is worth paying for.
+
+> "Real business people understand it takes money to make money. It takes risk to have big
+> wins... what you have are, I think, hobbyists built around a trade."
+
+---
+
 ## Cross-links
 
 - [[wiki/topics/pricing/pricing]] — value-based pricing, the desired-future-state → value
@@ -921,6 +1245,17 @@ above — all are Chris voicing the designer/service-provider unless noted:
   don't-want-the-work, kill-the-engagement-3x (Blair Enns), first-minutes leverage, spec-work.
 - [[wiki/sources/2016-10-19-yt-0cyFrU3UaMc]] — SEO & Lead Generation Pt.2 (2016-10-19) —
   selling-vs-closing, educe/educate, embrace-and-pivot, alternative compensation model.
+- [[wiki/sources/2017-08-05-yt-YMFAFkbE5pw]] — The Process Ep.7 / first client call
+  (2017-08-05) — high-level first call, float numbers, confirm-before-proposing, smile/
+  "flirting," charge-for-discovery, objection bell curve, "I don't need this client."
+- [[wiki/sources/2017-09-12-yt-pGzFzFJ04l8]] — Introvert business development (2017-09-12) —
+  ambassador-not-salesperson, warm network + passions, mom-and-pop targeting, inbound pull.
+- [[wiki/sources/2017-10-08-yt-rOGAJwm3n_M]] — Pitch This! Ep.1 (2017-10-08) — language-is-
+  power, anchor-unknown-to-known, describe the other senses, surface mood boards.
+- [[wiki/sources/2017-10-17-yt-UHpjAyAqRd0]] — Working w/ Clients (2017-10-17) — show-up-
+  empty, managing energy, unpack loaded questions, non-adversarial, abundance-vs-scarcity.
+- [[wiki/sources/2017-10-31-yt-3jBen84xtSM]] — Pitch This! / talk about design (2017-10-31) —
+  context-first, story frame-by-frame, spend time on the crescendo.
 - [[wiki/sources/2017-12-20-yt-BSxg87CoOu4]] — How to present logo designs (2017-12-20) —
   *Ben Burns, NOT Chris; team doctrine.*
 - [[wiki/sources/2018-04-04-yt--C01FC27Jg0]] — Price-buyer / £2,000 branding role-play

@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-17
-sources: 23
+sources: 38
 ---
 
 # Beliefs
@@ -17,9 +17,15 @@ Seeded v1 from [[../wiki/sources/2026-07-14-research-biography-dossier]] and
 the first video-corpus synthesis pass (11 landmark keynotes/monologues, 2019–2025).
 Expanded again 2026-07-17 (**synthesis pass 2**) from ten 2016–2017 "The Process"-era
 videos — his earliest recorded positions on negotiation, design-education reform,
-company culture, the designer-to-entrepreneur transition, and self-belief. All
-video material below is subject-attributed first-person unless noted; quotes are marked
-as quotes, everything else is paraphrase.
+company culture, the designer-to-entrepreneur transition, and self-belief. Expanded
+again 2026-07-17 (**synthesis pass 3**) from fifteen mid/late-2017 "@thefutur" videos
+(ingest batches 18–27) — the earliest recorded forms of his pricing mechanics (price
+bracketing, confirming price before proposing, "too expensive" objection-handling,
+charging for discovery), his presenting/selling doctrine (language is power, "show up
+empty," sell through curiosity), his design-craft philosophy (anti-originality, timeless
+over trendy, logo restraint), and a cluster of confidence/ego/bias-to-action mindset
+talks. All video material below is subject-attributed first-person unless noted; quotes
+are marked as quotes, everything else is paraphrase.
 
 ## Frameworks
 
@@ -82,6 +88,39 @@ curriculum. The pieces:
   breakthrough (he credits Blair Enns' "difficult business decision"). (2022-12-27)
   `[self-reported]` ([[../wiki/sources/2022-12-27-yt-o8IdDEJym1U]])
 
+The earliest-recorded, concrete mechanics of the doctrine (2017 "@thefutur" videos) —
+the operational antecedents of the pass-1 "price bracketing / reverse anchoring" cluster
+(which cited 2022):
+
+- **Price bracketing — discover the budget by naming two goal-post numbers.** Rather than
+  guess, ask directly and offer two numbers as goal posts ("between \$2,000 and \$8,000");
+  if the client balks, ask their price point, then bracket *upward* from it so the floor of
+  the deal equals their own stated number. Quote: *"I gauged the client's budget by just
+  asking them. There's something that we call price bracketing… you're going to take two
+  numbers as goal post."* (2017-08-01) `[self-reported]`
+  ([[../wiki/sources/2017-08-01-yt-b9k6Ff0OMp8]])
+- **Confirm the price before you build anything — never build free proposals.** Before
+  hanging up on a first call, confirm the price range back to the client and get a yes/no —
+  asked in a way they can decline without losing face — otherwise you go away and build a
+  full proposal for a prospect who already privately decided it's too expensive. Quote:
+  *"You don't want to be in the proposal building business, because you get paid exactly
+  zero dollars to build proposals."* The first call is high-level (rapport, trust,
+  enthusiasm), not a scoping session. (2017-08-05) `[self-reported]`
+  ([[../wiki/sources/2017-08-05-yt-YMFAFkbE5pw]])
+- **"Too expensive" → anchor high, hold your floor, walk away calm.** Never negotiate from
+  your true floor (open at \$500 and you get "dragged down" to \$400 or \$350) — anchor above
+  it and *defend* the anchor even when it provokes a "that's crazy" reaction. Deliver a calm
+  walk-away — *"if that's not a good fit… I totally understand… use the options available to
+  you… but if things should change… please do reach out"* — and dismantle the "discount now,
+  more work later" bribe by mirroring it back (would *you*, as a vendor, take half your worth
+  on a maybe?). (2017-08-06) `[self-reported]`
+  ([[../wiki/sources/2017-08-06-yt-FcyIGgFELGw]])
+- **Charge for discovery.** *"If you're able to help the client solve a problem through
+  talking, you should charge money for it"* — call it strategy, discovery, or a brand audit;
+  start with a nominal fee (~\$500) to validate the process is worth money. Real discovery
+  helps the client realize something they didn't know — *not* asking their favorite colors.
+  (2017-08-05) `[self-reported]` ([[../wiki/sources/2017-08-05-yt-YMFAFkbE5pw]])
+
 > ⚠️ Tension across years (evolution, not reversal): in the 2019 value-based-pricing
 > method he *co-determines* value with the client and lets them name the number
 > ([[../wiki/sources/2019-04-12-yt-ivKnj9ffcmE]]); by 2023 he stresses the price is the
@@ -111,6 +150,56 @@ curriculum. The pieces:
 > so good and give it away free ("no funnels, no email traps") so it sells for him. Selling
 > mechanics remain his *teaching*; his *personal* practice has moved to content-as-selling.
 > ([[../wiki/sources/2023-12-23-yt-B-NxAZiDkKo]])
+
+### The work does not speak for itself — language, presence, and serving (2017)
+
+His earliest sustained articulation of how to present and sell design — the antecedent of
+the pass-1 "selling is helping" cluster.
+
+- **Language is the presenter's real power — "the work does not speak for itself."** He used
+  to believe good work should speak for itself and that "art speak" was BS covering for
+  laziness; now he sees how *specifically* you can describe something — "painting in the gaps"
+  of the client's imagination — as the art director's real power and a distinct skill. Quote:
+  *"I realized the power of language and how specific you can describe something and to kind of
+  paint in the gaps… that's your power as a presenter, as an art director."* A great designer
+  who can't present hits a ceiling in both career and client caliber. (2017-10-08)
+  `[self-reported]` ([[../wiki/sources/2017-10-08-yt-rOGAJwm3n_M]])
+- **Give the client a lens; anchor the unknown to the known.** Naming the work up front
+  ("the new nautical") hands the client a lens to look through. The core technique: take
+  something the client doesn't know (a design term) and attach it to something they *do* know,
+  building a shared visual language — the person across the table is not a designer. Avoid
+  sounding "pitchy," avoid negatively-loaded words ("salty"), and describe the other senses
+  (touch, feel) because clients remember it. (2017-10-08) `[self-reported]`
+  ([[../wiki/sources/2017-10-08-yt-rOGAJwm3n_M]])
+- **Be an ambassador, not a salesperson.** Business development (especially for introverts)
+  starts from your own passions and warm network; become a helpful regular who builds rapport
+  over weeks before ever mentioning you're a consultant (his Tender Greens story). Reframe:
+  *"Forget about trying to get new business, just be out there to learn, to share, to create
+  value… otherwise everything you say sounds like a promotion, it sounds like an
+  advertisement."* Chase the small mom-and-pop shops and a big brand's suppliers, not the
+  dream brand itself. (2017-09-12) `[self-reported]`
+  ([[../wiki/sources/2017-09-12-yt-pGzFzFJ04l8]])
+- **Sell through curiosity — drop the agenda, dig for the real problem.** The path to the
+  sale is curiosity, not pitching: get intensely curious, dig to understand the client's
+  world and surface their real problem rather than asking "how can I help you"; kill
+  assumptions and reflect back what you heard (validation). A cold capabilities deck asks for
+  the prospect's *time* and *money* before creating any value — he deletes ~97 of 100. First
+  skill-builder: talk to strangers with no agenda. (2017-09-09) `[self-reported]`
+  ([[../wiki/sources/2017-09-09-yt-D6bp5DGbSH4]])
+- **"Show up empty" — present, not unprepared.** Do the brief/homework, then purge
+  expectations, attachments, and bad energy (a prior fight, the bills, the next client) so
+  you're wholly present. On calls he is *"just managing energy"* — turning negative energy
+  positive without being a "snake oil salesman" — and *unpacks* loaded questions by repeating
+  them back so the client feels heard (a validation trick learned from his therapist).
+  (2017-10-17) `[self-reported]` ([[../wiki/sources/2017-10-17-yt-UHpjAyAqRd0]])
+- **Abundance over scarcity — "if they go with someone else, it's their loss."** There are as
+  many billion-dollar clients with six-figure identity jobs as there are \$5,000 clients, so
+  don't negotiate against yourself out of perceived scarcity. He creates so much value that a
+  prospect choosing a cheaper vendor "made a big mistake" — *price is his "gatekeeper."* But
+  the self-confidence behind that posture must be *earned* by doing the work: *"you can't hire
+  someone else to do your push-ups for you."* (2017-10-17, 2017-08-05) `[self-reported]`
+  ([[../wiki/sources/2017-10-17-yt-UHpjAyAqRd0]];
+  [[../wiki/sources/2017-08-05-yt-YMFAFkbE5pw]])
 
 ### "What you believe becomes reality" — the belief cycle
 
@@ -235,6 +324,40 @@ selling, and branding frameworks above). (2018, evergreen) `[self-reported]`
 ([[../wiki/sources/2026-07-14-research-biography-dossier]] §5;
 [[../wiki/sources/2024-02-24-yt-f5uYRuqK4g0]])
 
+### Design craft — timeless over trendy, restraint, anti-originality
+
+His design-*aesthetic* convictions (distinct from the design-as-business thesis above),
+articulated across 2017 history-lesson and logo-critique videos.
+
+- **Anti-originality — chase good, not original.** Everything traces back to a source; if
+  you think your work is original you're either ignorant (don't know the history) or arrogant
+  (think it was all you). Better to let go of being original and focus on being good, then
+  "put your own spin on it." Quote: *"If you think your work is original it suggests that
+  you're either ignorant or arrogant — you're ignorant 'cause you don't know the history…
+  arrogant because you think it was all you."* (2017-10-10) `[self-reported]`
+  ([[../wiki/sources/2017-10-10-yt--MMwGkUioFQ]])
+- **Timeless over trendy — never "on trend."** He strives for design rooted in strong, solid
+  fundamentals rather than chasing trends; when a font stops being cool your trendy work
+  becomes uncool and you "feel that shame." Quote: *"I strive to create design that is
+  timeless… please never say to me 'this is on trend' because I'll just destroy [you]."*
+  (Rodchenko's ~100-year-old work still looks fresh while "you did work two weeks ago and it's
+  already dated.") (2017-10-10) `[self-reported]`
+  ([[../wiki/sources/2017-10-10-yt--MMwGkUioFQ]])
+- **The best logos are simple — restraint = timelessness (Dieter Rams).** The best logos are
+  simple, restrained, and not overworked; *"a good logo can be boring,"* and a beautifully
+  chosen typeface used with restraint can itself be the solution. Judge the mark on its own,
+  separately from its application. Dieter Rams / Braun is the benchmark of simplicity;
+  loud, decorative, "funky" design dates like bell-bottoms, while restrained work (Saarinen
+  furniture) still looks current after ~50 years. (2017-11-23) `[self-reported]`
+  ([[../wiki/sources/2017-11-23-yt-TH-jqZ4xueI]])
+- **"The logo is the tip of the beast" — judge business-fit, not standalone aesthetics.** A
+  mark must be conceived within an entire system (how it's applied, how flexible it is, what
+  components can be deconstructed and reused); the logo is only the tip that *"sits on a giant
+  beast called the business,"* which has a vision it must move forward. Designers who spend
+  their energy arguing over a logo's aesthetics will be *"fighting for the table scraps"* and
+  lose the war in the world of business. (2017-12-15) `[self-reported]`
+  ([[../wiki/sources/2017-12-15-yt-y42PI9peurI]])
+
 ### Negotiate from non-neediness — "the more I say no, the more they say yes"
 
 The earliest-dated form of his pricing/selling posture; predates and grounds the pass-1
@@ -321,6 +444,14 @@ without the crippling debt"). All 2016–2017, all Chris-attributed:
   `[self-reported]` (influences: Daniel Pink, Simon Sinek)
   ([[../wiki/sources/2016-11-03-yt-kmZkRkxWj2c]];
   [[../wiki/sources/2017-02-15-yt-kWZ1qtvcVHc]])
+- **Take care of your people — projects and money come and go.** The leader's realization:
+  *"projects come and go and money come and go, but you have to take care of your people; if
+  you don't take care of your people they burn out, become disgruntled, and they don't want
+  to give the best of themselves."* His culture rests on a fun, psychologically safe place to
+  make mistakes, autonomy (give people goals, let them find the how), treating mistakes as
+  healthy and encouraging it top-down, and protecting time — their pride metric is
+  industrial-safety-style: *"days without working late or working on the weekend."*
+  (2017-10-17) `[self-reported]` ([[../wiki/sources/2017-10-17-yt-4oGtHgo3OwE]])
 
 ### Sell what the world can do — the designer→entrepreneur transition
 
@@ -336,6 +467,13 @@ without the crippling debt"). All 2016–2017, all Chris-attributed:
   monthly overhead = months of runway; the worry date is one month sooner — which he credits
   to Mike Janda. (2016-10-28) `[self-reported]` (influences: Mark Cuban framing; Mike Janda)
   ([[../wiki/sources/2016-10-28-yt-gm66Etsi2-c]])
+- **Know salary vs. profit vs. COGS.** Your take-home salary is *not* profit: revenue − cost
+  of goods sold (what you pay others to make the work) − your own salary − overhead = net
+  profit; the business must be profitable *on top of* paying you a normal wage. Quote:
+  *"Whatever you set aside for your salary… that is not profit. A lot of people confuse that
+  as being profit. That's just to pay a normal person to do your job."* The CEO's job is
+  vision and strategy, not the production work. (2017-09-09) `[self-reported]`
+  ([[../wiki/sources/2017-09-09-yt-D6bp5DGbSH4]])
 
 ### Success is how much you grew, not how close to the vision
 
@@ -379,6 +517,45 @@ without the crippling debt"). All 2016–2017, all Chris-attributed:
   greetings, studied comedians for delivery) — paired with a Kanye-style "reality distortion
   field" of self-belief. (2016-12-24, 2017-01-05) `[self-reported]`
   ([[../wiki/sources/2016-12-24-yt-a5VMFo_Axdc]]; [[../wiki/sources/2017-01-05-yt-rP2iDwSN_v8]])
+
+### Confidence, ego, and bias-to-action (the 2017 mindset talks)
+
+A cluster of standalone late-2017 mindset monologues/conversations that formalize his
+confidence and action psychology (antecedents of the pass-1 belief-cycle and self-belief
+frameworks).
+
+- **Formula for happiness: think, say, do in harmony.** Confidence begins with inner peace;
+  his formula for happiness is *"what you think, what you say, and what you do in perfect
+  harmony."* (2017-09-03) `[self-reported]` ([[../wiki/sources/2017-09-03-yt-6pHB0CgRBHg]])
+- **Ego = the gap between the conscious and unconscious mind.** Unhappiness comes from
+  attachment (to knowledge, power, wealth) — another word for which is ego; the ego lives
+  *"in the gap between your conscious and your unconscious mind,"* pushing "the you of today"
+  and "the future you" apart. Imposter syndrome is thinking the world sees the mask you wear
+  when people already see you as you are; the fix is detachment, surrender, and authenticity —
+  and the paradox that *"when you relinquish authority, you actually gain it."* (2017-09-03)
+  `[self-reported]` ([[../wiki/sources/2017-09-03-yt-6pHB0CgRBHg]])
+- **Self-confidence vs. self-esteem — the caregiver imprint.** Self-confidence is how you
+  feel about your abilities alone "in your own skin"; self-esteem is how you feel about them
+  compared to other people. Enough early negative feedback — especially from caregivers —
+  leaves an "imprint," a negative inner voice that isn't truly yours; his own caregivers met
+  difficult emotions with *"don't feel that,"* training him to shut them down. (2017-12-07)
+  `[self-reported]` ([[../wiki/sources/2017-12-07-yt-EIW1Xt5l2T8]])
+  > Note: the self-confidence-vs-self-esteem *framework* is voiced by the therapist-guest
+  > (CONTEXT); persona data here is Chris's agreement plus his first-person disclosure.
+- **Public commitment creates accountability that forces you out of your comfort zone.**
+  Posting a goal publicly makes quitting psychologically impossible — you'd disappoint not
+  just yourself but the community watching (his Adobe MAX "day 2 is to get a brand
+  partnership" story). Comfort in talking to people is a compounding skill: the 1st
+  conversation is hard, the 12th less so, and the difficulty just levels up to
+  higher-stakes people. He is a self-described introvert still working on it after ~10 years.
+  (2017-11-08) `[self-reported]` ([[../wiki/sources/2017-11-08-yt-fRUYLjkfZKI]])
+- **"Too dumb to fail" — bias to action beats overthinking.** The people who get results are
+  those who *do* the work, not those who *think about* doing it; "smart but dumb" is the ideal
+  — smart enough to fill the gaps but *"almost like too dumb to fail — like you just go for
+  it."* Being "too smart for your own good" means you question everything and delay results.
+  Keep a nimble mind (a kayak with two paddles, not a slow-turning ship) that treats each new
+  skill as exciting, not a burden. (2017-11-13) `[self-reported]`
+  ([[../wiki/sources/2017-11-13-yt-yCFGKzFHnOc]])
 
 ## Values
 

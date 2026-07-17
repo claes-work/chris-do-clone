@@ -2,7 +2,7 @@
 type: hub
 domains: [branding]
 updated: 2026-07-17
-tags: [branding, personal-branding, unbland, brand-strategy, positioning, storytelling, shadow-work, two-word-brand, logo, identity, style]
+tags: [branding, personal-branding, unbland, brand-strategy, positioning, storytelling, shadow-work, two-word-brand, logo, logo-critique, identity, identity-system, timelessness, style]
 ---
 
 # Branding — hub
@@ -237,6 +237,77 @@ using the W Hotel Taipei as a live case study. (2015-07-21)
   > "The more ways you can use a logo that you designed and apply throughout the entire
   > system, the better, the stronger the brand becomes." (2015-07-21)
   [[wiki/sources/2015-07-21-yt-1LPz8GITlHY]] (Cross-ref Framework 14 — consistency.)
+
+### Framework 24 — "The logo is the tip of the beast": judge the system + business fit, not the mark's aesthetics
+
+Chris's central logo-critique doctrine, stated cleanly in his 2017 review of the
+Wieden+Kennedy Formula One rebrand (a response to designers loudly panning the mark). The
+brand-strategy core of Framework 7 ("a logo's job is to identify, not explain"), sharpened
+into an evaluation rule: never judge a logo standalone — judge the identity *system* and its
+*business fit*. (2017-12-15) [[wiki/sources/2017-12-15-yt-y42PI9peurI]]
+
+- **A mark is conceived inside an entire system**, not as a standalone artifact — how it's
+  applied, how flexible it is, and what components can be deconstructed and reused elsewhere:
+  > "When you create a mark you have to think about it in an entire system and how it's
+  > applied, how flexible it is, what other kinds of components can you deconstruct from it
+  > and use elsewhere, so it becomes this very rich tapestry of design." (2017-12-15)
+  [[wiki/sources/2017-12-15-yt-y42PI9peurI]] (The F1 system: three custom typefaces, flexible
+  repeatable marks, application across merchandise/uniforms/cars.) The mark's *genius* can be
+  that it **recedes** — indicating speed/power/torque without shouting, sitting alongside
+  sponsor logos rather than competing with them. (paraphrase)
+- **The logo is the tip; the business is the beast.** Aesthetics are the small visible tip of
+  a far larger thing:
+  > "That little tip sits on a giant beast and that beast is called the business, and they
+  > have a vision and they need to move it somewhere." (2017-12-15)
+  [[wiki/sources/2017-12-15-yt-y42PI9peurI]] Judge the mark against the brief and the
+  business's direction (the F1 brief: "reposition Formula One as a forward-facing
+  entertainment brand which works across a multitude of channels"; today "every brand needs
+  to think of itself as being in the entertainment space / as a media company"). (paraphrase)
+- **Designers who fight over aesthetics lose the business war.** The warning that gives the
+  framework its stakes:
+  > "If all we talk about is aesthetics… we're going to be fighting for the table scraps.
+  > We're not going to be able to make the kind of impact that we need to make within the
+  > world of business. We're going to lose the war." (2017-12-15)
+  [[wiki/sources/2017-12-15-yt-y42PI9peurI]]
+- **Sanity check on outrage:** if the original design team isn't upset, angry critics should
+  ask why they are — > "If the company that designed the original logo… are not mad, you have
+  to ask yourself, why are you mad?" (Carter Wong, the replaced 1994 designers, responded with
+  class.) (2017-12-15) [[wiki/sources/2017-12-15-yt-y42PI9peurI]]
+- *Credited context (not Chris):* **Michael Beirut** (Pentagram) supplies the long-game
+  framing Chris endorses — people "comment on logo launches as if they're judging a diving
+  competition when they should be judging a swimming competition" (branding is a long-distance
+  effort). **Ross Brawn** (F1) is quoted that the old logo "was neither iconic or memorable."
+  Both are CONTEXT, quoted approvingly by Chris. (2017-12-15)
+  [[wiki/sources/2017-12-15-yt-y42PI9peurI]]
+
+### Framework 25 — Judge the mark separately from its application (and restraint = timelessness)
+
+The complement to Framework 24, from a 2017 live logo critique. Where Framework 24 says *don't*
+judge a mark alone against the business, this adds the evaluation discipline that when you *are*
+"just talking logos," you must isolate the mark from its application — they are two separate
+conversations. (2017-11-23) [[wiki/sources/2017-11-23-yt-TH-jqZ4xueI]]
+
+- **The mark and its application are separate evaluations.** A bare wordmark can look "boring"
+  in isolation yet be a strong solution; don't let its (or a rival's) *application* contaminate
+  your judgment of the mark itself:
+  > "but that's the mark — we're just commenting on the mark right now." (2017-11-23)
+  [[wiki/sources/2017-11-23-yt-TH-jqZ4xueI]] Corollary: **"a good logo can be boring"** —
+  simplicity is not a flaw. (2017-11-23) [[wiki/sources/2017-11-23-yt-TH-jqZ4xueI]]
+  > *Context (not Chris — co-host Molly, excluded from persona):* the counter-case that a bare
+  > luxury mark (Louis Vuitton, Dior) reads as powerful only because the mind recalls the
+  > art-directed campaigns and full-page ads it lives on — i.e. the *application*, not the
+  > mark, carries the impact. Chris concedes the effect but holds the line that mark and
+  > application must still be evaluated separately. (2017-11-23)
+  > [[wiki/sources/2017-11-23-yt-TH-jqZ4xueI]]
+- **Restraint = timelessness (the brand-longevity case).** Simple, restrained marks "stand the
+  test of time," whereas "interesting," "dynamic," "the latest coolest thing" ages quickly like
+  dated fashion (his bell-bottoms/pigtails metaphor; Saarinen furniture still current after ~50
+  years). The designer's real value to a client is *judgment and taste that lasts*, not chasing
+  a trend the client will regret: > "you're pay[ing] me because I'm gonna use good judgment and
+  taste [to] give you something that's going to last." Benchmark: **Dieter Rams / Braun**
+  (credited). (2017-11-23) [[wiki/sources/2017-11-23-yt-TH-jqZ4xueI]] *(The pure typographic
+  craft — typeface choice, letter modifications — lives in
+  [[wiki/topics/design-craft/design-craft]]; only the brand-strategy framing is kept here.)*
 
 ---
 
@@ -528,6 +599,10 @@ Chris's signature exercise, refined across the 2023 masterclass and AdobeMAX key
   [[wiki/sources/2015-03-24-yt-FYHD1fBKZDk]]; [[wiki/sources/2015-04-28-yt-KSGzJiK9Uz8]]
 - **Carl Jung** — Persona / Shadow. [[wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]];
   [[wiki/sources/2023-12-14-yt-1kUCm1JPzxg]]
+- **Michael Beirut** (Pentagram) — the "diving vs. swimming competition" long-game framing for
+  judging logo launches, endorsed by Chris. [[wiki/sources/2017-12-15-yt-y42PI9peurI]]
+- **Dieter Rams / Braun** — the benchmark of simplicity and restraint behind "restraint =
+  timelessness." [[wiki/sources/2017-11-23-yt-TH-jqZ4xueI]]
 - **Simon Sinek** (buy the why), **Robert McKee** (*Story*), **Stan Lee** (Spider-Man
   origin), **Brendan/Brandon Kane** (three Fs / *Hook Point*), **Michael Margolis**
   (*Story 10x*), **Peter Drucker**, **Jeff Bezos** (brand = what people say when you're not
@@ -547,6 +622,12 @@ Chris's signature exercise, refined across the 2023 masterclass and AdobeMAX key
   masterclass; logo≠brand, brand-filter method). 2015-12-13.
 - [[wiki/sources/2016-11-08-yt-Unw8GLHtCso]] — Why designers undercharge for logos ("the
   difference is confidence"; luxury vs. volume). 2016-11-08.
+- [[wiki/sources/2017-11-23-yt-TH-jqZ4xueI]] — "The Best Logos Ever Designed Are Simple"
+  (judge the mark separately from its application; restraint = timelessness; Dieter Rams).
+  2017-11-23.
+- [[wiki/sources/2017-12-15-yt-y42PI9peurI]] — F1 Formula 1 logo review (judge the system +
+  business fit; "the logo is the tip of a giant beast called the business"; Beirut's
+  diving-vs-swimming long game). 2017-12-15.
 - [[wiki/sources/2019-06-27-yt-A24V7CUWe4M]] — *Building A Brand* Ep 6: logo design process
   with a client ("identify, not explain"). 2019-06-27.
 - [[wiki/sources/2019-12-31-yt-sO4te2QNsHY]] — "What Is Branding? 4-Minute Crash Course"

@@ -3,7 +3,7 @@ type: hub
 domain: design-craft
 domains: [design-craft]
 updated: 2026-07-17
-tags: [design-craft, typography, layout, composition, art-direction, critique, logo-design, portfolio, teaching, mastery, design-education, creativity, remix, copywriting, developer-handoff, freelance]
+tags: [design-craft, typography, layout, composition, art-direction, critique, logo-design, logo-critique, ideation, portfolio, teaching, mastery, design-education, creativity, remix, timelessness, restraint, copywriting, developer-handoff, freelance]
 ---
 
 # Design Craft — hub
@@ -372,6 +372,219 @@ vocabulary of a freelance craft career, cross-linked to the business domain.)*
 
 ---
 
+## 12. Logo & icon ideation method — "draw, don't think"
+
+From a "Life At Blind" art-direction session where Chris coaches a junior designer on a
+mark for a protection / security product, a repeatable early-stage ideation process
+(distinct from the §5 *critique* method — this is how the options get generated).
+*(Auto-caption transcript, garbled; quotes are the most legible Chris-attributed lines.)*
+[[wiki/sources/2017-08-15-yt-AiAZAuvO2sY]] (2017-08-15)
+
+- **Generate quantity first** — Start by brainstorming a large volume of metaphors for the concept before committing to any. [[wiki/sources/2017-08-15-yt-AiAZAuvO2sY]] (2017-08-15)
+
+> "So what you're looking for is every metaphor for protection. If you were to ask a
+> person on the street what are the hundred top symbols for protection — draw. Just draw,
+> don't think." — Chris Do [[wiki/sources/2017-08-15-yt-AiAZAuvO2sY]] (2017-08-15)
+
+- **Draw, don't think** — Defer judgment in the generation phase; sketch fast without over-analyzing, then bring the art director in to help refine. [[wiki/sources/2017-08-15-yt-AiAZAuvO2sY]] (2017-08-15)
+- **Avoid the obvious cliché** — For a protection brief, don't default to the padlock; the first symbol everyone reaches for should not be the answer. [[wiki/sources/2017-08-15-yt-AiAZAuvO2sY]] (2017-08-15)
+
+> "Because the lock will lead you somewhere." — Chris Do (on why to avoid the padlock cliché) [[wiki/sources/2017-08-15-yt-AiAZAuvO2sY]] (2017-08-15)
+
+- **Combine two symbols** — Icons of this kind are usually built by combining two things; the interplay reveals the idea. *(Same principle he applies in the §5 conceptual-logo critique, [[wiki/sources/2017-11-15-yt-xRmqvnKepN4]]; this 2017-08-15 session is an earlier instance at the ideation stage.)* [[wiki/sources/2017-08-15-yt-AiAZAuvO2sY]] (2017-08-15)
+
+> "So the protection symbols — usually when you're designing these kind of icon you're
+> combining two things." — Chris Do [[wiki/sources/2017-08-15-yt-AiAZAuvO2sY]] (2017-08-15)
+
+- **Boil it down to the essence** — Keep reducing a concept (a weapon, lightning) to the simplest form that still reads. [[wiki/sources/2017-08-15-yt-AiAZAuvO2sY]] (2017-08-15)
+
+> "So you keep boiling it down to what it is." — Chris Do [[wiki/sources/2017-08-15-yt-AiAZAuvO2sY]] (2017-08-15)
+
+- **Work as an idea, not an illustration** — A logo/icon should function as an idea, not a detailed rendered scene. [[wiki/sources/2017-08-15-yt-AiAZAuvO2sY]] (2017-08-15)
+
+> "Because icons and logos like this should work … it's just as an idea." — Chris Do
+> [[wiki/sources/2017-08-15-yt-AiAZAuvO2sY]] (2017-08-15)
+
+- **A distinctive real-world texture can become the container** — e.g. Kevlar's weave pattern can itself be a recognizable geometric shape that letters/forms sit inside. [[wiki/sources/2017-08-15-yt-AiAZAuvO2sY]] (2017-08-15)
+- **Organize exploration systematically** — Put each variation on its own so options can be grouped, and lay out a page of one symbol type scaling small→big to compare the range. [[wiki/sources/2017-08-15-yt-AiAZAuvO2sY]] (2017-08-15)
+
+---
+
+## 13. Live typography/layout critique method — "turn it off, add it back"
+
+Chris's repeatable procedure for diagnosing a stuck layout, captured across two 2017
+live critiques (a "Basic Typography" poster and a multi-page gourmet-goods brochure).
+Extends §2's "strip elements away one at a time" into an explicit named method with a
+hierarchy of reads.
+[[wiki/sources/2017-09-11-yt-dY7i4uiDHFA]] (2017-09-11); [[wiki/sources/2017-10-08-yt-ND4VNkb4J3o]] (2017-10-08)
+
+- **Turn off all layers, then add back one at a time** — When things aren't falling into place, hide everything and reintroduce each element, re-checking the composition after every change. [[wiki/sources/2017-09-11-yt-dY7i4uiDHFA]] (2017-09-11)
+
+> "When you're working with a layout and things aren't falling into place, the first
+> thing I like to do is turn off all my layers." — Chris Do
+> [[wiki/sources/2017-09-11-yt-dY7i4uiDHFA]] (2017-09-11)
+
+- **Show it or lose it** — A small, unidentifiable element should either be shown more fully so it can be read, or removed entirely. [[wiki/sources/2017-09-11-yt-dY7i4uiDHFA]] (2017-09-11)
+- **Establish a hero** — Anchor everything to one axis / one grid so a single element can stand out as the visual hero (he simplifies everything else to elevate it). [[wiki/sources/2017-09-11-yt-dY7i4uiDHFA]] (2017-09-11)
+
+> "We keep everything anchored to one axis, one grid, and that allows this guy to be the
+> hero." — Chris Do [[wiki/sources/2017-09-11-yt-dY7i4uiDHFA]] (2017-09-11)
+
+- **Primary / secondary / tertiary reads** — Design a deliberate reading order instead of letting elements compete for attention simultaneously. [[wiki/sources/2017-09-11-yt-dY7i4uiDHFA]] (2017-09-11)
+
+> "When you had type over here, over here, and this was darker and gray, it was like all
+> fighting for our attention all at the same time." — Chris Do
+> [[wiki/sources/2017-09-11-yt-dY7i4uiDHFA]] (2017-09-11)
+
+- **Contrast of form *and* medium builds the hero** — Beyond size/weight contrast (§2), the hero can be made by contrasting form (sharp serif letterform vs. fluid one) and medium (a photograph vs. a vector piece of art). [[wiki/sources/2017-09-11-yt-dY7i4uiDHFA]] (2017-09-11)
+
+> "This very lyrical F, this very fluid letterform … it's a photograph versus a vector
+> piece of art." — Chris Do [[wiki/sources/2017-09-11-yt-dY7i4uiDHFA]] (2017-09-11)
+
+- **White space = luxury** — Packing content in makes a piece read as a catalogue; breathing room reads as gourmet/luxury. [[wiki/sources/2017-10-08-yt-ND4VNkb4J3o]] (2017-10-08)
+
+> "White space is your best friend. If you look at all the Apple photography, very
+> minimal, and that's what screams to me luxury." — Chris Do
+> [[wiki/sources/2017-10-08-yt-ND4VNkb4J3o]] (2017-10-08)
+
+- **Break or hug the gutter** — Let an image either stop right at the gutter or run well over it, so the reader registers that it slid across the spread — don't leave it timidly near the fold. [[wiki/sources/2017-10-08-yt-ND4VNkb4J3o]] (2017-10-08)
+- **Rule of thirds** — Dividing a page into thirds is a dynamic way to break down a layout; the page with the most negative space is usually the most successful. [[wiki/sources/2017-10-08-yt-ND4VNkb4J3o]] (2017-10-08)
+- **Big/small contrast in a lockup** — When two type elements sit together, commit one bigger and one smaller (enlarge "gourmet," shrink the rest). [[wiki/sources/2017-10-08-yt-ND4VNkb4J3o]] (2017-10-08)
+- **Serif-pairing for food brands** — Didot + Baskerville (two serifs) plus a sans read well for a gourmet/food brand; an old-timey treatment feels relevant to food. [[wiki/sources/2017-10-08-yt-ND4VNkb4J3o]] (2017-10-08)
+- **Use accent color sparingly** — Over-using gold (or any rich accent) turns gaudy; deploy it with intention. [[wiki/sources/2017-10-08-yt-ND4VNkb4J3o]] (2017-10-08)
+
+> "You can pull a Donald Trump and gold plate everything … use it very sparingly, use it
+> tastefully and with intention." — Chris Do [[wiki/sources/2017-10-08-yt-ND4VNkb4J3o]] (2017-10-08)
+
+- **A booklet is a 3D object** — Treat a catalog/brochure as three-dimensional: front and back covers should relate; repeat grid lines/elements across them so they tie in (the client feels it subconsciously, and it gives you something to present). [[wiki/sources/2017-10-08-yt-ND4VNkb4J3o]] (2017-10-08)
+
+> "Think of your booklet, your catalog, your brochure as a three-dimensional thing.
+> There's a relationship between the things on the front and the back." — Chris Do
+> [[wiki/sources/2017-10-08-yt-ND4VNkb4J3o]] (2017-10-08)
+
+**Body typography is the #1 hiring signal.** Recruiting for Blind at Art Center's 2017
+grad show, Chris names typography understanding as the single trait he screens for — and
+specifies that the real test is *body type*, not decorative display type.
+[[wiki/sources/2017-08-07-yt-G06ljt6JGAo]] (2017-08-07)
+
+> "[A] graphic designer who really just understands typography — that's the number one
+> thing I'm looking for." — Chris Do [[wiki/sources/2017-08-07-yt-G06ljt6JGAo]] (2017-08-07)
+
+> "The true test is not decorative type but body type." — Chris Do
+> [[wiki/sources/2017-08-07-yt-G06ljt6JGAo]] (2017-08-07)
+
+---
+
+## 14. The "art of search" — ideation via search & stock sites
+
+A named, repeatable research/ideation method Chris demonstrates live, using Google and
+Shutterstock as a free 24/7 creative partner to find imagery. The step sequence:
+[[wiki/sources/2017-10-11-yt-Xng-RR0XOWY]] (2017-10-11)
+
+- **Start from the dictionary definition** — Look up the meaning of the word you're designing around; often we don't actually understand it. [[wiki/sources/2017-10-11-yt-Xng-RR0XOWY]] (2017-10-11)
+- **Type slowly to surface autocomplete** — Google's predictive text reveals what most people actually search for. [[wiki/sources/2017-10-11-yt-Xng-RR0XOWY]] (2017-10-11)
+- **Broad, then narrow** — Don't box yourself in by typing four or five words up front, which collapses results to one thing; broad-to-specific is the journey. [[wiki/sources/2017-10-11-yt-Xng-RR0XOWY]] (2017-10-11)
+- **The "three flicks" rule** — If you don't find what you want within about three scrolls of image results, you've typed the wrong word. [[wiki/sources/2017-10-11-yt-Xng-RR0XOWY]] (2017-10-11)
+
+> "Here's my rule of thumb, like three flicks of the screen: if you don't find what
+> you're looking for, you've typed in the wrong word." — Chris Do
+> [[wiki/sources/2017-10-11-yt-Xng-RR0XOWY]] (2017-10-11)
+
+- **Add an abstraction word to escape cliché** — Append "concept," "idea," or "metaphor" to the noun ("passion concept," "passion metaphor") — often "the secret sauce." [[wiki/sources/2017-10-11-yt-Xng-RR0XOWY]] (2017-10-11)
+- **Mine stock-site metatags** — Read the keywords contributors attach to a stock image; the word you assumed often isn't the word buyers use, and the alternates are more powerful (e.g. discovering "abstract passion"). Stock sites are more curated than Google image results (which are polluted by junk filenames). [[wiki/sources/2017-10-11-yt-Xng-RR0XOWY]] (2017-10-11)
+- **Collect without judging** — Don't be critical too fast; if something is "1/8 of an idea," save it into a bucket — it costs nothing and you never know where it leads. Then chase related-image and same-artist rabbit holes. [[wiki/sources/2017-10-11-yt-Xng-RR0XOWY]] (2017-10-11)
+
+> "If it inspires you, if it's 1/8 of an idea, you just grab it. It costs nothing to grab
+> and save. Put it in a bucket, because you never know where that's going to lead."
+> — Chris Do [[wiki/sources/2017-10-11-yt-Xng-RR0XOWY]] (2017-10-11)
+
+*(The underlying premise — creativity is connecting two disparate ideas into a common
+thread — is the same thesis captured in §10, here reinforced on 2017-10-11 and applied to
+image research.)*
+
+---
+
+## 15. Originality, timelessness & geometric foundations
+
+From the Rodchenko design-history episode, Chris's sharpest 2017 articulation of a design
+worldview that escalates §7's "everything is remix": stop chasing *original*, chase
+*good*, and root the work in timeless fundamentals.
+[[wiki/sources/2017-10-10-yt--MMwGkUioFQ]] (2017-10-10)
+
+- **Chase good, not original** — Any "original and fresh" work retraces to a source, so drop originality as the goal. [[wiki/sources/2017-10-10-yt--MMwGkUioFQ]] (2017-10-10)
+
+> "If we can just let go of trying to be original and just focus on trying to be good, I
+> think it's a much healthier place for all of us to operate out of." — Chris Do
+> [[wiki/sources/2017-10-10-yt--MMwGkUioFQ]] (2017-10-10)
+
+- **"Original = ignorant or arrogant"** — Believing your work is original means you either don't know the history (ignorant) or think it was all you (arrogant). [[wiki/sources/2017-10-10-yt--MMwGkUioFQ]] (2017-10-10)
+
+> "If you think your work is original it suggests that you're either ignorant or arrogant
+> — you're ignorant 'cause you don't know the history, [and] you're arrogant because you
+> think it was all you who did it." — Chris Do [[wiki/sources/2017-10-10-yt--MMwGkUioFQ]] (2017-10-10)
+
+- **Timeless over trendy** — Strive for design rooted in strong fundamentals, not trend-chasing; a font picked because it's cool becomes uncool (and shameful) when the trend passes. Rodchenko's ~100-year-old work still looks fresh while "work two weeks ago … is already dated." [[wiki/sources/2017-10-10-yt--MMwGkUioFQ]] (2017-10-10)
+
+> "I strive to create design that is timeless — things that don't follow trends but are
+> based and rooted in strong design principles." — Chris Do
+> [[wiki/sources/2017-10-10-yt--MMwGkUioFQ]] (2017-10-10)
+
+> "Please never say to me 'this is on trend' because I'll just destroy [you]." — Chris Do
+> [[wiki/sources/2017-10-10-yt--MMwGkUioFQ]] (2017-10-10)
+
+- **Geometric-shape foundations** — If you build from really basic geometric shapes — a square, a circle, a triangle — you're off to a good start. [[wiki/sources/2017-10-10-yt--MMwGkUioFQ]] (2017-10-10)
+
+> "If you use really basic shapes, geometric things — a square, a circle, a triangle —
+> you're off to a good start." — Chris Do [[wiki/sources/2017-10-10-yt--MMwGkUioFQ]] (2017-10-10)
+
+---
+
+## 16. Logo simplicity & restraint — judge the mark, and judge the system
+
+Two late-2017 logo critiques (a set of live logo reviews; the F1 rebrand) crystallize
+Chris's logo philosophy: the best marks are simple and restrained, and a mark is judged
+at two levels — the mark on its own, and the whole system/business it sits on.
+[[wiki/sources/2017-11-23-yt-TH-jqZ4xueI]] (2017-11-23); [[wiki/sources/2017-12-15-yt-y42PI9peurI]] (2017-12-15)
+
+- **The best logos are simple, not "interesting"** — "Interesting," "amazing," "dynamic," "the latest coolest thing" all age quickly; a good logo can be boring, and simplicity is not a flaw. A strong solution can be just the company name in a beautiful typeface with small modifications. [[wiki/sources/2017-11-23-yt-TH-jqZ4xueI]] (2017-11-23)
+
+> "A good logo can be boring." — Chris Do [[wiki/sources/2017-11-23-yt-TH-jqZ4xueI]] (2017-11-23)
+
+> "You can choose a nice typeface and use a lot of restraint and it would be beautiful —
+> just picking the right typeface." — Chris Do [[wiki/sources/2017-11-23-yt-TH-jqZ4xueI]] (2017-11-23)
+
+- **Restraint = timelessness (Dieter Rams / Braun)** — Rams and Braun exemplify the level of simplicity and restraint designers should aspire to; Saarinen furniture (~50 years old) still looks current, while overworked "funky" design dates like bell-bottoms. *(Reinforces §15's timeless-over-trendy from a logo angle.)* [[wiki/sources/2017-11-23-yt-TH-jqZ4xueI]] (2017-11-23)
+- **Judge the mark separately from its application** — Bare luxury wordmarks (Louis Vuitton, Dior) look plain as letters; their power comes from the art-directed campaigns around them. When critiquing the *logo*, evaluate the mark alone. [[wiki/sources/2017-11-23-yt-TH-jqZ4xueI]] (2017-11-23)
+
+> "But that's the mark — we're just commenting on the mark right now." — Chris Do
+> [[wiki/sources/2017-11-23-yt-TH-jqZ4xueI]] (2017-11-23)
+
+- **Judge the whole system & business fit** — A mark must be conceived within an entire system: how it's applied, how flexible it is, what components deconstruct and reuse — "a very rich tapestry of design." Evaluate a rebrand (e.g. F1) by system and business fit, not standalone aesthetics. [[wiki/sources/2017-12-15-yt-y42PI9peurI]] (2017-12-15)
+
+> "When you create a mark you have to think about it in an entire system and how it's
+> applied, how flexible it is, what other kinds of components can you deconstruct from it
+> and use elsewhere, so it becomes this very rich tapestry of design." — Chris Do
+> [[wiki/sources/2017-12-15-yt-y42PI9peurI]] (2017-12-15)
+
+- **"The logo is the tip of a giant beast called the business"** — The mark is only the tip sitting on a business that has a vision to move forward; designers who argue only about whether a logo "looks good" end up "fighting for the table scraps." [[wiki/sources/2017-12-15-yt-y42PI9peurI]] (2017-12-15)
+
+> "That little tip sits on a giant beast and that beast is called the business, and they
+> have a vision and they need to move it somewhere." — Chris Do
+> [[wiki/sources/2017-12-15-yt-y42PI9peurI]] (2017-12-15)
+
+> "If all we talk about is aesthetics … we're going to be fighting for the table scraps
+> … We're going to lose the war." — Chris Do [[wiki/sources/2017-12-15-yt-y42PI9peurI]] (2017-12-15)
+
+> ⚠️ APPARENT TENSION (context-resolved): "judge the mark separately from its application"
+> (2017-11-23) vs. "judge the system, not the standalone mark" (2017-12-15). Not a
+> reversal — the two answer different questions. When assessing a mark's *craft quality*,
+> strip away the emotional halo of its campaigns and look at the mark alone. When
+> assessing whether a *rebrand succeeds*, look past standalone aesthetics to flexibility,
+> application, and business fit. Both reject judging by surface prettiness in isolation.
+> [[wiki/sources/2017-11-23-yt-TH-jqZ4xueI]] (2017-11-23); [[wiki/sources/2017-12-15-yt-y42PI9peurI]] (2017-12-15)
+
+---
+
 ## Excluded — instructor-led
 
 Per fidelity rule #6 (speaker attribution), the following Futur "craft" videos are
@@ -396,6 +609,16 @@ faculty, [[wiki/sources/2016-06-21-yt-hvrmngTHVJ8]], [[wiki/sources/2016-06-30-y
 being coached, [[wiki/sources/2016-07-13-yt-C4_O3-TjGWg]]) are context only. **Kirby
 Ferguson**'s *Everything Is a Remix* (copy/transform/combine) is Chris's **citation** of a
 third party, not his origination.
+From the mid/late-2017 additions (§§12–16): **Molly** (co-host on the poster, brochure,
+and simple-logos critiques — [[wiki/sources/2017-09-11-yt-dY7i4uiDHFA]],
+[[wiki/sources/2017-10-08-yt-ND4VNkb4J3o]], [[wiki/sources/2017-11-23-yt-TH-jqZ4xueI]]),
+**Ben Burns** (Rodchenko biography research, [[wiki/sources/2017-10-10-yt--MMwGkUioFQ]]),
+**Eddie** (self-taught designer whose brochure is under review,
+[[wiki/sources/2017-10-08-yt-ND4VNkb4J3o]]), the poster **instructor** and unnamed
+**Blind team members / candidate "Elaine"** ([[wiki/sources/2017-09-11-yt-dY7i4uiDHFA]],
+[[wiki/sources/2017-08-15-yt-AiAZAuvO2sY]]) are context only. In the F1 critique,
+**Michael Beirut**, **Ross Brawn**, and **Carter Wong / Wieden+Kennedy** are third parties
+quoted by Chris ([[wiki/sources/2017-12-15-yt-y42PI9peurI]]), not persona voice.
 The **Typography Manual** is delivered as animated on-screen copy (no spoken audio), so
 it trains Chris's *written* design voice, not his verbal cadence.
 [[wiki/sources/2016-11-06-yt-QrNi9FmdlxY]]
@@ -414,6 +637,14 @@ it trains Chris's *written* design voice, not his verbal cadence.
 - [[wiki/sources/2016-11-06-yt-QrNi9FmdlxY]] — Typography Manual, the 10 rules (Design by Chris Do / Blind; on-screen copy). (2016-11-06)
 - [[wiki/sources/2016-11-08-yt-Unw8GLHtCso]] — Why designers undercharge for logos (positioning; "the difference is confidence"). (2016-11-08)
 - [[wiki/sources/2017-02-15-yt-kWZ1qtvcVHc]] — What Lies Were You Told in Design School? (practice-over-credentials; train critical seeing; remove mental blocks). (2017-02-15)
+- [[wiki/sources/2017-08-07-yt-G06ljt6JGAo]] — Art Center recruiting (body typography as the #1 hiring signal). (2017-08-07)
+- [[wiki/sources/2017-08-15-yt-AiAZAuvO2sY]] — Logo Ideation, Life At Blind Ep.2 (draw-don't-think; quantity; avoid the padlock; boil to essence). (2017-08-15)
+- [[wiki/sources/2017-09-11-yt-dY7i4uiDHFA]] — "Basic Typography" poster critique (turn off all layers/add back; hero; primary/secondary/tertiary reads). (2017-09-11)
+- [[wiki/sources/2017-10-08-yt-ND4VNkb4J3o]] — Gourmet-goods brochure critique (white-space=luxury; break-or-hug the gutter; rule of thirds; serif-pairing for food; booklet as 3D object). (2017-10-08)
+- [[wiki/sources/2017-10-10-yt--MMwGkUioFQ]] — Rodchenko / Russian Constructivism (chase good not original; timeless over trendy; geometric-shape foundations). (2017-10-10)
+- [[wiki/sources/2017-10-11-yt-Xng-RR0XOWY]] — "The art of search" (dictionary→autocomplete→broad-to-narrow→three flicks→abstraction words→mine metatags→collect without judging). (2017-10-11)
 - [[wiki/sources/2017-11-15-yt-xRmqvnKepN4]] — Sean Campbell portfolio review (conceptual logo critique; constraint as discipline). (2017-11-15)
+- [[wiki/sources/2017-11-23-yt-TH-jqZ4xueI]] — Best logos are simple, not overworked (restraint = timelessness; Dieter Rams/Braun; judge the mark separately from its application). (2017-11-23)
+- [[wiki/sources/2017-12-15-yt-y42PI9peurI]] — F1 logo review (judge the system & business fit; "the logo is the tip of a giant beast called the business"). (2017-12-15)
 - [[wiki/sources/2017-12-04-yt-atS36kzr8zg]] — "The Hustle / The Grind" live layout redesign (negative space, mass, axes). (2017-12-04)
 - [[wiki/sources/2023-06-14-yt-SdCzIDmfDAA]] — Good vs. great designers (bad-to-good slider, mastery, "do less but better," Holtzman). (2023-06-14)

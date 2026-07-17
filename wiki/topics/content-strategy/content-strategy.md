@@ -3,7 +3,7 @@ type: hub
 domain: content-strategy
 domains: [content-strategy]
 updated: 2026-07-17
-tags: [content-strategy, audience-building, organic-growth, storytelling, attraction-marketing, permission-marketing, community, movement, give-first]
+tags: [content-strategy, audience-building, organic-growth, storytelling, attraction-marketing, permission-marketing, community, movement, give-first, awareness-funnel, portfolio, show-your-work, process-not-product]
 ---
 
 # Content Strategy — hub
@@ -617,6 +617,194 @@ matures into the infinite game (§5) and attraction marketing (§2). Cross-link
 
 ---
 
+## 14. The awareness funnel: trace profit backwards, then "inform or inspire" (2017 origin)
+
+The 2017 seed of both the AIDCA journey (§6) and the give-first machine (§1): a good
+portfolio does NOT deliver profitable work on its own — you have to engineer awareness at
+the top of a funnel and feed it with value-first content.
+
+- **"A portfolio gets you all the work" is a fantasy.** A good portfolio does not
+  automatically deliver profitable clients for a lifetime. `[2017-07-18]`
+  [[wiki/sources/2017-07-18-yt-RZr4jEdqyVY]]
+
+  > "The dream is the portfolio gets you all the work, all the clients that you want to
+  > have that last you a lifetime — right? No." — Chris Do `[2017-07-18]`
+
+- **Trace the profit chain backwards.** To reach profit, reverse-engineer the chain:
+  profit ← profitable work ← closing sales ← proposals ← RFPs ← meetings/calls ← first
+  contact. That chain lands you at the **conversion funnel** (a.k.a. purchase funnel /
+  user journey — "marketers know it, creatives usually don't"). `[2017-07-18]`
+  [[wiki/sources/2017-07-18-yt-RZr4jEdqyVY]]
+
+- **The funnel, top to bottom:** a customer has a **need** → **awareness** ("how will
+  customers find you," the top) → **return/validation** (people compare and validate; no
+  one buys after looking once) → the **conversion** dashed line ("where the magic
+  happens," passive looker becomes customer) → **delight** (do what you said, then exceed
+  it) → **share** (word of mouth that feeds reach again). It also runs on
+  **micro-conversions** — small escalating commitments (email signup, signing a petition)
+  — past a **resistance/doubt barrier** the seller's job is to reassure. `[2017-07-18]`
+  [[wiki/sources/2017-07-18-yt-RZr4jEdqyVY]] (This is the 2017 ancestor of the §6
+  **AIDCA** journey, which by 2024 renames the stages Awareness→Interest→Desire→
+  Conversion→Advocacy.)
+
+- **To get more leads, focus on the top of the funnel.** Word of mouth is powerful (a
+  testimonial from a trusted source) but unpredictable and effortless-for-you, so it
+  can't be relied on — "most people do not spend their waking moments thinking about your
+  welfare." Find where your audience is most active, tell a repeatable story, and empower
+  clients to share it. `[2017-07-18]` [[wiki/sources/2017-07-18-yt-RZr4jEdqyVY]]
+
+  > "Most people do not spend their waking moments thinking about your welfare." — Chris
+  > Do `[2017-07-18]`
+
+- **Social media is not "your license to spam."** Two behaviors are super spammy: treating
+  social as advertising, and constantly talking about yourself ("me me me").
+  `[2017-07-18]` [[wiki/sources/2017-07-18-yt-RZr4jEdqyVY]]
+
+  > "It's not advertising, it's not your license to spam." — Chris Do `[2017-07-18]`
+
+- **Provide value freely — the boomerang.** The rule to live by: give value openly, do
+  your best, give it away; what you put out comes back (put out spam, get nothing). This
+  is the 2017 articulation of the give-first principle later formalized in §1.
+  `[2017-07-18]` [[wiki/sources/2017-07-18-yt-RZr4jEdqyVY]]
+
+  > "Provide value, do it freely, do it openly, and give it away... It's like this
+  > boomerang — what you put out, you get back." — Chris Do `[2017-07-18]`
+
+- **The content mandate: inform or inspire.** You have knowledge, wisdom, experience,
+  techniques, and process to offer — share them to create content that attracts the
+  clients you want, aligned to the problems and challenges they *currently* have.
+  `[2017-07-18]` [[wiki/sources/2017-07-18-yt-RZr4jEdqyVY]]
+
+  > "What you want to do is you want to inform or inspire." — Chris Do `[2017-07-18]`
+
+  > "Create content that attracts your clients — this is an alignment between you and what
+  > your clients want." — Chris Do `[2017-07-18]`
+
+---
+
+## 15. Portfolio as lead-gen: the portfolio-platform ROI play (2017 Behance case)
+
+Content-strategy applied to the portfolio itself: an updated, fully-built-out portfolio on
+a discovery platform (Behance) is a measurable lead-generation engine. This operationalizes
+the §13 "show the work / get found" thesis with concrete ROI reasoning.
+
+- **Updating your portfolio on the platform works — and fast.** Chris's stance: post
+  updated work to Behance and the platform delivers leads in a short window.
+  `[2017-08-09]` [[wiki/sources/2017-08-09-yt-5S7n-OODN2A]] *(The mentee's specific
+  numbers — 4–5 inquiries within ~2.5 weeks, two directly from Behance — are her
+  self-reported result and are context, not Chris's claim.)*
+
+  > "So internet, I tell you to do stuff on Behance and Behance works — and in a very
+  > short amount of time." — Chris Do `[2017-08-09]`
+
+- **Build out the brand *applications*, not 2–3 images.** Don't show a bare identity;
+  build stationery, packaging, letterhead, product mockups, and photography so the client
+  senses the *whole* brand. This also triggers the client's own latent needs ("my stuff
+  doesn't look this good in all applications"). `[2017-08-09]`
+  [[wiki/sources/2017-08-09-yt-5S7n-OODN2A]]
+
+- **The ROI math: ~3 days of focused work per job lead is an extraordinary return.**
+  "There are very few things in life where 3 days of focused effort makes someone call you
+  with new business." (And most designers underestimate their time — double the estimate.)
+  `[2017-08-09]` [[wiki/sources/2017-08-09-yt-5S7n-OODN2A]]
+
+  > "There are very few things that you could do in life that if you worked on something
+  > and focused on it for 3 days, it would lead to somebody calling you for a new piece of
+  > business. That is incredible." — Chris Do `[2017-08-09]`
+
+- **The application work compounds.** The same updated projects get repurposed into
+  micro-content, website updates, capabilities decks, and portfolio pieces — so the hours
+  go far beyond the immediate leads. (Ties to the §12 micro-content "pizza.")
+  `[2017-08-09]` [[wiki/sources/2017-08-09-yt-5S7n-OODN2A]]
+
+- **No leads? Blame the person in the mirror.** If you have no job leads, maybe you haven't
+  put in the necessary work. `[2017-08-09]` [[wiki/sources/2017-08-09-yt-5S7n-OODN2A]]
+
+  > "Dare I say that the person that you need to blame is the person staring back at you in
+  > the mirror." — Chris Do `[2017-08-09]`
+
+---
+
+## 16. Show your work: documentarian mindset, process-not-product, quality beats frequency (2017)
+
+His 2017 answer to "how do introverts build a following": reframe it as *documenting*, not
+promoting — and craft over volume. This predates and underpins the §5 organic-growth
+mechanics and the §6 platform-register prism.
+
+- **Building a following is documenting, not self-promotion.** Reframe it as keeping a
+  public journal and becoming "a documentarian of the work you do" — the antidote to the
+  introvert's discomfort with posing. (Draws on Austin Kleon's *Show Your Work* — a
+  **borrowed** framing Chris credits and embeds into everyone at his company.)
+  `[2017-08-02]` [[wiki/sources/2017-08-02-yt-fX7m03XsGGI]]
+
+  > "Become a documentarian of the work you do. This is what I try to train and embed... to
+  > the subconscious of all the people who work at our company." — Chris Do `[2017-08-02]`
+
+- **The share filter.** Ask: "is this something that somebody would share, or better yet
+  [pay] to learn this thing?" A post that asks the audience to participate is even better.
+  `[2017-08-02]` [[wiki/sources/2017-08-02-yt-fX7m03XsGGI]]
+
+- **Process not product.** Share the stages of creation, not just the polished finished
+  work — don't release only the most beautiful things. `[2017-08-02]`
+  [[wiki/sources/2017-08-02-yt-fX7m03XsGGI]]
+
+  > "Think process not product. Share the different stages of creation." — Chris Do
+  > `[2017-08-02]`
+
+- **Showing your process reduces the client's perceived risk.** Make visible how you get
+  from point A (the brief) to point B (the finished work); a consistently documented,
+  repeatable "creative recipe" reads as low-risk. **"Clients don't choose the best option,
+  they choose the least risky option"** — and process transparency is how you lower the
+  risk and get them to reach out. Caveat: process alone isn't enough — if the end product
+  is bad, the case study still fails. `[2017-07-13]`
+  [[wiki/sources/2017-07-13-yt-JErxMo-Ja84]]
+
+  > "Clients don't choose the best option, they choose the least risky option. You reduce
+  > risk by showing them your process." — Chris Do `[2017-07-13]`
+
+  > "If I like your recipe, I'm more inclined to call you." — Chris Do `[2017-07-13]`
+
+- **Post natively to each platform — don't replicate.** Speak natively to each channel;
+  reposting the same thing everywhere "disincentivizes" people from following you on more
+  than one. Facebook allows longer articles and multiple images; Instagram is visual;
+  Twitter rewards wit (his workaround for not being "super witty": include a strong image).
+  `[2017-08-02]` [[wiki/sources/2017-08-02-yt-fX7m03XsGGI]] (The 2017 seed of the §6
+  prism/per-platform-register idea.)
+
+  > "I'm a big believer in not replicating what you post across all channels... you've now
+  > disincentivized me to follow you on other platforms. Give me something different." —
+  > Chris Do `[2017-08-02]`
+
+- **Quality beats frequency.** He posts infrequently, in spurts, and reports a ~400%
+  average engagement uptick from posting *less* — "we do more in two to three posts than we
+  do 30." Take time to craft, create value, then give it away; it's a dialogue, not a
+  broadcast. `[2017-08-02]` [[wiki/sources/2017-08-02-yt-fX7m03XsGGI]]
+
+  > "Quality beats frequency. I don't post that often... an uptick of 400% of engagement on
+  > average by posting less, not more. So we do more in two to three posts than we do 30." —
+  > Chris Do `[2017-08-02]`
+
+- **Delete the junk.** If you think a post is hot but your followers don't, delete it — he
+  prunes old low-quality posts to clean his feed, and you don't lose followers by doing so.
+  `[2017-08-02]` [[wiki/sources/2017-08-02-yt-fX7m03XsGGI]]
+
+> ⚠️ CONTRADICTION: The 2017 **"quality beats frequency / post less"** stance
+> (2017-08-02) sits in tension with the §5 **"consistency is vital"** growth mechanics
+> (2022-04-20), where steady *daily* posting — including a July 2019 one-carousel-a-day
+> challenge — is credited as the engine of his follower run. The reconciliation is
+> plausibly about *format and phase*: in 2017 he's arguing against high-volume low-craft
+> spam on a slow-growing account; by 2019–2022 he's found a repeatable carousel format
+> where daily reps compound. Craft is the constant; the posting *cadence* he prescribes
+> flips as the format matures. [[wiki/sources/2022-04-20-yt-6YFU39Vfw0E]]
+
+> Note: the case-study subjects Chris cites as evidence — mentee **Melinda** (Behance
+> results, §15), letterer **Jeanette Leal** (recruited by Nike via sharing her process),
+> and the **local_inspirations** curator account (side-hustle income) — are CONTEXT, and
+> their reported numbers/earnings are self-reported. Only Chris's own principles are
+> promoted above.
+
+---
+
 ## Sources
 
 - [[wiki/sources/2015-11-29-yt-z7Y9TKfgstE]] — "Is Your Design Resume Still Relevant?" —
@@ -629,6 +817,16 @@ matures into the infinite game (§5) and attraction marketing (§2). Cross-link
   headlines, bridge-the-gap, fifth-grader clarity test, ask-don't-sell (2016-08-11)
 - [[wiki/sources/2016-10-19-yt-0cyFrU3UaMc]] — "How Will Clients Find You: SEO & Lead
   Generation pt. 2" — get-found, micro-content pizza, educe, warm-vs-cold (2016-10-19)
+- [[wiki/sources/2017-07-13-yt-JErxMo-Ja84]] — "Document and Show Your Creative Process" —
+  show-your-process reduces client risk; least-risky-option (2017-07-13)
+- [[wiki/sources/2017-07-18-yt-RZr4jEdqyVY]] — "How Will Customers Find You — Build
+  Awareness by Informing or Inspiring" — profit-chain-backwards, conversion funnel,
+  inform-or-inspire (2017-07-18)
+- [[wiki/sources/2017-08-02-yt-fX7m03XsGGI]] — "How To Build A Social Media Following" —
+  documentarian mindset, process-not-product, platform-native, quality-beats-frequency
+  (2017-08-02)
+- [[wiki/sources/2017-08-09-yt-5S7n-OODN2A]] — "How To Get Work On Behance" —
+  portfolio-platform lead-gen, build-out-applications, 3-days-per-lead ROI (2017-08-09)
 - [[wiki/sources/2020-06-09-yt-ujxvy5NjeRQ]] — "How to Learn Anything (for creatives)" —
   input/output + learn-reflect-implement-share (2020-06-09)
 - [[wiki/sources/2021-07-11-yt-lrM5CRg-O0I]] — "Easy Way To Market Yourself — Tell Your

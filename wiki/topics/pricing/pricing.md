@@ -4,7 +4,7 @@ domain: pricing
 domains: [pricing]
 created: 2026-07-14
 updated: 2026-07-17
-tags: [pricing, value-based-pricing, price-the-client, anchoring, discount-for-uncertainty, raising-rates, objection-handling, negotiation]
+tags: [pricing, value-based-pricing, price-the-client, anchoring, discount-for-uncertainty, raising-rates, objection-handling, negotiation, price-bracketing, competitive-positioning, charge-for-discovery, embrace-and-pivot, storytelling]
 ---
 
 # Pricing — hub
@@ -471,6 +471,178 @@ quoted rate ($6,000 for the site), and keep the spread
 
 ---
 
+## 12. Price bracketing & competitive positioning (responding to an RFP)
+
+_Est. 2017-08-01. Budget discovery by naming two goal-post numbers and bracketing UP
+from the client's own figure, plus carving a defensible niche between a cheaper and a
+bigger competitor._
+
+**Price bracketing** — discover a client's budget by *asking*, framed as two numbers
+that act as goal posts.
+
+> "I gauged the client's budget by just asking them. There's something that we call
+> price bracketing... you're going to take two numbers as goal post." — Chris Do,
+> [[wiki/sources/2017-08-01-yt-b9k6Ff0OMp8]]
+
+- Name two numbers as goal posts (e.g. "between $2,000 and $8,000") to gauge budget. If
+  the client says you're out of range, ask their price point, then **bracket upward from
+  that number** so the deal's floor is the client's own stated figure
+  ([[wiki/sources/2017-08-01-yt-b9k6Ff0OMp8]]).
+- If you want $5,000 for a website, bracket "between 5 and 10" or "5 and 15" — "the base,
+  the least amount you're going to get paid is $5,000." The client may negotiate you to
+  ~$3,800, which you can accept if it works ([[wiki/sources/2017-08-01-yt-b9k6Ff0OMp8]]).
+- Don't be afraid to refer the client elsewhere if it isn't a fit — often this makes the
+  client want to keep talking and learn more about you
+  ([[wiki/sources/2017-08-01-yt-b9k6Ff0OMp8]]).
+
+**Competitive positioning** — you are always up against both a smaller/cheaper shop and a
+bigger/more-experienced agency; the job is to create doubt about each and carve out the
+niche "between you and the basement."
+
+> "There's always room between you and the basement — unless you're the giant 800lb
+> gorilla in the industry, which you're not, obviously, if you're watching the show." —
+> Chris Do, [[wiki/sources/2017-08-01-yt-b9k6Ff0OMp8]]
+
+- Against the small shop, use **reverse psychology**: agree that if they only want to
+  save money they should go with the inexperienced one-person shop — pushing them toward
+  it surfaces the risk of the ball being dropped
+  ([[wiki/sources/2017-08-01-yt-b9k6Ff0OMp8]]).
+- Against the big agency, sell **high-touch personal service**: "You're going to be
+  working with me... you call me and I will take care of the work." Back it with
+  reputation and referenceable clients, and even offer your cell number "to keep the
+  other guys honest in evaluating their bid"
+  ([[wiki/sources/2017-08-01-yt-b9k6Ff0OMp8]]).
+
+---
+
+## 13. Confirm the price before you propose — never build a free proposal
+
+_Est. 2017-08-05. Qualify budget on the first call by floating numbers, confirm a range
+before hanging up, and charge for Discovery._
+
+The first client call is **high-level** — rapport, trust, enthusiasm — **not** a full
+scoping session; you do NOT scope everything on the first call.
+
+> "First call is high level. First call is about building rapport, earning trust,
+> demonstrating enthusiasm and passion." — Chris Do,
+> [[wiki/sources/2017-08-05-yt-YMFAFkbE5pw]]
+
+- **Never build a free proposal.** Confirm a price range back to the client and get a
+  yes/no *before* you hang up — otherwise you walk away and build a full bid for a
+  prospect who already privately decided it's too expensive but was too embarrassed to
+  say so. "You don't want to be in the proposal building business, because you get paid
+  exactly zero dollars to build proposals." ([[wiki/sources/2017-08-05-yt-YMFAFkbE5pw]])
+- Ask about budget so the client can **decline without losing face** — like a fancy shop
+  you can't afford, people won't blurt out that they can't afford it
+  ([[wiki/sources/2017-08-05-yt-YMFAFkbE5pw]]).
+- **Float numbers** to gauge comfort, and **bid the unknown on the high side**: "I'm
+  going to bid on the high side, because I don't want to go out of business because I
+  underbid the job — it's not fair to you, it wouldn't be fair to me either."
+  ([[wiki/sources/2017-08-05-yt-YMFAFkbE5pw]])
+- **Charge for Discovery** — validate that your process is worth money by charging for
+  it; call it strategy, discovery, or a brand audit, starting with a nominal fee (~$500).
+  Real discovery is "helping the client realize something they didn't know," NOT asking
+  their favorite colors or the brands they love
+  ([[wiki/sources/2017-08-05-yt-YMFAFkbE5pw]]).
+- **Objection bell curve** — low-end clients throw many objections ("cheap wankers"); the
+  mid-range sweet spot has very few and good money; six-figure engagements bring a whole
+  new set. Stay in the middle ([[wiki/sources/2017-08-05-yt-YMFAFkbE5pw]]).
+
+---
+
+## 14. The "you're too expensive" objection playbook (earliest role-play)
+
+_Est. 2017-08-06. The earliest of Chris's objection role-plays — predates the scripts in
+§9 (2018-04-04, 2019-12-26). Chris plays the designer and narrates the tactics between
+exchanges._
+
+The spine: **anchor above your floor, hold it, stay warm, and never discount for a vague
+promise.**
+
+- **Never negotiate starting from your true final price.** If $500 is already your floor,
+  opening there gets you "dragged down" to $400 or $350. Anchor above the floor so you
+  keep room ([[wiki/sources/2017-08-06-yt-FcyIGgFELGw]]).
+
+> "I don't want to negotiate at my final price... I don't want to negotiate at $500
+> because I'm gonna get dragged down. I'd have to then meet him at 400 or 350." — Chris
+> Do, [[wiki/sources/2017-08-06-yt-FcyIGgFELGw]]
+
+- **Convert the cheap-competitor claim into a cost question.** When the client cites a
+  $200 designer, congratulate them ("you got a really good deal"), then surface the hidden
+  cost — the cheap designer missed deadlines: "how much did that cost you in terms of
+  opportunity when a deadline was missed?" Tie price to the client's own worth (their time
+  is worth "in excess of $500 an hour") ([[wiki/sources/2017-08-06-yt-FcyIGgFELGw]]).
+- **Refuse to "sell."** Reframe as the client seeking a better solution than they
+  currently get; the logo itself is a commodity ("$5 on a site like Fiverr on up to a
+  couple hundred if you hire an international branding firm") — the value is the solution
+  and experience ([[wiki/sources/2017-08-06-yt-FcyIGgFELGw]]).
+- **Mirror the "discount now for future work" bribe.** Ask whether the client, as a
+  vendor, would accept "half of what you're worth" from a customer who promises to maybe
+  come back. Repeat business is *earned by delivering*, not discounted in advance
+  ([[wiki/sources/2017-08-06-yt-FcyIGgFELGw]]).
+- **Ask for the maximum budget** directly before deciding whether to concede
+  ([[wiki/sources/2017-08-06-yt-FcyIGgFELGw]]).
+- **One-time concession framing.** If you concede to a middle number ($750), make it
+  explicitly one-time and state that future work returns to normal pricing
+  ($1,000–$2,000) ([[wiki/sources/2017-08-06-yt-FcyIGgFELGw]]).
+- **Defend a high anchor with risk analogies** — buying design is like insurance: you
+  don't buy a cheap stroller, put your family on a discount bus, or use a discount
+  laser-eye surgeon ("you only have two eyes"). "My price is crazy — crazy until you start
+  to compare it to people who charge a lot more than me for the same kind of work. I think
+  I'm a bargain." ([[wiki/sources/2017-08-06-yt-FcyIGgFELGw]])
+
+> ⚠️ CONTRADICTION (position evolution): here (2017) Chris *does* grant a one-time discount
+> to $750 while protecting future price. By 2023 his stance hardens to **don't discount at
+> all — re-design the deal** (have-to-have vs. nice-to-have, §10). Treat the one-time
+> concession as an early tactic later superseded by scope re-design.
+> [[wiki/sources/2017-08-06-yt-FcyIGgFELGw]] · [[wiki/sources/2023-10-19-yt-Abi8kwkfZbA]]
+
+---
+
+## 15. Charging more for a logo — reputation, Embrace-and-Pivot & storytelling
+
+_Est. 2017-07-10 (Deep Dive ep. 4). A value-based logo-pricing deconstruction, plus
+objection-handling and storytelling mechanics._
+
+**There is no technical difference between your logo and a famous one.** If you can trace
+the UPS or Nike mark, the physical output is identical — so price is driven by everything
+*around* the mark, not the mark itself.
+
+> "You cannot see strategy. Last time I checked, you cannot see strategy." — Chris Do,
+> [[wiki/sources/2017-07-10-yt-b2wSN1w5QH4]]
+
+- A client can't *see* strategy or target market in a finished logo; memorability and
+  scalability are just design-school fundamentals. What actually differentiates price is
+  **reputation** and **the concept/idea** ([[wiki/sources/2017-07-10-yt-b2wSN1w5QH4]]).
+- **Reputation is buildable now** — case studies, body of work, named clients,
+  presentation quality, press/awards, effectiveness-focused testimonials. You can even
+  "buy history" by partnering with someone experienced: "it's the history of the people,
+  not the brand." ([[wiki/sources/2017-07-10-yt-b2wSN1w5QH4]])
+- **Presentation is a choice.** "Designers are the best people to make something look a
+  lot more expensive than it really is." Making your work look cheap is laziness
+  ([[wiki/sources/2017-07-10-yt-b2wSN1w5QH4]]).
+- **Clients buy the least risky option, not the most unique.** "Don't try to be original,
+  just try to be good" (Paul Rand); familiarity signals safety
+  ([[wiki/sources/2017-07-10-yt-b2wSN1w5QH4]]).
+- **Double your rate.** Don't jump $5k→$18k; just double ($5k→$10k) and get comfortable
+  there first — a specific restatement of the doubling rule in §8
+  ([[wiki/sources/2017-07-10-yt-b2wSN1w5QH4]]).
+- **Embrace and Pivot** — on the "it's too much money" objection, first *embrace* it ("it
+  is too much money") rather than defending, then pivot to needs and value. Defending
+  immediately reads as trying to prove your worth
+  ([[wiki/sources/2017-07-10-yt-b2wSN1w5QH4]]).
+- **Sell to both logic and emotion** (a framing Chris credits to Jordan Belfort). Use
+  vivid stories — the BMW-vs-Dodge "you're joining a tribe" consistency story, the
+  jewelry/packaging ceremony story — to move buyers past the rational "this is too
+  expensive." Record sensory detail in "the ledger of your mind" so you can dig the
+  stories out and tell them naturally ([[wiki/sources/2017-07-10-yt-b2wSN1w5QH4]]).
+
+> Note: this episode also restates the "barrier-to-entry site" idea (make your site filter
+> out low-paying clients who don't value your work), already captured under **Raise the
+> gate** in §8 ([[wiki/sources/2017-07-10-yt-b2wSN1w5QH4]]).
+
+---
+
 ## Worked figures & self-reported claims
 
 Concrete numbers Chris cites for his own business or in case studies. Studio rates and the
@@ -522,6 +694,11 @@ Chris credits these sources on record:
   play (§9) ([[wiki/sources/2019-12-26-yt-RFk8ZmIDrFM]]).
 - **Gary Vaynerchuk** (secondary) — the "value of a basketball" analogy ("just because it
   didn't work for you doesn't mean it doesn't work") ([[wiki/sources/2019-04-12-yt-ivKnj9ffcmE]]).
+- **Paul Rand** (secondary) — "Don't try to be original, just try to be good," used in the
+  least-risky-option argument for logo pricing (§15)
+  ([[wiki/sources/2017-07-10-yt-b2wSN1w5QH4]]).
+- **Jordan Belfort** (secondary) — the logic-plus-emotion selling framing behind the
+  storytelling mechanics (§15) ([[wiki/sources/2017-07-10-yt-b2wSN1w5QH4]]).
 
 Related hubs: [[wiki/topics/sales-clients/sales-clients]] (negotiation, objection scripts,
 qualifying), [[wiki/entities/the-futur|The Futur]].
@@ -533,6 +710,10 @@ qualifying), [[wiki/entities/the-futur|The Futur]].
 - [[wiki/sources/2015-10-08-yt-wd0ejVP_g78]] — Pricing & estimating creative jobs (the cost build-up, payment terms)
 - [[wiki/sources/2016-10-22-yt-RKXZ7t_RiOE]] — "Price the client not the job" (foundational value-based-pricing statement)
 - [[wiki/sources/2017-06-21-yt-D8BN2YSyYkg]] — Melinda Livsey coaching (raise the gate, three D's, money mindset)
+- [[wiki/sources/2017-07-10-yt-b2wSN1w5QH4]] — How to charge more for a logo, Deep Dive ep.4 (reputation+concept, Embrace-and-Pivot, storytelling)
+- [[wiki/sources/2017-08-01-yt-b9k6Ff0OMp8]] — Responding to an RFP (price bracketing, competitive positioning)
+- [[wiki/sources/2017-08-05-yt-YMFAFkbE5pw]] — First client call / The Process ep.7 (confirm price before proposing, float numbers, charge for Discovery)
+- [[wiki/sources/2017-08-06-yt-FcyIGgFELGw]] — "You're too expensive" role-play (anchor above floor, mirror the bribe, one-time concession)
 - [[wiki/sources/2018-04-04-yt--C01FC27Jg0]] — Handling a price buyer / low-budget client (take-away + insurance-policy script)
 - [[wiki/sources/2018-08-27-yt-gIw-PBNXWgE]] — Raising prices without losing clients (raise on every new client, supply/demand, mindset)
 - [[wiki/sources/2018-10-17-yt-DjgVwN_k_88]] — Negotiating a lowball offer (anchoring, re-anchoring, start high)

@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-17
-sources: 18
+sources: 24
 ---
 
 # Voice
@@ -19,6 +19,10 @@ Where a line is a slogan he repeats but originally borrowed, the true author is 
 line he merely *cites* from a book/mentor is marked as a citation, not his own coinage.
 **Enriched (synthesis pass 2, 2026-07-17)** with five 2016–2017 "The Process"-era sources
 unusually rich in self-aware-trait and catchphrase material.
+**Enriched (synthesis pass 3, 2026-07-17)** with mid/late-2017 P2-era sources (typography
+course trailer, F1 and Rodchenko logo/design critiques, the "Pitch This!" presenting
+demo, and two mindset episodes) — adding design-craft/typography catchphrases, design-
+philosophy lines, presenting doctrine, and two mindset one-liners.
 
 ## Signature phrases & catchphrases
 
@@ -230,6 +234,86 @@ quoted back to him.
 > "I'm just here for the action takers."
 ([[../wiki/sources/2023-12-14-yt-1kUCm1JPzxg]])
 
+**Design craft / typography**
+
+> "If you don't control type, type controls you." — his headline typography catchphrase
+> (opening hook of the typography-course trailer).
+([[../wiki/sources/2017-12-12-yt-gI8fEZvwZyY]])
+
+> "You'll always be forever intimidated by type."
+([[../wiki/sources/2017-12-12-yt-gI8fEZvwZyY]])
+
+> "In the world of information that we live in, typography is the foundation of how we
+> communicate to other human beings." ([[../wiki/sources/2017-12-12-yt-gI8fEZvwZyY]])
+
+> "When I learned how to use typography to understand rules about contrast, proportion,
+> relationships between objects, I felt like the key to the design universe was given to
+> me." ([[../wiki/sources/2017-12-12-yt-gI8fEZvwZyY]])
+
+> "It's how I move at the speed of thought." — on mastering keyboard shortcuts.
+([[../wiki/sources/2017-12-12-yt-gI8fEZvwZyY]])
+
+**Design philosophy (logos, originality, timelessness)**
+
+> "That little tip sits on a giant beast and that beast is called the business, and they
+> have a vision and they need to move it somewhere." — his central logo-critique doctrine:
+> judge the system and business fit, not the standalone mark.
+([[../wiki/sources/2017-12-15-yt-y42PI9peurI]])
+
+> "If all we talk about is aesthetics… we're going to be fighting for the table scraps."
+([[../wiki/sources/2017-12-15-yt-y42PI9peurI]])
+
+> "If you think your work is original it suggests that you're either ignorant or arrogant
+> — you're ignorant 'cause you don't know the history, [and] you're arrogant because you
+> think it was all you who did it." ([[../wiki/sources/2017-10-10-yt--MMwGkUioFQ]])
+
+> "I strive to create design that is timeless — things that don't follow trends but are
+> based and rooted in strong design principles."
+([[../wiki/sources/2017-10-10-yt--MMwGkUioFQ]])
+
+> "Please never say to me 'this is on trend' because I'll just destroy [you]."
+([[../wiki/sources/2017-10-10-yt--MMwGkUioFQ]])
+
+> "If we can just let go of trying to be original and just focus on trying to be good, I
+> think it's a much healthier place for all of us to operate out of."
+([[../wiki/sources/2017-10-10-yt--MMwGkUioFQ]])
+
+**Presenting / language as power**
+
+> "I used to feel like if I did all the work and the work was good it should speak for
+> itself… now that I'm a little older, a little bit more mature, I realized the power of
+> language and how specific you can describe something and to kind of paint in the gaps,
+> to fill in the imagination — that's your power as a presenter, as an art director." —
+> his rejection of "the work speaks for itself."
+([[../wiki/sources/2017-10-08-yt-rOGAJwm3n_M]])
+
+> "What we want to do is we want to take something we don't know and attach it to
+> something we do know… then we have this shared visual language." — his core presenting
+> technique: anchor the unknown to the client-known.
+([[../wiki/sources/2017-10-08-yt-rOGAJwm3n_M]])
+
+> "He gave this a theme for us to bite into, so he's giving me — [the] client — a lens to
+> look at this work." — on handing the client a lens up front.
+([[../wiki/sources/2017-10-08-yt-rOGAJwm3n_M]])
+
+**Mindset / life (2017)**
+
+> "This is my formula for happiness: it's what you think, what you say, and what you do in
+> perfect harmony." ([[../wiki/sources/2017-09-03-yt-6pHB0CgRBHg]])
+
+> "This is not a chore. This is forever. This is life. This is eating, this is breathing,
+> this is living." — his reframe of the learning grind.
+([[../wiki/sources/2017-11-13-yt-yCFGKzFHnOc]])
+
+> "I kind of feel like if you're too smart you have problems, if you're too dumb you have
+> problems, but if you're smart but dumb at the same time, that to me is the perfect
+> combination." / "You're almost like too dumb to fail — like you just go for it." — his
+> "smart but dumb" action model. ([[../wiki/sources/2017-11-13-yt-yCFGKzFHnOc]])
+
+> "I'm an old dude, I see my mind like a kayak. I got two paddles… you have to be nimble."
+> — his nimble-mind metaphor for creative flexibility.
+([[../wiki/sources/2017-11-13-yt-yCFGKzFHnOc]])
+
 **On himself (recurring self-tags)**
 
 > "I'm unemployable. I cannot work for people… because I'm too stubborn."
@@ -284,7 +368,10 @@ The spoken profile is now well-evidenced across keynotes, workshops, and role-pl
   designer *and* voices the client ("Sarah," "Carrie," "Ernie," "Jody"), acting out the
   whole exchange, then breaks the fourth wall to debrief what just happened ("Tell me
   what I sold. I sold nothing"). He'll switch into a client's objection and answer it live.
-  ([[../wiki/sources/2018-04-04-yt--C01FC27Jg0]];
+  The format is long-standing: the 2017 "Pitch This!" segment already has him critique a
+  junior's pitch and then re-pitch the *same* frame himself as a live model demo.
+  ([[../wiki/sources/2017-10-08-yt-rOGAJwm3n_M]];
+  [[../wiki/sources/2018-04-04-yt--C01FC27Jg0]];
   [[../wiki/sources/2019-04-12-yt-ivKnj9ffcmE]];
   [[../wiki/sources/2023-12-23-yt-B-NxAZiDkKo]])
 - **Storytelling through personal anecdote.** He teaches almost everything through a
@@ -317,7 +404,11 @@ The spoken profile is now well-evidenced across keynotes, workshops, and role-pl
   speak publicly, and the first year was "absolute torture" (racing heart, shaky voice,
   pacing in circles). He didn't get good, he **"just sucked less"** until he found his own
   method. The register throughout is a self-aware introvert who has *decided* to be loud.
-  ([[../wiki/sources/2017-01-05-yt-rP2iDwSN_v8]];
+  He opens talks by confessing it outright: "I am an introvert, and I would describe myself
+  as an extreme introvert, and public speaking is a big challenge for me… the fact that I'm
+  standing here is evidence that if you work at something that you're afraid of, you too can
+  overcome it." ([[../wiki/sources/2017-09-03-yt-6pHB0CgRBHg]];
+  [[../wiki/sources/2017-01-05-yt-rP2iDwSN_v8]];
   [[../wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]];
   [[../wiki/sources/2021-03-16-yt-XH-wD0Jbo5Y]])
 - **Speaking method: modeling + storyboard-only slides.** His overcome-anxiety toolkit is

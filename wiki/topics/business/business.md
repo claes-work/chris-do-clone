@@ -4,7 +4,7 @@ domain: business
 domains: [business]
 created: 2026-07-14
 updated: 2026-07-17
-tags: [business, entrepreneurship, scaling, agency, delegation, positioning, money, mission, reading-list, culture, design-education, cash-flow, referrals]
+tags: [business, entrepreneurship, scaling, agency, delegation, positioning, money, mission, reading-list, culture, design-education, cash-flow, referrals, business-development, curiosity-selling, autonomy, mentorship]
 ---
 
 # Business — hub
@@ -466,6 +466,44 @@ Core principles:
   ([[wiki/sources/2017-02-15-yt-kWZ1qtvcVHc]], 2017-02-15, `[self-reported]`).
   > "Managing creative staff is like herding cats… they're the hardest people to manage,
   > period." (2017-02-15)
+- **Take care of your people — "projects and money come and go."** The leadership
+  realization Chris frames as core to culture: projects and revenue are transient, but
+  people are not — neglect them and they burn out, become disgruntled, and stop giving
+  their best. Taking care of people is therefore the owner's first responsibility, above
+  chasing the next project ([[wiki/sources/2017-10-17-yt-4oGtHgo3OwE]], 2017-10-17).
+  > "Projects come and go and money come and go, but you have to take care of your people.
+  > If you don't take care of your people they burn out, they become disgruntled, and they
+  > don't want to give the best of themselves." (2017-10-17)
+- **Autonomy — give goals, not methods; make it safe to fail.** What motivates creatives
+  to give their best rests on four pillars: (1) a fun place that feels *safe* to make
+  mistakes and express your creative self (psychological safety); (2) autonomy — hand
+  self-directed people the goal and let them figure out how to get there; (3) treating
+  mistakes/failure as healthy and necessary (if you're not failing, you're only redoing
+  what you've done before), encouraged **top-down** and company-wide; (4) protecting
+  people's time. The autonomy/mastery/purpose thread ties back to the Daniel Pink framing
+  above ([[wiki/sources/2017-10-17-yt-4oGtHgo3OwE]], 2017-10-17).
+  > "I like to give people goals and let them figure out how to get there." (2017-10-17)
+  > "You have to have the liberty to make mistakes, and it has to be encouraged from top
+  > down and it has to be a company-wide thing." (2017-10-17)
+- **Protect time — "days without working late."** Manage workload so people put in a
+  normal eight-hour day and go home; late nights and weekends are a management failure,
+  not a badge of honor. Chris's culture metric, styled like a factory safety sign, inverts
+  "days without an accident" into **days without working late or on the weekend** as the
+  point of pride ([[wiki/sources/2017-10-17-yt-4oGtHgo3OwE]], 2017-10-17). Complements
+  "motivate with more than money" — people are really buying shared, protected *time*.
+  > "Our version of [the safety sign] is [N] days without working late or working on the
+  > weekend — that's what I'm proud of." (2017-10-17)
+- **Hands-on intern mentorship — "think more, make less."** The studio runs on in-person
+  mentorship: interns are handed *real* client briefs and coached live. Chris's coaching
+  ethos when an intern jumps straight to designing is to slow down — "think more, make
+  less" — and to design "from a place of Truth," which requires first *learning* the
+  subject (for a Spartan-race brief: Spartan armor, era, culture). He frames every project
+  as a chance to walk away "not a better designer, but a person who knows more"
+  ([[wiki/sources/2017-07-22-yt-FR8Qf6kgIAA]], 2017-07-22). (Primarily a design-craft /
+  voice principle; carried here for the studio-mentorship angle.)
+  > "My feeling is: think more, make less." (2017-07-22)
+  > "We have to design from a place of Truth, and before we can get to the truth we have
+  > to learn something." (2017-07-22)
 
 **Second Shift — the culture-consulting venture.** In 2016 Chris and Kier McLaren plugged a
 joint consulting venture, **Second Shift** `[self-reported]`, that helps creative companies
@@ -613,6 +651,62 @@ diagnose"** (understand the client's real problem before prescribing a logo/webs
 
 ---
 
+## 13. Selling through curiosity — business development without a pitch
+
+From the series-premiere coaching episode where Chris live-coaches Rebecca Hyneman, a
+creative director launching her own studio ([[wiki/sources/2017-09-09-yt-D6bp5DGbSH4]],
+2017-09-09). Rebecca is a **context** coachee — only Chris's coaching principles are
+persona data. This is the earliest full articulation of Chris's business-development
+method; it complements the Blair-Enns "win without pitching" positioning in §3.
+
+- **Sell through curiosity, not pitching.** The way to *earn* the right to ask for a sale
+  is to become intensely curious about people — spend the time to uncover their real
+  challenges, then craft something tailored — rather than leading with a deck or an ask
+  (2017-09-09).
+- **Don't ask "how can I help you"; surface the problem yourself.** Making the prospect
+  figure out your solution is the wrong move — dig to understand their world until a
+  problem surfaces. And **kill the assumptions**: don't assume you both mean the same
+  thing; start clean and keep asking "tell me more about that / what's motivating this?"
+  (2017-09-09).
+  > "I want you to kill the assumptions. I just want you to start clean." (2017-09-09)
+- **The capabilities-deck / cold-email critique.** An unsolicited deck or cold email asks
+  for two big things at once — the prospect's **time** (to read it) and their **money** (to
+  hire you) — before you've created any value for them. Chris says he deletes ~97 of every
+  100 such emails (2017-09-09). Mirrors the "desperate people rarely win business" logic in
+  §3.
+- **Drop the agenda.** The anxiety in prospect conversations comes from carrying an agenda
+  (ask for the sale, send the deck); that's "bad energy" that keeps you from being present.
+  Ties to the "anxious people don't buy" thread in §4 (2017-09-09).
+- **Talk to strangers (the practice drill).** His first homework for building the skill:
+  talk to strangers everywhere — servers, valets, Uber drivers — with *no* business agenda,
+  purely to get comfortable being curious and to build listening/rapport. Self-reported: he
+  was originally "totally introverted and scared and frightened," and it became "like
+  breathing" only through practice after watching someone else do it. He says he gave Ben
+  Burns the same advice (2017-09-09, `[self-reported]`).
+  > "Go talk to strangers. I know what your parents told you not to do, and I'm telling you
+  > the opposite." (2017-09-09)
+  > "To be an interesting person you have to be interested in people." (2017-09-09,
+  > attributed to a source whose name Chris forgets)
+- **Reflection.** Say back what you heard — it validates the person, proves you were
+  listening, and often organizes their own thoughts more cohesively than they did; Chris
+  calls it the biggest compliment you can pay someone (2017-09-09).
+- **Behance is a legitimate lead source.** In a crowded market you win by making the work,
+  its presentation, and its photography *exceptional*, and by getting titles/tags/
+  descriptions right so search can find you — "the world is all run by search"
+  (2017-09-09).
+- **Financial lesson — your salary is not profit.** A studio owner's take-home salary is a
+  *cost*, not profit: revenue − cost of goods sold (what you pay others to make the work)
+  − your own salary − overhead = net profit. A business must be profitable *on top of*
+  paying you a normal wage to do your job. Sharpens the COGS→overhead→profit layering in
+  §12 and the gross-vs-net literacy in §8 (2017-09-09).
+  > "Whatever you set aside for your salary… that is not profit. A lot of people confuse
+  > that as being profit. That's just to pay a normal person to do your job." (2017-09-09)
+
+Note: Rebecca's own figures (~$100k current / ~$150k desired take-home) are her
+self-reported context, not Chris's, and are excluded from the persona.
+
+---
+
 ## See also
 
 - [[wiki/topics/pricing/pricing]] — value-based pricing, "price the client not the job,"
@@ -642,6 +736,13 @@ diagnose"** (understand the client's real problem before prescribing a logo/webs
   (degree myth; education not proportionate to value; herding cats), 2017-02-15
 - [[wiki/sources/2017-06-21-yt-D8BN2YSyYkg]] — Melinda Livsey coaching: new business,
   delegation, focus, "raise the gate," money mindset, 2017-06-21
+- [[wiki/sources/2017-07-22-yt-FR8Qf6kgIAA]] — "Life Inside a Design Studio: Blind Ep 01"
+  (hands-on intern mentorship; "think more, make less"; design from truth), 2017-07-22
+- [[wiki/sources/2017-09-09-yt-D6bp5DGbSH4]] — "Launch A Creative Business In Your 40s? Ep.1"
+  (Rebecca Hyneman coaching: selling through curiosity; talk to strangers; salary ≠ profit),
+  2017-09-09
+- [[wiki/sources/2017-10-17-yt-4oGtHgo3OwE]] — "What Motivates Creative People to Work For
+  Your Company?" (take care of your people; autonomy; protect time), 2017-10-17
 - [[wiki/sources/2019-08-12-yt-f7T1Zs28Deo]] — "What You Believe Becomes Reality" (AIGA
   2019 keynote; mission / 1 billion), 2019-08-12
 - [[wiki/sources/2022-12-01-yt-Qn5PPMhHkXM]] — "How I Scaled My Creative Agency To $80M"

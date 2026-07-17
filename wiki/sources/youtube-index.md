@@ -143,6 +143,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2017-07-25 | [Day in the Life — Greg Gunn](2017-07-25-yt-y0xxvHyaebQ.md) | business; design-craft; content-strategy | Greg Gunn day-in-life; Chris absent — context |
 | 2017-07-26 | ★ [Feeling Overwhelmed — Information Overload (Ep.6)](2017-07-26-yt-RpY4t_oAXHg.md) | mindset; business | consume-with-purpose; backpack metaphor; procrastination-via-craft; L3-candidate |
 | 2017-07-28 | ★ [Motivation, Focus & Grind (7 Days Till Delivery)](2017-07-28-yt-4RK_9S0Ycvk.md) | mindset; business | good-vs-better effort; finesse-details-no-one-sees; L3-candidate |
+| 2017-08-01 | ★ [How To Respond To A RFP (What To Include In Your Proposal)](2017-08-01-yt-b9k6Ff0OMp8.md) | sales-clients; pricing; business | price bracketing (two goal-post numbers); competitive positioning; L3-candidate |
+| 2017-08-02 | [How To Build A Social Media Following — Get Started](2017-08-02-yt-fX7m03XsGGI.md) | content-strategy; branding | show-your-work; process-not-product; quality-beats-frequency |
+| 2017-08-05 | ★ [First Client Meeting Sales Call — Role Play w/ Melinda Livsey (Ep.7)](2017-08-05-yt-YMFAFkbE5pw.md) | sales-clients; pricing; business | float budget, confirm price before proposing; charge for discovery; Melinda=context; L3-candidate |
+| 2017-08-06 | ★ [How To Respond When Clients Say You're Too Expensive (Role Play)](2017-08-06-yt-FcyIGgFELGw.md) | pricing; sales-clients | objection playbook: anchor, hold floor, calm walk-away; L3-candidate |
+| 2017-08-07 | [Design Portfolio Examples — Art Center (Blind Hiring)](2017-08-07-yt-G06ljt6JGAo.md) | design-craft; branding | body-typography as #1 hiring criterion + cultural fit |
+| 2017-08-09 | ★ [How To Get Work On Behance (Ep.8)](2017-08-09-yt-5S7n-OODN2A.md) | content-strategy; business | portfolio-platform case study, measurable leads; Melinda=context; L3-candidate |
+| 2017-08-15 | ★ [Logo Ideation & Brainstorming — Life At Blind Ep.2](2017-08-15-yt-AiAZAuvO2sY.md) | design-craft; branding | logo ideation method (quantity, draw-don't-think, combine+simplify); team=context; L3-candidate |
+| 2017-08-16 | [My First Motion Design Portfolio — Greg Gunn](2017-08-16-yt-NFNTtSzuGvw.md) | design-craft | CONTEXT: Greg Gunn's portfolio; Chris hosts (teaching subsection separated) |
 | 2017-11-15 | ★ [17yr Old Designer Sean Campbell](2017-11-15-yt-xRmqvnKepN4.md) | mindset; design-craft; content-strategy | interview (Campbell = context); logo-critique method; L3-candidate |
 | 2017-12-04 | ★ [What Not To Do With A Design Layout](2017-12-04-yt-atS36kzr8zg.md) | design-craft | layout/craft critique; Chris-led (co-host Molly); L3-candidate |
 | 2017-12-20 | [How To Present Logo Designs to Clients](2017-12-20-yt-BSxg87CoOu4.md) | sales-clients; branding; design-craft | presenter Ben Burns, NOT Chris — context only |
@@ -196,4 +204,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_176 videos ingested (L2) so far._
+_184 videos ingested (L2) so far._

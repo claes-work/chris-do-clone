@@ -824,3 +824,16 @@ grind) + a CONTENT-STRATEGY awareness model (profit-chain-backwards + funnel + i
 next checkpoint. Blind Ep01 adds studio-culture biography ("think more make less" is strong voice/beliefs).
 The "Deep Dive"/Melinda-coaching series (eps 4/5/6) is a recurring format — Melinda = context throughout.
 Continue P2.
+
+## [2026-07-17] ingest | yt batch (@thefutur, 8) — P2 Aug-2017 (RFP, roleplays, Behance, Blind ideation)
+Batch 24. Ingested 8 @thefutur videos (2017-08-01 → 2017-08-16) to L2:
+- ★ RFP proposal response — price bracketing (two goal-post numbers) + competitive positioning (b9k6Ff0OMp8).
+- Build a social-media following — show-your-work, process-not-product, quality>frequency (fX7m03XsGGI).
+- ★ First client meeting sales-call role-play w/ Melinda Livsey Ep.7 — float budget, confirm price before proposing, charge for discovery; Melinda=context (YMFAFkbE5pw).
+- ★ "You're too expensive" objection role-play — anchor, hold floor, calm walk-away, one-time-concession framing (FcyIGgFELGw).
+- Blind hiring / Art Center — body-typography as #1 criterion + cultural fit (G06ljt6JGAo).
+- ★ How To Get Work On Behance Ep.8 — portfolio-platform case study w/ measurable leads; Melinda=coachee/context (5S7n-OODN2A).
+- ★ Logo Ideation — Life At Blind Ep.2 — logo ideation method (quantity, draw-don't-think, combine+simplify, avoid padlock cliche); team=context (AiAZAuvO2sY).
+- CONTEXT: Greg Gunn's first motion-design portfolio; Chris hosts, teaching subsection separated, not persona-promoted (NFNTtSzuGvw).
+Attribution: role-plays (YMFAFkbE5pw, FcyIGgFELGw) resolved per Chris-announced role direction; Life-at-Blind + Greg-Gunn team lines quarantined as context; 2 ambiguous performance beats flagged attribution:uncertain. No family names spoken; self-reported $/follower claims tagged. Counts: L2 176->184. 5 new L3-candidates.
+Synthesis notes: NEW — (1) pricing: "price bracketing" (name two goal-post numbers, bracket up from client's stated figure) + confirm-price-before-proposing (never build free proposals); (2) sales-clients: first-call = high-level not scoping, float budget, "flirting/smile" warmth, charge for Discovery, objection bell-curve; (3) pricing objection: too-expensive playbook (anchor/hold-floor/walk-away/one-time-concession); (4) design-craft: logo ideation method + body-typography as top hiring signal + "fighting confusion/clarity" + layer-by-layer critique technique; (5) content-strategy: Behance/portfolio-platform growth as measurable lead-gen. Debt 6->? batches (driver: 6/10).

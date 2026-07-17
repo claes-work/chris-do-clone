@@ -127,7 +127,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2017-06-06 | [Distressed Type Texture (Photoshop)](2017-06-06-yt-qP6yj5X-_Go.md) | design-craft | Chris narrates, pure technique — context |
 | 2017-06-09 | ★ [Stop Selling. Start Closing. (Win Without Pitching)](2017-06-09-yt-cHveCGDZfhQ.md) | sales-clients; business | Whisper-vs-Scream; consultative closing; L3-candidate |
 | 2017-06-13 | ★ [Surface Unspoken Objections — Defeat Pt.4 (conclusion)](2017-06-13-yt-b7dQXL-3jj8.md) | sales-clients; mindset; business | surface-unspoken-objections; diagnose-don't-prescribe; least-risky-option; L3-candidate |
+| 2017-06-14 | ★ [Win More Clients — Build Empathy to Earn Trust](2017-06-14-yt-1oKyG0JD1do.md) | sales-clients; mindset; business | haircut analogy; start-empty-and-listen; L3-candidate |
+| 2017-06-18 | ★ [How Pitching Works With Ad Agencies](2017-06-18-yt-TvpOKlrlE7o.md) | sales-clients; business | agency pitch system; anti-spec-work; saying-no; L3-candidate |
+| 2017-06-19 | [Typographic Terminology A to Z](2017-06-19-yt-WzVl_ATHUQ0.md) | design-craft | animated glossary, no speech — context |
 | 2017-06-21 | ★ [Run A Creative Business w/ Melinda Livsey](2017-06-21-yt-D8BN2YSyYkg.md) | business; sales-clients; pricing; branding; mindset | Chris coaches Livsey (context); kiss-off script + money-mindset; L3-candidate |
+| 2017-06-26 | [Day in the Life — Ben Burns](2017-06-26-yt-PfFFujNASTg.md) | business; design-craft; content-strategy | Ben Burns day-in-life; Chris absent — context |
+| 2017-06-28 | ★ [Can You Charge To Diagnose A Creative Problem?](2017-06-28-yt--hTVXeA5TVs.md) | pricing; sales-clients; business | paid discovery; come-in-empty; be-prepared-to-refer; L3-candidate |
+| 2017-07-07 | ★ [Overcome Fears & Start Posting on Social Media](2017-07-07-yt-pYxILzVu35A.md) | mindset; content-strategy | detachment-from-work; fact-vs-opinion filter; self-aware traits; L3-candidate |
+| 2017-07-10 | ★ [How To Charge More For A Logo (Deep Dive ep.4)](2017-07-10-yt-b2wSN1w5QH4.md) | pricing; business; branding | value-based logo pricing; double-your-rate; storytelling scripts; L3-candidate |
 | 2017-11-15 | ★ [17yr Old Designer Sean Campbell](2017-11-15-yt-xRmqvnKepN4.md) | mindset; design-craft; content-strategy | interview (Campbell = context); logo-critique method; L3-candidate |
 | 2017-12-04 | ★ [What Not To Do With A Design Layout](2017-12-04-yt-atS36kzr8zg.md) | design-craft | layout/craft critique; Chris-led (co-host Molly); L3-candidate |
 | 2017-12-20 | [How To Present Logo Designs to Clients](2017-12-20-yt-BSxg87CoOu4.md) | sales-clients; branding; design-craft | presenter Ben Burns, NOT Chris — context only |
@@ -181,4 +188,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_161 videos ingested (L2) so far._
+_168 videos ingested (L2) so far._

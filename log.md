@@ -764,3 +764,33 @@ surface-unspoken-objections, diagnose-don't-prescribe, least-risky-option) + Sto
 Scream" — these deepen topics/sales-clients materially. Plus NAB brand-storytelling → branding/content,
 designer-as-entrepreneur → business. Note: even Chris-narrated Photoshop technique tutorials yield ~0
 persona value (procedural) — correctly context. Continue P2.
+
+## [2026-07-17] ingest | yt batch (@thefutur, 7) — P2 June/July-2017 (empathy, pitching, pricing)
+
+Twenty-second video batch (168 L2 total). 8 selected; 7 → L2 (yt-1zLtfzsaP58 "Goal Setting" transient
+caption fail, left OPEN). 5 ★L3.
+- ★ How To Charge More For A Logo — Deep Dive ep.4 (2017-07-10) — dense value-based logo-pricing
+  playbook (strategy-deconstruction "you can't see strategy", presentation-as-laziness, least-risky-
+  option/zebra-vs-antelope, Paul Rand "don't try to be original / buy history", double-your-rate,
+  Embrace-and-Pivot, BMW-tribe & jewelry storytelling scripts, "ledger of the mind"); real anchor $18k;
+  24 quotes. (Melinda Livsey foil = context.)
+- ★ Overcome Fears & Start Posting (2017-07-07) — detachment-from-work, give-value, fact-vs-opinion
+  critique filter, anti-originality/anti-ownership, per-platform strategy; 17 quotes. MORE self-aware
+  persona traits for voice: self-names his persona "the angry Asian guy" (angry-tone delivery), limited
+  comfort WRITING in English (engineers the typeset-image hack for Twitter), calls his own content
+  "regurgitated", will "firebomb back" at critics (combativeness). (Melinda = context.)
+- ★ Can You Charge To Diagnose (2017-06-28) — paid-discovery framework: come-in-empty, Embrace-and-Pivot,
+  be-prepared-to-recommend-a-solution-that-is-not-you (referral posture), mechanic-diagnostic template;
+  8 quotes. (Blair Enns credited; Melinda context.)
+- ★ Win More Clients — Empathy to Earn Trust (2017-06-14) — the haircut analogy (clients can't articulate
+  needs), start-empty-and-listen, fit-assessment; 6 quotes.
+- ★ How Pitching Works With Ad Agencies (2017-06-18) — the agency pitch system (reps, 3-studio spec
+  pitches), hard anti-spec-work stance, "saying no is powerful"; ~$30k pitch-cost [self-reported]; 5 quotes.
+- Context/NOT-Chris: Typographic Terminology (animated glossary, no speech), Day-in-Life of BEN BURNS
+  (Chris absent, per the Encina precedent).
+
+Synthesis notes: debt 5 batches / checkpoint 10 (halfway). Strong PRICING + sales cluster: the logo
+deep-dive + charge-to-diagnose deepen topics/pricing; empathy/trust + ad-agency-pitching/anti-spec +
+the prior Defeat series deepen topics/sales-clients. The 2017-07-07 self-aware traits ("angry Asian guy",
+English-writing discomfort, combativeness) further enrich persona/voice at the next Stage P/synthesis.
+Continue P2.

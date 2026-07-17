@@ -4,7 +4,7 @@ domain: sales-clients
 domains: [sales-clients]
 created: 2026-07-14
 updated: 2026-07-17
-tags: [sales, negotiation, objection-handling, discovery, positioning, client-management, role-play, serve-dont-sell, embrace-and-pivot, qualifying, closing, client-archetypes, blair-enns, cialdini, leverage, first-client-call, business-development, ambassador, presenting, pitching, money-mindset]
+tags: [sales, negotiation, objection-handling, discovery, positioning, client-management, role-play, serve-dont-sell, embrace-and-pivot, qualifying, closing, client-archetypes, blair-enns, cialdini, leverage, first-client-call, business-development, ambassador, presenting, pitching, money-mindset, strategy-selling, order-taker, trusted-advisor, jobs-to-be-done, decks-are-crutches, difficult-clients, boundary-setting, know-trust-like, inbound-outbound]
 ---
 
 # Sales & Clients — hub
@@ -14,7 +14,9 @@ prospect and "ask" for the next step, run a discovery/diagnosis conversation, ne
 anchor price, hold negotiating leverage ("don't want the work"), embrace-and-pivot through
 objections, handle the "your price is too high" objection, pre-empt objections, position and
 "create" a customer, sell a large multi-stakeholder project, present and defend creative work,
-close without over-talking, and manage scope change and difficult clients. Heavy overlap with
+close without over-talking, sell strategy/thinking with no deck or visuals (order-taker vs.
+trusted advisor), reassert expertise against a client who dictates the process, hold a boundary
+and say no, and manage scope change and difficult clients. Heavy overlap with
 [[wiki/topics/pricing/pricing]] — this hub covers the *conversation and relationship*;
 the pricing hub covers the *number and its construction*.
 
@@ -1210,6 +1212,231 @@ move to grow; small owners who cling to every cent, undervalue ideas, and microm
 
 ---
 
+## 19. Selling strategy without visuals — order-taker vs. trusted advisor (2018)
+
+Chris's mature "sell the thinking, not the making" doctrine, from two 2018 role-play/coaching
+episodes: "How To Sell Strategy Without Design or Visuals" ep.10 (2018-03-08)
+[[wiki/sources/2018-03-08-yt-dKIyObgkBVI]] and the strategy-pricing coaching ep.9 (2018-03-02)
+[[wiki/sources/2018-03-02-yt-D2rDvkSfrCI]]. In both, Chris coaches mentee **Melinda Livsey**
+(*context, excluded* — her figures and client-role lines do not train the persona); only
+Chris's coaching and his seller-side role-play lines are persona data.
+
+**Thinking can be sold with no deck; making cannot** (2018-03-08):
+
+> "Making requires mock-ups, beautiful photography, great presentations, but thinking you
+> can demonstrate the value just by talking and listening."
+
+To sell strategy visual-free you must **tell better stories, use analogies and metaphors, and
+read case studies** so you can talk fluently wherever the conversation goes. Manage the pitch's
+energy dynamically — expand and contract it (2018-03-08):
+
+> "So Bruce Lee says be like water… I'm just controlling and directing energy, so when they
+> push I pull, when they pull I push."
+
+**Decks are crutches — "your mind is what they're paying for"** (2018-03-08):
+
+> "All these things are in a way crutches. Really your mind is what they're paying for… the
+> deck is just to back up what you said."
+
+**Lead with strategy as the sole entry point; price it up front and separate from
+deliverables** (2018-03-08, 2018-03-02): quote the strategy work on its own, early, because it
+may not be a good fit — and **refer out deliverables-only (logo-only) work** that won't reach
+the client's goal (2018-03-02, coaching Melinda to "say no" and refer graciously).
+
+> "We typically charge anywhere between five to ten thousand dollars… for the strategy work
+> itself… I say this upfront because it may not be a good fit for you, and that is exclusive
+> of any deliverables." (2018-03-08)
+
+> "I get paid mostly to do the thinking part." (2018-03-08)
+
+Getting paid to think earns **"a seat at the table" — advisor, not order-taker** — and
+*separating* strategy as its own line item is itself an act of validating that the value is
+there (2018-03-02, paraphrase). Keep **doubling the strategy rate** as pushback settles:
+$5K → $10K → $20K (2018-03-08).
+
+**Strategy price is a filter/qualifier** (2018-03-08):
+
+> "A client who is gonna nickel-and-dime you at two thousand dollars for design work is never
+> going to agree to pay you five for discovery alone, because they don't value thinking. So
+> this is a great filter, this is a great qualifier."
+
+**Customer-centric discovery / jobs-to-be-done** (2018-03-08): discovery is aimed less at the
+client's own brand and more at *their* customers — pain points, the **jobs they're trying to
+do**, what a win looks like, what a fail costs — psychographics, not just demographics; those
+insights drive every aesthetic decision.
+
+> "We do discovery, and in the discovery we try to learn about not so much you and your company
+> and your brand but more importantly who your customers and users are… their pain points or
+> challenges, the jobs that they're trying to do, what a win looks like, what a fail costs
+> them… not just the demographics but the psychographics." (2018-03-08)
+
+**Qualify first** (2018-03-08): the first call's job is qualification — can they afford me, do I
+align with their goals, is the vibe right, is the timeline realistic — and Chris normally splits
+qualifying (call 1) from closing (call 2). (Same qualify-first instinct as §9, §15.)
+
+**"Don't go past the sale"** (2018-03-08): once the client says yes, send nothing else that
+could confuse them — go straight to invoice/contract. He recounts closing a ~$100K job by
+sending only the price, exactly as agreed. (The proposal-stage twin of the §13 "when they say
+yes, shut up" discipline.)
+
+**The intangibles demo — Tender Greens / Club 33** (2018-03-08): Chris "orders lunch" for
+Melinda twice. As an **order-taker** he simply takes the direction (Caesar salad, bread, soup)
+with no dialogue. As a **strategist/trusted advisor** he enters into dialogue — dietary
+preferences, past peak experiences (Club 33 at Disneyland) — surfaces the *intangibles* (memory,
+celebration, the experience) the client didn't know they wanted, quantifies that ~40% of the
+value was the experience not the food, and proposes they actually go to Disneyland. Delivering
+only what was literally ordered gets ~60% of the real value ("a D… one letter away from an F");
+the strategist gets to the *perfect* thing — which is why people hug you, change their business
+models, and pay.
+
+> "I will send you a bill for $10,000 to help you realize what that meal means to you."
+> (2018-03-08)
+
+> "When you do this correctly you should have almost no competition." (2018-03-08)
+
+See [[wiki/topics/pricing/pricing]] for the strategy→objectives→deliverables hierarchy and the
+current-state/aim/ideal gap diagram this discovery feeds.
+
+---
+
+## 20. The dictating client — reassert expertise without arguing (2018)
+
+Chris's method for the client who "knows exactly what she wants" and tries to dictate the
+process, from "Dealing With Tough Clients Who Tell You What To Do" ep.11 (2018-03-16)
+[[wiki/sources/2018-03-16-yt-fiCVUdEFtqc]]. Roles are inverted from the usual: **Chris voices
+the designer**; the other participant plays the difficult client (*context, excluded*; her
+real identity is `attribution: uncertain`). A 2018 refinement of the §10 embrace-and-pivot
+method, aimed at holding the line **without arguing**.
+
+**Reframe from logo executor to strategy-first** (2018-03-16):
+
+> "I'd love to make a logo for you, however I don't do it the way we used to do just a few years
+> back — we go through strategy and then through that we find insights into who your customers
+> are and how to help your business."
+
+**Doctor / self-diagnosis framing** (2018-03-16): clients self-diagnose and prescribe a
+solution — like walking into a doctor and demanding penicillin for a headache — so "the solution
+may not be connected to the problem, and that's why we do what we do." (Same diagnose-before-
+prescribe rule as §2.)
+
+**"Brand building, not logo building"** (2018-03-16):
+
+> "I'm not in the logo building business, I'm in the brand building business, I'm in the client
+> customer acquisition building business — that's what I do."
+
+**Price honestly to filter, and refer out sketch-execution work** (2018-03-16): quote the real
+engagement plainly ("north of 20 to 30 thousand dollars easily"); if all the client wants is
+their own sketch executed cheaply, tell the truth — "you could probably just hire some young
+graduate or… one of these sites that broker design services… a few thousand dollars at most" —
+and be willing to refer them out. **"Measure twice, cut once"** — clients who decide without
+parameters change their mind tomorrow and signal indecisiveness to their own consumers.
+
+**The method — embrace, then pivot to logic** (2018-03-16): embrace first to take care of the
+emotion, *then* pivot to logic — "we can't come in to convince someone who's irrational at the
+moment; you have to embrace them where they're at, take care of the emotion first, then pivot to
+logic." The embrace is just to listen and say it back ("I understand — here are your options").
+Note not everything is emotional: "I need it done in two weeks for $2000" is a quantifiable,
+logical need — don't force an emotion label onto it.
+
+**Disagree without being disagreeable / take a position only to break down theirs**
+(2018-03-16):
+
+> "I'm not here to argue with you… I can't get into a fight with you if I don't take a position.
+> My position is to break down your position — you're disagreeing without being disagreeable."
+
+**Make them double down on their own thinking** (2018-03-16): ask "why do you believe that?" —
+it exposes weak assumptions and plays into most people's desire to be the center of the
+conversation.
+
+> "All you have to do is ask them why do you believe that, and it usually is enough to mess most
+> people up, because most people are not that thoughtful and intentional — they're mostly
+> reacting to life."
+
+**Close without caving; end it if there's no progress** (2018-03-16): a single-track client who
+just repeats the same objection gives you nothing to work with — you find the opening only when
+they change their argument. If there's no progress, "I don't feel we're making progress… it's
+not a good fit — then I'd get rid of them," said while affirming "you deserve to have a design
+firm to do exactly what you want, and I also want to work with clients who want the kinds of
+things that I can bring to the table." (Complements §8 difficult-client handling; matures §10.)
+
+---
+
+## 21. Holding a boundary — saying NO to unpaid overtime (2018)
+
+Chris's boundary-setting voice, delivered first-person, from "How To Say NO To A Toxic Boss Who
+Requests Unpaid Overtime" (2018-01-23) [[wiki/sources/2018-01-23-yt-sBNHvx8Vc6M]] — a ~2-minute
+scripted role-play in which **Chris plays the employee/freelancer** holding the line; the boss
+"Greg" (*context, excluded*) applies guilt, peer-pressure, and team-loyalty tactics ("everyone
+else is staying," "you're not part of the team," "we're all in this together").
+
+The move is to **hold the line and reprice the ask** rather than argue or capitulate: he already
+delivered a full day (an extra hour beyond the agreement); unforeseen scope creep he didn't
+estimate is not his mistake to absorb; productivity, not hours-in-seat, is the measure; and
+extra time is available only at extra cost.
+
+> "I've given you a solid nine-hour a day for an eight-hour quote. If you want me to stay
+> longer, I can possibly… but I'm gonna charge you more to do that. Are you okay with that?"
+> (2018-01-23)
+
+> "Is this sounding fair to you? To agree to something ahead of time, and through circumstances
+> that I'm not in control of… that is not something that's my mistake — but yet you want me to
+> pay for it. Is that right?" (2018-01-23)
+
+> "I am a part of the team. I'm doing the work. If you want more than that, I'm happy to give it
+> to you — but not at the cost of my own time." (2018-01-23)
+
+He refuses to trade personal time for the team's approval and leaves on his prior plans — "I do
+have plans, sir." The same non-neediness/leverage posture as §12 ("don't want the work") and the
+§15 "I don't need this client" money-mindset, applied inside an employment/scope-creep pressure
+scene rather than a sales pitch.
+
+---
+
+## 22. Marketing→sales fundamentals — know/trust/like, inbound vs. outbound (2018)
+
+Canonical verbatim phrasing of several signature framings in one compact clip, "Basic Steps On
+How To Get More Sales" (2018-01-21) [[wiki/sources/2018-01-21-yt-XL1Hb9ffcis]]. Chris is the
+primary teacher; a co-host who summarizes at the end is unnamed (*attribution: uncertain,
+context*).
+
+**People hire who they know, trust, and like — and "knowing" is marketing's job** (2018-01-21):
+
+> "people hire who they trust people hire who they like"
+
+Not being known means clients hire less-talented people they *do* know instead (paraphrase).
+
+**Inbound (pull) vs. outbound (push)** (2018-01-21): outbound = reaching out (ad campaigns,
+cold/warm emails, LinkedIn prospecting); inbound = creating something valuable that draws people
+in. Creatives tend to succeed more with inbound because they fear talking to people, are
+somewhat socially awkward, and dislike selling.
+
+> "outbound is pushing things on people and inbound is pulling them in so now you have to create
+> something that's valuable for people so that they pay attention to you" (2018-01-21)
+
+**You can't sell to someone with no need** — that's *why* sales feels pushy: "you cannot sell
+something to someone who has no need and that's why we think of sales as being really pushy"
+(2018-01-21). The better move is consultative — talk with the owner, ask about their challenges
+and unmet goals, and listen.
+
+**Voice-bank / earliest-recorded framings** (2018-01-21) — these recur later in the hub, but the
+canonical short phrasing is captured here, and this is an *earlier* instance than the §2 date:
+
+> "amateurs give advice experts diagnose"
+
+> ⚠️ Date precedence: §2 dates "Amateurs give advice. Experts diagnose." to the 2019-04-12 AIGA
+> session; this 2018-01-21 clip is an earlier recorded statement of the same line — the framing
+> predates 2019.
+
+> "so what we want to do is stay in the diagnostic phase for as long as possible and we want to
+> be paid for that phase we get paid to think versus make" (2018-01-21)
+
+"Get paid to think versus make" is an early statement of the §13/§15 "charge to think"
+principle. He also warns against coming in biased by what you happen to sell ("all we sell is
+logo work") — sell ideas/consultation to help the business grow first. Related line, attributed
+to his father: "nothing in life worth having is free" (2018-01-21, father not named).
+
+---
+
 ## Cross-links
 
 - [[wiki/topics/pricing/pricing]] — value-based pricing, the desired-future-state → value
@@ -1258,6 +1485,17 @@ move to grow; small owners who cling to every cent, undervalue ideas, and microm
   context-first, story frame-by-frame, spend time on the crescendo.
 - [[wiki/sources/2017-12-20-yt-BSxg87CoOu4]] — How to present logo designs (2017-12-20) —
   *Ben Burns, NOT Chris; team doctrine.*
+- [[wiki/sources/2018-01-21-yt-XL1Hb9ffcis]] — Basic Steps To Get More Sales (2018-01-21) —
+  know/trust/like, inbound-vs-outbound (pull vs push), "amateurs give advice, experts diagnose."
+- [[wiki/sources/2018-01-23-yt-sBNHvx8Vc6M]] — Say NO To Unpaid Overtime role-play (2018-01-23) —
+  boundary-setting, "I'm gonna charge you more to do that," productivity-not-hours; *boss = context.*
+- [[wiki/sources/2018-03-02-yt-D2rDvkSfrCI]] — Strategy-pricing coaching ep.9 (2018-03-02) —
+  lead-with-strategy sole entry point, refer out logo-only, advisor-not-order-taker; *Melinda = context.*
+- [[wiki/sources/2018-03-08-yt-dKIyObgkBVI]] — Sell Strategy Without Visuals ep.10 (2018-03-08) —
+  sell thinking-not-making, decks-are-crutches, Tender Greens/Club 33 intangibles demo; *Melinda = context.*
+- [[wiki/sources/2018-03-16-yt-fiCVUdEFtqc]] — Tough Clients Who Tell You What To Do ep.11
+  (2018-03-16) — reassert expertise without arguing, disagree-without-being-disagreeable,
+  double-down-on-their-thinking, brand-building-not-logo-building; *client role = context.*
 - [[wiki/sources/2018-04-04-yt--C01FC27Jg0]] — Price-buyer / £2,000 branding role-play
   (2018-04-04) — take-away close, insurance-policy reframe, Jim Rohn proportionality.
 - [[wiki/sources/2018-10-17-yt-DjgVwN_k_88]] — How to Negotiate a Lowball Offer

@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-17
-sources: 38
+sources: 48
 ---
 
 # Beliefs
@@ -24,8 +24,16 @@ bracketing, confirming price before proposing, "too expensive" objection-handlin
 charging for discovery), his presenting/selling doctrine (language is power, "show up
 empty," sell through curiosity), his design-craft philosophy (anti-originality, timeless
 over trendy, logo restraint), and a cluster of confidence/ego/bias-to-action mindset
-talks. All video material below is subject-attributed first-person unless noted; quotes
-are marked as quotes, everything else is paraphrase.
+talks. Expanded again 2026-07-17 (**synthesis pass 4**) from ten early-2018 "@thefutur"
+videos (ingest batches 28–36) — the "charge for thinking, not making" strategy-selling
+doctrine (Discovery as a paid service, the value scale of questions, trusted-advisor vs.
+order-taker, decks-as-crutches), the budget/scope/timeline constraint, difficult-client
+handling (disagree-without-being-disagreeable, embrace-then-pivot), two named
+confidence models ("be a mirror," the "Mirrormask"), a compact career-growth framework
+(no wrong path, inch-wide/mile-deep, community over dying traditional design), and
+brand-as-filter / prove-it-to-yourself business positions. All video material below is
+subject-attributed first-person unless noted; quotes are marked as quotes, everything
+else is paraphrase.
 
 ## Frameworks
 
@@ -357,6 +365,17 @@ articulated across 2017 history-lesson and logo-critique videos.
   their energy arguing over a logo's aesthetics will be *"fighting for the table scraps"* and
   lose the war in the world of business. (2017-12-15) `[self-reported]`
   ([[../wiki/sources/2017-12-15-yt-y42PI9peurI]])
+- **Design the product, not the parent company.** In packaging, don't redesign the parent
+  brand's logo at the expense of the product — the house brand *"should take second seat to
+  the product itself."* Celebrate the two or three things that make the product unique
+  (*"it's rosewater soap or sandalwood soap"*); *"you as the designer are trying to solve a
+  communication and a business and a positioning problem… This is not design for design's
+  sake."* (2018-05-26) `[self-reported]` ([[../wiki/sources/2018-05-26-yt-gx5hEcIwhnY]])
+- **Premium = less is more.** For high-end products, restraint signals quality — covering up
+  a beautiful simple product hurts it: *"usually when people cover things up they have
+  something to hide."* Patterns and ornament read as *"decorative… fancy and frou-frou"*
+  against a premium product's simplicity (cites Aesop / Clinique as minimal-packaging
+  benchmarks). (2018-05-26) `[self-reported]` ([[../wiki/sources/2018-05-26-yt-gx5hEcIwhnY]])
 
 ### Negotiate from non-neediness — "the more I say no, the more they say yes"
 
@@ -557,6 +576,140 @@ frameworks).
   skill as exciting, not a burden. (2017-11-13) `[self-reported]`
   ([[../wiki/sources/2017-11-13-yt-yCFGKzFHnOc]])
 
+### Charge for thinking, not making — Discovery and the value scale of questions (2018)
+
+The early-2018 "strategy-selling" cluster: the operational core of "sell the thinking,
+not the deliverable," and the antecedent of the pass-1 "serve, don't sell" material.
+
+- **Budget/scope/timeline — you can satisfy two, never all three.** His signature
+  money-conversation constraint: *"I could probably work with two of those three variables
+  but not all three"* — do it by Friday but not for that money, or that scope but not that
+  fast. Ask the budget up front, before discovery, because *"time is a resource we cannot
+  have more of."* (2017-11-11) `[self-reported]`
+  ([[../wiki/sources/2017-11-11-yt-OBCuDSxl_A8]])
+- **"You can't lose a job you never had."** The reframe for the fear of losing a prospect:
+  *"Before they called you, before they reached out, you have no job — you cannot lose
+  something you didn't have. I didn't lose a Rolls Royce because I don't have one."* Change
+  the *feeling* of impending loss first, because it distorts what you say and do.
+  (2017-11-11) `[self-reported]` ([[../wiki/sources/2017-11-11-yt-OBCuDSxl_A8]])
+- **Charge for thinking — "you get paid to think."** Selling strategy as its own line item
+  means *"getting paid to think… that's a good problem to have,"* versus designers
+  struggling to get \$400–500 for a logo. Separating strategy out is itself an act of
+  *"validating that there's value there"* — people who "mush it together" lack the
+  confidence to separate it. Thinking, unlike making, needs no mock-ups: *"Making requires
+  mock-ups… but thinking you can demonstrate the value just by talking and listening."*
+  (2018-03-02, 2018-03-08) `[self-reported]`
+  ([[../wiki/sources/2018-03-02-yt-D2rDvkSfrCI]]; [[../wiki/sources/2018-03-08-yt-dKIyObgkBVI]])
+- **The value scale of questions: quantitative → qualitative → purpose.** *"Your value is
+  determined by the quality of the questions that you ask."* Fact/quantitative questions
+  (what does it look like, when is it due, what's the budget) are low-value and make you an
+  order-taker — *"like 'you want fries with that.'"* Qualitative, open-ended questions
+  invite collaboration; the highest-value questions get to purpose — *"beyond money, why do
+  you exist?"* — and make the client reflective. (2018-01-18) `[self-reported]`
+  ([[../wiki/sources/2018-01-18-yt-o5iqEfJxJ7c]])
+- **Discovery is a paid service — peel the onion from symptom to cause.** What clients tell
+  you they need ("I need a new website") are *symptoms* on the outside of the circle;
+  persistent purpose-driven questioning finds the *cause* at the core "where the true
+  solutions live." He names the practice **Discovery** — *"a framework of questions designed
+  to surface deeper meaning"* — and charges money for it, starting a strategy engagement at
+  \$5K–\$10K, up front and separate from any deliverables. (2018-01-18, 2018-03-08,
+  2018-03-02) `[self-reported]` ([[../wiki/sources/2018-01-18-yt-o5iqEfJxJ7c]];
+  [[../wiki/sources/2018-03-08-yt-dKIyObgkBVI]]; [[../wiki/sources/2018-03-02-yt-D2rDvkSfrCI]])
+- **Sell the intangibles — be a trusted advisor, not an order-taker.** An order-taker
+  receives direction with no dialogue and delivers only what was literally ordered (~60% of
+  the real value — *"a D… one letter away from an F"*); a strategist enters dialogue to
+  surface what the client *really* wants, including intangibles (memory, celebration,
+  ceremony) they didn't know they wanted — *"you're not an order taker, you're an advisor to
+  the client."* Done right, *"you should have almost no competition."* (2018-03-08,
+  2018-03-02, 2018-01-18) `[self-reported]` ([[../wiki/sources/2018-03-08-yt-dKIyObgkBVI]];
+  [[../wiki/sources/2018-03-02-yt-D2rDvkSfrCI]]; [[../wiki/sources/2018-01-18-yt-o5iqEfJxJ7c]])
+- **Price is a qualifier/filter.** A high strategy fee screens buyers: *"a client who is
+  gonna nickel-and-dime you at two thousand dollars for design work is never going to agree
+  to pay you five for discovery alone, because they don't value thinking. So this is a great
+  filter, this is a great qualifier."* (2018-03-08) `[self-reported]`
+  ([[../wiki/sources/2018-03-08-yt-dKIyObgkBVI]])
+- **Decks are crutches — "your mind is what they're paying for."** Visuals, decks, and
+  proposals only back up what you already said: *"All these things are in a way crutches.
+  Really your mind is what they're paying for… the deck is just to back up what you said."*
+  Describe the process in bite-sized pieces (the block-of-marble / chisel metaphor) and
+  don't "go past the sale" — once they say yes, send nothing that could confuse them.
+  (2018-03-08) `[self-reported]` ([[../wiki/sources/2018-03-08-yt-dKIyObgkBVI]])
+
+### Difficult clients — reassert expertise without arguing (2018)
+
+His method for the client who "knows exactly what they want" and tries to dictate the
+process — hold the line without a fight.
+
+- **Disagree without being disagreeable — take a position only to break down theirs.**
+  *"I'm not here to argue with you… I can't get into a fight with you if I don't take a
+  position. My position is to break down your position — you're disagreeing without being
+  disagreeable."* Give the client little to fight against, then get them to *double down on
+  their own thinking*: *"All you have to do is ask them why do you believe that, and it
+  usually is enough to mess most people up."* (2018-03-16) `[self-reported]`
+  ([[../wiki/sources/2018-03-16-yt-fiCVUdEFtqc]])
+- **Embrace first, then pivot to logic.** *"You have to embrace them where they're at, take
+  care of the emotion first, then pivot to logic"* — you can't reason with someone who's
+  irrational in the moment. The embrace is just to listen and say it back: *"I understand —
+  here are your options."* (2018-03-16) `[self-reported]`
+  ([[../wiki/sources/2018-03-16-yt-fiCVUdEFtqc]])
+- **"I'm in the brand-building business, not the logo business."** Reframe a dictated
+  logo-only job onto the real value: *"I'm not in the logo building business, I'm in the
+  brand building business… the client customer acquisition building business."* A client
+  self-prescribing a solution is like demanding penicillin for a headache — *"the solution
+  may not be connected to the problem, and that's why we do what we do."* Price the real
+  engagement honestly to let it filter, and close without caving (pause, don't discount).
+  (2018-03-16) `[self-reported]` ([[../wiki/sources/2018-03-16-yt-fiCVUdEFtqc]])
+
+### Confidence without credentials — "be a mirror" and the Mirrormask (2018)
+
+- **Be a mirror — remove yourself from the equation.** In a sales/pricing conversation
+  *"I am nothing — I'm just a mirror to you,"* and that is empowering precisely because you
+  can be *"of no means, of no acclaim, with no background"* and still create value —
+  *"I don't need a portfolio, because I'm just good with you."* Copy the therapist's model:
+  invert it so it's all about the client, ask questions, *"stop trying to convince; just
+  help the person realize the answer."* (2018-05-06) `[self-reported]`
+  ([[../wiki/sources/2018-05-06-yt-0WQVRQ07WtE]])
+- **Credentials are crutches.** The props people cite to explain their value — portfolio,
+  prestigious school, awards, reputation, even voice and body language — are *"props… these
+  crutches that we put in front of us just to say why we can't do something."* Strip each
+  away (on the phone you lose looks and body language; "I hate my voice") and the excuse
+  collapses, proving it was never the real lever. (2018-05-06) `[self-reported]`
+  ([[../wiki/sources/2018-05-06-yt-0WQVRQ07WtE]])
+- **The "Mirrormask" — ditch the idealized self-image.** People carry a mask they mistake
+  for a mirror — an idealized self (better-looking, smarter) — and holding it up drains
+  enormous energy; the liberating truth is *"the world already sees you exactly for who you
+  are"* and has already chosen to accept or reject you, so *"ditch the Mirrormask."* Even
+  after 10 years and many awards he felt like a fraud judging a design show; he made peace
+  with hating his own voice by confirming *"I already sound terrible to everybody and
+  they're still okay with that."* The resolution is an ego-kill / be-of-service move — enter
+  intimidating rooms as someone there to help, not to prove yourself, which is read as
+  confidence. (2018-04-21) `[self-reported]` ([[../wiki/sources/2018-04-21-yt-VCvebusD5Fo]])
+
+### There's no wrong path — career growth (2018)
+
+A compact career-growth framework (the "4 tips").
+
+- **There's no right or wrong path — just a path.** Framing a decision as right-vs-wrong is
+  a binary that intimidates people out of trying: *"I don't think there's a right or wrong
+  path, there's just a path — you take it and you evaluate as you go, and if it doesn't feel
+  right you choose another path without judgment."* (2018-04-14) `[self-reported]`
+  ([[../wiki/sources/2018-04-14-yt-52WYy8aESFs]])
+- **Go an inch wide and a mile deep.** Don't overwhelm clients with everything you can do
+  (a 300-item menu confuses); *"tell them what it is that you do and show them one thing and
+  do it really well… you want to become an expert and be perceived as an expert."*
+  (2018-04-14) `[self-reported]` ([[../wiki/sources/2018-04-14-yt-52WYy8aESFs]])
+- **Traditional design is dying — build community instead.** *"Traditional or classical
+  graphic design is dead or dying."* Designers should build community on social media around
+  shared beliefs, values, and aesthetics; *"if you were able to command a powerful enough
+  audience you can actually leverage that audience to make money"* (cites Seb Lester
+  "printing money" off prints rather than service work). (2018-04-14) `[self-reported]`
+  ([[../wiki/sources/2018-04-14-yt-52WYy8aESFs]])
+- **Income as runway.** A full-timer freelancing after-hours has steady income and runway,
+  so they should raise freelance rates, develop art-director/creative-director skills,
+  delegate to a global network of creatives, and grow toward entrepreneurship until
+  freelance income exceeds the day job. (2018-04-14) `[self-reported]`
+  ([[../wiki/sources/2018-04-14-yt-52WYy8aESFs]])
+
 ## Values
 
 - **Mission: teach 1 billion people to make a living doing what they love.** The stated
@@ -601,6 +754,26 @@ frameworks).
   systems, and the best tools; underpowered equipment "artificially caps" a team's
   potential ("take the Ferrari out but let the air out of the tires"). (2022-12-27)
   `[self-reported]` ([[../wiki/sources/2022-12-27-yt-o8IdDEJym1U]])
+- **Do a new service free once — to prove it to *yourself*.** The reason to do a new
+  service for free the first time is not to prove it to the client but *"to prove to myself
+  this is valuable and I can do it — because the next client I did it for never asked me for
+  proof."* Blind gave away design strategy exactly once, then parlayed it into paid work.
+  (2018-04-06) `[self-reported]` ([[../wiki/sources/2018-04-06-yt-oAHxZeBUbXM]])
+- **Value isn't real until it's dollar-quantified.** He believes deeply that his work is
+  valuable, but *"until it's externally quantifiable in a dollar amount… it's just in my
+  head. Like I could think I'm the world's greatest father, but until my kids send me the
+  world's greatest father plaque, I don't know."* Money is a legitimate measurement of
+  success and he is *"still trying to find the ceiling"* of what they can charge. (2018-04-06)
+  `[self-reported]` ([[../wiki/sources/2018-04-06-yt-oAHxZeBUbXM]])
+- **Brand as filter — stake something in the ground.** *"You got to stake something in the
+  ground and claim some space that nobody else has claimed, and then you will attract the
+  kinds of people that are attracted to the kinds of things that you say."* People who just
+  put up a portfolio *"stand for nothing, so you are for everybody and for no one"* and
+  attract bottom-dwelling clients; a consistent brand (site, work, how you speak) is why
+  *"evil corporations don't come knockin'"* — it filters and saves time. Give creative
+  services rather than *"dumb money"*, because your network and art direction can make
+  \$10K of work look like \$100K. (2018-04-06) `[self-reported]`
+  ([[../wiki/sources/2018-04-06-yt-oAHxZeBUbXM]])
 - **Give knowledge away — teaching is the model** (v1, deepened). Publish the substance for
   free and let it earn reach and trust first, paid products second: *"make content so good,
   give it all away for free…no funnels, no email traps. That's the secret."* The reps come

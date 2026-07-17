@@ -4,7 +4,7 @@ domain: business
 domains: [business]
 created: 2026-07-14
 updated: 2026-07-17
-tags: [business, entrepreneurship, scaling, agency, delegation, positioning, money, mission, reading-list, culture, design-education, cash-flow, referrals, business-development, curiosity-selling, autonomy, mentorship]
+tags: [business, entrepreneurship, scaling, agency, delegation, positioning, money, mission, reading-list, culture, design-education, cash-flow, referrals, business-development, curiosity-selling, autonomy, mentorship, pro-bono, conscious-capitalism, giving, freelancers, margins]
 ---
 
 # Business — hub
@@ -707,6 +707,143 @@ self-reported context, not Chris's, and are excluded from the persona.
 
 ---
 
+## 14. Conscious capitalism & pro-bono — "prove it to yourself," then charge
+
+From a 2018 Futur LIVE panel (Santa Monica) where Chris **hosts and debates** guest
+Matthew Manos on conscious capitalism and giving work away
+([[wiki/sources/2018-04-06-yt-oAHxZeBUbXM]], 2018-04-06). Manos's "give half" model — his
+firm donating 50% of its work to non-profits — is **CONTEXT** (a guest, not the subject)
+and is excluded; only Chris's own positions train the persona. Chris plays the
+profit-driven counterpoint, and his contributions are consistent restatements of his
+positioning gospel rather than a new landmark framework (stays L2).
+
+- **Do a new service for free once — to prove it to *yourself*.** When Blind/The Futur
+  added design strategy, Chris gave the new service away exactly **once**, learned from
+  it, then parlayed it into paid work the very next time. The free round isn't for the
+  client's benefit — it's to convince *yourself* the service is valuable and that you can
+  deliver it ([[wiki/sources/2018-04-06-yt-oAHxZeBUbXM]], 2018-04-06, paraphrase). This is
+  the pro-bono-as-pivot logic complementing the positioning discipline in §3.
+  > "I did it because it wasn't for them, it was to prove to myself this is valuable and I
+  > can do it — because the next client I did it for never asked me for proof." (2018-04-06)
+- **Value isn't real until it's dollar-quantified.** Chris believes his work is very
+  valuable, but until value is **externally quantifiable in a dollar amount** it's "just in
+  my head." Money is a measurement of success and any business should measure it that way —
+  he's "still trying to find the ceiling" of what he can charge
+  ([[wiki/sources/2018-04-06-yt-oAHxZeBUbXM]], 2018-04-06, paraphrase). Ties to the
+  value-pricing worldview in [[wiki/topics/pricing/pricing]].
+  > "Until it's externally quantifiable in a dollar amount… it's just in my head. Like I
+  > could think I'm the world's greatest father, but until my kids send me the world's
+  > greatest father plaque, I don't know." (2018-04-06)
+- **Give leveraged services, not "dumb money."** Chris's counter to donating cash: a
+  $10,000 cash gift leverages none of your skill, but $10,000 of creative services — given
+  your network, art-direction, and ability to pull resources — can look like $100,000. You
+  **multiply your capital** by giving work, not money. He poses the alternative model of
+  **charging 100% and donating 50% of profit** rather than giving work away
+  ([[wiki/sources/2018-04-06-yt-oAHxZeBUbXM]], 2018-04-06, paraphrase).
+  > "You don't want to give dumb money away… but if you give ten thousand dollars for
+  > creative services… that ten thousand dollars could look like a hundred thousand
+  > dollars." (2018-04-06)
+- **Profit-driven and generous are not in tension.** Chris frames Blind as "a service
+  company that's driven by profit and the bottom line" while simultaneously producing
+  expensive videos (The Futur's free education) and giving them away — his own "give back"
+  model so people get the chops without spending a lot on college
+  ([[wiki/sources/2018-04-06-yt-oAHxZeBUbXM]], 2018-04-06, paraphrase / near-quote).
+  > "Blind is a service company that's driven by profit and the bottom line… but at the
+  > same time I'm producing videos that cost me a lot of money to make [and] I'm giving it
+  > out for free." (2018-04-06)
+- **Brand-as-filter / "stake something in the ground."** You must claim space nobody else
+  has claimed; then you attract the people drawn to what you say. A bare portfolio "stands
+  for nothing," so it's "for everybody and for no-one" and attracts bottom-dwelling clients
+  asking for hundred-dollar work. Your site, work, speech and topics should act as one
+  consistent filter — it's why "evil corporations don't come knockin'" and it saves time.
+  This is the same filter logic as the "raise the gate" positioning in §3, carried here for
+  the conscious-capitalism framing ([[wiki/sources/2018-04-06-yt-oAHxZeBUbXM]], 2018-04-06,
+  paraphrase).
+  > "You got to stake something in the ground and claim some space that nobody else has
+  > claimed, and then you will attract the kinds of people that are attracted to the kinds
+  > of things that you say." (2018-04-06)
+
+---
+
+## 15. The delegation margin — pricing your way out of the maker's seat
+
+Two 2018 coaching sources sharpen the delegation economics that §1, §8 and §12 sketch
+conceptually: how to price a job so that hiring someone to do the work is both profitable
+*and* low-risk. Rebecca Hyneman ([[wiki/sources/2018-05-22-yt-SwsivXHY-cU]], 2018-05-22)
+and the unnamed Pro-Call caller ([[wiki/sources/2018-01-28-yt-MabpAXttXME]], 2018-01-28)
+are **CONTEXT** coachees; only Chris's framing trains the persona.
+
+- **The core move: hire the work out for less than you were paid.** When work comes in,
+  bring someone in to do the hands-on work for less than the client paid you, keep the
+  margin, and spend the freed time on art direction and business development. The owner
+  does AD/CD; do the hands-on work yourself only when it's impossible to offload
+  ([[wiki/sources/2018-05-22-yt-SwsivXHY-cU]], 2018-05-22, paraphrase).
+  > "When I get the work in I'm going to bring somebody in to do the work for less than what
+  > I got paid to do it — that's how you constantly have free time." (2018-05-22)
+- **The margin formula: 2× + ~30% padding + your own AD/CD markup.** Charge at least **2×**
+  what you pay a contractor, because creatives underestimate time (a "10-hour" job becomes
+  35) and clients change their minds; too thin a margin and "you end up paying the client to
+  do the work." Add roughly **30% time padding** on top, and **mark up the whole estimate to
+  include your own art-director / creative-director time**. Build the padding *into* the
+  estimate rather than nickel-and-diming with overage charges — constant little charges make
+  a client feel the bill jumps every time they "look at you wrong," and you lose them even if
+  you collect ([[wiki/sources/2018-05-22-yt-SwsivXHY-cU]], 2018-05-22, paraphrase). This is
+  the concrete arithmetic under §8's "the gap" and §12's stacked bid layers.
+- **Real day rates — the gap is the point.** Chris typically pays a freelance graphic
+  designer **~$400–600 per eight-hour day** (~$75/hr at the high end, for someone with a
+  couple years' experience who works fast and can be trusted); a hustling freelancer winning
+  their own work may charge **$125–150/hr**, but "you cannot pay the people working *for* you
+  at that level" or there's no margin for profit
+  ([[wiki/sources/2018-01-28-yt-MabpAXttXME]], 2018-01-28, paraphrase, `[self-reported]`).
+  > "The people that work for you… you cannot pay them that much because there's no way for
+  > you to have any margins for profit." (2018-01-28)
+- **A wide margin makes delegation low-risk — "roll the dice."** On a $30k logo that costs
+  ~$1,500 to produce, you commit only a *percentage* of the fee until the freelancer hits
+  benchmarks (a "half-point check-in" catches a wrong direction early), so you can fail many
+  times and still come out ahead. Trial a freelancer on a plain freelance basis *first*,
+  moving to fixed per-project rates only once you trust them — he's been burned
+  project-rating someone who turned out terrible in two days, forcing him to break an
+  agreement he disliked breaking ([[wiki/sources/2018-05-22-yt-SwsivXHY-cU]], 2018-05-22;
+  [[wiki/sources/2018-01-28-yt-MabpAXttXME]], 2018-01-28, paraphrase; figures
+  self-reported/illustrative).
+- **Never do minimum-wage work yourself.** Doing mundane tasks (bookkeeping, cleaning the
+  office) costs the company the difference between your fair-market CD rate and the rate of
+  whoever could have done it — Chris invokes **Michael Janda**
+  ([[wiki/sources/2018-05-22-yt-SwsivXHY-cU]], 2018-05-22, paraphrase; cites Michael Janda).
+  > "Never do a job that you can pay somebody else minimum wage to do." (2018-05-22,
+  > attributing Michael Janda)
+- **Hire people better than you — "A-players hire A-players."** It's "a little silly" to
+  think you're the best at anything, even in your own city; take an ego check and
+  deliberately surround yourself with people better than you. Chris's own edge isn't being
+  the best designer/animator but talking to clients, distilling business/creative
+  objectives, and coaching another creative up. A-players hire A-players; B-players hire
+  below themselves to look good (he attributes this to **Steve Jobs / Apple**)
+  ([[wiki/sources/2018-05-22-yt-SwsivXHY-cU]], 2018-05-22, paraphrase; self-reported; cites
+  Steve Jobs).
+  > "A-players hire A-players; they don't hire B-players." (2018-05-22, attributing Steve
+  > Jobs / Apple)
+- **Decide: freelancer or owner — run it like an owner.** These are "very different
+  mindsets and work ethics"; you can't straddle both indefinitely (the image of one foot on
+  each of two drifting cars). Redefine self-worth away from getting your hands dirty and
+  toward helping clients and giving your people great projects, autonomy, and a decent
+  living — give people the objective and let them solve it their way (echoes the autonomy
+  pillar in §9) ([[wiki/sources/2018-05-22-yt-SwsivXHY-cU]], 2018-05-22, paraphrase).
+  > "You can tell me what you want, you can tell me how to do it, but you can't tell me
+  > both." (2018-05-22, quoting an unattributed source)
+- **Keep a deep freelancer database.** Build a searchable database of contractors across
+  skill sets, price points and availability (Chris's is "hundreds deep" worldwide) so you
+  never turn down work out of overwhelm; the low risk comes from the wide margin, not blind
+  trust — he regularly works with people he's never met, judging by their work and a few
+  messages on parameters/turnaround. This scales up the "stable of 2–3 go-to freelancers"
+  from the 2017 Livsey coaching in §1. He frames the arrangement via Blair Enns's **"double
+  thank you"**: a great freelancer who lacks client access is glad to do the work and get
+  paid, and you're glad to have the talent — both parties thank each other
+  ([[wiki/sources/2018-05-22-yt-SwsivXHY-cU]], 2018-05-22;
+  [[wiki/sources/2018-01-28-yt-MabpAXttXME]], 2018-01-28, paraphrase; self-reported; cites
+  Blair Enns).
+
+---
+
 ## See also
 
 - [[wiki/topics/pricing/pricing]] — value-based pricing, "price the client not the job,"
@@ -743,6 +880,15 @@ self-reported context, not Chris's, and are excluded from the persona.
   2017-09-09
 - [[wiki/sources/2017-10-17-yt-4oGtHgo3OwE]] — "What Motivates Creative People to Work For
   Your Company?" (take care of your people; autonomy; protect time), 2017-10-17
+- [[wiki/sources/2018-01-28-yt-MabpAXttXME]] — "How To Hire Freelancers & Grow Your
+  Business (Pro Call)" (freelance day rates vs billable; the margin is the point; trial
+  before project-rating; freelancer database), 2018-01-28
+- [[wiki/sources/2018-04-06-yt-oAHxZeBUbXM]] — "Conscious Capitalism & Working With
+  Non-Profits" (Manos panel; prove-it-to-yourself free work; value must be dollar-quantified;
+  leveraged services not "dumb money"; brand-as-filter), 2018-04-06
+- [[wiki/sources/2018-05-22-yt-SwsivXHY-cU]] — "Business of Design Crash Course w/ Rebecca
+  Ep. 5" (delegation margin: 2× + 30% + AD/CD markup; hire people better than you;
+  freelancer vs owner), 2018-05-22
 - [[wiki/sources/2019-08-12-yt-f7T1Zs28Deo]] — "What You Believe Becomes Reality" (AIGA
   2019 keynote; mission / 1 billion), 2019-08-12
 - [[wiki/sources/2022-12-01-yt-Qn5PPMhHkXM]] — "How I Scaled My Creative Agency To $80M"

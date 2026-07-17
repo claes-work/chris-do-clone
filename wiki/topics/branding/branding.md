@@ -2,7 +2,7 @@
 type: hub
 domains: [branding]
 updated: 2026-07-17
-tags: [branding, personal-branding, unbland, brand-strategy, positioning, storytelling, shadow-work, two-word-brand, logo, logo-critique, identity, identity-system, timelessness, style]
+tags: [branding, personal-branding, unbland, brand-strategy, positioning, storytelling, shadow-work, two-word-brand, logo, logo-critique, identity, identity-system, timelessness, style, packaging, brand-equity, shelf-presence, private-label, brand-filter]
 ---
 
 # Branding — hub
@@ -308,6 +308,85 @@ conversations. (2017-11-23) [[wiki/sources/2017-11-23-yt-TH-jqZ4xueI]]
   (credited). (2017-11-23) [[wiki/sources/2017-11-23-yt-TH-jqZ4xueI]] *(The pure typographic
   craft — typeface choice, letter modifications — lives in
   [[wiki/topics/design-craft/design-craft]]; only the brand-strategy framing is kept here.)*
+
+### Framework 26 — Brand integrity in packaging: protect the equity, design the product not the parent, and win shelf presence
+
+Chris's packaging-critique doctrine from the 2018 *Young Guns* series (The Futur). The brand
+= reputation / experience thesis (Framework 1) applied to the physical package on a store
+shelf: the redesign's job is to serve the *product's* brand and its business/positioning
+problem, not to indulge design for its own sake. In Ep 5 Chris is CONFIRMED as sole
+judge/instructor (contestants appear only as context); in Ep 3 the mentor "I" is inferred
+from context but consistent with Chris leading. *(The pure craft — the 3-D six-sided-sculpture
+model, wrapping graphics across edges, rules/lines as grouping shapes, typographic tracking —
+lives in [[wiki/topics/design-craft/design-craft]]; only the brand-strategy framing is kept
+here.)*
+
+- **The judging rubric leads with brand fit.** Chris scores packaging on four criteria, the
+  first two of which are pure brand strategy: **(1) brand integrity & product positioning** —
+  be true to the brand and don't position the product too far up- or down-market; **(2) shelf
+  presence** — can it be recognized "among the sea of competitors from 6 feet away," will it
+  "jump off the shelf." (The other two: improvement over the original, and clarity of the
+  unique selling properties.) (2018-05-26) [[wiki/sources/2018-05-26-yt-gx5hEcIwhnY]]
+- **Protect brand equity / legacy — don't bury the mark.** Moving a brand's signature mark
+  (the Colonia Minotaur) from front to back means "you're losing a part of the brand legacy
+  and the brand equity"; flattening it further made the product read like a different category
+  altogether. > "The biggest crime here is the fact that you missed this part about the two
+  parts of the lozenge which makes it unique." (2018-05-26)
+  [[wiki/sources/2018-05-26-yt-gx5hEcIwhnY]]
+- **Design the product, not the parent company.** Don't redesign the house/parent brand's logo
+  at the expense of the product — the house brand "should take second seat to the product
+  itself"; celebrate the thing that is actually unique ("rosewater soap or sandalwood soap").
+  (2018-05-26) [[wiki/sources/2018-05-26-yt-gx5hEcIwhnY]]
+- **Shelf presence is brand differentiation.** Category packaging drowns in "me too" design —
+  the white, tan and brown boxes and bottles all look alike; changing the shape or color gives
+  a product "shelf presence" so it "comes right out." Aesthetic signals also target
+  demographics: a "chemical compound" look reads scientific, soft pastels read natural, so each
+  package "speaks and appeals to a different demographic." (2018-05-08)
+  [[wiki/sources/2018-05-08-yt-FDhK1R3GJzs]]
+- **House/generic vs. name brand is a *branding* problem, not a product problem.** A generic
+  beside Tylenol has the "same active ingredients" at a lower price, so name brands "have to be
+  better at creating a relationship with the consumer" — price/quantity arguments alone won't
+  win. House brands exploit this with **"deliberate design confusion,"** blurring the lines
+  with established brands to slowly edge them out. (2018-05-08)
+  [[wiki/sources/2018-05-08-yt-FDhK1R3GJzs]]
+- **The through-line — design solves a business/positioning problem, not itself.** > "You as
+  the designer are trying to solve a communication and a business and a positioning problem
+  with the product itself. This is not design for design's sake." Understand the two or three
+  key things that make the product unique and celebrate them; if a move doesn't help communicate
+  those, "don't do it." (2018-05-26) [[wiki/sources/2018-05-26-yt-gx5hEcIwhnY]]
+
+> ⚠️ ATTRIBUTION: In *Young Guns Ep 3* (2018-05-08) the auto-captions carry no speaker labels;
+> the "me too" / shelf-presence / house-brand critique is attributed to Chris by content and
+> series format, not a caption label (`attribution: confident`, per the source page). In *Ep 5*
+> (2018-05-26) Chris is CONFIRMED as the sole on-camera judge and instructor. Contestants in
+> both episodes are CONTEXT and excluded from persona voice.
+> [[wiki/sources/2018-05-08-yt-FDhK1R3GJzs]]; [[wiki/sources/2018-05-26-yt-gx5hEcIwhnY]]
+
+### Framework 27 — Brand-as-filter: stake something in the ground, and value isn't real until it's dollar-quantified
+
+From the 2018 conscious-capitalism panel (The Futur LIVE, Santa Monica), where Chris hosts and
+debates guest Matthew Manos. Two Chris-owned brand-strategy ideas surface — a restatement of the
+positioning logic (Frameworks 3, 12) in "filter" terms, and a pricing-of-brand claim. Only
+Chris's lines train the persona; Manos and his "give half" model are CONTEXT. (2018-04-06)
+[[wiki/sources/2018-04-06-yt-oAHxZeBUbXM]]
+
+- **A brand is a filter.** You have to "stake something in the ground and claim some space that
+  nobody else has claimed," and then you attract the people drawn to what you say. The whole
+  presence — your site, your work, how you speak, what you talk about — should act as one
+  consistent filter; it's why "evil corporations don't come knockin'," and it saves you time.
+  (2018-04-06) [[wiki/sources/2018-04-06-yt-oAHxZeBUbXM]]
+- **Standing for nothing means you're for everyone and no one.** > "People who just put up a
+  portfolio site have this problem: you stand for nothing, so you are for everybody and for no
+  one — and that's why you get a lot of bottom-dwelling clients saying do this thing for a
+  hundred bucks." The right people should self-select in *and* the wrong people should self-select
+  out. (2018-04-06) [[wiki/sources/2018-04-06-yt-oAHxZeBUbXM]] (Same move as "make enemies" /
+  reframing a competitor — Frameworks 12 and 3.)
+- **Value isn't real until it's dollar-quantified.** Chris believes deeply that his work is
+  valuable, but until that value is "externally quantifiable in a dollar amount" it's "just in
+  my head." > "I could think I'm the world's greatest father, but until my kids send me the
+  world's greatest father plaque, I don't know." Price is how a brand's claimed value becomes
+  real and measured — the pricing-side complement to Framework 4 ("price communicates
+  position"). (2018-04-06) [[wiki/sources/2018-04-06-yt-oAHxZeBUbXM]]
 
 ---
 
@@ -628,6 +707,15 @@ Chris's signature exercise, refined across the 2023 masterclass and AdobeMAX key
 - [[wiki/sources/2017-12-15-yt-y42PI9peurI]] — F1 Formula 1 logo review (judge the system +
   business fit; "the logo is the tip of a giant beast called the business"; Beirut's
   diving-vs-swimming long game). 2017-12-15.
+- [[wiki/sources/2018-04-06-yt-oAHxZeBUbXM]] — Conscious Capitalism panel w/ Matthew Manos
+  (brand-as-filter: stake something in the ground; value isn't real until dollar-quantified).
+  2018-04-06.
+- [[wiki/sources/2018-05-08-yt-FDhK1R3GJzs]] — *Young Guns* Ep 3: pharma package challenge
+  setup (me-too design & shelf presence; house/generic-vs-name-brand as a branding problem;
+  "deliberate design confusion"). 2018-05-08.
+- [[wiki/sources/2018-05-26-yt-gx5hEcIwhnY]] — *Young Guns* Ep 5: packaging critique & winner
+  (four-criterion rubric; protect brand equity/legacy; design the product not the parent).
+  2018-05-26.
 - [[wiki/sources/2019-06-27-yt-A24V7CUWe4M]] — *Building A Brand* Ep 6: logo design process
   with a client ("identify, not explain"). 2019-06-27.
 - [[wiki/sources/2019-12-31-yt-sO4te2QNsHY]] — "What Is Branding? 4-Minute Crash Course"

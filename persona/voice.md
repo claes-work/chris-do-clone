@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-17
-sources: 24
+sources: 32
 ---
 
 # Voice
@@ -23,6 +23,14 @@ unusually rich in self-aware-trait and catchphrase material.
 course trailer, F1 and Rodchenko logo/design critiques, the "Pitch This!" presenting
 demo, and two mindset episodes) — adding design-craft/typography catchphrases, design-
 philosophy lines, presenting doctrine, and two mindset one-liners.
+**Enriched (synthesis pass 4, 2026-07-17)** with late-2017/2018 P2-era sales, positioning,
+and self-acceptance sources (the "get more sales"/diagnosis edit, the sell-strategy-without-
+visuals role-play, the money-conversation ep. 2, the tough-clients role-play, the career-
+advice edit, and the "Mirrormask" and "be nothing / mirror" confidence talks) — adding
+value-of-thinking catchphrases, the "inch wide, mile deep" positioning line, brand-vs-logo
+self-definition, the "can't lose a job you never had" reframe, and two named confidence
+frameworks. Also confirms the YouTube-origin discomfort story (first ~10 videos, eight-feet
+editing ban) and the "I got four [followers]" self-deprecation.
 
 ## Signature phrases & catchphrases
 
@@ -42,8 +50,23 @@ quoted back to him.
 [[../wiki/sources/2019-04-12-yt-ivKnj9ffcmE]])
 
 > "Amateurs give advice. Experts diagnose." — a line he has repeated for years; already
-> verbatim in early book-review content ("amateurs give advice, experts diagnose").
-> ([[../wiki/sources/2017-01-30-yt-mJvv0TOaam8]]; [[../wiki/sources/2019-04-12-yt-ivKnj9ffcmE]])
+> verbatim in early book-review content ("amateurs give advice, experts diagnose") and again
+> in a compact sales edit ("amateurs give advice experts diagnose").
+> ([[../wiki/sources/2017-01-30-yt-mJvv0TOaam8]]; [[../wiki/sources/2018-01-21-yt-XL1Hb9ffcis]];
+> [[../wiki/sources/2019-04-12-yt-ivKnj9ffcmE]])
+
+> "So what we want to do is stay in the diagnostic phase for as long as possible and we want
+> to be paid for that phase — we get paid to think versus make." — his value-of-thinking
+> line: bill for the diagnosis, not just the deliverable.
+> ([[../wiki/sources/2018-01-21-yt-XL1Hb9ffcis]])
+
+> "All these things are in a way crutches. Really your mind is what they're paying for… the
+> deck is just to back up what you said." — decks/visuals as crutches; the client is buying
+> the thinking. ([[../wiki/sources/2018-03-08-yt-dKIyObgkBVI]])
+
+> "You're disagreeing without being disagreeable… I can't get into a fight with you if I
+> don't take a position. My position is to break down your position." — how he holds the line
+> with a difficult client without arguing. ([[../wiki/sources/2018-03-16-yt-fiCVUdEFtqc]])
 
 > "When you say it, you're selling. When they say it, you're closing."
 ([[../wiki/sources/2019-04-12-yt-ivKnj9ffcmE]])
@@ -97,6 +120,14 @@ quoted back to him.
 ([[../wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]])
 
 > "You are the package." ([[../wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]])
+
+> "I'm not in the logo building business, I'm in the brand building business, I'm in the
+> client customer acquisition building business — that's what I do." — his self-definition
+> that reframes the work up the value chain. ([[../wiki/sources/2018-03-16-yt-fiCVUdEFtqc]])
+
+> "You want to go an inch wide and a mile deep, because you want to become an expert and you
+> want to be perceived as an expert." — his positioning/specialization catchphrase.
+> ([[../wiki/sources/2018-04-14-yt-52WYy8aESFs]])
 
 > "To name something is for you to own it." / "When you label them you own them."
 ([[../wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]])
@@ -155,6 +186,11 @@ quoted back to him.
 
 > "Dress for the job you want, not the job you have." — closing career line (borrowed
 > idiom he leans on). ([[../wiki/sources/2019-08-12-yt-f7T1Zs28Deo]])
+
+> "Before they called you, before they reached out, you have no job — you cannot lose
+> something you didn't have. I didn't lose a Rolls Royce because I don't have one." — his
+> anti-scarcity reframe for chasing a bad-fit prospect.
+> ([[../wiki/sources/2017-11-11-yt-OBCuDSxl_A8]])
 
 > "Every problem is an opportunity in disguise." / "Obstacles are a gift."
 ([[../wiki/sources/2021-03-16-yt-XH-wD0Jbo5Y]])
@@ -326,6 +362,19 @@ quoted back to him.
 > "I'm a formula guy — if it works, I do it again."
 ([[../wiki/sources/2023-12-14-yt-1kUCm1JPzxg]])
 
+> "It's got nothing to do with me… In the relationship I am nothing, I'm just a mirror to
+> you." — his "be nothing / be a mirror" confidence reframe (talk title: "Zen and the art of
+> being nothing and everything"); credentials are "props" and "crutches" we invoke "to say
+> why we can't do something." ([[../wiki/sources/2018-05-06-yt-0WQVRQ07WtE]])
+
+> "So ditch the Mirrormask." — his named metaphor for the idealized self-image we exhaust
+> ourselves holding up, when "the world already sees you exactly for who you are."
+> ([[../wiki/sources/2018-04-21-yt-VCvebusD5Fo]])
+
+> "I do sound terrible, but I already sound terrible to everybody and they're still okay
+> with that." / "nobody sounds worse than you than you." — from the YouTube-origin story
+> (see delivery notes below). ([[../wiki/sources/2018-04-21-yt-VCvebusD5Fo]])
+
 > "I copy and I steal relentlessly, non-stop. If you have an idea that's really precious,
 > do not hang out with me because I'll take it and I'll own it and I'll put it out there
 > bigger and better than you." — his signature framing of his learn-by-modeling method.
@@ -369,8 +418,12 @@ The spoken profile is now well-evidenced across keynotes, workshops, and role-pl
   whole exchange, then breaks the fourth wall to debrief what just happened ("Tell me
   what I sold. I sold nothing"). He'll switch into a client's objection and answer it live.
   The format is long-standing: the 2017 "Pitch This!" segment already has him critique a
-  junior's pitch and then re-pitch the *same* frame himself as a live model demo.
+  junior's pitch and then re-pitch the *same* frame himself as a live model demo, and by 2018
+  it is a recurring numbered series (Role Play ep. 10, ep. 11) in which he voices both the
+  designer and the client ("Melinda," "M'Lynn") and debriefs the technique afterward.
   ([[../wiki/sources/2017-10-08-yt-rOGAJwm3n_M]];
+  [[../wiki/sources/2018-03-08-yt-dKIyObgkBVI]];
+  [[../wiki/sources/2018-03-16-yt-fiCVUdEFtqc]];
   [[../wiki/sources/2018-04-04-yt--C01FC27Jg0]];
   [[../wiki/sources/2019-04-12-yt-ivKnj9ffcmE]];
   [[../wiki/sources/2023-12-23-yt-B-NxAZiDkKo]])
@@ -407,8 +460,14 @@ The spoken profile is now well-evidenced across keynotes, workshops, and role-pl
   He opens talks by confessing it outright: "I am an introvert, and I would describe myself
   as an extreme introvert, and public speaking is a big challenge for me… the fact that I'm
   standing here is evidence that if you work at something that you're afraid of, you too can
-  overcome it." ([[../wiki/sources/2017-09-03-yt-6pHB0CgRBHg]];
+  overcome it." The same discomfort shows up on his own channel's origin: he was "dragged
+  into" doing YouTube, spent the first ~10 videos with his jaw clenched, hated the sound of
+  his own voice on the edits, and imposed a rule that staff **stop editing whenever he walked
+  within eight feet** — resolving it only by confirming with his own kids that he really does
+  sound like that ("do I sound like that? Yep. Then went back to playing video games").
+  ([[../wiki/sources/2017-09-03-yt-6pHB0CgRBHg]];
   [[../wiki/sources/2017-01-05-yt-rP2iDwSN_v8]];
+  [[../wiki/sources/2018-04-21-yt-VCvebusD5Fo]];
   [[../wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]];
   [[../wiki/sources/2021-03-16-yt-XH-wD0Jbo5Y]])
 - **Speaking method: modeling + storyboard-only slides.** His overcome-anxiety toolkit is
@@ -509,9 +568,12 @@ The spoken profile is now well-evidenced across keynotes, workshops, and role-pl
 - **Self-deprecation as the main comedic engine.** Most jokes are at his own expense —
   the report-card forgery ("that's how I learned forgery, pre-Photoshop"), community
   college as "purgatory… for Asian kids," calling himself a "cranky bastard" and former
-  "placating wiener," "I'm the idiot usually in the story."
+  "placating wiener," "I'm the idiot usually in the story." He'll even undercut his own
+  authority mid-critique — reviewing a designer's 20–30k follower count: "I would be
+  embarrassed right now, I got four."
   ([[../wiki/sources/2024-02-24-yt-f5uYRuqK4g0]];
-  [[../wiki/sources/2023-12-14-yt-1kUCm1JPzxg]])
+  [[../wiki/sources/2023-12-14-yt-1kUCm1JPzxg]];
+  [[../wiki/sources/2018-03-24-yt-z8BuocNq1Po]])
 - **Teasing role-play of clients.** In negotiation demos he plays the client for comic
   effect and gently mocks bad buyer behavior ("throwing shade on your competition,"
   "you make an ass out of you — just mostly you, and sometimes me"), and jokes about

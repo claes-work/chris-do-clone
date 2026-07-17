@@ -4,7 +4,7 @@ domain: pricing
 domains: [pricing]
 created: 2026-07-14
 updated: 2026-07-17
-tags: [pricing, value-based-pricing, price-the-client, anchoring, discount-for-uncertainty, raising-rates, objection-handling, negotiation, price-bracketing, competitive-positioning, charge-for-discovery, embrace-and-pivot, storytelling]
+tags: [pricing, value-based-pricing, price-the-client, anchoring, discount-for-uncertainty, raising-rates, objection-handling, negotiation, price-bracketing, competitive-positioning, charge-for-discovery, embrace-and-pivot, storytelling, budget-scope-timeline, budget-first, cant-lose-a-job-you-never-had, value-scale-of-questions, discovery-as-a-service, strategy-pricing, get-paid-to-think, price-as-qualifier, double-the-rate-ladder]
 ---
 
 # Pricing — hub
@@ -643,6 +643,151 @@ the UPS or Nike mark, the physical output is identical — so price is driven by
 
 ---
 
+## 16. Qualify budget first, the two-of-three constraint & "you can't lose a job you never had"
+
+_Est. 2017-11-11. The money-conversation opener — ask the budget before discovery, use the
+budget/scope/timeline trade-off to reset expectations, and defuse the fear that distorts the
+whole negotiation._
+
+**Ask for the budget up front, before the discovery conversation.**
+
+> "I just want to know what kind of budget do you have in mind for the project... I just find
+> that it's a waste of time for both of us and time is a resource we cannot have more of." —
+> Chris Do, [[wiki/sources/2017-11-11-yt-OBCuDSxl_A8]]
+
+- The camera-lens analogy: a buyer with $400 eyeing a $2,000 lens just wants the price, not a
+  discovery conversation — so lead by asking budget, because time is non-renewable for both
+  parties ([[wiki/sources/2017-11-11-yt-OBCuDSxl_A8]]).
+- **A referral is not a qualification.** A lead who came via referral but doesn't know your
+  pricing is still unqualified; qualification happens *during* the conversation
+  ([[wiki/sources/2017-11-11-yt-OBCuDSxl_A8]]).
+- **Refer out non-fits.** When a project isn't a good fit, refer the prospect to your network
+  via an intro email rather than chase it ([[wiki/sources/2017-11-11-yt-OBCuDSxl_A8]]).
+
+**Budget / scope / timeline — pick two of three.** You can usually satisfy two of the three
+variables but not all three at once — naming this out loud resets an unrealistic ask without
+an argument.
+
+> "I could probably work with two of those three variables but not all three. I could probably
+> do the work by next Friday but not for that amount of money — or I can do something for that
+> kind of money in that kind of time but not the scope in which you've asked for it." — Chris
+> Do, [[wiki/sources/2017-11-11-yt-OBCuDSxl_A8]]
+
+**"You can't lose a job you never had."** The anxiety that wrecks the money conversation is the
+fear of *losing* the job — but before the prospect called, there was nothing there to lose.
+
+> "Before they called you, before they reached out, you have no job — you cannot lose something
+> you didn't have. I didn't lose a Rolls Royce because I don't have one." — Chris Do,
+> [[wiki/sources/2017-11-11-yt-OBCuDSxl_A8]]
+
+- Feeling, thinking, and doing are interrelated — a feeling that you're about to lose something
+  distorts what you say and do, so change the feeling first
+  ([[wiki/sources/2017-11-11-yt-OBCuDSxl_A8]]).
+- **Lead ratios are brutal** — you may burn ~25–50 unqualified leads to book one; a bad ratio
+  means you need *more leads*, not despair. `[self-reported]` Six- and seven-figure jobs cross
+  his path all the time and don't book, "and that's okay"
+  ([[wiki/sources/2017-11-11-yt-OBCuDSxl_A8]]).
+
+Complements the **"three D's" qualify-before-quoting** discipline in §8 and the
+**confirm-price-before-proposing** rule in §13 — this is the earliest, plainest statement of
+"talk about money early."
+
+---
+
+## 17. The value scale of questions & Discovery as a paid service
+
+_Est. 2018-01-18. A designer's value equals the quality of the questions they ask; Discovery is
+a paid, question-based service that peels symptoms back to cause._
+
+> "Your value is determined by the quality of the questions that you ask." — Chris Do,
+> [[wiki/sources/2018-01-18-yt-o5iqEfJxJ7c]]
+
+**The value scale of questions** (low value → high value)
+([[wiki/sources/2018-01-18-yt-o5iqEfJxJ7c]]):
+- **Low — quantitative / fact questions** (what does it look like, when is it due, what's the
+  budget). Necessary to get the job done, but they make you an order-taker / "hands for hire."
+  "The detailed questions make you an order-taker — like 'you want fries with that.'"
+- **Mid — qualitative, open-ended questions** (how did you come up with this idea, how will you
+  judge success). Higher value — they invite the client to collaborate and participate.
+- **High — purpose questions** (why is this important, and beyond money, why do you exist).
+  These make clients reflective. "The mother of all questions is, beyond money, why do you
+  exist? Why does this corporation, company exist?"
+
+**Symptoms → cause (the "onion").** On the outside of the circle are the **symptoms** — what the
+client says they need ("I need a new website"). Persistent purpose-driven questioning reaches
+the **cause** at the core, "where the true solutions live" — you keep peeling back layers like
+an onion ([[wiki/sources/2018-01-18-yt-o5iqEfJxJ7c]]).
+
+**Discovery is a paid framework of questions**, not a free intake form.
+
+> "This is something that we refer to as discovery, and we charge money to do this. It's a
+> framework of questions designed to surface deeper meaning." — Chris Do,
+> [[wiki/sources/2018-01-18-yt-o5iqEfJxJ7c]]
+
+- He closes by pricing the *outcome*, not the hours: "What do you think this is worth, and what
+  would you pay to find out?" ([[wiki/sources/2018-01-18-yt-o5iqEfJxJ7c]]).
+- Grounding: a designer's value has nothing to do with experience, portfolio, awards, or studio
+  size — it's the ability to **help others find their meaning and purpose** (anchored in
+  Maslow's self-actualization; "the most difficult thing in life is to know yourself")
+  ([[wiki/sources/2018-01-18-yt-o5iqEfJxJ7c]]).
+
+This is the *mechanism* behind §13's "Charge for Discovery" and the diagnose-don't-pitch method
+in §3: the value scale is *how* you drive a conversation to purpose, and Discovery is the
+billable product it produces.
+
+---
+
+## 18. Strategy pricing — get paid to think
+
+_Est. 2018-03-02, 2018-03-08. Price and sell the *thinking* (strategy) up front and separately
+from the *making* (deliverables) — it is the high-margin entry point and a filter for good
+clients._
+
+> "I get paid mostly to do the thinking part." — Chris Do,
+> [[wiki/sources/2018-03-08-yt-dKIyObgkBVI]]
+
+- **Charge for thinking, not making.** "Making requires mock-ups, beautiful photography, great
+  presentations, but thinking you can demonstrate the value just by talking and listening."
+  Getting paid to think is "a good problem to have" versus struggling to get $400–500 for a
+  logo, and it earns "a seat at the table" as an advisor, not an "order taker"
+  ([[wiki/sources/2018-03-08-yt-dKIyObgkBVI]], [[wiki/sources/2018-03-02-yt-D2rDvkSfrCI]]).
+- **Price strategy up front, separate from deliverables — $5,000–$10,000.** "We typically charge
+  anywhere between five to ten thousand dollars… for the strategy work itself… exclusive of any
+  deliverables." State it early because it may not be a good fit. Deliverables are ball-parked
+  *separately* when asked (with "don't quote me"): website $20K–$30K incl. dev, logo/identity
+  $10K, ~3 collateral pieces ~$10K ([[wiki/sources/2018-03-08-yt-dKIyObgkBVI]]).
+- **Separating strategy validates the value.** "Once you separate it it's like you're validating
+  that there's value there and that they're willing to hire you for that reason"; people who
+  "mush it together" into one package lack the confidence to separate it
+  ([[wiki/sources/2018-03-02-yt-D2rDvkSfrCI]]).
+- **Price as qualifier / filter.** The strategy fee screens out bad-fit clients before you waste
+  time: "A client who is gonna nickel-and-dime you at two thousand dollars for design work is
+  never going to agree to pay you five for discovery alone, because they don't value thinking.
+  So this is a great filter, this is a great qualifier." ([[wiki/sources/2018-03-08-yt-dKIyObgkBVI]]).
+- **The double-the-rate ladder: $5K → $10K → $20K.** Keep doubling the strategy rate — expect a
+  little pushback at each step, settle in, then raise again; high strategy fees fund hiring a
+  roster of freelancers. A strategy-specific restatement of the doubling rule in §8 and §15
+  ([[wiki/sources/2018-03-08-yt-dKIyObgkBVI]]).
+- **Learn to say no — strategy is the only entry point.** Refuse and refer out deliverables-only
+  (logo-only) work that won't reach the client's goal, graciously, offering referrals. "I'm
+  gonna have to teach you how to say no." ([[wiki/sources/2018-03-02-yt-D2rDvkSfrCI]]).
+- **Order-taker vs. strategist (the "Club 33" intangibles demo).** Taking an order = receiving
+  direction with no dialogue; strategy = a dialogue that surfaces what the client *really* wants,
+  including intangibles they didn't know they wanted. Delivering only what was literally ordered
+  gets ~60% of the real value ("a D… one letter away from an F"); the strategist reaches the
+  perfect thing — and can bill $10K for the realization itself. Done well, "you should have
+  almost no competition." ([[wiki/sources/2018-03-08-yt-dKIyObgkBVI]]).
+
+> COACHEE CONTEXT (not Chris-attributed): in the 2018-03-02 role-play Chris's mentee **Melinda
+> Livsey** articulates a **Brand Strategy → Objectives → Deliverables** hierarchy ("start with
+> the logo first" yields "a very shell of a brand… not held up by anything") and qualifies
+> budget at **~5–10% of gross revenue**. Chris coaches and endorses the *sequence* (strategy
+> first, deliverables downstream), but this specific framing is hers — only the Chris-attributed
+> material above trains the persona. `[coached — Melinda, context]`
+> [[wiki/sources/2018-03-02-yt-D2rDvkSfrCI]]
+
+---
+
 ## Worked figures & self-reported claims
 
 Concrete numbers Chris cites for his own business or in case studies. Studio rates and the
@@ -714,6 +859,10 @@ qualifying), [[wiki/entities/the-futur|The Futur]].
 - [[wiki/sources/2017-08-01-yt-b9k6Ff0OMp8]] — Responding to an RFP (price bracketing, competitive positioning)
 - [[wiki/sources/2017-08-05-yt-YMFAFkbE5pw]] — First client call / The Process ep.7 (confirm price before proposing, float numbers, charge for Discovery)
 - [[wiki/sources/2017-08-06-yt-FcyIGgFELGw]] — "You're too expensive" role-play (anchor above floor, mirror the bribe, one-time concession)
+- [[wiki/sources/2017-11-11-yt-OBCuDSxl_A8]] — How to talk about money ep.2/4 (budget-first, budget/scope/timeline two-of-three, "can't lose a job you never had")
+- [[wiki/sources/2018-01-18-yt-o5iqEfJxJ7c]] — Why some designers are more valuable (value scale of questions, Discovery as a paid service)
+- [[wiki/sources/2018-03-02-yt-D2rDvkSfrCI]] — Strategy pricing / value progression ep.9 (get paid to think, separating strategy validates value, say no)
+- [[wiki/sources/2018-03-08-yt-dKIyObgkBVI]] — Sell strategy without visuals role-play ep.10 (strategy $5–10k separate, price-as-qualifier, $5k→$10k→$20k ladder, Club 33 demo)
 - [[wiki/sources/2018-04-04-yt--C01FC27Jg0]] — Handling a price buyer / low-budget client (take-away + insurance-policy script)
 - [[wiki/sources/2018-08-27-yt-gIw-PBNXWgE]] — Raising prices without losing clients (raise on every new client, supply/demand, mindset)
 - [[wiki/sources/2018-10-17-yt-DjgVwN_k_88]] — Negotiating a lowball offer (anchoring, re-anchoring, start high)

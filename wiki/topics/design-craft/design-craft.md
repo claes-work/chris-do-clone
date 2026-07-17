@@ -3,7 +3,7 @@ type: hub
 domain: design-craft
 domains: [design-craft]
 updated: 2026-07-17
-tags: [design-craft, typography, layout, composition, art-direction, critique, logo-design, logo-critique, ideation, portfolio, teaching, mastery, design-education, creativity, remix, timelessness, restraint, copywriting, developer-handoff, freelance]
+tags: [design-craft, typography, legibility, layout, composition, art-direction, critique, logo-design, logo-critique, ideation, portfolio, portfolio-review, packaging, teaching, mastery, design-education, creativity, remix, timelessness, restraint, copywriting, developer-handoff, freelance]
 ---
 
 # Design Craft — hub
@@ -585,6 +585,135 @@ at two levels — the mark on its own, and the whole system/business it sits on.
 
 ---
 
+## 17. Typography legibility rules — the "triadic relationship"
+
+> ⚠️ ATTRIBUTION UNCERTAIN (pending verification). This 2018 single-narrator Futur clip
+> carries **no speaker self-identification**; the didactic style is consistent with
+> Chris Do's ArtCenter teaching, so the narrator is **likely Chris**, but nothing in the
+> transcript confirms it. Per fidelity rule #6 these legibility parameters are included
+> but flagged `attribution: uncertain` — do not train voice cadence from them, and treat
+> as provisional-Chris until confirmed against audio/video.
+> [[wiki/sources/2018-02-13-yt-EozQvV3oQ7c]] (2018-02-13)
+
+Where §1's Typography Manual gives compositional maxims, this clip adds the **technical
+legibility rules for setting body text** — concrete, measurable parameters.
+[[wiki/sources/2018-02-13-yt-EozQvV3oQ7c]] (2018-02-13)
+
+- **The triadic relationship** — Body-text legibility rests on a mutual harmony between three variables: **(1) type/point size, (2) line length measured in characters-per-line (the measure), and (3) interline spacing (leading)**. Change any one and you either help or hurt legibility; they must be tuned together. (paraphrase, attribution uncertain) [[wiki/sources/2018-02-13-yt-EozQvV3oQ7c]] (2018-02-13)
+
+> "there's this thing called the triadic relationship the harmony between the type size
+> the point size the line length how many characters are on a line and the inter line
+> spacing the leading." — narrator (likely Chris, attribution uncertain)
+> [[wiki/sources/2018-02-13-yt-EozQvV3oQ7c]] (2018-02-13)
+
+- **Word-shape recognition / anti-all-caps** — We recognize the **shape (silhouette) of a word before** we read its individual letters. This is why all-caps signage (freeway "NORTH" / "SOUTH") is harder to distinguish — the capital letters are too similar in shape; a giant lowercase "n" vs. "s" reads faster because the silhouettes differ more. Design for word/letter shape. (paraphrase, attribution uncertain) [[wiki/sources/2018-02-13-yt-EozQvV3oQ7c]] (2018-02-13)
+
+> "we recognize the shape of words before we actually are able to read the letters."
+> — narrator (likely Chris, attribution uncertain)
+> [[wiki/sources/2018-02-13-yt-EozQvV3oQ7c]] (2018-02-13)
+
+- **Tracking has an optimum; leave the default alone** — Too much *or* too little space between letters destroys legibility (over-tight runs letters together; over-open impairs reading). There is an optimal spacing, and for most typefaces the **default tracking is already fine** — messing with it usually hurts. (paraphrase, attribution uncertain) [[wiki/sources/2018-02-13-yt-EozQvV3oQ7c]] (2018-02-13)
+
+> "too much or too little space between letters destroy legibility." — narrator (likely
+> Chris, attribution uncertain) [[wiki/sources/2018-02-13-yt-EozQvV3oQ7c]] (2018-02-13)
+
+- **9–12pt is the optimal reading size** — The most legible point size for reading (body) text is **9 to 12 points**. (paraphrase, attribution uncertain) [[wiki/sources/2018-02-13-yt-EozQvV3oQ7c]] (2018-02-13)
+- **Higher x-height → more leading** — Larger x-height typefaces need **more interline spacing** (e.g. Helvetica, a large x-height face, should in theory be opened up). (paraphrase, attribution uncertain) [[wiki/sources/2018-02-13-yt-EozQvV3oQ7c]] (2018-02-13)
+- **Maximum measure, in characters** — Cap the line length by character count: **~65 characters** per line for a **small** x-height typeface, **~52 characters** for a **large** x-height typeface. (paraphrase, attribution uncertain) [[wiki/sources/2018-02-13-yt-EozQvV3oQ7c]] (2018-02-13)
+
+---
+
+## 18. Portfolio-review rubric — the four-category scorecard ("Young Guns")
+
+From the "Young Guns" Ep.2 portfolio-review series, where Chris and co-host Emily
+independently score five early-career designers. Chris's scoring **logic** — a fixed
+four-category rubric plus engagement-math heuristics — is the reusable framework; it
+turns the fuzzy "is this portfolio good?" question into named, scorable categories
+(cf. §2's bad-to-good slider). *(Co-host **Emily** is context only, excluded.)*
+[[wiki/sources/2018-03-24-yt-z8BuocNq1Po]] (2018-03-24)
+
+- **The four categories, scored 1–5** — Each reviewer scores privately, 1 (lowest) to 5 (highest): (paraphrase) [[wiki/sources/2018-03-24-yt-z8BuocNq1Po]] (2018-03-24)
+  1. **Social-media marketing** — Are you putting your name out consistently? Good engagement? High-quality images? A theme / editorial point of view?
+  2. **Presentation & quality of the work** — Creative, professional, complete work; good lighting and mock-ups; does it feel finished.
+  3. **Clarity of service** — Did you say what you do? Focus (laser vs. scattershot), plus evidence you actually do that thing.
+  4. **Personality of the person** — Your story / bio, a fun and professionally-shot headshot, activities, interests, hobbies outside the work.
+
+- **"Super stacking"** — Align as many of your hobbies, skills, and interests as possible into one offer. A designer who is *also* a strong photographer should shoot their own original photography for their design work — then you do what few designers can (great photos) *and* what few photographers can (typography/design), instead of competing separately in two crowded fields. (paraphrase; concept named on-camera) [[wiki/sources/2018-03-24-yt-z8BuocNq1Po]] (2018-03-24)
+
+> "It's called super stacking. It's about trying to align as many of your hobbies and
+> skills and interests together as possible." — Chris Do
+> [[wiki/sources/2018-03-24-yt-z8BuocNq1Po]] (2018-03-24)
+
+- **Engagement math — sub-10% is suspicious** — Engagement below ~**10%** of your following is a red flag: it suggests follow-for-follow or bought followers ("you didn't earn the followers"). (paraphrase) [[wiki/sources/2018-03-24-yt-z8BuocNq1Po]] (2018-03-24)
+
+> "If you're getting less than 10% engagement from your community it makes me very very
+> suspicious as to how you grow." — Chris Do
+> [[wiki/sources/2018-03-24-yt-z8BuocNq1Po]] (2018-03-24)
+
+- **Boosted-post spike** — An engagement spike that "fell right off the map" usually means a **boosted/sponsored post**; once you stop paying, the audience drops off. Boosting is fine, but you must then earn those new eyeballs by engaging back. (paraphrase) [[wiki/sources/2018-03-24-yt-z8BuocNq1Po]] (2018-03-24)
+- **Replicate the anomaly (social listening)** — When one post gets outsized attention, study it and deliberately duplicate what worked. (paraphrase) [[wiki/sources/2018-03-24-yt-z8BuocNq1Po]] (2018-03-24)
+- **Keep the feed on-message** — "Inform or inspire": cycle out unrelated personal posts (put personal life in ephemeral Stories); deleting old off-brand posts "is not gonna affect your numbers," and you can plan the grid in sets of three/six/nine so it reads coherently. Clarity/specialization scores higher than a scattershot "gentleman's graphic designer." (paraphrase) [[wiki/sources/2018-03-24-yt-z8BuocNq1Po]] (2018-03-24)
+
+> "The rule of thumb is inform or inspire." — Chris Do
+> [[wiki/sources/2018-03-24-yt-z8BuocNq1Po]] (2018-03-24)
+
+---
+
+## 19. Packaging-design critique — the six-sided sculpture
+
+Two "Young Guns" packaging episodes (a Rite Aid aisle walk-through setting the challenge;
+the finished-work judging) give Chris's packaging-specific craft lens — distinct from the
+editorial/booklet thinking in §13. *(Contestants Connor, Shawn/Sean Campbell, Spencer,
+Sharif and the soap contestant are context only, excluded.)*
+[[wiki/sources/2018-05-08-yt-FDhK1R3GJzs]] (2018-05-08);
+[[wiki/sources/2018-05-26-yt-gx5hEcIwhnY]] (2018-05-26)
+
+**The four-criterion judging rubric** (no particular order): (paraphrase; near-verbatim on the four items) [[wiki/sources/2018-05-26-yt-gx5hEcIwhnY]] (2018-05-26)
+
+1. **Brand integrity & product positioning** — stay true to the brand; don't position the product too far up- or down-market from where it belongs.
+2. **Shelf presence** — can it be recognized "among the sea of competitors from **6 feet away**," will it "jump off the shelf"?
+3. **Improvement** — did you improve the original design in significant ways?
+4. **Clarity of the USP** — did you communicate the unique selling properties clearly?
+
+> "Does it have shelf presence... will it jump off the shelf? Will it pop?" — Chris Do
+> [[wiki/sources/2018-05-26-yt-gx5hEcIwhnY]] (2018-05-26)
+
+- **A package is a 3-D, six-sided sculpture** — Design a package as a **three-dimensional sculpture consisting of six sides**, not a flat layout. **Wrapping a graphic element from the back across the edges to the front** "is what makes a packaging designer a packaging designer, not an editorial designer." Push type/info onto the box edges for tension; reverse elements out; use grid lines to place elements consistently across faces. *(Sharpens §13's "a booklet is a 3D object" into a packaging-specific rule.)* (near-verbatim / paraphrase) [[wiki/sources/2018-05-26-yt-gx5hEcIwhnY]] (2018-05-26)
+
+> "When you're designing a package... think of it as a three-dimensional sculpture, which
+> it really is, consisting of six sides." — Chris Do
+> [[wiki/sources/2018-05-26-yt-gx5hEcIwhnY]] (2018-05-26)
+
+> "This is what makes a packaging designer a packaging designer, not an editorial
+> designer." — Chris Do [[wiki/sources/2018-05-26-yt-gx5hEcIwhnY]] (2018-05-26)
+
+- **Premium = less is more (Aesop / Clinique)** — For a high-end product, covering it up with pattern and decoration hurts it — "usually when people cover things up they have something to hide." Cites **Aesop** and **Clinique** as references for minimal, restrained luxury beauty packaging; frou-frou decoration works against a product whose story is its simplicity. *(Reinforces §13's "white space = luxury" from the packaging angle.)* (near-verbatim / paraphrase) [[wiki/sources/2018-05-26-yt-gx5hEcIwhnY]] (2018-05-26)
+
+> "Usually when people cover things up they have something to hide." — Chris Do
+> [[wiki/sources/2018-05-26-yt-gx5hEcIwhnY]] (2018-05-26)
+
+- **Design the product, not the parent company** — Don't redesign the parent brand's logo (e.g. the Khadi house mark, like a Johnson & Johnson) at the expense of the product; the house brand "should take second seat to the product itself." Celebrate what the product actually *is* — "rosewater soap or sandalwood soap." (near-verbatim / paraphrase) [[wiki/sources/2018-05-26-yt-gx5hEcIwhnY]] (2018-05-26)
+- **Rules (lines) group information** — Lines "are really great to group different pieces of information together that don't look good together," giving the eye a beginning and an end to lock onto; making a border much **thicker** turns a rule into a grouping **shape** that draws the eye. *(Extends Typography-Manual rule #7, §1.)* (near-verbatim / paraphrase) [[wiki/sources/2018-05-26-yt-gx5hEcIwhnY]] (2018-05-26)
+- **Don't change client tooling** — On a redesign you may repaint, add or subtract labels and elements, but do **not** change the physical vessel/shape: retooling "would cost them a lot of money" — "this is where I think the young designer meets the old designer." (near-verbatim / paraphrase) [[wiki/sources/2018-05-26-yt-gx5hEcIwhnY]] (2018-05-26)
+- **Solve the business problem, not design for its own sake** — Understand "the two or three key things that make your product unique and celebrate those things"; if a decision doesn't help communicate those, don't do it. "This is not design for design's sake." (near-verbatim) [[wiki/sources/2018-05-26-yt-gx5hEcIwhnY]] (2018-05-26)
+
+**The aisle-walk branding lens** (challenge setup): [[wiki/sources/2018-05-08-yt-FDhK1R3GJzs]] (2018-05-08)
+
+- **"Me too" design kills shelf presence** — Pharmacy/lotion packaging is dominated by near-identical white, tan, and brown boxes and bottles; changing the *shape* or *color* of the typography would give a product **shelf presence** so it "come[s] right out." (near-verbatim / paraphrase) [[wiki/sources/2018-05-08-yt-FDhK1R3GJzs]] (2018-05-08)
+
+> "there's a lot of me too design and packaging... if you were to change the shape or the
+> color of the [typography] then it would have shelf presence and it would just come
+> right out" — Chris Do [[wiki/sources/2018-05-08-yt-FDhK1R3GJzs]] (2018-05-08)
+
+- **Aesthetic → demographic mapping** — Aesthetic signals map to buyers: a "chemical compound" look reads "more scientific," soft pastel colors read "natural" — each package "speaks and appeals to a different demographic." (paraphrase) [[wiki/sources/2018-05-08-yt-FDhK1R3GJzs]] (2018-05-08)
+- **House-brand vs. name-brand is a pure branding problem** — A generic beside Tylenol has the "same active ingredients" at a lower price, so name brands must "be better at creating a relationship with the consumer" — price/quantity arguments alone won't win. House brands use "deliberate design confusion," blurring the lines with established brands to edge them out. (near-verbatim / paraphrase) [[wiki/sources/2018-05-08-yt-FDhK1R3GJzs]] (2018-05-08)
+
+> "this is really a branding issue... same active ingredients I'm sure of it so there's a
+> lot of like deliberate design confusion just trying to blur the lines together"
+> — Chris Do [[wiki/sources/2018-05-08-yt-FDhK1R3GJzs]] (2018-05-08)
+
+---
+
 ## Excluded — instructor-led
 
 Per fidelity rule #6 (speaker attribution), the following Futur "craft" videos are
@@ -619,6 +748,15 @@ and simple-logos critiques — [[wiki/sources/2017-09-11-yt-dY7i4uiDHFA]],
 [[wiki/sources/2017-08-15-yt-AiAZAuvO2sY]]) are context only. In the F1 critique,
 **Michael Beirut**, **Ross Brawn**, and **Carter Wong / Wieden+Kennedy** are third parties
 quoted by Chris ([[wiki/sources/2017-12-15-yt-y42PI9peurI]]), not persona voice.
+From the 2018 "Young Guns" additions (§§18–19): co-host **Emily**
+([[wiki/sources/2018-03-24-yt-z8BuocNq1Po]]) and the reviewed/competing designers
+(**Arun**, **Spencer**, **Sherif/Sharif**, **Connor Fowler**, **Sean/Shawn Campbell**,
+and the unnamed soap contestant — [[wiki/sources/2018-03-24-yt-z8BuocNq1Po]],
+[[wiki/sources/2018-05-08-yt-FDhK1R3GJzs]], [[wiki/sources/2018-05-26-yt-gx5hEcIwhnY]])
+are context only; only Chris's evaluation logic and design principles train the persona.
+The **2018 typography-legibility clip** ([[wiki/sources/2018-02-13-yt-EozQvV3oQ7c]], §17)
+has an **unidentified narrator** (likely Chris, `attribution: uncertain`); its rules are
+promoted but flagged pending verification and must not train voice cadence.
 The **Typography Manual** is delivered as animated on-screen copy (no spoken audio), so
 it trains Chris's *written* design voice, not his verbal cadence.
 [[wiki/sources/2016-11-06-yt-QrNi9FmdlxY]]
@@ -647,4 +785,8 @@ it trains Chris's *written* design voice, not his verbal cadence.
 - [[wiki/sources/2017-11-23-yt-TH-jqZ4xueI]] — Best logos are simple, not overworked (restraint = timelessness; Dieter Rams/Braun; judge the mark separately from its application). (2017-11-23)
 - [[wiki/sources/2017-12-15-yt-y42PI9peurI]] — F1 logo review (judge the system & business fit; "the logo is the tip of a giant beast called the business"). (2017-12-15)
 - [[wiki/sources/2017-12-04-yt-atS36kzr8zg]] — "The Hustle / The Grind" live layout redesign (negative space, mass, axes). (2017-12-04)
+- [[wiki/sources/2018-02-13-yt-EozQvV3oQ7c]] — Typography legibility rules (triadic relationship; word-shape; 9–12pt; x-height→leading; 65/52 measure). **Narrator likely Chris — attribution: uncertain.** (2018-02-13)
+- [[wiki/sources/2018-03-24-yt-z8BuocNq1Po]] — Designer Portfolio Reviews, Young Guns Ep.2 (four-category rubric; super stacking; engagement math). (2018-03-24)
+- [[wiki/sources/2018-05-08-yt-FDhK1R3GJzs]] — Pharma Package Design Challenge, Young Guns Ep.3 ("me too" design; shelf presence; aesthetic→demographic; house-vs-name-brand). (2018-05-08)
+- [[wiki/sources/2018-05-26-yt-gx5hEcIwhnY]] — Packaging Critique & Winner, Young Guns Ep.5 (four-criterion rubric; 3-D six-sided sculpture; premium=less-is-more; design the product not the parent). (2018-05-26)
 - [[wiki/sources/2023-06-14-yt-SdCzIDmfDAA]] — Good vs. great designers (bad-to-good slider, mastery, "do less but better," Holtzman). (2023-06-14)

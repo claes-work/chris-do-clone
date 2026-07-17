@@ -264,6 +264,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-08-24 | ★ [How Do I Know What I'm Good At? Finding Your Super Power](2018-08-24-yt-VhztaSc4afE.md) | mindset; branding | 5-prompt inventory (skill/happiness/opportunity/passion/service) ikigai-adjacent + build-matrix; Danny Yount panel=context; L3-candidate |
 | 2018-08-29 | [Brainstorming Beyond the Brief — Dr. Holtzman Pt.2 (Heineken)](2018-08-29-yt-6GodcTLloaw.md) | design-craft; sales-clients | CONTEXT: guest Dr. Holtzman ("decode the brief" + shoes empathy); Chris intro-framing only |
 | 2018-08-30 | [MASTERMIND: How To Get Work — Reach Out (Ep.18)](2018-08-30-yt-XtCWo340xDo.md) | mindset; sales-clients | CONTEXT: ~100% Kier McLaren; Chris absent; Kier entity |
+| 2018-08-31 | [How to Build Beautiful Websites in Hours (Webflow)](2018-08-31-yt-XsF5YQq7M1A.md) | design-craft; content-strategy | CONTEXT: guest Ron Segal (Flux); Chris host only |
+| 2018-09-02 | [MASTERMIND: Traits of Successful People (Ep.19)](2018-09-02-yt-AHJcwllsKA4.md) | mindset | CONTEXT: ~100% Kier McLaren; Chris absent; Kier at Prologue under Kyle Cooper; Kier entity |
+| 2018-09-04 | [MASTERMIND: Clients Who Don't Know What They Want (Ep.20)](2018-09-04-yt-dVkyDxbr12I.md) | sales-clients; mindset | CONTEXT: ~100% Kier McLaren; Chris absent; Getting-to-Yes/BATNA; Kier entity |
+| 2018-09-05 | [Is It Better To Focus Or Be A Generalist Designer?](2018-09-05-yt-w5ti6BW8foo.md) | mindset; business; content-strategy | specialize-as-job-insurance, chasing-your-tail warning, strengths-first; 2nd host=context |
+| 2018-09-05 | [What Motivates You?](2018-09-05-yt-mbVjjeH6-tk.md) | mindset | thank-you-economy/reciprocation, #10% work-ethic, $14.68-check anecdote; Chris solo; voice material |
+| 2018-09-07 | ★ [How To Make Clear Goals You Can Achieve](2018-09-07-yt-4ZnSvCxqTrk.md) | mindset | "chunking" (chop big goal to bite-size), live vague→specific drill-down, think-first-tactical-last; Ryan=context; L3-candidate |
+| 2018-09-09 | [Why Do I Give So Much Away — My Content Strategy](2018-09-09-yt-V-uLjNG73ho.md) | content-strategy; business; mindset | stop-selling (audiences hypersensitive), "karmic equity"; self-reported 300%/yr, 517 members @$5/mo; Chris solo |
+| 2018-09-11 | ★ [Success Leaves Clues — How to Study Successful People](2018-09-11-yt-Xi3VhHp8llI.md) | mindset | learn-by-modeling / study-successful-people, introvert-who-forced-change; Chris solo; L3-candidate |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -313,4 +321,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_293 videos ingested (L2) so far._
+_301 videos ingested (L2) so far._

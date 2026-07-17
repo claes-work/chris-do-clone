@@ -101,8 +101,16 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2017-03-10 | [On Set: Stop-Motion Commercial](2017-03-10-yt-pZFtuCNhG30.md) | design-craft | Blind crew BTS; Chris not featured — context only |
 | 2017-03-19 | [Ad Agency Studio Tour — Ayzenberg Group](2017-03-19-yt-YAc3jkdb2MU.md) | business | Chris host-only; 0 persona — context only |
 | 2017-03-29 | ★ [Design Legends — Kyle Cooper (PT1)](2017-03-29-yt-Qa7kjIiLdCE.md) | design-craft; business | Kyle Cooper interview (context); Chris "going past the sale" / decision-maker-vs-order-taker; L3-candidate |
+| 2017-03-29 | [Handle Clients With Bad Taste (1 min)](2017-03-29-yt-1A1oyNE4NcY.md) | sales-clients | short excerpt of 2016-04-01 (near-verbatim) |
 | 2017-03-31 | [Day in the Life — Matthew Encina](2017-03-31-yt-I7YtYmJl4Sw.md) | business; design-craft; content-strategy | Encina day-in-life; NO Chris persona data — context only |
+| 2017-04-10 | [Design Legends — Kyle Cooper (PT2)](2017-04-10-yt-d9pT_zab-MA.md) | design-craft; business | Kyle Cooper interview (context); bio anchor (Chris freelanced for Kyle) |
+| 2017-04-17 | [SEO & Measuring Value — w/ William Walczak (Pro Call)](2017-04-17-yt-YMt221vL3RY.md) | content-strategy; business | guest SEO (context); recorded Oct-2016 |
+| 2017-04-17 | [Draw the Golden Ratio (Illustrator)](2017-04-17-yt-fSX_FHVnuGw.md) | design-craft | technical tutorial, no transcript — context only |
+| 2017-04-21 | ★ [The Importance of Keeping a Journal](2017-04-21-yt-EICCL7uoikc.md) | mindset; content-strategy | 21-day single-habit pledge + accountability partner; L3-candidate |
 | 2017-04-22 | [What companies look for in a portfolio](2017-04-22-yt-X_tUOfHpoyM.md) | business; design-craft; mindset | classroom Q&A (CSUN/Dave Moon context) |
+| 2017-04-25 | ★ [Beliefs & Behavior Define Your Personal Brand](2017-04-25-yt-MUHQVsOnKbw.md) | branding; mindset; content-strategy | beliefs→brand; think-say-do harmony (Unbland); L3-candidate |
+| 2017-04-28 | ★ [Designing for Business Goals + Client Empathy](2017-04-28-yt-GmHjnLVDcuY.md) | sales-clients; design-craft; business | design-as-business discovery + empathy-as-fiduciary; L3-candidate |
+| 2017-05-02 | ★ [Is Strategy for Creatives Who Can't Design? (Pt.1/3)](2017-05-02-yt-0Cgi_aFM4j8.md) | business; branding; design-craft | "strategy supports the design"; debate (Mark Posh context); L3-candidate |
 | 2017-06-21 | ★ [Run A Creative Business w/ Melinda Livsey](2017-06-21-yt-D8BN2YSyYkg.md) | business; sales-clients; pricing; branding; mindset | Chris coaches Livsey (context); kiss-off script + money-mindset; L3-candidate |
 | 2017-11-15 | ★ [17yr Old Designer Sean Campbell](2017-11-15-yt-xRmqvnKepN4.md) | mindset; design-craft; content-strategy | interview (Campbell = context); logo-critique method; L3-candidate |
 | 2017-12-04 | ★ [What Not To Do With A Design Layout](2017-12-04-yt-atS36kzr8zg.md) | design-craft | layout/craft critique; Chris-led (co-host Molly); L3-candidate |
@@ -157,4 +165,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_137 videos ingested (L2) so far._
+_145 videos ingested (L2) so far._

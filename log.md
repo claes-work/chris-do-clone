@@ -683,3 +683,34 @@ For NEXT checkpoint: Kyle Cooper's "going past the sale / stop at sale-vs-yes" n
 create wiki/entities pages for Kyle Cooper (influence — first title gigs) and maybe Stuart Carroll
 (legal). LINT ITEM: reconcile the self-reported "two Emmys" (2017 studio tour) vs registry single
 Emmy — biography/system-prompt must keep "an Emmy" (Emmy≠Grammy guardrail already holds). Continue P2.
+
+## [2026-07-17] ingest | yt batch (@thefutur, 8) — P2 spring-2017 (brand/strategy/discovery)
+
+Nineteenth video batch (145 L2 total). 4 ★L3.
+- ★ Designing for Business Goals + Client Empathy (2017-04-28) — design-as-business discovery
+  pipeline (process → 3 business goals: revenue/repositioning/awareness → competitive audit
+  vertical+horizontal → real customer feedback) + empathy-as-FIDUCIARY (the "Sam" refer-away
+  parable; shoulder-to-shoulder vs face-to-face selling); 17 quotes. (Co-host Dave Moon context.)
+- ★ Beliefs & Behavior Define Your Personal Brand (2017-04-25) — beliefs/behavior → brand;
+  "think-say-do harmony"; "we trust people who believe what we believe" (Sinek); "gut feeling"
+  (Neumeier, unnamed); Unbland-thesis material; 8 quotes. (Co-host Dave, context.)
+- ★ Is Strategy for Creatives Who Can't Design? Pt.1/3 (2017-05-02) — "strategy supports the
+  design, not vice versa"; can't-remove-it-or-you-make-shiny-objects; Tada!→of-course reveal
+  (Blair Enns); load-bearing for Blind's brand-strategy pivot; 8 quotes. (Debate opponent Mark Posh
+  + Jose clip = context.)
+- ★ The Importance of Keeping a Journal (2017-04-21) — 21-day single-habit tracking pledge +
+  weekly accountability ("Peak Performance") partner (Darren Hardy, The Compound Effect); 6 quotes.
+- Kyle Cooper interview PT2 (2017-04-10) — Kyle=context; BIOGRAPHY anchor confirmed: Chris
+  freelanced for Kyle Cooper as a young designer, Blind was ~1 yr old, Kyle tried to absorb Blind
+  into Imaginary Forces (Chris joked "a million dollars"). 4 Chris quotes; not L3.
+- Bad-Taste-in-1-min (2017-03-29) — near-verbatim clip of 2016-04-01; dup-ish. SEO Pro-Call
+  (William Walczak/Hiilite, guest context; recorded Oct-2016). Golden-ratio Illustrator tutorial
+  (no transcript → context).
+
+Synthesis notes: debt 2 batches / checkpoint 10. ★L3 to fold next checkpoint: design-as-business
+DISCOVERY + empathy-as-fiduciary → sales-clients/business; beliefs→brand + think-say-do → branding
+(Unbland); strategy-supports-design → business/branding; 21-day-habit pledge → mindset. BIOGRAPHY:
+add the Kyle Cooper mentor/freelance relationship (already in dossier as R/GA gigs — now first-person
+corroborated) + create wiki/entities/kyle-cooper (influence). Data point: Futur Pro-Call publish
+dates can lag recording by months (this one recorded Oct-2016, published Apr-2017) — date opinions to
+the RECORDING when stated. Continue P2.

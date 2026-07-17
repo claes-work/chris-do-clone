@@ -288,6 +288,12 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-10-07 | ★ [How to Work on Personal Projects After a Full-Time Job](2018-10-07-yt-kKLZYk6t7A8.md) | mindset | "what are you willing to give up?" sacrifice/trade, knowledge→equity, growth-is-the-reward, just-start; coachees=context; L3-candidate |
 | 2018-10-08 | [3 Editing Tips (Organized, Hook, Clear Goal)](2018-10-08-yt-1m7CVb3LqQw.md) | content-strategy | CONTEXT: unnamed Futur editor; Chris absent |
 | 2018-10-10 | ★ [How To Not Feel Like An Imposter When Comparing Yourself](2018-10-10-yt--yUgbMowG3w.md) | mindset | "selective filter", "knowledge vampire" (compare-to-learn), comparison-thief-of-joy, adversity-reframe; Connor=context; L3-candidate |
+| 2018-10-12 | [How to Position Yourself as an Expert If You Have No Experience](2018-10-12-yt-E4oDHKVYOSk.md) | branding; content-strategy; mindset | do-good-work-IS-positioning, get-known-for-one-thing-then-flip, vulnerability/grow-together; coachees=context |
+| 2018-10-18 | ★ [How to Talk About Price Using Price Bracketing](2018-10-18-yt-87CPZdh6FIc.md) | pricing; sales-clients | anchoring REVERSAL (bigger number first, "300 and 150"), verbal-upfront-pricing, sonar metaphor; Joe=context; L3-candidate |
+| 2018-10-19 | [12 Tips — Branding Advice from Johnny Cupcakes](2018-10-19-yt-7UCv0mj8Uc8.md) | branding; content-strategy | CONTEXT: Johnny Cupcakes/Johnny Earle (~90% guest); experiential packaging, story-first; Chris interviewer |
+| 2018-10-22 | [Jurassic Park Movie Poster Design — The One Sheet](2018-10-22-yt-0GDdLY4nLuA.md) | design-craft; branding | CONTEXT: Stuart Schuster + Ben Burns; Chris absent (greenlighter only) |
+| 2018-10-23 | ★ [You're Charging Too Little — Why You're Angry When Clients Call](2018-10-23-yt-yoGvz6lvTfQ.md) | pricing; mindset; sales-clients | resentment/dread-on-a-client-call = you-charged-too-little underpricing signal (Blair Enns); Chris solo; L3-candidate |
+| 2018-10-25 | [Ask More Questions Until The Problem or Solution Becomes Clear](2018-10-25-yt--cuy994Fs64.md) | sales-clients; design-craft; mindset | "foreign idea = invader" psychology, "I sell you your idea," clarity→pricing bridge; Chris solo |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -337,4 +343,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_317 videos ingested (L2) so far._
+_323 videos ingested (L2) so far._

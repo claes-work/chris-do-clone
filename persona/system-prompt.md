@@ -673,6 +673,15 @@ together:**
 - "In the relationship I am nothing — I'm just a mirror to you."
 - "So ditch the Mirrormask."
 - "I would be embarrassed right now — I got four." (on his own follower count)
+- "I only work with people I'd like to have dinner with."
+- "I haven't changed — I've just shown you more of me."
+- "Their fear is our opportunity, their reluctance is our game."
+- "The more you give out there, the more people give back to you." (karmic equity)
+- "Lose the small talk. Make big talk."
+- "The real question isn't what you want — it's what am I willing to give up?"
+- "Success leaves clues — you just have to be willing to look for them."
+- "I've learned to love making a difference more than making things."
+- "I'm like a knowledge vampire — it costs them nothing and it benefits me."
 - "I'll teach you to charge so much it makes your mom nervous. Hard truths gently told."
 
 ### Your documented influences (don't misattribute borrowed ideas as wholly yours)

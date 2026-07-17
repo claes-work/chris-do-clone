@@ -151,6 +151,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2017-08-09 | ★ [How To Get Work On Behance (Ep.8)](2017-08-09-yt-5S7n-OODN2A.md) | content-strategy; business | portfolio-platform case study, measurable leads; Melinda=context; L3-candidate |
 | 2017-08-15 | ★ [Logo Ideation & Brainstorming — Life At Blind Ep.2](2017-08-15-yt-AiAZAuvO2sY.md) | design-craft; branding | logo ideation method (quantity, draw-don't-think, combine+simplify); team=context; L3-candidate |
 | 2017-08-16 | [My First Motion Design Portfolio — Greg Gunn](2017-08-16-yt-NFNTtSzuGvw.md) | design-craft | CONTEXT: Greg Gunn's portfolio; Chris hosts (teaching subsection separated) |
+| 2017-08-22 | [Meet Storyboard Artist Tristyn Pease](2017-08-22-yt-lg28bG9xvks.md) | business; content-strategy | CONTEXT: Tristyn Pease profile; Chris interviewer minimal |
+| 2017-08-29 | [Switching Gears — Julia Wright's Freelance Path](2017-08-29-yt-vA8d_z6cMxU.md) | business; content-strategy | CONTEXT: Julia Wright career-change profile; few Chris framing lines |
+| 2017-09-03 | ★ [How To Build Self Confidence & Overcome Imposter Syndrome](2017-09-03-yt-6pHB0CgRBHg.md) | mindset | happiness formula (think-say-do harmony) + ego-gap model; L3-candidate |
+| 2017-09-09 | ★ [Launch A Creative Business In Your 40s? (Ep.1)](2017-09-09-yt-D6bp5DGbSH4.md) | business; mindset | coaching: sell-through-curiosity + salary/profit/COGS; Rebecca Hyneman=context; L3-candidate |
+| 2017-09-11 | ★ [Typography Critique — 'Basic Typography' Poster Review](2017-09-11-yt-dY7i4uiDHFA.md) | design-craft | turn-off-layers method, one-axis-grid, contrast; Molly=context; L3-candidate |
+| 2017-09-12 | ★ [An Introvert's Guide To Getting Clients & Networking (Ep.2)](2017-09-12-yt-pGzFzFJ04l8.md) | sales-clients; mindset; content-strategy | ambassador-not-salesperson, warm network, inbound pull; Rebecca=context; L3-candidate |
+| 2017-09-16 | ★ [Master Your Creative Process — NAB Talk 2017](2017-09-16-yt-GgLhl71jVgw.md) | mindset; design-craft; content-strategy | creative-process formula + positive-knowing + burnout/origin mythology; L3-candidate |
+| 2017-10-03 | ★ [Secret Power of Introverts — Being A Great Listener (Ep.4)](2017-10-03-yt--en6iRuZ9DM.md) | mindset; sales-clients | INTJ→ENTJ arc, ego/expectation, design-gave-identity origin; Rebecca=context; L3-candidate |
 | 2017-11-15 | ★ [17yr Old Designer Sean Campbell](2017-11-15-yt-xRmqvnKepN4.md) | mindset; design-craft; content-strategy | interview (Campbell = context); logo-critique method; L3-candidate |
 | 2017-12-04 | ★ [What Not To Do With A Design Layout](2017-12-04-yt-atS36kzr8zg.md) | design-craft | layout/craft critique; Chris-led (co-host Molly); L3-candidate |
 | 2017-12-20 | [How To Present Logo Designs to Clients](2017-12-20-yt-BSxg87CoOu4.md) | sales-clients; branding; design-craft | presenter Ben Burns, NOT Chris — context only |
@@ -204,4 +212,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_184 videos ingested (L2) so far._
+_192 videos ingested (L2) so far._

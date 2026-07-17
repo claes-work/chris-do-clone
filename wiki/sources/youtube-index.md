@@ -212,10 +212,15 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-04-06 | [Conscious Capitalism & Working With Non-Profits](2018-04-06-yt-oAHxZeBUbXM.md) | business; mindset | panel w/ guest Matthew Manos (give-half=context); Chris: do-free-to-prove-yourself, value=dollar-quantified, brand-as-filter |
 | 2018-04-11 | [Framing Your Shot — Composition and Storytelling](2018-04-11-yt-YvK_8G4w25E.md) | design-craft; content-strategy | CONTEXT: non-Chris Futur instructor (motion/3D) tutorial; Chris absent |
 | 2018-04-14 | ★ [4 Tips To Grow As a Designer (Career Advice, 5 min)](2018-04-14-yt-52WYy8aESFs.md) | mindset; design-craft; content-strategy | a-path-not-the-right-path, inch-wide-mile-deep, design-dying/build-community, income-as-runway; Chris solo; L3-candidate |
+| 2018-04-18 | [Want To Raise Your Value? Solve Bigger Problems](2018-04-18-yt-CmqAJ4sILHo.md) | pricing; sales-clients; branding; mindset | reinforces value-ladder; self-label/"little box" + law-of-the-instrument; Chris solo |
+| 2018-04-21 | ★ [Learn Self Acceptance — Letting Go Of Ego](2018-04-21-yt-VCvebusD5Fo.md) | mindset | distinct "Mirrormask" metaphor + YouTube-origin discomfort story (hated own voice); Chris solo; L3-candidate |
 | 2018-04-24 | [MASTERMIND: Go Your Own Way (Ep.4)](2018-04-24-yt-gB7WZQNwsdE.md) | mindset | CONTEXT: ~100% Kier McLaren; Chris silent; Kier entity material |
 | 2018-05-06 | ★ [Believe In Yourself — Power of Self Confidence](2018-05-06-yt-0WQVRQ07WtE.md) | mindset; sales-clients | distinct mechanism: be-nothing/be-a-mirror, decouple confidence from credentials, credentials-as-crutches, remove-yourself-from-the-equation; Chris solo; L3-candidate |
 | 2018-05-08 | ★ [Pharma Package Design Challenge — Young Guns (Ep.3)](2018-05-08-yt-FDhK1R3GJzs.md) | design-craft; branding | Chris-led: "me too" design, shelf-presence via shape/color, aesthetic→demographic mapping, house-vs-name-brand; contestants=context; L3-candidate |
 | 2018-05-09 | [MASTERMIND: Look Inside Yourself (Ep.6)](2018-05-09-yt-ktGYhw7gmMY.md) | mindset; business | CONTEXT: ~100% Kier McLaren (inner-child exercise, hero's-journey); Chris silent; Kier entity material |
+| 2018-05-16 | [Packaging Design Challenge Process — Young Guns (Ep.4)](2018-05-16-yt-E7vJONz6HKg.md) | design-craft; branding | mostly contestant-narrated process=context; Chris host, critique deferred to Ep.5 |
+| 2018-05-19 | [Inspiring Main Title Design Legend — Karin Fong](2018-05-19-yt-D-i9yPcEW28.md) | design-craft | CONTEXT: Karin Fong interview (Imaginary Forces = influence); Chris interviewer; bio nugget: R/GA w/ Kyle Cooper |
+| 2018-05-22 | [Business of Design Crash Course w/ Rebecca (Ep.5)](2018-05-22-yt-SwsivXHY-cU.md) | business; pricing; sales-clients | delegation-margin, freelancer→owner, hire-better-than-you; Rebecca=context; restatement |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -265,4 +270,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_245 videos ingested (L2) so far._
+_250 videos ingested (L2) so far._

@@ -401,3 +401,34 @@ to topics/branding + persona/beliefs. Data point: early "The Process" episodes a
 and guest-heavy — per-video Chris novelty is lower in P2; keep filtering, promote sparingly.
 New context entities: Sue Parker, Mark Fidelman, Rocio (prev). Show naming history captured:
 "The Skool Live" → "The Process" (rebrand noted early 2015).
+
+## [2026-07-17] ingest | yt batch (@thefutur, 8) — P2 mid-2015 ("The Process")
+
+Eleventh video batch (83 L2 total). Mid-2015 P2 long-tail. 0 ★L3 (expected — restatements
+of already-captured frameworks, or Jose/guest-led). All Chris material still captured as L2.
+- W Hotel brand-messaging (solo Chris; brand experience > logo; 5 quotes), "Is Now a Good
+  Time to Be a Designer?" (solo Chris AMA; 18 quotes; career/mindset restatement), "Advice
+  for Young Designers" (artist-vs-designer, two-word brief filter; 15 quotes), 2 site
+  critiques (ImThatDesigner, recurring principles).
+- Jose-led (context, minimal Chris): UX Design 2 (user stories) + UX Design 3 (feature
+  prioritization) — the UX series is Jose's methodology.
+- Guest/context: "Unfiltered: Imin Pao" (guest monologue, no confirmable Chris speech →
+  context page, 0 Chris quotes); "Profitable Small Business Ideas" (clickbait title; actually
+  an AMA with Chris's business consultant KIER McLAREN — his teaching is context; 4 Chris
+  quotes). Kier McLaren recurs (also cited in the 2023 Selling source) — candidate entity.
+
+> ⚠️ FAMILY PRIVACY: the Kier McLaren AMA has Chris name his wife (his business partner).
+> Name REDACTED from the source page per SUBJECT.md; recorded only as "his wife / business
+> partner". (Second time a family name has surfaced on-camera — see the 2019 AIGA son-name
+> redaction and the wiki/gaps.md policy question.)
+
+Tooling note: added memory that `tools/ingest_batch.py` needs `PYTHONIOENCODING=utf-8` on this
+Windows box — a `►` in a 2015 title crashed the cp1252 stdout; re-running with UTF-8 fixed it.
+
+Self-reported datapoint surfaced: Blind revenue ~$2.4M (glass ceiling) → ~$4M in the first
+year with consultant Kier McLaren [self-reported].
+
+Synthesis notes: debt 3 batches / checkpoint 10. Nothing new to promote this batch (all
+restatement or non-Chris). Carrying forward the 2 prior-batch ★L3 (Trojan Storage workflow,
+WIN positioning Venn). New context entities: Kier McLaren (recurring consultant), Imin Pao,
+Sue Parker, Mark Fidelman. Continue P2 drain.

@@ -27,9 +27,17 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2015-05-23 | [Critiquing Your Design — Akin](2015-05-23-yt-AC_UlCfltDE.md) | design-craft | portfolio/site critique; recurring craft principles |
 | 2015-06-04 | [Multi-Camera Live Streaming Setup](2015-06-04-yt-deCS7nTkOlY.md) | content-strategy | technical/production tutorial — context only (0 Chris) |
 | 2015-06-19 | [Critiquing Your Design — Leigh O'Brien](2015-06-19-yt-HedbL5OC718.md) | design-craft | showreel/portfolio presentation critique |
+| 2015-06-25 | [Critiquing Your Design — ImThatDesigner](2015-06-25-yt-2iKAfok6waU.md) | design-craft | site/portfolio critique (Jose co-driven); recurring principles |
 | 2015-07-10 | [My (First) Design Portfolio](2015-07-10-yt-hqYIe5Y76oY.md) | design-craft; branding; business | Skool-era co-host (Chris+Jose); positioning/portfolio |
+| 2015-07-21 | [Brand Messaging — W Hotel](2015-07-21-yt-1LPz8GITlHY.md) | branding; business | brand experience > logo; solo Chris |
+| 2015-07-26 | [Is Now a Good Time To Be A Designer?](2015-07-26-yt-X0nFdnn5LCY.md) | mindset; business | solo Chris AMA; career/mindset restatement |
 | 2015-08-12 | [What is UX Design?](2015-08-12-yt-CJnfAXlBRTE.md) | design-craft; sales-clients; branding | Skool-era; mostly Jose-led UX process |
+| 2015-08-21 | [Design Advice For Young Designers](2015-08-21-yt-puvKF8gmXUM.md) | mindset; design-craft; business | artist-vs-designer, two-word brief filter |
 | 2015-08-22 | [UX Design 1: Site Audit](2015-08-22-yt-vSx2wayTk0g.md) | design-craft; sales-clients; branding | Skool-era; co-led w/ Jose |
+| 2015-08-23 | [Unfiltered: Imin Pao — Advertising Is Dead](2015-08-23-yt-ttnNuBzmy9c.md) | business; content-strategy | guest monologue (context); no confirmable Chris speech |
+| 2015-09-02 | [UX Design 2: User Stories](2015-09-02-yt-ZdUL0sCxiOw.md) | design-craft; sales-clients | Jose-led methodology (context) |
+| 2015-09-15 | [Business Consulting AMA — w/ Kier McLaren](2015-09-15-yt-F06ePJZEmK0.md) | business | consultant guest (context); 4 Chris quotes |
+| 2015-09-23 | [UX Design 3: Prioritize Features](2015-09-23-yt-kiEKBzZdI-c.md) | design-craft; sales-clients | Jose-led (context) |
 | 2015-10-08 | ★ [Pricing & Estimating Creative Design Jobs](2015-10-08-yt-wd0ejVP_g78.md) | pricing; business; sales-clients | Chris-led worked bid build-up; L3-candidate |
 | 2015-12-13 | ★ [Branding: Identity Design w/ Yo Santosa](2015-12-13-yt-mnSgHLBpOpw.md) | branding; design-craft; business; mindset | guest Yo Santosa; L3-candidate |
 | 2016-03-15 | [How To Tell A Great Story (5 tips)](2016-03-15-yt-UE3OufWmnMY.md) | content-strategy; branding; mindset | solo Chris vlog |
@@ -95,4 +103,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_75 videos ingested (L2) so far._
+_83 videos ingested (L2) so far._

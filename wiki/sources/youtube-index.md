@@ -182,6 +182,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-01-01 | [Why Being Bad Is Good For Art (3 min edit)](2018-01-01-yt-ScACW5YgiXs.md) | mindset; design-craft | CONTEXT: Chris absent; guest Jonah Loeb + host Mark Contreras |
 | 2018-01-10 | [Double Your Revenue — Grow Your Design Agency](2018-01-10-yt-QPKUN40ZjK8.md) | business; pricing; sales-clients | referral/low-hanging-fruit/order-of-ask coaching; coachees=context |
 | 2018-01-17 | [How Do You Learn Soft Skills? Learning How To Learn](2018-01-17-yt-NSgh1UVfKTU.md) | mindset | short clip; Socratic self-teaching heuristic; Cialdini ref |
+| 2018-01-18 | ★ [Why Some Designers Are More Valuable Than Others](2018-01-18-yt-o5iqEfJxJ7c.md) | sales-clients; pricing; branding; mindset | value-scale-of-questions (quantitative→qualitative→purpose), Discovery-as-paid-service (symptoms→cause onion); Chris solo; L3-candidate |
 | 2018-01-21 | ★ [Basic Steps On How To Get More Sales (Edit)](2018-01-21-yt-XL1Hb9ffcis.md) | sales-clients | VOICE BANK: amateurs-advise/experts-diagnose, paid-to-think-vs-make, know-trust-like; L3-candidate |
 | 2018-01-23 | ★ [How To Say NO To A Toxic Boss (Role Play)](2018-01-23-yt-sBNHvx8Vc6M.md) | sales-clients; mindset; pricing | boundary-setting voice, "charge more to do that"; Chris=employee, Greg=context; L3-candidate |
 | 2018-01-26 | [Wood Cut Effect w/ the Ai Pen Tool — Patrick Seymour](2018-01-26-yt-D9d56YM1i7U.md) | design-craft | CONTEXT: Patrick Seymour tutorial; Chris interviewer only |
@@ -202,10 +203,15 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-03-12 | [Future London Event Recap VLOG (day 2)](2018-03-12-yt-pabF-nu6bMo.md) | business; content-strategy; mindset | montage of familiar Futur themes; Chris to-camera; mostly logistics |
 | 2018-03-13 | [MASTERMIND: Break Rules, Take Risks (Ep.3)](2018-03-13-yt-v-dQZ7URtVc.md) | mindset; business | CONTEXT: ~100% Kier McLaren bio; Chris absent; Kier entity material |
 | 2018-03-16 | ★ [Dealing With Tough Clients Who Tell You What To Do (Role Play Ep.11)](2018-03-16-yt-fiCVUdEFtqc.md) | sales-clients; mindset | reassert expertise w/o arguing: disagree-not-disagreeable, embrace-then-pivot, doctor/diagnosis, brand-not-logo; Chris=designer, Melinda=context; L3-candidate |
+| 2018-03-21 | [Thrive As An In-House Designer — feat. Charli Marie](2018-03-21-yt-ORNW7oRVF_Q.md) | design-craft; business | CONTEXT: guest Charli Marie's in-house tips; Chris interviewer only |
 | 2018-03-23 | [How to Network Through Email or Direct Message](2018-03-23-yt-2Xs3371FdzA.md) | sales-clients; content-strategy | CONTEXT: presenter Matthew Encina (NOT Chris); no persona data |
 | 2018-03-24 | ★ [Designer Portfolio Reviews — Young Guns (Ep.2)](2018-03-24-yt-z8BuocNq1Po.md) | design-craft; branding; content-strategy | Chris-confirmed reviewer: 4-category rubric (social/presentation/clarity/personality, 1–5), "super stacking," engagement-math; Emily+designers=context; L3-candidate |
 | 2018-03-26 | [How to Find Clients that Value Design](2018-03-26-yt-w_TYQQIagwc.md) | sales-clients; branding; business | CONTEXT: Ben Burns interviews Ran Segall/Flux; Chris absent |
+| 2018-03-30 | [Humility vs. Self Confidence — Edinburgh Whitespace VLOG](2018-03-30-yt-KM0trenddH8.md) | mindset | event vlog fragments; Jim Rohn major/minor, no-victims-just-volunteers; attribution uncertain |
 | 2018-04-04 | ★ [Respond to Price Buyers / Low-Budget Clients (Role Play)](2018-04-04-yt--C01FC27Jg0.md) | sales-clients; pricing; business | price-buyer negotiation script; L3-candidate |
+| 2018-04-06 | [Conscious Capitalism & Working With Non-Profits](2018-04-06-yt-oAHxZeBUbXM.md) | business; mindset | panel w/ guest Matthew Manos (give-half=context); Chris: do-free-to-prove-yourself, value=dollar-quantified, brand-as-filter |
+| 2018-04-11 | [Framing Your Shot — Composition and Storytelling](2018-04-11-yt-YvK_8G4w25E.md) | design-craft; content-strategy | CONTEXT: non-Chris Futur instructor (motion/3D) tutorial; Chris absent |
+| 2018-04-14 | ★ [4 Tips To Grow As a Designer (Career Advice, 5 min)](2018-04-14-yt-52WYy8aESFs.md) | mindset; design-craft; content-strategy | a-path-not-the-right-path, inch-wide-mile-deep, design-dying/build-community, income-as-runway; Chris solo; L3-candidate |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -255,4 +261,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_235 videos ingested (L2) so far._
+_241 videos ingested (L2) so far._

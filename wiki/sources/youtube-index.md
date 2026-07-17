@@ -48,7 +48,15 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2016-01-26 | [Books To Read to Learn UX](2016-01-26-yt-_Kx1i2Q__V8.md) | design-craft | not Chris on camera (likely Jose); context |
 | 2016-02-18 | [Vlog Travel Camera Setup](2016-02-18-yt-76TtlDL6yE8.md) | content-strategy | gear tutorial — context only (0 Chris) |
 | 2016-02-24 | [3 Tips on Starting Your Own Design Agency](2016-02-24-yt-4ZeNq6s_aX4.md) | business | market-one-thing / make-vs-manage |
+| 2016-03-08 | ★ [Client Red Flags and Warning Signs](2016-03-08-yt-7IwTua4AaRY.md) | sales-clients; business | good/bad-client archetypes; resentment=underpricing; L3-candidate |
 | 2016-03-15 | [How To Tell A Great Story (5 tips)](2016-03-15-yt-UE3OufWmnMY.md) | content-strategy; branding; mindset | solo Chris vlog |
+| 2016-03-18 | [UX Content Strategy — w/ Karen McGrane](2016-03-18-yt-tlskof89nUw.md) | content-strategy; design-craft | guest (McGrane = context); Chris hosts |
+| 2016-03-23 | ★ [Break Out of Your Comfort Zone](2016-03-23-yt-013Zjz5P9gM.md) | mindset; business | integrity credo + escape-velocity; solo vlog; L3-candidate |
+| 2016-04-01 | ★ [Stay Motivated + Clients With Bad Taste](2016-04-01-yt-03lX4hn7tJ0.md) | mindset; sales-clients | subjective→objective measures; diagnose; refund-and-refer; L3-candidate |
+| 2016-04-19 | [Am I An Entrepreneur?](2016-04-19-yt-gJYXbEswynI.md) | business; mindset | guest-founder interview (context) |
+| 2016-04-30 | ★ [Big Client Meeting: Sell Large Digital Projects](2016-04-30-yt-FU63Tv3FiKo.md) | sales-clients; business; pricing | big-meeting selling framework (role-play); L3-candidate |
+| 2016-05-14 | [Conversion Optimization Funnel (CRO)](2016-05-14-yt-a6NDggNvspU.md) | content-strategy; business | guest-led (Alan Martinez); 3 Chris quotes |
+| 2016-05-20 | [How to Get a Graphic Design Job in LA](2016-05-20-yt-NnRgT4vRylQ.md) | business; design-craft; content-strategy | hiring/career; intl-designer angle |
 | 2016-07-08 | ★ [Typography Design & Art Direction](2016-07-08-yt-DLeSPCTA9Wg.md) | design-craft | Chris-led masterclass; L3-candidate |
 | 2016-07-16 | [Design Theory: Dynamic Compositions](2016-07-16-yt-z4HjltaEV2E.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2016-10-22 | ★ [Pricing Design Work & Creativity (The Guide)](2016-10-22-yt-RKXZ7t_RiOE.md) | pricing; business; sales-clients | value-based pricing doctrine; Chris-led; L3-candidate |
@@ -111,4 +119,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_91 videos ingested (L2) so far._
+_99 videos ingested (L2) so far._

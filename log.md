@@ -461,3 +461,30 @@ of the objection-handling frameworks already in the hub — add an "origins/evol
 Also client-relationship ("happy ears", ask-why-3x, shut-up-when-yes) and career-positioning
 ("resume is dead", direct outreach) are promotable. Carrying: Trojan Storage workflow + WIN
 Venn (prev batch). Documented framework-attribution nuance: CORE = Jose's, Chris adapts it.
+
+## [2026-07-17] ingest | yt batch (@thefutur, 8) — P2 spring-2016 ("The Process")
+
+Thirteenth video batch (99 L2 total). 8 → L2. 4 ★L3.
+- ★ Client Red Flags & Warning Signs (2016-03-08) — a named taxonomy of good vs bad client
+  archetypes (Squirrel/Trump/micromanager/blamer... vs Zen-CEO/trust-the-expert/servant-leader)
+  + gut-instinct screen + "resentment = underpricing → charge more"; 14 quotes.
+- ★ Break Out of Your Comfort Zone (2016-03-23) — solo vlog; integrity credo ("all I have is
+  my balls and my word") + rocket/escape-velocity momentum metaphor + serendipity story; 8 quotes.
+- ★ Stay Motivated + Clients With Bad Taste (2016-04-01) — bad-taste-client MOVE: reframe taste
+  as subjective → replace with client-agreed OBJECTIVE measures (deadline/budget/message/audience)
+  → diagnose WITH the client → refund-and-refer if misaligned; + Blair Enns "diagnose before
+  prescribing"; 14 quotes.
+- ★ Big Client Meeting: Sell Large Digital Projects (2016-04-30) — role-play; big-meeting selling
+  framework (listen+write, elicit each stakeholder's top-3 objections, mirror-to-validate, split
+  problem from scope/cost, land paid discovery, clean walk-away); 9 quotes.
+- Context/guest: Karen McGrane (UX content-strategy guest; Chris hosts; 3 Chris quotes), CRO
+  Funnel (guest Alan Martinez/Noble Digital-led; 3 Chris quotes), Am I An Entrepreneur (guest-
+  founder interview). Get a Design Job in LA (18 quotes but overlaps existing hiring/career).
+
+Synthesis notes: debt 5 batches / checkpoint 10 (halfway). ★L3 backlog for the next checkpoint
+keeps growing on SALES-CLIENTS especially — this batch adds client-SCREENING (red-flag archetypes,
+resentment=underpricing), the bad-taste-client objective-measures move, and the big-client-meeting
+framework; MINDSET gains the integrity credo + escape-velocity. Combined with the prior batches'
+Embrace-and-Pivot, happy-ears, Trojan Storage workflow, and WIN Venn, the next Stage S should
+meaningfully deepen topics/sales-clients + topics/mindset + topics/branding. New context entities:
+Karen McGrane, Alan Martinez (Noble Digital). Continue P2.

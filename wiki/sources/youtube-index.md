@@ -638,6 +638,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2022-12-01 | ★ [How to Craft a Story Brand That People Remember](2022-12-01-yt-v8rfMt87Lb8.md) | branding; content-strategy; mindset | Chris solo; personal-brand story template (origin/defining-moment/transformed + villains); Spider-Man/Campbell lens; L3-candidate |
 | 2022-12-08 | ★ [5 Sales Skills & Tips To Close More Sales](2022-12-08-yt-2sf54bS99D8.md) | sales-clients | Chris solo; 5 sales skills; NEW = tone of voice (Chris Voss "late-night FM DJ voice"); #1-4 restate; L3-candidate |
 | 2022-12-12 | [What To Do When People Say 'I Can't Afford You'](2022-12-12-yt--kPkQX8cX50.md) | pricing; sales-clients | ⚠️ UNVERIFIED, likely NOT Chris (funnel-CTA for creative agencies); objection already covered; context/do-not-train |
+| 2022-12-19 | [Marketing Vs. Advertising — Email Marketing Strategy](2022-12-19-yt-Q9Ze8KJtbVI.md) | content-strategy; sales-clients; branding | Chris solo; Godin permission-marketing restatement (value-before-ask, love-to-buy-hate-to-be-sold); not new framework |
+| 2022-12-20 | [Using Customer Feedback To Build A Better Business](2022-12-20-yt-RS8Mc0QWswc.md) | business; content-strategy | ⚠️ guest John D. Saunders (5Four/Black Illustrations) = context; Chris only interjects; do-not-train |
+| 2022-12-21 | [How To Get Better Clients That Pay You More](2022-12-21-yt-pwyilOrVen4.md) | sales-clients; pricing | Chris coaching; NEW = goal-setting front-end to client selection ("make better wishes"); rest restates; light L3 |
+| 2023-01-03 | [Twitter Growth Hack Strategy 2023](2023-01-03-yt-eBNMhkDrxcY.md) | content-strategy | ⚠️ guest ghostwriter (likely Dakota Robertson); Chris interviewer only; context/do-not-train |
+| 2023-01-05 | [You Are Not Selling A Commodity, You Just Lack Imagination](2023-01-05-yt-ZpNYtq0IZIY.md) | branding; pricing; sales-clients | Chris (Adobe Max keynote); commodity-vs-differentiation (reinforces F29); ⚠️ title line is Ron Baker's (credited); lettuce→Puck illustrations |
+| 2023-01-09 | [4 Steps To Grow Your Twitter Following (w/ Dakota Robertson)](2023-01-09-yt-kQTk9LoPJFY.md) | content-strategy | ⚠️ Dakota Robertson guest = context/do-not-train; Chris host only |
+| 2023-01-10 | ★ [Hire Better: Ask This One Question](2023-01-10-yt-85vZjyKzGdw.md) | business; mindset | Chris; the HOW behind hire-for-values — ~5 no-right-answer "Scruples" ethics scenarios scored 1-10 for management hires; L3-candidate |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -687,4 +694,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_667 videos ingested (L2) so far._
+_674 videos ingested (L2) so far._

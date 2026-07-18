@@ -590,6 +590,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2022-07-12 | ★ [When Should You Change Careers?](2022-07-12-yt-2vvVWJlY-0E.md) | mindset; content-strategy; business | Chris; 3-stage career-pivot origin (commercials→branding→education, "exchanged one master for another"), "canary in the coal mine" non-attachment; L3-candidate |
 | 2022-07-14 | [Public Speaking Tip For Introverts](2022-07-14-yt-_dkGyynJaX0.md) | mindset; content-strategy | ⚠️ guest storytelling coach delivers the tip (context); Chris self-IDs introvert but reaffirms existing material; fence |
 | 2022-07-15 | ★ [How To Charge For Design Thinking](2022-07-15-yt-VSDT8VmzzHI.md) | pricing; business | Chris solo; hard price anchors ($50k/2wk, $150k/8-10wk = research+workshop+strategy); unbundle prep/workshop/reporting; L3-candidate |
+| 2022-07-17 | ★ [Overcome Your Fear of Sales — Reframe 'Sell' To 'Help'](2022-07-17-yt-4-C7IPMao1g.md) | sales-clients; mindset | Chris; erase "sell" → "help"; trust = the currency, every action fills/drains a "bucket of trust"; helping can mean declining/referring; L3-candidate (light) |
+| 2022-07-18 | [How To Close More Deals](2022-07-18-yt-7lELTWI2PoQ.md) | sales-clients | ⚠️ NOT Chris — course-promo trailer, Ocean Design founder (guest); no closing tactic; context/do-not-train |
+| 2022-07-19 | [Stories Need This One Thing](2022-07-19-yt-uQqkZFn1xpg.md) | content-strategy | ⚠️ NOT Chris — Kindra Hall clip (emotion, small/everyday not trauma); Chris interviewer only; context/do-not-train |
+| 2022-07-21 | ★ [How To Tell A Great Story (w/ Kindra Hall)](2022-07-21-yt-IRrecMyTDgE.md) | content-strategy; sales-clients; mindset | Kindra Hall = context; Chris's OWN storytelling pedagogy trains — "normal→explosion→new normal" arc, everyday-conflict reframe, dialogue+sensory+struggle checklist; L3-candidate |
+| 2022-07-26 | [Consistent Content Leads To Consistent Growth](2022-07-26-yt-K0OYp2Drupg.md) | content-strategy; branding | ⚠️ NOT Chris — Daniel Priestley clip (prolific-beats-perfect, Dunbar 7hrs/11-touchpoints); context/do-not-train |
+| 2022-07-28 | [Is Having a Personal Brand & Building Influence Important?](2022-07-28-yt-WxWjt6_-waY.md) | branding; content-strategy | ⚠️ NOT Chris — Daniel Priestley clip (5 Ps, functionality-vs-vitality, Eiffel-Tower ecosystem); context/do-not-train |
+| 2022-08-02 | [Personal Branding Masterclass (w/ Daniel Priestley)](2022-08-02-yt-zafDOeWNAxg.md) | branding; business; content-strategy | ⚠️ ~90% Daniel Priestley (context/do-not-train); Chris trains only on Socratic method + anti-funnels + NEW: Futur's own 40Q scorecard (Ben Burns) |
+| 2022-08-04 | [Quality vs Quantity on YouTube (Brendan Kane)](2022-08-04-yt-0kVR17hqLSo.md) | content-strategy; business | ⚠️ NOT Chris — Brendan Kane (Hookpoint) guest; Chris reframes as "facts/fun/feelings" (not new); context/do-not-train |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -639,4 +647,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_619 videos ingested (L2) so far._
+_627 videos ingested (L2) so far._

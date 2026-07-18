@@ -652,6 +652,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-01-31 | ★ [$3.6M Idea Over Dinner — Time To Execute](2023-01-31-yt-nruy_Il03Bw.md) | business; mindset | Chris story; unpaid Eric Siu talk → Beverly Hills dinner w/ Hormozi & founders; manifestation/big-solutions mindset; "Sam" mastermind model = context; L3-candidate |
 | 2023-02-09 | [Master THIS To Get More Customers (Masterclass 1/5)](2023-02-09-yt-UipGxBdYdVA.md) | sales-clients; mindset; pricing | Chris teaches (host Mo = team); buying-psychology + FOCUS acronym; restatement, no new framework |
 | 2023-02-10 | [Why You Should Always Bet on Yourself](2023-02-10-yt-rrn1evbEBb8.md) | mindset; branding; business | ⚠️ guest Vince Labon (Roley/Rolly Nation) = context; Chris reframes restate; bio: taught private arts school ~$22k/sem |
+| 2023-02-12 | [Super Bowl Halftime: Work In Exchange For Exposure](2023-02-12-yt-29bjanWPthk.md) | pricing; sales-clients; mindset | ⚠️ Futur video-essay, narrator unverified; restates exposure-is-an-act/free-work; context |
+| 2023-02-13 | [Feel the Pain](2023-02-13-yt-uWX2g0QplSg.md) | mindset; sales-clients | Chris solo; pain × outcome-clarity drives action; sell the cost-of-inaction; "why not do nothing?" diagnostic; light-promote |
+| 2023-02-14 | [This Sales Method Will Make You $1M](2023-02-14-yt-7RNL_PUPdYE.md) | sales-clients; mindset | Chris solo; serve-don't-sell + give-value-5yr (Hormozi goodwill-bank) + "unsell yourself"; reinforces §1/§10/§12; bio: split w/ selling-obsessed partner |
+| 2023-02-23 | [How To Price Your Services To Make More Money & Give More Value](2023-02-23-yt-qfA0RkYube8.md) | pricing | Chris (Mo co-host); value-based pricing restated; labor-theory-of-value critique, price-as-signal, Goldilocks 3-options; light-promote for §5 |
+| 2023-02-27 | [How to Start A Career In Design: Tips for Beginners](2023-02-27-yt-h30LgLeOx2E.md) | mindset; design-craft; content-strategy; business | Chris solo; escape freelance marketplaces via radical specialization ("comic logo boy"), project fees; restates specialize-externally |
+| 2023-03-01 | [How To Scale Your Creative Agency To A $1M Business](2023-03-01-yt-ralyeTQyrMo.md) | business | ⚠️ NOT Chris — guest presenter (EOS/Priestley scaling promo); context/do-not-train |
+| 2023-03-02 | [Quit Lying Saying You Create Brand Identities](2023-03-02-yt-IOGkznjRKUI.md) | branding; design-craft; mindset | Chris (confirmed); blunt restatement brand≠identity (real branding needs copy/strategy/positioning/product/UX); reinforces F1/24/29/30/32 |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -701,4 +708,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_681 videos ingested (L2) so far._
+_688 videos ingested (L2) so far._

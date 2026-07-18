@@ -455,6 +455,11 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2020-04-29 | [Getting Paid To Think w/ David C. Baker](2020-04-29-yt-HNoLn3rapK4.md) | pricing; business | ⚠️ CORRUPTED/mismatched auto-captions (word-salad) — David C. Baker interview, transcript unusable; placeholder only, needs re-fetch/Whisper |
 | 2020-06-08 | ★ [Make A Case Study That Gets Client Work](2020-06-08-yt-31Uc5TA8ntA.md) | content-strategy; design-craft; sales-clients | Chris: the "capabilities deck" (pre-proposal artifact); case-study "secret formula" (title → visuals → summary → body; summary = mission → outcome → measurable impact); StoryBrand client=hero/you=guide; "capture the middle" process visuals; L3-candidate |
 | 2020-06-15 | [Six Tips to Help You Get Hired Out of Design School](2020-06-15-yt-CvUPNobpqZ4.md) | branding; sales-clients; business | ★ (partial) Chris (3 of 6 tips): market to ≤10 target companies "FBI style", LinkedIn reciprocity (block ask-first outreach), work anywhere (<15% of clients met face-to-face in 24 yrs), "show what you want to be hired for"; Ricky/Charlie/Encina=context |
+| 2020-05-28 | ★ [Why Working Harder Isn't Getting You Closer To Your Goals](2020-05-28-yt-UtDiO5lH-kE.md) | mindset; business | Chris coaches Ricky: "every yes is a no" (opportunity cost); Parkinson's Law; the "two intentions" choice (get the job done vs feel good/be right); memento-mori; judge effort by RESULTS not hours; Ricky=context; L3-candidate |
+| 2020-06-16 | [How Much To Charge As A Freelancer](2020-06-16-yt-bcrO04jp9fk.md) | pricing; business | 3 billing models, junior/mid/senior ladder, Joey Korenman hiring slide (rate = least important); ⚠️ Matthew Encina (self-ID host), NOT Chris — Futur context only, does NOT train persona |
+| 2020-06-18 | [Your Client Needs You More Than You Need Them](2020-06-18-yt-RPbrWeBLk1c.md) | mindset; sales-clients | "you are the prize" abundance reframe + a "drop the story, focus on the feeling" emotional protocol; ⚠️ unnamed guest + uncertain host (Encina outro) — does NOT train persona pending verification |
+| 2020-06-19 | [How To Talk To Clients That Use Abstract & Unclear Language](2020-06-19-yt--XclqJI_ix0.md) | sales-clients; design-craft | decode "bait words" one attribute at a time + mood-board gut-check; ⚠️ Matthew Encina (interviewing "Ben"), NOT Chris — does NOT train persona |
+| 2020-06-22 | [How To Talk About Budget w/ Cynthia Kane](2020-06-22-yt-f7-VV06V8uY.md) | sales-clients; mindset | raise budget issues early-and-small, laundry-pile-up metaphor, proactive over-budget script; ⚠️ guest Cynthia Kane's doctrine (kept out of Chris's ask-budget-first lane) — does NOT train persona; cynthia-kane entity candidate |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -504,4 +509,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_484 videos ingested (L2) so far._
+_489 videos ingested (L2) so far._

@@ -533,6 +533,12 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2021-05-11 | ★ [Closing A $10k Client That Is Reluctant (Clubhouse)](2021-05-11-yt-2nVPJDelYNc.md) | sales-clients; pricing; mindset | Full reluctant-buyer close: specify $102k goal → surface objections → 4×$2500 plan (final deferred) → 6mo hit-$51k-or-refund guarantee; canonical worked close; L3-candidate |
 | 2021-05-13 | ★ [Three Story Telling Tips (Story Formula)](2021-05-13-yt-AzrL1TOPS54.md) | content-strategy; branding; mindset | Chris solo; story formula (personal + emotional + one takeaway = "golden formula"); start-with-the-point then edit ruthlessly; Greg Gunn outro = context; L3-candidate |
 | 2021-05-20 | [Selling Through Curiosity & How Not To Be Salesy](2021-05-20-yt--GtoKCIX_7c.md) | sales-clients; pricing | ⟳ dup-of 2019-04-12 (republished AIGA-2019 webcomps role-play); reinforces sell-through-curiosity, nothing new |
+| 2021-05-27 | [Small Goals Get Big Results](2021-05-27-yt-vzQCmZ7Hd5w.md) | mindset | Chris solo; small-goals via Nike "just to the mailbox" mile-marker ad, memento-mori; Greg Gunn outro = context; dup of mindset small-goals |
+| 2021-06-01 | [Masterclass In Talking About Budget (w/ Blair Enns)](2021-06-01-yt-JeJMBCbHs_k.md) | pricing; sales-clients; mindset | ⚠️ Blair Enns owns the frameworks (MLE, $50k-hurdle, Blairtopia, Drucker risk) = context; Chris only frames + "money is a primary early objective" |
+| 2021-06-03 | ★ [Get More LinkedIn Post Engagement — 3 Examples](2021-06-03-yt-nw0_NLhgy90.md) | content-strategy; branding | Chris solo; critiques 3 Pro-group LinkedIn posts; conflict+lesson story rubric + tactics (400-char, hook first 1.5 lines, daily, 5-senses, image+words); L3-candidate |
+| 2021-06-08 | ★ [How To Reframe and Silence Your Critical Inner Voice](2021-06-08-yt-IzVqGQdaM0c.md) | mindset | Small-group coaching; reframe "I could be doing more" as judgement; "I'm Tylenol", "judo flip" your emotion, "don't be an askhole", earn-not-deserve; L3-candidate |
+| 2021-06-10 | [8 Client Objection Responses in 8 Minutes (Lightning Round)](2021-06-10-yt-Lr9kMxm6CYY.md) | sales-clients; pricing; business | Role-play (Chris=designer, Mo=client); live demo of the existing Objection-Response-Deck (8 objections); strong voice data, not new framework |
+| 2021-06-15 | [Planning a Personal Website: Does My Portfolio Matter?](2021-06-15-yt-qFIR-DJxvlw.md) | content-strategy; branding; design-craft | ⚠️ NOT Chris — host Ben Burns + guests Michael Janda & Matthew Encina (context/do-not-train); reinforces portfolio theme, no Chris content |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -582,4 +588,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_562 videos ingested (L2) so far._
+_568 videos ingested (L2) so far._

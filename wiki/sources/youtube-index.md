@@ -514,6 +514,11 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2021-02-20 | ★ [Boost Your Productivity With This Time Management Exercise](2021-02-20-yt-WzHEgLf49aE.md) | mindset; business | Chris solo; Post-it time-audit exercise; "time is money literally", "don't major in the minors" (Rohn), "don't die living someone else's dream" (Bronnie Ware); L3-candidate |
 | 2021-02-23 | ★ [Running A Profitable Business (In 11 Minutes)](2021-02-23-yt-zM2fB-Q8T7g.md) | business; pricing; mindset | Chris solo; cost vs price vs value triad; "seller sets price, buyer sets value"; profit compensates risk (Drucker); hourly = break-even; L3-candidate |
 | 2021-03-03 | ★ [How To Talk About Money — Pricing Design Breakdown](2021-03-03-yt-LliPPJo5lHE.md) | pricing; sales-clients; business | Chris solo breakdown of Dan Mall's *Pricing Design*; risk-based sliding scale ($40k vs $300k), reframe "budget"→"money", 8-question discovery, "every dollar returns 10x"; L3-candidate |
+| 2021-03-09 | ★ [How To Respond When The Client Just Wants It Cheaply](2021-03-09-yt-_go6fUnF_QE.md) | sales-clients; pricing; mindset | Role-play (Chris vs Mo=client/context); diagnosis-before-prescription, three-options, NVC/let-client-concede, one-off→campaign, "principles > scripts"; L3-candidate |
+| 2021-03-12 | ★ [What To Do When Clients Ruin Your Work After Delivery](2021-03-12-yt-Ii_WWDxmqy4.md) | sales-clients; mindset; design-craft | Clubhouse; ownership-follows-payment + gift/non-attachment ("they've stopped paying you to care"), feel-it-don't-express-it, 3-month check-in; L3-candidate |
+| 2021-03-30 | ★ [How To Deal With Difficult Clients Instead of Firing Them](2021-03-30-yt-B2Vw6IUriTo.md) | sales-clients; mindset | Pro Group; reframe firing into 5 OPTIONS (fire/adult-conversation+boundaries/swallow/offshore/embed-PM); root-cause=timelines&expectations; L3-candidate |
+| 2021-04-01 | [Why You Must Raise Your Price (Clubhouse w/ Blair Enns)](2021-04-01-yt-sfyHSbfUCrQ.md) | pricing; business; mindset | Clubhouse WWP-XI; ⚠️ MOST pricing doctrine is **Blair Enns**' (context); Chris trains only on charge-more-as-impact-grows + kill-change-orders |
+| 2021-04-06 | [How To Run A Creative Business (Whiteboard)](2021-04-06-yt-FPPiVT_Ysr4.md) | business; pricing | Chris solo; working on-vs-in, handoff-tax 2x markup, effective-rate vs cost-to-hire, position-closest-to-buyer, walk-away=pricing power; restates business hub |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -563,4 +568,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_543 videos ingested (L2) so far._
+_548 videos ingested (L2) so far._

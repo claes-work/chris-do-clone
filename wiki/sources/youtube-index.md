@@ -645,6 +645,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-01-05 | [You Are Not Selling A Commodity, You Just Lack Imagination](2023-01-05-yt-ZpNYtq0IZIY.md) | branding; pricing; sales-clients | Chris (Adobe Max keynote); commodity-vs-differentiation (reinforces F29); ⚠️ title line is Ron Baker's (credited); lettuce→Puck illustrations |
 | 2023-01-09 | [4 Steps To Grow Your Twitter Following (w/ Dakota Robertson)](2023-01-09-yt-kQTk9LoPJFY.md) | content-strategy | ⚠️ Dakota Robertson guest = context/do-not-train; Chris host only |
 | 2023-01-10 | ★ [Hire Better: Ask This One Question](2023-01-10-yt-85vZjyKzGdw.md) | business; mindset | Chris; the HOW behind hire-for-values — ~5 no-right-answer "Scruples" ethics scenarios scored 1-10 for management hires; L3-candidate |
+| 2023-01-17 | [Build A Bigger Following On Social Media (w/ Dakota Robertson)](2023-01-17-yt-K2j_lN6PdjU.md) | content-strategy; mindset | ⚠️ Dakota Robertson guest = context; Chris trains only interviewing craft + framing asides |
+| 2023-01-20 | [The Creator's Blueprint for Building a Brand](2023-01-20-yt-bkZ_xujsENM.md) | branding; content-strategy; mindset | Guest Alex Antolino (context); Chris co-host adds creator-partnering rules; bio: Futur 2.02M subs (Jan 2023) |
+| 2023-01-24 | ★ [How to Script a YouTube Video That Keeps 'Em Hooked](2023-01-24-yt-Yv8lpauoBYo.md) | content-strategy | Chris solo; scripting framework — "storytelling is delaying" + 30-sec hook + soft/hard CTA discipline; L3-candidate |
+| 2023-01-26 | [How to Get Paid More & Reduce Competition — Niche!](2023-01-26-yt-D5-iOFia6h4.md) | branding; pricing; sales-clients | Chris solo niching lecture; mostly dup of specialize-externally (F27-29/F34); "symmetry of logic" phrasing new |
+| 2023-01-31 | ★ [$3.6M Idea Over Dinner — Time To Execute](2023-01-31-yt-nruy_Il03Bw.md) | business; mindset | Chris story; unpaid Eric Siu talk → Beverly Hills dinner w/ Hormozi & founders; manifestation/big-solutions mindset; "Sam" mastermind model = context; L3-candidate |
+| 2023-02-09 | [Master THIS To Get More Customers (Masterclass 1/5)](2023-02-09-yt-UipGxBdYdVA.md) | sales-clients; mindset; pricing | Chris teaches (host Mo = team); buying-psychology + FOCUS acronym; restatement, no new framework |
+| 2023-02-10 | [Why You Should Always Bet on Yourself](2023-02-10-yt-rrn1evbEBb8.md) | mindset; branding; business | ⚠️ guest Vince Labon (Roley/Rolly Nation) = context; Chris reframes restate; bio: taught private arts school ~$22k/sem |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -694,4 +701,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_674 videos ingested (L2) so far._
+_681 videos ingested (L2) so far._

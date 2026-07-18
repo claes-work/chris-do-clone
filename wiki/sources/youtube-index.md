@@ -613,7 +613,15 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2022-09-27 | [The Longer You Wait, The Less Opportunity (w/ Sean Cannell)](2022-09-27-yt-Nr7sVF6Lc7Y.md) | content-strategy; mindset | ⚠️ ~95% Sean Cannell (Think Media) = context/do-not-train; Chris host prompts only |
 | 2022-09-29 | [If You're Scared To Spend, You'll Never Profit (w/ Sean Cannell)](2022-09-29-yt-qCZq6N6W9SE.md) | business; mindset | ⚠️ ~95% Sean Cannell = context/do-not-train; Chris interviewer only |
 | 2022-10-03 | [Easy Way To Market Yourself To Win More Clients](2022-10-03-yt-Lhseljh_mnw.md) | content-strategy; sales-clients | ⚠️ NOT Chris — unidentified British guest presenter (symptoms-not-solutions, AIDA); context/do-not-train |
-| 2022-10-04 | [Risk Is Part Of Success Formula](2022-10-04-yt-oR_XG5Ju_W4.md) | mindset; business | ⚠️ NOT Chris — guest videographer (risk/self-belief/$20k-day-rate); context/do-not-train |
+| 2022-10-04 | [Risk Is Part Of Success Formula](2022-10-04-yt-oR_XG5Ju_W4.md) | mindset; business | ⚠️ NOT Chris — guest videographer Chris Franklin (risk/self-belief/$20k-day-rate); context/do-not-train |
+| 2022-10-06 | [3 Lessons Learned From A Failed Business Partnership](2022-10-06-yt-S6WLkgPlssk.md) | business; mindset | ⚠️ NOT Chris's partnership — guest (also named Chris) tells his own story; Chris Do coaches; do NOT merge into Chris's biography |
+| 2022-10-10 | ★ [Selling: Why You Aren't Closing Any Clients](2022-10-10-yt-QHSGKo1XKyM.md) | sales-clients; mindset | Chris coaching Phil; belief-first diagnosis — why-you're-not-closing is a BELIEF problem not tactics (belief→feeling→action→result); L3-candidate |
+| 2022-10-11 | [Starting a Creative Business: Real Talk (w/ Chris Franklin)](2022-10-11-yt-lBEtIMqHykY.md) | business; mindset; pricing; sales-clients | Chris DO host (trains) + Chris FRANKLIN guest (context) — 2 Chrises; Chris Do coaching (anchoring/silence, closing-the-gap, 30% rule); mostly restatement |
+| 2022-10-12 | [Three Critical Steps To Learning](2022-10-12-yt-HLIdlToUMJw.md) | mindset; design-craft; content-strategy | Chris solo; reflect/implement/share; output > input; "illusion of knowledge"; cleaner articulation of learn-by-modeling |
+| 2022-10-13 | [Think Media's $1M Branding Bet To Get Gary Vee](2022-10-13-yt-C3WN_1Vs45M.md) | branding; content-strategy; mindset | ⚠️ Sean Cannell guest (GaryVee ~$915k event) = context; Chris trains only steady-vs-big-bet risk stance + "focus" |
+| 2022-10-18 | [What's Your Incentive For Copywriting?](2022-10-18-yt-IE48mhwUJH8.md) | content-strategy; branding; business | ⚠️ guest copywriter (likely Neville Medhora) = context; Chris trains only ad-agency background |
+| 2022-10-20 | [Using Social Media Trends To Write Better](2022-10-20-yt-V28lNZWLbCA.md) | content-strategy | ⚠️ NOT Chris — Neville Medhora clip (AAA test, sender-reputation); Chris interviewer only; context/do-not-train |
+| 2022-10-25 | [Write Better Copy For Conversions (Masterclass w/ Neville Medhora)](2022-10-25-yt-oCrPS-g8kmQ.md) | content-strategy; business | ⚠️ Neville Medhora masterclass = context; Chris trains only live-audio advocacy + Pro Group growth (300→670) |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -663,4 +671,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_643 videos ingested (L2) so far._
+_651 videos ingested (L2) so far._

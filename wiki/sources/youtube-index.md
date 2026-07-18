@@ -574,6 +574,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2022-05-05 | ★ [What To Do When Someone Copies Your Work](2022-05-05-yt-lpwjLPhYfew.md) | mindset; design-craft; content-strategy; business | Chris solo; copycat-response framework — being copied = proof you lead; Phase 1 out-execute, Phase 2 monetize imitators; "they copy your output not your process"; L3-candidate |
 | 2022-05-12 | ★ [Why Your Brand Needs a POV](2022-05-12-yt-E5I7SsYVMgE.md) | branding; content-strategy | Chris solo; brand POV/personality; company-voice stifling → first-person "I" liberated The Futur's voice; Wendy's/Arby's; personal-vs-company voice; L3-candidate |
 | 2022-05-15 | ★ [Limiting Beliefs, Behaviors — Do This Instead](2022-05-15-yt-6fcQjN4VCPY.md) | mindset; pricing; sales-clients | Chris (Pro Group Q&A); scarcity→abundance; keep expenses low → walk-away leverage; "million-dollar designer" identity reframe; L3-candidate |
+| 2022-05-17 | ★ [Carlos Segura Asks Difficult Questions (90 min)](2022-05-17-yt-_oE_sCepq1g.md) | mindset; business; sales-clients; branding; content-strategy | Carlos interviews Chris; RICH new biography (Saigon/refugee, Art Center scholarship, Futur 2022 $4.5M/18-staff) + beliefs (freedom=success, awards-for-clients, "charming razor blade"); ⚠️ anniversary story = admitted LIE (don't train); L3-candidate |
+| 2022-05-28 | [Overcoming Stress & Anxiety (w/ Kyle T Webster)](2022-05-28-yt--1WFrLBTcko.md) | mindset; pricing; business; sales-clients | ⚠️ Guest Kyle T Webster = context; only Chris's lines train (overdelivering-trap→edit-down, curse-of-knowledge, double-the-budget pricing); reinforcing |
+| 2022-06-07 | [A Guide for Solving Design Problems](2022-06-07-yt-KYGX3GOc4VU.md) | design-craft; business | ⚠️ NOT Chris — Design Thinkers Guidebook promo (unnamed Futur narrator); context/do-not-train |
+| 2022-06-08 | [3 Steps To Landing Dream Clients](2022-06-08-yt-vgipZ-i6P34.md) | sales-clients; content-strategy | ⚠️ NOT Chris — Stephanie Owens (Gold Sheep/Futur); Make-it/Market-it/Monetize-it; context/do-not-train |
+| 2022-06-15 | [Finding Your Creative Voice](2022-06-15-yt-Oe86p6woLUw.md) | design-craft; branding; content-strategy; mindset | ⚠️ NOT Chris — Stephanie Owens; "creative cocktail" (craft+character+conquests); context/do-not-train |
+| 2022-06-16 | ★ [The Psychological Trick Behind Getting People To Say Yes](2022-06-16-yt-4kVo2YEzPqQ.md) | sales-clients; mindset | Chris; persuasion mechanics — retreat-and-follow (Blair Enns), Jonathan Stark's 3 why-questions (why-this/now/me), Voss "what not why"; L3-candidate |
+| 2022-06-21 | ★ [Stop Apologizing For Being Your True Authentic Self](2022-06-21-yt-1PW3tPqcwCs.md) | mindset; branding; content-strategy | Chris solo; authenticity/self-acceptance; design-as-self-discovery/identity; "charming razor blade"; "they understand me perfectly, not misunderstand"; L3-candidate |
+| 2022-06-23 | [Find Your Creative Focus](2022-06-23-yt-6IbV3sEmjWs.md) | mindset; content-strategy; branding | ⚠️ NOT Chris — Stephanie Owens; focus-not-niche (industry/skill/market axes); context/do-not-train |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -623,4 +631,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_603 videos ingested (L2) so far._
+_611 videos ingested (L2) so far._

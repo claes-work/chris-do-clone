@@ -491,6 +491,11 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2020-10-28 | ★ [Improve Your Instagram Design: Critiques, Tips & Advice PT 1](2020-10-28-yt-qjZospdjnS0.md) | design-craft; content-strategy | Chris's carousel clinic: the 5-criteria rubric (clarity/fulfillment/typesetting/concept support/X-factor); break across slides, ~3-color palette, one ask per CTA, typography detail (real apostrophes, upper/lowercase body); "loyalty comes from lived values, not mission statements"; L3-candidate |
 | 2020-11-02 | ★ [How To Get Followers on Instagram When Starting From Zero](2020-11-02-yt-R-EyTBRgZh8.md) | content-strategy; branding | Chris: AIDA carousel (Desire → "Detail"); the ROT hook formula (Result + Objection + Time); "heads or tails" headline game; "light but satisfying"; 12-post minimum + one narrow topic; guest-post + paid-shoutout growth loop; L3-candidate |
 | 2020-12-01 | [4 Tips On Finding A Job](2020-12-01-yt-Pr-yyUw9ra8.md) | business; sales-clients | alumni LinkedIn outreach, portfolio-shows-thinking, "skate to where the puck is", résumé-as-storytelling, Dec worst / 2nd-wk-Jan best; ⚠️ guest Prof. Petrula Vrontikis (Chris bookends only) — does NOT train persona |
+| 2020-12-07 | ★ [How To Build A $1M Business Teaching](2020-12-07-yt-WvdAVFt1LaI.md) | business; content-strategy; pricing; mindset | Chris solo; teaching-business playbook (1000 true fans, niche+long-tail, reciprocity, farming-vs-hunting); course blueprint w/ real numbers; imposter-syndrome origin; L3-candidate |
+| 2020-12-14 | ★ [Improve Your Instagram Carousel Design](2020-12-14-yt-b_s4RlOYyzc.md) | content-strategy; design-craft; branding | Chris solo Carousel Clinic Pt2; 5-point rubric + ROT hook + home-stretch slide + ONE CTA; IG-playbook cluster; L3-candidate |
+| 2020-12-21 | ★ [Find Your Passion Find Your Purpose](2020-12-21-yt-mcC-6a33RaA.md) | mindset | Chris solo; "read the label from inside the jar"; childhood creative origin story (denied path=poverty); L3-candidate for biography/beliefs |
+| 2020-12-23 | ★ [When to Discuss Budget During a Sales Call — Role Play](2020-12-23-yt-oOKgc-bvX7o.md) | sales-clients; pricing | Chris coaches team member Mo; surface budget early w/o greed; matchmaker positioning, "last chapter", day-rate anchor; L3-candidate |
+| 2020-12-29 | [How To Get Great Clients — Build Better Relationships On Trust](2020-12-29-yt-e17ZASTRBGg.md) | sales-clients; mindset | Chris solo; great clients = trust earned incrementally; core failure = not listening; "just ask them" reframe |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -540,4 +545,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_520 videos ingested (L2) so far._
+_525 videos ingested (L2) so far._

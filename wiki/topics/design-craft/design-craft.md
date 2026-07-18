@@ -2,8 +2,8 @@
 type: hub
 domain: design-craft
 domains: [design-craft]
-updated: 2026-07-17
-tags: [design-craft, typography, expressive-typography, legibility, layout, composition, art-direction, critique, logo-design, logo-critique, mockups, perceived-value, ideation, portfolio, portfolio-review, packaging, teaching, mastery, design-education, creativity, remix, timelessness, restraint, copywriting, developer-handoff, freelance]
+updated: 2026-07-18
+tags: [design-craft, typography, expressive-typography, legibility, layout, composition, art-direction, critique, logo-design, logo-critique, mockups, perceived-value, ideation, incubation, portfolio, portfolio-review, packaging, branding, sub-brand, naming, kerning, negative-space, color, print-finishing, presentation, teaching, mastery, design-education, creativity, remix, timelessness, restraint, copywriting, developer-handoff, freelance]
 ---
 
 # Design Craft — hub
@@ -760,6 +760,129 @@ From a 2018 one-minute solo tip video (sole speaker, Chris Do throughout).
 
 ---
 
+## 22. Deliberate-incubation ideation — reduce, saturate, sleep, capture
+
+A second, distinct ideation method (cf. §14's "art of search," which is *external image
+research*): here the load-bearing move is **incubation** — you deliberately stop
+thinking so the subconscious solves the problem. Chris frames it as his personal 20+-year
+creative process. [[wiki/sources/2018-12-04-yt-nhUupKOj8I4]] (2018-12-04)
+
+- **Step 1 — Force clarity first** — Get the problem crisp before generating: make the client restate it (by the third time they say it most clearly), ask more questions, and build a shared understanding. The clarity phase doubles as onboarding — co-authoring the answer so the client has "already bought into it" when it's revealed. (paraphrase) [[wiki/sources/2018-12-04-yt-nhUupKOj8I4]] (2018-12-04)
+- **Step 2 — Reduce to two or three key words** — Boil the problem down to a few very specific key words; he won't accept just any words. (paraphrase) [[wiki/sources/2018-12-04-yt-nhUupKOj8I4]] (2018-12-04)
+- **Step 3 — Saturate / immerse** — Flood the brain with as much external stimulation as possible (art, music, literature, philosophy, images, film, photography), all filtered through those two or three key words; deliberately let the mind wander as far from the key words as possible, prompting yourself for anecdotes, literary references, childhood experiences. (paraphrase) [[wiki/sources/2018-12-04-yt-nhUupKOj8I4]] (2018-12-04)
+- **Step 4 — Stop; let the subconscious work** — Take a break and stop consciously working the problem, because the subconscious "is much smarter than my conscious brain." (paraphrase) [[wiki/sources/2018-12-04-yt-nhUupKOj8I4]] (2018-12-04)
+
+> "I want my brain to process on a subconscious level because it's much smarter than my
+> conscious brain." — Chris Do [[wiki/sources/2018-12-04-yt-nhUupKOj8I4]] (2018-12-04)
+
+- **Step 5 — Prime before sleep** — Right before bed, reflect on the day, the stimulation consumed, and the three words/problem, then sleep; answers arrive overnight, on waking, or in the shower. Ideas surface during **autonomic, low-effort activities** (showering, breathing, a leisurely walk) precisely because they don't demand conscious effort. (paraphrase) [[wiki/sources/2018-12-04-yt-nhUupKOj8I4]] (2018-12-04)
+
+> "Usually by the time I wake up, either [in the] middle [of] the night or in the
+> morning, many answers will come." — Chris Do [[wiki/sources/2018-12-04-yt-nhUupKOj8I4]] (2018-12-04)
+
+- **Step 6 — Always capture** — Keep a notebook and pen (even waterproof paper in the shower) handy; ideas are fleeting "like cotton candy," and writing them down makes them concrete. (paraphrase) [[wiki/sources/2018-12-04-yt-nhUupKOj8I4]] (2018-12-04)
+
+> "Always always have a notebook and a pen handy, because these ideas are like cotton
+> candy — you bite into it and then it's gone until you write it down." — Chris Do
+> [[wiki/sources/2018-12-04-yt-nhUupKOj8I4]] (2018-12-04)
+
+*(Chris cites Robert Louis Stevenson — the *Dr. Jekyll and Mr. Hyde* author, unnamed in
+the video — Einstein, and Thomas Jefferson as historical users of subconscious
+incubation; these are **his historical claims**, not verified attributions.)*
+
+---
+
+## 23. Sub-brand design methodology — "Young Guns" airline-branding challenge (EP 9)
+
+From "Young Guns" EP 9, a mid-point check-in where Chris critiques five students each
+building a **premium sub-brand** for a real airline (JetBlue's "Mint" as the gold
+standard). His running critique is a repeatable branding/design-craft sequence. This is
+one of the two richest design-CRAFT critique episodes in the corpus (cf. §24).
+[[wiki/sources/2019-03-11-yt-N0WD9KG7kEY]] (2019-03-11)
+
+- **Sub-brand ≠ rebrand** — The job is a *complementary* brand for a premium product that lives alongside the parent, not starting the airline over. Wanting to "hit the nuclear button" (redo everything) misses the point; the tight constraint IS the challenge. A sub-brand can't reuse the parent's exact logo lockup or it reads as confusing, but being too deferential produces something too derivative — it needs its own system (like JetBlue Mint). [[wiki/sources/2019-03-11-yt-N0WD9KG7kEY]] (2019-03-11)
+
+> "People don't hire you to do that — they hire you to figure out a creative solution
+> that fits within a fairly tight space but bring some creativity and energy and fresh
+> thinking to that. That's the real challenge, because everybody can hit the nuclear
+> button." — Chris Do [[wiki/sources/2019-03-11-yt-N0WD9KG7kEY]] (2019-03-11)
+
+- **Understand the problem before the solution** — "You tried to come to the solution without understanding the problem — that's a classic no-no." Designers "just want to start making stuff." Research first and deeply: founder, history, brand evolution, their social media, regular vs. premium class. [[wiki/sources/2019-03-11-yt-N0WD9KG7kEY]] (2019-03-11)
+
+> "You tried to come to the solution without understanding the problem — that's a classic
+> no-no." — Chris Do [[wiki/sources/2019-03-11-yt-N0WD9KG7kEY]] (2019-03-11)
+
+- **Generate ~100 names; find the "connective tissue"** — "I want to see a hundred names on your thing." Good sub-brand naming shares DNA with the parent (he named an Emirates sub-brand "Emerald" — plays on Emirates / precious stones); a generic name like "Signature" isn't "married" to the parent. Then build a **user persona** and a **mood board / style-scape** using imagery (people, architecture), broadened *way outside airlines* (vintage hotels, fashion, packaging) so the work doesn't feel "me-too." [[wiki/sources/2019-03-11-yt-N0WD9KG7kEY]] (2019-03-11)
+- **Color craft ages a brand** — "Just because you say red and blue, it can mean a thousand different things." Shifting **hue, saturation, and value** (a muted navy vs. a bright blue) completely changes perception and can "age it up or age it down"; add warm/cool greys and secondary shades for system flexibility. *(Extends §13's "use accent color sparingly" into a hue/sat/value control of brand age.)* [[wiki/sources/2019-03-11-yt-N0WD9KG7kEY]] (2019-03-11)
+
+> "Just because you say red and blue, it can mean a thousand different things." — Chris Do
+> [[wiki/sources/2019-03-11-yt-N0WD9KG7kEY]] (2019-03-11)
+
+- **Restraint — one flourish, not 35** — Keep logo ornament disciplined; build the sub-brand mark off the parent's existing geometry (crop, abstract, re-angle the icon) rather than retweeting the original elements. [[wiki/sources/2019-03-11-yt-N0WD9KG7kEY]] (2019-03-11)
+
+> "It's one flourish — it's not to add 35 flourishes." — Chris Do
+> [[wiki/sources/2019-03-11-yt-N0WD9KG7kEY]] (2019-03-11)
+
+- **Present with a DECK, not a Word doc** — Take your own thinking seriously: present findings "bold and big on screen" in InDesign/Keynote, not a Word document you talk through. This is how **Paul Rand** sold a hundred-thousand / million-dollar logo — he thought through every decision and presented visually, so by the conclusion everyone was "all in." How you present "is a mirror to your soul." [[wiki/sources/2019-03-11-yt-N0WD9KG7kEY]] (2019-03-11)
+
+> "This is how Paul Rand was able to sell a hundred-thousand or million-dollar logo. He
+> took a lot of time to think through each and every decision he made; he presented
+> visually, so by the time he got to the conclusion everybody's like they're all in."
+> — Chris Do [[wiki/sources/2019-03-11-yt-N0WD9KG7kEY]] (2019-03-11)
+
+- **Marketing rule — aim 10–15 years younger** — "You have to aim 10 to 15 years younger than what you want to hit." (Cautionary example: Toyota's Scion targeted teenagers and ended up with old drivers.) A sub-brand should feel fresh and can be brighter/more saturated than the parent. [[wiki/sources/2019-03-11-yt-N0WD9KG7kEY]] (2019-03-11)
+
+> "More often than not, in terms of marketing, they say you have to aim 10 to 15 years
+> younger than what you want to hit." — Chris Do
+> [[wiki/sources/2019-03-11-yt-N0WD9KG7kEY]] (2019-03-11)
+
+---
+
+## 24. Brand-identity critique principles — "Young Guns" EP 10
+
+The presentations-and-critique companion to §23 (EP 9), where the same five students
+present finished airline sub-brands and Chris critiques each. This is the densest
+self-contained catalog of brand-identity **critique** craft in the corpus.
+[[wiki/sources/2019-03-25-yt-P5cqMtqTNog]] (2019-03-25)
+
+- **Negative space ≠ white space** — Reframes "white space" as **negative space**: it does NOT have to be white — black can be negative space, gold can be negative space; it just means "there's not a lot of activity going on." Too much copy at similar sizes kills it; break the hierarchy or shrink elements so the layout can breathe. *(Sharpens §13's "white space = luxury.")* [[wiki/sources/2019-03-25-yt-P5cqMtqTNog]] (2019-03-25)
+
+> "A different term for white space is negative space, and why do I make that distinction?
+> Because it literally does not have to be white… black can be negative space, gold can be
+> negative space, it just means there's not a lot of activity going on those spaces."
+> — Chris Do [[wiki/sources/2019-03-25-yt-P5cqMtqTNog]] (2019-03-25)
+
+- **Kerning as VOLUME, not linear space** — Method: find the **most difficult kerning pairs first** (diagonals next to open letters — a "T," the leg of an "R" beside an "e") and space everything else around them. Think of each gap as a volume — "pouring sand into" it and asking how much sand it holds — and balance the volumes. Letter-spacing is "one of the most foundational skill sets you're gonna have." (Also: too-open **leading** makes you "read the negative space between the lines.") [[wiki/sources/2019-03-25-yt-P5cqMtqTNog]] (2019-03-25)
+
+> "You can think about it as if you were pouring sand into here and filling up space — how
+> much sand did it take up?" — Chris Do [[wiki/sources/2019-03-25-yt-P5cqMtqTNog]] (2019-03-25)
+
+- **The "slap-on logo" anti-pattern** — A weakness is when "you take a logo, you slap it on something" with nothing else done to it. Fix it by integrating pattern, edge treatments, or design elements so it feels considered. On a billboard, a pure-white overlaid mark looks slapped on — make it a translucent spot-varnish / etched-glass effect (seeing the image through it) so it reads as *designed*, not applied. [[wiki/sources/2019-03-25-yt-P5cqMtqTNog]] (2019-03-25)
+
+> "You take a logo, you slap it on something — there isn't anything else that you're
+> doing." — Chris Do [[wiki/sources/2019-03-25-yt-P5cqMtqTNog]] (2019-03-25)
+
+- **Brand extension via parent DNA** — A strong extension strategy: take the parent mark, "pull some of that DNA out, and reconstitute it into something else" — related and sharing DNA, but not derivative/a copy. (He praised deconstructing the Vistara star into a lotus, and abstracting American's "A.") Don't strip the parent name off the child logo while keeping it everywhere else — the child must stay legibly tied to the parent, not "the same but different just to be different." [[wiki/sources/2019-03-25-yt-P5cqMtqTNog]] (2019-03-25)
+
+> "Take something from the original, pull some of that DNA out, and reconstitute it into
+> something else." — Chris Do [[wiki/sources/2019-03-25-yt-P5cqMtqTNog]] (2019-03-25)
+
+- **Print finishing = premium** — To signal premium in print, use finishing techniques: **metallic hot-foil stamping** (should "sparkle," have "a brilliance"), gold/silver card edges, vellum overlays, hot-wax seals, handwritten notes, embossing. Subtlety reads as premium — a barely-visible embroidered monogram on a cuff is "classy," whereas overt monogramming "can get a little cheesy." A color copy on card is what premium is NOT. [[wiki/sources/2019-03-25-yt-P5cqMtqTNog]] (2019-03-25)
+
+> "All these little touches, these little printing techniques that you use can add a lot
+> of that premium feel just in the way that it's applied." — Chris Do
+> [[wiki/sources/2019-03-25-yt-P5cqMtqTNog]] (2019-03-25)
+
+- **Show design IN CONTEXT** — Show your design in use (in a mock-up, in the real world) rather than only flat on screen — "a good tip for all you guys" — so you and the client can properly evaluate it. Choosing the right photograph "is everything." *(Reinforces §21's mockups-raise-perceived-value.)* [[wiki/sources/2019-03-25-yt-P5cqMtqTNog]] (2019-03-25)
+- **"Undesigned design is hard" — commit to a visual language** — Making something look like nobody designed it is very hard to pull off and still look competent; "it's hard to make things very simple look good, and that's why not very many people are successful." If you commit to a low-rent / "undesigned" look you must follow it through consistently — mixing utilitarian with decorative retro lands you "stuck in no-man's land." (Cites **Massimo Vignelli**'s Helvetica-and-one-color restraint and **Damien Hirst**'s pharmaceutical-packaging aesthetic — names garbled in captions, `attribution: uncertain`.) *(Echoes §2's "don't get stuck in the middle" and §16's restraint.)* [[wiki/sources/2019-03-25-yt-P5cqMtqTNog]] (2019-03-25)
+
+> "It's hard to make things very simple look good, and that's why not very many people are
+> successful." — Chris Do [[wiki/sources/2019-03-25-yt-P5cqMtqTNog]] (2019-03-25)
+
+- **Appropriateness — right craft, wrong tone still fails** — A pastel "Serenity" style-scape that reads as "a wellness spa… a makeup brand" is *not appropriate* to a premium-airline brief; even executed perfectly, wrong tone = "missed the mark." Steer away from the cliché airline image (somebody "sleeping in the clouds") toward something more surreal/abstract. Also: he's "never a fan of centered type" for premium collateral — it "feels a little lazy… too easy." [[wiki/sources/2019-03-25-yt-P5cqMtqTNog]] (2019-03-25)
+
+---
+
 ## Excluded — instructor-led
 
 Per fidelity rule #6 (speaker attribution), the following Futur "craft" videos are
@@ -809,6 +932,18 @@ co-host **Emily** are context only. The **2018-09-28 logo-value tip**
 The **2018 typography-legibility clip** ([[wiki/sources/2018-02-13-yt-EozQvV3oQ7c]], §17)
 has an **unidentified narrator** (likely Chris, `attribution: uncertain`); its rules are
 promoted but flagged pending verification and must not train voice cadence.
+From the late-2018/2019 additions (§§22–24): the **incubation-ideation** source
+([[wiki/sources/2018-12-04-yt-nhUupKOj8I4]], §22) is Chris in a coaching dialogue —
+"Donavan" is a dialogue participant (context only), and Stevenson/Einstein/Jefferson are
+Chris's own historical claims. In the two "Young Guns" airline episodes (§§23–24) the
+challenge-briefing co-host **"Mark"** (caption-spelled, name uncertain), Futur designers
+**Emily** and instructor **Spencer**, and the competing/presenting students (**Arun**,
+**Sharif/Sherif**, **Sean Campbell**, **Spencer** (student), **Connor Fowler**) are
+context only — only Chris's critique trains the persona.
+([[wiki/sources/2019-03-11-yt-N0WD9KG7kEY]], [[wiki/sources/2019-03-25-yt-P5cqMtqTNog]])
+Third-party names Chris cites in critique — **Paul Rand**, **Massimo Vignelli**, and
+**Damien Hirst** (the last two garbled in captions, `attribution: uncertain`) — are
+references, not persona voice.
 The **Typography Manual** is delivered as animated on-screen copy (no spoken audio), so
 it trains Chris's *written* design voice, not his verbal cadence.
 [[wiki/sources/2016-11-06-yt-QrNi9FmdlxY]]
@@ -843,4 +978,7 @@ it trains Chris's *written* design voice, not his verbal cadence.
 - [[wiki/sources/2018-05-26-yt-gx5hEcIwhnY]] — Packaging Critique & Winner, Young Guns Ep.5 (four-criterion rubric; 3-D six-sided sculpture; premium=less-is-more; design the product not the parent). (2018-05-26)
 - [[wiki/sources/2018-07-03-yt-ZwEMbqZDkXU]] — Expressive Typography poster critique, "We Moved" (be expressive WITH the type; unusual letter-spacing = excitement; meaningless-data texture + desaturate + gradient-as-lighting + glitch-offset). **Critic likely Chris — attribution: probable.** (2018-07-03)
 - [[wiki/sources/2018-09-28-yt-uO8VUYwCmFM]] — 1 Simple Tip to Make Your Logos More Valuable (place the mark in real-world context/mockups to raise perceived value). (2018-09-28)
+- [[wiki/sources/2018-12-04-yt-nhUupKOj8I4]] — Subconscious-incubation ideation (reduce to key words → saturate → stop & sleep → capture; distinct from the "art of search"). (2018-12-04)
+- [[wiki/sources/2019-03-11-yt-N0WD9KG7kEY]] — Airline Branding Challenge, Young Guns EP 9 (sub-brand ≠ rebrand; understand the problem; ~100 names + connective tissue; hue/sat/value ages a brand; present with a deck; aim 10–15 years younger). (2019-03-11)
+- [[wiki/sources/2019-03-25-yt-P5cqMtqTNog]] — Brand Identity Critique, Young Guns EP 10 (negative space ≠ white space; kerning as volume; "slap-on logo"; brand-extension DNA; print finishing = premium; show in context; "undesigned design is hard"). (2019-03-25)
 - [[wiki/sources/2023-06-14-yt-SdCzIDmfDAA]] — Good vs. great designers (bad-to-good slider, mastery, "do less but better," Holtzman). (2023-06-14)

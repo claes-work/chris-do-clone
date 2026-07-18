@@ -3,8 +3,8 @@ type: hub
 domain: pricing
 domains: [pricing]
 created: 2026-07-14
-updated: 2026-07-17
-tags: [pricing, value-based-pricing, price-the-client, anchoring, discount-for-uncertainty, raising-rates, objection-handling, negotiation, price-bracketing, competitive-positioning, charge-for-discovery, embrace-and-pivot, storytelling, budget-scope-timeline, budget-first, cant-lose-a-job-you-never-had, value-scale-of-questions, discovery-as-a-service, strategy-pricing, get-paid-to-think, price-as-qualifier, double-the-rate-ladder, inputs-vs-outputs, desired-future-state, train-of-thought, feeling-thought-reaction, limbic-brain, price-options, attention-ownership, price-first-scope-after]
+updated: 2026-07-18
+tags: [pricing, value-based-pricing, price-the-client, anchoring, anchoring-reversal, verbal-upfront-pricing, discount-for-uncertainty, raising-rates, objection-handling, negotiation, price-bracketing, competitive-positioning, charge-for-discovery, embrace-and-pivot, storytelling, budget-scope-timeline, budget-first, budget-first-vs-relationship, order-taker-vs-advisor, underpricing-signal, resentment-signal, cant-lose-a-job-you-never-had, value-scale-of-questions, discovery-as-a-service, strategy-pricing, get-paid-to-think, price-as-qualifier, double-the-rate-ladder, inputs-vs-outputs, desired-future-state, train-of-thought, feeling-thought-reaction, limbic-brain, price-options, attention-ownership, price-first-scope-after, stop-hourly, socratic-hourly, value-appreciation, scope-creep, separate-service, de-scope, cost-stack, positioning-value, go-to-person]
 ---
 
 # Pricing — hub
@@ -321,6 +321,21 @@ Contrast: the naive bid was $5,000; the proper bid is ~$20,400.
 
 Adjust a bid via **rate**, not days (deadlines are usually fixed). You can also bill for
 things outside your control, like rendering ([[wiki/sources/2015-10-08-yt-wd0ejVP_g78]]).
+
+**Restated near-verbatim 2019-02-11** — Chris rebuilds the *identical* cost stack at a
+whiteboard (same worked numbers: artist $500→$750/day, +producer $400/day, +art director
+$900/day prorated to 5 days, +$1,000 workstation rental, +20% profit = **~$20,400** from a
+naive $5,000 bid), reframing it as the answer to "how do you budget for the things that go
+wrong?" Two points he sharpens here: (1) **bill every role even if you perform it yourself**
+— "whether or not you hire a producer... isn't relevant, it needs to be in there because
+somebody has to manage the project"; the money you keep when you do those jobs is your
+margin. (2) **State the profit markup openly** — "you just tell them it's markup, it's our
+profit. Everybody that runs a business understands that, because if you paid everybody [out]
+you still wouldn't make any money." Profit runs "anywhere between 10 to 30 percent" by
+country/industry (he uses 20%). Note this cost-basis method is **complementary to
+value-based pricing, not a replacement** — it is how you floor a production bid, whereas the
+value conversation (§2, §6) is how you price the outcome
+([[wiki/sources/2019-02-11-yt-6BKWq9VJd8w]]).
 
 **Payment terms** (2015): **50% upfront, 25% about three-quarters through, final 25% on
 delivery or net 30** — so you only ever risk the last 25%, "which should be your profit
@@ -935,6 +950,210 @@ fixed rate card._
 
 ---
 
+## 22. The anchoring reversal — say the BIGGER number first when bracketing
+
+_Est. 2018-10-18. A refinement to price bracketing (§12) and anchoring (§5): reverse the
+goal posts so the high number lands first, and price verbally before you write anything._
+
+Bracketing (§12) names two goal-post numbers to discover budget. This clip flips their
+*order*: name the **bigger** number first, pause, let it land, then drop the lower one —
+clients fixate on the high figure and treat the lower one as a bargain.
+
+> "When I say the bigger number first, they get stuck on the bigger number. It's weird,
+> it's counterintuitive to say the bigger number first. Just try it, see what happens." —
+> Chris Do, [[wiki/sources/2018-10-18-yt-87CPZdh6FIc]]
+
+- **Reverse the bracket.** "Say the bigger number first, pause, let them absorb that number,
+  and then [say] the second number" — e.g. "somewhere between 300 and 150,000" rather than
+  "150 to 300" ([[wiki/sources/2018-10-18-yt-87CPZdh6FIc]]).
+- **Anchor really high, not near your number.** "Don't anchor anywhere near your number...
+  you want to anchor really high, that's how anchors work." If you normally charge $10k,
+  don't bracket 10–20 — start 30–60; "you will be smashing through ceilings that you didn't
+  even know that you could get through" ([[wiki/sources/2018-10-18-yt-87CPZdh6FIc]]).
+- **Say the price verbally, upfront.** "You've got to say a price before you show it... if
+  it's not gonna work I want to know right now" — a restatement of the "say a price before
+  you show a price" rule in §6 ([[wiki/sources/2018-10-18-yt-87CPZdh6FIc]]).
+- **Big round numbers as sonar** (new). Throw out widely-spaced round numbers and listen for
+  the flinch: "You're listening for the reaction... it's like sonar. You bounce the sound
+  out, you see how far the wall is. When they don't fall out of their chair at 200, you know
+  where your budget's coming in at." Disarm the shock first: "I'm gonna say a number, it's
+  gonna shock you — are you sitting down?" ([[wiki/sources/2018-10-18-yt-87CPZdh6FIc]]).
+- **Address resistance in the moment; don't go build a bid.** When the client balks ("that's
+  a lot of money"), respond right there rather than retreating to write a proposal — and
+  "don't sell," just reflect the objection back and offer to rethink scope until they arrive
+  at a number ([[wiki/sources/2018-10-18-yt-87CPZdh6FIc]]).
+
+_(Live coaching role-play with a developer, "Joe" — only Chris's lines are persona data.)_
+
+---
+
+## 23. Resentment or dread on a client call = you underpriced
+
+_Est. 2018-10-23. Attributed to Blair Enns's* The Win Without Pitching Manifesto*. A pricing
+signal read off your own emotions._
+
+The feeling of dread or irritation when a client calls is a **pricing signal**: if a client
+needs constant revisions, hand-holding, and customer service and you resent it, the usual cause
+is that **you charged too little**, not that the client is unreasonable.
+
+> "A client that's asking for lots of revisions and needs a lot of hand-holding and customer
+> service and you're feeling bad about that relationship is because you've charged too
+> little." — Chris Do (citing Blair Enns), [[wiki/sources/2018-10-23-yt-yoGvz6lvTfQ]]
+
+- **At a high enough fee the burden becomes worth it.** "If a client's gonna pay me a million
+  dollars you can call me as much as you want... because it's worth the trouble" (the million
+  is rhetorical, not a real fee) ([[wiki/sources/2018-10-23-yt-yoGvz6lvTfQ]]).
+- **Have the hard conversation upfront.** Concerns about schedule, budget, or tricky scope
+  must be raised early "so we can act like adults and professionals and run a real business
+  ... versus dealing with it after the fact and kind of griping about it later"
+  ([[wiki/sources/2018-10-23-yt-yoGvz6lvTfQ]]).
+- **Power is what you give away.** The client has power, but not all of it — "we have as much
+  power as you're willing to give to them" ([[wiki/sources/2018-10-23-yt-yoGvz6lvTfQ]]).
+
+Complements the mindset material in §8 (worth is self-repressed) — here the diagnostic runs
+the other way: read your own resentment as evidence the number was wrong.
+
+---
+
+## 24. Two lenses on the budget conversation — emotion-led vs. logic-led (both reject budget-first)
+
+_Est. 2018-10-30 (with guest Shannon Gabor, Clever Creative). Two temperamentally opposite
+paths that converge on the same rule: don't lead with budget._
+
+Chris (self-described "logic brain") and guest Shannon Gabor (relationship/emotion-led) argue
+from opposite starting points but land in the same place — **the first question out of your
+mouth should not be "what's your budget."**
+
+> "If the first question that comes out of your mouth is what's your budget, you've already
+> done it all wrong. In my logic brain it is totally all wrong." — Chris Do,
+> [[wiki/sources/2018-10-30-yt-DDBWERuvgFA]]
+
+- **Getting transactional too early makes you the order-taker.** "By getting too
+  transactional too early you're... taking yourself into the transactional space and...
+  you're gonna become an order-taker versus someone who is viewed as a trusted adviser, a
+  consultant." (The order-taker vs. advisor axis also drives §18's strategy pricing and §21's
+  ownership tiers.) ([[wiki/sources/2018-10-30-yt-DDBWERuvgFA]]).
+- **Low-ball calls are a positioning problem, not a pricing problem.** "If you're getting a
+  lot of calls where... people [are] low-balling you, bottom-feeding... that might be a
+  positioning problem... a communication and a marketing issue. So you're... casting a very
+  wide net" so prospects don't understand your value
+  ([[wiki/sources/2018-10-30-yt-DDBWERuvgFA]]).
+- **The relationship must be two-way.** "Not all relationships are created equal" — it has to
+  be good for the client *and* sustainable for your team; over-extending on "good of humanity"
+  work means someone eats unpaid hours ([[wiki/sources/2018-10-30-yt-DDBWERuvgFA]]).
+
+> 🔄 EVOLUTION (vs. §16, 2017-11-11): the earlier "How to talk about money" clip has Chris
+> **asking for the budget up front, before the discovery conversation** ("I just want to know
+> what kind of budget do you have in mind... it's a waste of time for both of us"). By
+> 2018-10-30 he explicitly rejects opening with budget ("you've already done it all wrong").
+> The reconciliation is *sequence, not substance*: money must still be discussed early and
+> often (§8), but the very first move is the relationship/outcome ("what are you trying to
+> achieve"), with budget qualified shortly after — not as the opening line.
+> [[wiki/sources/2017-11-11-yt-OBCuDSxl_A8]] · [[wiki/sources/2018-10-30-yt-DDBWERuvgFA]]
+
+_(Shannon Gabor is a guest — her relationship-first lines are context for the Clever Creative
+entity, not persona data.)_
+
+---
+
+## 25. Positioning increases value — value = the most a buyer will pay
+
+_Est. 2018-11-09. A compact value/positioning statement; the positioning craft itself lives
+in the branding hub, but the pricing core belongs here._
+
+> "Value is the maximum amount that a consumer would be willing to pay for an item." — Chris
+> Do, [[wiki/sources/2018-11-09-yt-ODcdMUgsxMI]]
+
+- **Rolex vs. Timex.** A watch is a commodity — a Timex costs five dollars — yet people pay
+  for a Rolex or Patek Philippe because of the story and difference: "It's not a watch,
+  you're not buying a watch, you're buying a Rolex." Price rides on positioning, not function
+  ([[wiki/sources/2018-11-09-yt-ODcdMUgsxMI]]).
+- **Hourly billing = self-commoditization** (a new angle on the anti-hourly case in §1).
+  "Billing by the hour for your time sets you up as if you're an apples-to-apples commodity"
+  — it makes a buyer compare a $10/hour provider against a $100/hour one and pick the cheaper.
+  Becoming "the go-to person for something" is "your salvation, not something to fear"
+  ([[wiki/sources/2018-11-09-yt-ODcdMUgsxMI]]).
+
+Positioning craft (differentiation, unique point of view, focused marketing) is developed on
+the branding hub; captured here only for the value = willingness-to-pay definition and the
+hourly-as-commodity link.
+
+---
+
+## 26. Stop charging hourly — the Socratic role-play
+
+_Est. 2018-12-26. A tight role-play that adds three moves to the anti-hourly case in §1/§4:
+the Socratic opener, the "can't have it both ways" symmetry, and value-appreciates-over-time._
+
+A client wants the designer's hourly rate to understand an $18,000 logo fee. Chris dismantles
+the hourly frame without ever stating a rate.
+
+> "So I have a question for you, client. Why do you want to know my hourly rate?" — Chris Do,
+> [[wiki/sources/2018-12-26-yt-jE53O1PzmNU]]
+
+- **Flip the question first (new).** Before answering, ask *why* they want the rate — put the
+  burden of the hourly frame back on the client
+  ([[wiki/sources/2018-12-26-yt-jE53O1PzmNU]]).
+- **You can't demand an hour count AND cap it (symmetry, sharpened).** "It has to have some
+  symmetry to the logic. So if I work less, you want to pay me less" — then, by the same
+  logic, more hours must cost more, so the client cannot both meter your hours and cap the
+  bill. (Extends the symmetry-of-logic principle in §4 and the "hourly punishes me for being
+  good" line already in §1.) ([[wiki/sources/2018-12-26-yt-jE53O1PzmNU]]).
+- **Speed is worth MORE, not less.** "If I can do a logo for you right now and you love it in
+  5 minutes, are you saying it's worth less than 18? Or is it worth more now? Because I saved
+  you a lot of time." Business people value time above money
+  ([[wiki/sources/2018-12-26-yt-jE53O1PzmNU]]).
+- **The cheap alternative costs you your business.** Hire four interns for a couple hundred
+  dollars and "you'll wait... you'll say it's not right, but you can't articulate to them...
+  and what aren't you doing now? You're not running your business"
+  ([[wiki/sources/2018-12-26-yt-jE53O1PzmNU]]).
+- **Value appreciates over time (new).** Price the outcome, then let it grow: "That's worth
+  eighteen thousand dollars. Today. Come back to me in a year. It'll be twenty-six."
+  ([[wiki/sources/2018-12-26-yt-jE53O1PzmNU]]).
+
+_(Role-play; the client is played by a coaching participant, "Jung" — context, not persona.)_
+
+---
+
+## 27. Scope creep & free-work — price extras separately, let the client de-scope
+
+_Est. 2019-01-30. A role-play for the "just throw it in for free" ask: reset the frame, price
+the extra as a separate service, anchor then concede once, and hand the client a pressure-free
+exit so they de-scope themselves._
+
+A client who already agreed to $800 for a video asks the vendor to "just throw in a couple of
+stills." The demonstrated move is to refuse to give work away without argument.
+
+> "Wow, I need a minute to process this, because I came into this conversation with a totally
+> different assumption — that we're moving forward — and you're asking me for more things." —
+> Chris Do (vendor role), [[wiki/sources/2019-01-30-yt-Svb8fTwX0BE]]
+
+- **Buy a beat and reset the frame** rather than reflexively agreeing or arguing
+  ([[wiki/sources/2019-01-30-yt-Svb8fTwX0BE]]).
+- **Price the extra as a separate service.** "Normally when people hire me to do photographs
+  I charge a totally separate fee" — additional deliverables are their own line, justified by
+  standalone market rates (photo coverage alone ≈ $800)
+  ([[wiki/sources/2019-01-30-yt-Svb8fTwX0BE]]).
+- **Anchor the full package, then make ONE modest concession.** State the true package price
+  (~$1,400), offer a relationship discount ($1,200), and if pressed give one genuine
+  concession ("if we can do it for a thousand, let's do it") — but don't collapse to "free" or
+  reflexively "split the difference" ([[wiki/sources/2019-01-30-yt-Svb8fTwX0BE]]).
+- **Give a pressure-free walk-away.** "You have a lot of choices to make... if you need to find
+  another person, I totally respect that" — then calmly surface the real consequence (event's
+  in two days → rush fees elsewhere), so the exit is honest, not a threat
+  ([[wiki/sources/2019-01-30-yt-Svb8fTwX0BE]]).
+- **Let the client de-scope themselves.** The win is the client choosing to drop the extra and
+  keep the original deal ("maybe I can find someone else to do the stills, let's just stick
+  with [the video]") — the vendor never gives the work away. Close warm: "I'm gonna make you
+  the best video that we agreed to, and I'm gonna deliver"
+  ([[wiki/sources/2019-01-30-yt-Svb8fTwX0BE]]).
+
+Sits between §9 (be willing to walk; negotiate scope, not just price) and §10 (re-design the
+deal, don't discount) — the same "protect price by moving scope" logic, applied to an
+in-flight free-work grab.
+
+---
+
 ## Worked figures & self-reported claims
 
 Concrete numbers Chris cites for his own business or in case studies. Studio rates and the
@@ -969,12 +1188,14 @@ Chris credits these sources on record:
 
 - **Blair Enns** — *Pricing Creativity: A Guide to Profit Beyond the Billable Hour*, *The
   Four Conversations*, *The Win Without Pitching Manifesto*. Source of "flip the sequence"
-  (§2), "discounted for uncertainty" (§6), "say a price before you show a price," and
-  "those who don't talk about money don't make it." Chris: "his name is Blair Enns. I'm
+  (§2), "discounted for uncertainty" (§6), "say a price before you show a price," the
+  **underpricing-resentment signal** (§23, credited to *The Win Without Pitching
+  Manifesto*), and "those who don't talk about money don't make it." Chris: "his name is
+  Blair Enns. I'm
   reading his books on pricing... I like to go to the source."
   ([[wiki/sources/2022-09-22-yt-TB54_6bEP-A]], [[wiki/sources/2025-04-08-yt-b0fQyaBSSI0]],
   [[wiki/sources/2019-04-12-yt-ivKnj9ffcmE]], [[wiki/sources/2015-10-08-yt-wd0ejVP_g78]],
-  [[wiki/sources/2017-06-21-yt-D8BN2YSyYkg]]).
+  [[wiki/sources/2017-06-21-yt-D8BN2YSyYkg]], [[wiki/sources/2018-10-23-yt-yoGvz6lvTfQ]]).
 - **Ron Baker** — *Implementing Value Pricing*. Source of value-is-subjective,
   "price justifies cost," "95% of pricing mistakes are pricing too low," and the
   three-option value conversation (§5). Chris hosts him and names Baker's book as upstream
@@ -1016,6 +1237,13 @@ qualifying), [[wiki/entities/the-futur|The Futur]].
 - [[wiki/sources/2018-08-27-yt-gIw-PBNXWgE]] — Raising prices without losing clients (raise on every new client, supply/demand, mindset)
 - [[wiki/sources/2018-10-03-yt-M18yO7BYRNE]] — Give your client price options (three tiers by attention/ownership, price-first-scope-after)
 - [[wiki/sources/2018-10-17-yt-DjgVwN_k_88]] — Negotiating a lowball offer (anchoring, re-anchoring, start high)
+- [[wiki/sources/2018-10-18-yt-87CPZdh6FIc]] — Price bracketing role-play (anchoring reversal — bigger number first, verbal-upfront pricing, sonar)
+- [[wiki/sources/2018-10-23-yt-yoGvz6lvTfQ]] — You're charging too little (resentment/dread on a client call = underpricing signal, Blair Enns)
+- [[wiki/sources/2018-10-30-yt-DDBWERuvgFA]] — Two approaches to talking about budget (emotion-led vs logic-led, both reject budget-first; low-ball = positioning problem)
+- [[wiki/sources/2018-11-09-yt-ODcdMUgsxMI]] — How positioning increases your value (value = max willingness to pay, Rolex vs Timex, hourly = commoditization)
+- [[wiki/sources/2018-12-26-yt-jE53O1PzmNU]] — Stop charging hourly role-play (Socratic flip, symmetry of logic, value appreciates over time)
+- [[wiki/sources/2019-01-30-yt-Svb8fTwX0BE]] — Client wants more but won't pay role-play (scope creep, separate service, anchor + one concession, let them de-scope)
+- [[wiki/sources/2019-02-11-yt-6BKWq9VJd8w]] — How do you estimate a project? (cost-stack bid build-up — restates the 2015 method; §7)
 - [[wiki/sources/2019-04-12-yt-ivKnj9ffcmE]] — Value-based pricing (the flip-the-sequence method, discount for uncertainty)
 - [[wiki/sources/2019-12-26-yt-RFk8ZmIDrFM]] — "Your price is too high" role-play (ROI + walk-away, risk reversal)
 - [[wiki/sources/2022-09-22-yt-TB54_6bEP-A]] — Price & value masterclass with Ron Baker (influence link, three options)

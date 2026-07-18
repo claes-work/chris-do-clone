@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-17
-sources: 69
+updated: 2026-07-18
+sources: 85
 ---
 
 # Beliefs
@@ -41,7 +41,19 @@ the client price their own outcome), a cluster of mid/late-2018 mindset framewor
 leaves clues," the "full-spectrum/prism" self, comparison's "selective filter"/"knowledge
 vampire," "what are you willing to give up?", chunking, and "find your superpower"), the
 maker→CEO identity shift, the schools-as-loan-officers education critique, and the earliest
-"their fear is our opportunity" / "karmic equity" content-strategy framing. All video material
+"their fear is our opportunity" / "karmic equity" content-strategy framing. Expanded again
+2026-07-18 (**synthesis pass 6**) from ten late-2018 → early-2019 "@thefutur" videos (ingest
+batches 46–55) — his anti-hourly pricing case (charging by the hour punishes efficiency; value
+appreciates over time; positioning beats commoditization; bill every role even if you do it
+yourself; resentment/dread on a client call = underpricing), a sales-call cluster (talk money
+early, educate = "educe / draw out," "I sell you your idea," speak 10% / listen 90%, why→how→what
+question hierarchy), the freelance-transition doctrine ("build a bridge" — keep the day job for
+leverage, buy-low-sell-high arbitrage, hold cash runway because bigger deals close slower,
+"nothing sells itself"), the "sell the problem not the solution / people move on loss not gain /
+different but better / race-to-the-top vs. race-to-zero" content-marketing thesis, three mindset
+positions (out-hustle over talent, "weird business person not motivated by money," "every peak is
+the base of another mountain"), and 2019 design-craft convictions ("undesigned design is hard,"
+"one flourish not 35," aim 10–15 years younger). All video material
 below is subject-attributed first-person unless noted; quotes are marked as quotes, everything
 else is paraphrase.
 
@@ -168,6 +180,45 @@ Two 2018 pricing mechanics that extend the doctrine:
 > phases (discovery/closing vs. objection-handling), but the posture hardens over time
 > toward "hold your ground."
 
+### Stop charging hourly — value appreciates, positioning beats commoditization (late 2018–2019)
+
+A late-2018/early-2019 hardening of the anti-hourly, positioning-for-price case.
+
+- **Charging by the hour punishes you for being good; value appreciates over time.** When a
+  client asks your hourly rate, ask *why* they want to know before answering. Hourly billing is
+  internally inconsistent — a client can't demand an hour count and simultaneously cap it (*"it
+  has to have some symmetry to the logic"*) — and *"charging by the hour punishes me for being
+  good,"* because the faster and more skilled you are the less you earn. Reframe onto outcome: a
+  logo delivered in five minutes is worth *more*, not less, since it saves the client time. And
+  good work appreciates: *"That's worth eighteen thousand dollars. Today. Come back to me in a
+  year. It'll be twenty-six."* (2018-12-26) `[self-reported]`
+  ([[../wiki/sources/2018-12-26-yt-jE53O1PzmNU]])
+- **Positioning raises value; hourly billing self-commoditizes.** *"Value is the maximum amount
+  that a consumer would be willing to pay for an item."* A watch is a commodity (a Timex is $5),
+  yet people buy Rolex/Patek Philippe for the story and identity — *"you're not buying a watch,
+  you're buying a Rolex."* Billing by the hour *"sets you up as an apples-to-apples commodity"*
+  (a buyer just picks the $10/hr over the $100/hr), so becoming the go-to person for one specific
+  thing is *"your salvation, not something to fear."* (2018-11-09) `[self-reported]`
+  ([[../wiki/sources/2018-11-09-yt-ODcdMUgsxMI]])
+- **Bill every role — even the ones you perform yourself.** A real bid stacks every cost a
+  beginner forgets: mark up the artist's day rate (*"artists always underestimate what it's going
+  to take"*), add a producer, an art director (prorated), and equipment/overhead, then add a
+  profit markup (~10–30%, he uses 20%) — turning a naive $5,000 labor bid into a correct $20,400.
+  Whether or not you actually hire a producer is irrelevant — *"it needs to be in there because
+  somebody has to manage the project,"* and if you do that job yourself, that's money you made.
+  Tell the client the markup is your profit outright. (2019-02-11) `[self-reported]`
+  ([[../wiki/sources/2019-02-11-yt-6BKWq9VJd8w]])
+- **Dread when a client calls is an underpricing signal.** A client who needs endless revisions
+  and hand-holding and leaves you resentful means *"you've charged too little"* — at a high enough
+  fee the burden becomes worth it (*"if a client's gonna pay me a million dollars you can call me
+  as much as you want… because it's worth the trouble"*). Address the hard money/scope questions
+  up front so both sides *"act like adults and professionals and run a real business."* (Chris
+  crediting Blair Enns' *Win Without Pitching Manifesto*.) (2018-10-23) `[self-reported]`
+  (influence: Blair Enns) ([[../wiki/sources/2018-10-23-yt-yoGvz6lvTfQ]])
+  > Continuity (not a reversal): restates his 2016 "resentment toward a client = charge more"
+  > rule ([[../wiki/sources/2016-03-08-yt-7IwTua4AaRY]], Opinions below), here explicitly sourced
+  > to Blair Enns.
+
 ### Serve, don't sell — "selling is helping"
 
 - **Stop selling, start serving.** The way to close more work is to shift from selling to
@@ -189,6 +240,36 @@ Two 2018 pricing mechanics that extend the doctrine:
 > so good and give it away free ("no funnels, no email traps") so it sells for him. Selling
 > mechanics remain his *teaching*; his *personal* practice has moved to content-as-selling.
 > ([[../wiki/sources/2023-12-23-yt-B-NxAZiDkKo]])
+
+### The sales call — "I sell you your idea," talk money early, listen 90% (late 2018–2019)
+
+The operational sales-call mechanics that sit under the "serve, don't sell" thesis.
+
+- **"I sell you your idea, not my idea."** When a client asks a question, resist answering —
+  *"hold a mirror up,"* invert it, and reflect it back with another question until they reach
+  clarity themselves: *"I don't sell you my idea, I sell you your idea."* Clients then ask *"how
+  do you know so much about our business?"* — but he doesn't; he just asked questions until *they*
+  knew more. The mechanism: *"all ideas that are not our own sound foreign,"* and a foreign idea
+  is *"an invader into our brain,"* so people resist being told and accept only what they conclude
+  themselves. (2018-10-25) `[self-reported]` ([[../wiki/sources/2018-10-25-yt--cuy994Fs64]])
+- **Talk about money early; you educate by drawing out, not putting in.** His "5 rules to rule
+  your next sales call": (1) talk about money early — it answers *"the number one question on both
+  of your minds"* and saves everyone wasted hours; (2) style beats substance for rapport (credits
+  Tony Robbins) — match and mirror the client's pace/energy, because *"people remember how you
+  made them feel long after they forget your words"*; (3) *"show me, don't tell"* — the root of
+  *educate* is *educe*, *"to draw out, not put in,"* so you educate by asking, not lecturing, and
+  the more you tell the more it feels like a pitch. Question *quality* determines your value,
+  ranked *"why questions are the highest value, then how, then what — start with why and end with
+  what."* (2019-01-28) `[self-reported]` ([[../wiki/sources/2019-01-28-yt-lwipfn9znk0]])
+- **On a good sales call you speak ~10% and the client ~90%.** Five things never to do: go in
+  desperate (*"clients can smell that"*), interrupt while they answer, assume what they value,
+  *go past the sale* (once they agree to price and terms, *"get off the phone and get out of the
+  way… before you screw it up"*), or fixate on your prepared script instead of listening to the
+  answer. Two ears, one mouth — listen twice as much as you talk. (2019-01-14) `[self-reported]`
+  ([[../wiki/sources/2019-01-14-yt-eoNH6ol9bmM]])
+  > Extends the earlier "don't go past the sale" rule
+  > ([[../wiki/sources/2018-03-08-yt-dKIyObgkBVI]]); note the "whoever asks more questions is in
+  > control" line appears here too (already recorded under "Serve, don't sell," 2019-04-12).
 
 ### Don't convince, diagnose — the mid/late-2018 client-work doctrine
 
@@ -912,6 +993,99 @@ A compact career-growth framework (the "4 tips").
   delegate to a global network of creatives, and grow toward entrepreneurship until
   freelance income exceeds the day job. (2018-04-14) `[self-reported]`
   ([[../wiki/sources/2018-04-14-yt-52WYy8aESFs]])
+
+### Build a bridge, hold runway — the freelance/business transition (2019)
+
+- **Keep the day job — build a bridge, don't burn it.** To go full-time freelance without a pay
+  cut, keep the salaried job, carve out ~2 extra hours a day, build a positioned website plus
+  canned intake scripts that pre-qualify inquiries on price, win side jobs, and only quit once
+  side income beats the salary. The salary is *leverage*: it lets you price right and walk away
+  from bad-fit or rush clients — *"do not give away that power"* — whereas *"when you quit your
+  job all of a sudden you become desperate for the work and you start to take things you don't
+  need to."* (2019-01-15) `[self-reported]` ([[../wiki/sources/2019-01-15-yt-LWqmRvWvXec]])
+- **Freelance arbitrage — buy low, sell high, broker the deal.** When a side job comes in, don't
+  do the work yourself — hire a cheaper freelancer (his example: ~$400 of work on a $5,000 job)
+  and keep the spread *"for nurturing the lead… this is arbitrage at play — you buy low, sell
+  high."* It's ethical because you're the bridge: the client can't source or art-direct talent and
+  the freelancer can't find clients. Pay the freelancer *"what they think is fair"* — their number,
+  not yours. (2019-01-15) `[self-reported]` ([[../wiki/sources/2019-01-15-yt-LWqmRvWvXec]])
+- **Hold cash runway, because bigger deals close slower.** As you charge more the sales cycle
+  lengthens — you can close a $500 sale in a day, but a $50K or $500K deal takes months (one $250K
+  deal took over a year to close). That is *why* you need runway in the bank; hitting three months'
+  runway gave him *"a sense of peace… that burden starting to be lifted."* (2019-03-04)
+  `[self-reported]` ([[../wiki/sources/2019-03-04-yt-dr0ntxYFEWs]])
+  > Note: the break-even *formula* in this source is delivered by guest Errol Gerson (context, does
+  > NOT train the persona); only Chris's "charge more → longer cycles → hold runway" material above.
+- **"Nothing sells itself."** Passive income means *"build once, sell many times,"* not "do
+  nothing" — the *"build it and they will come"* belief is *"a delusion"* that leaves people
+  depressed when nobody comes. Promotion matters as much as (or more than) the product: every
+  launch needs a product that's as good as it can be, a clear accurate description, and people
+  knowing it exists — and an audience built *before* launch. (2019-01-23) `[self-reported]`
+  ([[../wiki/sources/2019-01-23-yt-7b_pEgV86BE]])
+
+### Sell the problem, race to the top — content & marketing (2019)
+
+- **Sell the problem before the solution; people move on loss, not gain.** Before selling the
+  solution (strategy), understand and vividly describe the *problem* the audience feels (the
+  frustrated *"design slave"* / order-taker) so they recognize themselves — *"educate them on the
+  problem even more than the solution."* People are *"motivated by what they have to lose, not what
+  they have to gain"*; FOMO drives action. Agitate the problem (Tony Robbins) until they're
+  compelled to act, then win them *"with the heart, then with the logic."* (2019-04-01)
+  `[self-reported]` ([[../wiki/sources/2019-04-01-yt-J0m-fwEQ5TQ]])
+- **Different *but better* — pick a lane, own one idea.** Positioning against an established
+  competitor: *"you have to be different but better, because different for different is okay [not
+  enough],"* and introduce that difference *early* in the sales cycle, not at the end (or the
+  prospect just defaults to the bigger player). Own one core concept via the "thesis paper" method
+  — deep original research plus novel packaging (Sinek's "Start With Why," Godin's Icarus) — so you
+  can *"build your own entire life and career around one product."* (2019-04-01) `[self-reported]`
+  ([[../wiki/sources/2019-04-01-yt-J0m-fwEQ5TQ]])
+- **Race to the top, not to zero — differentiate meaningfully to the client.** Graduating from
+  cheap gig platforms to real clients is a *marketing* problem: differentiate in a way meaningful
+  *to the clients you want*, not to you or your peers. If they can't tell you apart, they buy on
+  price and you're *"doomed to race to zero… you have to race to the top"*; your marketing's *"tip
+  of the spear needs to be pointy, pointy, pointy."* Target people with *"more money than time"* —
+  high enough to solve problems by *"writing checks all day long."* (2019-02-27) `[self-reported]`
+  ([[../wiki/sources/2019-02-27-yt-vCn92eifsjM]])
+
+### Mindset (late 2018–2019) — out-hustle, weird about money, every peak a new base
+
+- **Out-hustle over talent; long-term focus forged at rock bottom.** After hitting *"emotional
+  rock bottom"* at 17–18 he *"flipped a switch"* toward long-term goals and short-term sacrifice,
+  trusting the result *"was going to wait for me."* Self-positioning: *"I might not be as talented…
+  as good-looking… as articulate as the next person, but man, I am going to out-hustle you… I will
+  not stop."* *"Nothing is as addictive to me as success."* A daily gratitude practice is his
+  *"life hack"* to retrain the brain toward positive self-talk. (2018-10-15) `[self-reported]`
+  ([[../wiki/sources/2018-10-15-yt-EkHAQQjhl90]])
+  > Earliest-dated, origin-story form of his "delayed gratification / play the long game" value
+  > (2025-03-11, Values below) — continuity, not a new position.
+- **"A weird business person… not really motivated by money."** *"I'm this weird business person,
+  I teach people how to make money, but I'm not really motivated by money"* — he wants to help
+  people, trusting the law of reciprocity that it comes back around. (2019-04-01) `[self-reported]`
+  ([[../wiki/sources/2019-04-01-yt-J0m-fwEQ5TQ]])
+- **Every peak is the base of another mountain.** He *does* want to reach the peak, but *"when I
+  reach the peak I realize I'm just at the base of another mountain"* — a summit only looks final;
+  reaching it reveals the next journey, so he can feel he's accomplished a lot and still hold that
+  *"all of my best work is still in front of me."* (2019-04-10) `[self-reported]`
+  ([[../wiki/sources/2019-04-10-yt-wHhcuix-ir8]])
+
+### Design craft (2019) — "undesigned design is hard," commit to a visual language
+
+- **"Undesigned design" is hard — restraint is the skill.** *"It's hard to make things very
+  simple look good, and that's why not very many people are successful."* If you commit to a
+  stripped-back / "undesigned" look you must follow it through *consistently* or you land *"stuck
+  in no-man's land."* Reframe "white space" as *negative space* — it *"does not have to be white;
+  black can be negative space, gold can be negative space."* (2019-03-25) `[self-reported]`
+  ([[../wiki/sources/2019-03-25-yt-P5cqMtqTNog]])
+- **One flourish, not thirty-five — and take your own thinking seriously.** Restraint in a mark:
+  *"it's one flourish, it's not to add 35 flourishes."* Understand the problem before making
+  (*"you tried to come to the solution without understanding the problem — that's a classic
+  no-no"*), research deeply, generate a hundred names, and present the thinking visually with
+  conviction, because *how* you present is *"a mirror to your soul."* (2019-03-11) `[self-reported]`
+  ([[../wiki/sources/2019-03-11-yt-N0WD9KG7kEY]])
+- **Aim 10–15 years younger than the audience you want.** Marketing rule of thumb: *"you have to
+  aim 10 to 15 years younger than what you want to hit"* (cautionary example: Scion aimed at teens
+  and ended up driven by old people). (2019-03-11) `[self-reported]`
+  ([[../wiki/sources/2019-03-11-yt-N0WD9KG7kEY]])
 
 ## Values
 

@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-17
-sources: 41
+updated: 2026-07-18
+sources: 51
 ---
 
 # Voice
@@ -42,6 +42,18 @@ test," the "knowledge vampire" and "selective filter" comparison devices, "karmi
 "what am I willing to give up?", "success leaves clues," and "making a difference vs making
 things." Also newly evidences the study-others/modeling habit and the content-creator
 market-gap mindset in the delivery notes.
+**Enriched (synthesis pass 6, 2026-07-18)** with ten Oct-2018→Apr-2019 P2-era sources
+(the anti-hourly pricing role-play, the two sales-call framework videos, the inbound/
+differentiation talk, the Melinda passive-income and marketing coaching episodes, the two
+"Young Guns" airline-branding critiques, the long-term-mindset office Q&A, and the Debbie
+Millman insecurity interview) — adding the "why do you want my hourly rate? / charging by
+the hour punishes me for being good" pricing lines, "don't go past the sale," "educate =
+educe, draw out not put in," "race to zero vs. race to the top," "the tip of the spear
+needs to be pointy, pointy, pointy," "more money than time," "build once, sell many times,"
+"nothing sells itself," "different but better," "every peak is the base of another
+mountain," the out-hustle creed, the gratitude "life hack," the "one flourish, not 35" and
+"aim 10-15 years younger" design-craft lines, typography as "the foundation of the house of
+my personality," and the X-Men "Mimic" self-concept.
 
 ## Signature phrases & catchphrases
 
@@ -57,8 +69,28 @@ quoted back to him.
 [[../wiki/sources/2023-12-23-yt-B-NxAZiDkKo]])
 
 > "Whoever asks more questions wins. Whoever asks more questions is in control of the
-> relationship." ([[../wiki/sources/2023-12-23-yt-B-NxAZiDkKo]];
-[[../wiki/sources/2019-04-12-yt-ivKnj9ffcmE]])
+> relationship." — the phrase predates the 2019/2023 sales role-plays; in early 2019 he
+> phrases it "whoever asks more questions is in control of the conversation" and frames it
+> as a scored game. ([[../wiki/sources/2023-12-23-yt-B-NxAZiDkKo]];
+[[../wiki/sources/2019-04-12-yt-ivKnj9ffcmE]]; [[../wiki/sources/2019-01-28-yt-lwipfn9znk0]])
+
+> "The root word [of] educate is *educe*, and that means to draw out, not put in." — so you
+> educate a client by asking questions, not by lecturing them about your process ("show me,
+> don't tell"). ([[../wiki/sources/2019-01-28-yt-lwipfn9znk0]])
+
+> "Do not go past the sale. So when a client agrees to the price, to the terms, just get off
+> the phone and get out of the way because you're only going to screw it up." — his
+> stop-selling-once-you've-won rule (cites Jordan Belfort's car-buying story). In the same
+> talk he glosses the listen-more discipline by holding up his ears and mouth: "You have one
+> of these and you have two of these; you should be doing this twice as much as this" (two
+> ears, one mouth — done right, "you speak ~10% and the client speaks ~90%").
+> ([[../wiki/sources/2019-01-14-yt-eoNH6ol9bmM]])
+
+> "You have to like educate them on the problem even more so than the solution." — his
+> "sell the problem before the solution" thesis: paint the pain vividly before revealing the
+> fix, because "people won't take action because they have something to gain, but they'll
+> take action cuz they're missing out on something."
+> ([[../wiki/sources/2019-04-01-yt-J0m-fwEQ5TQ]])
 
 > "Amateurs give advice. Experts diagnose." — a line he has repeated for years; already
 > verbatim in early book-review content ("amateurs give advice, experts diagnose") and again
@@ -116,6 +148,16 @@ quoted back to him.
 > "I'm not in the bid making business, I'm in the getting money from the client to pay me
 > to value me business." ([[../wiki/sources/2019-04-12-yt-ivKnj9ffcmE]])
 
+> "So I have a question for you, client. Why do you want to know my hourly rate?" / "So
+> charging by the hour punishes me for being good." — his Socratic anti-hourly argument:
+> flip the question back, then show that billing by the hour rewards being slow and punishes
+> speed and skill. ([[../wiki/sources/2018-12-26-yt-jE53O1PzmNU]])
+
+> "That's worth eighteen thousand dollars. Today. Come back to me in a year. It'll be
+> twenty-six." — good work appreciates; the price today is always the cheapest it will be
+> (an early instance of his most-repeated pricing line).
+> ([[../wiki/sources/2018-12-26-yt-jE53O1PzmNU]])
+
 > "I'll teach you to charge so much it makes your mom nervous. Hard truths gently told."
 > — his 2026 LinkedIn headline; the spoken analog is his mentor "Blen's" Friday-6-PM
 > phone-call test (charge enough that you're *happy* to pick up on your personal time).
@@ -150,6 +192,22 @@ quoted back to him.
 > "You want to go an inch wide and a mile deep, because you want to become an expert and you
 > want to be perceived as an expert." — his positioning/specialization catchphrase.
 > ([[../wiki/sources/2018-04-14-yt-52WYy8aESFs]])
+
+> "If you look the same to the clients that you want to work with, you're doomed to race to
+> zero. There's no way around it — you have to race to the top." — differentiate meaningfully
+> or compete on price. ([[../wiki/sources/2019-02-27-yt-vCn92eifsjM]])
+
+> "In your marketing, the tip of the spear needs to be pointy, pointy, pointy — that is
+> sharp, focused." — vagueness "screams desperation"; the marketing stays narrow even if you
+> broaden after you win the client. ([[../wiki/sources/2019-02-27-yt-vCn92eifsjM]])
+
+> "You have to be different but better. Cuz different for different is okay." — pick a lane
+> against an established competitor; novelty alone isn't enough.
+> ([[../wiki/sources/2019-04-01-yt-J0m-fwEQ5TQ]])
+
+> "You want to find people who have more money than time." — his ideal-client filter: target
+> clients rich enough to solve problems "by writing checks," where you can "operate as a peer
+> and a partner." ([[../wiki/sources/2019-02-27-yt-vCn92eifsjM]])
 
 > "To name something is for you to own it." / "When you label them you own them."
 ([[../wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]])
@@ -220,6 +278,11 @@ quoted back to him.
 > "This is what Jim Rohn says: success leaves clues. The thing is, you just need to be
 > willing to look for them." — the maxim behind his study-successful-people habit
 > (borrowed from Jim Rohn). ([[../wiki/sources/2018-09-11-yt-Xi3VhHp8llI]])
+
+> "I do want to reach the peak, but when I reach the peak I realize I'm just at the base of
+> another mountain." — his optimism/never-arrived frame: a summit only reveals the next
+> journey ("all of my best work is still in front of me").
+> ([[../wiki/sources/2019-04-10-yt-wHhcuix-ir8]])
 
 > "Over my life I've learned to love making a difference more than making things." — his
 > maker-to-entrepreneur identity shift ("a different mindset… an entrepreneurial mindset
@@ -295,6 +358,16 @@ quoted back to him.
 > "Love learning, but love applying more… learning for learning's sake is some form of
 > mental masturbation." ([[../wiki/sources/2025-03-11-yt-f6YiuU-P-6E]])
 
+> "I might not be as talented, I might not be as good-looking, I might not be as articulate
+> as the next person, but man, I am going to out-hustle you. I'm going to out-grind you
+> 'cause I'm going to learn and I will not stop." — his out-hustle creed, traced to a
+> teenage rock-bottom decision. ([[../wiki/sources/2018-10-15-yt-EkHAQQjhl90]])
+
+> "One simple tip, here's a life hack: be grateful. Start your day and end your day being
+> grateful for things that you already have." / "It's the one thing you give to somebody that
+> you get more in the act of giving to that person." — his daily gratitude practice as
+> positive-self-talk training. ([[../wiki/sources/2018-10-15-yt-EkHAQQjhl90]])
+
 **Content strategy / giving**
 
 > "Their fear is our opportunity, their reluctance is our game, their slow to move is our
@@ -309,6 +382,14 @@ quoted back to him.
 
 > "You have to start to develop a personality or persona that is you but not 100% you." —
 > his rule for hosting/on-camera presence. ([[../wiki/sources/2018-08-06-yt-6GMYDlGtHo8]])
+
+> "Build once, sell many times." — his definition of passive income (which does NOT mean "do
+> nothing": you still have to build the product, then market it relentlessly).
+> ([[../wiki/sources/2019-01-23-yt-7b_pEgV86BE]])
+
+> "None of this stuff sells itself, and that's a delusion many people tell themselves: 'I
+> will build it and they will come,' and nobody comes and they get really depressed." —
+> promotion matters as much as the product. ([[../wiki/sources/2019-01-23-yt-7b_pEgV86BE]])
 
 **Permission / teaching**
 
@@ -357,6 +438,23 @@ quoted back to him.
 
 > "It's how I move at the speed of thought." — on mastering keyboard shortcuts.
 ([[../wiki/sources/2017-12-12-yt-gI8fEZvwZyY]])
+
+> "When I found graphic design and I studied typography… it's like the heavens parted, a ray
+> of light hit me in the face… And that was the foundation of the house of my personality." —
+> typography/design as the anchor of his identity (from the autobiographical Debbie Millman
+> interview). ([[../wiki/sources/2019-04-10-yt-wHhcuix-ir8]])
+
+> "It's one flourish — it's not to add 35 flourishes." — his restraint rule in logo craft.
+> ([[../wiki/sources/2019-03-11-yt-N0WD9KG7kEY]])
+
+> "It's hard to make things very simple look good, and that's why not very many people are
+> successful." — on the difficulty of "undesigned design." ("I hate premium economy… those
+> two words don't even belong together, it's like jumbo shrimp.")
+> ([[../wiki/sources/2019-03-25-yt-P5cqMtqTNog]])
+
+> "More often than not, in terms of marketing, they say you have to aim 10 to 15 years
+> younger than what you want to hit." — his branding rule of thumb (cautionary example:
+> Toyota's Scion). ([[../wiki/sources/2019-03-11-yt-N0WD9KG7kEY]])
 
 **Design philosophy (logos, originality, timelessness)**
 
@@ -448,6 +546,18 @@ quoted back to him.
 > do not hang out with me because I'll take it and I'll own it and I'll put it out there
 > bigger and better than you." — his signature framing of his learn-by-modeling method.
 ([[../wiki/sources/2017-01-05-yt-rP2iDwSN_v8]])
+
+> "I'm like the X-Men character Mimic — I just steal stuff. So later today I will probably be
+> a little bit more Debbie Millman than I was 15 minutes ago." — the "knowledge vampire" /
+> Mimic self-concept: he watches and absorbs people's traits, doing them no harm.
+> ([[../wiki/sources/2019-04-10-yt-wHhcuix-ir8]]; echoes
+> [[../wiki/sources/2018-10-10-yt--yUgbMowG3w]])
+
+> "The cold, emotionless person that you might see in front of you was once a super emotional
+> person, and I had to divorce that part from my mind and from my body." / "I'd rather trade
+> the high highs and the low lows to be somewhere in the middle." / "Nothing is as addictive
+> to me as success." — his Spock-admiring, emotionally-detached self-frame, built out of a
+> volatile teenage self. ([[../wiki/sources/2018-10-15-yt-EkHAQQjhl90]])
 
 > "It wasn't that it was good. I just sucked less until I figured out my own trick." — on
 > his first torturous year of public speaking. ([[../wiki/sources/2017-01-05-yt-rP2iDwSN_v8]])

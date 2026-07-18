@@ -1,8 +1,8 @@
 ---
 type: hub
 domains: [mindset]
-updated: 2026-07-17
-tags: [mindset, self-belief, discipline, decision-making, teaching-philosophy, reframing, resilience, learning, imposter-syndrome, stoicism, momentum, integrity, self-doubt, growth-mindset, self-directed-learning, introvert, authenticity, expectation, action-bias, goal-setting, overwhelm, public-commitment, effort, credentials, be-of-service, career-path, positioning, goal-clarity, chunking, prism-self, comparison, knowledge-vampire, superpower, ikigai, sacrifice, modeling, value-exchange, education]
+updated: 2026-07-18
+tags: [mindset, self-belief, discipline, decision-making, teaching-philosophy, reframing, resilience, learning, imposter-syndrome, stoicism, momentum, integrity, self-doubt, growth-mindset, self-directed-learning, introvert, authenticity, expectation, action-bias, goal-setting, overwhelm, public-commitment, effort, credentials, be-of-service, career-path, positioning, goal-clarity, chunking, prism-self, comparison, knowledge-vampire, superpower, ikigai, sacrifice, modeling, value-exchange, education, gratitude, delayed-gratification, emotional-detachment, out-hustle, anti-planning, survival-mode, self-responsibility]
 ---
 
 # Mindset — hub
@@ -1525,6 +1525,152 @@ explicit criteria list.
 
 ---
 
+## 31. The long-game maintenance kit — "addicted to success," Spock & the gratitude life-hack
+
+From the 2018 long-vs-short-term-goals coaching session
+[[wiki/sources/2018-10-15-yt-EkHAQQjhl90]] (all 2018-10-15; community members Connor and
+Aaron are context). Where §6 states the *principle* of delayed gratification (2025) and
+§18/§29 date earlier instances, this session is Chris's fullest account of the *engines that
+sustain* a decades-long grind — and the daily practice that retrains the brain to keep going.
+(The rock-bottom → identity-decision origin story is biography and lives there; only the
+maintenance frameworks are here.)
+
+- **"Addicted to success" — out-hustle over talent** (2018-10-15): Chris frames himself as
+  having an addictive personality, and nothing is more addictive to him than success — small
+  sacrifices that yield short-term wins reinforce the behavior. His self-positioning is
+  explicitly *not* talent but relentlessness. [self-reported]
+
+  > "Nothing is as addictive to me as success." — Chris Do, 2018-10-15
+  > "I might not be as talented, I might not be as good-looking, I might not be as articulate as
+  > the next person, but man, I am going to out-hustle you. I'm going to out-grind you 'cause I'm
+  > going to learn and I will not stop." — Chris Do, 2018-10-15
+
+- **"Slay the wolf" — extract the full lesson or it recurs** (2018-10-15): a metaphor from the
+  film *300* (the Spartan coming-of-age) — it isn't enough to *survive* a hard experience; you
+  must also extract its complete lesson, or the same problem crops back up. The named, recurring
+  companion to §3/§27's failure-as-tuition; the "kill your wolf" phrasing recurs in the 2018-12
+  responsibility talk (§33). *(His citation — the 300 image.)*
+
+  > "You survived but maybe you didn't slay the wolf, and that's why these problems are cropping
+  > back up." — Chris Do, 2018-10-15
+
+- **Uncapped *internal* celebration, never outward boasting** (2018-10-15): there should be no
+  limit on privately celebrating your accomplishments; the line is between private
+  self-recognition (healthy) and outward boasting ("I'm the baddest mofo in the room" — "that's
+  not confidence"). (Pairs with §12's "give yourself credit for what went right.")
+
+  > "Why do we have to feel like there's a limit on how much we celebrate our accomplishments, as
+  > long as it's happening internally?" — Chris Do, 2018-10-15
+  > "I love myself, I love everything I do, I love my life, I love my wife... and things that I
+  > don't love, I just get rid of." — Chris Do, 2018-10-15
+
+- **Emotional detachment — trade the highs and lows for the middle ("Spock")** (2018-10-15): once
+  a "super emotional" person, Chris deliberately divorced emotion from decision-making, trading
+  volatility for stability. His childhood hero was Spock — running life through logic ("the needs
+  of the many outweigh the needs of the few"). He notes his therapist called Spock "a tragic
+  character" — a rare self-aware caveat on the stance. [self-reported]
+
+  > "The cold, emotionless person that you might see in front of you was once a super emotional
+  > person, and I had to divorce that part from my mind and from my body." — Chris Do, 2018-10-15
+  > "I'd rather trade the high highs and the low lows to be somewhere in the middle."
+  > — Chris Do, 2018-10-15
+
+- **The gratitude "life hack" — a daily brain-retraining practice** (2018-10-15): start and end
+  each day being grateful for what you already have; nightly, write ~4–5 things you're grateful
+  for — better still, tell the people directly. A prompt version: **3 things you're grateful for,
+  1 person you're grateful for, 1 positive lesson learned today.** This trains the brain to hunt
+  for the positive and reframes negative self-talk ("you're not good enough") into positive ("I
+  am valuable; few can do what I create"). Gratitude is also uniquely generous — the giver gains
+  more than the receiver.
+
+  > "One simple tip, here's a life hack: be grateful. Start your day and end your day being
+  > grateful for things that you already have." — Chris Do, 2018-10-15
+  > "It's the one thing you give to somebody that you get more in the act of giving to that
+  > person." — Chris Do, 2018-10-15
+
+This is also an *earlier dated* instance of §6's delayed-gratification / long-game belief
+(2018-10-15 vs. 2025-03-11) — the "I'm in my prime right now, make the sacrifice young" urgency
+he later relays as his father's lesson (§18/§29).
+
+---
+
+## 32. Anti-planning & "survival mode" — throw out the business plan
+
+From two 2019 Melinda Livsey coaching episodes [[wiki/sources/2019-04-01-yt-J0m-fwEQ5TQ]] (Ep. 16)
+and [[wiki/sources/2019-04-08-yt-apqbrvu2VlE]] (Ep. 17) (dates as cited; Melinda is context).
+Chris's bias-to-action (§17's "too dumb to fail") sharpened into an explicit stance on *long-range
+planning* — plus a rare window into how he runs The Futur.
+
+- **"Throw out your business plan" — don't plan a year ahead** (2019-04-08): market conditions,
+  people, trends, and competitors all change, so a year of detailed planning is a luxury he
+  refuses; cites **Rework** (Jason Fried & David Heinemeier Hansson). *(His citation.)*
+
+  > "Everything changes — market conditions change, people change, trends change, competitors
+  > change — so we don't have the luxury to sit down and say okay, here's a year's worth of
+  > planning." — Chris Do, 2019-04-08
+
+- **The Futur as a self-funded startup in "survival mode"** (2019-04-08): rather than long
+  horizons, he runs to the *next runway milestone*, invoking the famous photo of **Jeff Bezos** in
+  a cluttered, dingy early-Amazon office. [self-reported]
+
+  > ⚠️ CONTRADICTION (surface-level, resolvable): "throw out your business plan" / run to the next
+  > milestone (2019-04-08) sits against §18/§25's goal *decomposition and planning* (define →
+  > chop-down; think-first, "don't go squirrel"). Reconcilable — anti-planning governs the
+  > *unpredictable external* horizon (markets, competitors) while decomposition governs *your own*
+  > goal, and it aligns with §13's explorer-vs-GPS "watch the ground in front of you" — but a
+  > persona answer shouldn't invoke "throw out the plan" and "chop the goal into a day-by-day plan"
+  > as one stance. Date-stamp whichever is invoked.
+
+- **"I'm not really motivated by money"** (2019-04-01): Chris frames himself as a "weird business
+  person" who teaches people to make money but isn't driven by it — he wants to help people and
+  trusts the law of reciprocity to bring it back around. (The motivational counterpart to §10's
+  "money has no power over you"; the same give-give-give / reciprocity engine he describes a week
+  later in Ep. 17.)
+
+  > "I'm this weird business person, I teach people how to make money, but then I'm not really
+  > motivated by money." — Chris Do, 2019-04-01
+
+---
+
+## 33. Take 100% responsibility for your life — self-authorship over inherited expectation
+
+From the 2018 "Take Full Responsibility for Your Life" coaching exchange
+[[wiki/sources/2018-12-05-yt-mruxbUxEUS4]] (all 2018-12-05; the young guest is context). A distinct
+*axis* of responsibility from §6's radical accountability (owning *events* to learn, 2025) and
+§27's adversity reframe (owning a *bad outcome*, 2018-10-10): here responsibility means authoring
+your own life direction and refusing to let parental or cultural expectation dictate it. Chris
+flags his own delivery as intentionally "insensitive" tough love. (The autobiographical grounding —
+parents opposing design school, Art Center, the "black sheep" arc — is biography and lives there;
+only the framework is here.)
+
+- **Stop using your parents as a crutch — take 100% responsibility** (2018-12-05): stop blaming
+  parents or society; only full ownership produces positive change.
+
+  > "Stop using your parents as a crutch, stop blaming society, take 100% responsibility for life,
+  > because that's the only way positive things are going to happen for you." — Chris Do, 2018-12-05
+
+- **Parents' "operating system" is out of date** (2018-12-05): a parent's blueprint for success was
+  formed before the internet, iPhone, and personal computers — well-meant but obsolete. The proper
+  mission of a parent is to design a life so their children eventually *don't need them* (he states
+  this as his own aim for his two sons).
+
+  > "The operating system, the blueprint for success that your parents have are completely out of
+  > date." — Chris Do, 2018-12-05
+
+- **No balance, no compromise — "do or do not"** (2018-12-05): on the dream-vs-parents'-wishes
+  question there is no middle path; you either do it or you don't. The worst way to honor how they
+  raised you is to become a deadbeat who gave up on your dreams.
+
+  > "The worst thing that I can do to honor the way that you raised me is to be a deadbeat, having
+  > given up on my dreams." — Chris Do, 2018-12-05
+
+- **The "when you're 50" visualization** (2018-12-05): picture your future self and ask whether you
+  followed your dream; failing to answer "hell yeah" should be your greatest disappointment. Honor
+  the promise you made yourself as a child. (Same self-authored move as §13's "choose your defining
+  moment.")
+
+---
+
 ## Cross-cutting patterns
 
 - **Language is the lever.** War Jitsu (§3), "share" not "teach" (§7), defining words like
@@ -1601,8 +1747,18 @@ explicit criteria list.
   ("what are you willing to give up?", convert knowledge→equity, growth-is-the-reward, just-start) — 2018-10-07
 - [[wiki/sources/2018-10-10-yt--yUgbMowG3w]] — "How To Not Feel Like An Imposter When Comparing"
   ("selective filter", "knowledge vampire", comparison-is-the-thief-of-joy, $30k-lesson reframe) — 2018-10-10
+- [[wiki/sources/2018-10-15-yt-EkHAQQjhl90]] — "Mindset Shift: Long vs Short Term Goals"
+  ("addicted to success" / out-hustle, "slay the wolf", internal celebration, Spock emotional
+  detachment, gratitude life-hack) — 2018-10-15
 - [[wiki/sources/2018-11-01-yt-9qwVLdNNZP8]] — Will Paterson interview (imposter syndrome,
   mountain metaphor, see-yourself-through-clients'-eyes) — 2018-11-01
+- [[wiki/sources/2018-12-05-yt-mruxbUxEUS4]] — "Take Full Responsibility for Your Life"
+  (take 100% responsibility / self-authorship, parents' outdated "operating system",
+  "when you're 50" visualization) — 2018-12-05
+- [[wiki/sources/2019-04-01-yt-J0m-fwEQ5TQ]] — Melinda Livsey Ep. 16 "How Do I Market My Product?"
+  (cited here for anti-planning mindset: "weird business person, not motivated by money") — 2019-04-01
+- [[wiki/sources/2019-04-08-yt-apqbrvu2VlE]] — Melinda Livsey Ep. 17 "How Do You Find Customers?"
+  (cited here for "throw out your business plan" / The Futur in "survival mode") — 2019-04-08
 - [[wiki/sources/2019-08-12-yt-f7T1Zs28Deo]] — ★ AIGA 2019 keynote "What You Believe Becomes
   Reality" (belief cycle, interpretation, War Jitsu, inner-critic exercise) — 2019-08-12
 - [[wiki/sources/2020-06-09-yt-ujxvy5NjeRQ]] — ★ "How To Learn Anything" whiteboard session

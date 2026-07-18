@@ -3,8 +3,8 @@ type: hub
 domain: sales-clients
 domains: [sales-clients]
 created: 2026-07-14
-updated: 2026-07-17
-tags: [sales, negotiation, objection-handling, discovery, positioning, client-management, role-play, serve-dont-sell, embrace-and-pivot, qualifying, closing, client-archetypes, blair-enns, cialdini, leverage, first-client-call, business-development, ambassador, presenting, pitching, money-mindset, strategy-selling, order-taker, trusted-advisor, jobs-to-be-done, decks-are-crutches, difficult-clients, boundary-setting, know-trust-like, inbound-outbound, firing-clients, dont-convince, objection-response-deck, control-energy, diagnostic-phase, outcomes-over-craft, strategist-reframe, client-selection, three-outcomes, mirror-the-ask, build-rapport, reciprocity, time-vampires, dinner-test]
+updated: 2026-07-18
+tags: [sales, negotiation, objection-handling, discovery, positioning, client-management, role-play, serve-dont-sell, embrace-and-pivot, qualifying, closing, client-archetypes, blair-enns, cialdini, leverage, first-client-call, business-development, ambassador, presenting, pitching, money-mindset, strategy-selling, order-taker, trusted-advisor, jobs-to-be-done, decks-are-crutches, difficult-clients, boundary-setting, know-trust-like, inbound-outbound, firing-clients, dont-convince, objection-response-deck, control-energy, diagnostic-phase, outcomes-over-craft, strategist-reframe, client-selection, three-outcomes, mirror-the-ask, build-rapport, reciprocity, time-vampires, dinner-test, sell-your-idea, foreign-idea-invader, outreach-challenge, jim-rohn, mentorship, value-exchange, scaffolding, five-sales-mistakes, two-ears-one-mouth, talk-money-early, match-and-mirror, tony-robbins, buyer-types, referral-fee, minimum-level-of-engagement, value-buyer, lead-temperature, hot-warm-cold-leads, russell-brunson]
 ---
 
 # Sales & Clients — hub
@@ -1700,6 +1700,270 @@ triad ("do I like you?").
 
 ---
 
+## 31. "I sell you your idea" — reflect the question back, the foreign-idea thesis (2018)
+
+From "Ask More Questions Until The Problem or Solution Becomes Clear" (2018-10-25)
+[[wiki/sources/2018-10-25-yt--cuy994Fs64]] — single-speaker teaching clip; the "Mary"
+role-play is a hypothetical illustration (*context*). Chris's sharpest statement of *why*
+the reflect-questions-back mechanic works, plus a memorable framing of it.
+
+**Don't answer — hold a mirror up** (2018-10-25): when a client asks a question, resist the
+reflex to answer; invert it and reflect it back with another question until they reach
+clarity themselves.
+
+> "This is what I sell. I don't sell you my idea, I sell you your idea. So I'm gonna keep
+> asking you more and more questions so you get clarity." (2018-10-25)
+
+> "How do you know so much about our business? And I walk away thinking, I don't. I just
+> asked you more questions until you know more about your business." (2018-10-25)
+
+**The foreign-idea-as-invader thesis** (2018-10-25) — the psychological reason to lead the
+client to their own conclusion instead of telling them:
+
+> "All ideas that are not our own sound foreign, and foreign ideas are hard for us to take
+> in." / "A foreign idea, it's kind of like an invader into our brain." (2018-10-25)
+
+People resist an externally-supplied idea the way a new song needs repeat plays before you
+like it, or the way we reject a spouse telling us what to do — "We hate being told what to
+do." We can solve anyone's problems but not our own ("we lack perspective... objectivity...
+driven more by emotion"), so the questioner's job is to ask until the problem is clear, then
+bridge to price: "If that's a problem you think is worth solving, let's engage. Let's talk
+about what that's worth." (2018-10-25)
+
+Deepens §2 (diagnose/ask), §13 ("educe, don't educate"), and §24 ("don't convince") — the
+invader thesis is the mechanism underneath all three.
+
+---
+
+## 32. The Commute Challenge — 30 outreaches a week, bigger fish + fringe (2018)
+
+From "How To Get More Clients: A Challenge To Get More Leads" (2018-10-31)
+[[wiki/sources/2018-10-31-yt-iWDoF1pJfGY]] — the debut of Chris's "Commute Challenge"
+series; solo monologue. A concrete client-acquisition playbook: stop waiting on funnels, do
+direct human outreach.
+
+**The diagnostic** (2018-10-31): to "how do I find more / better / bigger clients," Chris
+always counters with "how many people do you talk to in a week?" — "usually the answer is
+none." Beginners over-rely on lead/click funnels and automated marketing, which rarely works
+for early-stage creative services.
+
+**The challenge — 30 people in one week** (credited to **Jim Rohn**):
+
+> "This comes straight from the master himself, Jim Rohn. I challenge every single one of you
+> to go out there and reach out to 30 people — 30 people in one week." (2018-10-31)
+
+**Two outreach targets** (2018-10-31):
+- **Bigger fish** — a larger agency/studio you'd love to model after. Big firms get many
+  leads that aren't right for them and refer the overflow, so position yourself to receive
+  their misfit leads: "look for those people who are probably saying no to leads that are
+  perfect for you."
+- **"Fringe service providers"** — adjacent, non-competing creatives who already have clients
+  (a designer contacts photographers; a photographer contacts a web developer). Even with no
+  immediate work, you build a referral network for when a big project needs marketing +
+  photography + web design.
+
+The direct-outreach counterpart to §16's warm-network "ambassador" BD and §9's
+rapport-practice; the referral-network logic here pairs with the referral-fee mechanics in
+§36.
+
+---
+
+## 33. Getting a mentor's time — value exchange, ask small, scaffolding (2018)
+
+From a live Q&A/role-play, "How do we get a mentor to spend time with you?" (2018-12-20)
+[[wiki/sources/2018-12-20-yt-3PMB0emL7RY]] — students'/"Anastasia's" lines are *context,
+excluded*. A tactical career/BD framework that generalizes directly to the sales "ask."
+
+**Not flattery — a value exchange** (2018-12-20): praise is the wrong opening; the mentor has
+time, so you must offer value back.
+
+> "What you need to understand is there has to be a value exchange." (2018-12-20)
+
+**Ask small to get a yes** (2018-12-20): request 15 minutes, not an hour, because the whole
+objective is a yes.
+
+> "If I ask you for 24 hours of your time, what would you say? You would say no. But I've
+> asked you for 15 minutes — the likelihood of them saying yes is pretty good." (2018-12-20)
+
+Keep the ask low-commitment: "Can I buy you a cup of coffee?" not "can we go on a road trip?"
+
+**Scaffolding — start tiny, trade up** (2018-12-20):
+
+> "What you may want is a mentor to take you under their wing and give you all their time. But
+> you can't just start there... you're gonna trade up each time. This is a stairway, a ladder
+> — that's why it's called scaffolding." (2018-12-20)
+
+Explicitly the same as the sales ask: "When you ask a client to give you $30,000 for a logo
+they say get off my face. So ask for something small and keep trading up." (2018-12-20) (Same
+scaffold-the-ask instinct as §9; "scaffolding" is also Chris's term for staged creative
+presentation, §7.)
+
+**Price the time, over-deliver 2–5x** (2018-12-20): value the mentor's hour (his example:
+$1,000/hr), quarter it — 15 min ≈ $250 of value — and figure out how to give *more* than that.
+
+> "If you gave me two, three, five times the value of the money that I gave you my time, I'm
+> more likely to say yes. This is how commerce is built." (2018-12-20)
+
+**Get into their head; don't assume** (2018-12-20): value systems differ, so learn what *they*
+find valuable; the model ask brackets the time and offers something without presuming —
+"You did not make an assumption as to what would be valuable to me. You were very specific
+with your ask and you offered up something to show that you were genuine." Complements §16
+(BD) and the reveal-first reciprocity of §29.
+
+---
+
+## 34. Five things you should NEVER do on a sales call (2019)
+
+From "5 Things You Should NEVER do on a Sales Call" (2019-01-14)
+[[wiki/sources/2019-01-14-yt-eoNH6ol9bmM]] — single-speaker monologue. A landmark
+sales-call-discipline checklist; the through-line is restraint.
+
+**The five mistakes** (2019-01-14):
+1. **Don't go in desperate** — "Don't go in desperate because the clients can smell that";
+   desperation pushes you into justifying every point they raise.
+2. **Don't cut off / interrupt** — "Never ever ever cut off the client... it's a good sign
+   that you're not listening" and it makes them wary.
+3. **Don't assume what they want, need, or value** — ask and let them state it; stay neutral.
+   He admits he used to assume clients needed "a logo and a brand identity" they'd never asked
+   for — "just shoving it down their throat." Neutrality is what closes: "If you can remain
+   neutral and unbiased... you're going to close clients, you're going to build rapport and
+   earn their trust."
+4. **Don't go past the sale** — "when a client agrees to the price, to the terms, just get off
+   the phone and get out of the way because you're only going to screw it up." (Jordan Belfort's
+   car story: salespeople "trained like dogs" kept selling and lost the ready buyer.)
+5. **Don't fixate on your script / next question** — he used to prep ~10 questions off the RFP
+   and fire them without listening to the answers; let the client drive.
+
+**Two ears, one mouth — ~10% you / 90% them** (2019-01-14):
+
+> "You have one of these and you have two of these; you should be doing this twice as much as
+> this." (2019-01-14, two ears / one mouth)
+
+Done right, the client speaks ~90% of the time — "They are spilling their hearts out, they're
+telling you what's valuable, what they need from you." (2019-01-14)
+
+Consolidates several hub threads into one checklist: §12 (don't be needy/desperate), §2
+(ask, don't assume), §25 (stay neutral / control energy), and §13/§19/§36 (don't go past the
+sale). Its positive mirror is §35.
+
+---
+
+## 35. Five rules to rule your sales call (2019)
+
+From "Watch This Before Your Next Client Call Or Regret It Later" (2019-01-28)
+[[wiki/sources/2019-01-28-yt-lwipfn9znk0]] — predominantly a Chris monologue; a closing
+role-play with participant "Aaron" is *context*. The positive mirror of §34.
+
+> ⚠️ CAPTION NOTE: the source's rules are numbered 1, 2, 3, and "the fifth rule" with no
+> explicit rule 4 — the "quality of questions" segment is the un-numbered fourth rule.
+
+- **Rule 1 — Talk about money early** (2019-01-28): "Talk about money early. Get over your
+  fear — actually talking about money is the professional thing to do." Price answers the fit
+  question both sides already have, or you burn "45 minutes, an hour, multiple calls." "By not
+  talking about [money] you are failing to answer the number one question on both of your
+  minds." (Consistent with §15's "float numbers"/confirm-before-proposing and the §9
+  qualify-budget-early move.)
+- **Rule 2 — Style > substance; match & mirror** (credited to **Tony Robbins**): "people
+  remember how you made them feel long after they forget your words." "If somebody talks fast
+  you have to talk fast; if somebody talks slow you need to talk slow... build rapport through
+  matching and mirroring." Learn to modulate off one monotone energy level. (New attribution;
+  complements the "control and direct energy" delivery of §17/§19/§25.)
+- **Rule 3 — Show me, don't tell / educe** (2019-01-28): don't lecture clients about your
+  process; "The root word [of] educate is *educe*, and that means to draw out, not put in" —
+  you educate by asking questions. The more you tell, the more it feels like high-pressure
+  selling and the more likely they say no. (Restates §13's "educe, don't educate," 2016.)
+- **Rule 4 (unlabeled) — Whoever asks more questions is in control; question quality = your
+  value** (2019-01-28): keep score if you like. Use directed-but-open-ended questions, avoid
+  yes/no, and rank them — "Why questions are the highest value, how questions are the next
+  value, and then what questions. So start with why and then end with what." (Sharpens the §2
+  "whoever asks more questions is in control" line and its why>how>what hierarchy.)
+- **Rule 5 — Build trust by staying neutral** (2019-01-28): "the objective is to provide the
+  client with information to help them make the best decision for them — not for you, for
+  them." Remove yourself from the sale up to three times per call; recommend a competitor if
+  they'd do it better. On the fear of recommending others away: "How can you lose something you
+  did not have?" Many clients hire on know/like/trust over pure qualifications. (The "remove
+  yourself three times" move restates the §12 Blair-Enns kill-the-engagement stance.)
+
+---
+
+## 36. The four buyer types (2019)
+
+From "4 Different Buyer Types and How to Respond" (2019-02-04)
+[[wiki/sources/2019-02-04-yt-SzW8TUoN01M]] — single-speaker monologue. A qualifying taxonomy:
+identify the buyer's psychology fast, then respond to *that* instead of defaulting to price.
+
+1. **Price buyer** — wants the lowest price; the bargain shopper. **Response:** identify fast
+   and refer out (Fiverr/99designs, or a friend/up-and-comer), ideally for a referral fee.
+   Don't try to win them.
+2. **Indecisive buyer** — "I'm not sure, let me think about it"; no urgency, lacks context
+   ("doesn't know good from bad, low from high"). **Response:** don't waste time selling —
+   "Why don't you talk to a bunch of people and call me last... but just know that I'm going
+   to be the highest bid," then give them information to decide.
+3. **Know-it-all buyer** — plays art director, dictates your tools. **Response:** embrace —
+   "agree with everything they say" (including that it's simple and cheaper elsewhere) — then
+   hold your price: "It's simple... but to get me to do it, it's going to be $5,000 bucks,"
+   and see what they do. (A pointed application of §10 embrace-and-pivot and the §20 dictating-
+   client method.)
+4. **Value buyer** ("the Holy Grail") — doesn't care about price, only results; buys on
+   emotion and justifies with logic later; high urgency. **Response:** don't treat them like a
+   price buyer, don't feature-dump, and **don't go past the sale** (the Porsche buyer already
+   decided emotionally). Distinguish want (emotional) vs. need (features).
+
+> "The value buyer... base their purchasing decision based on emotion and not logic. They buy
+> with emotion and they use logic to justify their purchase later." (2019-02-04)
+
+**Referral-fee + MLE mechanics** (2019-02-04) — new and concrete: when a job is below your
+**minimum level of engagement (MLE)** (e.g. they'll pay $1,500, your minimum is $5,000), hand
+it to a buddy and ask a **10–15% referral fee (up to 20–30%)**. This is legitimate, not
+"giving it away" — The Futur itself pays reps a stipend plus a percentage for leads, and good
+leads are what most designers lack.
+
+> "If a job is too small for you... refer to a buddy and just hand it off, and just ask the
+> buddy, are you okay with paying me a 10, 15% referral fee?" (2019-02-04)
+
+Sharpens §9's qualification triad ("can they afford it?") and §16/§32's decline-and-refer with
+an explicit fee mechanic. See [[wiki/topics/pricing/pricing]].
+
+---
+
+## 37. Lead temperature — hot / warm / cold (Russell Brunson) (2019)
+
+From "Convert Cold Leads into Paying Clients" (2019-03-19)
+[[wiki/sources/2019-03-19-yt-7Wsrq0dfYsw]] — single-speaker monologue.
+
+> ⚠️ ATTRIBUTION: This is a **borrowed framework**. Chris explicitly credits **Russell
+> Brunson** (*DotCom Secrets / Traffic Secrets*) for the lead-temperature model — it is a
+> third-party framework Chris teaches and applies, **not original to him**. Cite as such.
+
+Classify a lead by "temperature" — how much they already know and trust you ("preframing" /
+"priming" before they arrive) — and match the communication style, the question you answer,
+and the bridge to each:
+
+- **Hot lead** — already knows/trusts you, on your email list, an established relationship
+  (e.g. has watched The Futur's 700+ videos). **Style:** personality-driven — be yourself,
+  share stories, opinions, a bit of private life. **Question you answer:** *what is the
+  product?*
+- **Warm lead** — doesn't know you but knows someone you know (a common reference point, "six
+  degrees"), often via Facebook/Instagram/Twitter. **Bridge:** a trusted endorsement/affiliate.
+  **Question:** *what is the solution?*
+- **Cold lead** — no idea who you are, what you offer, or whether to trust you; the hardest,
+  and where *most* people sit. **Move:** provide clarity — first name the problem in language
+  they already understand, then bridge up the awareness ladder (problem-aware → solution-aware
+  → product). **Question:** *what is the problem?*
+
+> "There's three temperatures: hot, warm and cold." (2019-03-19)
+
+> "First you need to tell them what the problem is and you need to tell them in terms that they
+> understand — you gotta build a bridge from general questions to something that's much more
+> specific." (2019-03-19)
+
+The cold-lead "name the problem in their words, then move them up the awareness ladder" is the
+marketing-funnel counterpart to §6's problem-awareness selling ("teach people about the
+problem," Better Call Saul). See [[wiki/topics/pricing/pricing]] and
+[[wiki/entities/russell-brunson]] (context page — create when warranted).
+
+---
+
 ## Cross-links
 
 - [[wiki/topics/pricing/pricing]] — value-based pricing, the desired-future-state → value
@@ -1779,6 +2043,20 @@ triad ("do I like you?").
   earliest red flags (talking-past-each-other, brain-picking, bad listeners), the "dinner test."
 - [[wiki/sources/2018-10-17-yt-DjgVwN_k_88]] — How to Negotiate a Lowball Offer
   (2018-10-17) — anchoring, re-anchoring, negotiate-against-themselves.
+- [[wiki/sources/2018-10-25-yt--cuy994Fs64]] — Ask More Questions Until It's Clear
+  (2018-10-25) — "I sell you your idea," hold-a-mirror-up, foreign-idea-as-invader thesis.
+- [[wiki/sources/2018-10-31-yt-iWDoF1pJfGY]] — How To Get More Clients: A Challenge
+  (2018-10-31) — the Commute Challenge, 30 outreaches/week (Jim Rohn), bigger-fish + fringe.
+- [[wiki/sources/2018-12-20-yt-3PMB0emL7RY]] — How To Get A Mentor (2018-12-20) —
+  value-exchange ask, ask-small-for-a-yes, scaffolding/trade-up, price-the-time, 2–5x value; *students = context.*
+- [[wiki/sources/2019-01-14-yt-eoNH6ol9bmM]] — 5 Things You Should NEVER Do On A Sales Call
+  (2019-01-14) — don't-be-desperate/interrupt/assume/go-past-the-sale/fixate; two-ears-one-mouth.
+- [[wiki/sources/2019-01-28-yt-lwipfn9znk0]] — 5 Rules To Rule Your Sales Call (2019-01-28) —
+  talk-money-early, style>substance/match-mirror (Tony Robbins), educe, why>how>what, stay-neutral; *"Aaron" = context.*
+- [[wiki/sources/2019-02-04-yt-SzW8TUoN01M]] — 4 Different Buyer Types (2019-02-04) —
+  price/indecisive/know-it-all/value buyers, matched tactics, referral-fee + MLE mechanics.
+- [[wiki/sources/2019-03-19-yt-7Wsrq0dfYsw]] — Convert Cold Leads Into Paying Clients
+  (2019-03-19) — hot/warm/cold lead temperature (borrowed from Russell Brunson), awareness ladder.
 - [[wiki/sources/2019-04-12-yt-ivKnj9ffcmE]] — Value-Based Pricing / AIGA (2019-04-12) —
   diagnose-don't-prescribe, question technique, let-the-client-name-value.
 - [[wiki/sources/2019-06-27-yt-A24V7CUWe4M]] — Building A Brand Ep.6, logo process

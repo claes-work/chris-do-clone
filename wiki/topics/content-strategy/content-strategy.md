@@ -2,8 +2,8 @@
 type: hub
 domain: content-strategy
 domains: [content-strategy]
-updated: 2026-07-17
-tags: [content-strategy, audience-building, organic-growth, storytelling, attraction-marketing, permission-marketing, community, movement, give-first, karmic-equity, awareness-funnel, portfolio, show-your-work, process-not-product, youtube-strategy, thumbnails, cold-open]
+updated: 2026-07-18
+tags: [content-strategy, audience-building, organic-growth, storytelling, attraction-marketing, permission-marketing, community, movement, give-first, karmic-equity, awareness-funnel, portfolio, show-your-work, process-not-product, youtube-strategy, thumbnails, cold-open, awareness-matrix, niching, differentiation, sell-the-problem, thesis-paper, funnel-math, reciprocity, expert-positioning]
 ---
 
 # Content Strategy — hub
@@ -907,6 +907,313 @@ material. `[2018-08-06]` [[wiki/sources/2018-08-06-yt-6GMYDlGtHo8]]
 
 ---
 
+## 18. Attract your ideal client through content marketing (the 2018 Melinda Ep. 13 exposition)
+
+His most coherent single teaching on *attraction through content* — delivered coaching
+Melinda Livsey (context, not persona). This is the give-first machine (§1) explained as a
+client-acquisition system, a year before he formalized it on Instagram (§5). `[2018-12-10]`
+[[wiki/sources/2018-12-10-yt-37gKuNp-XLw]]
+
+- **Write for a previous version of yourself** — aim content at the person you were ~6–18
+  months ago, whose struggle you remember, because you can relate to them and help them
+  make the transition you already made. (This is the specific mechanism behind the "teach
+  your younger self" line in §3.) `[2018-12-10]` [[wiki/sources/2018-12-10-yt-37gKuNp-XLw]]
+
+- **Content marketing is NOT a disguised ad.** It is misunderstood as a pitch dressed up
+  as content; really it's creating a genuinely valuable free resource so that when someone
+  searches a specific phrase, your thing appears in the top organic results. A thin
+  "brand strategy for XYZ" page won't rank; a content-rich page (he cites Russell
+  Brunson's "pre-frame") — a ~10,000-word article breaking down your process, the
+  benefits, and usable tools — moves high. `[2018-12-10]`
+  [[wiki/sources/2018-12-10-yt-37gKuNp-XLw]]
+
+  > "Content marketing... they think content marketing is to create things like to pitch
+  > and to sell your services like a different version of an ad. And I don't think it's
+  > like that at all." — Chris Do `[2018-12-10]`
+
+- **Creatives become your champions.** The Futur publishes for creatives (not owners), yet
+  those creatives carry the name to the decision-makers who hire ("should we bring her
+  in?"). Decision-makers have little time to find you; the creatives in your past have more
+  time and push you up. `[2018-12-10]` [[wiki/sources/2018-12-10-yt-37gKuNp-XLw]]
+
+- **Community over competition.** Giving knowledge away for free lifts you *above*
+  competition — former competitors call *him* for advice once fear is removed. Generosity
+  signals the confidence and expertise any collaborator wants; people who aren't confident
+  hoard their knowledge. `[2018-12-10]` [[wiki/sources/2018-12-10-yt-37gKuNp-XLw]] (The
+  phrase "community over competition" originates with Melinda in this session; Chris
+  endorsed it.)
+
+  > "When we lose a job it's not because they beat us — it's because we lost ourselves." —
+  > Chris Do `[2018-12-10]`
+
+  > "When you share openly in a very transparent way without a hard sales pitch anywhere in
+  > there... you demonstrate confidence and you demonstrate expertise." — Chris Do
+  > `[2018-12-10]`
+
+- **Momentum and direction over plans.** "Plans are overrated" — he prefers direction and
+  momentum because conditions change and you must react; overly bulletproof plans leave no
+  room to meander and adapt. The content corollary: make *many small bets* (seven articles,
+  not one giant one), publish on a cadence, read the feedback, and adapt. `[2018-12-10]`
+  [[wiki/sources/2018-12-10-yt-37gKuNp-XLw]]
+
+  > "Plans are overrated. I like direction and momentum in favor of a plan." — Chris Do
+  > `[2018-12-10]`
+
+- **Content marketing is a bamboo seed** — years of watering with no visible result, then it
+  sprouts explosively; not a quick fix. He reports The Futur's inbound now arrives only two
+  ways — referrals and content marketing — with content soon to eclipse referrals
+  `[self-reported, 2018-12-10]`. [[wiki/sources/2018-12-10-yt-37gKuNp-XLw]] (Same long-game
+  logic as the §5 Johnny Appleseed / infinite-game framing.)
+
+---
+
+## 19. Promote a passive-income product: the market-awareness matrix (2019 Melinda Ep. 15)
+
+Chris's most complete single treatment of *promoting/marketing* a finished digital product,
+from a live sales-page audit for Melinda (context, not persona). Chris-attributed material
+only. `[2019-02-06]` [[wiki/sources/2019-02-06-yt-V6BJxvxUXss]]
+
+- **Separate feelings from facts and data.** Before promoting, ask whether the audience is
+  even aware they *have* the problem — validate gut feelings with polls, don't assume.
+  `[2019-02-06]` [[wiki/sources/2019-02-06-yt-V6BJxvxUXss]]
+
+  > "I just want to separate feelings and emotions from facts and data. If everybody is
+  > aware of the problem, selling to them is a lot easier; if they're not aware of the
+  > problem, selling to them becomes much harder." — Chris Do `[2019-02-06]`
+
+- **The awareness matrix** — buyers fall into combinations of (aware of the problem / not) ×
+  (aware of you / not); the worst case is aware of neither. If you can assume they're aware
+  of the problem and just need to become aware of you and your solution, selling gets "a lot
+  easier." `[2019-02-06]` [[wiki/sources/2019-02-06-yt-V6BJxvxUXss]]
+
+- **Finite-audience reframe — conversations over campaigns.** Your following and newsletter
+  list are *finite*; once you blast the launch to your existing audience, the real work is
+  converting people who aren't aware of you at all. But if the goal is small (150 units, not
+  15,000) and ~150 interested people already exist on the list, you don't need ad campaigns
+  — you just need to *have conversations* with those people. `[2019-02-06]`
+  [[wiki/sources/2019-02-06-yt-V6BJxvxUXss]]
+
+  > "You already have 150 people — you don't need to run ad campaigns, you just need to have
+  > a conversation with those people." — Chris Do `[2019-02-06]`
+
+- **The freebie / email trip wire must align with the end product.** A free downloadable in
+  exchange for a subscribe only works if it lines up with the ultimate product; a mismatched
+  freebie (Melinda's old business-card mockups) has to be replaced. `[2019-02-06]`
+  [[wiki/sources/2019-02-06-yt-V6BJxvxUXss]]
+
+- **Expert-positioning — everything drives toward one problem.** Everything you post and
+  write should establish you as the expert at solving *one specific* problem; "everything
+  else is garbage." When people know you as the expert with the solution, resistance to
+  buying is minimized. `[2019-02-06]` [[wiki/sources/2019-02-06-yt-V6BJxvxUXss]] (Sharpens
+  the §12 "own a vertical" idea into a promotion filter.)
+
+  > "What you post on social, what you write in a blog, should all be driven towards
+  > establishing you as an expert at solving a specific kind of problem. Everything else is
+  > garbage." — Chris Do `[2019-02-06]`
+
+- **Distill to the essence** — whittle the offer down to its core hook ("Building the
+  Designer's Business" → "branding yourself as a creative agency" → "I'm going to help you
+  find your unique story"), lead the marketing with that hook, then "fill in all the gaps."
+  `[2019-02-06]` [[wiki/sources/2019-02-06-yt-V6BJxvxUXss]]
+
+  > "You just keep whittling it down and down into its essence, its core... if you strip
+  > away everything else, I'm going to help you find your unique story." — Chris Do
+  > `[2019-02-06]`
+
+- **Apply your own framework to your own marketing** — the methods you use on clients apply
+  to your own promotion; but "we have blinders on our own stuff," which is why your own
+  website and logo suffer while your client work shines. The fix: a **sounding board** —
+  write thoughts down and talk them through with a neutral, unbiased party, not for their
+  advice but to get the "messy chemical soup" out of your head. `[2019-02-06]`
+  [[wiki/sources/2019-02-06-yt-V6BJxvxUXss]]
+
+  > "You have to just apply your own framework to your marketing." — Chris Do `[2019-02-06]`
+
+> Note: Melinda's use of Russell Brunson's *DotCom Secrets* funnel (blogs → freebie →
+> email sequence → offer) is HER method (context); Chris's contribution here is the
+> awareness/positioning/distillation layer above it. Ben Burns is named as the person who
+> actually runs The Futur's "fancy digital marketing"; Chris positions himself as coming
+> "from the content side... I know enough just to be dangerous."
+
+---
+
+## 20. Inbound & differentiation: "race to the top, not to zero" (2019)
+
+Chris's self-contained inbound/niching playbook, answering how to graduate from Fiverr to
+"real" clients — the philosophy from a multi-speaker session (Chris-attributed only).
+`[2019-02-27]` [[wiki/sources/2019-02-27-yt-vCn92eifsjM]]
+
+- **Race to the top vs. race to zero.** Winning better clients is a *marketing* problem:
+  differentiate yourself meaningfully **to the clients you want** (not to you or your
+  peers). If the untrained client eye can't tell you apart, the one thing they understand
+  is price — "you're doomed to race to zero... you have to race to the top." `[2019-02-27]`
+  [[wiki/sources/2019-02-27-yt-vCn92eifsjM]]
+
+  > "If you look the same to the clients that you want to work with, you're doomed to race
+  > to zero. There's no way around it — you have to race to the top." — Chris Do
+  > `[2019-02-27]`
+
+- **Tip of the spear: "pointy, pointy, pointy."** There's no silver-bullet differentiator
+  (it's different for everyone) but it must be *really specific*. Vagueness "screams
+  desperation" (the person who says "I'm a designer... web design... interior design...
+  sometimes theater sets"). `[2019-02-27]` [[wiki/sources/2019-02-27-yt-vCn92eifsjM]]
+
+  > "In your marketing, the tip of the spear needs to be pointy, pointy, pointy — that is
+  > sharp, focused." — Chris Do `[2019-02-27]`
+
+- **The campfire / magnifying-glass metaphor.** Scattered kindling won't ignite; focus a
+  magnifying glass on one point and you start a fire. Focus is how beginners turn limited
+  resources into a fledgling business — once the campfire is going you can "put the
+  magnifying glass down." **Narrow the marketing; broaden only after you land the client**
+  ("even if once you take on a client you do other things too, that's fine," because you've
+  built trust one-on-one). `[2019-02-27]` [[wiki/sources/2019-02-27-yt-vCn92eifsjM]]
+
+- **Evergreen content, but don't mass-produce prematurely.** Make pieces that "will
+  continue to benefit you in a year, two years, three years" — but don't crank out volume
+  "until you know that you're on to something." `[2019-02-27]`
+  [[wiki/sources/2019-02-27-yt-vCn92eifsjM]]
+
+- **Target clients with "more money than time."** Pick the target market with the most
+  money you can confidently interact with as a peer — not so high you're intimidated, but
+  high enough they'd rather solve problems "by writing checks." Position yourself as the
+  problem-solver: "not tell me what to do, but tell me what the problems are and I will fix
+  them." `[2019-02-27]` [[wiki/sources/2019-02-27-yt-vCn92eifsjM]] (Ideal-client selection;
+  fuller treatment in [[wiki/topics/sales-clients/sales-clients]].)
+
+  > "You want to find people who have more money than time." — Chris Do `[2019-02-27]`
+
+> ⚠️ TENSION (reconcilable): The **"pointy, pointy, pointy" niche** stance here
+> (2019-02-27) sits against the §17 **"broader, more universal topics beat narrow
+> tutorials"** shareability rule (2018-08-06). The reconciliation is *level*: niche your
+> **positioning/offer** as narrowly as possible to win a specific client, but keep your
+> **content topics** broad/universal for reach and sharing. One is about being findable and
+> distinct to a buyer; the other is about which content spreads. He also caps the niche —
+> broaden *after* you land the client. [[wiki/sources/2018-08-06-yt-6GMYDlGtHo8]]
+
+> Note: the co-host's "search for companies in your vertical that *just got funded*"
+> lead-gen tip is the interviewer's tactic (context), not Chris's; some mid-transcript
+> examples have uncertain attribution — see the source page.
+
+---
+
+## 21. Sell the problem, not the solution — and "write your thesis paper" (2019 Melinda Ep. 16)
+
+Two named, reusable ideas from coaching Melinda (context, not persona) on marketing a
+product: agitate the *problem*, and differentiate by owning one deeply-researched idea.
+Chris-attributed only. `[2019-04-01]` [[wiki/sources/2019-04-01-yt-J0m-fwEQ5TQ]]
+
+- **Sell the problem before the solution.** Educate the audience on the *problem* even more
+  than the solution — most people "get caught up in the solution." Paint a rich, vivid
+  picture of the pain (the frustrated "design slave" / order-taker sold a creative dream
+  that didn't materialize) so the prospect recognizes themselves, *then* reveal the
+  solution. He cites Steve Jobs' first iPhone reveal (via Nancy Duarte) — describe "the way
+  things are" at length to build tension before the product — and Tony Robbins reiterating
+  the problem "over and over" until the audience is compelled to act. `[2019-04-01]`
+  [[wiki/sources/2019-04-01-yt-J0m-fwEQ5TQ]]
+
+  > "You have to like educate them on the problem even more so than the solution." — Chris
+  > Do `[2019-04-01]`
+
+- **People move on loss / FOMO more than gain.** "A lot of people sadly are motivated by
+  what they have to lose, not what they have to gain." Aim marketing at people *earlier* in
+  their journey (still in school, just sensing something is missing), not only the
+  ready-to-buy — there are fewer of those, and they'll comparison-shop you against bigger
+  competitors. `[2019-04-01]` [[wiki/sources/2019-04-01-yt-J0m-fwEQ5TQ]]
+
+  > "People won't take action because they have something to gain, but they'll take action
+  > cuz they're missing out on something." — Chris Do `[2019-04-01]`
+
+- **Build the audience archetype from real comments.** He wrote his empathetic marketing
+  monologue not to Melinda but to a *composite* built from hundreds of correspondences
+  across YouTube, Twitter, and Instagram — a user profile assembled from actual audience
+  comments. Clarity of audience defeats "speaker's block" (cites Seth Godin). `[2019-04-01]`
+  [[wiki/sources/2019-04-01-yt-J0m-fwEQ5TQ]]
+
+- **"Different but better," introduced early.** Against an established competitor you must
+  "pick a lane" — two identical "ice cream shops" lose, but a genuinely different offer
+  wins. And surface the differentiation *early* in the sales cycle, not at the end (wait and
+  the prospect just defaults to the bigger player). `[2019-04-01]`
+  [[wiki/sources/2019-04-01-yt-J0m-fwEQ5TQ]]
+
+  > "You have to be different but better. Cuz different for different is okay." — Chris Do
+  > `[2019-04-01]`
+
+- **The "thesis paper" method** — one core concept + deep original research + novel
+  packaging = a whole career. Pick one profound idea, go into deep research mode (a stack of
+  ~10 books, tear pages, highlight), dig up novel stories, and package old material in a new
+  way. From that one paper you build a kit, lectures, and micro-content — "your own entire
+  life and career around one product." Models: **Simon Sinek** → "Start With Why" (researched
+  the Wright brothers); **Seth Godin** → the Icarus story (returned to the original myth and
+  revealed it's also a caution against flying too *low*). `[2019-04-01]`
+  [[wiki/sources/2019-04-01-yt-J0m-fwEQ5TQ]]
+
+  > "None of it's new, but the way that you package it and the information and the stories
+  > you dig up are novel." — Chris Do `[2019-04-01]`
+
+  > "Seth didn't invent a story. He just found out something about a story that we all think
+  > we knew and brought some new light to it." — Chris Do `[2019-04-01]`
+
+---
+
+## 22. Find customers for your product: story-mining, funnel math, expand the pool (2019 Melinda Ep. 17)
+
+The cold-lead conversion mechanics from coaching Melinda (context, not persona) — how to
+sequence a stranger to a buyer with stories and reciprocity. Chris-attributed only.
+`[2019-04-08]` [[wiki/sources/2019-04-08-yt-apqbrvu2VlE]]
+
+- **The cold-lead sequence: problem → solution → product.** A cold lead doesn't even know
+  they have a problem (so they can't search for you) — you first define the problem, then
+  present the solution, then the product. He credits Russell Brunson's *DotCom Secrets*.
+  `[2019-04-08]` [[wiki/sources/2019-04-08-yt-apqbrvu2VlE]]
+
+  > "In a cold lead you have to tell them what the problem is because they don't even know
+  > the problem... so we have to define the problem, then we have to tell them the solution,
+  > and then the last part is we tell them what the product is." — Chris Do `[2019-04-08]`
+
+- **Deliver the "solution" through stories, not how-to.** "Stories are what draw people in."
+  Method for surfacing forgotten stories: anchor memory around **"spaces, places, and
+  things"** — old objects unlock memories (demonstrated with an old graphing calculator kept
+  since community college). Then build a **five-to-seven-point timeline**; you'll find five
+  more points between each, and soon you have a compelling story people follow.
+  `[2019-04-08]` [[wiki/sources/2019-04-08-yt-apqbrvu2VlE]]
+
+  > "Look into your past, look at objects, places and spaces, and try to draw out that
+  > memory... scrub through that mental timeline of yours." — Chris Do `[2019-04-08]`
+
+- **Funnel attrition math.** A funnel is an upside-down pyramid — you lose a large
+  percentage at every step (link click → site → credit card), so a narrow top makes
+  conversion slim. He cites Casey Neistat going ~1,000,000 views → ~8,000 → ~500 → ~5.
+  Corollary: **people already on your email list are "hot leads"** — you can just tell them
+  about the product and skip the funnel work, which is for cold leads. `[2019-04-08]`
+  [[wiki/sources/2019-04-08-yt-apqbrvu2VlE]] (Concrete numbers on the §14 conversion funnel.)
+
+- **Expand the pool — don't compete for the same fish.** If you just siphon a shared
+  audience you'll compete for attention against your own platform/mentor's products; better
+  to bring in a brand-new audience so the existing lift and the new audience feed each
+  other. On platforms: email doesn't *grow* an audience; a broader platform like **Medium**
+  plus pitching stories to outlets' **editorial calendars** (e.g. timed to Teacher
+  Appreciation Day) wins far more exposure. `[2019-04-08]`
+  [[wiki/sources/2019-04-08-yt-apqbrvu2VlE]]
+
+  > "We're all fishing the same pool, we're all competing for the same fish... so we need
+  > you to expand the pool." — Chris Do `[2019-04-08]`
+
+- **"Give give give" as a long-term reciprocity play.** Give in orders of magnitude — and
+  giving isn't only how-to content; it can be a poignant story, reassurance, or "an
+  expression of love and support and friendship." Make people feel that and they find a way
+  to give back. He frames it via the law of reciprocity (miscredits the author; it's Robert
+  **Cialdini**, *Influence*) and offers The Futur's Style Scape launch as proof — ~400 seats
+  / ~$60,000, which surprised him, concluding people bought partly to reciprocate the value
+  the free channel had given them. `[self-reported, 2019-04-08]`
+  [[wiki/sources/2019-04-08-yt-apqbrvu2VlE]] (Reinforces §1 give-first; note it still frames
+  reciprocity as the *return*, consistent with the §1 sequencing.)
+
+  > "You just give give give, given orders of magnitude that people don't even know what to
+  > do with... and if you can make people feel that, they'll find a way to give back to you.
+  > This is a long-term play." — Chris Do `[2019-04-08]`
+
+---
+
 ## Sources
 
 - [[wiki/sources/2015-11-29-yt-z7Y9TKfgstE]] — "Is Your Design Resume Still Relevant?" —
@@ -934,6 +1241,21 @@ material. `[2018-08-06]` [[wiki/sources/2018-08-06-yt-6GMYDlGtHo8]]
   broad-topic, "their fear is our opportunity" (2018-08-06)
 - [[wiki/sources/2018-09-09-yt-V-uLjNG73ho]] — "Why Do I Give So Much Away — My Content
   Strategy" — stop-selling, karmic-equity label origin, 2018 proof-numbers (2018-09-09)
+- [[wiki/sources/2018-12-10-yt-37gKuNp-XLw]] — "How Can I Attract My Ideal Client? (Melinda
+  Ep. 13)" — write-for-previous-self, content-marketing≠ad, creatives-as-champions,
+  community-over-competition, momentum-over-plans (2018-12-10)
+- [[wiki/sources/2019-02-06-yt-V6BJxvxUXss]] — "How to Promote Your Passive Income Business
+  (Melinda Ep. 15)" — awareness matrix, finite-audience/conversations, freebie-alignment,
+  expert-positioning, distill-to-essence (2019-02-06)
+- [[wiki/sources/2019-02-27-yt-vCn92eifsjM]] — "Inbound Marketing — How to Get Clients to
+  Come to You" — race-to-the-top, tip-of-the-spear niche, campfire, more-money-than-time
+  (2019-02-27)
+- [[wiki/sources/2019-04-01-yt-J0m-fwEQ5TQ]] — "How do I Market my Product? (Melinda Ep.
+  16)" — sell-the-problem, loss/FOMO, different-but-better, write-your-thesis-paper
+  (2019-04-01)
+- [[wiki/sources/2019-04-08-yt-apqbrvu2VlE]] — "How do you find Customers for Your Product?
+  (Melinda Ep. 17)" — problem→solution→product cold-lead sequence, story-mining, funnel
+  math, expand-the-pool, give-give-give (2019-04-08)
 - [[wiki/sources/2020-06-09-yt-ujxvy5NjeRQ]] — "How to Learn Anything (for creatives)" —
   input/output + learn-reflect-implement-share (2020-06-09)
 - [[wiki/sources/2021-07-11-yt-lrM5CRg-O0I]] — "Easy Way To Market Yourself — Tell Your

@@ -3,8 +3,8 @@ type: hub
 domain: business
 domains: [business]
 created: 2026-07-14
-updated: 2026-07-17
-tags: [business, entrepreneurship, scaling, agency, delegation, positioning, money, mission, reading-list, culture, design-education, cash-flow, referrals, business-development, curiosity-selling, autonomy, mentorship, pro-bono, conscious-capitalism, giving, freelancers, margins, maker-mindset, entrepreneurial-mindset, process-codification, quality-threshold, student-debt]
+updated: 2026-07-18
+tags: [business, entrepreneurship, scaling, agency, delegation, positioning, money, mission, reading-list, culture, design-education, cash-flow, referrals, business-development, curiosity-selling, autonomy, mentorship, pro-bono, conscious-capitalism, giving, freelancers, margins, maker-mindset, entrepreneurial-mindset, process-codification, quality-threshold, student-debt, documentation, freelance-transition, arbitrage, passive-income, runway, company-culture]
 ---
 
 # Business — hub
@@ -505,6 +505,31 @@ Core principles:
   > "We have to design from a place of Truth, and before we can get to the truth we have
   > to learn something." (2017-07-22)
 
+- **Culture as a startup's competitive advantage.** Candidates — freelance or staff —
+  weigh roughly four things when choosing where to work: how much they're **paid**, how good
+  the **work** is, how they're **treated**, and how the company **manages projects**. A
+  startup usually can't beat bigger, better-known shops on the first two (price or project
+  prestige), so it competes on the two it *can* control — treatment and project management —
+  and that levels the playing field. Get culture right "at the very beginning" and build from
+  there; to know what to build, remember what attracted *you* to a place as an employee
+  ([[wiki/sources/2018-11-24-yt-xefSymuwzzI]], 2018-11-24). A second witness to "take care of
+  your people" above, reframed as strategy for the under-resourced founder.
+  > "Very likely you cannot compete on price or the quality of the project, so you got to
+  > focus on the other two components — how do you treat them, how do you manage projects…
+  > that's your competitive advantage to level the playing field." (2018-11-24)
+- **Burnout is a project-selection failure.** All-nighters take a toll and are only
+  sustainable for a limited period; the founder's job is to *minimize the moments that require
+  them*. Accepting a job you know going in is under-timed, too big, or too complex for your
+  team "is a recipe for burning everybody out, including yourself" — and usually "something's
+  telling you it's wrong" when you take it. Chris credits learning to manage projects, his
+  time, and what he puts in for still being as passionate ~20 years on as day one
+  ([[wiki/sources/2018-11-24-yt-xefSymuwzzI]], 2018-11-24, `[self-reported]`). Sharpens the
+  "protect time / days without working late" thread above — the workload the leader *accepts*
+  is upstream of the late nights.
+  > "You accepted a job going in knowing that it's not enough time, the job is too big or
+  > complicated, and you don't have a big enough team — so that's a recipe for burning
+  > everybody out, including yourself." (2018-11-24)
+
 **Second Shift — the culture-consulting venture.** In 2016 Chris and Kier McLaren plugged a
 joint consulting venture, **Second Shift** `[self-reported]`, that helps creative companies
 evaluate and improve their culture ([[wiki/sources/2016-11-03-yt-kmZkRkxWj2c]], 2016-11-03).
@@ -971,6 +996,162 @@ was ~$500/hr) restates the delegation-margin logic in §15 and stays cross-refer
 
 ---
 
+## 18. Document → Delegate → Automate — the scaling unlock
+
+The mechanical companion to §17's judgment-codification: §17 is about *what* you transfer
+(your ≤5-step judgment); this is the discipline of **writing the process down** so others can
+run it. Chris calls documenting your processes "the door to start scaling your company"
+([[wiki/sources/2018-12-19-yt-I09EDxElu3o]], 2018-12-19).
+
+- **Two ways to grow, one prerequisite.** You grow either by selling the same product for
+  more (raise price — "there is no ceiling to what you can charge") or by selling *more*
+  projects to more clients. The second requires scaling — outsourcing and hiring — and you
+  can't delegate a task until its process exists on paper (2018-12-19).
+- **Two audiences for your documentation** — your **clients** and your **team** (the team is
+  the focus here); at some point you cannot and *should not* do everything yourself
+  (2018-12-19).
+  > "At some point you cannot do everything yourself, and you shouldn't. There are only 24
+  > hours in a day. In order to delegate tasks you need to have a process in place — it's
+  > that simple." (2018-12-19)
+- **Worked examples from The Futur.** Instead of training every new designer one-on-one, he
+  points them to a public YouTube video ("How to Present Logo Designs") — follow the process
+  and they need almost no direction. And for website/marketing tasks only he could do in early
+  2018, he wrote step-by-step, screenshotted tutorials in **Notion**. The bottleneck was
+  *knowledge*, "not even very technical" — freeing 1–2 hours of his time for higher-leverage
+  work (email strategy, new content) ([[wiki/sources/2018-12-19-yt-I09EDxElu3o]], 2018-12-19).
+  > "My brain power should be used elsewhere on a more strategic level. The only thing that
+  > was holding the team back was knowledge… it's not even very technical." (2018-12-19)
+- **The six-point how-to.** (1) **Start now** — grab a notebook and jot down what you're
+  doing; (2) **keep it simple**; (3) **be clear** — no fuzzy instructions for the new person;
+  (4) **be visual** — creatives are visual; (5) **use the right tool** — don't let the medium
+  restrict you (typed + screenshots, or video, whichever fits); (6) **make it shareable** —
+  The Futur runs a Notion wiki anyone onboarded can access, plus public YouTube videos to
+  train staff (2018-12-19).
+- **Give context before steps** (tip from a Futur team member, `context`, not Chris): show
+  the finished dish before the ingredients — give the person the big goal / end result first
+  so they understand *why* each step matters (2018-12-19).
+
+---
+
+## 19. From full-time job to freelance — "build a bridge" and the arbitrage play
+
+Chris's staged plan for leaving a salaried job for full-time freelance *without* a pay cut,
+from a live Q&A ([[wiki/sources/2019-01-15-yt-LWqmRvWvXec]], 2019-01-15). It extends the
+delegation-margin/arbitrage economics of §15 down to the pre-owner freelancer, and the
+anti-desperation positioning of §3.
+
+- **Build a bridge — don't quit first.** A US full-time job is ~8 of 24 hours; sacrifice "a
+  little bit of sleep" and "a little bit of personal me time" to carve out extra hours and
+  grow freelance income *alongside* the salary until you can cross over.
+  > "What we're gonna do is we're gonna build a bridge." (2019-01-15)
+- **Spend the hours on positioning, not billable work.** Build a website that positions
+  high-quality work — "work that people want to hire other people for" — get SEO right, and
+  write a **price-qualifying canned intake script** (kept in Notion/Trello/the cloud, written
+  well once) that filters on budget *before* a call: e.g. "my work typically starts at $5,000
+  — is this something you can afford to spend?" A "no" ends it; a "yes" earns the call
+  (2019-01-15).
+- **The arbitrage — don't do the work yourself.** When a side job lands, resist doing it;
+  instead hire a *cheaper* freelancer (his example: a friend in New Delhi at ~**$400** on a
+  **$5,000** job) and keep the spread (~$4,600 "for nurturing the lead"). "Buy low, sell
+  high." It's ethical because you're the **bridge/broker**: the client can't source or
+  art-direct talent, and the freelancer can't find clients — so you take the lion's share and
+  pay the freelancer "what *they* think is fair" (2019-01-15).
+  > "This is arbitrage at play — you buy low, sell high." (2019-01-15)
+  > "You are that bridge between those two people, and for brokering that deal you make the
+  > lion's share of the money, and you pay someone what they think is fair." (2019-01-15)
+- **Cross over only when side income beats the salary.** At that point "burn that side of the
+  bridge" and go full-time freelance (2019-01-15).
+- **Keeping the job is leverage — never negotiate from desperation.** With a salary covering
+  "diapers and rent," you can price right and walk away from bad-fit or rush clients. Quitting
+  first inverts this: "when you quit your job, all of a sudden you become desperate for the
+  work and you start to take things that you don't need to." Mirrors the "desperate people
+  rarely win business" logic in §3 (2019-01-15).
+  > "You have all the leverage — do not give it away." (2019-01-15)
+
+---
+
+## 20. Passive income — "build once, sell many times"
+
+Chris's most complete single treatment of a passive-income business for designers, from a
+coaching session with recurring Futur colleague **Melinda Livsey** (a `context` coachee — only
+Chris's framing trains the persona) ([[wiki/sources/2019-01-23-yt-7b_pEgV86BE]], 2019-01-23).
+
+- **It is *not* "do nothing."** Passive income means "build once, sell many times": a lot of
+  time/effort goes into building the product first, and then you must *market* it for it to
+  earn over time. Even famous celebrities still hit press junkets — most working people must
+  be "our own PR agent, our own star, and our own show host."
+  > "A passive income… it takes a lot of time, effort, and energy to build a product first,
+  > and then you market that product, and that product can earn money over time. So: build
+  > once, sell many times." (2019-01-23)
+- **Three product paths for a designer:** (1) **templates, brushes, and tools** — cheap
+  individually but they add up when bundled; (2) a **course**; (3) a **derivative product** of
+  a framework you've already modified into your own flavor/voice (2019-01-23).
+- **Digital over physical.** Discourages physical products, especially when testing the
+  waters: they need capital, reliance on manufacturers, shipping/logistics worldwide, returns
+  and breakage, and warehouse space, and are hard to scale. Digital products are easier to
+  develop, ship, fulfill, and return; the one downside is piracy (Futur products have been
+  torrented) — but they scale. People falsely equate value with things they can touch, yet the
+  trend (especially in younger generations) runs the other way — DVDs/CDs → streaming, physical
+  books → a Kindle holding a hundred (2019-01-23).
+  > "Generally speaking, the best kind of product to make is the digital one." (2019-01-23)
+- **"Nothing sells itself."** "Build it and they will come" is a delusion that leaves people
+  depressed when nobody comes — promotion is as important as (or more important than) the
+  product. Every launch needs three things: (1) make the product as good as it can be; (2)
+  give it clear, accurate descriptions; (3) let people know it exists. And you must build a
+  community/audience *first* — most people skip this groundwork, so even a great product can
+  "hit with a thud"; one fix is to launch on a platform where someone already has an audience
+  ([[wiki/sources/2019-01-23-yt-7b_pEgV86BE]], 2019-01-23).
+  > "None of this stuff sells itself, and that's a delusion many people tell themselves: 'I
+  > will build it and they will come,' and nobody comes and they get really depressed."
+  > (2019-01-23)
+- **Facilitation & the effective-hourly close.** To rank product ideas he plots them on an
+  **impact-vs-effort graph** (impact measured in money, free time, *or* joy) and does the
+  highest-impact/lowest-effort work first — set a deliberately high goal to force different
+  thinking ("jump the curve," credited to Guy Kawasaki), then divide the annual target by ten
+  for a monthly pace. The closing argument for the whole path is the **effective hourly
+  rate**: ~10 hours of remaining work to ship a bundle that earns ~$7,000 is a rate client
+  work can't match (2019-01-23).
+
+---
+
+## 21. Runway & cash flow — why charging more forces you to hold cash
+
+> **Attribution boundary.** This is an interview where Chris hosts guest **Errol Gerson** (an
+> accountant who teaches The Futur's "Managing Money" course). Gerson's **break-even formula**,
+> the 50% design-margin figure, and the six-months-overhead rule are `context` and do **NOT**
+> train the persona — only Chris's own contributions below do
+> ([[wiki/sources/2019-03-04-yt-dr0ntxYFEWs]], 2019-03-04).
+
+Chris's persona-eligible insight is the causal link between pricing and cash management —
+the companion to the runway/worry-date literacy in §8 (there credited to Mike Janda):
+
+- **Charging more lengthens the sales cycle — which is *why* you hold runway.** You can close
+  a $500 sale in a day, but a $50,000 or $500,000 sale takes months; that lag is the reason to
+  keep cash in the bank. In his own business, ~$10–15k deals ran one to two months to close,
+  and one **$250,000 deal took over a year** — "not enough urgency, but a good project, so we
+  hung on" ([[wiki/sources/2019-03-04-yt-dr0ntxYFEWs]], 2019-03-04, paraphrase/self-reported).
+  > "As you guys start charging more… the time that it takes to close a sale starts getting
+  > longer and longer." (2019-03-04)
+  > "You can close the $500 sale in a day; when it comes to a $500,000 sale, or even a $50,000
+  > sale, those take months at least. We had one that was a quarter million dollars that took
+  > over a year to close… there wasn't enough urgency, but it was a good project and so we
+  > hung on." (2019-03-04)
+- **Three months' runway = "a sense of peace."** Reaching three months of runway lifted a felt
+  burden; six would be even better (joking he "wouldn't even come to work"). Ties the abstract
+  worry-date math of §8 to the emotional payoff of holding cash (2019-03-04).
+  > "As soon as I hit three months runway I could feel that sense of peace, I could feel that
+  > burden starting to be lifted." (2019-03-04)
+- **Mission framing.** Money and public speaking are people's two biggest fears; he wants to
+  give the audience the business acumen and language so they "won't flinch" when a client
+  brings up money (2019-03-04) — a recurring Futur theme (§6).
+
+> Note (era/scale, not a contradiction): the ~3-months-runway "peace" here reflects a smaller
+> operation than the Blind-era numbers in §8 (≈$200k/mo burn, a ~6-month worry-date buffer,
+> a ~$600k credit line) — the buffer he's comfortable with scales with the size of the
+> business, not a change of principle.
+
+---
+
 ## See also
 
 - [[wiki/topics/pricing/pricing]] — value-based pricing, "price the client not the job,"
@@ -1025,6 +1206,20 @@ was ~$500/hr) restates the delegation-margin logic in §15 and stays cross-refer
 - [[wiki/sources/2018-07-16-yt-OCcbTVbuRIg]] — "How To Scale Your Business, Multiply Your
   Time, and Delegate" (codify judgment into ≤5 steps; Art Center red/blue-dot origin;
   clients can't tell high from super-high; churn-to-superstar), 2018-07-16
+- [[wiki/sources/2018-11-24-yt-xefSymuwzzI]] — "Starting Your Business: Company Culture"
+  (culture as a startup's competitive advantage; burnout via project selection), 2018-11-24
+- [[wiki/sources/2018-12-19-yt-I09EDxElu3o]] — "How to Make More Time: Document Delegate
+  Automate" (documentation as the scaling unlock; six-point how-to; Notion + YouTube stack),
+  2018-12-19
+- [[wiki/sources/2019-01-15-yt-LWqmRvWvXec]] — "How to Transition From a Full-Time Job to
+  Freelance?" (build a bridge; price-qualifying intake script; freelance arbitrage; keep the
+  job for leverage), 2019-01-15
+- [[wiki/sources/2019-01-23-yt-7b_pEgV86BE]] — "How to Build a Passive Income Business — w/
+  Melinda Livsey Ep. 14" (build once sell many times; three product paths; digital over
+  physical; "nothing sells itself"), 2019-01-23
+- [[wiki/sources/2019-03-04-yt-dr0ntxYFEWs]] — "Stop Losing Money – How to Find Your Break
+  Even Point" (Errol Gerson=CONTEXT guest; Chris's runway doctrine: charge more → longer sales
+  cycles → hold cash; 3-months-peace; $250k deal >1yr), 2019-03-04
 - [[wiki/sources/2019-08-12-yt-f7T1Zs28Deo]] — "What You Believe Becomes Reality" (AIGA
   2019 keynote; mission / 1 billion), 2019-08-12
 - [[wiki/sources/2022-12-01-yt-Qn5PPMhHkXM]] — "How I Scaled My Creative Agency To $80M"

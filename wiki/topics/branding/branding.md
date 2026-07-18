@@ -1,8 +1,8 @@
 ---
 type: hub
 domains: [branding]
-updated: 2026-07-17
-tags: [branding, personal-branding, unbland, brand-strategy, positioning, storytelling, shadow-work, two-word-brand, logo, logo-critique, identity, identity-system, timelessness, style, packaging, brand-equity, shelf-presence, private-label, brand-filter]
+updated: 2026-07-18
+tags: [branding, personal-branding, unbland, brand-strategy, positioning, storytelling, shadow-work, two-word-brand, logo, logo-critique, identity, identity-system, timelessness, style, packaging, brand-equity, shelf-presence, private-label, brand-filter, go-to-person, sub-brand, order-taker, do-good-work, flip-the-switch]
 ---
 
 # Branding — hub
@@ -388,6 +388,129 @@ Chris's lines train the persona; Manos and his "give half" model are CONTEXT. (2
   real and measured — the pricing-side complement to Framework 4 ("price communicates
   position"). (2018-04-06) [[wiki/sources/2018-04-06-yt-oAHxZeBUbXM]]
 
+### Framework 28 — "Do good work" *is* positioning; age/pedigree are invisible online (get known for one thing, then flip the switch)
+
+From a 2018 Q&A with young/aspiring designers on how to seem credible with no experience.
+Extends the self-positioning tools of Framework 18 (WIN Venn / "pick one") with two new
+moves: doing great work *as* the positioning strategy, and the transition mechanic once you
+own a category. (2018-10-12) [[wiki/sources/2018-10-12-yt-E4oDHKVYOSk]]
+
+- **Great work is the positioning — the internet hides your age and pedigree.** Online no one
+  can tell your age, where you live, or your design lineage from an Instagram/Behance account,
+  so credibility reduces to the work itself:
+  > "the answer to your question is actually easy and obvious which is you do good work you put
+  > good work out there… whether you're 17 or 77 it doesn't matter at all." (2018-10-12)
+  [[wiki/sources/2018-10-12-yt-E4oDHKVYOSk]]
+- **Position from internal conviction, then earn the external proof.** Hold the number you
+  believe you're worth and keep charging toward it while building the skills/experience that
+  make others see it: > "I say I'm worth it — it's too bad you can't see it, so I'll find
+  somebody who sees the worth." (2018-10-12) [[wiki/sources/2018-10-12-yt-E4oDHKVYOSk]]
+  (The confidence-over-quality link is Framework 4; the value-quantification link is Framework 27.)
+- **Get known for one thing, then "flip the switch."** Get known for a single thing (his
+  example: "Connor" is known for logo design, so people call him for logos), keep developing
+  your whole creative self in the background, then migrate:
+  > "eventually he's gonna flip the switch and migrate away from what he's known for into
+  > something he'd like to be known for." (2018-10-12) [[wiki/sources/2018-10-12-yt-E4oDHKVYOSk]]
+  This is the *sequel* to Framework 18's "pick one": pick one to become memorable, then use that
+  earned attention as the on-ramp to the position you actually want.
+
+### Framework 29 — Positioning increases value: story over function; hourly billing is self-commoditization
+
+The branding-side reading of a 2018 monologue on positioning and value. Where Framework 4 says
+price *communicates* position, this says *identity/story* is what lifts willingness-to-pay in the
+first place — a brand is why a commodity object sells above commodity price. (The full
+pricing treatment lives in the business/pricing topic; only the identity→willingness-to-pay
+angle is kept here.) (2018-11-09) [[wiki/sources/2018-11-09-yt-ODcdMUgsxMI]]
+
+- **Value = the maximum a buyer is willing to pay** — a definition of value in terms of
+  perception, not cost or effort: > "value is the maximum amount that a consumer would be
+  willing to pay for an item." (2018-11-09) [[wiki/sources/2018-11-09-yt-ODcdMUgsxMI]]
+- **Story beats function — the Rolex/Timex contrast.** A wristwatch is a commodity (a Timex is
+  ~$5), yet people pay for Rolex/Patek Philippe because the brand carries a different story and
+  identity: > "it's not a watch, you're not buying a watch, you're buying a Rolex." (2018-11-09)
+  [[wiki/sources/2018-11-09-yt-ODcdMUgsxMI]] The buyer purchases the identity, not the function.
+- **Become the go-to person for one specific thing** (his example: hand lettering / calligraphy),
+  then aim all marketing at that one thing — that focus, not breadth, is what brings qualified
+  leads in the door (provided an audience exists that cares). > "positioning yourself as the
+  go-to person for something and just focusing all of your marketing on that thing is gonna get
+  those leads coming in the door." Positioning as the go-to person is "your salvation, not
+  something to fear." (2018-11-09) [[wiki/sources/2018-11-09-yt-ODcdMUgsxMI]]
+- **Hourly billing = self-commoditization.** Billing by the hour makes you an apples-to-apples
+  comparison (a buyer just picks the $10/hr provider over the $100/hr one); differentiated
+  positioning is what lets you escape the comparison. (2018-11-09)
+  [[wiki/sources/2018-11-09-yt-ODcdMUgsxMI]]
+
+> ⚠️ ATTRIBUTION: single-speaker clip with no on-screen speaker label; content is textbook
+> Chris Do / The Futur positioning doctrine and is attributed to Chris on that basis
+> (`attribution: uncertain` on speaker ID per the source page). One "Chris" in the transcript
+> is a generic placeholder competitor, not a second speaker.
+> [[wiki/sources/2018-11-09-yt-ODcdMUgsxMI]]
+
+### Framework 30 — Identity design ≠ brand strategy: the strategist vs. the "order taker"
+
+From a 2018 deep-dive coaching session in which **Chris coaches Melinda Livsey** (Melinda =
+CONTEXT, not persona). The distinction that turns a deliverable-maker into a consultant: brand
+strategy is not visual identity, and *how you gather the brief* decides which one you are.
+(2018-11-22) [[wiki/sources/2018-11-22-yt-3el7kOfTPK4]]
+
+- **Brand strategy vs. identity.** Branding (endorsed definition) is helping a brand develop its
+  personality — knowing who they are, making it attractive to their ideal client, and uncovering
+  who that client is and how to communicate to them — a strategy layer that sits above the
+  logo/identity craft. (2018-11-22) [[wiki/sources/2018-11-22-yt-3el7kOfTPK4]]
+- **The questionnaire makes you the order taker.** A questionnaire is "homework" the client
+  rushes and only surfaces top-of-mind answers; filling out a form is like ordering off a menu:
+  > "when I fill out a questionnaire I'm pretty much taking your order… and that removes you as a
+  > participant in the conversation and really defines you as the order taker." A live strategy
+  > workshop with founder + stakeholders makes you a participant who *shapes* the conversation.
+  (2018-11-22) [[wiki/sources/2018-11-22-yt-3el7kOfTPK4]]
+- **Clients lack the visual vocabulary — so you must be in the room.** Broad words ("optimistic,
+  innovative, cool") mean many things; if clients could specify precisely they'd just hire a
+  junior and art-direct them. The strategist asking the *same* questions gets better answers by
+  probing ("why do you say that, give me an example") and reshaping the frame ("maybe the word
+  isn't 'cool,' it's 'conservative'"). (2018-11-22) [[wiki/sources/2018-11-22-yt-3el7kOfTPK4]]
+- **Symptoms vs. root cause (rash/carrots).** Clients self-diagnose and self-prescribe a
+  deliverable ("do this for me"); treating the symptom (ointment for a rash) never fixes the real
+  problem — the doctor finds the allergy (carrots). Not every inbound lead is hot; many aren't
+  even aware of their real problem, so pause and diagnose before accepting the brief at face
+  value. (2018-11-22) [[wiki/sources/2018-11-22-yt-3el7kOfTPK4]] (Same "diagnose the business,
+  not the symptom" logic as Framework 24.)
+- **Positioning as strategist scales you.** Two ways to scale: hire/offload time, or charge more
+  and more for expertise (fewer clients, higher prices, less work) — the latter depends entirely
+  on being positioned as a strategist rather than a deliverable vendor. The **Dan Sullivan
+  three-year question** ("three years from now, looking back, what has to have happened —
+  professionally and personally — for you to be happy?") is offered as the tool to point that
+  positioning somewhere on purpose. (2018-11-22) [[wiki/sources/2018-11-22-yt-3el7kOfTPK4]]
+
+### Framework 31 — Premium sub-brand strategy: a sub-brand is not a rebrand, aim younger, and discount→upscale is uphill
+
+Chris's brand-strategy doctrine from the 2018–2019 *Young Guns* airline challenge (design a
+premium/VIP sub-brand for a real airline, JetBlue's "Mint" as the model). Chris is CONFIRMED as
+the dominant voice/mentor; students are CONTEXT. *(The pure design craft — mood boards,
+style-scapes, colour/typography, mark construction — lives in
+[[wiki/topics/design-craft/design-craft]]; only the positioning angle is kept here.)*
+(2019-03-11) [[wiki/sources/2019-03-11-yt-N0WD9KG7kEY]]
+
+- **A sub-brand is a complementary brand that lives *with* the parent — not a rebrand.** The job
+  is a fresh premium identity that fits a *tight space* alongside the parent, not tearing the
+  airline down and starting over: > "people don't hire you to do that — they hire you to figure
+  > out a creative solution that fits within a fairly tight space… That's the real challenge,
+  > because everybody can hit the nuclear button." Designers who wanted to redo the whole airline
+  "missed the whole point." (2019-03-11) [[wiki/sources/2019-03-11-yt-N0WD9KG7kEY]]
+- **Own identity system, but connective tissue in the name.** A sub-brand can't reuse the
+  parent's exact logo configuration or it reads as confusing; it needs its own colour palette /
+  system (the way JetBlue's Mint does), yet the *name* should marry to the parent — his Emirates
+  example named the sub-brand "Emerald" (Emirates → emerald → precious stones), whereas a generic
+  "Signature" isn't married to the parent. (2019-03-11) [[wiki/sources/2019-03-11-yt-N0WD9KG7kEY]]
+- **Aim aspirationally younger — the marketing rule of thumb.** > "more often than not, in terms
+  of marketing, they say you have to aim 10 to 15 years younger than what you want to hit."
+  Cautionary tale: Toyota launched **Scion** targeting teenagers and ended up with old people
+  driving it. (2019-03-11) [[wiki/sources/2019-03-11-yt-N0WD9KG7kEY]]
+- **Discount→upscale is an uphill battle.** Moving a discount brand upscale is hard ("it's like
+  Scion trying to become Lexus") — "in the real world this might not even work," and "there's
+  only so far you can push it," though it can be done. A premium sub-brand can be brighter/more
+  saturated than the parent — that freshness is the point. (2019-03-11)
+  [[wiki/sources/2019-03-11-yt-N0WD9KG7kEY]]
+
 ---
 
 ## Part 1b — The blind client-engagement workflow (The Process, 2015)
@@ -673,6 +796,8 @@ Chris's signature exercise, refined across the 2023 masterclass and AdobeMAX key
   sales into project management. [[wiki/sources/2015-03-24-yt-FYHD1fBKZDk]]
 - **Dr. Holtzman** — **"scaffolding"** (small steps that each advance toward the goal).
   [[wiki/sources/2015-03-24-yt-FYHD1fBKZDk]]
+- **Dan Sullivan** — the **three-year question** ("what has to have happened for you to be
+  happy?"), used as a career-positioning tool. [[wiki/sources/2018-11-22-yt-3el7kOfTPK4]]
 - **Guy Kawasaki** (hire A+ players) and **Tony Robbins** (people like people who are like
   themselves — the match-and-mirror basis) — credited in passing.
   [[wiki/sources/2015-03-24-yt-FYHD1fBKZDk]]; [[wiki/sources/2015-04-28-yt-KSGzJiK9Uz8]]
@@ -710,6 +835,18 @@ Chris's signature exercise, refined across the 2023 masterclass and AdobeMAX key
 - [[wiki/sources/2018-04-06-yt-oAHxZeBUbXM]] — Conscious Capitalism panel w/ Matthew Manos
   (brand-as-filter: stake something in the ground; value isn't real until dollar-quantified).
   2018-04-06.
+- [[wiki/sources/2018-10-12-yt-E4oDHKVYOSk]] — "How to Position Yourself as an Expert If You
+  Have No Experience" (do-good-work is positioning; age invisible online; get known for one
+  thing then flip the switch). 2018-10-12.
+- [[wiki/sources/2018-11-09-yt-ODcdMUgsxMI]] — "How Positioning Your Brand Can Increase Your
+  Value" (value = max willingness to pay; Rolex/Timex story-over-function; go-to person; hourly
+  billing = self-commoditization). 2018-11-09.
+- [[wiki/sources/2018-11-22-yt-3el7kOfTPK4]] — Deep-dive coaching w/ Melinda Livsey (identity
+  design ≠ brand strategy; strategist vs. order-taker; symptom-vs-root-cause; Dan Sullivan
+  three-year question). 2018-11-22.
+- [[wiki/sources/2019-03-11-yt-N0WD9KG7kEY]] — *Young Guns* Ep 9: airline sub-brand challenge
+  (sub-brand ≠ rebrand; aim 10–15 years younger; discount→upscale is uphill; Scion cautionary
+  tale). 2019-03-11.
 - [[wiki/sources/2018-05-08-yt-FDhK1R3GJzs]] — *Young Guns* Ep 3: pharma package challenge
   setup (me-too design & shelf presence; house/generic-vs-name-brand as a branding problem;
   "deliberate design confusion"). 2018-05-08.

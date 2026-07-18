@@ -525,6 +525,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2021-04-15 | [Direction Matters More Than Speed](2021-04-15-yt-oANRoPuT-ys.md) | mindset; business | Chris coaching group; "a goal is a dream with a plan", direction(compass) > speed(hustle), 1° bearing analogy, visualization + public accountability; Greg Gunn outro = context |
 | 2021-04-20 | [Focus To Build Expertise Rapidly (WWP Clubhouse w/ Blair Enns)](2021-04-20-yt-5a488th9fkM.md) | branding; mindset; content-strategy; business | ⚠️ Blair Enns does bulk of teaching (context); only Chris "least-risky-option → codify process to reduce risk" trains; ↔ 04-12 |
 | 2021-04-22 | ★ [How To Guarantee Results When Clients Ask](2021-04-22-yt-qZ1EYMgQsKE.md) | sales-clients; pricing | Role-play; guarantee-handling playbook: never guarantee at normal price → reframe to realistic target → price the risk (3x) → prorate → sell ROI → paper w/ attorneys; L3-candidate |
+| 2021-04-25 | ★ [Business 101 – How To Leverage Money For Time](2021-04-25-yt-S3gC1JRbbdw.md) | business; mindset; pricing | Pro Group; worked money-for-time opportunity-cost worksheet ($3k job → carousels → leads → clients vs index fund); buy-back-time; L3-candidate |
+| 2021-04-27 | ★ [How To Go From Design To Selling Strategy To Clients](2021-04-27-yt-C2SHll_zWh4.md) | sales-clients; branding; pricing; mindset | Pro Group; embrace-and-pivot script into strategy; $10k anchor on free first session; position around YOU not the artifact → raise rates; L3-candidate |
+| 2021-04-29 | [Should You Charge More? (WWPM Clubhouse w/ Blair Enns)](2021-04-29-yt-rM3nB6pLOPs.md) | pricing; mindset; business | ⚠️ pricing doctrine is **Blair Enns**' (context/do-not-train); Chris trains only host-framing + own past charm-prices + Voss-vs-Enns cross-ref |
+| 2021-05-04 | ★ [This Ad Made Millions, Here's Why](2021-05-04-yt-wYtk_NDLVIg.md) | content-strategy; branding; sales-clients | Chris solo; Dr. Squatch direct-response ad breakdown — paint-the-pain, villain/hero, felt-benefit, 4 diagnostic questions, awareness→consideration→purchase funnel; L3-candidate |
+| 2021-05-06 | [Justify An $18k Logo?!](2021-05-06-yt-AnDfEVSEdZc.md) | pricing; sales-clients; branding | Role-play; clients buy least-risky not best; make client name vendor criteria then beat each; price relative to company's risk; reinforces logo-pricing |
+| 2021-05-11 | ★ [Closing A $10k Client That Is Reluctant (Clubhouse)](2021-05-11-yt-2nVPJDelYNc.md) | sales-clients; pricing; mindset | Full reluctant-buyer close: specify $102k goal → surface objections → 4×$2500 plan (final deferred) → 6mo hit-$51k-or-refund guarantee; canonical worked close; L3-candidate |
+| 2021-05-13 | ★ [Three Story Telling Tips (Story Formula)](2021-05-13-yt-AzrL1TOPS54.md) | content-strategy; branding; mindset | Chris solo; story formula (personal + emotional + one takeaway = "golden formula"); start-with-the-point then edit ruthlessly; Greg Gunn outro = context; L3-candidate |
+| 2021-05-20 | [Selling Through Curiosity & How Not To Be Salesy](2021-05-20-yt--GtoKCIX_7c.md) | sales-clients; pricing | ⟳ dup-of 2019-04-12 (republished AIGA-2019 webcomps role-play); reinforces sell-through-curiosity, nothing new |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -574,4 +582,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_554 videos ingested (L2) so far._
+_562 videos ingested (L2) so far._

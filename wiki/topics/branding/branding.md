@@ -2,7 +2,7 @@
 type: hub
 domains: [branding]
 updated: 2026-07-18
-tags: [branding, personal-branding, unbland, brand-strategy, positioning, storytelling, shadow-work, two-word-brand, logo, logo-critique, identity, identity-system, timelessness, style, packaging, brand-equity, shelf-presence, private-label, brand-filter, go-to-person, sub-brand, order-taker, do-good-work, flip-the-switch, branding-vs-marketing, marketing, halo-bias, specialize-externally, generalize-internally, own-the-client-relationship, portfolio, worst-piece-rule]
+tags: [branding, personal-branding, unbland, brand-strategy, positioning, storytelling, shadow-work, two-word-brand, logo, logo-critique, identity, identity-system, timelessness, style, packaging, brand-equity, shelf-presence, private-label, brand-filter, go-to-person, sub-brand, order-taker, do-good-work, flip-the-switch, branding-vs-marketing, marketing, halo-bias, specialize-externally, generalize-internally, own-the-client-relationship, portfolio, worst-piece-rule, brand-strategy-method, discovery, show-dont-explain, seven-questions, coaching-habit, funnel-math, value-based-pricing, results-based-pricing, facilitation, unbiased-inquiry, client-advocate, everything-is-marketing, inform-or-inspire]
 ---
 
 # Branding — hub
@@ -665,6 +665,120 @@ mechanism. (2020-03-19) [[wiki/sources/2020-03-19-yt-TmPHqX2P3vM]]
 
 ---
 
+## Part 1c — The Brand-Strategy Method (the canonical two-step teaching)
+
+A two-part canonical series Chris taught inside a Futur Pro Group call and released as
+"What Is Brand Strategy And How To Do It" **Step 1** and **Step 2** (Feb 2021). Together they
+are the corpus's cleanest end-to-end statement of *what brand strategy is* and *how to run
+it* — Step 1 is the live discovery demo (the doing); Step 2 is the prerequisite mindset and
+knowledge a strategist must bring to the room (the being). Both are CONFIRMED Chris-taught
+(solo, with a member interlocutor); the promotional voiceovers that bookend the clips are
+Futur-team narration, CONTEXT, excluded from persona. (2021-02-02)
+[[wiki/sources/2021-02-02-yt-TqczYbFPWnk]]; (2021-02-09)
+[[wiki/sources/2021-02-09-yt-EVsC832qvic]]
+
+### Framework 35 — Strategy = goal + path-to-goal; you SHOW it via live discovery (Step 1)
+
+The definition and the demonstration. Strategy is not a lecture you deliver — it's a set of
+questions you run *with* the client to surface the real problem, then size in dollars.
+
+- **The definition.** Strategy is figuring out what the goal is, then figuring out how to get
+  to that goal (goals: market presence, conversion, awareness, etc.). (paraphrase)
+  > "Strategy is basically you trying to figure out what the goal is and then figuring out how
+  > to get to that goal." (2021-02-02) [[wiki/sources/2021-02-02-yt-TqczYbFPWnk]]
+- **Show, don't explain.** Rather than defining strategy abstractly, Chris runs a live
+  strategic discovery on a struggling member on the spot: > "I was thinking about — I can
+  explain strategy or I could just show you right now." (paraphrase + quote) (2021-02-02)
+  [[wiki/sources/2021-02-02-yt-TqczYbFPWnk]] (This is the *doing* half of Framework 30's
+  strategist-vs-order-taker distinction — questions asked live in the room, not a form.)
+- **Dig beneath the stated want.** When a client says "we just want a website," there is always
+  a reason behind what people say they want. Failure to surface it is a double failure: > "They
+  don't know what they want. You don't know how to ask the questions to help them." (2021-02-02)
+  [[wiki/sources/2021-02-02-yt-TqczYbFPWnk]] (Same root-cause-not-symptom logic as Framework 30.)
+- **The 7-question discovery script (credited).** The discovery is *not* improvised — Chris was
+  reading Daniel Montgomery's "seven essential questions" (posted in the pro group), themselves
+  derived from Michael Bungay Stanier's *The Coaching Habit* ("say less, ask more"). Only the
+  final layer — "what does the business represent to you?" — was Chris's own addition, used to
+  assign a dollar value. (paraphrase) > "All I did was literally read the seven questions to
+  you… I'm literally reading a script that was posted inside the pro group." (2021-02-02)
+  [[wiki/sources/2021-02-02-yt-TqczYbFPWnk]]
+- **Funnel math — a wide top or nothing converts.** > "If it's not very wide at the top, there's
+  very low chance of it converting at the bottom." Worked example: 2 replies from 14 signups is
+  actually a *good* rate (~14%); at 100 signups you'd expect only ~3–4 replies. To net **5 paid
+  clients you need ~200 signups** (not 50), nurtured down to ~8–10 who correspond, roughly half
+  of whom convert. > "Your goal should be to grow your email list into the thousands, not into
+  the tens." (2021-02-02) [[wiki/sources/2021-02-02-yt-TqczYbFPWnk]]
+- **Value-based bid sizing.** Establish what one client is worth (member: ~$1,000) → 5 clients =
+  $5,000 → ask how much it makes sense to spend against that outcome; the member would spend up
+  to $5,000 to reliably get $5,000, which Chris uses to size a real bid (~$3,000). (paraphrase)
+  Diagnostic work (auditing the campaign, offer, messaging, funnel) is itself billable — "I'm
+  not going to do that for free." (2021-02-02) [[wiki/sources/2021-02-02-yt-TqczYbFPWnk]]
+  (The pricing side lives fully in the business/pricing topic; kept here as the close of the
+  strategy conversation.)
+- **Results-based pricing (credited to Jonathan Stark).** Charge on results, not time — be
+  willing to work on something for two years if needed; guarantees require charging far more:
+  > "I could not guarantee results for 3,000 bucks, but if it was 300 or 3 million, yeah, I can
+  > guarantee you the results." (2021-02-02) [[wiki/sources/2021-02-02-yt-TqczYbFPWnk]]
+- **Scope discipline.** Define the deliverable narrowly — qualified leads, not the member's
+  whole business: > "I was just brought in to help you fix your funnel." If the member can't
+  close the leads or the offer is weak, that's the member's problem, not the strategist's.
+  (2021-02-02) [[wiki/sources/2021-02-02-yt-TqczYbFPWnk]]
+
+### Framework 36 — What a strategist must know BEFORE starting: business literacy + unbiased facilitation (Step 2)
+
+The prerequisites. Great questions are necessary but not sufficient — someone in the room has
+to actually know the domain, and the facilitator has to run it like an unbiased researcher and
+client advocate.
+
+- **At least one party must know the domain.** Winning the Step-1 exercise depended on the
+  strategist already knowing that "a list of tens rather than thousands is not going to work";
+  if the client doesn't know what they want AND the strategist doesn't know how to ask, the
+  engagement fails — the strategist has to supply that knowledge. (paraphrase) (2021-02-09)
+  [[wiki/sources/2021-02-09-yt-EVsC832qvic]]
+- **Anti craft-obsession — stop fighting for scraps.** Chris's central rant: designers waste
+  their potential arguing over craft minutiae (logo kerning, the Zara logo, the Slack logo)
+  instead of learning business, marketing and psychology. > "You're never going to engage in a
+  > business conversation if all you're doing is obsessing over the slack logo or the zara logo,
+  > it's a complete effing waste of time." The industry has trained designers > "like monkeys to
+  > fight for the scraps." (2021-02-09) [[wiki/sources/2021-02-09-yt-EVsC832qvic]] (Sharpens
+  Framework 24's "if all we talk about is aesthetics… we're going to lose the war.")
+- **Read business, not design.** Chris says he's never read a great *design* book; the books
+  that grew him were business/thinking books (he names Simon Sinek's *Start With Why*). His
+  prescription: spend one weekend searching business/marketing topics — conversion rates, sales
+  funnels, ClickFunnels — and you'll be ready to talk to clients about what they actually need.
+  (paraphrase) (2021-02-09) [[wiki/sources/2021-02-09-yt-EVsC832qvic]] (Same expand-your-mind /
+  shiny-object framing as the specialize-internally side of Framework 34.)
+- **"Everything is marketing."** If people don't know who you are, don't know your story, and
+  don't attach to it, you'll struggle to get real work, sell a service, or launch a product —
+  the game always was and always will be about getting known. > "Everything is marketing — if
+  > people don't know who you are, they don't know your story and they don't attach to it,
+  > you're gonna have a heck of a time trying to get any real work." (2021-02-09)
+  [[wiki/sources/2021-02-09-yt-EVsC832qvic]] *(Also a beliefs/voice candidate — the persona
+  agents own that; kept here as the market-literacy pillar of the strategist's mindset. Consistent
+  with Framework 32's branding-and-marketing-are-converging "blood cousins" stance.)*
+- **"Inform or inspire."** Marketing carries a "dirty tinge" because people equate it with
+  advertising (someone yelling repeatedly); the new-era guideline is **inform or inspire** —
+  teach people something or give value, because you're exchanging their time and attention:
+  > "Use that guideline, inform or inspire — teach people something, give them some value,
+  > because you're exchanging their time and attention, you better give them something valuable."
+  (2021-02-09) [[wiki/sources/2021-02-09-yt-EVsC832qvic]] *(Also a beliefs/voice candidate; same
+  give-value-first / Godin-generosity family as Frameworks 6 and 32.)*
+- **Unbiased facilitation — be a researcher and a client advocate.** A "true facilitator" needs
+  only broad, surface-level knowledge across many things, but must **remain unbiased**:
+  > "A true facilitator has only broad knowledge of things… but what they are, they remain
+  > unbiased." Treat every finding equally — don't pre-believe anything: > "You must treat all
+  > data findings equally, meaning you don't believe anything to be true or untrue." Play devil's
+  > advocate, look at both sides, and be *most* skeptical when everyone agrees with you; so when
+  the client calls a number "low," ask "are you sure? what if I said it's high?" (paraphrase +
+  quotes) (2021-02-09) [[wiki/sources/2021-02-09-yt-EVsC832qvic]]
+- **Verify claims against data.** Even with zero domain expertise a strategist can add value by
+  asking great questions and then *verifying* them — e.g. look up real email/funnel conversion
+  rates and discover they run ~3–4% (or lower). Keep asking "how do you know this is true? can
+  we verify this?" (paraphrase) (2021-02-09) [[wiki/sources/2021-02-09-yt-EVsC832qvic]]
+  (The data half of Framework 35's funnel math.)
+
+---
+
 ## Part 1b — The blind client-engagement workflow (The Process, 2015)
 
 An end-to-end operational workflow for a real identity + web project — the **Trojan Storage**
@@ -1034,6 +1148,14 @@ Chris's signature exercise, refined across the 2023 masterclass and AdobeMAX key
   identity). 2019-08-29.
 - [[wiki/sources/2019-12-31-yt-sO4te2QNsHY]] — "What Is Branding? 4-Minute Crash Course"
   (Marty Neumeier interview; brand = result/reputation). 2019-12-31.
+- [[wiki/sources/2021-02-02-yt-TqczYbFPWnk]] — "What Is Brand Strategy And How To Do It
+  (Step 1)" (strategy = goal + path; show-don't-explain live discovery; 7-question script via
+  The Coaching Habit; funnel math 200 signups → 5 clients; value-based bid; Jonathan Stark
+  results-based pricing). 2021-02-02.
+- [[wiki/sources/2021-02-09-yt-EVsC832qvic]] — "Brand Strategy Step 2: What You Need To Know
+  Before You Start" (business literacy over craft-obsession; "everything is marketing";
+  "inform or inspire"; unbiased facilitation / treat all findings equally; verify claims vs
+  data ~3–4%; Start With Why). 2021-02-09.
 - [[wiki/sources/2021-07-11-yt-lrM5CRg-O0I]] — "Tell Your Story (Part 1)" (story as the
   on-ramp; long/infinite game). 2021-07-11.
 - [[wiki/sources/2023-12-14-yt-1kUCm1JPzxg]] — ★ Personal Branding Masterclass (shadow

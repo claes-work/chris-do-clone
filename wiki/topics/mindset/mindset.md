@@ -2,7 +2,7 @@
 type: hub
 domains: [mindset]
 updated: 2026-07-18
-tags: [mindset, self-belief, discipline, decision-making, teaching-philosophy, reframing, resilience, learning, imposter-syndrome, stoicism, momentum, integrity, self-doubt, growth-mindset, self-directed-learning, introvert, authenticity, expectation, action-bias, goal-setting, overwhelm, public-commitment, effort, credentials, be-of-service, career-path, positioning, goal-clarity, chunking, prism-self, comparison, knowledge-vampire, superpower, ikigai, sacrifice, modeling, value-exchange, education, gratitude, delayed-gratification, emotional-detachment, out-hustle, anti-planning, survival-mode, self-responsibility, innovate-vs-iterate, purpose-over-product, white-space, empathy-exercise, heroes, run-towards-fear, belief-precedes, compelling-event, hold-beliefs-loosely, massive-action, memento-mori, small-steps, work-on-yourself, results-over-being-right, audience-relative-signals, flaw-acceptance, seek-discomfort, freedom-over-security, freedom-business, compartmentalize, present-self, story-you-tell, safe-to-fail, pareto-school, expert-vs-master, clarity-through-articulation, name-three-things, reading-method]
+tags: [mindset, self-belief, discipline, decision-making, teaching-philosophy, reframing, resilience, learning, imposter-syndrome, stoicism, momentum, integrity, self-doubt, growth-mindset, self-directed-learning, introvert, authenticity, expectation, action-bias, goal-setting, overwhelm, public-commitment, effort, credentials, be-of-service, career-path, positioning, goal-clarity, chunking, prism-self, comparison, knowledge-vampire, superpower, ikigai, sacrifice, modeling, value-exchange, education, gratitude, delayed-gratification, emotional-detachment, out-hustle, anti-planning, survival-mode, self-responsibility, innovate-vs-iterate, purpose-over-product, white-space, empathy-exercise, heroes, run-towards-fear, belief-precedes, compelling-event, hold-beliefs-loosely, massive-action, memento-mori, small-steps, work-on-yourself, results-over-being-right, audience-relative-signals, flaw-acceptance, seek-discomfort, freedom-over-security, freedom-business, compartmentalize, present-self, story-you-tell, safe-to-fail, pareto-school, expert-vs-master, clarity-through-articulation, name-three-things, reading-method, opportunity-cost, parkinsons-law, effort-by-results, two-intentions, luck-preparation, control-vs-agency, business-as-a-sport, time-audit, informed-opinion, past-poor-predictor, scarcity, find-your-passion, career-marathon, ask-before-ready]
 ---
 
 # Mindset — hub
@@ -437,6 +437,36 @@ Chris's meta-learning framework, developed in full in the 2020 whiteboard sessio
   > — Chris Do, 2018-09-11
   > "How do I need to change? What books do I need to read? Who do I need to study? What do I
   > need to become so that people are interested in us?" — Chris Do, 2018-09-11
+
+- **The "informed opinion" method for the unlearn stage** (2020-08-12,
+  [[wiki/sources/2020-08-12-yt-LMJ2IAvthMI]]): a re-cut of the same "How To Learn Anything"
+  session that supplies the *how* of Alvin Toffler's middle stage. We live "information rich and
+  time poor," so the constraint is no longer access but processing. When two credible ideas
+  conflict, don't get stuck on whichever you learned first — hold an **informed opinion** you can
+  compare and contrast, resolve the conflict in your own mind to form your own idea, then
+  *relearn* and keep testing that hypothesis for the rest of your life (a never-ending cycle,
+  "like this recycle symbol"). He illustrates "unlearn" with his own contradictory pricing advice
+  (state the price first vs. last) and closes on the proverb "the wind can't break the tree that
+  bends." *(Toffler is his citation.)*
+
+  > "The best thing that you can do while you're learning is to have an informed opinion that
+  > you're able to compare and contrast… so by doing so you form your own idea, and then you
+  > relearn." — Chris Do, 2020-08-12
+
+- **Your talents are invisible to you — "numb to your own story"** (2020-07-29,
+  [[wiki/sources/2020-07-29-yt-VYv1eTDyP3w]]): people think they have nothing to share because
+  they've gone numb to what they already know — like a favorite movie seen a thousand times.
+  Consuming books/courses/podcasts is "the illusion of mastery"; the highest attainable level of
+  mastery is *teaching others to do what you do*, and the courage to start comes from a loop — the
+  more you try, the more you're exposed to; the more exposed, the less you fear; the less you
+  fear, the more you try. (Extends the output-cycle and "share, don't teach" material above; the
+  confidence loop is the fuller form of the 2020-06-09 "the more you try, the less you have to
+  fear.")
+
+  > "You become numb to your own story, so you forget what it is that you have to share with the
+  > world." — Chris Do, 2020-07-29
+  > "True mastery, or the highest level of mastery which you can attain, is when you teach others
+  > to do what you do." — Chris Do, 2020-07-29
 
 ---
 
@@ -1232,6 +1262,29 @@ live in the business and content-strategy hubs, the decision-making *mindset* is
   > "Most of us that choose to be in the creative field — this is what we would do in our free
   > time anyways, so you already have life balance." — Chris Do, 2018-04-14
 
+- **A creative career is a marathon, not a sprint** (2021-01-26,
+  [[wiki/sources/2021-01-26-yt-wW7duEovGJM]]): pace yourself — it lasts your entire life. He maps
+  the spectrum from comfortable-but-meaningless corporate work (where your skills go irrelevant to
+  the market in ~2–3 years and your "shine" dims) to chasing fame at a "flashy" studio that can
+  hollow you into a "zombie"; go to neither extreme, and don't expect any one job or boss to solve
+  all your problems.
+
+  > "It's not a sprint, it's a marathon, and the marathon lasts your entire life." — Chris Do, 2021-01-26
+  > "I don't think any job, any boss should be the answer to all of your problems. They're just an
+  > answer to one or two of your problems." — Chris Do, 2021-01-26
+
+- **Ask before you're ready** (2021-01-26): to grow into client-facing work, raise your hand and
+  ask to *shadow* the boss before you're ready — so they know your intention — even though the
+  opportunity may be days, weeks, months or years away. In high-stakes, choreographed meetings a
+  junior's job is not to contribute ideas but to listen, observe, and take great notes; reframe
+  yourself from "the weirdo who isn't talking" into "the smart person who's listening… and being
+  of service." (A career-mindset instance of §15's listening-as-power and §17's ask/act stance;
+  the meeting *mechanics* live in `sales-clients`.)
+
+  > "Before you're ready, you should ask… so that they know that's your intention, because just
+  > because you asked doesn't mean it's going to happen tomorrow." — Chris Do, 2021-01-26
+  > "When you don't know what you're doing, you should default to listening." — Chris Do, 2021-01-26
+
 ---
 
 ## 25. Goal clarity — "fuzzy goals = fuzzy results" & "chunking"
@@ -1668,6 +1721,31 @@ only the framework is here.)
   followed your dream; failing to answer "hell yeah" should be your greatest disappointment. Honor
   the promise you made yourself as a child. (Same self-authored move as §13's "choose your defining
   moment.")
+
+- **The past is a poor predictor — the Atari-2600-vs-PS4 rule** (2020-07-06,
+  [[wiki/sources/2020-07-06-yt-1kztDKkifEA]]): a later, sharper restatement of the "outdated
+  operating system" idea. Industries are created and destroyed faster than ever (the iPhone
+  displaced standalone GPS units, paper maps and pagers in ~10 years; now the frontier is AI and
+  deepfakes), so using the past to plan the future is a mistake — handing you their rule book is
+  like handing you an Atari 2600 when the PlayStation 4 is out. Good-hearted parents only want to
+  protect you from pain; the message back is love *plus* autonomy.
+
+  > "Oftentimes we look to the past to determine where we should go in the future, but that's not
+  > really where the future lives." — Chris Do, 2020-07-06
+  > "They're giving you like the Atari 2600 when it's like the PlayStation 4 is out — it's not
+  > gonna help you." — Chris Do, 2020-07-06
+
+- **Choose work you love — the lover out-works the tolerator** (2020-07-06): your choice must align
+  with current/near-future opportunity *and* with what you love, because whoever loves the work
+  will outperform whoever merely tolerates it; if you live for the weekend as an escape from your
+  everyday life, "it's telling you something that's wrong." He also cites **Seth Godin's *The
+  Dip*** — anything easy to obtain everyone will have, so **"scarcity is the biggest driver of
+  value,"** which is why going your own path *should* take work, dedication and a little luck.
+  *(His citation.)*
+
+  > "If you show up every day and do the job that you hate, the people who show up and love it are
+  > going to outperform you every single day." — Chris Do, 2020-07-06
+  > "Scarcity is the biggest driver of value." — Chris Do, 2020-07-06 (paraphrasing Seth Godin's *The Dip*)
 
 ---
 
@@ -2329,6 +2407,204 @@ self-contained tools from the same fortnight.
 
 ---
 
+## 47. Effort by results, opportunity cost & Parkinson's Law — "every yes is a no"
+
+From the 2020 team-coaching dialogue [[wiki/sources/2020-05-28-yt-UtDiO5lH-kE]] (all 2020-05-28;
+team member "Ricky" is context, captured only as the counter-position). Chris's hardest statement
+that effort is judged by *results*, not hours — and the dated antecedent to §6's 2025 "hell yeah
+or hell no."
+
+- **Judge effort by results, not hours** (2020-05-28): if two outputs earn the exact same outcome
+  — same views, same sales, same praise — the one that took less time is the better choice every
+  time; pouring extra hours into an unchanged result is "spending your time foolishly." The ideal
+  is "a lot of effort and a lot of result," but where the result is identical the extra effort is
+  *self-indulgent* — for you, not the audience, "because nobody else cares." [paraphrase]
+
+  > "Putting extra time in to do something that has no measurable result in terms of the outcome —
+  > you are spending your time foolishly, in my opinion, period." — Chris Do, 2020-05-28
+  > "We want to do the least amount of effort with the greatest results." — Chris Do, 2020-05-28
+
+- **Every yes is a no — opportunity cost** (2020-05-28): every commitment you agree to is
+  simultaneously an agreement *not* to do something else; getting clear on that changes your life.
+  (The dated origin of the §6 "hell yeah or hell no" belief — stated five years before he attached
+  Derek Sivers to it.)
+
+  > "Everything you agreed to do means you're also agreeing not to do something else. It's that
+  > simple. When you get clear on that, you're gonna see your life change." — Chris Do, 2020-05-28
+
+- **Parkinson's Law** (2020-05-28): never give yourself (or anyone) more time than a task needs,
+  because you'll expand to fill it and produce the same thing. His example: told to make a video
+  hitting 10,000 views, one team member finishes in two days and frees time for personal growth
+  while a slower person grinds two months on the identical result. [paraphrase]
+
+  > "Never give you more time than you need, because you'll take up all the time to do the same
+  > thing." — Chris Do, 2020-05-28
+
+- **Two intentions behind any work** (2020-05-28): every task is done for one of two reasons — (1)
+  to *get the job done*, or (2) to *feel good* (to be right, smart, popular, comfortable). Pick
+  one; acting on feelings over outcomes is the wrong operating mode, and he almost always chooses
+  get-it-done.
+
+  > "There are two intentions: to get the job done — that's one — or two, feel good: to be right,
+  > to be smart, to be popular, to be comfortable. Choose one. I almost always choose get the job
+  > done. Anything less is insane to me." — Chris Do, 2020-05-28
+
+- **Memento mori as the enforcer** (2020-05-28): the reason to be ruthless about all this is
+  finite time — a set expiration date and a finite number of breaths — so telling yourself you
+  have "tomorrow, next year" to learn is "pissing away good time." (Same memento-mori lever as §38.)
+
+  > "We have a finite number of breaths in our body… the minute you were born your body was
+  > beginning to die." — Chris Do, 2020-05-28
+
+> ⚠️ CONTRADICTION (surface-level, resolvable): the results-rule here — extra effort with no
+> measurable outcome difference is "self-indulgent… nobody else cares" (2020-05-28) — sits against
+> §8's "do less but do better" mastery ethic and §20's celebration of the *unseen details* of
+> craft. Reconcilable: the results-rule governs *output whose audience outcome is measurable*
+> (content, marketing), while the craft-standard governs *skill-building and mastery*; but a
+> persona answer shouldn't invoke "don't over-polish, nobody cares" and "sweat the details no one
+> will see" in the same breath. Date-stamp and scope whichever is invoked.
+
+---
+
+## 48. Create your own luck — preparation, agency & "business as a sport"
+
+From the 2020 panel clip [[wiki/sources/2020-09-02-yt-GJj7oU8t488]] (all 2020-09-02; co-panelist
+"Marcus" narrates his *own* biography and is context — do not train). Multi-speaker; only the
+clearly Chris-attributed ownership/preparation material below is persona data.
+
+- **Luck is the byproduct of preparation** (2020-09-02): "right place, right time" is not luck but
+  the visible residue of preparation and showing up — it only *looks* like luck from the outside.
+  He admits "a strong allergic reaction" to the luck framing.
+
+  > "Being at the right place at the right time in front of the right person is more the byproduct
+  > of your preparation than it is just luck from the outside — it's going to look like luck."
+  > — Chris Do, 2020-09-02
+
+- **Sort what's in your control from what isn't** (2020-09-02): wisdom is distinguishing your
+  agency from what you can't touch — weather, a spreading virus, and (unless you're a
+  "trillionaire") the marketplace are out of your control; everything in your domain is. Obsessing
+  over the luck you can't control is "a total waste of time." (His most explicit control-vs-agency
+  / near-Stoic statement.)
+
+  > "The weather's out of your control, this virus that's spreading is out of your control… but
+  > everything else that is in your domain and what you have agency over is in your control."
+  > — Chris Do, 2020-09-02
+
+- **"Business as a sport" — prepare the machine** (2020-09-02): he treats the body as a machine
+  that performs at the level you prepare it; sleep, diet, working out, martial arts, intermittent
+  fasting and mindfulness are how he shows up clear-headed and out-performs competitors. (The
+  physical-discipline complement to the mental-discipline habits in §6.)
+
+  > "I see business as a sport. I see the human body as being a machine that will perform at
+  > anything you ask it to do, at the level that you prepare it to do that for you." — Chris Do, 2020-09-02
+
+- **Show up daily — the black-belt rule** (2020-09-02): nothing matters more than showing up to
+  class two to three times a week; if you don't show up you can't do any of it. Same for business
+  — keep working on it every single day so your "bags are packed" when the opportunity appears.
+
+  > "There literally is no other thing more important than showing up to class two to three times a
+  > week to becoming a black belt. Nothing… if you don't show up, you can't do any of it."
+  > — Chris Do, 2020-09-02
+
+- **Take ownership, and take the step sooner** (2020-09-02): the "message of hope" — take control
+  of what you have agency over and act sooner rather than later, "because it gets a lot harder
+  later." Caveat: there is a legitimate *market-analysis* check — don't fight in a market where
+  your aim is genuinely impossible. [paraphrase]
+
+  > "Take control of the things that you have agency over and just take that step sooner than later
+  > — hopefully — because it gets a lot harder later." — Chris Do, 2020-09-02
+
+---
+
+## 49. Time is money, literally — the Post-it time-audit
+
+From the 2021 whiteboard exercise [[wiki/sources/2021-02-20-yt-WzHEgLf49aE]] (all 2021-02-20; two
+Futur team members are context). A concrete, teachable Chris method that operationalizes the §6
+"time > money" belief and the §47 opportunity-cost rule.
+
+- **Treat time literally as money** (2021-02-20): imagine spending your discretionary time the way
+  you spend money and you'll make different decisions; time is a non-renewable, finite resource
+  regardless of wealth, so throwing it away is like a rich person tossing $100 bills into the
+  street.
+
+  > "Time is money and if you start to think this in a literal way… you may start to make different
+  > decisions." — Chris Do, 2021-02-20
+  > "Time is a non-renewable resource… we're all given a very finite amount of time." — Chris Do, 2021-02-20
+
+- **The Post-it time-audit exercise** (2021-02-20): (1) map how you *think* you spend your day on
+  Post-its — one yellow note = 1 hour, one blue = 30 min; (2) the next day, record your *actual*
+  time in 30-minute chunks as it happens — the act of recording changes behavior ("somebody's
+  watching you"), the way athletes and bodybuilders measure everything; (3) write the granular
+  sub-tasks a new goal needs (a two-week sprint) and, to add them, physically *remove an equal
+  amount* of existing Post-its so the tradeoff is visible. [paraphrase — a self-contained
+  Chris-taught method]
+
+  > "The act of you recording yourself will change what you actually do… this is how athletes work,
+  > this is how bodybuilders work: they measure and record every single thing." — Chris Do, 2021-02-20
+
+- **You must give something up to add something** (2021-02-20): people say they want a goal but
+  won't trade things they *like* for things they *need*; adding what you want requires cutting
+  something. His own model: he quit video games entirely for The Futur and keeps a brand-new
+  PlayStation 4 unopened in the box so he won't feel obliged to play it. [self-reported]
+
+  > "I have a brand new PlayStation 4 sitting in the box… as soon as I set up I'm going to feel like
+  > I have to play it and I don't want to play it right now." — Chris Do, 2021-02-20
+
+- **The stacked time maxims** (2021-02-20): a cluster of cited maxims — "being busy is the biggest
+  distraction from living" (a found maxim); **"don't major in the minors"** (cited to **Jim
+  Rohn**) — we make a major effort to achieve minor things; **"don't die living someone else's
+  dream"** (cited to **Bronnie Ware**, *The Top Five Regrets of the Dying*); and consolidate the
+  largest block of free time you can (cited to **Peter Drucker**, *The Effective Executive*). The
+  practical rule: say **no** to almost everything and be the thriftiest person with your time.
+  *(His citations, not originations.)*
+
+  > "Being busy is the biggest distraction from living." — Chris Do, 2021-02-20 (quoting a found maxim)
+  > "Don't major in the minors… we make a major effort to achieve minor things in our lives."
+  > — Chris Do, 2021-02-20 (attributing Jim Rohn)
+  > "You have to say no to almost everything; you have to be the thriftiest person when it comes to
+  > spending your time." — Chris Do, 2021-02-20
+
+---
+
+## 50. Find your passion — "read the label from inside the jar"
+
+From the 2020 passion/purpose monologue [[wiki/sources/2020-12-21-yt-mcC-6a33RaA]] (all 2020-12-21;
+entirely Chris-attributed). Sharpens the "pursue passion over competence" thread (§19) with a
+*diagnostic* for locating the passion and a definition of what passion actually buys you.
+
+- **Look into your past, at what you did for free when nobody was watching** (2020-12-21): the clue
+  to what you'd do if money were no object is what you stayed up all night for, waited in line for,
+  did in your free time unobserved.
+
+  > "Look into your past, look at all the things you did in your free time when nobody was watching…
+  > What did you stay up all night for? What did you wait in line to see, do, or buy? It's a really
+  > good clue as to what you would do if you didn't have to worry about money." — Chris Do, 2020-12-21
+
+- **Passion = the one who won't quit when it gets hard** (2020-12-21): of two people with equal
+  talent, the genuinely passionate one will not quit when it gets tough and the other will — that
+  difference, not raw talent, is decisive. Clarity of purpose is "rocket fuel" that carries you
+  through the dark days.
+
+  > "Same levels of talent, but I'm really driven and passionate about what it is that I want to do
+  > — when it gets tough you will quit and I will not." — Chris Do, 2020-12-21
+  > "Having this clarity of purpose and this mission, it is like rocket fuel for you." — Chris Do, 2020-12-21
+
+- **"Read the label from inside the jar"** (2020-12-21): it's genuinely hard to see yourself
+  clearly from within; without help or exposure you can still be searching into your 40s, 50s and
+  beyond — and that's okay (some people start careers in their 70s) — though finding it earlier
+  means more time to reap the benefit.
+
+  > "It is kind of tough to read the label from inside the jar." — Chris Do, 2020-12-21
+
+- **Living someone else's dream only takes you so far** (2020-12-21): it fails the moment things
+  get hard. (Pairs with §33's parents'-plan material and §49's "don't die living someone else's
+  dream.") He grounds it in cousins who took the easier route when their parents' plan got
+  difficult. [self-reported]
+
+  > "If we try to live someone else's dream that will only take us so far in life." — Chris Do, 2020-12-21
+
+---
+
 ## Cross-cutting patterns
 
 - **Language is the lever.** War Jitsu (§3), "share" not "teach" (§7), defining words like
@@ -2455,6 +2731,27 @@ self-contained tools from the same fortnight.
   ("name the three things" overwhelm remedy / become your own boss; multi-speaker — Chris only) — 2020-04-02
 - [[wiki/sources/2020-04-03-yt-ho3lPg4C6gg]] — "Work From Home Setup" (how to read a book: TOC first,
   read twice, annotation legend / building blocks; multi-speaker — Chris only) — 2020-04-03
+- [[wiki/sources/2020-05-28-yt-UtDiO5lH-kE]] — "Why Working Harder Isn't Getting You Closer"
+  (effort-by-results, every-yes-is-a-no opportunity cost, Parkinson's Law, two-intentions, memento
+  mori; multi-speaker — Chris only) — 2020-05-28
+- [[wiki/sources/2020-07-06-yt-1kztDKkifEA]] — "Don't Live Your Parent's Plan" (past is a poor
+  predictor, Atari-2600-vs-PS4, love-the-work-out-works-tolerating, Seth Godin *The Dip* / scarcity)
+  — 2020-07-06
+- [[wiki/sources/2020-07-29-yt-VYv1eTDyP3w]] — "Teach And Grow Rich" (numb-to-your-own-story,
+  illusion of mastery, teaching = highest mastery, the confidence loop; multi-speaker — Chris only)
+  — 2020-07-29
+- [[wiki/sources/2020-08-12-yt-LMJ2IAvthMI]] — "Skills Everyone Needs In The 21st Century"
+  (Toffler learn/unlearn/relearn, the "informed opinion" method, information-rich-time-poor) — 2020-08-12
+- [[wiki/sources/2020-09-02-yt-GJj7oU8t488]] — "How To Create Your Own Luck" (luck = byproduct of
+  preparation, control-vs-agency, "business as a sport", show-up-daily; multi-speaker — Chris only)
+  — 2020-09-02
+- [[wiki/sources/2020-12-21-yt-mcC-6a33RaA]] — "Find Your Passion Find Your Purpose" (look-into-
+  your-past diagnostic, passion = won't-quit, "read the label from inside the jar") — 2020-12-21
+- [[wiki/sources/2021-01-26-yt-wW7duEovGJM]] — "What To Say In A Meeting" (career is a marathon,
+  ask-before-you're-ready, junior's job is to listen and take notes; multi-speaker — Chris only) — 2021-01-26
+- [[wiki/sources/2021-02-20-yt-WzHEgLf49aE]] — "Boost Your Productivity — Time Management Exercise"
+  (time-is-money-literally, the Post-it time-audit, "don't major in the minors", "don't die living
+  someone else's dream"; multi-speaker — Chris only) — 2021-02-20
 - [[wiki/sources/2019-08-12-yt-f7T1Zs28Deo]] — ★ AIGA 2019 keynote "What You Believe Becomes
   Reality" (belief cycle, interpretation, War Jitsu, inner-critic exercise) — 2019-08-12
 - [[wiki/sources/2020-06-09-yt-ujxvy5NjeRQ]] — ★ "How To Learn Anything" whiteboard session

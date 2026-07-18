@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-18
-sources: 114
+sources: 123
 ---
 
 # Beliefs
@@ -80,7 +80,20 @@ attachment = "the root of sadness," live as the present self; "A stands for aver
 beholder's title while a master is bestowed by others), business/partnership positions (a partner =
 "a hole inside you," go fill it yourself + the "prenup"; "you can't be the only creative genius in
 the room → you don't scale"; "fame beats price"), and a portfolio doctrine (the client is the hero,
-you are the guide — case studies via StoryBrand). All video material
+you are the guide — case studies via StoryBrand). Expanded again 2026-07-18 (**synthesis
+pass 9**) from late-2020 → early-2021 "@thefutur" videos (ingest batches 76–85) — a
+**cost/price/value** pricing cluster ("seller sets the price, buyer sets the value"; profit is
+compensation for risk — Drucker's "all profit comes from risk"; a high price is not exploitation
+because buyers only buy what they value), value-based pricing **as belief** ("the customer's
+profit is untapped value"; "I want clients to spend as much money on me as possible because every
+dollar returns 10x" — with a flagged evolution vs. his own historical cost-plus/fixed-bid
+bidding), a marketing thesis ("everything is marketing"; "inform or inspire"), a brand-loyalty
+position ("loyalty = lived values + tribe, not mission statements"), a communication ethic
+("politeness is often fakeness — be respectful AND truthful, in non-violent terms as an equal"), a
+passion/purpose cluster (passion = "won't quit when it's hard"; "read the label from inside the
+jar"), a time/priorities cluster ("being busy is the biggest distraction from living"; "don't die
+living someone else's dream"), and a positioning position ("be good, not original"; win by being
+the LEAST RISKY option). All video material
 below is subject-attributed first-person unless noted; quotes are marked as quotes, everything
 else is paraphrase.
 
@@ -1489,6 +1502,160 @@ A compact career-growth framework (the "4 tips").
   study about kerning"*). Capture the *middle* — sketches, wireframes, whiteboards, people in action
   — so the story isn't just a before-and-after. (2020-06-08) `[self-reported]` (influence: Donald
   Miller / StoryBrand) ([[../wiki/sources/2020-06-08-yt-31Uc5TA8ntA]])
+
+### Cost, price, value — "seller sets the price, buyer sets the value" (2021)
+
+The crisp foundational triad under the whole pricing doctrine, dated to a 2021 whiteboard talk.
+
+- **The cost / price / value triad.** Three words creatives conflate: **cost** = what it takes
+  to make (inputs — time, materials, salaries, rent, overhead); **price** = cost + profit;
+  **value** = subjective, set by the buyer. *"When value exceeds price, buyers give you money."*
+  Charging only your costs is a road to bankruptcy — *"if you are only to charge your clients what
+  it costs, the best you can hope for is to break even"* — because cost ignores mistakes, delays,
+  and clients changing their minds. (2021-02-23) `[self-reported]`
+  ([[../wiki/sources/2021-02-23-yt-zM2fB-Q8T7g]])
+- **The seller determines the price; the buyer determines the value.** *"Value is subjective,
+  it's dependent on the buyer to determine value. Most of us think it's up to us."* The buyer holds
+  value-authority precisely because they never have to buy — they can decline any price and ask
+  "is this fair based on my needs?" (2021-02-23) `[self-reported]`
+  ([[../wiki/sources/2021-02-23-yt-zM2fB-Q8T7g]])
+- **Profit is compensation for risk.** He credits Peter Drucker — *"all profit comes from risk"* —
+  and asks *"who is taking the risk?"* On hourly billing the client bears the risk (work five
+  hours, get paid five); on a fixed fee you assume the unknowns (client changes mind, new
+  stakeholder, unknown unknowns), so you add profit to price the risk you're carrying.
+  (2021-02-23) `[self-reported]` (attributes Drucker)
+  ([[../wiki/sources/2021-02-23-yt-zM2fB-Q8T7g]])
+  > Continuity (earliest-dated form, not new): this predates the same Drucker "all profit comes
+  > from risk" line he restates in 2022 ([[../wiki/sources/2022-12-27-yt-o8IdDEJym1U]], Values below).
+- **A high price is not exploitation.** Creatives feel "sheepish" charging high, fearing they're
+  *"taking advantage of the customer."* But a buyer *"would [not] buy if they didn't see value in
+  this thing"* — no "powers of manipulation" can force someone to buy what they don't value (a
+  $10,000 diamond is genuinely valuable to some and "just a shiny rock" to others; no amount of
+  De Beers advertising changes that). Setting a high price is legitimate. (2021-02-23)
+  `[self-reported]` ([[../wiki/sources/2021-02-23-yt-zM2fB-Q8T7g]])
+
+### Value-based pricing as a belief — "every dollar returns 10x" (2021)
+
+- **The customer's profit is untapped value — want clients to spend as much as possible.**
+  Standard pricing stops at cost → profit → price and ignores the customer's *own* profit, *"a
+  whole new chunk of money."* *"I want the clients to spend as much money on me as possible,
+  because I believe every dollar they spend they will get back ten times the results."* His job
+  *"is not to sell them anything… [it's] to help them"* — being paid is only what lets him
+  allocate time to their project. Price scales with the client's risk: *"you can do the exact same
+  website for forty thousand dollars or three hundred thousand dollars"* depending on company size
+  and his role. Reframe "budget" as **money** — *"the word budget makes it sound cheap… call it
+  what it is,"* because money is tied to value. (2021-03-03) `[self-reported]` (influence: Dan Mall,
+  *Pricing Design*) ([[../wiki/sources/2021-03-03-yt-LliPPJo5lHE]])
+- **Nitpicky clients are an underpricing signal (restated).** *"Every time I have one of those
+  clients that are nitpicky… I feel frustrated mostly because I didn't charge enough"* — so he goes
+  back, asks for more money, it works out, and he's happy again. (2021-03-03) `[self-reported]`
+  ([[../wiki/sources/2021-03-03-yt-LliPPJo5lHE]])
+  > Continuity: restates his 2016/2018 "resentment/dread = charge more" rule (Opinions below;
+  > [[../wiki/sources/2018-10-23-yt-yoGvz6lvTfQ]]; [[../wiki/sources/2016-03-08-yt-7IwTua4AaRY]]).
+
+> ⚠️ Evolution (his OWN practice — a phase shift, not a reversal): the value-based stance above is
+> his **current doctrine**, but in the same era he narrates his **historical** bidding as
+> **cost-plus / fixed-bid**: a naive solo hourly/day rate → marking up freelancers → a cost-plus
+> spreadsheet (learned from producer Karen Rainey) → padded day rates and 25–40% production-fee
+> markups at his Blind agency. He frames cost-plus as *"the dark art of bidding"* / *"a remnant of
+> the old times,"* superseded by pricing to client value (present-day: strategy $20–40k, logo $16k,
+> messaging $12k, priced to the client). Read cost-plus as **dated historical method / what agencies
+> are used to seeing**, not current best-practice advice. (2021-02-11) `[self-reported]`
+> ([[../wiki/sources/2021-02-11-yt-OiUOaZJJYzg]])
+
+### "Everything is marketing" — inform or inspire (2021)
+
+- **Everything is marketing.** *"Everything is marketing. If people don't know who you are, they
+  don't know your story, and they don't attach to it, you're gonna have a heck of a time trying to
+  get any real work."* The game always has been and always will be about getting known. Marketing
+  carries a "dirty tinge" only because people equate it with advertising (someone yelling
+  repeatedly); the new era of marketing is different. (2021-02-09) `[self-reported]`
+  ([[../wiki/sources/2021-02-09-yt-EVsC832qvic]])
+- **Inform or inspire — content owes the audience value.** The guideline for any content you put
+  out: *"inform or inspire — teach people something, give them some value, because you're exchanging
+  their time and attention [so] you better give them something valuable."* (2021-02-09)
+  `[self-reported]` ([[../wiki/sources/2021-02-09-yt-EVsC832qvic]])
+  > Related: extends the 2018 "give it all away / stop selling — karmic equity" content thesis
+  > (above) and the ~12–15:1 value-to-pitch ratio (2020-10-28, below).
+
+### Loyalty is lived values and tribe, not mission statements (2020)
+
+- **People aren't loyal to mission statements.** Disagreeing with a submitter: people are **not**
+  loyal to brands because of mission/vision statements — *"What's Apple's mission statement? What's
+  Nike's mission statement? That's the problem"* — most people can't recall them. We buy *"because
+  of how those things or products and services make us feel about who we are and the tribes that
+  we're joining."* Values must be **lived** and expressed consistently across every touchpoint, not
+  read: *"if you act and behave consistently to these values and you make decisions based on them,
+  then people will develop an affinity for you."* Purchases are emotional — *"we don't buy things,
+  we buy how things make us feel."* (2020-10-28) `[self-reported]`
+  ([[../wiki/sources/2020-10-28-yt-qjZospdjnS0]])
+
+### Politeness is often fakeness — be respectful and truthful (2021)
+
+- **The opposite of impolite is truth, not politeness.** *"Most of the times when you're being
+  polite you're being fake."* Aim to be *respectful and truthful* instead — *"the opposite of
+  impolite is not necessarily polite, it's just truth."* You can deliver hard feedback respectfully
+  without being rude, personal, or name-calling (don't *"pull a Gordon Ramsay"*). Being "nice" and
+  "just eating it" (not sending back bad restaurant food, a polite "this is good" then silence)
+  actually **hurts** the other person, who never gets the chance to fix the problem. (2021-01-05)
+  `[self-reported]` ([[../wiki/sources/2021-01-05-yt-FxC114VZBzs]])
+- **Say what you think — in non-violent terms, arriving as an equal.** His coach's best advice was
+  *"say what you think,"* with an essential second half: *"learn how to say what you think in
+  non-violent terms without judgment… I arrive as an equal."* It starts internally — *"your language
+  betrays you, your word reveals your truth"* — so change the violent language in your own self-talk
+  first (the "have to" → **"get to"** reframe). Aim for emotional neutrality on a call: *"I don't
+  want it and I don't not want it… so I can see things for the way they are."* (2021-01-05)
+  `[self-reported]` ([[../wiki/sources/2021-01-05-yt-FxC114VZBzs]])
+
+### Passion is what won't quit — "read the label from inside the jar" (2020)
+
+- **Passion is the thing you won't quit when it's hard.** Clarity of purpose is *"like rocket fuel
+  for you"* that carries you through the dark days. The differentiator between two people of equal
+  talent: *"same levels of talent, but I'm really driven and passionate… when it gets tough you will
+  quit and I will not."* Find your passion by looking into your past — *"all the things you did in
+  your free time when nobody was watching… a really good clue as to what you would do if you didn't
+  have to worry about money."* (2020-12-21) `[self-reported]`
+  ([[../wiki/sources/2020-12-21-yt-mcC-6a33RaA]])
+- **"It's tough to read the label from inside the jar."** You can't easily see your own
+  strengths/calling from within — without help or enough exposure you can still be searching into
+  your 40s, 50s and beyond, *"and that's okay."* His own creative clues were present since childhood
+  even as he denied them: *"the clues have all been there. I just needed to look and to be open to
+  the idea."* (2020-12-21) `[self-reported]` ([[../wiki/sources/2020-12-21-yt-mcC-6a33RaA]])
+
+### Being busy is the biggest distraction from living (2021)
+
+- **Busyness is a distraction from living; don't die living someone else's dream.** *"Being busy is
+  the biggest distraction from living."* *"Don't die living someone else's dream"* (attributes
+  Bronnie Ware) — living another's dream *"will only take us so far in life."* *"Don't major in the
+  minors"* (attributes Jim Rohn) — *"we make a major effort to achieve minor things in our lives."*
+  The corrective is ruthless time-thrift: *"you have to say no to almost everything… be the
+  thriftiest person when it comes to spending your time."* Treat time as literally money — *"a
+  non-renewable resource"* — because acting as if you must use every moment changes your decisions;
+  adding what you *want* requires giving up something you *like*. (2021-02-20) `[self-reported]`
+  ([[../wiki/sources/2021-02-20-yt-WzHEgLf49aE]])
+  > Continuity: sits under the "time is the most precious, non-renewable resource" value (2025,
+  > Values below) and the "Hell yeah or hell no / saying no gives power to your yes" position.
+
+### Be good, not original — present yourself as the least risky option (2021)
+
+- **Try to be good, not original.** *"Rather than try to be original, just try to be good. That's a
+  difficult thing — just try to be good."* A designer accepts money to solve someone's problem, so
+  the work is **service, not self-expression** — *"it's not our problem"* — and a young creative
+  who fixates on awards or a calling-card is being *"egocentric, and that's a really dangerous place
+  to be,"* especially since a client betting a multi-million-dollar business on your logo is the one
+  carrying the real risk. (2021-01-07) `[self-reported]`
+  ([[../wiki/sources/2021-01-07-yt-9GzVEUhKOqc]])
+  > Continuity: restates the 2017 anti-originality position ("chase good, not original," Design
+  > craft above; [[../wiki/sources/2017-10-10-yt--MMwGkUioFQ]]).
+- **Win by being the LEAST RISKY option, not the "best" one.** *"We don't try to win clients
+  because we're the best option; we win clients because we present ourselves as the least risky
+  option"* — and what reads as least-risky differs per client. Risk signals a buyer avoids: short
+  time in business, poor/slow communication, no track record, wild egocentric ideas. Undifferentiated
+  work with no story forces you to *"compete with everybody"* on price (untrained eyes can't spot
+  craft nuance, so they default to the lowest bid). The fix isn't being avant-garde — it's telling
+  the story of your **process** (*"here's how I got from here to here, and if you work with me this
+  is how it will play out"*), which *"diminish[es] risk and creat[es] uniqueness."* (2021-01-07)
+  `[self-reported]` ([[../wiki/sources/2021-01-07-yt-9GzVEUhKOqc]])
 
 ## Values
 

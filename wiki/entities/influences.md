@@ -123,6 +123,18 @@ material, not persona-attributed.
 
 ---
 
+## Craft / bidding mentors
+
+- **Karen Rainey** — a **producer** Chris brought in early in the Blind era who taught him
+  **cost-plus fixed bidding**: her (complicated Excel) bid form showed him that merely
+  marking up what freelancers charge is not real profit, and introduced tactics like
+  charging for workstations and padding day rates. This became how Blind bid "for a really
+  long time," and is the precursor to his later value-based "price the client" doctrine.
+  [[wiki/sources/2021-02-11-yt-OiUOaZJJYzg]]. *(Bidding mentor; create own entity page if
+  she recurs.)*
+
+---
+
 ## Thinkers Chris frequently cites (referenced, not peers)
 
 Authors and speakers Chris quotes or paraphrases in his teaching. They are **cited
@@ -166,3 +178,11 @@ sources**, not part of his personal network — no entity pages needed:
 - **Jordan Peterson** — creatives are by nature **divergent** thinkers; a little convergent
   discipline ("pick a lane") lets them do well — cited alongside Blair Enns in the
   specialize-vs-generalize framework. [[wiki/sources/2020-03-19-yt-TmPHqX2P3vM]].
+- **Dan Mall** (*Pricing Design*) — designer/author whose book Chris **reads and breaks
+  down on-camera** as aligned with his own value-based pricing: charge for value not hours
+  ("I don't have a rate"), a **risk-based sliding scale** (the same website is $40k or
+  $300k depending on the client's size/risk and your role), rush and "pain-in-the-butt"
+  surcharges, and reframing **"budget" as "money"** (the word "budget" makes it sound
+  cheap). Chris reads Mall's client↔provider script aloud approvingly.
+  [[wiki/sources/2021-03-03-yt-LliPPJo5lHE]]. (Cross-referenced with Blair Enns as a
+  related, more theory-heavy treatment.)

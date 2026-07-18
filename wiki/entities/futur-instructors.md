@@ -179,6 +179,20 @@ Listed here as an attribution guard so their material stays out of `persona/`.
   Baker does most of the talking; Chris hosts. His firm-sizing/positioning frameworks are **Baker's, not
   Chris's** — do-not-train. Already tracked on [[influences]].
 
+## Ben Stroh — Futur team member / operations narrator (era ~2020)
+
+- Futur **team member** who narrates behind-the-scenes / operations content. Primary
+  narrator of the **Notion-sponsored** ops walkthrough "How we use Notion at The Futur"
+  (2020-06-29), where he frames how the team runs a globally distributed product launch
+  (pre-launch validation "like a Kickstarter campaign," Tuesday launches, async remote
+  work, channel-ownership map) — [[../sources/2020-06-29-yt-nd_PiEWF54A|nd_PiEWF54A]].
+- ⚠️ **Attribution — does NOT train the Chris persona.** Chris Do does not narrate and
+  speaks no first-person lines in that video; he is referenced only in the third person
+  ("Matthew and Chris typically manage our YouTube presence"). Ben's material is **Futur
+  org/team context only.** Other on-camera speakers there (Natalia, Alex, an unnamed
+  marketer) are likewise team context, not Chris. Biography beyond "Futur team member /
+  operations narrator" is not established in the corpus — the wiki is silent.
+
 ## Sina — Futur host (PM-interview series) (era ~2019)
 
 - Futur team member who **co-hosts the "Product/Project Management" interview series with Matthew Encina**,

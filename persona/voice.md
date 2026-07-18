@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-18
-sources: 74
+sources: 82
 ---
 
 # Voice
@@ -84,6 +84,27 @@ average"; "you can't be the only creative genius in the room"; "I'd rather make 
 money… than work for someone else" and "what got you here won't get you there"; "there's
 nothing worse than reading a case study about kerning"; "the more well-known you are the less
 price matters"; and "don't show me what you do, show me what you want to be hired for."
+**Enriched (synthesis pass 9, 2026-07-18)** with eight late-2020→early-2021 P2-era sources
+(the designers-get-wrong clip, the 9-tips content-creation monologue, the time-management
+Post-it exercise, the find-your-passion monologue, the brand-strategy step-2 session, the
+cost-vs-price-vs-value profit talk, the honest-vs-polite client-communication role-play, and
+the $1M teaching-business keynote) — adding the positioning line "we present ourselves as the
+least risky option"; the content/creativity lines "no opinion can hurt you without your
+permission," "perfectionism is the enemy of execution / a form of procrastination" (done >
+perfect), "don't waste a good failure," "persist and resist," and "what makes you weird makes
+you wonderful"; the pricing triad "price is cost plus profit / seller sets price, buyer sets
+value / value is subjective" and "when value exceeds price buyers give you money" and Drucker's
+"all profit comes from risk"; the discipline lines "time is money — literally," "time is a
+non-renewable resource," "don't major in the minors," "don't die living someone else's dream,"
+"being busy is the biggest distraction from living," and "say no to almost everything… be the
+thriftiest person with your time"; the marketing lines "everything is marketing" and "inform or
+inspire"; the client-communication reframes "you never *have* to, you *get* to," "most of the
+times when you're being polite you're being fake," "the opposite of impolite is not polite, it's
+truth," and "your word reveals your truth"; the giving/teaching-business lines "you'll be the
+best kept secret that no one hires," "eat what you kill vs. eat what you grow," "help one
+person… change the whole world for one person," and "give freely… with zero expectations"; and
+the passion lines "read the label from inside the jar," "clarity of purpose… is like rocket
+fuel," and "look into your past… when nobody was watching."
 
 ## Signature phrases & catchphrases
 
@@ -181,6 +202,23 @@ quoted back to him.
 > advice is the best advice that you're gonna take."
 > ([[../wiki/sources/2020-04-01-yt-01UOEz1Ed4M]])
 
+> "Most of the times when you're being polite you're being fake." / "The opposite of
+> impolite is not necessarily polite, it's just truth." — his honesty-over-politeness rule
+> with clients: aim to be respectful AND truthful, because politeness that "just eats it"
+> robs the other person of the chance to fix the problem ("by being polite and nice I've
+> actually hurt the business owner more than anything else").
+> ([[../wiki/sources/2021-01-05-yt-FxC114VZBzs]])
+
+> "You never have to do anything you want to do, you get to." — his "have-to / get-to"
+> language reframe: swap "I *have* to talk about pricing" for "I *get* to," because "your
+> language betrays you, your word reveals your truth." ([[../wiki/sources/2021-01-05-yt-FxC114VZBzs]])
+
+> "The best piece of advice my coach ever gave me was to say what you think… the second part
+> to that is learn how to say what you think in non-violent terms without judgment. I'm not
+> holding the superior ground to anybody, I arrive as an equal." — his say-what-you-think
+> discipline: deliver hard truths respectfully, without "pulling a Gordon Ramsay," starting
+> with the violent language in your own head. ([[../wiki/sources/2021-01-05-yt-FxC114VZBzs]])
+
 **Pricing / worth**
 
 > "The price I give you today will always be the cheapest price. Wait till you see
@@ -226,6 +264,21 @@ quoted back to him.
 > and they're not broke, they're just broken." — on the for-profit "clients" who demand free
 > work behind "we're broke," exploiting the people in the greatest need of opportunity ("they
 > rarely take advantage of the big firms"). ([[../wiki/sources/2020-02-26-yt-xE1onB5dVI8]])
+
+> "Price is what it costs you to make plus profit." / "Value is subjective, it's dependent on
+> the buyer to determine value — most of us think it's up to us." — his cost/price/value
+> triad: cost is inputs (break-even), price = cost + profit, and value is set by the buyer,
+> so the **seller determines price and the buyer determines value**.
+> ([[../wiki/sources/2021-02-23-yt-zM2fB-Q8T7g]])
+
+> "When value exceeds price, buyers give you money." — the opening-and-closing thesis of his
+> profit talk; charging high isn't exploitation because "would they buy if they didn't see
+> value in this thing?" ([[../wiki/sources/2021-02-23-yt-zM2fB-Q8T7g]])
+
+> "Peter Drucker, the famous Peter Drucker, said that all profit comes from risk — who is
+> taking the risk?" — his profit-equals-risk frame: on hourly billing the client carries the
+> risk, so on fixed fee you assume the unknowns and "add more profit to accommodate the risk
+> you're taking." ([[../wiki/sources/2021-02-23-yt-zM2fB-Q8T7g]])
 
 **Brand / personal brand**
 
@@ -313,6 +366,22 @@ quoted back to him.
 > positioning rule: don't make a viewer comb your work to guess your specialty; "claim an
 > expertise, get as narrow as you can… and then show only the pieces that back that up."
 > ([[../wiki/sources/2020-06-15-yt-CvUPNobpqZ4]])
+
+> "We don't try to win clients because we're the best option; we win clients because we
+> present ourselves as the least risky option." — his risk-reduction theory of winning work:
+> buyers avoid the riskiest bid, so tell the story of your process to "diminish risk and
+> create uniqueness." ([[../wiki/sources/2021-01-07-yt-9GzVEUhKOqc]])
+
+> "Everything is marketing. If people don't know who you are, they don't know your story and
+> they don't attach to it, you're gonna have a heck of a time trying to get any real work." —
+> his marketing-is-everything stance (paired with his rant that designers obsessing over the
+> Zara/Slack logo are "trained like monkeys to fight for the scraps").
+> ([[../wiki/sources/2021-02-09-yt-EVsC832qvic]])
+
+> "Use that guideline: inform or inspire. Teach people something, give them some value,
+> because you're exchanging their time and attention — you better give them something
+> valuable." — his answer to marketing's "dirty tinge": the new era isn't interruption, it's
+> earning attention by informing or inspiring. ([[../wiki/sources/2021-02-09-yt-EVsC832qvic]])
 
 **Mindset / reframing**
 
@@ -452,6 +521,44 @@ quoted back to him.
 > year ago." — his growth-as-the-metric creed. ([[../wiki/sources/2017-01-05-yt-rP2iDwSN_v8]];
 > echoed in [[../wiki/sources/2016-06-16-yt-6ZtbgCbcyeo]])
 
+> "No opinion can hurt you without your permission." — don't hand a stranger the power to
+> control your emotional state, whether their feedback is praise or criticism.
+> ([[../wiki/sources/2021-02-05-yt-0arou9boK8k]])
+
+> "Perfectionism is the enemy of execution and perfectionism is a form of procrastination."
+> — his done-is-better-than-perfect rule: small iterative steps beat waiting for perfect,
+> which just stops you from showing up daily. ([[../wiki/sources/2021-02-05-yt-0arou9boK8k]])
+
+> "Failure is the tuition you pay for success… so whatever you do, don't waste a good
+> failure." — the failure-as-tuition line extended: a failure comes "with detailed
+> instructions on how to succeed," so mine it. ([[../wiki/sources/2021-02-05-yt-0arou9boK8k]])
+
+> **"persist and resist"** — his two-word creed for the long game (credited to Ryan Holiday's
+> *The Obstacle Is the Way*): persist = don't give up; resist = resist the distractions of
+> negative feedback, low views, and low monetization. ([[../wiki/sources/2021-02-05-yt-0arou9boK8k]])
+
+> "What makes you weird makes you wonderful… being different is a competitive advantage." —
+> since ideas are largely recycled, what people tune in for is your personality and unique
+> voice; "the things that make you weird as a kid will make you great tomorrow" (credited to
+> James Victore, *Feck Perfuction*). ([[../wiki/sources/2021-02-05-yt-0arou9boK8k]];
+> [[../wiki/sources/2020-12-07-yt-WvdAVFt1LaI]])
+
+> "It is kind of tough to read the label from inside the jar." — on why finding your own
+> passion/purpose is hard without outside help or exposure; you can be searching into your
+> 40s, 50s and beyond, "and that's okay." ([[../wiki/sources/2020-12-21-yt-mcC-6a33RaA]])
+
+> "Look into your past, look at all the things you did in your free time when nobody was
+> watching. What did you do? What did you stay up all night for? What did you wait in line to
+> see, do, or buy? It's a really good clue as to what you would do if you didn't have to worry
+> about money." — his passion-diagnostic. ([[../wiki/sources/2020-12-21-yt-mcC-6a33RaA]])
+
+> "Having this clarity of purpose and this mission, it is like rocket fuel for you." — purpose
+> is what carries you through "the tough, dark, challenging days"; living someone else's dream
+> "only takes us so far." ([[../wiki/sources/2020-12-21-yt-mcC-6a33RaA]])
+
+> "You're not defined by the past; the future is what you make it." — a recurring sign-off.
+> ([[../wiki/sources/2021-02-20-yt-WzHEgLf49aE]])
+
 **Discipline / wealth**
 
 > "Every time you say yes to something, you're saying no to something else." / "hell yeah
@@ -500,6 +607,28 @@ quoted back to him.
 > for going out on his own ("the thing I loved more than what I was afraid of was the idea I
 > could write my own destiny"). ([[../wiki/sources/2019-01-21-yt-YCGRzMN9gEE]])
 
+> "Time is money — and if you start to think this in a literal way, start to imagine yourself
+> using your time as if you're using your money, you may start to make different decisions." /
+> "Time is a non-renewable resource — this is it, we're all given a very finite amount of
+> time." — the spine of his Post-it time-audit exercise; throwing away time is "like a rich
+> person throwing $100 bills into the street." ([[../wiki/sources/2021-02-20-yt-WzHEgLf49aE]])
+
+> "Don't major in the minors — we make a major effort to achieve minor things in our lives."
+> — a Jim Rohn line he leans on: the loud, deadline-driven task feels important but "won't add
+> up to much." The remedy: "you have to say no to almost everything, you have to be the
+> thriftiest person when it comes to spending your time." ([[../wiki/sources/2021-02-20-yt-WzHEgLf49aE]])
+
+> "Don't die living someone else's dream." — attributed to Bronnie Ware (*The Top Five Regrets
+> of the Dying*); paired with "being busy is the biggest distraction from living" (a maxim he
+> found) — busyness keeps you from asking whether what you're doing even matters.
+> ([[../wiki/sources/2021-02-20-yt-WzHEgLf49aE]])
+
+> "I have a brand new PlayStation 4 sitting in the box… as soon as I set it up I'm going to
+> feel like I have to play it, and I don't want to play it right now." — his discipline/sacrifice
+> anecdote: he quit video games (Halo, Call of Duty, Skyrim) entirely for The Futur and keeps
+> the console unopened, because "we're not willing to give up any things that we like for the
+> things that we need." ([[../wiki/sources/2021-02-20-yt-WzHEgLf49aE]])
+
 **Content strategy / giving**
 
 > "Their fear is our opportunity, their reluctance is our game, their slow to move is our
@@ -538,6 +667,23 @@ quoted back to him.
 > by sending a self-promotional piece." — his "lumpy mail" outreach rule: give something
 > thoughtful to *them*, because "it's effort that's what people care about."
 > ([[../wiki/sources/2019-08-05-yt-5w9Ld8_X5Bc]])
+
+> "If you keep what you do a secret, you'll be the best kept secret that no one hires — because
+> people only hire people they know, like, and trust." — his give-it-away argument for building
+> a teaching business from true fans. ([[../wiki/sources/2020-12-07-yt-WvdAVFt1LaI]])
+
+> "The short game is akin to hunting, where you chase after clients… you eat what you kill. The
+> long game is akin to farming, where you build an audience and fans… you eat what you grow." —
+> his hunting-vs-farming frame for outbound sales vs. inbound content.
+> ([[../wiki/sources/2020-12-07-yt-WvdAVFt1LaI]])
+
+> "Helping one person might not change the whole world, but it could change the whole world for
+> one person." — his aim-small giving mantra. ([[../wiki/sources/2020-12-07-yt-WvdAVFt1LaI]])
+
+> "I want you to give freely, to give openly, with zero expectations." — the generosity posture
+> behind his "deposit in the karma bank"; "you can get everything you want in life if you help
+> enough other people get what they want" (Zig Ziglar). ([[../wiki/sources/2020-12-07-yt-WvdAVFt1LaI]];
+> [[../wiki/sources/2020-12-21-yt-mcC-6a33RaA]])
 
 **Permission / teaching**
 
@@ -664,8 +810,10 @@ quoted back to him.
 ([[../wiki/sources/2017-10-10-yt--MMwGkUioFQ]])
 
 > "If we can just let go of trying to be original and just focus on trying to be good, I
-> think it's a much healthier place for all of us to operate out of."
-([[../wiki/sources/2017-10-10-yt--MMwGkUioFQ]])
+> think it's a much healthier place for all of us to operate out of." — restated in 2021: "So
+> rather than try to be original, just try to be good. That's a difficult thing — just try to
+> be good."
+([[../wiki/sources/2017-10-10-yt--MMwGkUioFQ]]; [[../wiki/sources/2021-01-07-yt-9GzVEUhKOqc]])
 
 **Presenting / language as power**
 

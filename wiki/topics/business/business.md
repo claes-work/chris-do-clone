@@ -4,7 +4,7 @@ domain: business
 domains: [business]
 created: 2026-07-14
 updated: 2026-07-18
-tags: [business, entrepreneurship, scaling, agency, delegation, positioning, money, mission, reading-list, culture, design-education, cash-flow, referrals, business-development, curiosity-selling, autonomy, mentorship, pro-bono, conscious-capitalism, giving, freelancers, margins, maker-mindset, entrepreneurial-mindset, process-codification, quality-threshold, student-debt, documentation, freelance-transition, arbitrage, passive-income, runway, company-culture, promotability, bottom-up-management, innovation, white-space, royalties, licensing, feedback, creative-direction, first-hire, intern-bridge, freelancer-vetting, business-partnership, career-positioning]
+tags: [business, entrepreneurship, scaling, agency, delegation, positioning, money, mission, reading-list, culture, design-education, cash-flow, referrals, business-development, curiosity-selling, autonomy, mentorship, pro-bono, conscious-capitalism, giving, freelancers, margins, maker-mindset, entrepreneurial-mindset, process-codification, quality-threshold, student-debt, documentation, freelance-transition, arbitrage, passive-income, runway, company-culture, promotability, bottom-up-management, innovation, white-space, royalties, licensing, feedback, creative-direction, first-hire, intern-bridge, freelancer-vetting, business-partnership, career-positioning, create-and-orchestrate, eight-core-concepts, inheritance-model, firing, no-surprise-principle, risk-profit, hourly-billing, teaching-business, true-fans, course-economics]
 ---
 
 # Business — hub
@@ -1514,6 +1514,207 @@ treatment lives in [[wiki/topics/branding/branding]].
 
 ---
 
+## 31. The 8 core business concepts — "inside vs. outside the building" (*Create & Orchestrate*)
+
+★ **Landmark framework.** Chris's most complete business-fundamentals model and the spine of
+his second book, *Create & Orchestrate* (self-reported Amazon #1 bestseller). It's his answer
+to the fact that creatives "do what they *like* rather than what they *have* to do to run a
+successful business" — the day-to-day operating system a founder needs *after* product-market
+fit (books like Steve Blank's *The Four Steps to the Epiphany* find fit but don't tell you what
+to do "day in and day out") ([[wiki/sources/2020-09-07-yt-ZeEc8YCpocY]], 2020-09-07). Attribution
+is unambiguous first-person Chris Do.
+
+**Every business contains eight concepts, in priority order (highest first).**
+
+*Inside the building* (internal / team-facing — must be in order first):
+1. **Leadership** — creating a culture in which the business can thrive: vision, values,
+   management, communication. Communication is "basically the number one role of leadership."
+   Applies whether you're a one-person or ten-thousand-person business.
+2. **Finance** — the sustainability of the business: revenue, expenses, profit, assets,
+   liabilities, capital, taxes. The second-most-important concept and where creatives most get
+   it wrong (they love the idea and the customer but ignore the P&L and taxes, then "look up in
+   two years" broke). Taxes are a distinct thing — misunderstand them and you can do everything
+   else right and still go out of business.
+   > "If you don't make a profit you don't have a business, you have a front piece of art."
+   > (2020-09-07)
+3. **Operations** — minimizing risk: company form (sole proprietor / LLC / corporation),
+   insurance, contracts, HR, process, technology, measurement. Employing people brings "a lot
+   of risk."
+4. **Growth** — optimizing for a *dynamic* (not static) market: reinvestment, developing a point
+   of view, innovation; drive change rather than be impacted by it. Growth doesn't mean "make
+   more money all the time." (Ties to the innovate-don't-iterate strategy angle in §23.)
+
+*Outside the building* (customer-facing):
+5. **Product** — "quite simply a predictable unit of value": research, development, design,
+   production, quality control, pricing. Even a "service"/consulting business is a misnomer if it
+   thinks it isn't also delivering a predictable unit of value.
+   > "Product is quite simply a predictable unit of value. It is the thing that your customer
+   > understands they're getting from you... and they're going to exchange money for it."
+   > (2020-09-07)
+6. **Service** — maximizing customer satisfaction; a customer is a relationship you invest in
+   "like one with a loved one"; stand behind a guarantee and fix what goes wrong.
+7. **Sales** — generating revenue: point of sale, method of sale, selling model. "This should be
+   the simplest thing ever."
+8. **Marketing** (his favorite; the most comprehensive) — identifying, understanding and
+   generating demand: brand, reach, content, channels.
+
+**The inheritance model.** Borrowing "inheritance" from computer science, each concept *embeds*
+the ones above it: Leadership is present in all the others, Finance includes Leadership,
+Operations includes both, and so on — so the lower the priority, the more comprehensive the
+concept, and the last (Marketing) is the most comprehensive. This is *why* marketing officers
+are rising to sit next to the CEO — marketing requires understanding every aspect of the
+business (paraphrase, 2020-09-07).
+
+**Internal before external — "your house in order."** The inside concepts take precedence
+because you can't deliver to the customer if the internal ones aren't handled first.
+> "You can't actually deliver the stuff to the customer if your house isn't in order."
+> (2020-09-07)
+
+**Team mapping.** Each concept backs a role you backfill as you grow: Leadership = CEO / board /
+management; Finance = CFO, bookkeeper, tax accountant; Operations = lawyer, insurance broker,
+project manager, IT partner, HR; Growth = chief strategist, head of innovation, analysts;
+Product = chief product officer + dev team; Service = chief customer officer. When you start a
+business you *are* the whole thing; if you succeed you backfill these roles (paraphrase, 2020-09-07).
+
+**The payroll-tax failure (self-reported origin).** Grounds the Finance point in his own mistake:
+the first time he had 10 employees he didn't know he owed payroll taxes on them, wrote payroll
+checks from a checkbook, spent the tax money on computers and "culture things," and got a nasty
+quarter-end email from his accountant saying he was ~15% in the hole and at risk with the state
+([[wiki/sources/2020-09-07-yt-ZeEc8YCpocY]], 2020-09-07, `[self-reported]`).
+> "So many entrepreneurs fail because they don't know these concepts. I know I did, over and
+> over and over again." (2020-09-07)
+
+Cross-links: Leadership ↔ the culture playbook in §9; Finance/Product ↔ the COGS→overhead→profit→
+value bid layers in §12; Growth ↔ innovate-don't-iterate in §23; Product/pricing ↔
+[[wiki/topics/pricing/pricing]]. (Caption note: the auto-captions garble the framework's brand
+name as "acore concept(s)" — verify exact wording against the book/video; see the source page.)
+
+---
+
+## 32. Firing well — the "no surprise" principle and the firing script
+
+§9 sets the *values* filter for hiring and firing ("hire on values, fire on values"; "never fire
+for a first mistake"). This is the *mechanics* of the firing conversation itself, from a session
+where Chris coaches a younger Futur owner who admits he's "never fired somebody in my life"
+([[wiki/sources/2021-01-18-yt-bDwrWpgEDfw]], 2021-01-18). Only Chris-attributed material trains
+the persona; the co-host is context.
+
+- **Firing is emotionally the hardest thing a boss does.** Chris would dread it for weeks with
+  sleepless nights; "it hurts me more than it hurts you," like a parent disciplining a child
+  (paraphrase, 2021-01-18).
+- **No surprises — the 6-to-9-month rule.** By the time you fire someone it should never be a
+  surprise from the *manager's* side: you've given very clear expectations and told them, at
+  least two or three times over roughly six to nine months, that they're not meeting them —
+  with specific criteria and concrete things to improve. You must also hold genuine faith they
+  *will* fix it and give them real time before deciding.
+  > "When I fire somebody it will be because it's been six to nine months of — I've given very
+  > clear expectations, I've told them more than once that they were not living up to
+  > expectations." (2021-01-18)
+- **Why the fired person still acts surprised — the self-awareness tell.** Almost everyone fired
+  acts surprised because low performers are "clueless" / low self-awareness; high performers have
+  high self-awareness, know how they "fit within the machine," and constantly look to improve.
+  > "Almost every time I've done this they always act surprised, because people you fire, they're
+  > like clueless at this point. The ones that are doing great have high self-awareness — they
+  > know how they fit within the machine." (2021-01-18)
+- **The firing script (5 beats).** (1) Open with **context + emotion** so they brace for impact
+  ("this is going to be a difficult conversation for me, I've toiled over this for weeks and
+  months"); (2) **recap** the many prior conversations and the specific areas they repeatedly fell
+  short; (3) **deliver the decision** — "today is going to be your last day here" — offer a small
+  severance and route them to HR for paperwork; (4) **offer to talk later** once they've come to
+  terms with it; (5) **close well** — "thanks for your service, I wish you well."
+  > "This is going to be a difficult conversation for me and I've toiled over this for a period of
+  > time, like weeks and months, and I don't know how else to say this, so I'm gonna say it."
+  > (2021-01-18)
+- **Don't overestimate your power over people.** Believing you're the only place someone could
+  work — or that letting them go (even in a COVID downturn) leaves them "totally hosed" —
+  amplifies your power beyond reality; it's "a little self-centered," and you have to get over it.
+  > "We think a lot about the power we have over people and we tend to obsess and to amplify it
+  > more than it really is... To think that the only place that could work is for you is a little
+  > self-centered." (2021-01-18)
+- **Justified when they miss even the minimum.** Firing is warranted when someone consistently
+  fails even the *minimum* bar (not the extra mile — the minimum) and is "taking up precious
+  resources" that someone who wants to be there could use.
+  > "You're taking up precious resources that somebody else could be using, that who wants to be
+  > here and want to show up every day." (2021-01-18)
+- **The fit principle — fired people often thrive elsewhere.** Most people Chris has fired and
+  stayed in touch with went on to do much better at a company more in alignment with who they are.
+  The same fit / right-fit logic he applies to *clients* applies to employees — it just wasn't a
+  fit here. Cross-links the client-fit positioning of §3 and §14.
+  > "Everybody deserves the right person, company, place, brand, vendor for them — they just need
+  > to find it, and it wasn't here with us." (2021-01-18)
+
+---
+
+## 33. Profit is the price of risk — why hourly billing is break-even
+
+The **business-model / profitability** lens on a whiteboard talk whose pricing *mechanics* (cost
+vs. price vs. value; "seller sets price, buyer sets value") live in
+[[wiki/topics/pricing/pricing]]. Carried here: how profit, risk and billing model interact
+([[wiki/sources/2021-02-23-yt-zM2fB-Q8T7g]], 2021-02-23).
+
+- **All profit comes from risk (Drucker).** Chris cites Peter Drucker — "all profit comes from
+  risk" — and asks who is taking it. Profit is the *compensation* for the risk you assume
+  (attribution to Drucker is Chris's framing).
+  > "Peter Drucker the famous Peter Drucker said that all profit comes from risk — who is taking
+  > the risk?" (2021-02-23)
+- **Hourly billing is break-even by design.** Charging only what it costs you (hourly) means the
+  best you can hope for is to break even; hourly bills only the cost of your time and omits the
+  overhead you absorb — your own laptop, Creative Cloud subscription, desk, and rent. On hourly
+  the *client* carries the risk (work 40 hours, bill 40; work 5, bill 5) — until a client says
+  "I'm taking all the risk, give me one fixed fee." (Anecdote: at 16–17 he ran a t-shirt firm
+  charging what it cost him to make and quickly found he was near break-even or losing money.)
+  > "If you are only to charge your clients what it costs, the best you can hope for is to break
+  > even." (2021-02-23)
+- **Fixed-fee = you assume the risk, so you add profit.** On fixed-fee work you take on the
+  unknowns (client changes mind, a new stakeholder alters the brief, "unknown unknowns"), so you
+  raise the price to accommodate the risk — cost alone doesn't account for mistakes, changes,
+  delays or mishaps, which is why charging only cost "will bankrupt you." Price = cost + profit.
+  > "Price is what it costs you to make plus profit." (2021-02-23)
+- **Margins vary enormously by business — ~5% to 80%+.** There's no easy rule for how much profit
+  to add; margins run from as little as 5–10% (some businesses survive there) to 80% or more, and
+  he's marked a project up as much as 300%. Treat all figures as caption-transcribed teaching
+  examples. This *widens* the range flagged in §12 rather than contradicting it: §12's "roughly
+  5–40%" describes profit built into a single design **bid** (a rainy-day cushion), whereas this
+  5–10%→80%+ range spans **business types** — different frame, same principle that profit is a
+  deliberate, risk-scaled layer on top of cost.
+
+Full value-pricing / cost-price-value treatment: [[wiki/topics/pricing/pricing]].
+
+---
+
+## 34. The teaching-business revenue model — 1,000 true fans → productized expertise
+
+§20 covers passive-income product paths in general; this is the specific **teaching-business
+revenue model** and its course economics, from a keynote ([[wiki/sources/2020-12-07-yt-WvdAVFt1LaI]],
+2020-12-07). The audience-building / attraction-marketing half (niche/long-tail, farming vs.
+hunting, reciprocity, the Ari Chung launch) lives in
+[[wiki/topics/content-strategy/content-strategy]]; carried here is the business-model / revenue math.
+
+- **The 1,000-true-fans arithmetic (Kevin Kelly).** You don't need millions of fans — 1,000 true
+  fans × ~$100 profit each per year = $100,000/year. The math scales: $200 profit needs 500 fans;
+  $50 profit needs 2,000. Two requirements: a direct, peer-to-peer relationship with fans, and
+  the ability to earn ~$100 profit per fan (paraphrase, 2020-12-07).
+- **Productize your expertise — the creative's dream is client-free income.** Reframes the goal as
+  earning a living around people you love *without* client work. Mechanism: turn work that already
+  performs into a paid product — he repurposed a free 2016 SlideShare typography manual (10 rules,
+  107k+ views) into a video (1.5M+ views), then into a course.
+  > "I'm able to realize what I think is the creative person's dream, which is to earn a living, to
+  > be around people they love and are inspired by, but not to have to do any client work."
+  > (2020-12-07)
+- **Course launch economics (self-reported).** Sept 2017 pre-launch at **$69 → $25,000**; a month
+  later the full course at **$99 → $173,000** (six figures); to date the course has earned
+  **$500,000+**, including one month at $28,000 — his concrete definition of passive income
+  ("build once, keep bearing fruit"). The price-low-then-raise mechanics are cross-referenced in
+  [[wiki/topics/pricing/pricing]].
+- **Validate before you build — Kickstarter as market test.** The Futur book launched with a few
+  sample pages and a $25,000 goal to validate demand *before* writing; funded in 16 days, finished
+  ~$75,000 (3× goal) (self-reported, 2020-12-07). Validate demand, then build.
+- **This is The Futur's own business model.** These revenue mechanics — a digital-course business
+  built on a productized body of teaching — are how the "teach 1 billion people" mission (§6) and
+  the "private art school without the crippling debt" self-description (§10) actually get funded.
+
+---
+
 ## See also
 
 - [[wiki/topics/pricing/pricing]] — value-based pricing, "price the client not the job,"
@@ -1611,6 +1812,20 @@ treatment lives in [[wiki/topics/branding/branding]].
 - [[wiki/sources/2020-06-15-yt-CvUPNobpqZ4]] — "Six Tips to Help You Get Hired Out of Design
   School" (Chris segments only: market to fewer; research ≤10 companies FBI-style; LinkedIn
   reciprocity; work anywhere / <15% clients met face-to-face), 2020-06-15
+- [[wiki/sources/2020-09-07-yt-ZeEc8YCpocY]] — "8 Core Business Concepts You Need To Know (10min
+  MBA)" (LANDMARK — the *Create & Orchestrate* spine: Leadership/Finance/Operations/Growth/
+  Product/Service/Sales/Marketing; inside vs. outside the building; the inheritance model; the
+  payroll-tax failure), 2020-09-07
+- [[wiki/sources/2020-12-07-yt-WvdAVFt1LaI]] — "How To Build A $1M Dollar Business Teaching"
+  (business-model side only: 1,000-true-fans math; productize your expertise; course economics
+  $69→$25k→$173k→$500k+; Kickstarter validation — audience-building lives in content-strategy),
+  2020-12-07
+- [[wiki/sources/2021-01-18-yt-bDwrWpgEDfw]] — "Hardest Thing To Do As A Boss — Fire Someone"
+  (the no-surprise 6–9-month principle; the 5-beat firing script; the self-awareness tell; the
+  fit principle — fired people thrive elsewhere), 2021-01-18
+- [[wiki/sources/2021-02-23-yt-zM2fB-Q8T7g]] — "Running A Profitable Business (In 11 Minutes)"
+  (business-model side: profit = compensation for risk / Drucker; hourly = break-even; fixed-fee
+  assumes risk; margins ~5–80%+ — cost/price/value mechanics live in pricing), 2021-02-23
 - [[wiki/sources/2022-12-01-yt-Qn5PPMhHkXM]] — "How I Scaled My Creative Agency To $80M"
   (I do / We do / You do), 2022-12-01
 - [[wiki/sources/2022-12-15-yt-6Thuc_W_dDU]] — "5 Books That Made Me A Millionaire"

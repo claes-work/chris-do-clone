@@ -4,7 +4,7 @@ domain: pricing
 domains: [pricing]
 created: 2026-07-14
 updated: 2026-07-18
-tags: [pricing, value-based-pricing, price-the-client, anchoring, anchoring-reversal, verbal-upfront-pricing, discount-for-uncertainty, raising-rates, objection-handling, negotiation, price-bracketing, competitive-positioning, charge-for-discovery, embrace-and-pivot, storytelling, budget-scope-timeline, budget-first, budget-first-vs-relationship, order-taker-vs-advisor, underpricing-signal, resentment-signal, cant-lose-a-job-you-never-had, value-scale-of-questions, discovery-as-a-service, strategy-pricing, get-paid-to-think, price-as-qualifier, double-the-rate-ladder, inputs-vs-outputs, desired-future-state, train-of-thought, feeling-thought-reaction, limbic-brain, price-options, attention-ownership, price-first-scope-after, stop-hourly, socratic-hourly, value-appreciation, scope-creep, separate-service, de-scope, cost-stack, positioning-value, go-to-person, double-dont-inch-up, buyer-decides-fair, charge-more-virtuous-loop, referral-budget-qualification, self-worth-ceiling, education-not-worth, objection-by-inversion, invent-systems, royalty-vs-licensing, packaging-fees, say-it-like-a-fact, context-sets-value, horse-painter, charity-vs-clients, barter-menu, exposure-is-an-act, equity-in-lieu-of-fee, pro-bono-ratio, bid-buildup, hire-at-or-above-level, investor-mindset, compare-against-yourself, top-price-first, wine-list-reset]
+tags: [pricing, value-based-pricing, price-the-client, anchoring, anchoring-reversal, verbal-upfront-pricing, discount-for-uncertainty, raising-rates, objection-handling, negotiation, price-bracketing, competitive-positioning, charge-for-discovery, embrace-and-pivot, storytelling, budget-scope-timeline, budget-first, budget-first-vs-relationship, order-taker-vs-advisor, underpricing-signal, resentment-signal, cant-lose-a-job-you-never-had, value-scale-of-questions, discovery-as-a-service, strategy-pricing, get-paid-to-think, price-as-qualifier, double-the-rate-ladder, inputs-vs-outputs, desired-future-state, train-of-thought, feeling-thought-reaction, limbic-brain, price-options, attention-ownership, price-first-scope-after, stop-hourly, socratic-hourly, value-appreciation, scope-creep, separate-service, de-scope, cost-stack, positioning-value, go-to-person, double-dont-inch-up, buyer-decides-fair, charge-more-virtuous-loop, referral-budget-qualification, self-worth-ceiling, education-not-worth, objection-by-inversion, invent-systems, royalty-vs-licensing, packaging-fees, say-it-like-a-fact, context-sets-value, horse-painter, charity-vs-clients, barter-menu, exposure-is-an-act, equity-in-lieu-of-fee, pro-bono-ratio, bid-buildup, hire-at-or-above-level, investor-mindset, compare-against-yourself, top-price-first, wine-list-reset, subjective-value, doctor-counter, envy-reframe, cost-vs-price-vs-value, seller-sets-price-buyer-sets-value, profit-from-risk, cost-plus, production-fee, padded-day-rates, statement-of-work, fixed-plus-variable, aicp-bid-form, top-sheet, karen-rainey, present-day-rate-card, retreat-and-follow, phased-discovery-bid, important-urgent-grid, budget-live-in-room, pain-threshold, facilitator-as-advocate, money-not-budget, sliding-scale-by-risk, rush-charge, pain-in-the-butt-charge, every-dollar-returns-10x, dan-mall, course-prelaunch-pricing, price-low-then-raise]
 ---
 
 # Pricing — hub
@@ -1203,6 +1203,12 @@ new "don't make incremental jumps" framing, and adds the buyer-decides-fair prin
   $200"), explain it was a one-time favor at a point in time: "I can't run an equitable business
   charging $200 anymore… I might not be here tomorrow if I keep charging that price."
   ([[wiki/sources/2019-05-06-yt-kY7i_JYNQ3Y]]).
+  - _Restated 2020-06-25_ ("I Thought You Were Cheaper"): same "birds of a feather flock
+    together" referral-clustering and the one-time **favor-price** reframe, plus the direct
+    budget-qualifier "Jimmy, before we go too deep... can you afford X? Because I don't want to
+    waste your time." Escaping the low band is a lead-gen problem — build case studies/mock-ups
+    that "close the gap" to top-tier work so a mark can command $1k–$100k
+    ([[wiki/sources/2020-06-25-yt-c0FbJfds2jg]]).
 
 ---
 
@@ -1478,6 +1484,301 @@ intro/outro that does not train the persona.)_
 
 ---
 
+## 35. Subjective value, the doctor counter & the envy reframe
+
+_Est. 2020-09-25 (with Melinda Livsey, "Are You Charging Too Much?"). The inverse of the
+charge-more material — a defense against the moral objection that creatives "overcharge."
+Sharpens the subjective-value principle in §1/§25/§29 with two genuinely new moves: the doctor
+consult-vs-surgery counter and the envy reframe._
+
+The objection Chris answers: a viewer was told designers "overcharge," and that it's wrong for
+a designer to earn more in a day than a doctor. His reply rests on **subjective value** — no
+third party in society gets to decree a fair price.
+
+> "Who gets to decide? I'll tell you who gets to decide — the buyer and the seller. That's
+> it." — Chris Do, [[wiki/sources/2020-09-25-yt-JzCqfJbfzcM]]
+
+- **Price attaches to the problem (and the buyer's context), not the thing.** "I could
+  literally design the same logo for 10 different people and they will tell me it's worth
+  different amounts of money." The deliverable never changes; the value does — the same logic
+  as §1, dated here five years earlier than the 2025 telling
+  ([[wiki/sources/2020-09-25-yt-JzCqfJbfzcM]]).
+- **The buyer has already decided to spend.** "When a client comes to you, they have a problem
+  that they already know they have to spend money to solve" — they've decided the problem is
+  worth removing; all that's left is whether *your* price is worth it
+  ([[wiki/sources/2020-09-25-yt-JzCqfJbfzcM]]).
+- **The doctor counter (new).** To "designers shouldn't out-earn a doctor": a doctor's
+  *consult* costs little or nothing, but operating on your eye or removing cancer costs a lot —
+  same doctor, same hour, radically different price. Price tracks the problem and the buyer, not
+  the time spent ([[wiki/sources/2020-09-25-yt-JzCqfJbfzcM]]).
+- **Price above cost is not immoral (Apple).** Apple commands a premium; if you think it's
+  overpriced you don't buy — but standing outside the store calling it "immoral" is absurd. Same
+  for the airplane seat, bottled water, and luxury handbags, while the knock-off vendor cries
+  "luxury goods are a scam" ([[wiki/sources/2020-09-25-yt-JzCqfJbfzcM]]).
+- **The envy reframe (new).** The moral charge ("greedy, immoral, unfair") is envy from people
+  who "just can't cope" — they invent reasons you're evil so they feel better about their own
+  situation; internalize it and "you've fallen prey to this."
+  ([[wiki/sources/2020-09-25-yt-JzCqfJbfzcM]]).
+  > ⚠️ ATTENTION (ad-hominem, not a pricing argument): this move attacks the *critic's* motive
+  > (envy / "can't cope") rather than making a claim about price. Use it as morale defense for
+  > the creative, not as a reasoned counter to a pricing objection. [[wiki/sources/2020-09-25-yt-JzCqfJbfzcM]]
+- **Serve the buyer, not your ego.** "The sun does not orbit around you." Big problem → solve
+  it; small problem → refer them out ("call Larry or Mary"); don't force a small customer to
+  inflate a small problem. Prescription: stop policing your own worth and think only about how
+  much the client's business will grow — then "you will feel really happy [charging] what you
+  charge" ([[wiki/sources/2020-09-25-yt-JzCqfJbfzcM]]).
+
+_(Melinda Livsey hosts, reads the objection, and adds the "value on the thing vs. the problem"
+reframe — context, not persona data.)_
+
+---
+
+## 36. Pricing a course/product — pre-launch low, then raise to reward early adopters
+
+_Est. 2020-12-07 ("How To Build A $1M Business Teaching"). The pricing hub's first
+product/course-pricing pattern (everything else here prices client services): validate demand
+with a low pre-launch price, then raise it over time._
+
+- **Pre-launch low to validate, then raise to reward early adopters.** Price a course "very
+  attractively" at pre-launch to gauge interest, then raise the price over time (early adopters
+  get the low price). His typography course: **$69 pre-launch → $25,000; a month later the full
+  course at $99 → $173,000** (six figures); to date **$500,000+**, including a single month at
+  $28,000 — his definition of passive income ("build once, keep bearing fruit").
+  ([[wiki/sources/2020-12-07-yt-WvdAVFt1LaI]]) `[self-reported]`
+- **Validate before you build.** The Futur book Kickstarter set a low $25,000 goal purely to
+  validate demand before writing; it funded in 16 days and finished ~$75,000
+  ([[wiki/sources/2020-12-07-yt-WvdAVFt1LaI]]). `[self-reported]`
+- **Give it away at launch.** For The Futur he gives **24-hour free access** at launch — a
+  low-friction on-ramp, consistent with the generosity/"karma bank" playbook
+  ([[wiki/sources/2020-12-07-yt-WvdAVFt1LaI]]).
+
+_(Course economics and the true-fans/teaching-business playbook live on the
+[[wiki/topics/content-strategy/content-strategy|content-strategy]] and
+[[wiki/topics/business/business|business]] hubs; captured here only for the pricing pattern.)_
+
+---
+
+## 37. The bidding evolution & cost-plus / fixed-bid mechanics (the Blind-agency method)
+
+_Est. 2021-02-11 ("How To Price Design & Bid Projects Pt.1"). Chris narrates the evolution of
+his OWN bidding across his career — the mechanical "how the sausage is made" counterweight to
+the value-based doctrine. Extends the cost build-up in §7/§33 with the agency-era production-fee
+mechanics and a present-day rate card._
+
+> ⚠️ CONTRADICTION / EVOLUTION: Most of this section teaches **cost-plus, markup,
+> padded-day-rate fixed bidding** — the "price the job" mechanics of Chris's Blind-agency era —
+> which sits in explicit tension with his signature **value-based ("price the client, not the
+> job")** doctrine (§1, §2). Chris frames it as **history**: cost-plus is how they *used* to
+> bid; the present-day rate card at the end is the value-based end state. Read the cost-plus
+> material as **dated historical method / what agencies are used to seeing**, not current best
+> practice. This is consistent with the hub's noted method evolution (loose cost build-up →
+> formalized method). [[wiki/sources/2021-02-11-yt-OiUOaZJJYzg]] · [[wiki/sources/2016-10-22-yt-RKXZ7t_RiOE]]
+
+**The evolution (autobiographical).** Early on bidding was "the dark art" — he pulled a number
+"out of my butt," submitted it, sometimes won, never knew why. The four stages
+([[wiki/sources/2021-02-11-yt-OiUOaZJJYzg]]):
+1. **Solo hourly/day rate** — ~$40–50/hr ≈ ~$400/day, and he "foolishly thought that that was
+   profit."
+2. **Mark up freelancers** — hire designers, charge the spread, mistake the spread for profit.
+3. **Cost-plus (via producer Karen Rainey)** — Karen built a complicated Excel bid and showed
+   him that marking up over freelancer cost is *not* real profit. This became how Blind bid
+   "for a really long time."
+4. **SOW / fixed-plus-variable one-sheet** — where he is today.
+
+**Cost-plus / fixed-bid mechanics** ([[wiki/sources/2021-02-11-yt-OiUOaZJJYzg]]):
+- **Cost-plus = cost + overhead (salaries, rent, utilities) + a profit-margin %** on top. His
+  early mistake: count only himself, ignore overhead, add zero margin — "that's where I sold
+  myself short."
+- **Production fee / markup.** On a shown bid, line items subtotal to **$18,120**, then a **25%
+  production fee ≈ $4,530** is shown as profit. Historical production fees ran as high as
+  **40%**; Blind did **30–35%**, and fees "have been going down ever since." A separate arbitrary
+  **"design fee"** ("what you pay us just to work on the job") is "a remnant of the old times."
+- **Pad the day rates.** "The truth is we never paid our producers 750 a day, and they saw the
+  bids all the time." Rates are padded to protect against underestimation and scope changes —
+  because these are **fixed bids** ("we promise to do the job for this price no matter what
+  unless the client changes something").
+- **Charge for everything you touch.** Workstations get a day rate (a 2D Mac and a beefier 3D
+  render PC — rent, software, plugins, setup), plus shipping/messenger, working meals ("in
+  advertising clients will pay for your working meals"), web posting, and FTP transfers —
+  "otherwise you're actually not making the profit that you think you are."
+- **The top sheet** is a one-page summary of the multi-page bid; the client's producer "just
+  cares what the grand total is" — are you in the ballpark — then reads the detail pages.
+
+**Why he migrated to the SOW one-sheet** ([[wiki/sources/2021-02-11-yt-OiUOaZJJYzg]]):
+- A pure fixed bid (no breakdown) is **hard for the client to negotiate or audit** — a pro — but
+  **requires a very clearly defined scope** or "you're going to get eaten up alive" (an explicit
+  warning to software people).
+- Showing a man-hour breakdown only invites **cost consultants** to "go through your bid, mark it
+  up, and send it back to drive it down" — and the client won't pay you *more* if you undershoot
+  the hours. So Blind dropped the **AICP** commercial-production bid form and instead **invests
+  heavily in writing the Statement/Scope of Work** in detail, with **assumptions** ("client to
+  provide…", "bid does not include…") and terms, promising the deliverable for one price. Clients
+  push back less.
+- **Present-day: fixed + variable.** Fix the price on the parts he knows well, leave the rest
+  variable, and send the client a broad visual schedule too.
+
+**Present-day rate card (2021, priced to the client)** ([[wiki/sources/2021-02-11-yt-OiUOaZJJYzg]]) `[self-reported]`:
+- **Strategy $20k–$40k** (small client $20k, "really small" $10k, which he dislikes doing — "too
+  much work for me").
+- **Brand definition & positioning $20k–$30k** (3 customer profiles, positioning statement,
+  competitive audit, 3 stylescapes).
+- **Logo $16k** (logo, palette, primary/secondary type, brand guideline, font specs); a recent
+  **logo with a mascot** was quoted **~$40k–$50k**.
+- **Application design ~same** (typically business card, letterhead, envelope).
+- **Messaging $12k**, deliberately **separated out** — bundling it into discovery stalls sign-off
+  (clients withhold "job complete" over copy) and invites fuzzy-scope revisions. Deliverable:
+  tone, voice, value proposition synthesized into **3 concepts** ("it takes three for them to see
+  the pattern").
+- Closing principle: **"all of these things are variable depending on the size of the client and
+  who you are and the value you're going to deliver."**
+
+This 2021 rate card is a later, higher data point than the ~2016 Blind rate card in Worked
+figures (logo $15–30k, strategy $20–50k) and the 2018 strategy figure ($5–10k, §18) — track it
+as evolution, not contradiction.
+
+---
+
+## 38. How to bid an undefined scope — phased discovery, then set budgets live in the room
+
+_Est. 2021-02-16 (Pt.2, undefined scope) + 2021-02-18 (Pt.3, "Easy & Painless Way To Bid").
+Parts 2–3 of the bidding series (Part 1 = §37). The value-based answer to an undefined scope:
+don't quote a fixed deliverable price against unknown scope — front-load paid discovery/strategy,
+then price the design/build once scope is defined._
+
+**Phase discovery & strategy first (Pt.2, [[wiki/sources/2021-02-16-yt-dKBFjl6uc7s]]):**
+- Make **discovery and strategy paid phases 1 and 2** so scope gets defined before design/build
+  is priced. They're effectively non-negotiable — when clients skip paying for them "you end up
+  having to do the work anyway" and it gets more complicated.
+- Analogy: "We can build you any kind of house — I just need to know what kind of house and who's
+  going to live in it."
+- **Qualify budget through the sales conversation, not the bid.** Send a mostly-generic **sales
+  deck** (lightly customized, "not spending hours on it") as the first tool; only get on a call
+  if the client thinks it's a fit — "I don't want to waste my time." Money is discussed
+  throughout, so by quote time he already knows the budget. He does **not** show deliverable
+  examples inside the bid.
+- **Retreat and follow (Blair Enns) — new named technique.** He is "constantly doing the
+  retreat-and-follow technique from Blair Enns" — retreating repeatedly to test genuine interest
+  — and now instructs his team **not** to reflexively ("Pavlovian") auto-schedule a follow-up
+  call after sending the deck unless there's real interest and perceived value. Sales engagement
+  "is not pestering the client."
+- If a client can't afford it, state the cost directly, ask if they're comfortable, and if not
+  tell them they're not the right client and **refer them to his network**.
+
+**Bake the price INTO the discovery/"Core" session (Pt.3, [[wiki/sources/2021-02-18-yt-kt2oLrl1EHY]]):**
+- Pricing is **not** a separate later step. During the Core session Chris runs a **prioritization
+  exercise**, ranks the client's needs together, and **assigns budget numbers to each item live
+  in the room** — so "I already know what they're willing to spend at that point."
+- **The important/urgent grid (new).** He replaced the "desirability vs. doability" matrix (which
+  "always confuses me and the client") with a simpler **important + urgent grid** — "is it
+  important (will it have an impact) and do we need it right now." High-scoring items get marked,
+  then the client puts a budget next to each: "I'm doing two jobs at once — helping to identify
+  what the next steps are and what it's going to cost to do."
+- **Anchor on prior spend.** Guide clients to numbers by asking what they spent before and how it
+  turned out (e.g. a logo they paid $3,000 for that went "not so good"), then give an
+  experience-based range and land on a figure they confirm feels right (~$20,000 for identity in
+  his example). He's careful not to quote a number too low that he'd have to walk back, or one
+  nobody can actually deliver at.
+- **Facilitator as objective client-advocate.** "When I come in as a facilitator I try to be as
+  objective as possible... because I don't plan on doing any of this work. I'm an advocate for my
+  client" — so he'll argue to spend less on some things and more on others from his point of view,
+  not self-interest. (Presumes he is *facilitating*, not doing the work — cf. the subcontractor
+  boundary in §11.)
+- **Budget as a diagnostic "pain threshold."** The exercise is "like some kind of Rorschach test"
+  / "monopoly money" — it reveals the client's real priorities and "what they're used to spending
+  — their pain threshold." Example: a client valuing a trade-show booth at $60,000 tells him
+  something he'd "never have known if I didn't let them talk."
+- **Push back on lowballed priorities.** When a client lowballs something important ("we can do
+  the video for six thousand bucks"), respond: "you can, but it won't be the video that you want —
+  so let's move some money around." He calls the whole exercise **"business design"** and says
+  doing it live with the client "demonstrates even more value."
+
+---
+
+## 39. Cost vs. price vs. value — "seller sets price, buyer sets value," and profit pays for risk
+
+_Est. 2021-02-23 ("Running A Profitable Business In 11 Minutes"). A crisp, foundational triad
+that underpins §1 (anti-hourly), §6 (risk) and §37 (cost-plus): the vocabulary creatives
+conflate, and where profit and risk sit between the three._
+
+> "When value exceeds price, buyers give you money." — Chris Do (opening and closing thesis),
+> [[wiki/sources/2021-02-23-yt-zM2fB-Q8T7g]]
+
+- **The triad.** **Cost** = what it takes to make something (time, effort, materials, salaries,
+  rent) — no profit. **Price = cost + profit.** **Value** is subjective and **buyer-determined**
+  ([[wiki/sources/2021-02-23-yt-zM2fB-Q8T7g]]).
+- **Charge only your cost and you break even — or go bankrupt.** "If you are only to charge your
+  clients what it costs, the best you can hope for is to break even," and cost ignores mistakes,
+  mind-changes, delays and "unknown unknowns," so "you're going to go bankrupt pretty soon."
+  **Hourly billing bills only the cost of your time** and omits the overhead you absorb (laptop,
+  Creative Cloud, desk, rent) — a fresh restatement of the anti-hourly case in §1/§25
+  ([[wiki/sources/2021-02-23-yt-zM2fB-Q8T7g]]).
+- **Division of authority: the seller determines price; the buyer determines value.** "Value is
+  subjective, it's dependent on the buyer to determine value — most of us think it's up to us."
+  The buyer holds value because they can always decline and ask "is this fair, based on my needs
+  and wants?" ([[wiki/sources/2021-02-23-yt-zM2fB-Q8T7g]]).
+- **Profit is compensation for risk (Drucker).** "Peter Drucker said all profit comes from risk —
+  who is taking the risk?" On **hourly** the *client* bears the risk (work 5 hours, get paid 5);
+  eventually the client says "I'm taking all the risk — give me one fixed fee." On **fixed-fee**
+  *you* assume the unknowns, so you **add more profit to accommodate the risk**. Margins range
+  wildly — he's marked a project up **300%**, and margins run from **5–10%** to **80%+** by
+  business ([[wiki/sources/2021-02-23-yt-zM2fB-Q8T7g]]). _(Figures caption-transcribed; treat as
+  illustrative.)_
+- **A high price is not exploitation.** "Something that confuses a lot of creative people is...
+  they think that if they set the price too high they're taking advantage of the customer" — but
+  no amount of manipulation makes someone buy what they don't value ("would they buy if they
+  didn't see value in this thing?"); a $10,000 diamond is genuinely valuable to some and "just a
+  shiny rock" to others (Chris "doesn't value diamonds"). Reinforces the envy/subjective-value
+  argument in §35 ([[wiki/sources/2021-02-23-yt-zM2fB-Q8T7g]]).
+
+_(Taught to a small audience; participant "Ricky" and audience answers are context, not persona
+data.)_
+
+---
+
+## 40. Talking about money on the call — Dan Mall's *Pricing Design* (sliding scale, surcharges, "money not budget")
+
+_Est. 2021-03-03 (Chris's breakdown of Dan Mall's book *Pricing Design*). A tight, quotable
+pricing-conversation segment; several formulations are sharper here than in longer talks._
+
+> "Your job as a service provider is to create as much value as possible for your customers.
+> Period." — Chris Do, [[wiki/sources/2021-03-03-yt-LliPPJo5lHE]]
+
+- **Reframe "budget" as "money" (new).** "When you put the word budget it makes it sound cheap.
+  Call it what it is — it's money. How much money have you set aside? Because that's tied to
+  value." ([[wiki/sources/2021-03-03-yt-LliPPJo5lHE]]).
+- **Sliding scale by risk — same site, very different price.** "You can do the exact same website
+  for forty thousand dollars or three hundred thousand dollars — it's all based on the risk that
+  the client takes and what your role in that is going to be." Price scales with company size
+  because a big/public company eats huge implementation, printing, and stock-price risk if you
+  get it wrong — a sharper, concrete restatement of §6's discount-for-uncertainty and §35's
+  problem-not-thing logic ([[wiki/sources/2021-03-03-yt-LliPPJo5lHE]]).
+- **Two surcharges (new): rush charge + "pain-in-the-butt" charge.** A **rush charge** (same
+  work, less time) and a **"pain in the butt" charge** for difficult, nitpicky clients. On
+  nitpicky clients: "I feel frustrated mostly because I didn't charge enough — so I go back and
+  ask for more money, and it works out, then I'm really happy again"
+  ([[wiki/sources/2021-03-03-yt-LliPPJo5lHE]]). `[self-reported]`
+- **"Every dollar returns 10x" (new belief).** "I want the clients to spend as much money on me
+  as possible, because I believe every dollar they spend they will get back ten times the
+  results. My job is not to sell them anything — my job is to help them; I need them to pay me so
+  I can allocate time to their project." ([[wiki/sources/2021-03-03-yt-LliPPJo5lHE]])
+  `[self-reported]`
+- **"I don't have a rate" (reading Dan Mall's script).** Client: "What's your rate?" — "I don't
+  have one... I'll spend as much time with you as I can to understand what you need and want, then
+  come up with a few options that simultaneously seem like a steal for you and are lucrative for
+  me." ([[wiki/sources/2021-03-03-yt-LliPPJo5lHE]]).
+- **The 8-question discovery playbook** (Chris endorses copying verbatim from the book):
+  timeframe (does a real event depend on launch?); scope (design-build-launch vs. design only?);
+  already started any part?; team size & roles on their end?; how did you hear about us / what
+  interests you?; **how much money have you set aside?**; are you talking to other companies (how
+  many, what do you like)?; **"anything else we should know?"** — which Chris phrases as **"am I
+  not asking you a question that I should be?"** to surface what the client hadn't volunteered
+  ([[wiki/sources/2021-03-03-yt-LliPPJo5lHE]]).
+- **Work with in-house teams, not against them** — position to collaborate; day-to-day work is
+  low-paying and eats your time, and showing you collaborate reassures the client
+  ([[wiki/sources/2021-03-03-yt-LliPPJo5lHE]]).
+
+---
+
 ## Worked figures & self-reported claims
 
 Concrete numbers Chris cites for his own business or in case studies. Studio rates and the
@@ -1485,6 +1786,17 @@ $69k deal are `[self-reported]`; teaching figures are illustrative.
 
 - Blind rate card (~2016): logo $15,000–$30,000; strategy $20,000–$50,000; messaging
   ~$10,000; applications ~$10,000 `[self-reported]` ([[wiki/sources/2016-10-22-yt-RKXZ7t_RiOE]]).
+- **Present-day rate card (2021):** strategy $20,000–$40,000; brand definition & positioning
+  $20,000–$30,000; logo $16,000 (logo-with-mascot ~$40,000–$50,000); application design ~same;
+  messaging $12,000. "All variable depending on the size of the client... and the value you're
+  going to deliver." `[self-reported]` ([[wiki/sources/2021-02-11-yt-OiUOaZJJYzg]], §37).
+- **Course/product figures (2020):** typography course $69 pre-launch → $99 full price;
+  $173,000 in the first month; $500,000+ lifetime (one month at $28,000). Futur book Kickstarter
+  ~$75,000 (goal $25,000). Teaching figures illustrative/`[self-reported]`
+  ([[wiki/sources/2020-12-07-yt-WvdAVFt1LaI]], §36).
+- The 2021-02-11 bid walk-through: line items subtotal $18,120 + 25% production fee ≈ $4,530;
+  historical production fees up to 40%, Blind at 30–35% `[self-reported]`
+  ([[wiki/sources/2021-02-11-yt-OiUOaZJJYzg]]).
 - ~$400,000 line of credit with Wells Fargo `[self-reported]`
   ([[wiki/sources/2015-10-08-yt-wd0ejVP_g78]]).
 - **The $69,000 case study (2025):** a branding/design engagement for a friend's
@@ -1524,6 +1836,14 @@ Chris credits these sources on record:
   "price justifies cost," "95% of pricing mistakes are pricing too low," and the
   three-option value conversation (§5). Chris hosts him and names Baker's book as upstream
   "canon" ([[wiki/sources/2022-09-22-yt-TB54_6bEP-A]], [[wiki/sources/2025-04-08-yt-b0fQyaBSSI0]]).
+- **Dan Mall** — *Pricing Design*. Source (§40) of the "money not budget" reframe, the
+  risk-based sliding scale (same site $40k vs $300k), the rush and "pain-in-the-butt" surcharges,
+  the "I don't have a rate" script, and the 8-question discovery playbook. Chris breaks the book
+  down and calls it more plain-spoken than Blair Enns
+  ([[wiki/sources/2021-03-03-yt-LliPPJo5lHE]]).
+- **Karen Rainey** (secondary — a producer, not an author) — taught Chris **cost-plus bidding**
+  via a detailed Excel bid at Blind: markup over freelancer cost is not real profit; charge for
+  workstations and everything you touch (§37) ([[wiki/sources/2021-02-11-yt-OiUOaZJJYzg]]).
 - **Jim Rohn** — the majors/minors effort principle: "don't make a major effort for a
   minor goal, or a minor effort for a major goal." Used in the proportionality reframe (§9)
   ([[wiki/sources/2018-04-04-yt--C01FC27Jg0]], [[wiki/sources/2019-04-12-yt-ivKnj9ffcmE]]).
@@ -1577,6 +1897,14 @@ qualifying), [[wiki/entities/the-futur|The Futur]].
 - [[wiki/sources/2020-02-03-yt-fVLK9fJoM1g]] — Pricing options in bids & proposals (compare-against-yourself, name the tiers, top price first + pause, wine-list reset; §34)
 - [[wiki/sources/2020-02-26-yt-xE1onB5dVI8]] — "How to respond when someone can't afford you" (charity vs clients, pro-bono ratio, barter menu, exposure-is-an-act, equity-in-lieu-of-fee; §32)
 - [[wiki/sources/2020-03-25-yt-082H4FftCY8]] — "Double your income as a solopreneur" (bid-buildup — price as if you hire at/above your level; investor mindset; §33)
+- [[wiki/sources/2020-06-25-yt-c0FbJfds2jg]] — "I Thought You Were Cheaper" (restates birds-of-a-feather referral clustering + one-time favor-price reframe; §28)
+- [[wiki/sources/2020-09-25-yt-JzCqfJbfzcM]] — "Are You Charging Too Much? w/ Melinda Livsey" (subjective value, the doctor consult-vs-surgery counter, the envy reframe; §35)
+- [[wiki/sources/2020-12-07-yt-WvdAVFt1LaI]] — "How To Build A $1M Business Teaching" (course/product pricing — pre-launch low then raise to reward early adopters; §36)
+- [[wiki/sources/2021-02-11-yt-OiUOaZJJYzg]] — "How To Price Design & Bid Projects Pt.1" (bidding evolution, cost-plus/production-fee/padded-rate/SOW mechanics, present-day rate card; §37)
+- [[wiki/sources/2021-02-16-yt-dKBFjl6uc7s]] — "How To Bid Pt.2 (Undefined Scope)" (phased paid discovery/strategy, sales deck qualifying, retreat-and-follow; §38)
+- [[wiki/sources/2021-02-18-yt-kt2oLrl1EHY]] — "Easy & Painless Way To Bid Pt.3" (bake pricing into the Core session, important/urgent grid, budgets live, pain-threshold; §38)
+- [[wiki/sources/2021-02-23-yt-zM2fB-Q8T7g]] — "Running A Profitable Business" (cost/price/value triad, seller-sets-price/buyer-sets-value, profit-from-risk; §39)
+- [[wiki/sources/2021-03-03-yt-LliPPJo5lHE]] — Dan Mall's *Pricing Design* breakdown (sliding scale by risk, rush + pain-in-the-butt charges, "money not budget", 8-question discovery, every-dollar-returns-10x; §40)
 - [[wiki/sources/2022-09-22-yt-TB54_6bEP-A]] — Price & value masterclass with Ron Baker (influence link, three options)
 - [[wiki/sources/2023-04-24-yt-kTFhQf5_RxI]] — Raising rates $2k→$5k (raise-your-rate-to-raise-client-quality ladder)
 - [[wiki/sources/2023-10-19-yt-Abi8kwkfZbA]] — "Don't justify your prices" (symmetry of logic, have-to-have vs nice-to-have)

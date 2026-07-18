@@ -3,7 +3,7 @@ type: hub
 domain: content-strategy
 domains: [content-strategy]
 updated: 2026-07-18
-tags: [content-strategy, audience-building, organic-growth, storytelling, attraction-marketing, permission-marketing, community, movement, give-first, karmic-equity, awareness-funnel, portfolio, show-your-work, process-not-product, youtube-strategy, thumbnails, cold-open, awareness-matrix, niching, differentiation, sell-the-problem, thesis-paper, funnel-math, reciprocity, expert-positioning, audience-vs-customers, true-fans, smallest-viable-audience, youtube-launch, polarizing, public-journaling, feed-vs-stories, earned-followers, learning-styles, teach-while-you-learn, imposter-syndrome, repurposing, lumpy-mail, aida-carousels, magic-8, case-study, capabilities-deck, storybrand, multiple-income-streams, fame-vs-price, garage-sale, audience-as-asset]
+tags: [content-strategy, audience-building, organic-growth, storytelling, attraction-marketing, permission-marketing, community, movement, give-first, karmic-equity, awareness-funnel, portfolio, show-your-work, process-not-product, youtube-strategy, thumbnails, cold-open, awareness-matrix, niching, differentiation, sell-the-problem, thesis-paper, funnel-math, reciprocity, expert-positioning, audience-vs-customers, true-fans, smallest-viable-audience, youtube-launch, polarizing, public-journaling, feed-vs-stories, earned-followers, learning-styles, teach-while-you-learn, imposter-syndrome, repurposing, lumpy-mail, aida-carousels, magic-8, case-study, capabilities-deck, storybrand, multiple-income-streams, fame-vs-price, garage-sale, audience-as-asset, rot-hook, carousel-rubric, heads-or-tails, home-stretch-slide, twelve-post-minimum, guest-post-loop, 1000-true-fans, farming-vs-hunting, riches-in-the-niches, 2x-rule, virtuous-cycle-of-confidence, strongest-tribe, chef-analogy, scarcity-mindset, share-while-you-learn, persist-and-resist, content-manifesto, done-over-perfect]
 ---
 
 # Content Strategy — hub
@@ -1713,6 +1713,375 @@ biography; the durable **strategy** is below. `[2020-04-08]`
 
 ---
 
+## 31. Get known by giving it away: the abundance case + the 2X rule (mid-2020)
+
+Two mid-2020 pandemic-era panel cut-downs that state the give-first machine as an
+*abundance-vs-scarcity* argument and add two named production tools. Chris-attributed
+first person; the Futur narrator recaps are context, not persona. `[2020-07-27]`
+[[wiki/sources/2020-07-27-yt-BOpbHKa64w0]] `[2020-07-23]`
+[[wiki/sources/2020-07-23-yt-84Mf-CdRin4]]
+
+- **Advertising interrupts; a gift attracts.** Advertising is interruptive by nature — it
+  says "I'm important, focus on me" — and pushes people away; permission/content marketing
+  instead leads with "here's a gift for you today... I hope you find this valuable." Giving
+  well starts the **know → like → trust** sequence that must precede any purchase (trust
+  being the crucial part). `[2020-07-27]` [[wiki/sources/2020-07-27-yt-BOpbHKa64w0]]
+  (Restates the §2 Godin permission lineage; the *gift framing* is the new articulation.)
+
+  > "Advertising actually pushes people away because it's very interrupt[ive] by nature.
+  > It's saying 'I'm important, focus on me,' versus permission marketing... 'I'm going to
+  > give you something, here's a gift for you today.'" — Chris Do `[2020-07-27]`
+
+- **The scarcity mindset is the enemy — giving your knowledge away is not zero-sum.** Many
+  creatives believe giving their thing away is a zero-sum loss (they lose, the other gains);
+  "it doesn't really work like that." Artists who refuse to share their technique — fearing
+  "a thousand clones" — "wind up becoming the best kept secret." `[2020-07-27]`
+  [[wiki/sources/2020-07-27-yt-BOpbHKa64w0]]
+
+- **The chef analogy — there are no more secrets.** The guarded "secret recipe / 11 herbs
+  and spices" era is over — any capable chef can reverse-engineer your dish. The most
+  renowned chefs got there by writing cookbooks and going on shows, showing *exactly* how to
+  cook the perfect steak — and built multi-million/billion-dollar empires *through*
+  generosity. "You're not going to build it with force, you're going to build it through
+  love." `[2020-07-27]` [[wiki/sources/2020-07-27-yt-BOpbHKa64w0]]
+
+  > "The most renowned chefs in the world are there because they've written cookbooks...
+  > they show you exactly how to cook the perfect steak... and then they build a
+  > multi-million, multi-billion dollar empire by sharing." — Chris Do `[2020-07-27]`
+
+- **Deliver value, don't extract it — "the strongest tribe wins."** Cites **Marty
+  Neumeier**: "the brand with the strongest tribe wins." Chris: he never thinks "how much
+  value can we *extract* from our customers," only "how much more value can we *deliver*" —
+  to the point where people say "enough, we get it, we'll just give you money so you can keep
+  doing this." In a world with no shortage of information (Google answers for free), people
+  spend money with one person out of **trust and reciprocity**; some say they'd pay even if
+  the download were "zero kilobytes," just to keep the work going. `[2020-07-27]`
+  [[wiki/sources/2020-07-27-yt-BOpbHKa64w0]] (The commercial payoff of §1 give-first, and
+  the §8 movement/tribe framing sourced to Neumeier.)
+
+  > "Marty Neumeier says the brand with the strongest tribe wins, and I'm all about building
+  > the strongest tribe... I'm always thinking how much more value can we deliver." — Chris
+  > Do `[2020-07-27]`
+
+- **Start where an audience is being ignored.** The fastest way in (mid-2020): find a group
+  who share a worldview and are asking "does anybody care about us?" — fill the gap, move
+  fast, and you can build a whole different business model. Serve an *ignored* niche rather
+  than an over-competed one. `[2020-07-23]` [[wiki/sources/2020-07-23-yt-84Mf-CdRin4]]
+  (Sharpens §5's long game with a market-selection rule; complements §23's market-first
+  inversion.)
+
+  > "You need to find an audience that is being ignored right now." — Chris Do `[2020-07-23]`
+
+- **Out-teach the competition; convert learnings to earnings.** Cites *Rework* — out-teach
+  competitors because they're busy hoarding secrets — and Jim Rohn — "wealth is your ability
+  to convert and transform knowledge and experience," so "convert your learnings to your
+  earnings" and "become a documentarian of your work." `[2020-07-23]`
+  [[wiki/sources/2020-07-23-yt-84Mf-CdRin4]] (Documentarian restates §16/§23; the two
+  aphorisms are new.)
+
+- **The 2X rule (NEW named tool).** For every one piece of content you *consume*, go out and
+  *make two things* — "twice as much, at the minimum." `[2020-07-23]`
+  [[wiki/sources/2020-07-23-yt-84Mf-CdRin4]] (Operationalizes the §9 output-over-input
+  principle with a ratio.)
+
+  > "For every one piece of content you consume, go out and make two things — it should be
+  > twice as much, at the minimum." — Chris Do `[2020-07-23]`
+
+- **The virtuous cycle of confidence (NEW).** The consume → reflect → implement → share loop
+  (same loop as §9) feeds a self-reinforcing triangle: the more you try, the more you're
+  exposed; the more exposed, the less you have to fear; the less afraid, the more you try —
+  and confidence compounds each lap. You don't need 100,000 followers, "just the few people
+  who can validate that you know what you're doing." `[2020-07-23]`
+  [[wiki/sources/2020-07-23-yt-84Mf-CdRin4]]
+
+  > "The more you try, the more you're exposed; the more you're exposed, the less you have to
+  > be afraid of; and the less you're afraid of, the more you're likely to try." — Chris Do
+  > `[2020-07-23]`
+
+- **"Share while you learn" (the reframe of "teach what you know").** "Teach what you know"
+  triggers an existential crisis ("what does anyone know anyways?"), so Chris modifies it to
+  **share while you learn** — don't be an information hoarder; put your discoveries out there
+  and see what happens. `[2020-07-23]` [[wiki/sources/2020-07-23-yt-84Mf-CdRin4]] (A 2020
+  data point on the *share-the-journey* side of the §26 contradiction with the 2025
+  "do development in private, teach in public" rule in §3.)
+
+---
+
+## 32. The Instagram carousel playbook: the rubric, the ROT hook, the growth loop (late 2020)
+
+Chris's most complete late-2020 articulation of his Instagram carousel system, consolidated
+from the from-zero growth Q&A and the two-part Carousel Clinic critiques. All
+Chris-attributed first person (the Later sponsor read by El Money and the design-craft
+typesetting details live in [[wiki/topics/design-craft/design-craft]]). `[2020-11-02]`
+[[wiki/sources/2020-11-02-yt-R-EyTBRgZh8]] `[2020-10-28]`
+[[wiki/sources/2020-10-28-yt-qjZospdjnS0]] `[2020-12-14]`
+[[wiki/sources/2020-12-14-yt-b_s4RlOYyzc]]
+
+- **Why carousels: serve the audience + ride the platform's new feature.** The first
+  decision is *who you're serving* — you're spending the audience's scarce time/attention, so
+  give them something worth more than they gave (teach *them*, not show what interests you).
+  When a platform ships a new feature it rewards creators who use it; Chris saw Instagram
+  pushing 10-slide carousels and (via **Michael Janda**, context) realized you could *teach*
+  with them. `[2020-11-02]` [[wiki/sources/2020-11-02-yt-R-EyTBRgZh8]]
+
+  > "You have to assume nobody knows you, and you have to create something that a stranger
+  > would feel so compelled to share on their timeline." — Chris Do `[2020-11-02]`
+
+- **The cold-start plan: 12-post minimum, one narrow topic, spirit of generosity.** The
+  minimum is **12 posts**, because that fills the whole grid — someone who sees one post
+  checks what else you do before following, and it must be consistent. "Consistent" means
+  focused on **one specific topic** (posting off-topic makes people not follow / unfollow);
+  be very narrow. Approach it with generosity — give with no strings and no expectations.
+  Design bar: ~three colors used in combination, one–two fonts, keep it simple. `[2020-11-02]`
+  [[wiki/sources/2020-11-02-yt-R-EyTBRgZh8]] (The 12-post minimum + one-topic rule are new
+  mechanics on the §5 consistency thesis — and the same consistency that sits in tension with
+  the §16 "quality beats frequency" stance.)
+
+  > "The minimum is to do 12 posts, because at least then you fill up the entire grid with 12
+  > things that are consistent." — Chris Do `[2020-11-02]`
+
+- **Structure on AIDA, with Desire → "Detail."** Each self-contained carousel story runs on
+  AIDA (Attention → Interest → Desire → Action), but for carousels he recasts **Desire as
+  "Detail"** — the slides where you deliver what you teased; Action is *one* call to action.
+  `[2020-11-02]` [[wiki/sources/2020-11-02-yt-R-EyTBRgZh8]] (Confirms and dates the §28
+  AIDA-for-carousels framework, first taught 2020-04-22 — see §28 for the past-slide-3 and
+  "magic 8" mechanics.)
+
+- **The ROT hook formula (NEW).** The Attention hook should promise a **R**esult the audience
+  wants, name an **O**bjection they might have, and reference **T**ime — "this formula is from
+  advertising," and any combination of the three yields a stronger hook. Example: "Learn to
+  speak Spanish [result] in two weeks [time] even if you don't know a foreign language
+  [objection]." Fix a weak headline by flipping it toward a desired result — "Why you find
+  writing painful" → "Writing doesn't have to be painful." `[2020-11-02]`
+  [[wiki/sources/2020-11-02-yt-R-EyTBRgZh8]] `[2020-12-14]`
+  [[wiki/sources/2020-12-14-yt-b_s4RlOYyzc]]
+
+  > "You promise a result that they're looking for, you identify an objection they might
+  > have, and you talk about time as well." — Chris Do `[2020-11-02]`
+
+- **The five-criteria critique rubric — note he uses two overlapping formulations.**
+  `[2020-10-28]` [[wiki/sources/2020-10-28-yt-qjZospdjnS0]] `[2020-12-14]`
+  [[wiki/sources/2020-12-14-yt-b_s4RlOYyzc]]
+  - **Clinic Pt 1 (2020-10-28):** (1) clear or confusing? (2) empty or fulfilling? — "are you
+    giving me something or taking away my time? This is critical"; (3) typesetting no-nos
+    (typos, grammar); (4) do the design decisions support the concept? (5) the **X-factor** /
+    special sauce that makes it uniquely yours.
+  - **Clinic Pt 2 (2020-12-14):** (1) is there a **hook/headline** compelling enough to dig
+    deeper? (2) **flow / the "slippery slide"** — do slides 1–10 flow effortlessly? (3)
+    **light but satisfying** — not too dense, not too frothy; (4) **contrast** (negative
+    space, color, legibility); (5) **typesetting** (grammar and typos "do matter... proofread
+    everything").
+  - The two lists share typesetting and a value/fulfillment idea but otherwise differ — treat
+    them as two era-adjacent formulations of the same critique instinct, not a fixed rubric.
+
+- **"Light but satisfying" — the density balance.** A carousel should be "a satisfying but
+  light meal," not a heavy three-course one that puts you to sleep; people aren't on Instagram
+  to read long blocks. Too heavy means you "don't understand the subject well enough to
+  explain it simply"; too light is "all foam and no beverage." The fix: break one dense idea
+  across several slides rather than padding to hit 10, and the takeaway must not be 100%
+  obvious. `[2020-10-28]` [[wiki/sources/2020-10-28-yt-qjZospdjnS0]] `[2020-11-02]`
+  [[wiki/sources/2020-11-02-yt-R-EyTBRgZh8]] (Compare §28's "cotton candy / educate or
+  entertain" middle-slide rule.)
+
+  > "It needs to be light but satisfying. If it's too heavy, I don't think you understand the
+  > subject well enough to explain it simply... sometimes it's all foam and there's really no
+  > beverage in there." — Chris Do `[2020-11-02]`
+
+- **The headline games: "heads or tails" and "write 10 headlines" (NEW).** To get unstuck:
+  **heads** = write 10 headlines for the same idea and build the carousel to deliver the best
+  one ("get through the bad ones, the obvious ones, and maybe you'll find one that's really
+  good"); **tails** = start from the key takeaways and work backwards. Chris personally starts
+  with tails ("writing the headline first is horrible for me"). `[2020-11-02]`
+  [[wiki/sources/2020-11-02-yt-R-EyTBRgZh8]] `[2020-12-14]`
+  [[wiki/sources/2020-12-14-yt-b_s4RlOYyzc]]
+
+- **The "home-stretch" summary slide (NEW).** Near the end (slide ~9) add a summary slide that
+  recaps all the points, "because there's a lot for us to remember" by the end. (Caveat:
+  "home stretch" is his template label — don't print it in the final carousel; several
+  students left it in by mistake.) `[2020-12-14]` [[wiki/sources/2020-12-14-yt-b_s4RlOYyzc]]
+
+- **Bookend the carousel (NEW).** Answer the opening question at the end — mirror the hook on
+  the closing slide rather than ending on an unrelated line. `[2020-12-14]`
+  [[wiki/sources/2020-12-14-yt-b_s4RlOYyzc]]
+
+- **End with exactly ONE call to action.** A question that prompts comments works well; never
+  more than one ask. "People will barely do one. So don't confuse them." `[2020-12-14]`
+  [[wiki/sources/2020-12-14-yt-b_s4RlOYyzc]] `[2020-10-28]`
+  [[wiki/sources/2020-10-28-yt-qjZospdjnS0]] (Reinforces the §28 single-CTA rule.)
+
+- **Give value before the pitch — ratio, not zero.** Don't turn a carousel into a PDF ad;
+  "we're very sensitive to being sold something." First create value and build an audience,
+  then people figure out they need you. A pitch is fine at a good ratio (~12–15 pieces of
+  value to one pitch); a carousel that's a hard pitch every time is off. `[2020-10-28]`
+  [[wiki/sources/2020-10-28-yt-qjZospdjnS0]] `[2020-12-14]`
+  [[wiki/sources/2020-12-14-yt-b_s4RlOYyzc]] (The §1 give-first principle, quantified for
+  carousels.)
+
+- **The guest-post → paid-shout-out growth loop (NEW).** Once you clear the 12-post minimum
+  on one topic: **write a guest post** for someone you look up to — pour inordinate effort
+  into one super-valuable, well-designed piece and give them your best; if they like it they
+  post it free and can send you hundreds–thousands of followers (a few people in his community
+  grew 20,000–30,000 from a guest kickstart). Key caveat: **it only works if your own account
+  is already good** ("their account was already good, they just didn't have eyeballs"). If
+  nobody will host you, **pay for shout-outs** — DM accounts that repost others' content, ask
+  the rate, and design the piece in *their* feed's style, mentioning yourself briefly at the
+  end; it's inexpensive (he hasn't done it himself but knows people who went 0 → 100,000 in
+  under a year this way). Also: learn **hashtags** — they teach the algorithm what your post
+  is about. `[2020-11-02]` [[wiki/sources/2020-11-02-yt-R-EyTBRgZh8]]
+
+  > "The key point here is that their account was already good, they just didn't have eyeballs
+  > on it." — Chris Do `[2020-11-02]`
+
+- **The professional-headshot / CTA-slide discipline.** Put a good professional headshot on
+  the CTA slide — wide phone lenses distort, and a bad headshot "throws people for a loop"
+  after a good aesthetic ("you can afford to hire a photographer... use it on all your social
+  platforms"). Warns against posing next to a celebrity ("you'll pale... be in this person's
+  shadow"). `[2020-12-14]` [[wiki/sources/2020-12-14-yt-b_s4RlOYyzc]] (Personal-brand angle
+  also in [[wiki/topics/branding/branding]].)
+
+- **The "gold standard" of a carousel.** Tell a *personal story* that evokes an emotional
+  response (angry, sad, anxious) and delivers *one clear takeaway* — a standard Chris admits
+  he doesn't always hit himself ("maybe I hit the silver or the bronze standard").
+  `[2020-12-14]` [[wiki/sources/2020-12-14-yt-b_s4RlOYyzc]] (Applies the §4 storytelling craft
+  to the carousel format.)
+
+---
+
+## 33. The teaching business: 1,000 true fans, riches-in-the-niches, farming-not-hunting (2020)
+
+Chris's compact canonical statement of building an income-generating teaching business from
+an audience of "true fans" — a keynote consolidating several borrowed frameworks into one
+dated blueprint. Chris-attributed; the outside thinkers (Kelly, Godin, Neumeier, Cialdini)
+are cited as sources, not speakers. `[2020-12-07]` [[wiki/sources/2020-12-07-yt-WvdAVFt1LaI]]
+
+- **1,000 True Fans (Kevin Kelly).** You don't need millions — 1,000 true fans each yielding
+  ~$100 profit/year = $100,000/year; the math scales ($200 profit → 500 fans; $50 profit →
+  2,000 fans). Two components make it work: a **direct, peer-to-peer relationship** with fans,
+  and the ability to earn **~$100 profit per fan**. A true fan will "drive 200 miles" and buy
+  the book + ebook + audiobook + best-of. `[2020-12-07]`
+  [[wiki/sources/2020-12-07-yt-WvdAVFt1LaI]] (The concrete engine under the §23
+  customers-vs-audience thesis.)
+
+- **Gatekeepers are gone.** The intermediaries who controlled distribution (publishers,
+  labels, studios, galleries) are gone thanks to crowdfunding, streaming, and social — the
+  public now decides. `[2020-12-07]` [[wiki/sources/2020-12-07-yt-WvdAVFt1LaI]]
+
+- **"Riches in the niches" — long tail + smallest viable audience.** Real profit comes from
+  selling low volume to small markets (Kelly's long tail); even one-in-a-million appeal is
+  ~7,000 people — Godin's **smallest viable audience**. Quotes James Victore: "the things that
+  make you weird as a kid will make you great tomorrow." `[2020-12-07]`
+  [[wiki/sources/2020-12-07-yt-WvdAVFt1LaI]] (Restates §23's SVA with the niche/long-tail
+  economics.)
+
+- **Farming, not hunting (NEW named contrast).** The **short game = hunting** — chasing
+  clients, feast/famine, outbound, "eat what you kill." The **long game = farming** — build an
+  audience/fans, slow patient work, inbound/content marketing, compound effect, "eat what you
+  grow." `[2020-12-07]` [[wiki/sources/2020-12-07-yt-WvdAVFt1LaI]] (Names the §5 long-game /
+  §2 outbound-vs-inbound split as a hunting/farming dichotomy.)
+
+  > "The short game... is akin to hunting where you chase after clients... You eat what you
+  > kill. The second game is more akin to farming where you build an audience and fans... you
+  > eat what you grow." — Chris Do `[2020-12-07]`
+
+- **Permission over interruption; niche pull over mass push.** Cites Godin's *Permission
+  Marketing*: interruptive marketing steals time/attention, permission marketing creates
+  value. Mass media = push, yelling, tuned-out; niche media = pull, listening, value-creating
+  — converting strangers → friends → customers → casual fans → true fans. `[2020-12-07]`
+  [[wiki/sources/2020-12-07-yt-WvdAVFt1LaI]] (Same lineage as §2, sourced here to the True
+  Fans talk.)
+
+- **The karma bank / reciprocity — cite Cialdini.** Generosity is "a deposit in the karma
+  bank"; once you've helped enough people you "activate the law of reciprocity" (Cialdini's
+  *Influence* — the candy-store study: a free sample makes customers 42% more likely to buy).
+  Keep your secrets and "you'll be the best kept secret that no one hires," because people
+  hire those they know, like, and trust. `[2020-12-07]`
+  [[wiki/sources/2020-12-07-yt-WvdAVFt1LaI]] (Reinforces §1 give-first; ties to the "best kept
+  secret" line echoed in §31's chef analogy.)
+
+  > "If you keep what you do a secret, you'll be the best kept secret that no one hires. It's
+  > because people only hire people they know, like, and trust." — Chris Do `[2020-12-07]`
+
+- **The course-launch blueprint: validate first, price low, then raise.** Build the audience
+  first → **pre-launch to gauge interest** → adjust if feedback is off → **price very
+  attractively, then raise over time** (rewarding early adopters) → (for The Futur) give
+  24-hour free access at launch. Make content out of content that already works (repurpose
+  proven pieces to build authority before you sell). `[2020-12-07]`
+  [[wiki/sources/2020-12-07-yt-WvdAVFt1LaI]] (The audience-building front end of the §30
+  monetization model; pricing detail in [[wiki/topics/pricing/pricing]].)
+
+  > "Helping one person might not change the whole world, but it could change the whole world
+  > for one person." — Chris Do `[2020-12-07]`
+
+---
+
+## 34. The 9-point content-creation manifesto (2021)
+
+A compact solo monologue distilling nine lessons Chris credits to making 800+ videos and
+reaching a million subscribers — several framings are canonical and net-new to the corpus.
+Chris-attributed; the outro podcast promo is Greg Gunn (context). `[2021-02-05]`
+[[wiki/sources/2021-02-05-yt-0arou9boK8k]]
+
+1. **Put in the work — the only early metrics are fun and learning.** Show up every day, do
+   your best with what you have, be patient; treat it as an "infinite game" of continuous
+   self-improvement, and **stay out of the numbers for a while** — measure yourself only by
+   whether you're having fun and whether you're learning. `[2021-02-05]`
+   [[wiki/sources/2021-02-05-yt-0arou9boK8k]] (Sharpens the §5 infinite-game framing into a
+   metric rule.)
+
+   > "The only metric that you should measure yourself by is whether or not you're having fun
+   > and if you're learning something." — Chris Do `[2021-02-05]`
+
+2. **"Persist and resist" (Ryan Holiday).** The longer you play, the better you get: *persist*
+   = don't give up; *resist* = resist the distractions that show up as negative feedback, low
+   views, or low monetization. `[2021-02-05]` [[wiki/sources/2021-02-05-yt-0arou9boK8k]]
+
+3. **No opinion can hurt you without your permission.** Ignore those who don't care about your
+   success; don't hand a stranger control of your emotional state — praise or criticism.
+   `[2021-02-05]` [[wiki/sources/2021-02-05-yt-0arou9boK8k]]
+
+   > "No opinion can hurt you without your permission." — Chris Do `[2021-02-05]`
+
+4. **Fail more — "don't waste a good failure."** We're conditioned to avoid failure, but you
+   need to fail more; reframe failure as "opportunity in disguise" and "the tuition you pay
+   for success," complete with instructions on how to succeed. `[2021-02-05]`
+   [[wiki/sources/2021-02-05-yt-0arou9boK8k]] (Consistent with §9's "I love to be wrong.")
+
+   > "Failure is the tuition you pay for success... so whatever you do, don't waste a good
+   > failure." — Chris Do `[2021-02-05]`
+
+5. **Done is better than perfect.** Perfectionism (ingrained in creative training) is the
+   enemy of execution and a form of procrastination; small iterative steps beat waiting for
+   perfect. `[2021-02-05]` [[wiki/sources/2021-02-05-yt-0arou9boK8k]]
+
+   > "Perfectionism is the enemy of execution and perfectionism is a form of procrastination."
+   > — Chris Do `[2021-02-05]`
+
+6. **Be generous — the "secret to success."** Helping others feels good and pays back (a Futur
+   video helped a discouraged follower land a job in under 30 days). `[2021-02-05]`
+   [[wiki/sources/2021-02-05-yt-0arou9boK8k]] (Restates §1 give-first as one of the nine.)
+
+7. **We are poor judges of our own value.** Only by creating, expressing, and releasing ideas
+   "into the wild" do we discover what we know; aim to make a difference for one person, and
+   try seeing yourself through the eyes of someone who admires you. `[2021-02-05]`
+   [[wiki/sources/2021-02-05-yt-0arou9boK8k]]
+
+8. **Plans are overrated (Mike Tyson).** "Everyone has a plan until they get punched in the
+   mouth" — plans blind you to unforeseen opportunities and trap people in paralysis by
+   analysis; move in a direction and adjust. `[2021-02-05]`
+   [[wiki/sources/2021-02-05-yt-0arou9boK8k]] (Same stance as §18's "direction and momentum
+   over plans.")
+
+9. **"What makes you weird makes you wonderful" (James Victore, *Feck Perfuction*).** What made
+   you weird as a kid makes you great today; since ideas are largely recycled, what people tune
+   in for is your personality and unique voice — being different is a competitive advantage.
+   `[2021-02-05]` [[wiki/sources/2021-02-05-yt-0arou9boK8k]] (The personality-as-differentiator
+   thesis running through §17/§24, credited here to Victore.)
+
+   > "What makes you weird makes you wonderful... being different is a competitive advantage."
+   > — Chris Do (crediting James Victore) `[2021-02-05]`
+
+---
+
 ## Sources
 
 - [[wiki/sources/2015-11-29-yt-z7Y9TKfgstE]] — "Is Your Design Resume Still Relevant?" —
@@ -1779,6 +2148,24 @@ biography; the durable **strategy** is below. `[2020-04-08]`
 - [[wiki/sources/2020-04-22-yt-t-7kpMQsRCA]] — "Why Your Instagram Carousels Are Being
   Ignored — Use AIDA" — AIDA-for-carousels, past-slide-3, magic-8, breath/comma slide
   breaks (2020-04-22)
+- [[wiki/sources/2020-07-23-yt-84Mf-CdRin4]] — "Share What You Know, While You Learn To
+  Build An Audience" — share-while-you-learn, 2X rule, virtuous-cycle-of-confidence,
+  serve-an-ignored-audience, out-teach-the-competition (2020-07-23)
+- [[wiki/sources/2020-07-27-yt-BOpbHKa64w0]] — "How To Get Known & Capture Attention in
+  2020" — advertising-interrupts-vs-permission-gift, chef analogy, scarcity-mindset,
+  Neumeier strongest-tribe, value-deliver-not-extract (2020-07-27)
+- [[wiki/sources/2020-10-28-yt-qjZospdjnS0]] — "Improve Your Instagram Design: Critiques
+  PT 1" — 5-criteria rubric (clarity/fulfillment/typesetting/concept/X-factor),
+  one-CTA, value-before-pitch, tight-palette (2020-10-28)
+- [[wiki/sources/2020-11-02-yt-R-EyTBRgZh8]] — "How To Get Followers on Instagram When
+  Starting From Zero" — AIDA carousels, ROT hook, heads-or-tails, 12-post minimum,
+  guest-post/paid-shout-out growth loop (2020-11-02)
+- [[wiki/sources/2020-12-07-yt-WvdAVFt1LaI]] — "How To Build A $1M Dollar Business
+  Teaching" — 1,000 true fans, riches-in-the-niches/long-tail, farming-vs-hunting,
+  reciprocity/karma-bank, validate-then-price blueprint (2020-12-07)
+- [[wiki/sources/2020-12-14-yt-b_s4RlOYyzc]] — "Improve Your Instagram Carousel Design"
+  (Carousel Clinic Pt 2) — 5-criteria rubric (hook/flow/light-but-satisfying/contrast/
+  typesetting), ROT hook, home-stretch slide, bookend, one-CTA, gold-standard (2020-12-14)
 - [[wiki/sources/2020-06-08-yt-31Uc5TA8ntA]] — "Make A Case Study That Gets Client Work" —
   case-study secret formula (title→visuals→summary→body), capabilities deck, StoryBrand
   hero/guide, capture-the-middle (2020-06-08)

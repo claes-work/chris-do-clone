@@ -3,7 +3,7 @@ type: hub
 domain: design-craft
 domains: [design-craft]
 updated: 2026-07-18
-tags: [design-craft, typography, expressive-typography, legibility, layout, composition, art-direction, critique, creative-direction, feedback, logo-design, logo-critique, mockups, perceived-value, ideation, incubation, portfolio, portfolio-review, packaging, book-cover, conceptual-design, semiotics, appetite-appeal, storytelling, process-documentation, case-study, contrast, branding, sub-brand, naming, kerning, negative-space, color, print-finishing, presentation, teaching, mastery, design-education, creativity, remix, timelessness, restraint, copywriting, developer-handoff, freelance]
+tags: [design-craft, typography, expressive-typography, legibility, layout, composition, art-direction, critique, creative-direction, feedback, logo-design, logo-critique, mockups, perceived-value, ideation, incubation, portfolio, portfolio-review, packaging, book-cover, conceptual-design, semiotics, appetite-appeal, storytelling, process-documentation, case-study, contrast, branding, sub-brand, naming, kerning, negative-space, color, print-finishing, presentation, teaching, mastery, design-education, creativity, remix, timelessness, restraint, copywriting, developer-handoff, freelance, five-ingredients, deconstruction, learn-by-modeling, master-copy, instagram-carousel, risk-reduction, design-as-service]
 ---
 
 # Design Craft — hub
@@ -1143,6 +1143,97 @@ is captured here.)* [[wiki/sources/2020-06-08-yt-31Uc5TA8ntA]] (2020-06-08)
 
 ---
 
+## 29. The "five ingredients" deconstruction method — copy HOW, not WHAT
+
+Chris's fullest, self-contained statement of learning-by-modeling: reduce anything you
+admire to ~**five core "ingredients"** (like reverse-engineering a dish you love) so you
+understand *why* it works, then — with experimentation — make your own version. He calls
+it copying *how* something is made, not the thing itself → "copy without stealing." This
+**deepens §7's master-copy pedagogy** and §14's "creativity connects two disparate
+ideas": where master-copy rebuilds a whole piece, the five-ingredients method extracts
+the reusable *rules* behind it. Demonstrated live by deconstructing a Jean-Michel
+Basquiat painting with the studio crew. [[wiki/sources/2020-09-17-yt-l4KnDY-HUxQ]] (2020-09-17)
+
+- **Copy HOW, not WHAT** — the point is to reverse-engineer *why* a thing works, not to reproduce the thing; understanding the "recipe" lets you cook your own dish. [[wiki/sources/2020-09-17-yt-l4KnDY-HUxQ]] (2020-09-17)
+- **Observe objectively first** — describe only what you *literally see*; withhold judgment and interpretation ("self-portrait," "telling a story," "violence" are interpretations, not observations). A felt reaction (a piece feeling "violent") usually traces to a concrete formal property (rough, jagged line quality — "the way the mark was made"), not the subject. [[wiki/sources/2020-09-17-yt-l4KnDY-HUxQ]] (2020-09-17)
+- **Translate loose words into specific craft vocabulary** — the description must be precise enough to act on: "not realistic" → "not *rendered*"; "no shading" → "no *value*"; "colorful" → "minimal colors that feel dirty." [[wiki/sources/2020-09-17-yt-l4KnDY-HUxQ]] (2020-09-17)
+- **Isolate one element per box and reproduce it** — take a single element at a time, try to remake it with a blunt instrument, and write the words that describe it (word-dominated people write first, then draw). [[wiki/sources/2020-09-17-yt-l4KnDY-HUxQ]] (2020-09-17)
+- **Distill into ~five named ingredients with attributes** — the Basquiat breakdown lands as **line quality** (irregular, rough, non-dominant-hand), **figures** (distorted, flat, facing the camera), **colors** (minimal, dirty, lots of black), **tools** (thick brushes, oil pastel, canvas — tools shape the result), and **words** (misspelled on purpose, crossed out, stream-of-consciousness). Tools can be partly reverse-engineered from the result. [[wiki/sources/2020-09-17-yt-l4KnDY-HUxQ]] (2020-09-17)
+- **Ingredient granularity is diagnosable** — an ingredient must be neither too broad nor too specific; getting it wrong shows up when you try to reproduce the piece. **Reproduce-to-diagnose** is the test of the whole method. [[wiki/sources/2020-09-17-yt-l4KnDY-HUxQ]] (2020-09-17)
+
+> "The five ingredients is a simple way to break down anything you want to learn into
+> more understandable chunks so that you can decipher why something works. It's like a
+> dish — if you can break down what the core ingredients are... then with a little
+> experimentation you can make the dish yourself." — Chris Do
+> [[wiki/sources/2020-09-17-yt-l4KnDY-HUxQ]] (2020-09-17)
+
+> "If you couldn't see this, you couldn't make it." — Chris Do
+> [[wiki/sources/2020-09-17-yt-l4KnDY-HUxQ]] (2020-09-17)
+
+> "You can't draw what you don't know, and what you don't know is what you haven't seen."
+> — Niels Lindstrom (Chris's former lettering teacher), *quoted by Chris — NOT persona
+> voice.* [[wiki/sources/2020-09-17-yt-l4KnDY-HUxQ]] (2020-09-17)
+
+---
+
+## 30. Remix as a generative method — "new to this audience" & creating new visual styles
+
+Two 2020 solo teachings turn §7's "everything is remix" and §15's "chase good, not
+original" from a *stance* into concrete **generative techniques** — how to actually
+produce work that reads as new, and how to grow past your own style.
+[[wiki/sources/2020-05-25-yt-buq8BbkVTdg]] (2020-05-25); [[wiki/sources/2020-06-26-yt-o1ObxQOgdHQ]] (2020-06-26)
+
+- **Redefine the target as "new to THIS audience"** — "new" is relative to the viewer, so "never-before-seen" always carries a hidden asterisk ("*to you*"). The hittable goal is work that's new *to a specific audience*, which forces you to first understand who they are and what they already look at. [[wiki/sources/2020-05-25-yt-buq8BbkVTdg]] (2020-05-25)
+- **Cross-pollinate from an adjacent field ("hide your sources")** — audiences cluster at a "creative watering hole" all staring at the same old stuff; go to a field they aren't watching, bring an idea back, and it reads as new. "If you're in fashion, look at architecture; if you're in photography, look at cinema." [[wiki/sources/2020-05-25-yt-buq8BbkVTdg]] (2020-05-25)
+- **Familiar, presented differently** — people aren't really looking for new; they want familiar-but-reframed (Romeo and Juliet retold endlessly with "the variables changed"). [[wiki/sources/2020-05-25-yt-buq8BbkVTdg]] (2020-05-25)
+- **The "big/small" scale-flip** — take something big and make it tiny (miniature sets in your hand), or something small and make it huge (human-sized sculptures of tiny objects); it "forces us to look at something in a way we've never seen before." [[wiki/sources/2020-05-25-yt-buq8BbkVTdg]] (2020-05-25)
+- **The macro-lens assignment** — shoot something nobody pays attention to (the back of a keyboard, cracks between things, package small-print); "that's how you discover the new in the old." [[wiki/sources/2020-05-25-yt-buq8BbkVTdg]] (2020-05-25)
+- **Five-uncomfortable-variables constraint** — list five variables you're uncomfortable with (time, tools, colors, subject matter, typeface) and, on your next assignment, introduce **exactly one** as a constraint. Changing one variable at a time is low-risk exploration that doesn't feel like "betraying your true authentic self." [[wiki/sources/2020-06-26-yt-o1ObxQOgdHQ]] (2020-06-26)
+- **Master-copy (restated 2020)** — rebuild a design you love as closely as possible *without using its original elements*; you absorb a new visual vocabulary, tools, and techniques (his students' results were "mind-blowing"). *Reconciliation:* this restates §7's master-copy pedagogy [[wiki/sources/2016-06-21-yt-hvrmngTHVJ8]] (2016-06-21) four years on — the "rebuild without the original's elements" constant persists unchanged, confirming it as a stable Chris-Do drill, not a one-off. [[wiki/sources/2020-06-26-yt-o1ObxQOgdHQ]] (2020-06-26)
+- **Have a defined point of view** — rather than mimic everyone else ("those spots are already taken"), develop a clearly defined, uniquely-you worldview; the exercises above are how you *find* it, not how you copy someone into it. [[wiki/sources/2020-06-26-yt-o1ObxQOgdHQ]] (2020-06-26)
+
+> "There's a quote... the secret to originality is to hide your sources. So if you want
+> to do something new, go where nobody's looking, bring it back to this world, they get
+> excited." — Chris Do [[wiki/sources/2020-05-25-yt-buq8BbkVTdg]] (2020-05-25)
+
+> "We're not really looking for new, we're looking for familiar but presented
+> differently." — Chris Do [[wiki/sources/2020-05-25-yt-buq8BbkVTdg]] (2020-05-25)
+
+---
+
+## 31. Instagram-carousel visual-craft rules
+
+The **craft side** of Chris's Instagram-carousel clinic — the typography, color, and
+layout discipline he applies when critiquing student carousels. *(The five-point rubric,
+ROT hook formula, and growth playbook are content-strategy material and live in
+[[wiki/topics/content-strategy/content-strategy]]; this section covers only the visual
+craft.)* [[wiki/sources/2020-12-14-yt-b_s4RlOYyzc]] (2020-12-14)
+
+- **Typesetting hygiene** — use proper apostrophes/quote marks, not prime marks ("a little pet peeve of mine"); hang punctuation. [[wiki/sources/2020-12-14-yt-b_s4RlOYyzc]] (2020-12-14)
+- **≤2 point sizes per slide** (especially for beginners) — fewer variables simplify the design. Technique: find the longest line you'll set on a slide, design around it, and work backwards. *(Applies §1 rule 4's size discipline to the carousel medium.)* [[wiki/sources/2020-12-14-yt-b_s4RlOYyzc]] (2020-12-14)
+- **~3-color discipline & seamless gradients** — match color *exactly* between slides so a gradient tiles across the set without seams; avoid unnecessary background textures that introduce muddy colors and kill "pop." [[wiki/sources/2020-12-14-yt-b_s4RlOYyzc]] (2020-12-14)
+- **Preserve negative space** — cut an oversized hook by up to ~80% so image and type can breathe; filling the entire frame with texture and big type destroys contrast. *(Applies §2/§13's negative-space and contrast principles to the carousel.)* [[wiki/sources/2020-12-14-yt-b_s4RlOYyzc]] (2020-12-14)
+- **Consistent flush-left alignment** — keep alignment consistent across slides (Western reading is top-to-bottom, left-to-right). *(Reinforces §1 rule 1.)* [[wiki/sources/2020-12-14-yt-b_s4RlOYyzc]] (2020-12-14)
+- **Marry image and words thematically** — imagery must relate to the copy; a random, mismatched image (a stray sailboat) breaks the piece. [[wiki/sources/2020-12-14-yt-b_s4RlOYyzc]] (2020-12-14)
+- **Restraint over "design sauce"** — for beginners, "less is more": focus on the writing and presentation before pouring design flourishes over it; add ornamentation only once you own the look (~your 20th carousel). [[wiki/sources/2020-12-14-yt-b_s4RlOYyzc]] (2020-12-14)
+- **Break content across slides** — err toward saying less per slide; too much copy on one slide fatigues the reader and breaks the flow (one idea per slide markedly improved his own engagement). [[wiki/sources/2020-12-14-yt-b_s4RlOYyzc]] (2020-12-14)
+
+---
+
+## 32. Design as service, not art — the positioning craft
+
+From "3 Things Designers Get Wrong," the **design-positioning craft angle**. *(The
+designer-vs-artist values debate and the verbatim quotes — "least risky option," "be
+good not original" — are persona/beliefs + voice material; this section keeps only the
+reusable positioning craft.)* Reinforces §15's "chase good, not original."
+[[wiki/sources/2021-01-07-yt-9GzVEUhKOqc]] (2021-01-07)
+
+- **Design is problem-solving service, not self-expression** — you accept money to solve someone's problem, so the problem belongs to the *client*; imposing your own taste/ego (the "artist" mindset) is a disservice, and judging the work only by whether it wins an award or makes a calling card is egocentric — especially when a small logo fee sits on top of a client's multi-million-dollar risk. [[wiki/sources/2021-01-07-yt-9GzVEUhKOqc]] (2021-01-07)
+- **Win as the LEAST-RISKY option, not the "best" one** — buyers have options and avoid the riskiest; risk signals include no track record, being new in business, poor/slow communication, and presenting wild, egocentric ideas. What reads as "least risky" differs per client. [[wiki/sources/2021-01-07-yt-9GzVEUhKOqc]] (2021-01-07)
+- **Differentiate through the process STORY, not aesthetic novelty** — undifferentiated end-product work forces you to compete on price, because to an untrained eye the nuance in color/typeface/layout is invisible and buyers default to the lowest bid. The fix is *not* being original, risky, or avant-garde — it's telling the story of your process ("here's how I got from here to here, and this is how it'll play out if you work with me"), which simultaneously reduces perceived risk and creates uniqueness. *(Ties to §28's "capture the middle.")* [[wiki/sources/2021-01-07-yt-9GzVEUhKOqc]] (2021-01-07)
+
+---
+
 ## Excluded — instructor-led
 
 Per fidelity rule #6 (speaker attribution), the following Futur "craft" videos are
@@ -1273,5 +1364,10 @@ it trains Chris's *written* design voice, not his verbal cadence.
 - [[wiki/sources/2019-07-01-yt-2HY_vl9a6JA]] — Book Cover Concepts Critique, Young Guns S2 Ep9 (semiotics "1+1=3"; find-the-idea-first; layered reads; "the cover is the hero"; free-yourself-of-physical-reality; photo-reference workflow; hand-crafted > digital edge; Olly Moss / Magritte). (2019-07-01)
 - [[wiki/sources/2019-07-23-yt-EQWsDA8D-54]] — Book Cover Final Critique, Young Guns S2 Ep10 ("read it like an idiot"; "design is thought made visual"; one-word essence; leave clues/patterns; negative-space rewards Absolut / Beauty-and-the-Beast; contrast to survive the shelf; use the book form itself; graphic-power vs conceptual-thinking). (2019-07-23)
 - [[wiki/sources/2020-05-22-yt-O6Zordo0OXE]] — How To Give Feedback To Teams (creative-direction critique protocol: feel → diagnose specifically → hand the fix back / probe for more angles; "facilitate better ideas, not supply them"; anchor to the brief). (2020-05-22)
+- [[wiki/sources/2020-05-25-yt-buq8BbkVTdg]] — Original Is Just A Remix (remix as generative method: "new to this audience"; adjacent-field cross-pollination / "hide your sources"; big/small scale-flip; familiar-presented-differently; macro-lens assignment). (2020-05-25)
 - [[wiki/sources/2020-06-08-yt-31Uc5TA8ntA]] — Make A Case Study That Gets Client Work (process-documentation craft: "capture the middle"; sketches/wireframes/post-its/discovery photos are "golden"; show deliverables in-use and isolated). (2020-06-08)
+- [[wiki/sources/2020-06-26-yt-o1ObxQOgdHQ]] — How To Learn & Create New Visual Styles (five-uncomfortable-variables constraint; master-copy restated; defined point of view). (2020-06-26)
+- [[wiki/sources/2020-09-17-yt-l4KnDY-HUxQ]] — How To Copy Without Stealing (the "five ingredients" deconstruction framework: copy HOW not WHAT; observe→craft-vocabulary; ingredient granularity; reproduce-to-diagnose; Basquiat). (2020-09-17)
+- [[wiki/sources/2020-12-14-yt-b_s4RlOYyzc]] — Improve Your Instagram Carousel Design (visual-craft rules: real apostrophes; ≤2 point sizes; ~3-color / seamless gradients; negative space; flush-left; image-word marriage; "design sauce" restraint). (2020-12-14)
+- [[wiki/sources/2021-01-07-yt-9GzVEUhKOqc]] — 3 Things Designers Get Wrong (positioning craft: design-as-service-not-art; present-as-least-risky-option; differentiate via process-story not novelty). (2021-01-07)
 - [[wiki/sources/2023-06-14-yt-SdCzIDmfDAA]] — Good vs. great designers (bad-to-good slider, mastery, "do less but better," Holtzman). (2023-06-14)

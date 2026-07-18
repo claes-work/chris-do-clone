@@ -4,7 +4,7 @@ domain: sales-clients
 domains: [sales-clients]
 created: 2026-07-14
 updated: 2026-07-18
-tags: [sales, negotiation, objection-handling, discovery, positioning, client-management, role-play, serve-dont-sell, embrace-and-pivot, qualifying, closing, client-archetypes, blair-enns, cialdini, leverage, first-client-call, business-development, ambassador, presenting, pitching, money-mindset, strategy-selling, order-taker, trusted-advisor, jobs-to-be-done, decks-are-crutches, difficult-clients, boundary-setting, know-trust-like, inbound-outbound, firing-clients, dont-convince, objection-response-deck, control-energy, diagnostic-phase, outcomes-over-craft, strategist-reframe, client-selection, three-outcomes, mirror-the-ask, build-rapport, reciprocity, time-vampires, dinner-test, sell-your-idea, foreign-idea-invader, outreach-challenge, jim-rohn, mentorship, value-exchange, scaffolding, five-sales-mistakes, two-ears-one-mouth, talk-money-early, match-and-mirror, tony-robbins, buyer-types, referral-fee, minimum-level-of-engagement, value-buyer, lead-temperature, hot-warm-cold-leads, russell-brunson, cold-outreach, dm-outreach, lumpy-mail, allan-dib, praise-first, trust-your-struggle, listen-to-understand, human-tape-recorder, presence, jonathan-stark, deposit-first, accusation-audit, chris-voss, never-split-the-difference, u-turn, say-it-first, consultative-selling, therapist-frame, lion-and-sheep, silence, stop-selling-start-closing, count-to-20]
+tags: [sales, negotiation, objection-handling, discovery, positioning, client-management, role-play, serve-dont-sell, embrace-and-pivot, qualifying, closing, client-archetypes, blair-enns, cialdini, leverage, first-client-call, business-development, ambassador, presenting, pitching, money-mindset, strategy-selling, order-taker, trusted-advisor, jobs-to-be-done, decks-are-crutches, difficult-clients, boundary-setting, know-trust-like, inbound-outbound, firing-clients, dont-convince, objection-response-deck, control-energy, diagnostic-phase, outcomes-over-craft, strategist-reframe, client-selection, three-outcomes, mirror-the-ask, build-rapport, reciprocity, time-vampires, dinner-test, sell-your-idea, foreign-idea-invader, outreach-challenge, jim-rohn, mentorship, value-exchange, scaffolding, five-sales-mistakes, two-ears-one-mouth, talk-money-early, match-and-mirror, tony-robbins, buyer-types, referral-fee, minimum-level-of-engagement, value-buyer, lead-temperature, hot-warm-cold-leads, russell-brunson, cold-outreach, dm-outreach, lumpy-mail, allan-dib, praise-first, trust-your-struggle, listen-to-understand, human-tape-recorder, presence, jonathan-stark, deposit-first, accusation-audit, chris-voss, never-split-the-difference, u-turn, say-it-first, consultative-selling, therapist-frame, lion-and-sheep, silence, stop-selling-start-closing, count-to-20, sales-acronym, if-then-close, fiduciary, kevin-daley, dream-date, robot-vs-monkey-brain, no-brainer, one-result, competitive-lock, client-retention, zig-ziglar, sales-timeline, proposal-vs-contract, signed-contract, lead-qualification, matchmaker-frame, last-chapter, honesty-raises-esteem, curse-of-knowledge, ask-small-questions, empathy-exercise, patience, honest-vs-polite, have-to-get-to, non-violent-communication, emotional-neutrality, meeting-etiquette, shadow-the-boss, ask-before-ready, junior-listen-take-notes, free-work, trade-up, marketing-expense, pro-bono, errol-gerson, dont-negotiate-against-yourself, trust-ladder, just-ask-them, consistency-principle, symmetry-of-logic, forcing-acknowledgment-question, agree-then-find-the-gap]
 ---
 
 # Sales & Clients — hub
@@ -2228,6 +2228,426 @@ practical companion to §39's listen-to-understand and human-tape-recorder drill
 
 ---
 
+## 42. The SALES acronym, in full — the 2020 articulation + the "if-then" close (2020-07-20)
+
+From "How to Sell Without Being Salesy — Sell Like Crazy" (2020-07-20)
+[[wiki/sources/2020-07-20-yt-my_p1fDOz00]] — a solo Chris Do monologue (the opening Google
+Ads segment is a sponsor read, excluded). This is the **fullest early articulation of the
+SALES = Serve, Ask, Listen, Empathize, Summarize framework**, and it deepens each letter
+well beyond the compact §1 treatment.
+
+> ⚠️ Date precedence: §1 dates the SALES acronym to the 2023-12-23 keynote
+> [[wiki/sources/2023-12-23-yt-B-NxAZiDkKo]]; this 2020-07-20 clip states the identical
+> five-word framework (Serve · Ask · Listen · Empathize · Summarize) **three-plus years
+> earlier**, with the same source authorities (Bungay Stanier, Chris Voss). The acronym is
+> not a 2023 invention. Also: §1 attributes "full-value listening" to "Kevin Dy"; this
+> source names **Kevin Daley** (*Socratic Selling*) — the correct spelling.
+
+The per-letter depth (2020-07-20, paraphrase unless quoted):
+- **Serve like a fiduciary** — "It's not about what you get but what you give… another way
+  of thinking about this is to act like a fiduciary" (taking care of someone else's money,
+  acting in their best interest).
+- **Ask — the question-type hierarchy.** "Silence the advice monster" (Bungay Stanier).
+  Best questions start with **"what"** (neutral, unbiased); "how" rushes to tactics; "why"
+  can sound accusatory. Favorite: "What's the real challenge for you?" — because the first
+  problem stated is usually a smokescreen.
+- **Listen** — "Listening is your competitive advantage." Small affirmations ("mm-hmm"),
+  take notes "like a reporter" (preferred over constant eye contact), and mirror the last
+  few words.
+- **Empathize** — help the client relive the pain, focus on the feeling not the solution;
+  use **labeling** (Chris Voss) with the stem "it sounds like…"
+- **Summarize** — play it back ("If I understand you correctly… is that correct?"), then
+  "is there anything else?" — "A tape recorder records everything… but understands nothing."
+
+> ⚠️ CONTRADICTION (best question word): here "what" is the best, neutral question and
+> "why… can sound accusatory" (2020-07-20). But §2 calls **why** the best question ("the
+> best question is why," 2019-04-12 [[wiki/sources/2019-04-12-yt-ivKnj9ffcmE]]) and §35
+> ranks **why > how > what** by value (2019-01-28). The two positions genuinely conflict on
+> which word to lead with; the implied reconciliation is tonal — "why" reaches the deepest
+> root (§2) but mishandled sounds like an interrogation, so in a cold opening the safer
+> neutral opener is "what." Read the three sections together.
+
+**The conditional "if-then" close** (2020-07-20) — genuinely new mechanic: because deciding
+means "to kill" / eliminate possibility, clients fear it, so lower the stakes with small
+hypothetical commitments. "If is safe, it's hypothetical, it requires low commitment." The
+worked ladder: "If a vendor could ensure a website that increased conversion from 2 to
+4%… you'd consider this a home run?" → "If we submit a proposal for $65,000 by end of
+business, then you're ready to move forward next week — is that correct?" (This is the
+mechanism behind §1's "confidence close" hypothetical and pairs with §3's anchoring.)
+
+The "decide = to kill / eliminate possibility" folk-etymology (2020-07-20) recurs in the
+2021 trust clip (§47) — a stable Chris framing, not a one-off. Recommended reading he cites:
+*Socratic Selling* (Daley), *Never Split the Difference* (Voss), *The Coaching Habit*
+(Bungay Stanier).
+
+---
+
+## 43. Saying NO to unpaid overtime — the full technique stack (2020-07-30)
+
+From "Bad Bosses — How To Say No To Unpaid Overtime (Role-play)" (2020-07-30)
+[[wiki/sources/2020-07-30-yt-hYxGucOGIL0]] — Chris voices BOTH the employee "Chris" and the
+toxic boss "Greg" (both sets of in-character lines are *illustrative, not persona data*);
+only the debrief coaching trains the persona. This is the **fuller, technique-named**
+version of the §21 boundary role-play (2018-01-23): same scene, but here Chris narrates the
+negotiation moves he is deploying.
+
+The technique stack (2020-07-30, paraphrase unless quoted):
+- **Disarm with a smile** — it changes your tone so the ask sounds non-confrontational.
+  "The minute that you start to say something aggressively, the other person has no choice
+  but to respond aggressively, and in this battle they have a lot more leverage than you, so
+  you're going to lose most likely."
+- **Agree first, then find the gap** — "I just agree with them mostly, and then there's
+  usually some gap in their logic." Keep saying "I know, I'm in agreement" until the boss
+  changes the tune (e.g. "everyone's staying till 10") — that shift is where you finally
+  disagree.
+- **Slow down / signal submission** — near-whisper, ask to step aside privately: "I'm
+  saying you are in control… I'm actually being submissive in this moment" — which lowers
+  the temperature.
+- **The consistency principle (Cialdini)** — "One of the most powerful forces in people is
+  the need to be consistent." They agreed to an eight-hour day, so restate the original
+  terms and make it hard for them to now redefine it. (Same Cialdini lever as the §10
+  embrace-and-pivot "consistency trap," applied to an employer instead of a prospect.)
+- **Force an acknowledgment with a question you already know the answer to** — the distinct
+  move: don't assert your value, ask it out of them. "Rather than me saying what it is I
+  want to say, I'm going to ask a question to force the boss to come into agreement or not —
+  and the question is, do you like the work that I'm doing?" You already know the answer is
+  yes (or the conversation would be about performance, not overtime); once they admit it,
+  they must capitulate.
+- **"Symmetry of logic"** (his term) — "If you want to work for free… that is cool — but I
+  do have plans, sir." Let others make their choice while asserting your equal right to a
+  different one. (Same "symmetry of logic" device Chris later applies to price in §4d,
+  2023-10-19.)
+
+Framing he endorses: "I gave you a solid nine-hour day for an eight-hour quote"; extra time
+is available only at extra cost; scope overruns from how the company *bid* the job are "not
+my mistake to pay for." The boss is "making their problem my problem." Protecting your own
+time matters "regardless if you have legitimate plans or not" — the agreement is a bond both
+sides made. Occasional agreed extra effort is fine; it must not become default company
+policy. Extends §21 and §12's non-neediness leverage into the employment/scope-creep context.
+
+---
+
+## 44. Getting to YES — the "dream date" role-play (2020-09-09)
+
+From "How To Talk To Clients & Get To Yes: Role-play w/ Melinda Livsey" (2020-09-09)
+[[wiki/sources/2020-09-09-yt-McXma1l0FL8]] — *Chris = vendor, Melinda = client (context);
+Mo = student debriefed (context).* Only Chris's real debrief coaching trains the persona;
+role-play lines are illustrative. A discovery-to-close role-play (micro-content editing for
+a creator) that yields several new named frames.
+
+- **The "dream date" discovery frame** (2020-09-09) — the signature new metaphor: don't
+  project your ideal onto the client; ask them to describe *theirs*. Pitch your own fantasy
+  date (expensive wine, ribeye) and you find out too late "I'm a vegan / there's alcoholism
+  in my family — I made it all about me." Instead: "tell me what your ideal date looks
+  like," then design the engagement around exactly that.
+
+> "I would say, tell me what your ideal date looks like… So all I want to do is find out
+> what makes her happy, and then design the conversation around giving her exactly that."
+> (2020-09-09)
+
+- **"Robot brain vs. monkey brain"** (2020-09-09) — new: reading an "invisible script" in
+  your head instead of being present is *robot brain*; "A child could read a script, call
+  centers read scripts, and they're not paid a whole lot." Be human and present (*monkey
+  brain*) — "In my mind I'm just sitting here thinking, what would make Melinda really
+  happy?" The words may come out weird or out of order; it doesn't matter if the intention
+  is right.
+- **Clients prescribe a solution but care about one result** (2020-09-09) — "they may say
+  make us 45 things, make us 200 logo sketches, but at the end of the day they care about
+  one result." Spend the start of the call finding that one result, write it down, and
+  mirror it back. (Sharpens §2 use-their-words and the §39 human-tape-recorder drill.)
+- **Surface contradictions subtly, don't argue** (2020-09-09) — when her prescription
+  (volume: five cuts/week) contradicted her stated goal (reach/engagement), Chris reflected
+  it back ("so you just need someone to edit and cut it down, right?") — "a very subtle way
+  to call into contradiction" so she resolves it herself.
+- **"What would make this a no-brainer for you?"** (2020-09-09) — the outcome-eliciting
+  close he leans on ("what matters to you," "what's a home run look like," "how do I make
+  this a no-brainer"); the goal is "to remove barriers to her saying yes."
+- **Scope DOWN to serve the goal** (2020-09-09, illustrative) — rather than 5 cheap cuts a
+  week, propose 2–3 so you can add real value; reframes the client from "hiring an editor"
+  to "a partner working toward the goal." Pairs with the §36/§44 MLE ($2,500/month) and the
+  collaborative, budget-anchored pricing in [[wiki/topics/pricing/pricing]].
+
+---
+
+## 45. Don't take clients for granted — the "competitive lock" retention thesis (2020-09-11)
+
+From "Don't Take Your Clients For Granted" (2020-09-11)
+[[wiki/sources/2020-09-11-yt-niLFpa8cyb4]] — a team-hosted Q&A (framing by Jayden/Jonah is
+*context*); substantive claims are Chris first-person. A distinct **retention** angle (most
+of the hub is acquisition/closing): the risk isn't losing the pitch, it's losing a client
+you already have.
+
+- **Doing the minimum gets you paid the minimum "the rest of my life."** Being reduced to
+  "hands" / a "production robot" is dehumanizing when you believe in the work; cites **Zig
+  Ziglar**: "if you do more than what you're paid to do, eventually you'll be paid more than
+  what you do." Showing up intending to do the minimum = "I've already decided I'm going to
+  self-sabotage this relationship." (2020-09-11, quote + paraphrase)
+- **A client engagement IS a relationship** — "It's platonic, but it's the relationship, and
+  people still need to feel like you care about them and that you have their best interests
+  at heart." The neglected-partner analogy: take a good partner for granted (make them wait,
+  belittle them) and you leave "the door open" for someone kinder to walk in. (2020-09-11)
+- **The competitive-lock thesis** (the quotable core, 2020-09-11):
+
+> "If you don't have a great relationship, an unbreakable relationship, an unfair
+> competitive lock on it, somebody like me who's really interested in your client and talks
+> to them the way they need to be talked to could probably steal your client and charge
+> more." (2020-09-11)
+
+A rival's client list is usually public on their website; the only defense against a caring
+competitor is to **strengthen the relationship** — learn to talk about the client's
+business and build rapport — "that's the unfair competitive lock." The same
+"what-would-make-them-happy / no-brainer" discovery posture as §44 (both are the same
+2020-09 Melinda-era material). Complements §8/§27/§30 (client selection) with the retention
+counterpart.
+
+---
+
+## 46. When to send a proposal — the sales timeline & proposal-vs-contract (2020-09-30)
+
+From "When To Send A Proposal?" (2020-09-30) [[wiki/sources/2020-09-30-yt-f66Ydq-xtss]] —
+solo Chris Do monologue (the "Perfect Proposal" plug at the end is promotional). Maps the
+full path from inquiry to project start and pins the answer: **propose only after the lead
+is qualified AND the client has verbally agreed to at least a price range.**
+
+- **The sales timeline** (2020-09-30, framework): **inquiry → qualify the lead → confirm
+  budget → send proposal → signed contract → start the project.** "Proposing too early can
+  wind up in disaster, and you definitely don't want to propose too late."
+- **The four lead-qualification criteria** (2020-09-30): (1) a problem you can solve, (2)
+  they can afford you (budget), (3) a timeline of need / deadline, (4) mutual desire to work
+  together (ethically and personally). A vague timeline ("maybe next quarter") is a red flag
+  — "run," or nail it down. Desire is two-way: "if a client is already a pain before any
+  money changes hands," ask whether you want that paid. (Sharpens §9's qualification triad
+  by adding *timeline* and making desire mutual.)
+- **The sales cycle scales with budget** (2020-09-30) — bigger budget, longer cycle; the
+  $250,000 logo job The Futur closed in 2017 "took six months to close."
+- **Confirm price before you write the proposal** (2020-09-30) — the core repeat, sharply
+  put: "make sure that you talk about price before you put together a proposal… otherwise
+  you're just guessing, and you don't want to guess." Script: "typically… I've seen these
+  projects between [X] and [Y] — does that range work for you?" If money-talk is
+  uncomfortable, "practice… until it becomes muscle memory." (Restates §15
+  confirm-before-you-propose and §35 talk-money-early.)
+- **Proposal vs. contract** (2020-09-30) — new distinction. A **proposal** is a sales /
+  negotiating tool meant to impress (company info, problem summary, cost, timeline, process
+  snapshot). A **contract** is the legally binding agreement (offer term, change policy,
+  client responsibilities, **right to reproduce**, warranties, liability, dispute
+  resolution, termination, **IP/ownership**, scope, fees, payment terms). "Just because they
+  agreed to get married doesn't make them married" — a **signed contract** is the step
+  people forget between proposal and project. Right-to-reproduce and IP are what creatives
+  "skip every single time," and both are massive; the contract's real value is forcing those
+  conversations (revision rounds, ownership) up front, not courtroom enforceability.
+
+> ⚠️ ATTRIBUTION (companion clip): a same-era Q&A, "Run If You See THESE Red Flags!"
+> (2020-10-12) [[wiki/sources/2020-10-12-yt-IXO3jaNYpoQ]], covers similar lead-qual
+> red flags and recommends sending a reusable **capabilities deck** (with wide price ranges,
+> e.g. "logo 15–35k") to price-fishers instead of a bespoke proposal — but it is presented
+> by an **unnamed Futur team member, NOT Chris** (who is referenced in the third person).
+> Included as team/context doctrine only; it must **not** train the persona.
+
+See [[wiki/topics/pricing/pricing]] for the budget-confirmation and payment-terms detail.
+
+---
+
+## 47. Seven ways to build & earn trust in five minutes (2021-01-14)
+
+From "7 Ways To Build & Earn Trust In 5 Minutes" (2021-01-14)
+[[wiki/sources/2021-01-14-yt-sD3eS0XYl1I]] — Chris solo, using a boot-/house-buying analogy
+(a participant "Kyle" and his broker "Robert" are *context*). A named, enumerable
+trust-in-the-sales-conversation framework. The through-line: **trust comes from making the
+other person feel heard.** (2021-01-14, paraphrase unless quoted)
+
+1. **Build a shared vocabulary; don't weaponize the "curse of knowledge."** Creatives learn
+   coded critique language then resent a first-time client who "can't just tell me what they
+   want." Help the client build accessible vocabulary instead — "Communication isn't about
+   the words you use but finding that common ground with somebody."
+2. **Ask questions to find what matters to them** (needs, constraints, past experience,
+   budget).
+3. **Confirm what you heard** — reflect it back, "here's what I heard you say, is this
+   correct?" His psychologist friend's line: the main objective of any interpersonal
+   communication is to acknowledge and understand the other person.
+4. **Ask *small* questions; keep decisions small to reduce risk** — the freshest tactic: big
+   binary choices make people freeze; little questions lower the stakes and signal you're
+   paying attention — "that's customer service right there."
+5. **Match against what you can do — and be willing to say "I don't know" or refer out** —
+   "There's a lot of power in saying 'I don't know.'"
+6. **Be honest and transparent** — "It's the people who are evasive and opaque" that make
+   others uneasy: "what's happening behind these eyes, I don't know."
+7. **Be patient; you don't need to close now** — "take as much time as you need… let me know
+   when you're comfortable. These things build trust."
+
+**The empathy exercise** (2021-01-14, closing practice): on every such question, put yourself
+in the other person's shoes, recall a positive or negative experience of your own, and
+extract the lesson — "then you could become a student of life."
+
+The "decide has -cide / to kill → people struggle to decide" folk-etymology recurs here (also
+§42, 2020-07-20). Tactics 3–5 restate the §2 mirror-back / §35 stay-neutral / §36 refer-out
+threads; the **ask-small-questions-to-reduce-risk** move and the empathy exercise are the new
+contributions. (Source flags this as an L3-candidate for a client-communication/trust page.)
+
+---
+
+## 48. Honest vs. polite — non-violent communication & the "get to / have to" reframe (2021-01-05)
+
+From "Should You Be Honest Or Polite When Talking To Clients" (2021-01-05)
+[[wiki/sources/2021-01-05-yt-FxC114VZBzs]] — Chris mentoring "Mo" (mentee lines are
+*context*). Chris's stance on how to be truthful without being rude.
+
+- **Politeness is often fakeness** — "Most of the times when you're being polite you're being
+  fake." Aim to be *respectful* and *truthful* instead: "The opposite of impolite is not
+  necessarily polite, it's just truth." You can deliver hard feedback respectfully without
+  being personal or rude (don't "pull a Gordon Ramsay"). (2021-01-05)
+- **The "have to / get to" language reframe** — "You never have to do anything you want to
+  do, you get to." Saying "I *have* to talk about pricing" reveals you see it as a burden;
+  reframe to "I *get* to," or better, "it's essential for both of us." "Your language
+  betrays you, your word reveals your truth." Applies to everything from a sales call to
+  chores. (2021-01-05)
+- **Set expectations openly and vulnerably** — on a sales call, tell the prospect up front
+  that you like to befriend clients, that you don't love talking about money but know it's a
+  necessity to test fit, and you're fine just grabbing coffee if you're not aligned. Naming
+  it means "nothing feels like a surprise." (2021-01-05) (Complements §35 talk-money-early
+  and §49's "put it all on the table" opener.)
+- **Say what you think — in non-violent terms, as an equal** — his coach's best advice was
+  "say what you think"; the essential second half is "learn how to say what you think in
+  non-violent terms without judgment. I'm not holding the superior ground to anybody, I
+  arrive as an equal." Change starts internally — "that begins with the conversation you have
+  with yourself. You're using violent language inside your own mind." (2021-01-05)
+- **Aim for emotional neutrality** — "I don't want it and I don't not want it. I want to be
+  as neutral as possible so I can see things for the way they are." You can't fake warmth
+  convincingly anyway ("you're not that good of an actor"). (2021-01-05) (The internal twin
+  of §25/§18 "control energy to neutral" and §41's self-restraint.)
+- **Politeness can *hurt* the other person** — "by being polite and nice I've actually hurt
+  the business owner more" (never complaining means they never get to fix the problem); the
+  same logic applies to withholding honest feedback on creative work. (2021-01-05)
+
+---
+
+## 49. Budget-timing role-play — the matchmaker frame & "read the last chapter first" (2020-12-23)
+
+From "When to Discuss Budget During a Sales Call — Role Play" (2020-12-23)
+[[wiki/sources/2020-12-23-yt-oOKgc-bvX7o]] — *Chris = "Mo 2.0" (salesperson); Mo = prospect
+"Christina" (context); host Jonah = context.* Prompted by Mo's real failure: when he
+surfaced price up front the prospect accused him of "all you want to know is the money."
+Chris shows how to surface budget early **without sounding greedy**, then debriefs on why
+radical directness reads as *more* trustworthy.
+
+- **You need to know *enough*, not everything, before quoting** — "I don't need to know
+  everything, I just need to know enough." Listen just long enough to understand the shape of
+  the work, then float numbers. (2020-12-23)
+- **Ask permission to "float some numbers"** — frame it as protecting the client's time:
+  "what I don't want to do is to have this really long protracted conversation… only for both
+  you and I to realize that as much as we love each other we can't tie the knot because you
+  can't afford it." Then a hedged broad ballpark ("Don't hold me to this… it could be as much
+  as forty thousand… at the low end probably like 18,000"). (2020-12-23) (Sharpens §15's
+  float-numbers move with a permission step.)
+- **When budgets don't align, name it plainly and refer honestly** — to a ~$2,500 prospect:
+  "There's a misalignment between your expectations and what it costs… to get a creative
+  human to do this work." He won't discount into it, points them to real alternatives
+  (bootstrap, templates, Fiverr) rather than fake a referral, and even says "if it works out
+  for you please tell them to call me because I'd like to hire them too." (2020-12-23)
+- **The matchmaker frame** (new positioning, 2020-12-23) — position yourself as neither
+  seller nor buyer but a **matchmaker** who happens to be one option: "I just happen to be
+  one of your options, but I just want to make sure you find the best option for you."
+  Designing brands *is* matchmaking (brand to audience; scope/price to the right vendor).
+- **"Read the last chapter first"** (new metaphor, 2020-12-23) — talking budget first is like
+  reading a book's last chapter: once you know how it ends (can they afford it), there's no
+  point performing chapters 1–12. A clean opener: tell the client up front "we're going to
+  get to scope and budget and you'll have a reaction — should we just get to that part
+  first?"
+- **Radical honesty raises perceived professionalism** (the debrief insight, 2020-12-23):
+  "We think if we postpone the point of conflict… we're going to be perceived in higher
+  regard, but in actuality we're… being lowered in esteem, because [they] feel… you have
+  something to hide." / "I'm only not being human if I'm lying to you." Be "direct more so
+  than polite." (Ties directly to §48's honest-vs-polite and §46's confirm-budget-first.)
+
+---
+
+## 50. Meeting etiquette for juniors — listen, observe, take notes (2021-01-26)
+
+From "What To Say In A Meeting" (2021-01-26) [[wiki/sources/2021-01-26-yt-wW7duEovGJM]] —
+Chris coaching an unfulfilled full-time designer who craves client contact (mentee lines are
+*context*; Matthew Encina outro = promo). A counter-intuitive stance on the junior's role in
+a client meeting.
+
+- **In a choreographed high-stakes meeting, a junior's job is to LISTEN, not contribute**
+  (2021-01-26) — "The more money on the line, the more choreographed" the meeting; everyone
+  knows the flow, and a newcomer changing it can hurt. "They do not bring you in the room to
+  win the business, to save the company, to respond to a client objection, or to offer up
+  unsolicited ideas." Offering an unsolicited idea unprompted "could end your job."
+- **Default to listening when you don't know what you're doing** — "When you don't know what
+  you're doing, you should default to listening." The quiet person you think is "the weirdo
+  on the call" is actually the smart one — "listening, watching, taking notes, and being of
+  service to the people who brought you in the room."
+- **Take amazing notes, then send an organized summary** — the single best contribution: the
+  to-dos, what was agreed, who said what, plus a thank-you for being included. "The best
+  thing that you can do in these kinds of meetings is just to take amazing notes."
+- **Ask to "shadow" the boss — and ask before you're ready** — "Next time we do a client
+  meeting, would it be okay if I just shadow you?" — "You do what shadows do, which is to
+  follow." Ask early so they know your intention, even though the chance may take "days,
+  weeks, months, or years." (Same ask-small / scaffold-up instinct as §33's mentor approach.)
+
+A distinctive addition to the hub's meeting-conduct material: where §11/§18 cover how *Chris
+the seller* runs the room, this covers how a *junior* should behave when they're not the one
+selling.
+
+---
+
+## 51. Free & reduced-rate work — three honest reasons + "trade up" (2021-01-12)
+
+From "How To Get Attention In The Market" (2021-01-12)
+[[wiki/sources/2021-01-12-yt-0nVNU5GFhm8]] — Chris to a live audience of anxious design
+students; solo, all trainable. (The content-strategy/audience-building material lives in
+[[wiki/topics/content-strategy/content-strategy]]; the sales/free-work material is here.)
+
+- **Three honest reasons to do free work — don't mix them up** (2021-01-12): (1) a
+  **marketing expense** to "trade up" to a bigger relationship/brand, (2) a **feel-good /
+  good-cause** project, or (3) not knowing how to negotiate and accepting any terms. **Only
+  the last is the bad reason.** "I'm not looking at this as a business transaction anymore,
+  I'm looking at this as a marketing expense… I'm a big believer in the up principle. I want
+  to trade up." He budgets for it (e.g. ~10% of annual revenue on marketing).
+- **Make the real market value explicit** (2021-01-12) — on below-rate/pro-bono work, state
+  the true value; clients appreciate it, and for non-profits a letter stating market value
+  (his example: $45,000) can be a tax deduction, so you still capture value. **Ask for
+  concessions/introductions** in exchange (e.g. intros to wealthy patrons) — "they won't
+  offer unless you ask."
+- **Anti-desperation** (2021-01-12) — "when you're really desperate you do desperate things
+  and people could smell it on you… a mile away." (Restates §12/§34's don't-be-needy.)
+- **Don't negotiate against yourself** (2021-01-12) — "Don't negotiate against yourself
+  before the client has an opportunity. Let them do their job so they can feel good about it
+  as well." (Restates §17's abundance stance from the pre-emptive-discount angle.)
+- **"Stand out by one-eighth of an inch"** (2021-01-12, credited to Art Center professor
+  **Errol Gerson**) — a small differentiation is enough to be remembered; people end up
+  working with The Futur because they made "just enough effort" to reach out and keep a
+  genuine dialogue. (Same idea as §38's "half an inch to stand out," 2019-04-23 — Chris uses
+  both figures.)
+
+See [[wiki/topics/pricing/pricing]] for the marketing-expense budgeting angle.
+
+---
+
+## 52. Great clients are earned one job at a time — the trust ladder (2020-12-29)
+
+From "How To Get Great Clients — Build Better Relationships On Trust" (2020-12-29)
+[[wiki/sources/2020-12-29-yt-e17ZASTRBGg]] — Chris solo, direct-to-camera. Not a new *method*
+(it reinforces the §2 listening/discovery-over-assumption doctrine), but it supplies a crisp
+**trust-ladder** restatement worth citing.
+
+- **A great client is not one who lets you do whatever you want** — it's a relationship
+  "developed over time — little bits of trust is given, earned, and then amplified over
+  time." The apex: "a great client calls you up first before they make any decision, without
+  talking to anybody else, for projects that are much bigger than what you are capable of
+  doing… that is earned one job at a time." (2020-12-29) (The relationship counterpart to
+  §45's competitive-lock retention thesis.)
+- **The core failure is not listening** — "Most of the times you're not even listening to the
+  client. You're making a lot of assumptions" on vague, abstract briefs ("organic," "simple,"
+  "modern"), then filtering through your own genius and presenting something the client never
+  saw coming. (2020-12-29)
+- **"Just ask them"** — his business coach's fix, which Chris first resisted: "I thought it
+  was just cheating. I thought it was robbing me of this thing." Grounds it in the golden
+  rule (from his father) and the design-school gap: "We aren't trained to ever talk to the
+  client to extract this from them, so it's a totally foreign process." (2020-12-29) (Echoes
+  §2 discovery, §31's foreign-idea thesis, and §27's strategist reframe.)
+
+---
+
 ## Cross-links
 
 - [[wiki/topics/pricing/pricing]] — value-based pricing, the desired-future-state → value
@@ -2345,8 +2765,39 @@ practical companion to §39's listen-to-understand and human-tape-recorder drill
 - [[wiki/sources/2020-04-01-yt-01UOEz1Ed4M]] — The Best Sales Technique / Talk Less Listen More
   (2020-04-01) — selling-as-therapy, lion-and-sheep, "what compels you to open your mouth?",
   stop-selling-start-closing, count-to-20; *Pro Group members = context.*
+- [[wiki/sources/2020-07-20-yt-my_p1fDOz00]] — How to Sell Without Being Salesy (2020-07-20) —
+  the full SALES acronym (Serve/Ask/Listen/Empathize/Summarize), what>how>why question types,
+  fiduciary-serve, labeling (Voss), the conditional "if-then" close, "decide = to kill."
+- [[wiki/sources/2020-07-30-yt-hYxGucOGIL0]] — Say No To Unpaid Overtime role-play (2020-07-30) —
+  disarm-with-a-smile, agree-then-find-the-gap, consistency principle, forcing-acknowledgment
+  question, "symmetry of logic"; *both role-play characters = illustrative.*
 - [[wiki/sources/2020-08-19-yt-EeBfMUD7j60]] — Use This Sales Technique (2020-08-19) —
   the Eight Mile Principle, safe-choice positioning, the pivot.
+- [[wiki/sources/2020-09-09-yt-McXma1l0FL8]] — Get To Yes role-play w/ Melinda (2020-09-09) —
+  "dream date" discovery, robot-vs-monkey-brain, one-result, mirror-exact-language,
+  "no-brainer," scope-down-to-serve; *Melinda/Mo = context.*
+- [[wiki/sources/2020-09-11-yt-niLFpa8cyb4]] — Don't Take Your Clients For Granted (2020-09-11) —
+  competitive-lock retention thesis, engagement-is-a-relationship, Zig Ziglar; *Jayden/Jonah = context.*
+- [[wiki/sources/2020-09-30-yt-f66Ydq-xtss]] — When To Send A Proposal? (2020-09-30) —
+  the sales timeline, 4 lead-qual criteria, cycle-scales-with-budget, proposal-vs-contract,
+  signed-contract step.
+- [[wiki/sources/2020-10-12-yt-IXO3jaNYpoQ]] — Run If You See THESE Red Flags! (2020-10-12) —
+  lead-qual red flags, capabilities-deck-not-proposal; *unnamed Futur team member, NOT Chris = context.*
+- [[wiki/sources/2020-12-23-yt-oOKgc-bvX7o]] — When to Discuss Budget role-play (2020-12-23) —
+  matchmaker frame, "read the last chapter first," permission-to-float-numbers,
+  honesty-raises-esteem; *Mo/Jonah = context.*
+- [[wiki/sources/2020-12-29-yt-e17ZASTRBGg]] — How To Get Great Clients (2020-12-29) —
+  trust-ladder (earned one job at a time), listening-over-assumption, "just ask them."
+- [[wiki/sources/2021-01-05-yt-FxC114VZBzs]] — Honest Or Polite With Clients (2021-01-05) —
+  politeness=fakeness, have-to/get-to reframe, non-violent communication as an equal; *Mo = context.*
+- [[wiki/sources/2021-01-12-yt-0nVNU5GFhm8]] — How To Get Attention In The Market (2021-01-12) —
+  three honest reasons for free work, trade-up/marketing-expense, don't-negotiate-against-yourself,
+  "1/8-inch" differentiation (Errol Gerson).
+- [[wiki/sources/2021-01-14-yt-sD3eS0XYl1I]] — 7 Ways To Build & Earn Trust In 5 Minutes (2021-01-14) —
+  shared-vocabulary/curse-of-knowledge, ask-small-questions-to-reduce-risk, refer-out, patience,
+  the empathy exercise.
+- [[wiki/sources/2021-01-26-yt-wW7duEovGJM]] — What To Say In A Meeting (2021-01-26) —
+  junior's job is to listen/observe/take-notes, ask-to-shadow, ask-before-you're-ready; *mentee = context.*
 - [[wiki/sources/2023-10-19-yt-Abi8kwkfZbA]] — Don't Justify Your Prices (2023-10-19) —
   symmetry of logic, have-to-have vs. nice-to-have.
 - [[wiki/sources/2023-12-23-yt-B-NxAZiDkKo]] — The Kind Way to Sell / SALES keynote

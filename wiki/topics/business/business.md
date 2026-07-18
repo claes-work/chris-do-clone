@@ -4,7 +4,7 @@ domain: business
 domains: [business]
 created: 2026-07-14
 updated: 2026-07-18
-tags: [business, entrepreneurship, scaling, agency, delegation, positioning, money, mission, reading-list, culture, design-education, cash-flow, referrals, business-development, curiosity-selling, autonomy, mentorship, pro-bono, conscious-capitalism, giving, freelancers, margins, maker-mindset, entrepreneurial-mindset, process-codification, quality-threshold, student-debt, documentation, freelance-transition, arbitrage, passive-income, runway, company-culture]
+tags: [business, entrepreneurship, scaling, agency, delegation, positioning, money, mission, reading-list, culture, design-education, cash-flow, referrals, business-development, curiosity-selling, autonomy, mentorship, pro-bono, conscious-capitalism, giving, freelancers, margins, maker-mindset, entrepreneurial-mindset, process-codification, quality-threshold, student-debt, documentation, freelance-transition, arbitrage, passive-income, runway, company-culture, promotability, bottom-up-management, innovation, white-space, royalties, licensing]
 ---
 
 # Business — hub
@@ -1152,6 +1152,141 @@ the companion to the runway/worry-date literacy in §8 (there credited to Mike J
 
 ---
 
+## 22. Promotability — the employee side of "become more valuable"
+
+Every other section here is written for the founder; this one flips the lens to the
+**person being delegated to.** From an internal Futur coaching session where Chris coaches
+his own team — who said they want to "move up in the company and become more valuable to
+the whole operation" — by extracting the traits of the people visibly succeeding
+([[wiki/sources/2019-07-16-yt-fAkRgRHRRms]], 2019-07-16). The complement to the autonomy
+pillar in §9 ("give goals, not methods") and the delegation model in §1: this is what the
+*receiving* end must do to earn that autonomy.
+
+- **Do your homework — educated guesses beat stabbing in the dark.** The people who do well
+  "study before they form their opinion, from research and data versus feelings and
+  anecdotes." A viral video isn't luck; it's a series of educated guesses built on knowledge
+  from producing many videos and consulting an advisor. The more information you have, the
+  less random your guess ([[wiki/sources/2019-07-16-yt-fAkRgRHRRms]], 2019-07-16).
+  > "The people who seem to do well do their homework. They study before they form their
+  > opinion — from research and data versus feelings and anecdotes." (2019-07-16)
+- **Self-direction — but aligned with company goals.** The common thread among strong
+  performers: they don't need a conversation about their next move; they go at a steady pace
+  and course-correct if told otherwise. But self-direction alone isn't enough — it must be
+  **in alignment** with the company's goals. The anti-example: bringing in planters and
+  growing "a whole tropical forest in the back room" is self-directed but *unaligned*, so
+  the effort is wasted. Once a goal is clear the valuable person needs no hand-holding to
+  take it across the finish line, but still confirms alignment before running
+  ([[wiki/sources/2019-07-16-yt-fAkRgRHRRms]], 2019-07-16).
+- **Anticipate the next steps.** "The more steps that you can anticipate, the greater your
+  value becomes to whoever you're working with or for." If you must be told every micro-step
+  you've figured out zero; if you see the place needs cleaning, handle it, *then* ask why it
+  keeps getting messy and fix the root cause, you've demonstrated initiative
+  ([[wiki/sources/2019-07-16-yt-fAkRgRHRRms]], 2019-07-16).
+- **Generate the ideas — The Futur runs bottom-up, not top-down.** The valuable person
+  generates the ideas that become the big directives; if you can't, you're stuck waiting for
+  someone to hand you something to jump on. A rare explicit statement of Chris's own
+  management style ([[wiki/sources/2019-07-16-yt-fAkRgRHRRms]], 2019-07-16).
+  > "The way that we want to manage this company is not from a top-down where all the
+  > directives come from me, but a bottom-up style management — the best ideas actually come
+  > from you guys." (2019-07-16)
+- **Synthesis: self-direction *is* leadership.** The traits collapse into one — "taking
+  initiative, thinking about what the problem is, reverse-engineering the solution, and then
+  proposing those ideas to get alignment and clarity. It's really a trait of leadership"
+  ([[wiki/sources/2019-07-16-yt-fAkRgRHRRms]], 2019-07-16).
+- **Client-work parallel — results over process.** The same session ties promotability back
+  to his client philosophy: to minimize revisions you don't run off with the brief — you
+  understand the client's goals, set clear benchmarks, then leave them alone. This is the
+  internal-management restatement of the "understand goals → leave them alone" sales
+  discipline ([[wiki/sources/2019-07-16-yt-fAkRgRHRRms]], 2019-07-16).
+  > "The only thing anybody ever cares about are the results. People are less concerned
+  > about how you did it; they're more concerned that you've got the result that they
+  > wanted." (2019-07-16)
+
+---
+
+## 23. Innovate, don't iterate — the strategy angle
+
+From a short keynote, "Are you Becoming Obsolete?" ([[wiki/sources/2019-09-17-yt-SKlCnawfQQE]],
+2019-09-17). The personal-development / fear angle ("run towards your fear," "failure and
+invention are inseparable twins") belongs to [[wiki/topics/mindset/mindset]]; carried here
+is the **business-strategy** half: how companies and practices stay relevant.
+
+- **Companies that define themselves by *what they do* go obsolete.** Looking to past
+  success to guide future decisions is "a pretty sure-fire way of failure" — what got you
+  here won't get you there. Four one-time category leaders each let past success define them
+  by what they *do* rather than who they are / their purpose, and missed the transformation
+  that was theirs to make: **Western Union** should have invented the internet; **Blockbuster**
+  should have become Netflix; **Tower Records** should have become Spotify; **Kodak** should
+  have been an image-capturing company, not a film company
+  ([[wiki/sources/2019-09-17-yt-SKlCnawfQQE]], 2019-09-17).
+  > "This is about redefining or actually having a clear label as to who you are, what your
+  > mission, your purpose is, and not defining it as to what you do." (2019-09-17)
+- **Find the white space — task / gap / opportunity.** Innovation means finding "white
+  space"; a gap is "a problem that everybody has ignored." His method is an **empathy
+  exercise**: a three-column grid (task / gap / opportunity) done from the audience's point
+  of view — write out a day in that person's life (what they think/feel, say/do, see/hear,
+  hope/fear), find the gap that eases their pain, then write the solution as an *opportunity*,
+  not as "work." This is the market-research method underneath the "stake something in the
+  ground" positioning in §3 and §14 ([[wiki/sources/2019-09-17-yt-SKlCnawfQQE]], 2019-09-17).
+  > "Find the white space and fill those gaps." / "[A gap is] a problem that everybody has
+  > ignored." (2019-09-17)
+- **The Futur's own white space (self-reported origin).** The method applied to himself:
+  YouTube was full of charismatic amateurs who taught without real-world experience, while
+  celebrated award-winning designers had no interest in teaching — the gap was **experienced
+  professionals who would teach.** That gap became The Futur. Grounds the mission in §6 and
+  the education-reform thesis in §10 ([[wiki/sources/2019-09-17-yt-SKlCnawfQQE]], 2019-09-17,
+  `[self-reported]`).
+- **Long-term plans are a fantasy — bias to action.** "Long-term business plans are a
+  fantasy — pick a direction, adjust as you go," because you can't predict market conditions,
+  consumer behavior, the economy, disruption, or competition. His tactic: instead of one
+  12-week project, run **twelve one-week projects** and keep adjusting — "a person who makes a
+  thousand wrong decisions is better off than a person who makes no decision at all."
+  Sharpens the "urgency over patience" success principle in §11
+  ([[wiki/sources/2019-09-17-yt-SKlCnawfQQE]], 2019-09-17).
+  > "Long-term business plans are a fantasy. Pick a direction, adjust as you go." (2019-09-17)
+
+> ⚠️ TENSION (reconciled): "long-term business plans are a fantasy" (2019-09-17) sits against
+> the multi-year framing elsewhere — the "teach 1 billion people" BHAG (§6) and going inbound
+> "once you have a runway to think 3–5–10 years out" (§5). Chris's own distinction resolves
+> it: a long-term **direction / mission / purpose** is essential ("pick a direction"), but a
+> rigid, detailed multi-week/multi-year **plan** is the fantasy, because conditions change
+> faster than the plan. Direction long, plan short.
+
+---
+
+## 24. Royalty & licensing deal structures — sharing risk when the client can't pay full price
+
+From the Young Guns Season 2 coaching call ([[wiki/sources/2019-06-10-yt-eQo2UPIRxZo]],
+2019-06-10). The pricing *mechanics* (value-based bracketing, "say the price like a fact")
+live in [[wiki/topics/pricing/pricing]]; carried here is the **deal-structure / business**
+angle — how to structure a job when the client can't pay the fee outright, and when a royalty
+actually makes sense.
+
+- **Packaging baseline — the fees must be to scale.** A packaging fee can't be dwarfed by the
+  client's own printing costs; there must be scale between the two. A mom-and-pop launching a
+  cereal nationwide for $500 is incongruent — a real packaging job is roughly **$5,000–$20,000**
+  ([[wiki/sources/2019-06-10-yt-eQo2UPIRxZo]], 2019-06-10).
+- **Three fallback structures when they can't pay upfront:** (a) **100% upfront for a ~5%
+  discount**; (b) **installments** — 50% up front / 25% at milestones / 25% on delivery; (c) a
+  **licensing deal** — e.g. **$5,000 plus 2% "of every package you print — not of what you
+  sell, but what you make,"** which shares risk equitably. Note the royalty base is what they
+  *produce*, not what they *sell* — it insulates the designer from the client's downstream
+  sales/marketing failure ([[wiki/sources/2019-06-10-yt-eQo2UPIRxZo]], 2019-06-10).
+- **Royalty leverage only exists when you're irreplaceable.** On "commission," first clarify
+  the client means a **royalty**. You only have royalty leverage when "there's no replacement
+  for you" — Justin Bieber can dictate terms because there's only one. First establish the
+  proper *project* value, then negotiate a share of risk on top. Cross-links the
+  irreplaceability/positioning logic in §3 ([[wiki/sources/2019-06-10-yt-eQo2UPIRxZo]],
+  2019-06-10).
+- **"Designers assume; professionals ask."** Before pricing any of this, ask: how big is the
+  first print run, what does each package cost to print, what happens on a reprint — does the
+  investment make sense for the gain. The diagnostic discipline that mirrors "amateurs give
+  advice, experts diagnose" in §12 ([[wiki/sources/2019-06-10-yt-eQo2UPIRxZo]], 2019-06-10).
+
+Full value-pricing treatment: [[wiki/topics/pricing/pricing]].
+
+---
+
 ## See also
 
 - [[wiki/topics/pricing/pricing]] — value-based pricing, "price the client not the job,"
@@ -1220,8 +1355,17 @@ the companion to the runway/worry-date literacy in §8 (there credited to Mike J
 - [[wiki/sources/2019-03-04-yt-dr0ntxYFEWs]] — "Stop Losing Money – How to Find Your Break
   Even Point" (Errol Gerson=CONTEXT guest; Chris's runway doctrine: charge more → longer sales
   cycles → hold cash; 3-months-peace; $250k deal >1yr), 2019-03-04
+- [[wiki/sources/2019-06-10-yt-eQo2UPIRxZo]] — "Improvement, Accountability & Focus — Coaching
+  Young Guns S2" (royalty vs. licensing deal structures; packaging fees to scale; "designers
+  assume, professionals ask"), 2019-06-10
+- [[wiki/sources/2019-07-16-yt-fAkRgRHRRms]] — "How To Get A Promotion" (promotability traits:
+  educated guesses, aligned self-direction, anticipate steps, generate ideas; bottom-up
+  management; results over process), 2019-07-16
 - [[wiki/sources/2019-08-12-yt-f7T1Zs28Deo]] — "What You Believe Becomes Reality" (AIGA
   2019 keynote; mission / 1 billion), 2019-08-12
+- [[wiki/sources/2019-09-17-yt-SKlCnawfQQE]] — "Are you Becoming Obsolete? Innovate Don't
+  Iterate" (define by purpose not what you do; Kodak/Blockbuster/Tower/Western Union;
+  task/gap/opportunity white-space exercise; long-term plans a fantasy), 2019-09-17
 - [[wiki/sources/2022-12-01-yt-Qn5PPMhHkXM]] — "How I Scaled My Creative Agency To $80M"
   (I do / We do / You do), 2022-12-01
 - [[wiki/sources/2022-12-15-yt-6Thuc_W_dDU]] — "5 Books That Made Me A Millionaire"

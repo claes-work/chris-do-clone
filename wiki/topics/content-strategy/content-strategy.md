@@ -3,7 +3,7 @@ type: hub
 domain: content-strategy
 domains: [content-strategy]
 updated: 2026-07-18
-tags: [content-strategy, audience-building, organic-growth, storytelling, attraction-marketing, permission-marketing, community, movement, give-first, karmic-equity, awareness-funnel, portfolio, show-your-work, process-not-product, youtube-strategy, thumbnails, cold-open, awareness-matrix, niching, differentiation, sell-the-problem, thesis-paper, funnel-math, reciprocity, expert-positioning]
+tags: [content-strategy, audience-building, organic-growth, storytelling, attraction-marketing, permission-marketing, community, movement, give-first, karmic-equity, awareness-funnel, portfolio, show-your-work, process-not-product, youtube-strategy, thumbnails, cold-open, awareness-matrix, niching, differentiation, sell-the-problem, thesis-paper, funnel-math, reciprocity, expert-positioning, audience-vs-customers, true-fans, smallest-viable-audience, youtube-launch, polarizing, public-journaling, feed-vs-stories, earned-followers, learning-styles, teach-while-you-learn, imposter-syndrome, repurposing, lumpy-mail]
 ---
 
 # Content Strategy — hub
@@ -1214,6 +1214,285 @@ sequence a stranger to a buyer with stories and reciprocity. Chris-attributed on
 
 ---
 
+## 23. Customers vs. audience: "all companies have customers, a few have an audience" (2019 — LANDMARK)
+
+Chris's clearest single statement of *why* the give-first machine exists: the goal isn't more
+customers, it's an **audience** — true fans who give their attention freely. Delivered as a
+self-contained talk on a Digital Design Days speaking trip. `[2019-09-09]`
+[[wiki/sources/2019-09-09-yt-zSVlMER-zfE]]
+
+- **The thesis: all companies have customers; a few have an audience.** A customer transacts
+  once and moves on; an audience is a set of *true fans* who enroll in your tribe and evangelize
+  your work — and is far more valuable. `[2019-09-09]`
+  [[wiki/sources/2019-09-09-yt-zSVlMER-zfE]]
+
+  > "All companies have customers; a few companies have an audience." — Chris Do `[2019-09-09]`
+
+- **Why an audience beats customers: paid vs. free attention.** With customers "you have to pay
+  them to pay attention — that's what advertising is"; an audience *happily gives* you their time
+  and attention. `[2019-09-09]` [[wiki/sources/2019-09-09-yt-zSVlMER-zfE]]
+
+  > "If you have customers, you have to pay them to pay attention — that's what advertising is.
+  > Whereas an audience happily gives you their time and attention." — Chris Do `[2019-09-09]`
+
+- **The Futur's success formula — three principles: be consistent, give generously, serve
+  others.** `[2019-09-09]` [[wiki/sources/2019-09-09-yt-zSVlMER-zfE]]
+  1. **Be consistent** — show up every single day doing the thing you think matters without
+     worrying too much about results ("action beats intent"; cites Gary Vaynerchuk's "execution is
+     the game"). (Overlaps the §5 consistency mechanics; here it's one leg of a named triad.)
+  2. **Give generously** — hold nothing back: 100% transparency, be vulnerable, talk about your
+     numbers, "give them a tour of the factory," and "become a documentarian of your own work"
+     (Austin Kleon — restates the §16 documentarian framing). Share the research, references,
+     sketches, and trials of reaching a solution.
+  3. **Serve others** — "stop selling and start celebrating"; be a champion for the people you
+     serve, moving away from a selfish advertising/media mindset.
+
+  > "Be consistent, give generously, and serve others." — Chris Do `[2019-09-09]`
+
+  > "We have to stop selling, we have to start celebrating, and be a champion for the people that
+  > we serve." — Chris Do `[2019-09-09]`
+
+  (Note: "stop selling, **start celebrating**" is a 2019 variant of the §1 "stop selling, start
+  serving" directive.)
+
+- **Smallest viable audience + the market-first inversion (Seth Godin).** Build your first true
+  fans from Godin's "smallest viable audience" — can you pick them out of a crowd, describe them,
+  name their challenges? Then invert the usual approach: instead of designing a solution and
+  hunting for a market, **look for a market, find their problem, and design a solution for them.**
+  `[2019-09-09]` [[wiki/sources/2019-09-09-yt-zSVlMER-zfE]]
+
+  > "This is a fundamentally different approach... this is looking for a market, finding their
+  > problem, and designing a solution for them." — Chris Do `[2019-09-09]`
+
+> Note: the garbled "$50 → $200k in 12 months" line in the source is likely an audience member's
+> testimonial Chris is relaying (attribution uncertain) — NOT his own figures; excluded above.
+
+---
+
+## 24. Starting a YouTube channel from zero: the beginner's launch playbook (2019)
+
+Chris's start-from-zero coaching for launching a channel — the beginner counterpart to the §17
+craft playbook — delivered coaching Melinda Livsey and Raoul (context, not persona).
+`[2019-05-28]` [[wiki/sources/2019-05-28-yt-N3hHRYhQRwo]]
+
+- **Early effort is never wasted — stay nimble.** The first videos aren't "time wasted"; they
+  develop your personality, craft, and ability to listen. Go in with a plan but adapt (Mike Tyson:
+  "everybody has a plan until they get punched in the face") — your "punch" is discovering the
+  audience loves content you didn't plan to make. Ask for comments *with a timestamp* (credits
+  Gary Vaynerchuk) so you know which moment they mean. `[2019-05-28]`
+  [[wiki/sources/2019-05-28-yt-N3hHRYhQRwo]]
+
+- **Beginner video length: 4–9 minutes, front-loaded.** Keep early videos 4–9 min (10 is too
+  long); push past ~9 and half your content may never get watched. **Front-load the value** —
+  wrap knowledge like medicine and "sugarcoat it," telling viewers up front what they'll get. (The
+  "cut to the car chase" open — the §17 cold open — translates per platform: on Instagram it's the
+  caption, on YouTube the title + thumbnail.) `[2019-05-28]`
+  [[wiki/sources/2019-05-28-yt-N3hHRYhQRwo]]
+
+  > "People unfortunately do not tune in for the information — they tune in because of the
+  > personalities and how they connect with you and how relatable you are." — Chris Do
+  > `[2019-05-28]`
+
+- **Personality over information; the entertainment↔education spectrum.** People tune in for
+  *personality*, not information. Education-only content is a trap ("see if you can stay awake");
+  all content sits on an entertainment↔education spectrum — find your spot (Aaron Draplin's
+  Skillshare logo class plays like a documentary; MKBHD and Simon Cade sit chill mid-spectrum, held
+  by who they are). `[2019-05-28]` [[wiki/sources/2019-05-28-yt-N3hHRYhQRwo]]
+
+- **Be polarizing — stand for something.** "Stand for something or you stand for nothing"; be for
+  or against something to incite passion — riding the fence makes people not care. Reveal the
+  hidden 10%. Accept the cost (haters, unsubscribes) — "find your tribe" (some people like ketchup,
+  some mustard). (Sharpens the §17 "point of view + strong emotion" shareability rule into a launch
+  mandate.) `[2019-05-28]` [[wiki/sources/2019-05-28-yt-N3hHRYhQRwo]]
+
+  > "If you have that 10% that you're scared to let the world see, that's the 10% that you need to
+  > make 100%." — Chris Do `[2019-05-28]`
+
+- **Structure the show before the content.** "Think about the show map first, the content second"
+  — a compelling structure fills itself in (like a sitcom once its characters are defined). Having
+  50 topics but no hook/format is the common failure. Format archetypes: co-host **contrast**
+  (define roles, don't echo each other — Odd Couple), pro/con debate, sports-broadcast pair
+  (factual play-by-play + emotional color commentator). A **catchphrase** + clear premise is the
+  pitch (Phil DeFranco); "bits and formats" make any guest work (Jimmy Fallon). `[2019-05-28]`
+  [[wiki/sources/2019-05-28-yt-N3hHRYhQRwo]]
+
+  > "Think about the show map first and the content second." — Chris Do `[2019-05-28]`
+
+- **Study and mimic other creators — it's training.** "Writers need to read, directors need to
+  watch films" — influencers must watch other YouTubers and break down their structure, openings,
+  endings, catchphrases, mannerisms. Chris actively mimics performers (Chris Rock's pacing, Graham
+  Norton's style) as muscle-memory training ("like ballet"). What looks spontaneous is often weeks
+  of work. `[2019-05-28]` [[wiki/sources/2019-05-28-yt-N3hHRYhQRwo]]
+
+  > "The art of being a professional is being able to read something that's premeditated, or to
+  > follow a show structure, and make it look natural." — Chris Do `[2019-05-28]`
+
+- **Lower expectations to zero.** Tell yourself "the first 10 episodes we're gonna be terrible" so
+  you have nowhere to go but up — most people expect to be amazing and get depressed when the
+  numbers disappoint. "Happiness is inversely proportionate to expectations." `[2019-05-28]`
+  [[wiki/sources/2019-05-28-yt-N3hHRYhQRwo]]
+
+---
+
+## 25. The personal-feed doctrine: public journaling, feed-vs-stories, earned followers (2019)
+
+How Chris tells creators to run their *personal* social presence — a companion to the §16
+documentarian mindset — drawn from two 2019 coaching/interview sessions (students and the guest
+photographer are context, not persona). `[2019-08-05]` [[wiki/sources/2019-08-05-yt-5w9Ld8_X5Bc]]
+`[2019-04-02]` [[wiki/sources/2019-04-02-yt-aDLmEezhnG0]]
+
+- **Instagram is optional and a long game.** It's "100% okay" to not have Instagram — you can
+  leave it off a business card. It's a long game; the fantasy that "a couple of beautiful posts"
+  get you hired immediately is the exception, not the rule. Don't force an activity that stresses
+  you out. `[2019-08-05]` [[wiki/sources/2019-08-05-yt-5w9Ld8_X5Bc]]
+
+  > "It's a fantasy to think that you make a couple of beautiful posts and somebody will hire you
+  > right off the bat." — Chris Do `[2019-08-05]`
+
+- **Treat your feed as "public journaling."** Post like a private diary you don't stress about —
+  how you feel, a win, a lesson, something that sparks joy — and don't stress if people don't
+  respond yet. Early in a career it's too soon to declare "this is what I'm all about"; deleting
+  posts you don't like and taking breaks is fine. `[2019-08-05]`
+  [[wiki/sources/2019-08-05-yt-5w9Ld8_X5Bc]]
+
+  > "I want you to look at your Instagram feed... as a form of public journaling. You don't care
+  > what you write in your book — it's for you." — Chris Do `[2019-08-05]`
+
+- **Feed vs. stories doctrine.** The feed/grid is "precious" — curate it to a consistent aesthetic
+  (an editorial eye + consistent tone of voice); **stories** are ephemeral, so use them to
+  experiment and find your voice ("post your weird stuff there and see what resonates").
+  Consistency and experimentation aren't mutually exclusive — consistency means a coherent
+  aesthetic/voice, NOT a split personality. `[2019-04-02]`
+  [[wiki/sources/2019-04-02-yt-aDLmEezhnG0]]
+
+  > "The feed is quite precious... but stories are more immediate, ephemeral, and they disappear —
+  > so if you want to explore your voice, use the stories." — Chris Do `[2019-04-02]`
+
+- **Earned vs. bought followers.** Follower counts are vanity metrics — "a thousand earned
+  followers is better than a hundred thousand bots you bought." Low engagement (200k followers, 16
+  likes) exposes inauthenticity, and brand ambassadors won't touch it. Consistency still decides it
+  — "just because you have one hit doesn't make you the Beatles." `[2019-04-02]`
+  [[wiki/sources/2019-04-02-yt-aDLmEezhnG0]]
+
+- **Reverse-engineer successful accounts into frameworks.** A personal habit: study very
+  successful people — even ones whose work or personality you dislike — and "reverse engineer an
+  abstract framework" from what's working (product-on-white-background → try it yourself). "Success
+  leaves clues" (Jim Rohn) — pick up the clues instead of feeling far behind. `[2019-08-05]`
+  [[wiki/sources/2019-08-05-yt-5w9Ld8_X5Bc]]
+
+- **"Lumpy mail" and the don't-give-a-gift-YOU-like rule.** For outreach, physical "lumpy mail"
+  (credits Allan Dib, *The 1-Page Marketing Plan*) now cuts through digital clutter because people
+  abandoned mail for cheaper channels. But don't give a gift *you* like — that's just a
+  self-promotional piece; give something thoughtful and personal to *them*. What people care about
+  is the effort. `[2019-08-05]` [[wiki/sources/2019-08-05-yt-5w9Ld8_X5Bc]] (Outreach mechanics;
+  fuller treatment in [[wiki/topics/sales-clients/sales-clients]].)
+
+- **The advertising→branded-content shift.** Advertising as a career path is "done"; brands are
+  redirecting huge media-buy budgets from TV into Instagram/influencers/branded content — position
+  yourself as a brand ambassador. "The fall of one Empire means the birth of another."
+  `[2019-04-02]` [[wiki/sources/2019-04-02-yt-aDLmEezhnG0]]
+
+---
+
+## 26. Teach while you learn: share before you're an expert (2019)
+
+Chris's 2019 stance that you should start sharing *before* you feel like an expert — and how to
+design lessons that land. Drawn from a solo talk and a Melinda coaching session (Melinda =
+context). `[2019-08-07]` [[wiki/sources/2019-08-07-yt-Mj1PhPKkERY]] `[2019-06-04]`
+[[wiki/sources/2019-06-04-yt-2ju9b4SgvoQ]]
+
+- **Expertise = life experience + knowledge + skills** — but read strictly (plus the
+  10,000-hours rule) that bar disqualifies almost everyone, so question whether it's really true.
+  The *popular* meaning of "expert" is just "somebody who knows a little more than you," or
+  "somebody able to help another person achieve their best." `[2019-08-07]`
+  [[wiki/sources/2019-08-07-yt-Mj1PhPKkERY]]
+
+  > "An expert is just somebody who is able to help somebody else achieve their best, their
+  > optimum." — Chris Do `[2019-08-07]`
+
+- **The domain-expert shortcut.** When you're not the domain expert, call two or three who are,
+  learn the questions they'd ask a client, and "you become an expert really quick." What you
+  actually master is running **top-level conversations** — you don't need to drill into every
+  detail. Still start somewhere: reading five books on a subject can "shave 14 years of learning
+  down to six." `[2019-08-07]` [[wiki/sources/2019-08-07-yt-Mj1PhPKkERY]]
+
+- **Teach while you LEARN, not what you know.** "Experts don't make great teachers; people who are
+  learning in the journey themselves make the best teachers." He'd rather be Bob Ross (happy trees,
+  bite-size, relatable) than Van Gogh (a master whose method doesn't transfer). The audience "grows
+  up with you," and there's value in "learning along with you and traveling along your side."
+  `[2019-06-04]` [[wiki/sources/2019-06-04-yt-2ju9b4SgvoQ]] `[2019-08-07]`
+  [[wiki/sources/2019-08-07-yt-Mj1PhPKkERY]]
+
+  > "Instead of teaching what you know, teach while you learn — there's a big difference." — Chris
+  > Do `[2019-06-04]`
+
+- **Three learning styles → lesson design.** Design every lesson to hit all three: (1)
+  **high-level** learners (grasp a book from its title/contents — want the top-line concept); (2)
+  **story** learners ("pretty much everybody" — narrative lets you "experience the lesson without
+  the pain"); (3) **kinesthetic** learners (must do it themselves before they'll accept it). So
+  structure each lesson: **state the high-level concept → tell a personal story → give tactical,
+  do-it-yourself steps.** (He self-identifies as a type-1 learner, which makes patiently coaching
+  type-3 learners his growth edge — "I'm the worst kind of teacher.") `[2019-06-04]`
+  [[wiki/sources/2019-06-04-yt-2ju9b4SgvoQ]]
+
+- **Imposter syndrome is theft.** Not wanting to be a "fraud" or "charlatan" is "robbing you" of
+  the ability to help others. Don't posture as the finished expert — say "I'm still figuring it
+  out, but here's what I've got so far... come along on the ride and we'll grow together."
+  `[2019-08-07]` [[wiki/sources/2019-08-07-yt-Mj1PhPKkERY]]
+
+  > "They have a heavy dose of imposter syndrome and they don't want to be some charlatan — but
+  > what you're doing is you're robbing yourself the ability to help other people." — Chris Do
+  > `[2019-08-07]`
+
+- **Don't edit down what you give.** If you've done the reading, "do not edit what you give to the
+  community, to the world, to your clients, to your staff — they will get more than what you think
+  you're giving." That's how you become an expert. `[2019-08-07]`
+  [[wiki/sources/2019-08-07-yt-Mj1PhPKkERY]]
+
+> ⚠️ CONTRADICTION: The 2019 **"teach while you learn, not what you know"** stance (2019-06-04,
+> 2019-08-07) directly contradicts the §3 **"do development in private, teach in public"** rule
+> (2025-05-31), where Chris says to share only what you've *discovered and earned through
+> experience* — "not things you're still in the middle of learning (you may be wrong or change
+> your mind)." The 2019 Chris tells beginners to broadcast the in-progress journey and love being
+> wrong (consistent with §9's "I love to be wrong"); the 2025 Chris tells them to develop privately
+> and teach only the settled result. Plausible reconciliation: the advice is *audience-relative* —
+> a beginner with no reputation should share the journey to grow an audience that "grows up with
+> them," while an established authority (0→5M) protects credibility by teaching only what's earned.
+> Taken at face value, though, the prescriptions point in opposite directions.
+> [[wiki/sources/2025-05-31-yt-RCocxOMQD3M]]
+
+---
+
+## 27. One piece → seven formats: the repurposing pipeline (2019)
+
+The concrete 2019 statement of Chris's content-multiplication engine — the operational counterpart
+to the §12 micro-content "pizza." `[2019-04-24]` [[wiki/sources/2019-04-24-yt-zeE7F1498yw]]
+
+- **Chop one piece into seven formats, reformatted per platform.** Take one long-form piece and
+  "chop it up into seven different ways," giving the audience each in the format they want. Don't
+  cross-post the identical thing — "make it work for its platform." (Same don't-replicate principle
+  as §16, applied here as a multiplication engine rather than a following-etiquette rule.)
+  `[2019-04-24]` [[wiki/sources/2019-04-24-yt-zeE7F1498yw]]
+
+  > "You can take one piece of content and you can chop that thing up into seven different ways and
+  > give it to the audience in the way that they want it." — Chris Do `[2019-04-24]`
+
+- **The pipeline:** record long-form → transcribe → cut the transcript into micro-articles → pull
+  "the craziest line" as a tweet → that tweet + an image becomes an Instagram story. Distributing
+  across formats widens discovery — people find you through unexpected doors (the podcast, a
+  written post, a YouTube channel they didn't know existed). `[2019-04-24]`
+  [[wiki/sources/2019-04-24-yt-zeE7F1498yw]]
+
+  > "If you record long-form content, you have that transcribed, you can cut that down into
+  > micro-articles... the craziest thing that you say gets pulled out, that becomes a tweet, and
+  > that tweet coupled with an image becomes a story on Instagram." — Chris Do `[2019-04-24]`
+
+- **Self-reported result:** this repurposing approach grew his personal following from ~1,500 to
+  almost 60,000 — a 2019 snapshot, consistent with the larger self-reported runs in §5.
+  `[self-reported, 2019-04-24]` [[wiki/sources/2019-04-24-yt-zeE7F1498yw]]
+
+---
+
 ## Sources
 
 - [[wiki/sources/2015-11-29-yt-z7Y9TKfgstE]] — "Is Your Design Resume Still Relevant?" —
@@ -1256,6 +1535,24 @@ sequence a stranger to a buyer with stories and reciprocity. Chris-attributed on
 - [[wiki/sources/2019-04-08-yt-apqbrvu2VlE]] — "How do you find Customers for Your Product?
   (Melinda Ep. 17)" — problem→solution→product cold-lead sequence, story-mining, funnel
   math, expand-the-pool, give-give-give (2019-04-08)
+- [[wiki/sources/2019-04-02-yt-aDLmEezhnG0]] — "Losing A Big Job Was The Best Thing To Happen
+  To This Photographer" — feed-vs-stories, earned-vs-bought followers, advertising→branded-content
+  (2019-04-02)
+- [[wiki/sources/2019-04-24-yt-zeE7F1498yw]] — "How to Make More Content and Reach More People"
+  — one-piece→seven-formats repurposing pipeline (2019-04-24)
+- [[wiki/sources/2019-05-28-yt-N3hHRYhQRwo]] — "Designers Ask How To Start on YouTube" —
+  beginner launch playbook: 4–9 min, front-load, personality>information, polarizing,
+  structure-before-content, mimic, expectations (2019-05-28)
+- [[wiki/sources/2019-06-04-yt-2ju9b4SgvoQ]] — "Build Your Audience and Connect with Them" —
+  three learning styles, lesson design, teach-while-you-learn (2019-06-04)
+- [[wiki/sources/2019-08-05-yt-5w9Ld8_X5Bc]] — "Is Instagram Necessary For Work? (Young Guns 2,
+  Ep 12)" — IG optional, public journaling, reverse-engineer accounts, lumpy mail (2019-08-05)
+- [[wiki/sources/2019-08-07-yt-Mj1PhPKkERY]] — "How To Build Expertise While Learning" —
+  expertise formula, domain-expert shortcut, imposter-syndrome-as-theft, don't-edit-what-you-give
+  (2019-08-07)
+- [[wiki/sources/2019-09-09-yt-zSVlMER-zfE]] — "The Difference Between Good & Great Companies" —
+  customers-vs-audience (LANDMARK), be-consistent/give-generously/serve-others,
+  smallest-viable-audience, market-first inversion (2019-09-09)
 - [[wiki/sources/2020-06-09-yt-ujxvy5NjeRQ]] — "How to Learn Anything (for creatives)" —
   input/output + learn-reflect-implement-share (2020-06-09)
 - [[wiki/sources/2021-07-11-yt-lrM5CRg-O0I]] — "Easy Way To Market Yourself — Tell Your

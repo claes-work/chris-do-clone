@@ -4,7 +4,7 @@ domain: pricing
 domains: [pricing]
 created: 2026-07-14
 updated: 2026-07-18
-tags: [pricing, value-based-pricing, price-the-client, anchoring, anchoring-reversal, verbal-upfront-pricing, discount-for-uncertainty, raising-rates, objection-handling, negotiation, price-bracketing, competitive-positioning, charge-for-discovery, embrace-and-pivot, storytelling, budget-scope-timeline, budget-first, budget-first-vs-relationship, order-taker-vs-advisor, underpricing-signal, resentment-signal, cant-lose-a-job-you-never-had, value-scale-of-questions, discovery-as-a-service, strategy-pricing, get-paid-to-think, price-as-qualifier, double-the-rate-ladder, inputs-vs-outputs, desired-future-state, train-of-thought, feeling-thought-reaction, limbic-brain, price-options, attention-ownership, price-first-scope-after, stop-hourly, socratic-hourly, value-appreciation, scope-creep, separate-service, de-scope, cost-stack, positioning-value, go-to-person]
+tags: [pricing, value-based-pricing, price-the-client, anchoring, anchoring-reversal, verbal-upfront-pricing, discount-for-uncertainty, raising-rates, objection-handling, negotiation, price-bracketing, competitive-positioning, charge-for-discovery, embrace-and-pivot, storytelling, budget-scope-timeline, budget-first, budget-first-vs-relationship, order-taker-vs-advisor, underpricing-signal, resentment-signal, cant-lose-a-job-you-never-had, value-scale-of-questions, discovery-as-a-service, strategy-pricing, get-paid-to-think, price-as-qualifier, double-the-rate-ladder, inputs-vs-outputs, desired-future-state, train-of-thought, feeling-thought-reaction, limbic-brain, price-options, attention-ownership, price-first-scope-after, stop-hourly, socratic-hourly, value-appreciation, scope-creep, separate-service, de-scope, cost-stack, positioning-value, go-to-person, double-dont-inch-up, buyer-decides-fair, charge-more-virtuous-loop, referral-budget-qualification, self-worth-ceiling, education-not-worth, objection-by-inversion, invent-systems, royalty-vs-licensing, packaging-fees, say-it-like-a-fact]
 ---
 
 # Pricing — hub
@@ -1154,6 +1154,135 @@ in-flight free-work grab.
 
 ---
 
+## 28. "Double, don't inch up" — the buyer decides fair, and the charge-more virtuous loop
+
+_Est. 2019-05-06 (Young Guns S2 coaching). Sharpens the doubling rule (§8, §15, §18) with a
+new "don't make incremental jumps" framing, and adds the buyer-decides-fair principle, the
+"skip the theory, master the progression" advice, and the referral-budget pre-qualification._
+
+- **Don't inch up — double.** Going from $600–800 to $1,000 is "only $200 more"; the jump
+  should be to 2K or 3K. "When you make a jump, don't make incremental jumps. Double." "Three's
+  a nice number. It's a magic number." (Restates §8's doubling rule with a fresh anti-incremental
+  emphasis.) ([[wiki/sources/2019-05-06-yt-kY7i_JYNQ3Y]]).
+
+> "When you make a jump, don't make incremental jumps. Double." — Chris Do,
+> [[wiki/sources/2019-05-06-yt-kY7i_JYNQ3Y]]
+
+- **The buyer determines what's fair — you only get to ask.** "The buyer gets to determine
+  what's fair. I get to ask and then they get to determine what's fair." Any transaction is an
+  exchange of value each side weighs differently, so the fair number differs for every client;
+  don't impose your own sense of fairness, beauty, or value — you don't hold "the universal key,"
+  like an auction where the same item is valued differently by each person
+  ([[wiki/sources/2019-05-06-yt-kY7i_JYNQ3Y]]).
+- **The charge-more virtuous loop.** Higher fees buy their own justification: "When you charge
+  more, you can spend more time making it great. When you charge more, you can hire experts to
+  collaborate with you… And if you charge enough, you can hire me to help you." Higher prices let
+  you buy world-class talent (writer, strategist), which makes the work better, which supports the
+  higher price ([[wiki/sources/2019-05-06-yt-kY7i_JYNQ3Y]]).
+- **Skip the value-pricing theory at first — master the progression, then hold the line.**
+  Full value-based pricing is "complicated and hard to implement"; a beginner doesn't need it
+  yet. First master the progression **hourly → deliverable/output-based → project fees**, then
+  simply change your prices and hold the line ([[wiki/sources/2019-05-06-yt-kY7i_JYNQ3Y]]).
+
+  > POSITION NUANCE (not a contradiction): this hub is built on value-based pricing, yet here
+  > Chris tells early-career designers to *skip* the theory and just double their project fees.
+  > The reconciliation is sequence, not substance — value-pricing is the destination (§2, §6),
+  > but the first job is to get off hourly and get comfortable simply naming a bigger number;
+  > the full method comes later. [[wiki/sources/2019-05-06-yt-kY7i_JYNQ3Y]]
+
+- **Luxury-goods framing — no justification needed.** Gucci, Prada, Louis Vuitton don't explain
+  or justify their price; the clerk sets it and you decide if you want it badly enough. You can
+  simply say: "In order to do something, it's going to cost you to start 3,000 US. Is that
+  something you're comfortable paying?" (A luxury-goods restatement of never-justify, §4.)
+  Uses Jonathan Stark's "why this, why now, and why me" to frame the premium
+  ([[wiki/sources/2019-05-06-yt-kY7i_JYNQ3Y]]).
+- **Pre-qualify referral leads on budget — and decline the old "favor price."** Referral leads
+  cluster by budget ("birds of a feather flock together"), so cheap referrals beget cheap
+  referrals; qualify on money early — "Can you afford $1,000 to do a logo? … I don't want to
+  waste your time." When a referral expects the old low price ("Bob told me you did it for
+  $200"), explain it was a one-time favor at a point in time: "I can't run an equitable business
+  charging $200 anymore… I might not be here tomorrow if I keep charging that price."
+  ([[wiki/sources/2019-05-06-yt-kY7i_JYNQ3Y]]).
+
+---
+
+## 29. Charging more is gated by self-worth, not a market ceiling
+
+_Est. 2019-05-15 (Young Guns cut-down, "How To Charge More?"). The mindset root beneath every
+pricing tactic: "how much can I charge" is a limiting-belief problem before it is a market
+problem. Deepens §8's "mindset is the real bottleneck" with a dedicated treatment._
+
+When a designer asks how to find "the limit" of what he can charge, Chris refuses the mechanics
+and attacks the underlying belief: the ceiling is usually in the designer's head, not the market.
+
+> "Any transaction between you and a client is an exchange of value... what we're trying to do
+> is find something that's good for both the client and for yourself, and that's gonna be a
+> different thing for each client." — Chris Do, [[wiki/sources/2019-05-15-yt-7xpuDBMLFs0]]
+
+- **The ceiling is a limiting belief.** The barrier to charging more is often a self-imposed
+  belief about self-worth, not a real market ceiling — the coachee "just totally revealed" his
+  own limiting belief without realizing it ([[wiki/sources/2019-05-15-yt-7xpuDBMLFs0]]).
+- **Education ≠ worth.** A fancy art-school degree "does say something about your ability to pay,
+  your ability to get into the school, and your commitment to get through it — but that's just
+  only one dimension, one metric." Plenty of art-school grads are "terrible"; skill tracks the
+  individual's mindset, work ethic, and instructors. Cites self-taught masters: **Danny Yount**
+  (celebrated motion designer, high-school education) and **Doyald Young** (who *taught* at Art
+  Center yet had only a high-school education). "We put too much emphasis on institutional
+  knowledge." ([[wiki/sources/2019-05-15-yt-7xpuDBMLFs0]]).
+- **Value is contextual to the client's stakes — and you can't argue a client across positions.**
+  A client with an emergency and a lot riding on the outcome values the task far more than a small
+  business that doesn't think about design. It is **impossible to convince** one client of the
+  other's position — you can't talk a low-value client into thinking it's high-value, or vice
+  versa ([[wiki/sources/2019-05-15-yt-7xpuDBMLFs0]]).
+- **Objection-handling by inversion.** If a client says the work "isn't valuable" to them, don't
+  argue — ask what *is*: "the person's coming to you saying this is not valuable to me — you're
+  like, okay, it's not valuable to you, well what is? Maybe I can help you with that." If they say
+  nothing matters, tell them to spend nothing and probably do nothing — "don't do it just because
+  everybody else is doing it." ([[wiki/sources/2019-05-15-yt-7xpuDBMLFs0]]).
+- **Invent systems to resolve any client objection.** "You can invent systems to potentially
+  resolve any client objection." Example: a client burned by a previous vendor's poor
+  communication → reassure them with a system, e.g. a guaranteed 24-hour response and your cell
+  number "day or night," so they feel they won't hit the same problem again
+  ([[wiki/sources/2019-05-15-yt-7xpuDBMLFs0]]).
+
+---
+
+## 30. Royalty & licensing deal structures — share risk, but only with leverage
+
+_Est. 2019-06-10 (Young Guns S2, "Improvement, Accountability & Focus"). Brief pricing note on
+packaging fees and royalty/licensing structures; the broader deal-structure and remote-client
+material lives on the [[wiki/topics/business/business|business hub]]._
+
+- **Clarify "commission" means a royalty — and value the project first.** When a client offers
+  "commission," clarify they mean a **royalty**. Establish the proper project value *first*, then
+  negotiate a share of risk. Royalty leverage exists **only when there's no replacement for you**
+  ("Justin Bieber can dictate terms because there's only one") ([[wiki/sources/2019-06-10-yt-eQo2UPIRxZo]]).
+- **Packaging fees must scale with the client's print spend.** A design fee can't be dwarfed by
+  the client's own printing costs — there must be scale between the two; a mom-and-pop launching a
+  cereal nationwide for $500 is incongruent. A real packaging job is roughly **$5,000–$20,000**
+  ([[wiki/sources/2019-06-10-yt-eQo2UPIRxZo]]).
+- **If they can't pay the fee, get creative (three structures).** (a) **100% upfront** for a
+  ~5% discount; (b) **installments** — 50% up front / 25% at milestones / 25% on delivery
+  (the same terms as §7); (c) a **licensing deal** — e.g. **$5k plus 2% "of every package you
+  print — not of what you sell, but what you make,"** sharing the risk equitably
+  ([[wiki/sources/2019-06-10-yt-eQo2UPIRxZo]]).
+- **"Designers assume; professionals ask."** Before pricing packaging, ask: how big is the first
+  print run, what does each package cost to print, what happens if it has to be reprinted — does
+  the investment make sense for the gain ([[wiki/sources/2019-06-10-yt-eQo2UPIRxZo]]).
+- **You're likely underpriced, but move in small steps here.** Many designers are simply severely
+  underpriced and don't need to know more than they know today to charge more — but on this kind
+  of work move in steps (500 → 2,500, not 500 → 25,000), and **state the price "like a fact,
+  without any judgment added to it,"** because your face and voice betray your own doubt and
+  professional negotiators see right through it ([[wiki/sources/2019-06-10-yt-eQo2UPIRxZo]]).
+
+  > Note the small-step framing here sits *alongside* the "double, don't inch up" rule (§28,
+  > §8): doubling is the move for undercharging designers raising their standard rate; the
+  > 500→2,500 caution is against a reckless 50× leap on a single unfamiliar packaging job. Both
+  > reject reckless jumps *and* timid inching — the calibration is context-dependent.
+  > [[wiki/sources/2019-06-10-yt-eQo2UPIRxZo]] · [[wiki/sources/2019-05-06-yt-kY7i_JYNQ3Y]]
+
+---
+
 ## Worked figures & self-reported claims
 
 Concrete numbers Chris cites for his own business or in case studies. Studio rates and the
@@ -1245,6 +1374,9 @@ qualifying), [[wiki/entities/the-futur|The Futur]].
 - [[wiki/sources/2019-01-30-yt-Svb8fTwX0BE]] — Client wants more but won't pay role-play (scope creep, separate service, anchor + one concession, let them de-scope)
 - [[wiki/sources/2019-02-11-yt-6BKWq9VJd8w]] — How do you estimate a project? (cost-stack bid build-up — restates the 2015 method; §7)
 - [[wiki/sources/2019-04-12-yt-ivKnj9ffcmE]] — Value-based pricing (the flip-the-sequence method, discount for uncertainty)
+- [[wiki/sources/2019-05-06-yt-kY7i_JYNQ3Y]] — Young Guns S2 coaching (double don't inch up, buyer decides fair, charge-more virtuous loop, referral-budget pre-qualification; §28)
+- [[wiki/sources/2019-05-15-yt-7xpuDBMLFs0]] — "How To Charge More?" (self-worth ceiling, education≠worth, objection-by-inversion, invent systems; §29)
+- [[wiki/sources/2019-06-10-yt-eQo2UPIRxZo]] — Young Guns S2 improvement/focus (royalty vs licensing, packaging $5–20k, $5k+2% licensing, say-it-like-a-fact; §30)
 - [[wiki/sources/2019-12-26-yt-RFk8ZmIDrFM]] — "Your price is too high" role-play (ROI + walk-away, risk reversal)
 - [[wiki/sources/2022-09-22-yt-TB54_6bEP-A]] — Price & value masterclass with Ron Baker (influence link, three options)
 - [[wiki/sources/2023-04-24-yt-kTFhQf5_RxI]] — Raising rates $2k→$5k (raise-your-rate-to-raise-client-quality ladder)

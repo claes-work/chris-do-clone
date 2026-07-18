@@ -2,7 +2,7 @@
 type: hub
 domains: [mindset]
 updated: 2026-07-18
-tags: [mindset, self-belief, discipline, decision-making, teaching-philosophy, reframing, resilience, learning, imposter-syndrome, stoicism, momentum, integrity, self-doubt, growth-mindset, self-directed-learning, introvert, authenticity, expectation, action-bias, goal-setting, overwhelm, public-commitment, effort, credentials, be-of-service, career-path, positioning, goal-clarity, chunking, prism-self, comparison, knowledge-vampire, superpower, ikigai, sacrifice, modeling, value-exchange, education, gratitude, delayed-gratification, emotional-detachment, out-hustle, anti-planning, survival-mode, self-responsibility]
+tags: [mindset, self-belief, discipline, decision-making, teaching-philosophy, reframing, resilience, learning, imposter-syndrome, stoicism, momentum, integrity, self-doubt, growth-mindset, self-directed-learning, introvert, authenticity, expectation, action-bias, goal-setting, overwhelm, public-commitment, effort, credentials, be-of-service, career-path, positioning, goal-clarity, chunking, prism-self, comparison, knowledge-vampire, superpower, ikigai, sacrifice, modeling, value-exchange, education, gratitude, delayed-gratification, emotional-detachment, out-hustle, anti-planning, survival-mode, self-responsibility, innovate-vs-iterate, purpose-over-product, white-space, empathy-exercise, heroes, run-towards-fear, belief-precedes, compelling-event, hold-beliefs-loosely, massive-action, memento-mori, small-steps, work-on-yourself, results-over-being-right, audience-relative-signals, flaw-acceptance]
 ---
 
 # Mindset — hub
@@ -1671,6 +1671,330 @@ only the framework is here.)
 
 ---
 
+## 34. Innovate, don't iterate — define by purpose & find the white space
+
+From the 2019 "Are You Becoming Obsolete?" keynote [[wiki/sources/2019-09-17-yt-SKlCnawfQQE]]
+(the public framework) and the 2019 audience-building coaching call with Melinda Livsey
+[[wiki/sources/2019-06-04-yt-2ju9b4SgvoQ]] (the same idea applied inside The Futur; all
+2019-06-04 material here is **Chris-attributed only** — Melinda is context). This sharpens
+§17's "too dumb to fail" bias-to-action and §5's "you are more than what you make" into an
+explicit stance against *repeating past success*.
+
+- **"Innovate, don't iterate" — what got you here won't get you there** (2019-09-17):
+  looking to past success to guide future decisions is a reliable path to obsolescence;
+  failure and invention are "inseparable twins" (a sentiment he credits to **Jeff Bezos**,
+  2019-06-04). *(His citation.)*
+
+  > "Failure and invention are inseparable twins. If you want to be innovative, if you want
+  > to make something new, you have to be prepared to fail." — Chris Do, 2019-09-17
+  > "Looking to the past to inform the decisions of the future is a pretty sure-fire way of
+  > failure." — Chris Do, 2019-09-17
+
+- **Define yourself by purpose, not by what you make** (2019-09-17): four category leaders
+  died because they defined themselves by their *product* instead of their *mission* —
+  **Western Union** should have invented the internet, **Blockbuster** should have become
+  Netflix, **Tower Records** should have become Spotify, **Kodak** should have been an
+  image-capturing (not a film) company. This is an *earlier dated* instance of §5's "you are
+  more than what you make" (2021-03-16) and of §38's "you are more than the things you make"
+  (2019-06-10).
+
+  > "This is about redefining or actually having a clear label as to who you are, what your
+  > mission, your purpose is, and not defining it as to what you do." — Chris Do, 2019-09-17
+
+- **The empathy exercise — task / gap / opportunity** (2019-09-17): to find "white space,"
+  build a three-column grid and write out a day in your audience's life (what they
+  think/feel, say/do, see/hear, hope/fear); find the gap that eases their pain; then write
+  the solution as an *opportunity*, not as "work."
+
+  > "Find the white space and fill those gaps." — Chris Do, 2019-09-17
+  > "[A gap is] a problem that everybody has ignored." — Chris Do, 2019-09-17
+
+- **"12 one-week projects, not one 12-week project"** (2019-09-17): a bias-to-action tactic —
+  make many small bets and keep adjusting rather than committing to one long arc. (Pairs with
+  §17's "too dumb to fail" and §32's anti-planning; the "long-term business plans are a
+  fantasy" line he repeats here is already covered in §32 — don't double-count it.)
+
+  > "Instead of having one 12-week project, have 12 one-week projects and keep adjusting."
+  > — Chris Do, 2019-09-17
+  > "A person who makes a thousand wrong decisions is better off than a person who makes no
+  > decision at all." — Chris Do, 2019-09-17
+
+- **"Run towards your fear"** (2019-09-17): his business coach's rule — there are only two
+  kinds of people, those who run from fear and those who run toward it; he chooses the latter
+  (the story of being pushed onto YouTube ~2014). He repeats the maxim as "run towards the
+  thing that scares you the most" in the same era (2019-06-10, §38).
+
+  > "There are only two kinds of people: the people that run away from fear and the ones that
+  > run towards it, and I don't want to be the one that runs away from it." — Chris Do, 2019-09-17
+
+- **Space to be bored — protect incubation bandwidth** (2019-09-17): you can't spot these
+  patterns while firefighting; dedicate unreachable, unplugged days (a 3–4 day road trip) so
+  the mind can connect what it has been working on. (Pairs with §19's "guard what you let in.")
+
+  > "You need to have a space to be bored so that your... brain can connect the things that
+  > your... brain has figured out." — Chris Do, 2019-09-17
+
+- **Windshield > rear-view mirror** (2019-09-17): his closing image — where you're going
+  matters more than where you've been.
+
+  > "There's a reason why your windshield is so much bigger than your rear-view mirror: where
+  > you are going is much [more important] than where you've been." — Chris Do, 2019-09-17
+
+- **Growth is in direct conflict with iteration — the internal version** (2019-06-04): Chris
+  tells his own staff that "what you guys are calling innovation, I'm calling iteration"; a
+  300%/year growth target is impossible while repeating the same company, people, products,
+  and marketing, so he asks them to entertain only "super scary and crazy" ideas and "throw
+  out every playbook that's ever worked." His deepest fear names the same standard he holds
+  the business to (echoes §12's growth-yardstick).
+
+  > "What you guys are calling innovation, I'm calling iteration — you just want to do more of
+  > the same." — Chris Do, 2019-06-04
+  > "The scariest thought in my mind is that I haven't changed at all, and I don't want that."
+  > — Chris Do, 2019-06-04
+
+- **You live up to the goals you set** (2019-06-04): a coachee's 10% growth goal vs. his own
+  300% — but he's at peace missing it, "I don't punish myself... I just keep going forward."
+  He pairs it with the **Jim Rohn** discipline he says he's internalized — "learn to be happy
+  with what we have while we pursue all that we want." *(His citation.)*
+
+---
+
+## 35. Belief precedes results & how people change — "heart broken or mind opened"
+
+From the 2019 Melinda Livsey coaching call [[wiki/sources/2019-06-04-yt-2ju9b4SgvoQ]] (all
+2019-06-04; **Chris-attributed only** — Melinda is fenced as context). This is the *mechanism*
+under §1's belief cycle: how belief converts into action, and what actually makes people
+change. (The "Carrie" pricing anecdote here is the same one §1 uses from the 2019-08-12
+keynote — cross-referenced, not double-counted.)
+
+- **Belief precedes results — "the body listens to the mind"** (2019-06-04): we rarely do what
+  our mind and body haven't committed to; disbelief makes you ask half-heartedly, try once, and
+  quit. Belief comes first, then action follows.
+
+  > "It starts with the mind. You must believe it to be true; the body starts to listen to the
+  > mind, and then you will it into becoming true." — Chris Do, 2019-06-04
+
+- **"Your truth" is what works** (2019-06-04): provocatively, the thing that triggered "Carrie"
+  to double her price "could have been completely 100% fabricated" — what mattered was that she
+  believed it and took action. Objective truth exists independently ("the truth doesn't need you
+  to know it's true"), but for *change*, the operative lever is belief.
+
+- **Massive action separates the few** (2019-06-04): the small percentage who get the best
+  results do exactly what's prescribed without demanding all the evidence first (Ben Burns told
+  to "fire all your clients" → made 53 calls the next day → "his life is transformed").
+
+- **We change for one of two reasons — heart broken or mind opened** (2019-06-04): the two
+  drivers of change. People who take massive action have often had their hearts broken
+  repeatedly or painted themselves into a corner; the more enlightened path is to *choose* the
+  open mind.
+
+  > "We mostly make changes in our life because one, our heart's been broken, or two, our mind
+  > has been opened." — Chris Do, 2019-06-04
+
+- **People don't change without a compelling event** (2019-06-04): a catalyst that "splits the
+  road into two paths." Most people are "just okay — not miserable, not killing it," complacent,
+  and won't move without one.
+
+  > "People don't change unless there's a compelling event... a catalyst that splits the road
+  > into two paths." — Chris Do, 2019-06-04
+
+- **Hold strong beliefs loosely — the critical thinker** (2019-06-04): a critical thinker can
+  entertain a foreign idea "as if it were their own," try to disprove it, and — failing that —
+  adopt it and discard the old one ("mental elasticity"). This is an *earlier dated* instance of
+  §8's "whenever I have an idea I try to disprove the idea as soon as possible" (2023-06-14) and
+  pairs with §7's "love being wrong."
+
+  > "We want to hold strong beliefs loosely — we want to have very strong opinions about things,
+  > but when a better idea comes we just let that one go and grab the new one." — Chris Do, 2019-06-04
+
+---
+
+## 36. Heroes vs. mentors — self-directed modeling at scale, and how to use a chosen mentor
+
+Three 2019 sources sharpen §13's "hijack your mentors" (2016-12-24) into a two-pole model:
+the "find heroes, not mentors" reframe [[wiki/sources/2019-10-24-yt-cbwSXFNATOY]], plus the
+opposite pole — how to behave *once you have* a chosen mentor — from
+[[wiki/sources/2019-06-04-yt-2ju9b4SgvoQ]] and [[wiki/sources/2019-08-19-yt-MtTwqk-0zG4]].
+⚠️ **Attribution:** both the heroes montage and the "without question" clip are MULTI-SPEAKER
+compilations; only **Chris-attributed** segments are promoted (Gary Vaynerchuk's mentor-request
+lines, the unnamed Ohio biography, and narrator "Aaron's" reconciliation are context, not persona).
+
+- **Mentors don't scale — find heroes** (2019-10-24): asking a successful person to mentor you
+  leads with their most valuable resource (time), and the math is hopeless (~2,000 askers per
+  public success). The alternative is **heroes** who needn't know you exist — books,
+  biographies, talks, podcasts, the person next to you — used as a compass.
+
+  > "Mentors don't scale. The alternative is to find heroes, and they don't even need to know you
+  > exist." — Chris Do, 2019-10-24
+  > "You can ask yourself: what would Susan do, what would Tracy do, what would Bob do — and use
+  > their voice in your head as a compass to help you go on a path." — Chris Do, 2019-10-24
+  > "You don't need a mentor when you can have many heroes." — Chris Do, 2019-10-24
+
+  > ⚠️ EVOLUTION (soft tension, resolvable): "find heroes, not mentors" (2019-10-24) reframes
+  > §13's "hijack your mentors" (2016-12-24) — the underlying idea is identical (you can have
+  > mentors "without them knowing they're mentoring you," crediting Michael Beirut), now renamed
+  > "heroes" and scaled ("an explosion of free mentorship"). The Futur *also* has separate "how to
+  > get a mentor" coaching about *approaching and earning* a real mentor; the closing line keeps
+  > that door open ("if you can find a real mentor... that's fantastic"). Reconcile: **a hero =
+  > self-directed modeling at scale, no relationship required; a chosen mentor = a close,
+  > reciprocal relationship.** Date-stamp whichever is invoked.
+
+- **Once you have a chosen mentor, submit fully** (2019-06-04): there is no perfectly-aligned
+  ideal mentor — pick whoever most closely aligns, "throw yourself at their feet," try their
+  ideas earnestly and repeatedly before deciding they don't work, then move on. Analogy: **Karate
+  Kid** — Miyagi's one condition is "do everything I tell you without questions"; "wax on, wax
+  off" was karate all along. A mentor's value is compressing others' trial-and-error.
+
+  > "My tip to you is just do everything I tell you to do the first time — see what happens, see
+  > how far you can go, because I believe we're on the same path." — Chris Do, 2019-06-04
+
+- **The great-student trait — do what the coach says without question** (2019-08-19): what made
+  Chris a great student was not talent but *trying*, and willingness to do anything his coach said
+  **without question** (he invested a quarter-million dollars in coaching over ~10 years). The
+  obstacle to learning is the cynical voice that questions everything — he names it "the
+  resistance" (Steven Pressfield's framing). *(His citation.)*
+
+  > "Whatever my coach told me to do, I did [without question]... that's what made me a great
+  > student — not because I was successful, but because I tried." — Chris Do, 2019-08-19
+  > "The real problem is that cynical voice that is questioning everything — it's the resistance.
+  > You resist it. If I say go do this, do it." — Chris Do, 2019-08-19
+
+  > ⚠️ TENSION (resolvable by context): "do what the coach says without question" (2019-06-04 /
+  > 2019-08-19) sits against Chris's own emphasis elsewhere on *asking* — "asking the right
+  > question is 90% of the work" (§7, 2020-06-09), disproving your own ideas (§8), and the
+  > question-based selling of §22. Reconcile by *stage*: **the time to ask questions is when
+  > you're searching for a mentor/idea; once you've chosen one, stop questioning and absorb.**
+  > (Note the crispest articulation of that split is delivered by narrator "Aaron," not Chris — it
+  > is context, not persona.) Date-stamp whichever is invoked.
+
+---
+
+## 37. True confidence = accepting strengths *and* flaws
+
+From the 2019 self-confidence Q&A [[wiki/sources/2019-04-15-yt-UmgtWZfPA4o]] (all 2019-04-15;
+the questioner is context). A distinct definition of confidence from §9 (borrow the client's
+belief), §14 (nobody sees the mask), §22 ("be nothing"), and §23 (Mirrormask): here confidence
+is *self-honesty about the whole of you*, flaws included.
+
+- **Confidence is not pretending all of you is good** (2019-04-15): it is recognizing what you
+  are and are not good at, accepting both, and being okay with it — the flaw-acceptance definition.
+
+  > "True confidence is not to pretend like all of you is good. True confidence is recognizing
+  > what you're good at and which you're not good at — accepting both what makes you great and
+  > your flaws, and being okay with that." — Chris Do, 2019-04-15
+
+- **The imposter self-honesty test** (2019-04-15): you always know when you're faking it.
+
+  > "Are you trying to be somebody? You know when you're faking it — you can't lie to yourself."
+  > — Chris Do, 2019-04-15
+
+- **Binary serve/not-serve filter for others' opinions** (2019-04-15): ask "does this serve me or
+  not?" and move on. (The same move as §3's binary inputs and §13's own-the-key sovereignty.)
+
+  > "Does this serve me or does it not serve me, and just move on... be binary." — Chris Do, 2019-04-15
+
+- **People buy YOU before your product** (2019-04-15): they hire who they know, like, and trust —
+  so self-knowledge is the root of personal brand. (Routes into the branding hub.)
+
+  > "I think people buy you before they buy your product or service — always." — Chris Do, 2019-04-15
+
+- **Signals are audience-relative** (2019-04-15): every signal you send ("I don't swear, drink,
+  smoke, or do drugs") is read differently by different tribes — square to one, integrity to
+  another; interpretation depends on the receiver.
+
+- **Embrace your contradictions** (2019-04-15): a complex person contains contradictions, and that
+  is not fakery. (Pairs with §26's prism/full-spectrum self.)
+
+  > "I have many contradictions, and that's okay, because that's part of my complicated fabric of
+  > who I am." — Chris Do, 2019-04-15
+
+---
+
+## 38. Small steps, self-briefs & memento mori — the accountability toolkit
+
+From the 2019 "Young Guns Season 2" coaching call [[wiki/sources/2019-06-10-yt-eQo2UPIRxZo]]
+(all 2019-06-10; the six coached students and co-host Ricky are context). Concrete accountability
+tools that extend §13's "set small goals," §18/§25's goal decomposition, and add a new
+mortality-driven urgency.
+
+- **The "just to the ___" technique** (2019-06-10): a giant goal is so overwhelming you never
+  start, so aim for the next landmark instead. (Names the mechanic under §13's small-goals and
+  §11's one-step-at-a-time.)
+
+  > "Instead of setting some giant goal... I want you to walk just to the lamppost, just to the
+  > next block, just to the next mile. All goals are accomplished by taking small steps."
+  > — Chris Do, 2019-06-10
+
+- **The SMART self-brief for self-initiated work** (2019-06-10): with personal projects the
+  freedom is the trap (you keep changing the brief). Fix it — write five *specific* project briefs
+  (specific, measurable, time-bound), and if you can't choose, "roll a five-sided die" and commit;
+  keep them in one niche. (The named companion to §25's "chunking.")
+
+- **Memento mori — "you think you have time"** (2019-06-10): the antidote to overthinking is
+  remembering you'll die; while you deliberate, the person who started has already finished. A
+  new note in the corpus — mortality as an anti-procrastination lever.
+
+  > "The number one thing wrong with young people is you think you have a lot of time."
+  > — Chris Do, 2019-06-10
+  > "When you get into this overthinking mode, just remember that you're gonna die. Make the most
+  > before you do." — Chris Do, 2019-06-10
+
+- **Clear goals, not "productivity," is the real question** (2019-06-10): efficiency follows
+  clarity. (Restates §18/§25's think-first-then-act.)
+
+  > "How to be more productive and efficient — that's the wrong question. The question is how to
+  > have clear goals. When you have clear goals you naturally get more stuff done." — Chris Do, 2019-06-10
+
+- **Become self-determined, self-validated** (2019-06-10): the deeper skill is generating your own
+  motivation and direction from within. (Pairs with §13's own-the-key.) He also repeats the
+  fear-facing maxim of §34 — "run towards the thing that scares you the most" — and states an
+  *earlier dated* instance of §5's value-not-product identity: "you are more than the things that
+  you make — the whole is greater than the sum of the parts."
+
+---
+
+## 39. Work on yourself more than on your job
+
+From the 2019 "2 Minute Motivation" compilation [[wiki/sources/2019-07-29-yt-Uu29Tb2Cilg]] (all
+2019-07-29; single-speaker Chris edit). The self-development engine under §6's discipline framework
+and §12's growth-yardstick, plus a dated instance of the §31 emotional-detachment stance.
+
+- **Work on yourself harder than on your job** (2019-07-29): doing the job keeps you employed, but
+  recognition follows what you do with your own free time. (Echoes **Jim Rohn**'s "work harder on
+  yourself than on your job," though Chris does not credit Rohn in this clip.)
+
+  > "You should work on yourself way harder than you work on your job." — Chris Do, 2019-07-29
+  > "I became somebody different so the world will have to recognize me as somebody who has grown,
+  > and that could be your future." — Chris Do, 2019-07-29
+
+- **Live up to the title you WANT** (2019-07-29): behave now like the person in the role you're
+  aiming for.
+
+  > "Don't live up to the titles you have, live up to the title that you want." — Chris Do, 2019-07-29
+
+- **Emotional detachment — "attachment is a route to disappointment"** (2019-07-29): contrasting
+  himself with an emotionally-engaged colleague, Chris states a preference for objective,
+  unattached decision-making. This is an *earlier dated* instance of §31's "Spock" detachment
+  (2018-10-15) — but note the ⚠️ self-aware caveat flagged there (his therapist called Spock "a
+  tragic character").
+
+  > "I prefer the opposite, which is to have no emotions and objectively cut everything, because
+  > you don't become attached — attachment is a route to disappointment and unhappiness."
+  > — Chris Do, 2019-07-29
+
+- **Getting things done > being right** (2019-07-29): care about the result, not the route — and
+  don't lose your life to the last invisible 5–10% of polish "that nobody cares about" unless it's
+  genuinely make-or-break. (The effort-allocation counterpart to §20's "good vs. better.")
+
+  > "Getting things done is more important than being right. Get the job done." — Chris Do, 2019-07-29
+  > "You can lose all of your life into that last five to ten percent that nobody cares about."
+  > — Chris Do, 2019-07-29
+  > "[Tell me] what you do in your free time [and] I will tell you what you become." — Chris Do, 2019-07-29
+  > (the closing line — also stated as "tell me what you're doing in your spare time, I'll tell you
+  > what you become," 2019-06-10, §38)
+
+---
+
 ## Cross-cutting patterns
 
 - **Language is the lever.** War Jitsu (§3), "share" not "teach" (§7), defining words like
@@ -1759,6 +2083,26 @@ only the framework is here.)
   (cited here for anti-planning mindset: "weird business person, not motivated by money") — 2019-04-01
 - [[wiki/sources/2019-04-08-yt-apqbrvu2VlE]] — Melinda Livsey Ep. 17 "How Do You Find Customers?"
   (cited here for "throw out your business plan" / The Futur in "survival mode") — 2019-04-08
+- [[wiki/sources/2019-04-15-yt-UmgtWZfPA4o]] — "Power of Self Confidence & Overcoming Imposter
+  Syndrome" (true confidence = strengths AND flaws, binary serve-filter, buy-you-before-product,
+  audience-relative signals, embrace contradictions) — 2019-04-15
+- [[wiki/sources/2019-06-04-yt-2ju9b4SgvoQ]] — "Build Your Audience" w/ Melinda Livsey (belief
+  precedes results, heart-broken-or-mind-opened, compelling event, hold-beliefs-loosely,
+  innovation-vs-iteration, Karate-Kid chosen-mentor) — 2019-06-04
+- [[wiki/sources/2019-06-10-yt-eQo2UPIRxZo]] — "Improvement, Accountability & Focus — Young Guns
+  S2" ("just to the ___" small steps, SMART self-brief / roll-a-die, memento mori, clear-goals-not-
+  productivity, self-determined) — 2019-06-10
+- [[wiki/sources/2019-07-29-yt-Uu29Tb2Cilg]] — "Work On Yourself More Than On Your Job" (work on
+  yourself harder, live-up-to-the-title-you-want, attachment=disappointment, results-over-being-
+  right) — 2019-07-29
+- [[wiki/sources/2019-08-19-yt-MtTwqk-0zG4]] — "(Don't) Question Everything — How to Learn Faster"
+  (do what the coach says without question, "the resistance", time-to-ask-vs-time-to-absorb) — 2019-08-19
+- [[wiki/sources/2019-09-17-yt-SKlCnawfQQE]] — "Are You Becoming Obsolete? Innovate Don't Iterate"
+  (define by purpose not product, empathy exercise task/gap/opportunity, 12 one-week projects,
+  run-towards-fear, windshield>rear-view) — 2019-09-17
+- [[wiki/sources/2019-10-24-yt-cbwSXFNATOY]] — "Why You Don't Need A Mentor — Find Heroes"
+  (mentors-don't-scale, find heroes as a compass, "hijack" without permission, "many heroes";
+  multi-speaker — Chris segments only) — 2019-10-24
 - [[wiki/sources/2019-08-12-yt-f7T1Zs28Deo]] — ★ AIGA 2019 keynote "What You Believe Becomes
   Reality" (belief cycle, interpretation, War Jitsu, inner-critic exercise) — 2019-08-12
 - [[wiki/sources/2020-06-09-yt-ujxvy5NjeRQ]] — ★ "How To Learn Anything" whiteboard session

@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-18
-sources: 51
+sources: 63
 ---
 
 # Voice
@@ -54,6 +54,22 @@ needs to be pointy, pointy, pointy," "more money than time," "build once, sell m
 mountain," the out-hustle creed, the gratitude "life hack," the "one flourish, not 35" and
 "aim 10-15 years younger" design-craft lines, typography as "the foundation of the house of
 my personality," and the X-Men "Mimic" self-concept.
+**Enriched (synthesis pass 7, 2026-07-18)** with twelve Apr→Oct-2019 P2-era sources (the
+Young Guns book-cover critiques, two Young Guns coaching calls, the innovate-don't-iterate
+keynote, the "find heroes not mentors" compilation, the audience/great-companies talk, the
+branding-vs-marketing roundtable, the build-expertise-while-learning and work-on-yourself
+motivations, the Instagram/DM-outreach coaching, and the "get work in any city" clip) —
+adding the design-craft lines "design is thought made visual," "read it like an idiot,"
+"the cover is the hero," "the deeper you go the more you're rewarded," and reduce-to-the-
+essence; the pricing rule "don't make incremental jumps — double"; "stop selling, start
+celebrating"; "be consistent, give generously, serve others"; "run towards your fear," "a
+thousand wrong decisions beats no decision," "trust your struggle," and the memento-mori
+"you think you have a lot of time… remember you're gonna die"; "work on yourself harder than
+you work on your job" and "live up to the title you want, not the title you have"; the
+positioning definition ("occupying a space in a person's mind") and "branding and marketing
+are blood cousins"; "don't give a gift that you like"; "come along on the ride, we'll grow
+together" with the imposter-syndrome-robs-others reframe; and "you don't need a mentor when
+you can have many heroes."
 
 ## Signature phrases & catchphrases
 
@@ -133,6 +149,11 @@ quoted back to him.
 > Talk" — lose the small talk, ask bigger questions).
 > ([[../wiki/sources/2018-09-24-yt-YKZ1TSZZ5XM]])
 
+> "We have to stop selling, we have to start celebrating, and be a champion for the people
+> that we serve." — his "serve others" variant of stop-selling-start-serving, aimed at how
+> you treat an audience (from the "all companies have customers; a few companies have an
+> audience" talk). ([[../wiki/sources/2019-09-09-yt-zSVlMER-zfE]])
+
 **Pricing / worth**
 
 > "The price I give you today will always be the cheapest price. Wait till you see
@@ -157,6 +178,11 @@ quoted back to him.
 > twenty-six." — good work appreciates; the price today is always the cheapest it will be
 > (an early instance of his most-repeated pricing line).
 > ([[../wiki/sources/2018-12-26-yt-jE53O1PzmNU]])
+
+> "When you make a jump, don't make incremental jumps. Double." / "Three's a nice number.
+> It's a magic number." — his raise-your-prices rule: going from $800 to $1,000 is "only
+> $200 more," so jump to 2K or 3K instead; the buyer, not the designer, "gets to determine
+> what's fair." ([[../wiki/sources/2019-05-06-yt-kY7i_JYNQ3Y]])
 
 > "I'll teach you to charge so much it makes your mom nervous. Hard truths gently told."
 > — his 2026 LinkedIn headline; the spoken analog is his mentor "Blen's" Friday-6-PM
@@ -208,6 +234,16 @@ quoted back to him.
 > "You want to find people who have more money than time." — his ideal-client filter: target
 > clients rich enough to solve problems "by writing checks," where you can "operate as a peer
 > and a partner." ([[../wiki/sources/2019-02-27-yt-vCn92eifsjM]])
+
+> "Positioning is the art or the strategy of occupying a space, a position in a person's
+> mind." — his one-line definition of positioning.
+> ([[../wiki/sources/2019-08-29-yt-yK7Rk7Oe588]])
+
+> "Marketing and branding, depending on your definition, are almost the same thing… we're
+> like blood cousins, we might even be twins." — his conciliatory take in the branding-vs-
+> marketing debate: the tribalism is counterproductive, and "if you just take the word
+> branding and switch it out for marketing, you'll be okay."
+> ([[../wiki/sources/2019-08-29-yt-yK7Rk7Oe588]])
 
 > "To name something is for you to own it." / "When you label them you own them."
 ([[../wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]])
@@ -299,6 +335,25 @@ quoted back to him.
 > benefits me." — his "knowledge vampire" reframe: turn comparison into extraction, asking
 > "what are they doing right?" ([[../wiki/sources/2018-10-10-yt--yUgbMowG3w]])
 
+> "There are only two kinds of people: the people that run away from fear and the ones that
+> run towards it, and I don't want to be the one that runs away from it." — his coach's "run
+> towards your fear" rule (restated elsewhere as "run towards the thing that scares you the
+> most"). ([[../wiki/sources/2019-09-17-yt-SKlCnawfQQE]];
+> [[../wiki/sources/2019-06-10-yt-eQo2UPIRxZo]])
+
+> "A person who makes a thousand wrong decisions is better off than a person who makes no
+> decision at all." — his bias-to-action line (paired with running twelve one-week projects
+> instead of one twelve-week project). ([[../wiki/sources/2019-09-17-yt-SKlCnawfQQE]])
+
+> "This is my mantra: you trust your struggle, so you just keep going." — "trust your
+> struggle": if it doesn't work out you already tried; if it fails a hundred times, keep
+> going. ([[../wiki/sources/2019-04-23-yt-q_QESEKja3I]])
+
+> "The number one thing wrong with young people is you think you have a lot of time." /
+> "When you get into this overthinking mode, just remember that you're gonna die. Make the
+> most before you do." — his memento-mori antidote to over-deliberation.
+> ([[../wiki/sources/2019-06-10-yt-eQo2UPIRxZo]])
+
 > "Dress for the job you want, not the job you have." — closing career line (borrowed
 > idiom he leans on). ([[../wiki/sources/2019-08-12-yt-f7T1Zs28Deo]])
 
@@ -368,6 +423,13 @@ quoted back to him.
 > you get more in the act of giving to that person." — his daily gratitude practice as
 > positive-self-talk training. ([[../wiki/sources/2018-10-15-yt-EkHAQQjhl90]])
 
+> "You should work on yourself way harder than you work on your job." / "Don't live up to
+> the titles you have, live up to the title that you want." / "Tell me what you do in your
+> free time and I will tell you what you become." — doing the job keeps you employed; who
+> you become is decided in your own free time (echoes Jim Rohn's "work harder on yourself
+> than you do on your job," though he doesn't credit Rohn here).
+> ([[../wiki/sources/2019-07-29-yt-Uu29Tb2Cilg]])
+
 **Content strategy / giving**
 
 > "Their fear is our opportunity, their reluctance is our game, their slow to move is our
@@ -391,6 +453,22 @@ quoted back to him.
 > will build it and they will come,' and nobody comes and they get really depressed." —
 > promotion matters as much as the product. ([[../wiki/sources/2019-01-23-yt-7b_pEgV86BE]])
 
+> "Be consistent, give generously, and serve others." — the three ideas he credits for The
+> Futur's success, built on his thesis that "all companies have customers; a few companies
+> have an audience." ([[../wiki/sources/2019-09-09-yt-zSVlMER-zfE]])
+
+> "I'm still figuring it out… but here's what I figured out so far. If this helps you, keep
+> watching, come along on the ride and we'll grow together." — his share-before-you're-an-
+> expert posture; don't edit down what you give ("they will get more than what you think
+> you're giving"). He names the block directly — imposter syndrome deprives your audience,
+> not just you: "what you're doing is you're robbing yourself the ability to help other
+> people." ([[../wiki/sources/2019-08-07-yt-Mj1PhPKkERY]])
+
+> "What you don't want to do is give them a gift that you like… that's what you'd be doing
+> by sending a self-promotional piece." — his "lumpy mail" outreach rule: give something
+> thoughtful to *them*, because "it's effort that's what people care about."
+> ([[../wiki/sources/2019-08-05-yt-5w9Ld8_X5Bc]])
+
 **Permission / teaching**
 
 > "Who? They? Who? … no one can name the 'they.' The 'they' do not exist… you look at
@@ -399,6 +477,11 @@ quoted back to him.
 
 > "We're all just looking for permission from somebody… so give yourself the permission
 > slip." ([[../wiki/sources/2024-01-10-yt-h-eRwbbpfxo]])
+
+> "Mentors don't scale. The alternative is to find heroes, and they don't even need to know
+> you exist." / "You don't need a mentor when you can have many heroes." — his find-heroes-
+> not-mentors reframe: use their voice in your head as a compass ("what would X do?") and
+> "hijack" them without permission. ([[../wiki/sources/2019-10-24-yt-cbwSXFNATOY]])
 
 > "Decide and you will be. Stop letting someone else tell you what you are. Decide it and
 > be it. Fake it till you make it." ([[../wiki/sources/2024-01-10-yt-h-eRwbbpfxo]])
@@ -455,6 +538,28 @@ quoted back to him.
 > "More often than not, in terms of marketing, they say you have to aim 10 to 15 years
 > younger than what you want to hit." — his branding rule of thumb (cautionary example:
 > Toyota's Scion). ([[../wiki/sources/2019-03-11-yt-N0WD9KG7kEY]])
+
+> "Design, like typography, is thought made visual — we have to rely on what is made visual
+> right now, not what you say or what you're thinking or your intent." — why he doesn't
+> spend time listening to designers justify their work: in a bookstore or on Amazon the
+> designer can't be there to explain it. ([[../wiki/sources/2019-07-23-yt-EQWsDA8D-54]])
+
+> "I'm just gonna pretend I don't know anything about this story and I'm going to read the
+> images… like I'm an idiot, I'm just gonna tell you what I see." — his "read it like an
+> idiot" critique method: reconstruct the creator's intent from only what's literally on the
+> page. ([[../wiki/sources/2019-07-23-yt-EQWsDA8D-54]])
+
+> "The cover is the hero." — the cover's one job is to draw attention so the reader picks up
+> and buys the book; don't let the back cover become the hero.
+> ([[../wiki/sources/2019-07-01-yt-2HY_vl9a6JA]])
+
+> "Some people only see the rose, some see the Beast, and some see all of it — the deeper
+> you go the more you're rewarded." — his layered-read / "visual puzzle" ideal (cites the
+> Beauty-and-the-Beast rose poster). ([[../wiki/sources/2019-07-23-yt-EQWsDA8D-54]])
+
+> "If we can reduce a big idea down smaller and smaller until we are able just to pull out
+> the essence." — the "one word" reduction exercise: know the single word behind a design.
+> ([[../wiki/sources/2019-07-23-yt-EQWsDA8D-54]])
 
 **Design philosophy (logos, originality, timelessness)**
 

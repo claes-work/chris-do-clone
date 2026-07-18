@@ -4,7 +4,7 @@ domain: sales-clients
 domains: [sales-clients]
 created: 2026-07-14
 updated: 2026-07-18
-tags: [sales, negotiation, objection-handling, discovery, positioning, client-management, role-play, serve-dont-sell, embrace-and-pivot, qualifying, closing, client-archetypes, blair-enns, cialdini, leverage, first-client-call, business-development, ambassador, presenting, pitching, money-mindset, strategy-selling, order-taker, trusted-advisor, jobs-to-be-done, decks-are-crutches, difficult-clients, boundary-setting, know-trust-like, inbound-outbound, firing-clients, dont-convince, objection-response-deck, control-energy, diagnostic-phase, outcomes-over-craft, strategist-reframe, client-selection, three-outcomes, mirror-the-ask, build-rapport, reciprocity, time-vampires, dinner-test, sell-your-idea, foreign-idea-invader, outreach-challenge, jim-rohn, mentorship, value-exchange, scaffolding, five-sales-mistakes, two-ears-one-mouth, talk-money-early, match-and-mirror, tony-robbins, buyer-types, referral-fee, minimum-level-of-engagement, value-buyer, lead-temperature, hot-warm-cold-leads, russell-brunson]
+tags: [sales, negotiation, objection-handling, discovery, positioning, client-management, role-play, serve-dont-sell, embrace-and-pivot, qualifying, closing, client-archetypes, blair-enns, cialdini, leverage, first-client-call, business-development, ambassador, presenting, pitching, money-mindset, strategy-selling, order-taker, trusted-advisor, jobs-to-be-done, decks-are-crutches, difficult-clients, boundary-setting, know-trust-like, inbound-outbound, firing-clients, dont-convince, objection-response-deck, control-energy, diagnostic-phase, outcomes-over-craft, strategist-reframe, client-selection, three-outcomes, mirror-the-ask, build-rapport, reciprocity, time-vampires, dinner-test, sell-your-idea, foreign-idea-invader, outreach-challenge, jim-rohn, mentorship, value-exchange, scaffolding, five-sales-mistakes, two-ears-one-mouth, talk-money-early, match-and-mirror, tony-robbins, buyer-types, referral-fee, minimum-level-of-engagement, value-buyer, lead-temperature, hot-warm-cold-leads, russell-brunson, cold-outreach, dm-outreach, lumpy-mail, allan-dib, praise-first, trust-your-struggle, listen-to-understand, human-tape-recorder, presence, jonathan-stark, deposit-first]
 ---
 
 # Sales & Clients — hub
@@ -1964,6 +1964,130 @@ problem," Better Call Saul). See [[wiki/topics/pricing/pricing]] and
 
 ---
 
+## 38. Cold-DM outreach — "resumes dead, email dead, DM them" + lumpy mail (2019)
+
+Chris's playbook for getting on a hirer's radar cold, when you have no referral and no
+inbound. Primary source: "How to Get Work in ANY City" (2019-04-23)
+[[wiki/sources/2019-04-23-yt-q_QESEKja3I]] — single-speaker coaching of a designer,
+Alejandro (his few replies are *context*). Physical-mail extension: "Is Instagram
+Necessary For Work?" / Young Guns S2 Ep.12 (2019-08-05)
+[[wiki/sources/2019-08-05-yt-5w9Ld8_X5Bc]] — coaching Anastasia (*context*; co-host
+Matthew Encina = *context*).
+
+**Reframe the problem to dissolve it** (2019-04-23) — strip the loaded word out first;
+getting work in a "**new** city" is the same process as getting work in the city you're
+already in:
+
+> "Everything's so different, everything's so different… no, it's all the same. Every
+> city is the same." (2019-04-23)
+
+**Resumes and email are dead — DM instead** (2019-04-23). Look up the top ~12 companies
+in the target city you want to work with and start a dialogue by direct-messaging people:
+
+> "Here's the key to everybody: resumes dead, forget about it. Email dead, forget about
+> it… DM them — people respond." (2019-04-23)
+
+Self-reported channel proof: "I got a hundred DMs yesterday… I was responding to every
+single one of them… This is a new way we talk — DM on Twitter, DM on Instagram."
+(2019-04-23). Co-host Matthew Encina's outro restates it: "DM is the new email" (context,
+2019-08-05).
+
+**The two DM rules** (2019-04-23):
+1. **Short, specific, clear — no life story.** He skips messages that open with a long
+   personal backstory: "Say something short, specific, be clear. Do not tell them your
+   life story."
+2. **Don't ask for something right away — praise first, then show up again.** Lead with
+   genuine, *specific* praise, then come back the next day and the next:
+
+> "Do not ask for something right away. So: short and specific — 'I loved how you did X,
+> amazing.' Then come back the next day, and come back the next day, and show up."
+> (2019-04-23)
+
+**Why asking-first fails — generosity is the differentiator** (2019-04-23): an immediate
+ask signals "all I want is what I want, none of this is for you," and in a sea of people
+who all *want*, that gets skipped. It only takes a little to stand out:
+
+> "It only takes half an inch from a line to stand out, because everybody stands in the
+> same line." (2019-04-23)
+
+Fear-of-failure mantra attached to the whole move: **"trust your struggle"** — if it
+fails a hundred times, keep going (2019-04-23).
+
+**Be specific because they get 20–100 near-identical DMs a day** (2019-08-05): a generic
+"hi, I like your work" makes you sound like everyone else — pinpoint *why*, show you paid
+attention. Bare "how are you?" openers are a dead end. Build the relationship slowly
+(Socratic questioning; don't rush — pressure repels), and research the hiring
+decision-maker on LinkedIn (HR, creative director, recruiter) or ask whoever runs the
+social account "how do you find new designers to work with."
+
+**"Lumpy mail" — physical outreach that cuts through** (2019-08-05, credited to **Allan
+Dib**, *The 1-Page Marketing Plan*): non-flat physical mail now stands out precisely
+*because* everyone abandoned it for cheap digital channels. The rule that governs it:
+
+> "What you don't want to do is give them a gift that you like… and that's what you would
+> be essentially doing by sending a self-promotional piece." (2019-08-05)
+
+Give something thoughtful to *them*, not a self-promo piece you like — small-batch coffee
+beans you love, a design stamped on a dollar bill ("the next cup of coffee is on me"), a
+card and a handwritten note ("this is not a bribe, I'm looking for work, your studio
+inspires me"). What lands is the effort: "It doesn't matter if it's your idea or not…
+it's effort, that's what people care about." (2019-08-05)
+
+Complements the outbound moves elsewhere in the hub: §32's Commute Challenge (30
+outreaches/week), §16's ambassador method, and §33's ask-small mentor approach — all
+share the "make it about them, lead with generosity" ethos. The praise-first / don't-ask
+patience is the outbound twin of §1's serve-don't-sell.
+
+---
+
+## 39. "Listen to understand, not to respond" — presence, the tape-recorder drill, the $3k-logo call (2019)
+
+From "These Designers Need HELP" / Young Guns S2 coaching (2019-05-06)
+[[wiki/sources/2019-05-06-yt-kY7i_JYNQ3Y]] — Chris coaches seven designers one at a time
+(students = *context*; co-host Ricky Lin = *context*), closing with an unscripted sales
+role-play. The pricing material from this source lives in [[wiki/topics/pricing/pricing]];
+the listening + role-play material is here.
+
+**Listen to understand, not to respond** (2019-05-06) — his core instruction on presence.
+The stress of a conversation comes from feeling you must reply cleverly; instead, be okay
+with silence and don't rush to relate what they said back to your own story:
+
+> "You need to pay attention to this part… listen to understand, not listen to respond."
+> (2019-05-06)
+
+Genuine presence isn't "fake it till you make it" — it's being genuinely interested in
+people (cites **John Maxwell**: "to be an interesting person, you have to be interested in
+people"). He closes his eyes when listening, to shut off a sense he doesn't need
+(2019-05-06). Active listening burns real energy ("burning brain calories"), but reframing
+it from "energy it takes from me" to "an opportunity to serve" turns it into the "rocket
+fuel." (2019-05-06)
+
+**The human-tape-recorder drill** (2019-05-06) — a practice exercise Chris got from his
+therapist and does with his wife: one person speaks, the other repeats it back *verbatim,
+in the same order*. Being a "human tape recorder" forces total focus and builds the
+listening/presence muscle. (This is the training drill behind the §2 "use their exact
+words" and mirror-back moves, and the §28 mirror-the-ask.)
+
+**The $3,000-logo role-play** (2019-05-06) — Chris plays a designer defending a $3,000
+logo fee against a client's objections. Two moves surface:
+- **Deposit-first close** — quote the number plainly and gate the proposal on a deposit:
+  "10,000 bucks, that seems fair, I'll submit a proposal… once you pay me half up front,"
+  then do the best work you can. Don't self-sabotage the fee by questioning your own worth
+  in front of the client. (Sharpens §15's confirm-before-you-propose and §35's talk-money-
+  early.)
+- **Justify a premium with "why this, why now, why me"** (credited to **Jonathan Stark**):
+  because you'll be more expensive than everyone else, give the client the three reasons
+  and let them decide if it's a fit. (A proactive value frame, not the defensive
+  price-justifying §4d warns against.)
+
+Luxury-pricing posture from the same session: high-end stores (Gucci, Prada) don't explain
+or justify price — "the clerk sets the price, you decide if you want it badly enough" — so
+you can simply say, "In order to do something, it's going to cost you to start 3,000 US. Is
+that something you're comfortable paying?" (2019-05-06; the number/fairness mechanics are
+detailed in [[wiki/topics/pricing/pricing]]).
+
+---
+
 ## Cross-links
 
 - [[wiki/topics/pricing/pricing]] — value-based pricing, the desired-future-state → value
@@ -2059,6 +2183,16 @@ problem," Better Call Saul). See [[wiki/topics/pricing/pricing]] and
   (2019-03-19) — hot/warm/cold lead temperature (borrowed from Russell Brunson), awareness ladder.
 - [[wiki/sources/2019-04-12-yt-ivKnj9ffcmE]] — Value-Based Pricing / AIGA (2019-04-12) —
   diagnose-don't-prescribe, question technique, let-the-client-name-value.
+- [[wiki/sources/2019-04-23-yt-q_QESEKja3I]] — How to Get Work in ANY City (2019-04-23) —
+  cold-DM playbook (resumes/email dead, short+specific, praise-first, come-back-next-day),
+  reframe-to-dissolve, "trust your struggle"; *coachee Alejandro = context.*
+- [[wiki/sources/2019-05-06-yt-kY7i_JYNQ3Y]] — These Designers Need HELP / Young Guns S2
+  (2019-05-06) — listen-to-understand-not-respond, human-tape-recorder drill, $3k-logo
+  role-play (deposit-first, Jonathan Stark "why this/now/me"); *pricing content in pricing hub;
+  students + Ricky Lin = context.*
+- [[wiki/sources/2019-08-05-yt-5w9Ld8_X5Bc]] — Is Instagram Necessary? / Young Guns S2 Ep.12
+  (2019-08-05) — DM specificity, lumpy-mail physical outreach (Allan Dib), "don't give a gift
+  YOU like"; *Matthew Encina + students = context.*
 - [[wiki/sources/2019-06-27-yt-A24V7CUWe4M]] — Building A Brand Ep.6, logo process
   (2019-06-27) — *Ben/Matthew; presenting & guiding client choice; cold-feet.*
 - [[wiki/sources/2019-07-03-yt-pYzRq3fvuDQ]] — Building A Brand Ep.7, client changes mind

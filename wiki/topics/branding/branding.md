@@ -2,7 +2,7 @@
 type: hub
 domains: [branding]
 updated: 2026-07-18
-tags: [branding, personal-branding, unbland, brand-strategy, positioning, storytelling, shadow-work, two-word-brand, logo, logo-critique, identity, identity-system, timelessness, style, packaging, brand-equity, shelf-presence, private-label, brand-filter, go-to-person, sub-brand, order-taker, do-good-work, flip-the-switch]
+tags: [branding, personal-branding, unbland, brand-strategy, positioning, storytelling, shadow-work, two-word-brand, logo, logo-critique, identity, identity-system, timelessness, style, packaging, brand-equity, shelf-presence, private-label, brand-filter, go-to-person, sub-brand, order-taker, do-good-work, flip-the-switch, branding-vs-marketing, marketing]
 ---
 
 # Branding — hub
@@ -511,6 +511,62 @@ style-scapes, colour/typography, mark construction — lives in
   saturated than the parent — that freshness is the point. (2019-03-11)
   [[wiki/sources/2019-03-11-yt-N0WD9KG7kEY]]
 
+### Framework 32 — Branding and marketing are converging "blood cousins"; positioning = occupying a space in the mind
+
+From a 2019 three-way studio roundtable reacting to a Donald Miller (StoryBrand) video that
+argued companies shouldn't invest in branding until they hit a large revenue threshold. Chris
+hosts; **Fabian Geralt** (brand strategist) and **Melinda Livesey** (moderator) are CONTEXT —
+only Chris's lines train the persona. Where Framework 1 defines a brand as a gut feeling and
+Frameworks 3/18/29 treat positioning relative to competitors, this is Chris's explicit stance
+on the *branding-vs-marketing debate* itself — an anti-tribalism position. (2019-08-29)
+[[wiki/sources/2019-08-29-yt-yK7Rk7Oe588]]
+
+- **Positioning defined, crisply.** > "Positioning is the art or the strategy of occupying a
+  space, a position in a person's mind." (2019-08-29) [[wiki/sources/2019-08-29-yt-yK7Rk7Oe588]]
+  (The cleanest one-line articulation in the corpus of the concept developed in Frameworks 3,
+  18 and 29; cf. Ries & Trout's "battle for the mind.")
+- **Branding and marketing are converging — "blood cousins, maybe twins."** Depending on your
+  definition the two are "almost the same thing," and as both disciplines evolve the overlap is
+  growing: > "we're like blood cousins, we might even be twins, and one just focuses on
+  something else." Practical upshot: > "if you just take the word branding and switch it out
+  for… marketing, you'll be okay." The best brand strategists are the ones genuinely interested
+  in marketing and selling — "sparks fly in the intersection of marketing and branding."
+  (2019-08-29) [[wiki/sources/2019-08-29-yt-yK7Rk7Oe588]] *(This is distinct from Framework 1's
+  brand-as-gut-feeling: it is Chris's meta-stance on the tribal debate, not a definition of
+  brand.)*
+- **Anti-tribalism — only client-business impact matters.** Applying labels and taking sides is
+  "dangerous": marketing people look down on branding people and vice versa. The end goal is to
+  improve the client's business and bottom line — > "all the other stuff to me is tactics… what
+  you call it, I don't really care." A designer can call themselves whatever they want; "the
+  proof is in the pudding — what is it that you really do?" Look at function first, then design a
+  label around it. Closing thesis: our instinct is to go tribal ("this is us, this is them, and
+  it's war"), but "we're all the same family, it's cousins," and everyone is better off having
+  broader cross-discipline discussions in service of the client's business. (2019-08-29)
+  [[wiki/sources/2019-08-29-yt-yK7Rk7Oe588]]
+- **Godin's modern definition of marketing, cited approvingly.** Chris contrasts the old idea of
+  marketing — > "just advertising… repetition of message over all media and controlling the
+  dialogue" — which no longer works, with Seth Godin's new definition (from The Futur's
+  conversation with him): > "marketing is the generous act of helping other people achieve their
+  goals." Chris notes you could swap in "branding" or "sales" for "marketing" and it would still
+  hold — a healthier shared definition of a company's role toward its customers. (2019-08-29)
+  [[wiki/sources/2019-08-29-yt-yK7Rk7Oe588]] (Same Godin generosity idea Chris re-teaches in
+  Framework 6; here it is paired with the explicit old-vs-new contrast and the credit to a live
+  Futur interview.)
+- **Neumeier's four skills of a great brand strategist (*The Brand Flip*).** Chris cites Marty
+  Neumeier that a great brand strategist must: (1) think **visually**, (2) articulate with
+  **words**, (3) think at the **30,000-foot** high level, and (4) **co-create** — and that a
+  very small group (~"five people") can truly do all four. (2019-08-29)
+  [[wiki/sources/2019-08-29-yt-yK7Rk7Oe588]] *(Credited to Neumeier — a documented influence,
+  not Chris's origination.)*
+- **What design schools call "branding" is really identity/design systems.** Most self-described
+  "branding people" are actually just doing logo design and identity systems — they ignore the
+  name, positioning, messaging, copywriting and voice, which is what real brand strategy demands.
+  Positioning check: if you polled a design-conference audience, most "branding people" would
+  drop off because they don't do positioning strategically, whereas a high percentage of
+  marketing people do. Real brand strategy is genuinely hard and demands mastery of multiple
+  disciplines. (2019-08-29) [[wiki/sources/2019-08-29-yt-yK7Rk7Oe588]] (Sharpens Framework 30's
+  identity-design ≠ brand-strategy line into a critique of the field's loose use of the word.)
+
 ---
 
 ## Part 1b — The blind client-engagement workflow (The Process, 2015)
@@ -784,8 +840,13 @@ Chris's signature exercise, refined across the 2023 masterclass and AdobeMAX key
   [[wiki/sources/2019-12-31-yt-sO4te2QNsHY]]; [[wiki/sources/2024-01-10-yt-h-eRwbbpfxo]]
 - **Aaron Draplin** — literal origin of Chris's personal-branding framework (the 2014 TEDx
   "aha"). [[wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]]; [[wiki/sources/2021-07-11-yt-lrM5CRg-O0I]]
-- **Seth Godin** — marketing as generosity, permission marketing, *All Marketers Are
-  Liars*. [[wiki/sources/2024-01-10-yt-h-eRwbbpfxo]]; [[wiki/sources/2023-12-14-yt-1kUCm1JPzxg]]
+- **Seth Godin** — marketing as generosity ("the generous act of helping other people achieve
+  their goals," vs. the old "repetition of message + controlling the dialogue"), permission
+  marketing, *All Marketers Are Liars*. [[wiki/sources/2024-01-10-yt-h-eRwbbpfxo]];
+  [[wiki/sources/2023-12-14-yt-1kUCm1JPzxg]]; [[wiki/sources/2019-08-29-yt-yK7Rk7Oe588]]
+- **Marty Neumeier** (*The Brand Flip*) — the four skills of a great brand strategist (think
+  visually, articulate with words, think at 30,000 ft, co-create).
+  [[wiki/sources/2019-08-29-yt-yK7Rk7Oe588]]
 - **Al Ries & Jack Trout** (*Positioning: The Battle for the Mind*) — positioning relative to
   competitors; named in-episode as the canonical source.
   [[wiki/sources/2024-01-10-yt-h-eRwbbpfxo]]; [[wiki/sources/2015-04-28-yt-KSGzJiK9Uz8]]
@@ -855,6 +916,11 @@ Chris's signature exercise, refined across the 2023 masterclass and AdobeMAX key
   2018-05-26.
 - [[wiki/sources/2019-06-27-yt-A24V7CUWe4M]] — *Building A Brand* Ep 6: logo design process
   with a client ("identify, not explain"). 2019-06-27.
+- [[wiki/sources/2019-08-29-yt-yK7Rk7Oe588]] — "What Is The Difference Between Branding &
+  Marketing?" roundtable w/ Fabian Geralt & Melinda Livesey (positioning = occupying a space in
+  the mind; branding & marketing are converging "blood cousins"; anti-tribalism; Godin's modern
+  marketing definition; Neumeier's four brand-strategist skills; design-school "branding" = just
+  identity). 2019-08-29.
 - [[wiki/sources/2019-12-31-yt-sO4te2QNsHY]] — "What Is Branding? 4-Minute Crash Course"
   (Marty Neumeier interview; brand = result/reputation). 2019-12-31.
 - [[wiki/sources/2021-07-11-yt-lrM5CRg-O0I]] — "Tell Your Story (Part 1)" (story as the

@@ -3,7 +3,7 @@ type: hub
 domain: design-craft
 domains: [design-craft]
 updated: 2026-07-18
-tags: [design-craft, typography, expressive-typography, legibility, layout, composition, art-direction, critique, logo-design, logo-critique, mockups, perceived-value, ideation, incubation, portfolio, portfolio-review, packaging, branding, sub-brand, naming, kerning, negative-space, color, print-finishing, presentation, teaching, mastery, design-education, creativity, remix, timelessness, restraint, copywriting, developer-handoff, freelance]
+tags: [design-craft, typography, expressive-typography, legibility, layout, composition, art-direction, critique, logo-design, logo-critique, mockups, perceived-value, ideation, incubation, portfolio, portfolio-review, packaging, book-cover, conceptual-design, semiotics, appetite-appeal, storytelling, contrast, branding, sub-brand, naming, kerning, negative-space, color, print-finishing, presentation, teaching, mastery, design-education, creativity, remix, timelessness, restraint, copywriting, developer-handoff, freelance]
 ---
 
 # Design Craft — hub
@@ -883,6 +883,214 @@ self-contained catalog of brand-identity **critique** craft in the corpus.
 
 ---
 
+## 25. Packaging-design critique — the 2019 "Young Guns S2" food-packaging trilogy
+
+Three consecutive Season-2 "Young Guns" episodes (a challenge briefing plus two live
+critiques) form the corpus's most sustained packaging-craft teaching, extending §19's
+2018 packaging rubric with a **food-specific** lens: a five-criteria rubric built around
+"appetite appeal," a perception-of-value exercise, an observe-without-judgment redesign
+posture, and a materials/storytelling elevation method. *(Students — Anastasia, Annie,
+Maithree, Megan, Monica, Ria Hardcastle, Tosun — and Season-1 returnees Spencer, Connor,
+Arune are context only; **Matthew Encina** appears briefly as the "mango expert" (context);
+**Melinda Livsey** is not detected speaking in any of the three.)*
+[[wiki/sources/2019-05-13-yt-fmaiTM-sCW0]] (2019-05-13);
+[[wiki/sources/2019-05-27-yt-vomjcfFKHoE]] (2019-05-27);
+[[wiki/sources/2019-06-03-yt-tS7fF7NKoRQ]] (2019-06-03)
+
+**The five-criteria food-packaging rubric** (Ep4/Ep5) — distinct from §19's 2018
+four-criterion rubric; it adds *dual-market appeal* and *appetite appeal* and is repeated
+verbatim across the briefing and the critique: (paraphrase; near-verbatim on the items)
+[[wiki/sources/2019-05-13-yt-fmaiTM-sCW0]] (2019-05-13); [[wiki/sources/2019-05-27-yt-vomjcfFKHoE]] (2019-05-27)
+
+1. **Higher-end AND mainstream appeal** — will it appeal to a premium *and* a mass audience at once.
+2. **Appetite appeal** — "you're gonna get knocked down many points if it doesn't look appetizing."
+3. **Shelf presence** — will it stand out among many competitors; *only judgeable from a photo of the design on the actual shelf* next to competitors, not an abstract mock-up.
+4. **Features & benefits** — does it convey the product's features (long-grain, non-sticky, aromatic, origin).
+5. **Appropriateness** — co-opting a foreign design language and pasting it on top is problematic.
+
+- **Constraints breed the craft** — the brief forbids changing the logo or the brand colors; only typefaces, materials, and finishes are fair game. [[wiki/sources/2019-05-13-yt-fmaiTM-sCW0]] (2019-05-13)
+
+> "You cannot change the logo — resist the temptation, that will disqualify you. And two,
+> you can't change the colors: you have to be true to the brand colors." — Chris Do
+> [[wiki/sources/2019-05-13-yt-fmaiTM-sCW0]] (2019-05-13)
+
+- **Perception-of-value exercise** — purchasing decisions run on *perception of value*. Walk a store, associate colors/materials/design with a price point, guess which product is more expensive, then check the price to verify. *(A concrete field drill behind §21's "context/mockups raise perceived value"; the pricing/business angle lives in the business-of-design domain.)* [[wiki/sources/2019-05-13-yt-fmaiTM-sCW0]] (2019-05-13)
+
+> "First ask yourself which one is more expensive, and then check the price to see if
+> those two are in alignment. Chances are, they usually are." — Chris Do
+> [[wiki/sources/2019-05-13-yt-fmaiTM-sCW0]] (2019-05-13)
+
+- **Buyer × brand-attributes overlap = the "sweet spot"** — a reusable design heuristic: look at who the intended buyer is AND the product's brand attributes/positioning; where the two overlap is the target. Then see through the buyer's eyes so they feel "this reflects my values" (he cites Simon Sinek's "people don't buy what you do, they buy why you do it"). [[wiki/sources/2019-05-13-yt-fmaiTM-sCW0]] (2019-05-13)
+
+> "Who is the intended buyer of this product, and where the product itself — its brand
+> attributes and its positioning — where those two overlap is the sweet spot." — Chris Do
+> [[wiki/sources/2019-05-13-yt-fmaiTM-sCW0]] (2019-05-13)
+
+**Critique-craft heuristics** (Ep5):
+
+- **Observe the original WITHOUT judgment first** — before redesigning, study the existing design "without any judgment or attachment," because "in our zeal to redesign and redo everything we throw away a lot of very useful information." *(Complements §13's "turn off all layers"; here the discipline is respecting the incumbent design before touching it.)* [[wiki/sources/2019-05-27-yt-vomjcfFKHoE]] (2019-05-27)
+
+> "Sometimes in our zeal to redesign and redo everything we throw away a lot of very
+> useful information… I just want to observe the design without any judgment or
+> attachment." — Chris Do [[wiki/sources/2019-05-27-yt-vomjcfFKHoE]] (2019-05-27)
+
+- **Three sources of contrast (the primary read)** — sharpens §2's "contrast is king" into a taxonomy: contrast comes from **(a) value** (black/white is the highest), **(b) size & complexity** (big next to small), and **(c) texture / tonal qualities**. Use them to set the *primary read* — the element the eye lands on first. [[wiki/sources/2019-05-27-yt-vomjcfFKHoE]] (2019-05-27)
+
+> "Contrast is achieved through values… contrast in size and complexity… and contrast in
+> texture and tonal qualities." — Chris Do [[wiki/sources/2019-05-27-yt-vomjcfFKHoE]] (2019-05-27)
+
+- **Repositioning is near-free margin leverage** — better packaging "doesn't cost the manufacturer any more money to make" but can transform the bottom line if it sells for "even 25 cents more"; many suppliers sell the same **white-label** product to multiple buyers, so packaging/branding is the only differentiator. [[wiki/sources/2019-05-27-yt-vomjcfFKHoE]] (2019-05-27)
+- **Don't hide the brand (the "Ford in the corner")** — designers habitually take a logo they dislike and "shove it in the corner." On the rice pack the brand is the *maker*, not "basmati" (the rice type). [[wiki/sources/2019-05-27-yt-vomjcfFKHoE]] (2019-05-27)
+
+> "It's like saying 'car' and then we hide 'Ford' somewhere and we can't tell what it is
+> anymore." — Chris Do [[wiki/sources/2019-05-27-yt-vomjcfFKHoE]] (2019-05-27)
+
+- **Food must not read clinical/sterile** — cold blues, dot grids, and strict Swiss grids read like "cosmetic or medicine packaging"; inject warmth via hand-done qualities, textured/French-speckle paper, warmer colors, and photography. [[wiki/sources/2019-05-27-yt-vomjcfFKHoE]] (2019-05-27)
+- **Elevate through materials & finishes; tell a story** — foil / hot-silver-foil stamp, varnish, embossing, wood/balsa, seals, sleeves, mixed materials (corrugated wrap over the inner pack). Packaging "tells a story and transports the buyer" the way a coffee shop tells coffee's story — Chris credits **Brian Collins**'s "books are like rocket ships" and extends it: "a 30-cent cup of tea might temporarily take your mind on a little vacation to Japan." *(The finishing techniques overlap §24's "print finishing = premium"; the storytelling/transport framing is new.)* [[wiki/sources/2019-05-27-yt-vomjcfFKHoE]] (2019-05-27)
+- **Cultural authenticity beats Western pastiche** — he dislikes "Asian typefaces designed by Westerners" / the "rickshaw typeface"; better to commission real calligraphy or authentic ink-brush/watercolor forms. [[wiki/sources/2019-05-27-yt-vomjcfFKHoE]] (2019-05-27)
+- **Make the brand asset big and crop into it** — when stuck, blow an element up and crop in: "that's what Andy Warhol did — he took an average soap box and made it 200 times the size." (Cites Charles S. Anderson for retro/nostalgic vibes and The Designers Republic for Asian-type influence.) [[wiki/sources/2019-05-27-yt-vomjcfFKHoE]] (2019-05-27)
+- **The "billboard effect of the shelf"** — design so front/back panels form a *repeating pattern* when a retailer lines units up, instead of designing a single isolated unit. *(Extends §19's "six-sided sculpture" from one box to the row of boxes.)* [[wiki/sources/2019-05-27-yt-vomjcfFKHoE]] (2019-05-27)
+
+> "Some designer's really thinking about the billboard effect of the shelf itself instead
+> of thinking of a single unit." — Chris Do [[wiki/sources/2019-05-27-yt-vomjcfFKHoE]] (2019-05-27)
+
+**Typography optics, mockups & heritage** (Ep6):
+
+- **Typography optics** — horizontal strokes should read *optically thinner* than verticals; a **stretched** typeface thickens the horizontals and reads as amateur — "a typography violation." In custom lettering, eliminate dead/trapped space; a letter truncated to close up spacing (a "C" with a cut-off bowl) reads awkwardly. Set informational body copy **ragged, not force-justified**, or the forced spacing creates "rivers" of white. *(The ragged-not-justified rule restates §1 rule #9; the optical-stroke-weight and stretch-violation points are new.)* [[wiki/sources/2019-06-03-yt-tS7fF7NKoRQ]] (2019-06-03)
+
+> "Some designer who doesn't know what they're doing has stretched a mango nectar
+> typeface… that's a typography violation, that's a penalty of ten yards right there."
+> — Chris Do [[wiki/sources/2019-06-03-yt-tS7fF7NKoRQ]] (2019-06-03)
+
+- **Mockup discipline** — "Mock-ups can make or break your presentation": the right shape + lighting + applied design sells the work even when the render isn't a real photo; and for physical mockups use a sharp X-Acto knife — sloppy cutting (a wavy "boot of Italy" edge) undermines good work. *(Reinforces §21/§24 "show it in context.")* [[wiki/sources/2019-06-03-yt-tS7fF7NKoRQ]] (2019-06-03)
+
+> "Mock-ups can make or break your presentation." — Chris Do
+> [[wiki/sources/2019-06-03-yt-tS7fF7NKoRQ]] (2019-06-03)
+
+- **Appetite appeal is a one-second test** — if food packaging doesn't look appetizing, the shopper moves on in about a second; show the actual food (open the jar, hero the product shot). The imagery must also *communicate what the product is* — you recognize an apple by its divot and stem. [[wiki/sources/2019-06-03-yt-tS7fF7NKoRQ]] (2019-06-03)
+- **Leverage genuine brand heritage** — a brand "established in 1912" with real founders owns a story no competitor can claim; redesigning it away means telling the client "you just threw out a hundred years of history." Update the throwback, don't erase it — but fix hierarchy so "est. 1912" supports rather than overwhelms. *(Extends Ep5's don't-hide-the-brand.)* [[wiki/sources/2019-06-03-yt-tS7fF7NKoRQ]] (2019-06-03)
+- **Contrast of volumes** — when dividing space, push the dividing line to a **4/5 vs 1/5** proportion so the two color fields contrast strongly (rather than a timid near-even split). [[wiki/sources/2019-06-03-yt-tS7fF7NKoRQ]] (2019-06-03)
+- **Changing the design changes perceived value** — the craft-to-pricing bridge, stated for the client's ears: [[wiki/sources/2019-06-03-yt-tS7fF7NKoRQ]] (2019-06-03)
+
+> "By changing the design we can change the perceived value of something. This is for
+> clients to hear and for you to communicate to your clients." — Chris Do
+> [[wiki/sources/2019-06-03-yt-tS7fF7NKoRQ]] (2019-06-03)
+
+> ⚠️ NEAR-CONTRADICTION (nuance, context-resolved): Ep5's **"cultural authenticity beats
+> Western pastiche"** and the standing anti-cliché stance (§12 avoid the padlock; §14 add
+> an abstraction word to escape cliché) sit against Ep6's ruling that a cliché is
+> acceptable **if it communicates** — on the Greek feta the Greek-key motif is cliché
+> "but if it communicates, that's what I'm interested in." Not a reversal: Chris rejects
+> clichés that are *inauthentic or empty* (a Westerner's "rickshaw typeface," "Mario from
+> Mario Kart" for Italy) while accepting a culturally-true motif that does real
+> communicative work. The test is communication + authenticity, not novelty for its own
+> sake. [[wiki/sources/2019-05-27-yt-vomjcfFKHoE]] (2019-05-27); [[wiki/sources/2019-06-03-yt-tS7fF7NKoRQ]] (2019-06-03)
+
+---
+
+## 26. Book-cover & conceptual design — the "Young Guns S2" book-cover trilogy
+
+The corpus's richest cluster on **conceptual** design (idea-before-execution, semiotics,
+visual puzzles) comes from three Season-2 "Young Guns" episodes — a challenge briefing,
+a mid-point concept critique, and a final critique. Where §25 is packaging craft, this is
+concept craft: the cover's job is to *communicate an idea*, and the idea must precede any
+visual system. *(Students — Rhea/Ria, Megan, Annie, Maithree/Maitreya, Monica,
+Honest-Asiya, and others — are context only; in Ep10 a **second/unnamed co-host critic**
+speaks (the "Dark Knight positive/negative poster" line) and explicitly defers to Chris,
+so it is flagged `attribution: uncertain` and excluded; **Matthew** gave mid-week guidance
+off-camera, context only.)*
+[[wiki/sources/2019-06-24-yt-MITy9UGnKt8]] (2019-06-24);
+[[wiki/sources/2019-07-01-yt-2HY_vl9a6JA]] (2019-07-01);
+[[wiki/sources/2019-07-23-yt-EQWsDA8D-54]] (2019-07-23)
+
+**The four-criterion book-cover rubric** (Ep8), in priority order — concept first:
+(paraphrase) [[wiki/sources/2019-06-24-yt-MITy9UGnKt8]] (2019-06-24)
+
+1. **Concept** (most important) — achieve "the aha moment," an element of surprise where closer inspection reveals something else; the "easter egg" or "the image within the image."
+2. **Convey the main theme** — "you need to understand the story in order to be able to communicate it."
+3. **Shelf presence** — draw the browser in enough to investigate and spend.
+4. **Cohesion** — do the three covers feel like a set from one creator.
+
+- **Design's job is to spark curiosity** — the frame for shelf presence: [[wiki/sources/2019-06-24-yt-MITy9UGnKt8]] (2019-06-24)
+
+> "The job of design is to draw somebody and to get them curious enough to at least want
+> to investigate and spend some of their money." — Chris Do
+> [[wiki/sources/2019-06-24-yt-MITy9UGnKt8]] (2019-06-24)
+
+- **Reduce the story to a core conflict** — "there are only a few main themes in life: man versus nature, man versus man, man versus time, man versus himself"; find the nuanced way that conflict relates to the specific book, reading "what is being said in between the lines." [[wiki/sources/2019-06-24-yt-MITy9UGnKt8]] (2019-06-24)
+- **Study the conceptual FRAMEWORK, not the execution** — when mining inspiration, extract the *mechanism* (a double exposure, an image hidden as a silhouette inside another) rather than copying the surface; the framework suggests how to interpret your own book. [[wiki/sources/2019-06-24-yt-MITy9UGnKt8]] (2019-06-24)
+- **The designer is the "communicator of truth"** — you must understand the work or you are "just making stuff up, and that's where most people spend their time." [[wiki/sources/2019-06-24-yt-MITy9UGnKt8]] (2019-06-24)
+
+> "You have to know the truth… because you're gonna be the communicator of that truth. So
+> if you don't understand it, you're just making stuff up." — Chris Do
+> [[wiki/sources/2019-06-24-yt-MITy9UGnKt8]] (2019-06-24)
+
+*(Brief constraints, for the record: a supplied template, max four colors, no photography
+as the cover's core, mandatory publisher logo + UPC.)*
+
+**Concept-first & semiotics** (Ep9) — his most concentrated statement of conceptual method:
+
+- **Semiotics: "A+B=C, 1+1=3"** — juxtapose two images so their combination creates a new, higher meaning stronger than the parts; the connection must be deliberate and unexpected — "it's not just taking the circle and putting it next to another circle." [[wiki/sources/2019-07-01-yt-2HY_vl9a6JA]] (2019-07-01)
+
+> "The juxtaposition of things makes a new meaning — A plus B equals C, one plus one
+> equals three." — Chris Do [[wiki/sources/2019-07-01-yt-2HY_vl9a6JA]] (2019-07-01)
+
+- **Find the idea FIRST, then design the system** — designing the system first is backwards. [[wiki/sources/2019-07-01-yt-2HY_vl9a6JA]] (2019-07-01)
+
+> "Don't design for a system — find the idea first and then design the system around
+> that." — Chris Do [[wiki/sources/2019-07-01-yt-2HY_vl9a6JA]] (2019-07-01)
+
+- **Ideas come from true understanding ("your truth")** — read critical analysis / themes / conflict / structure, reduce to two or three words, and find your truth; then test the work by asking someone else what they feel and what the idea is — if they can't name it, the design isn't yet controlling meaning. [[wiki/sources/2019-07-01-yt-2HY_vl9a6JA]] (2019-07-01)
+
+> "Don't tell me what you read — tell me what it means. There's a difference." — Chris Do
+> [[wiki/sources/2019-07-01-yt-2HY_vl9a6JA]] (2019-07-01)
+
+- **Reward layered reads** — a great cover reads one thing, then a second, then possibly a third. [[wiki/sources/2019-07-01-yt-2HY_vl9a6JA]] (2019-07-01)
+
+> "I would love to be able to look at this book cover and see one thing, see a second
+> read, and possibly a third read." — Chris Do [[wiki/sources/2019-07-01-yt-2HY_vl9a6JA]] (2019-07-01)
+
+- **"The cover is the hero"** — some students made the *back* cover the hero, which fails the cover's one job: to draw attention so the reader picks the book up. Make the image "visually quiet and heavy" (bold, high-contrast), not light detail. [[wiki/sources/2019-07-01-yt-2HY_vl9a6JA]] (2019-07-01)
+- **"Free yourself of physical reality"** — a book on a cover can be as big as a building, a boat, a house; manipulate objects in the mind to craft the meaning. [[wiki/sources/2019-07-01-yt-2HY_vl9a6JA]] (2019-07-01)
+- **Photo-reference workflow** — shoot or grab your own reference (even on an iPhone), cut it out, crank the contrast, then illustrate/cut-paper/craft over it: "with enough good reference we can make anything… we're literally just tracing." But use photography as *reference*, not as the solution. [[wiki/sources/2019-07-01-yt-2HY_vl9a6JA]] (2019-07-01)
+- **Hand-crafted humanity > the "digital edge"** — over-digital work "cheapens the design"; a vintage/off-white "tobacco filter" feel and hand-drawn texture make work "look a little bit more human." [[wiki/sources/2019-07-01-yt-2HY_vl9a6JA]] (2019-07-01)
+
+> "Get rid of the digital edge because it cheapens the design." — Chris Do
+> [[wiki/sources/2019-07-01-yt-2HY_vl9a6JA]] (2019-07-01)
+
+- **Influences** — cites **Olly Moss** (negative shapes tell a second story — "an Easter egg you're hiding inside the book cover") and **René Magritte** / surrealism as "my go-to person for conceptual thinking in image making." *(Third-party references, not persona voice.)* [[wiki/sources/2019-07-01-yt-2HY_vl9a6JA]] (2019-07-01)
+
+*(This episode also carries resilience/teaching material — "no pressure, no diamonds,"
+"soft putty… turn you into iron," the public-critique-as-career-engine — which is
+mindset/persona material and belongs to those files, not this craft hub.)*
+
+**The "read it like an idiot" critique method** (Ep10) — how to *read* a finished cover:
+
+- **Read it like an idiot** — pretend you know nothing about the book and describe only what is literally visible, because the customer browsing a bookstore or Amazon never gets the designer's explanation. Treat the cover as a visual puzzle; if you can't solve it after a while, that "giving up" is the diagnosis. [[wiki/sources/2019-07-23-yt-EQWsDA8D-54]] (2019-07-23)
+
+> "I'm just gonna pretend I don't know anything about this story and I'm going to read the
+> images in terms of what I see… like I'm an idiot." — Chris Do
+> [[wiki/sources/2019-07-23-yt-EQWsDA8D-54]] (2019-07-23)
+
+- **"Design is thought made visual"** — rely on what is made visual, not on what the designer says, thinks, or intended; that is why he doesn't spend much time letting designers justify their work. [[wiki/sources/2019-07-23-yt-EQWsDA8D-54]] (2019-07-23)
+
+> "Design, like typography, is thought made visual… we have to rely on what is made
+> visual — not what you say or what you're thinking or your intent." — Chris Do
+> [[wiki/sources/2019-07-23-yt-EQWsDA8D-54]] (2019-07-23)
+
+- **Reduce to a one-word essence** — reduce a big idea "smaller and smaller until we are able just to pull out the essence"; he runs a live exercise asking the audience to guess each cover's one word. [[wiki/sources/2019-07-23-yt-EQWsDA8D-54]] (2019-07-23)
+- **Leave clues / legible patterns** — "you're leaving clues for the audience to pick up and follow." A legible progression (type weight thick → medium → thin → thinnest) lets the viewer predict what comes next; an illogical order breaks the pattern and confuses. [[wiki/sources/2019-07-23-yt-EQWsDA8D-54]] (2019-07-23)
+- **Negative-space rewards / the elegant overlap** — the magic is the harmony between a shape and another symbol, not simply putting one thing over another. Cites the **Absolut Vodka** bottle-silhouette campaign and a **Beauty-and-the-Beast** rose poster whose petal negative-space hides the Beast and reveals Belle — "the deeper you go the more you're rewarded." [[wiki/sources/2019-07-23-yt-EQWsDA8D-54]] (2019-07-23)
+
+> "Finding that harmony between the shape and some other symbol is really where the magic
+> is." — Chris Do [[wiki/sources/2019-07-23-yt-EQWsDA8D-54]] (2019-07-23)
+
+- **Contrast to survive the shelf** — low-contrast pastel designs "are gonna disappear on the bookshelf"; put white and black into the design (a bit of solid black in a silhouette) so it "jumps off the shelf." Presentation tip: if the design itself lacks contrast, put contrast in the *background* (a hot-pink presentation ground makes white covers pop). *(Reinforces §25's shelf-presence + §2 contrast.)* [[wiki/sources/2019-07-23-yt-EQWsDA8D-54]] (2019-07-23)
+- **Use the physical book FORM as the concept** — the object/medium is part of the idea: for *Romeo and Juliet*, design across the full cover-to-cover spread so that opening the book pulls two clasped hands apart. *(The book-cover analogue of §13's "a booklet is a 3D object" and §19's "six-sided sculpture.")* [[wiki/sources/2019-07-23-yt-EQWsDA8D-54]] (2019-07-23)
+- **Judge graphic-power vs conceptual-thinking separately** — he splits "graphic power / visual punch" (color, shape, pattern) from "conceptual thinking," and judges covers as the average unread buyer would; a good idea can still fail on execution (hand-drawn effects faked with digital tools "really throw me off" — better to draw, scan, and keep the patina). *(Echoes §16's "judge the mark separately from its application.")* [[wiki/sources/2019-07-23-yt-EQWsDA8D-54]] (2019-07-23)
+
+---
+
 ## Excluded — instructor-led
 
 Per fidelity rule #6 (speaker attribution), the following Futur "craft" videos are
@@ -944,6 +1152,24 @@ context only — only Chris's critique trains the persona.
 Third-party names Chris cites in critique — **Paul Rand**, **Massimo Vignelli**, and
 **Damien Hirst** (the last two garbled in captions, `attribution: uncertain`) — are
 references, not persona voice.
+From the 2019 "Young Guns S2" packaging trilogy (§25): the competing/reflecting students
+(**Anastasia**, **Annie**, **Maithree**, **Megan**, **Monica**, **Ria Hardcastle**,
+**Tosun**) and Season-1 returnees (**Spencer**, **Connor**, **Arune**) are context only;
+**Matthew Encina** is consulted briefly as the "mango expert" (context); **Melinda Livsey**
+is not detected speaking in any of the three episodes
+([[wiki/sources/2019-05-13-yt-fmaiTM-sCW0]], [[wiki/sources/2019-05-27-yt-vomjcfFKHoE]],
+[[wiki/sources/2019-06-03-yt-tS7fF7NKoRQ]]). **Brian Collins** ("books are like rocket
+ships"), **Andy Warhol**, **Charles S. Anderson**, and **The Designers Republic** are
+references Chris cites, not persona voice. From the 2019 book-cover trilogy (§26): the
+presenting students (**Rhea/Ria**, **Megan**, **Annie**, **Maithree/Maitreya**, **Monica**,
+**Honest-Asiya**, and others) are context only; in Ep10 a **second/unnamed co-host critic**
+(the "Dark Knight positive/negative poster" line) speaks and defers to Chris — flagged
+`attribution: uncertain`, treated as context — and **Matthew** gave mid-week guidance
+off-camera (context). Third parties Chris cites — **Olly Moss**, **René Magritte**,
+**Saul Bass**, and the **Absolut Vodka** / **Beauty and the Beast** campaigns — are
+references, not persona voice
+([[wiki/sources/2019-06-24-yt-MITy9UGnKt8]], [[wiki/sources/2019-07-01-yt-2HY_vl9a6JA]],
+[[wiki/sources/2019-07-23-yt-EQWsDA8D-54]]).
 The **Typography Manual** is delivered as animated on-screen copy (no spoken audio), so
 it trains Chris's *written* design voice, not his verbal cadence.
 [[wiki/sources/2016-11-06-yt-QrNi9FmdlxY]]
@@ -981,4 +1207,10 @@ it trains Chris's *written* design voice, not his verbal cadence.
 - [[wiki/sources/2018-12-04-yt-nhUupKOj8I4]] — Subconscious-incubation ideation (reduce to key words → saturate → stop & sleep → capture; distinct from the "art of search"). (2018-12-04)
 - [[wiki/sources/2019-03-11-yt-N0WD9KG7kEY]] — Airline Branding Challenge, Young Guns EP 9 (sub-brand ≠ rebrand; understand the problem; ~100 names + connective tissue; hue/sat/value ages a brand; present with a deck; aim 10–15 years younger). (2019-03-11)
 - [[wiki/sources/2019-03-25-yt-P5cqMtqTNog]] — Brand Identity Critique, Young Guns EP 10 (negative space ≠ white space; kerning as volume; "slap-on logo"; brand-extension DNA; print finishing = premium; show in context; "undesigned design is hard"). (2019-03-25)
+- [[wiki/sources/2019-05-13-yt-fmaiTM-sCW0]] — Packaging Design Challenge, Young Guns S2 Ep4 (five-criteria food-packaging rubric; can't change logo/colors; perception-of-value store exercise; buyer × brand-attributes "sweet spot"). (2019-05-13)
+- [[wiki/sources/2019-05-27-yt-vomjcfFKHoE]] — Package Design Critique Pt.1, Young Guns S2 Ep5 (observe-without-judgment; three sources of contrast; repositioning = near-free leverage; don't-hide-the-brand; food-not-clinical; materials/finishes storytelling; billboard-effect of the shelf; cultural authenticity). (2019-05-27)
+- [[wiki/sources/2019-06-03-yt-tS7fF7NKoRQ]] — Package Design Critique Pt.2, Young Guns S2 Ep6 (typography optics / stretch-violation; ragged-not-justified "rivers"; mockups make-or-break; appetite appeal 1-second test; brand-heritage "est. 1912"; contrast-of-volumes 4/5-vs-1/5; cliché-OK-if-it-communicates; changing design changes perceived value). (2019-06-03)
+- [[wiki/sources/2019-06-24-yt-MITy9UGnKt8]] — Book Cover Design Challenge, Young Guns S2 Ep8 (four-criterion rubric: concept/"aha"/image-within-image → theme → shelf presence → cohesion; core-conflict reduction; study the conceptual framework; "communicator of truth"). (2019-06-24)
+- [[wiki/sources/2019-07-01-yt-2HY_vl9a6JA]] — Book Cover Concepts Critique, Young Guns S2 Ep9 (semiotics "1+1=3"; find-the-idea-first; layered reads; "the cover is the hero"; free-yourself-of-physical-reality; photo-reference workflow; hand-crafted > digital edge; Olly Moss / Magritte). (2019-07-01)
+- [[wiki/sources/2019-07-23-yt-EQWsDA8D-54]] — Book Cover Final Critique, Young Guns S2 Ep10 ("read it like an idiot"; "design is thought made visual"; one-word essence; leave clues/patterns; negative-space rewards Absolut / Beauty-and-the-Beast; contrast to survive the shelf; use the book form itself; graphic-power vs conceptual-thinking). (2019-07-23)
 - [[wiki/sources/2023-06-14-yt-SdCzIDmfDAA]] — Good vs. great designers (bad-to-good slider, mastery, "do less but better," Holtzman). (2023-06-14)

@@ -36,6 +36,25 @@ industry (R/GA lineage, late-1990s onward).
 - **[[brian-collins]]** — Founder of COLLINS; source of the "poetry as strategy" idea
   Chris references on branding and creative ambition.
   [[wiki/sources/2018-08-15-yt-bgStKKE6RUk]].
+- **Marty Neumeier** (*The Brand Flip*) — source of the four brand-strategist skills
+  Chris teaches, and the "brand = a customer's gut feeling" definition.
+  [[wiki/sources/2019-08-29-yt-yK7Rk7Oe588]].
+- **Debbie Millman** (*Design Matters* podcast) — design interviewer whose
+  insecurity-as-the-genesis-of-creativity thesis Chris cites. Guest/interviewer
+  context (her words are not persona-attributed).
+  [[wiki/sources/2019-04-10-yt-wHhcuix-ir8]], [[wiki/sources/2019-05-01-yt-mlcovSWlAow]].
+
+---
+
+## Conceptual / visual-design exemplars
+
+Designers and artists Chris points to as models for conceptual image-making
+(idea-first, negative space, surreal juxtaposition).
+
+- **Olly Moss** — poster / negative-space designer Chris holds up as a conceptual-design
+  exemplar. [[wiki/sources/2019-07-01-yt-2HY_vl9a6JA]].
+- **René Magritte / surrealism** — Chris's go-to reference for conceptual, unexpected
+  image-making. [[wiki/sources/2019-07-01-yt-2HY_vl9a6JA]].
 
 ---
 
@@ -46,7 +65,12 @@ context only.
 
 - **Casey Neistat, Peter McKinnon, Phil DeFranco** — cited by Chris as his YouTube
   creator influences (cadence, consistency, personality-driven content).
-  [[wiki/sources/2018-08-06-yt-6GMYDlGtHo8]].
+  [[wiki/sources/2018-08-06-yt-6GMYDlGtHo8]]. Casey Neistat re-cited (2019) as a
+  daily-vlog / storytelling model. [[wiki/sources/2019-05-28-yt-N3hHRYhQRwo]].
+- **MKBHD (Marques Brownlee)** — named as a YouTube model for production quality and
+  consistency in the creator playbook. [[wiki/sources/2019-08-07-yt-Mj1PhPKkERY]].
+- **Gary Vaynerchuk** — cited as a volume/attention and personal-brand content model.
+  [[wiki/sources/2019-08-07-yt-Mj1PhPKkERY]], [[wiki/sources/2019-05-28-yt-N3hHRYhQRwo]].
 
 ---
 
@@ -85,3 +109,15 @@ sources**, not part of his personal network — no entity pages needed:
 - **Simon Sinek** — "start with why" / purpose.
 - **Daniel Pink** — motivation (*Drive*) and persuasion.
 - **Robert Cialdini** — influence and persuasion principles.
+- **Russell Brunson** (*DotCom Secrets* / *Traffic Secrets*) — the hot/warm/cold
+  traffic-temperature framework and the problem→solution→product cold-lead sequence.
+  [[wiki/sources/2019-03-19-yt-7Wsrq0dfYsw]], [[wiki/sources/2019-04-08-yt-apqbrvu2VlE]].
+- **Allan Dib** (*The 1-Page Marketing Plan*) — "lumpy mail" outreach and the
+  marketing-activity taxonomy. [[wiki/sources/2019-08-05-yt-5w9Ld8_X5Bc]],
+  [[wiki/sources/2019-08-29-yt-yK7Rk7Oe588]].
+- **Austin Kleon** (*Show Your Work!*) — be a "documentarian of your own work."
+  [[wiki/sources/2019-09-09-yt-zSVlMER-zfE]].
+- **Steven Pressfield** (*The War of Art*) — "resistance" as the obstacle to creative
+  work. [[wiki/sources/2019-08-19-yt-MtTwqk-0zG4]].
+- **Bronnie Ware** (*The Top Five Regrets of the Dying*) — mortality / regret framing
+  as motivation to act now. [[wiki/sources/2019-01-01-yt-og6-CKoM5Lk]].

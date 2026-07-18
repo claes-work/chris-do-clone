@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-18
-sources: 85
+sources: 98
 ---
 
 # Beliefs
@@ -53,7 +53,20 @@ leverage, buy-low-sell-high arbitrage, hold cash runway because bigger deals clo
 different but better / race-to-the-top vs. race-to-zero" content-marketing thesis, three mindset
 positions (out-hustle over talent, "weird business person not motivated by money," "every peak is
 the base of another mountain"), and 2019 design-craft convictions ("undesigned design is hard,"
-"one flourish not 35," aim 10–15 years younger). All video material
+"one flourish not 35," aim 10–15 years younger). Expanded again 2026-07-18 (**synthesis pass 7**)
+from ten batches of Apr→Oct 2019 "@thefutur" videos (ingest batches 56–65) — his
+**audience-over-customers** content thesis (great companies earn attention freely — "be consistent,
+give generously, serve others"; "stop selling, start celebrating"), the **teach-before-you're-an-expert**
+charge (imposter syndrome robs others; "don't edit what you give"), two mindset keynotes (**innovate
+don't iterate** — define yourself by purpose, "a thousand wrong decisions beats no decision," "run
+towards your fear"; and **find heroes, not mentors** — mentors don't scale), a self-confidence cluster
+(true confidence accepts your flaws; "people buy you before your product"; "work on yourself harder than
+your job"; the memento-mori "you think you have time"), 2019 design-craft convictions ("the cover is the
+hero," "design is thought made visual," read-it-like-an-idiot, ideas from "your truth"), a
+positioning/branding definition ("occupying a space in the mind"; branding & marketing are "blood
+cousins"), two pricing positions ("double your price, don't inch up"; charging is a self-worth problem
+before a market problem), and a promotion/leadership framework (to be more valuable, anticipate the next
+steps and align initiative with the goal). All video material
 below is subject-attributed first-person unless noted; quotes are marked as quotes, everything
 else is paraphrase.
 
@@ -1086,6 +1099,182 @@ A compact career-growth framework (the "4 tips").
   aim 10 to 15 years younger than what you want to hit"* (cautionary example: Scion aimed at teens
   and ended up driven by old people). (2019-03-11) `[self-reported]`
   ([[../wiki/sources/2019-03-11-yt-N0WD9KG7kEY]])
+
+### Audience over customers — earn attention, don't buy it (2019)
+
+- **Great companies have an audience, not just customers.** *"All companies have customers; a
+  few companies have an audience."* A customer transacts once and moves on; an audience is a true
+  fan who *"enroll[s] in the community to join your tribe, and they extol the virtues of your
+  products and services."* The economics decide it: *"if you have customers, you have to pay them
+  to pay attention — that's what advertising is; whereas an audience happily gives you their time
+  and attention."* Three ideas he credits for The Futur's success: **be consistent, give
+  generously, serve others** — show up every day *"without worrying too much about the results,"*
+  hold nothing back (100% transparency, *"become a documentarian of your own work"*), and
+  *"stop selling, start celebrating"* / *"be a champion for the people that we serve."* Start from
+  Seth Godin's "smallest viable audience": look for a market, find their problem, and design a
+  solution for *them* — the inverse of designing a solution and hunting for a market. (2019-09-09)
+  `[self-reported]` ([[../wiki/sources/2019-09-09-yt-zSVlMER-zfE]])
+
+### Teach before you're an expert — imposter syndrome is theft (2019)
+
+- **Start sharing before you feel like an expert; refusing to is robbing others.** His working
+  definition is *"life experience + knowledge + skills = expertise,"* but a strict reading (plus
+  the 10,000-hours rule) *"would make very few of us experts"* — so don't wait. The popular
+  meaning of "expert" is just *"somebody who is able to help somebody else achieve their best."*
+  Imposter syndrome is theft: *"you don't want to be some charlatan — but what you're doing is
+  you're robbing yourself the ability to help other people."* Do the reps first (read a few books,
+  *"shave off 14 years of learning down to six"*), be transparent — *"I'm still figuring it out...
+  but here's what I figured out so far... come along on the ride and we'll grow together"* — and
+  **don't edit down** what you give: *"do not edit what you give to the community, to the world, to
+  your clients, to your staff — they will get more than what you think you're giving."* (2019-08-07)
+  `[self-reported]` ([[../wiki/sources/2019-08-07-yt-Mj1PhPKkERY]])
+
+### Innovate, don't iterate — define yourself by purpose (2019)
+
+- **Innovate, don't iterate — the past is a bad guide to the future.** *"Looking to the past to
+  inform the decisions of the future is a pretty sure-fire way of failure"*; *"failure and
+  invention are inseparable twins."* Companies that let past success define them *by what they do*
+  rather than *who they are / their purpose* died (Western Union, Blockbuster, Tower Records,
+  Kodak) — so redefine yourself by mission/purpose, find *"the white space"* (a gap = *"a problem
+  that everybody has ignored"*), and act: *"long-term business plans are a fantasy — pick a
+  direction, adjust as you go,"* and *"a person who makes a thousand wrong decisions is better off
+  than a person who makes no decision at all"* (run twelve one-week projects, not one 12-week
+  project). The mindset requirement is courage — his coach's rule: *"there are only two kinds of
+  people: the people that run away from fear and the ones that run towards it,"* and *"run towards
+  your fear."* (2019-09-17) `[self-reported]` ([[../wiki/sources/2019-09-17-yt-SKlCnawfQQE]])
+  > Continuity (not a reversal): extends the 2021 "reinvention is 80/20 / redefine identity by the
+  > value you create, not what you make" position (Frameworks above,
+  > [[../wiki/sources/2021-03-16-yt-XH-wD0Jbo5Y]]) and restates a 2018 "innovation vs iteration"
+  > seed — the same thesis, here grounded in named case studies.
+
+### Find heroes, not mentors (2019)
+
+- **You don't need a mentor — find heroes.** *"Mentors don't scale"* (for every successful person
+  in the public eye there are ~2,000 people who want them as a mentor), so instead find **heroes**
+  who *"don't even need to know you exist."* Ask *"what would [X] do?"* and *"use their voice in
+  your head as a compass."* Heroes are free and everywhere — books, biographies, TED talks,
+  podcasts, interviews — *"an explosion of free mentorship."* Assemble the ones you want as
+  advisors and *"hijack them — don't ask them for permission."* *"You don't need a mentor when you
+  can have many heroes."* (2019-10-24) `[self-reported]`
+  ([[../wiki/sources/2019-10-24-yt-cbwSXFNATOY]])
+  > 🔄 EVOLUTION: softens The Futur's earlier "how to get a mentor" coaching (on *approaching* and
+  > *securing* a formally-agreed mentor). The emphasis shifts from landing a real mentor to
+  > self-directed learning from heroes — though he still calls a real mentor *"fantastic"* if you
+  > can get one. This is the fuller, renamed form of his 2016 *"hijack your mentors"* idea (credited
+  > to Michael Bierut, Radical self-belief above,
+  > [[../wiki/sources/2016-12-24-yt-a5VMFo_Axdc]]).
+  > Note: multi-speaker compilation — only the Chris-attributed "heroes scale, mentors don't"
+  > reframe is promoted (Gary Vaynerchuk and an unidentified biographical speaker are context).
+
+### True confidence — accept your flaws; people buy you (2019)
+
+- **True confidence is accepting your flaws, not hiding them.** *"True confidence is not to
+  pretend like all of you is good. True confidence is recognizing what you're good at and which
+  you're not good at — accepting both what makes you great and your flaws, and being okay with
+  that."* Imposter-syndrome self-test: *"you know when you're faking it — you can't lie to
+  yourself."* Filter external input in binary — *"does this serve me or does it not serve me, and
+  just move on."* And personal branding follows self-knowledge: *"I think people buy you before
+  they buy your product or service — always,"* because *"people hire who they know, like, and
+  trust."* (2019-04-15) `[self-reported]` ([[../wiki/sources/2019-04-15-yt-UmgtWZfPA4o]])
+
+### Work on yourself harder than your job (2019)
+
+- **Work on yourself harder than on your job; live up to the title you want.** Doing your job
+  keeps you employed but doesn't get you recognized — *"you should work on yourself way harder
+  than you work on your job."* Give your best ~8 hours, then *"tell me what you do in your free
+  time and I will tell you what you become."* Behave now like the person you intend to become:
+  *"don't live up to the titles you have, live up to the title that you want."* (He echoes Jim
+  Rohn's "work harder on yourself than on your job" without crediting him in this clip.) Stated
+  personal preferences: emotional detachment in work decisions — *"attachment is a route to
+  disappointment and unhappiness"* — and *"getting things done is more important than being
+  right."* (2019-07-29) `[self-reported]` ([[../wiki/sources/2019-07-29-yt-Uu29Tb2Cilg]])
+
+### Memento mori — "you think you have time" (2019)
+
+- **The antidote to overthinking is remembering you'll die.** *"The number one thing wrong with
+  young people is you think you have a lot of time."* Your body has been decaying since birth;
+  *"when you get into this overthinking mode, just remember that you're gonna die — make the most
+  before you do."* By the time you deliberate whether to do something, the person who just started
+  has already done it. (2019-06-10) `[self-reported]`
+  ([[../wiki/sources/2019-06-10-yt-eQo2UPIRxZo]])
+
+### Design craft (2019) — the cover is the hero, thought made visual
+
+- **Find the idea from "your truth"; the cover is the hero.** A strong idea must precede any
+  visual system — *"don't design for a system — find the idea first and then design the system
+  around that."* Ideas come from genuinely understanding the subject, not decorating a summary:
+  *"when you have a true understanding of the subject, the ideas come forth. When you don't, then
+  you're making stuff up... that's where most people spend their time, just making stuff up,"* and
+  *"you have to know the truth, because you're gonna be the communicator of that truth."*
+  Conceptual design is semiotics — *"one plus one equals three"* — and should reward multiple reads
+  (*"see one thing, see a second read, and possibly a third read"*). *"The cover is the hero"* —
+  its one job is to draw attention so the reader picks up the book. (2019-07-01) `[self-reported]`
+  ([[../wiki/sources/2019-07-01-yt-2HY_vl9a6JA]])
+- **"Design is thought made visual" — read it like an idiot.** You must rely on what is *made
+  visual*, not on what the designer says or intended, because in a bookstore or on Amazon the
+  designer can't be there to explain it to every customer: *"design, like typography, is thought
+  made visual."* So he critiques by pretending to know nothing — *"I'm just gonna pretend I don't
+  know anything about this story and I'm going to read the images in terms of what I see... like
+  I'm an idiot"* — which is *"why I don't spend too much time trying to listen to what people have
+  to say to justify their design."* Reduce a big idea to its *"one word"* essence, leave legible
+  *"clues for the audience to pick up and follow,"* and build in enough contrast (black and white)
+  that a design *"jumps off the shelf"* instead of disappearing. (2019-07-23) `[self-reported]`
+  ([[../wiki/sources/2019-07-23-yt-EQWsDA8D-54]])
+
+### Positioning and the branding/marketing overlap (2019)
+
+- **Positioning = occupying a space in the mind; branding and marketing are "blood cousins."**
+  *"Positioning is the art or the strategy of occupying a space, a position in a person's mind."*
+  In the branding-vs-marketing debate he takes the conciliatory line: the two are *"almost the
+  same thing... we're like blood cousins, we might even be twins,"* and *"if you just take the word
+  branding and switch it out for marketing, you'll be okay."* Tribalism between the camps is
+  *"dangerous"* — *"the end goal... is to improve our client's business, to make an impact on their
+  bottom line, period — all the other stuff to me is tactics."* What design schools call "branding"
+  is usually just identity/logo work; real brand strategy also owns the name, positioning,
+  messaging, and voice. (2019-08-29) `[self-reported]`
+  ([[../wiki/sources/2019-08-29-yt-yK7Rk7Oe588]])
+  > Note: multi-speaker roundtable (Fabian Geralt, Melinda Livesey are context) — only
+  > Chris-attributed material promoted. Restates his Ries & Trout positioning definition (Brand &
+  > marketing fundamentals above) and the Godin "marketing is generous" line.
+
+### Charging more is a self-worth problem before a market problem (2019)
+
+- **Double your price — don't inch up.** When raising prices, *"don't make incremental jumps —
+  double."* Going from $600–800 to $1,000 is *"only $200 more"*; jump to $2K or $3K (*"three's a
+  nice number, it's a magic number"*). The buyer, not the designer, decides value: *"the buyer
+  gets to determine what's fair. I get to ask and then they get to determine what's fair"* — so
+  don't impose your own sense of worth, and don't justify the price (luxury brands don't). Charging
+  more is a virtuous loop — *"when you charge more, you can spend more time making it great... hire
+  experts to collaborate with you."* (2019-05-06) `[self-reported]`
+  ([[../wiki/sources/2019-05-06-yt-kY7i_JYNQ3Y]])
+- **The ceiling is a limiting belief, not a market fact — and education ≠ worth.** When a
+  self-taught designer asked how to know "the limit" of what he could charge, Chris attacked the
+  underlying belief rather than the mechanics: feeling *worth less* for lacking an art-school
+  degree is a fallacy — *"just because you graduated from a fancy art school it doesn't mean that
+  you're any good"* (it signals only ability to pay, get in, and finish — *"one dimension, one
+  metric"*), and *"we put too much emphasis on institutional knowledge."* *"In order for you to
+  achieve something, you must first believe it to be true."* Handle a client who says the work
+  "isn't valuable" by inversion — *"okay, it's not valuable to you, well what is? Maybe I can help
+  you with that"* — and remember *"you can invent systems to potentially resolve any client
+  objection."* (2019-05-06, 2019-05-15) `[self-reported]`
+  ([[../wiki/sources/2019-05-06-yt-kY7i_JYNQ3Y]]; [[../wiki/sources/2019-05-15-yt-7xpuDBMLFs0]])
+
+### To be more valuable, anticipate the next steps (2019)
+
+- **Value = anticipating steps + self-directed initiative aligned to the goal.** Coaching his own
+  team on getting promoted, he draws out the traits of the people succeeding: do your homework
+  (*"study before they form their opinion — from research and data versus feelings and
+  anecdotes"*); be self-directed but **aligned** — self-direction that isn't in agreement with
+  company goals (*"a whole tropical forest in the back room"*) is worthless; and above all
+  anticipate: *"the more steps that you can anticipate, the greater your value becomes to whoever
+  you're working with or for."* It reduces to one trait — *"taking initiative, thinking about what
+  the problem is and then reverse-engineering the solution and then proposing those ideas to get
+  alignment... it's really a trait of leadership."* The same logic governs client work: understand
+  goals, set benchmarks, then leave them alone — *"the only thing anybody ever cares about are the
+  results; people are less concerned about how you did it."* (2019-07-16) `[self-reported]`
+  ([[../wiki/sources/2019-07-16-yt-fAkRgRHRRms]])
+  > Note: internal coaching session — `attribution: uncertain` on some reflective active-listening
+  > lines; only clearly Chris-attributed teaching is promoted.
 
 ## Values
 

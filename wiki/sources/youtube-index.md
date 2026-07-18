@@ -567,6 +567,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2022-03-09 | [How To Get The Highest Quality From iPhone Video](2022-03-09-yt-Q1FA11412cM.md) | content-strategy | ⚠️ NOT Chris — Futur team gear tutorial by Nick Caraz; production-tech; context/do-not-train |
 | 2022-03-10 | [Legal Tax Write-Offs for Designers (w/ CPA)](2022-03-10-yt-UZgf2vKSD5I.md) | business; wealth | ⚠️ Guest CPA Hector Garcia — tax advice = context/do-not-train; Chris trains only on tax-code=algorithm analogy + document-the-narrative |
 | 2022-03-31 | [Build Your Audience On This One Principle](2022-03-31-yt-Beae3jnhaBQ.md) | content-strategy; mindset | Chris solo; "one principle" = reciprocity (Cialdini) = give-first restated; See's Candies/restaurant examples; no new framework |
+| 2022-04-07 | ★ [How To Improve Your Content](2022-04-07-yt-YAYvQefoqsg.md) | content-strategy; mindset | Chris solo; content-improvement as science experiment (hypothesis + velocity, iterate 6-8x, read data, detach, live in the dip); Greg Gunn outro = context; L3-candidate |
+| 2022-04-14 | ★ [How To Work With Clients From Other Countries](2022-04-14-yt-l85ZNXnC7A0.md) | sales-clients; business; mindset | Chris solo; 4 obstacles (language/culture/time-zones/trust) + trust tactics (intl testimonials, escrow, small starter project as risk reversal); L3-candidate |
+| 2022-04-19 | [Local Clients – The Best Way To Grow Your Business](2022-04-19-yt-CMRJEbT135c.md) | sales-clients; content-strategy | ⚠️ NOT Chris — Pro Group member testimonial (unnamed Bakersfield creative); local-clients-underrated; context/do-not-train |
+| 2022-04-21 | [All You Need To Know About Sales In Under 3 Minutes](2022-04-21-yt-apxLAVE2ZI4.md) | sales-clients | Chris solo; compact SALES-acronym restatement (Serve/Ask/Listen/Empathize/Summarize) + if/then close; excellent voice data, not new |
+| 2022-05-05 | ★ [What To Do When Someone Copies Your Work](2022-05-05-yt-lpwjLPhYfew.md) | mindset; design-craft; content-strategy; business | Chris solo; copycat-response framework — being copied = proof you lead; Phase 1 out-execute, Phase 2 monetize imitators; "they copy your output not your process"; L3-candidate |
+| 2022-05-12 | ★ [Why Your Brand Needs a POV](2022-05-12-yt-E5I7SsYVMgE.md) | branding; content-strategy | Chris solo; brand POV/personality; company-voice stifling → first-person "I" liberated The Futur's voice; Wendy's/Arby's; personal-vs-company voice; L3-candidate |
+| 2022-05-15 | ★ [Limiting Beliefs, Behaviors — Do This Instead](2022-05-15-yt-6fcQjN4VCPY.md) | mindset; pricing; sales-clients | Chris (Pro Group Q&A); scarcity→abundance; keep expenses low → walk-away leverage; "million-dollar designer" identity reframe; L3-candidate |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -616,4 +623,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_596 videos ingested (L2) so far._
+_603 videos ingested (L2) so far._

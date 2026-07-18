@@ -141,7 +141,14 @@ Authors and speakers Chris quotes or paraphrases in his teaching. They are **cit
 sources**, not part of his personal network — no entity pages needed:
 
 - **Jim Rohn**, **Brian Tracy** — personal-development / discipline and goals.
-- **Blair Enns** — pricing and winning-without-pitching for creatives.
+- **Blair Enns** — pricing and winning-without-pitching for creatives. Co-host of the
+  2021 WWPM Clubhouse rooms; full context page: [[blair-enns]].
+- **Jonathan Stark** — value-/hourly-billing-abolition author in the same pricing orbit as
+  Blair Enns. Chris cites Stark's **"why this / why now / why me"** three-question framework
+  (why do this at all → why now / can't wait → why me, given I'm likely more expensive) as
+  the mechanism by which a prospect sells themselves to themselves, removing the need to
+  pitch. [[wiki/sources/2022-06-16-yt-4kVo2YEzPqQ]]. (Context/do-not-train — his frameworks
+  are his, not Chris's.)
 - **Simon Sinek** — "start with why" / purpose.
 - **Daniel Pink** — motivation (*Drive*) and persuasion.
 - **Robert Cialdini** — influence and persuasion principles.

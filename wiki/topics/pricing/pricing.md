@@ -3,8 +3,8 @@ type: hub
 domain: pricing
 domains: [pricing]
 created: 2026-07-14
-updated: 2026-07-18
-tags: [pricing, value-based-pricing, price-the-client, anchoring, anchoring-reversal, verbal-upfront-pricing, discount-for-uncertainty, raising-rates, objection-handling, negotiation, price-bracketing, competitive-positioning, charge-for-discovery, embrace-and-pivot, storytelling, budget-scope-timeline, budget-first, budget-first-vs-relationship, order-taker-vs-advisor, underpricing-signal, resentment-signal, cant-lose-a-job-you-never-had, value-scale-of-questions, discovery-as-a-service, strategy-pricing, get-paid-to-think, price-as-qualifier, double-the-rate-ladder, inputs-vs-outputs, desired-future-state, train-of-thought, feeling-thought-reaction, limbic-brain, price-options, attention-ownership, price-first-scope-after, stop-hourly, socratic-hourly, value-appreciation, scope-creep, separate-service, de-scope, cost-stack, positioning-value, go-to-person, double-dont-inch-up, buyer-decides-fair, charge-more-virtuous-loop, referral-budget-qualification, self-worth-ceiling, education-not-worth, objection-by-inversion, invent-systems, royalty-vs-licensing, packaging-fees, say-it-like-a-fact, context-sets-value, horse-painter, charity-vs-clients, barter-menu, exposure-is-an-act, equity-in-lieu-of-fee, pro-bono-ratio, bid-buildup, hire-at-or-above-level, investor-mindset, compare-against-yourself, top-price-first, wine-list-reset, subjective-value, doctor-counter, envy-reframe, cost-vs-price-vs-value, seller-sets-price-buyer-sets-value, profit-from-risk, cost-plus, production-fee, padded-day-rates, statement-of-work, fixed-plus-variable, aicp-bid-form, top-sheet, karen-rainey, present-day-rate-card, retreat-and-follow, phased-discovery-bid, important-urgent-grid, budget-live-in-room, pain-threshold, facilitator-as-advocate, money-not-budget, sliding-scale-by-risk, rush-charge, pain-in-the-butt-charge, every-dollar-returns-10x, dan-mall, course-prelaunch-pricing, price-low-then-raise]
+updated: 2026-07-19
+tags: [pricing, value-based-pricing, price-the-client, anchoring, anchoring-reversal, verbal-upfront-pricing, discount-for-uncertainty, raising-rates, objection-handling, negotiation, price-bracketing, competitive-positioning, charge-for-discovery, embrace-and-pivot, storytelling, budget-scope-timeline, budget-first, budget-first-vs-relationship, order-taker-vs-advisor, underpricing-signal, resentment-signal, cant-lose-a-job-you-never-had, value-scale-of-questions, discovery-as-a-service, strategy-pricing, get-paid-to-think, price-as-qualifier, double-the-rate-ladder, inputs-vs-outputs, desired-future-state, train-of-thought, feeling-thought-reaction, limbic-brain, price-options, attention-ownership, price-first-scope-after, stop-hourly, socratic-hourly, value-appreciation, scope-creep, separate-service, de-scope, cost-stack, positioning-value, go-to-person, double-dont-inch-up, buyer-decides-fair, charge-more-virtuous-loop, referral-budget-qualification, self-worth-ceiling, education-not-worth, objection-by-inversion, invent-systems, royalty-vs-licensing, packaging-fees, say-it-like-a-fact, context-sets-value, horse-painter, charity-vs-clients, barter-menu, exposure-is-an-act, equity-in-lieu-of-fee, pro-bono-ratio, bid-buildup, hire-at-or-above-level, investor-mindset, compare-against-yourself, top-price-first, wine-list-reset, subjective-value, doctor-counter, envy-reframe, cost-vs-price-vs-value, seller-sets-price-buyer-sets-value, profit-from-risk, cost-plus, production-fee, padded-day-rates, statement-of-work, fixed-plus-variable, aicp-bid-form, top-sheet, karen-rainey, present-day-rate-card, retreat-and-follow, phased-discovery-bid, important-urgent-grid, budget-live-in-room, pain-threshold, facilitator-as-advocate, money-not-budget, sliding-scale-by-risk, rush-charge, pain-in-the-butt-charge, every-dollar-returns-10x, dan-mall, course-prelaunch-pricing, price-low-then-raise, verbal-commitment-against-lowball, fu-call, rom-bid, swag, scope-variation-funnel, contingency-fee, guarantee-handling, price-the-risk, prorate-guarantee, roi-return-framing, paper-the-guarantee, cogs-gross-margin, low-expenses-leverage, walk-away-power]
 ---
 
 # Pricing — hub
@@ -509,6 +509,20 @@ that act as goal posts.
 - Don't be afraid to refer the client elsewhere if it isn't a fit — often this makes the
   client want to keep talking and learn more about you
   ([[wiki/sources/2017-08-01-yt-b9k6Ff0OMp8]]).
+- **Extract the client's explicit verbal commitment against a later lowball (new, 2021).**
+  In a sustained bracketing role-play (landing a "$180,000 not-to-exceed" against the
+  client's secret $200,000), Chris adds a commitment-and-consistency move the earlier
+  bracketing sources don't name: once a number works, make the client confirm *on the
+  record* that they won't come back later with a surprise low figure ("you know what, we
+  have forty-five thousand"). "I don't want there to be any surprises. I don't like
+  surprises." Getting the yes makes the number **jointly owned**, and the stated agreement
+  becomes pre-emptive moral leverage — the **"FU call."** If a client agrees and then
+  reneges for a cheaper vendor, Chris will call them back for a blunt, "not smooth"
+  conversation: "I feel horribly disrespected right now… you just wasted my time." He
+  concedes a truly unscrupulous client will lie regardless, but asking directly makes most
+  people's conscience honor the deal. A soft upsell rides inside the ceiling: "the more
+  money you give us to work with, the better we can make it"
+  ([[wiki/sources/2021-04-13-yt-iajdoXxgAb8]]).
 
 **Competitive positioning** — you are always up against both a smaller/cheaper shop and a
 bigger/more-experienced agency; the job is to create doubt about each and carve out the
@@ -1692,6 +1706,37 @@ then price the design/build once scope is defined._
   so let's move some money around." He calls the whole exercise **"business design"** and says
   doing it live with the client "demonstrates even more value."
 
+**Giving a number before scope exists — ROM, SWAG & the scope-variation funnel (new vocabulary,
+2021-08-28, [[wiki/sources/2021-08-28-yt-TEg5xGw4Q3U]]):**
+- **The scope-variation funnel.** At a project's start the scope has so many variables it's
+  "almost impossible to predict" — "it could be at sea level or it could be as high as Everest."
+  Discovery in the middle tightens the scope; only once there's a definitive plan (you know "how
+  many screws, sheets of drywall, linear foot of flooring") can you give an accurate **fixed bid**.
+- **ROM = rough order-of-magnitude bid** — used when you know nothing and the client is just
+  testing feasibility: "Is it a $10,000 job, a hundred[-thousand], a million-dollar job, or ten
+  million?" A first gate.
+- **SWAG = "scientific wild-ass guess"** (vs. a plain **WAG**, "wild-ass guess") — Chris uses
+  "SWAG" deliberately because it signals the estimate is "not based on nothing — it's based on
+  some theories," i.e. an informed, defensible guess.
+- **Estimate high on a forced fixed bid + a contingency fee.** When a client demands a fixed bid
+  before scope exists, estimate high ("the scope almost never decreases… so the price eventually
+  goes up"), and present the bid with a stated contingency (his example: **15%**): "My bid is 100;
+  if all goes well it'll be 100, but it could be as high as 115,000 — I want you to be prepared for
+  that." The overage is only charged if scope expands. Smart clients pre-budget their own
+  contingency (~$115 or a 30% pad → ~$130) so they don't have to go back "hat in hand" — "if you
+  build it in and they build it in, everybody's protected, and if you don't spend that money,
+  everybody's a hero."
+
+  > ⚠️ CONTRADICTION / EVOLUTION: the "estimate-high fixed bid + contingency fee" mechanic is
+  > **fixed-bid / cost-plus-era pricing, NOT the value-based end state.** Chris de-recommends it in
+  > the moment: "I don't recommend bidding this way — I'm just telling you what you may be
+  > comfortable with today to protect yourself." He frames the whole clip against Blair Enns's *Win
+  > Without Pitching* proclamation "thou shalt replace proposals with conversation" ("I'm not in the
+  > estimate-building business"). Value-based pricing (price the outcome; phased paid discovery
+  > above) is current doctrine; treat the contingency-fee tactic as a defensive fallback for those
+  > still selling fixed bids — consistent with the value-based-is-current / cost-plus-is-history
+  > callout on §37. [[wiki/sources/2021-08-28-yt-TEg5xGw4Q3U]] · [[wiki/sources/2021-02-11-yt-OiUOaZJJYzg]]
+
 ---
 
 ## 39. Cost vs. price vs. value — "seller sets price, buyer sets value," and profit pays for risk
@@ -1729,6 +1774,15 @@ conflate, and where profit and risk sit between the three._
   didn't see value in this thing?"); a $10,000 diamond is genuinely valuable to some and "just a
   shiny rock" to others (Chris "doesn't value diamonds"). Reinforces the envy/subjective-value
   argument in §35 ([[wiki/sources/2021-02-23-yt-zM2fB-Q8T7g]]).
+
+- **Cost is what's left after paying others to do all the work — not your own labor (2021-04-25).**
+  A companion "money for time" workshop sharpens the **cost** term of this triad: on a $3,000
+  video, COGS ≈ $2,200 to have 2–3 freelancers produce it, so gross profit = price − COGS = ~$800.
+  "The only real way… is to say: if I could not touch this at all, I had to hire other people to do
+  all the work — what is left, that is profit." Counting your own labor as profit is the "poor
+  designer" mistake; the freed hours are better reinvested (the full opportunity-cost worksheet —
+  COGS → freed hours → marketing funnel → index-fund benchmark — lives on
+  [[wiki/topics/business/business]]) ([[wiki/sources/2021-04-25-yt-S3gC1JRbbdw]]).
 
 _(Taught to a small audience; participant "Ricky" and audience answers are context, not persona
 data.)_
@@ -1776,6 +1830,79 @@ pricing-conversation segment; several formulations are sharper here than in long
 - **Work with in-house teams, not against them** — position to collaborate; day-to-day work is
   low-paying and eats your time, and showing you collaborate reassures the client
   ([[wiki/sources/2021-03-03-yt-LliPPJo5lHE]]).
+
+---
+
+## 41. The guarantee-handling playbook — price the risk, then paper it
+
+_Est. 2021-04-22 ("How To Guarantee Results When Clients Ask"). A crisp 2021 role-play that
+extends the one-line guarantee note in §6 (2016) into a full sequence. The operational sibling of
+the risk-based sliding scale (§40) and discount-for-uncertainty (§6): a guarantee is a **risk
+transfer**, and whoever carries risk gets paid for it._
+
+When a client asks "can you guarantee my results?", Chris runs this sequence
+([[wiki/sources/2021-04-22-yt-qZ1EYMgQsKE]]):
+
+1. **Never guarantee at your normal price.** The honest answer to "how can you guarantee my five
+   percent increase?" is "I can't — I did not guarantee you that, I just asked you a question." A
+   guarantee of outcomes is not part of a standard engagement.
+2. **Reframe to a realistic target (new).** Deflect the unbounded demand by asking what number
+   would actually make them happy — "a realistic goal, not an optimistic one and not a pessimistic
+   one" — converting an open-ended promise into a bounded, achievable target.
+3. **Price the risk — a guarantee = a risk transfer, so ~3× with money-back.** "If you want a
+   guarantee… I'll charge you three million dollars. I just triple the rate." And a *real* guarantee
+   means you give the money back if you miss: "If it doesn't go up by five percent you'll give the
+   three million back? Yeah. That's what a guarantee is." (Sharpens the 2016 triple-the-fee note in
+   §6 with the explicit money-back definition.)
+4. **Prorate the guarantee — "hit half, make half" (new, named).** Set a realistic timetable and
+   tie payment to performance: "if I hit half, I make half — because any percentage over zero is
+   money in your pocket." Partial results still pay, which keeps the deal fair to both sides if the
+   full target isn't reached.
+5. **Sell the ROI/return, not the deliverable.** "If you give me 50 cents I'll give you a dollar"
+   (or 75¢ → $1 = a 25% return) — vastly better than ~0.01% in the bank or a hoped-for 4–6% in the
+   stock market. (Restates the returns framing already in §6.)
+6. **Paper it properly (new).** Treat the guarantee as a real, documented risk contract: your
+   attorney drafts it, the client's attorney reviews it, and you move forward if it checks out —
+   not a verbal promise.
+
+Confidence to guarantee comes from **assembling specialists and iterating** — hire the best data
+and build talent ("several people as good as Sean"), study and tweak, and a modest lift over a
+reasonable period is "very doable." The closing thesis is the same positioning as §11: "You guys
+sell what you do. I sell what the world can do." — pricing the outcome, not your labor, is what
+lets you charge on results ([[wiki/sources/2021-04-22-yt-qZ1EYMgQsKE]]).
+
+_(Role-play; named participants/hires "Gabrielle," "Sean," "Al Martinez" are context, not persona
+data. Figures are illustrative teaching numbers, not Chris's rates.)_
+
+---
+
+## 42. Low expenses = pricing power — you can only walk away if you can afford to
+
+_Est. 2022-05-15 ("Limiting Beliefs, Behaviors — Do This Instead"). The operational mechanism
+behind "be willing to walk away, that's the source of your power" (§9) and "runway lets you say
+no": expense discipline is what *buys* the walk-away, so it is a pricing-leverage lever, not just
+a mindset slogan._
+
+- **A scarcity position weakens your price — by design.** "You're not in a great bargaining
+  position if you have to pay rent and you're starving." With bills due, when the client offers 85
+  and you wanted 105, you take the 85 ([[wiki/sources/2022-05-15-yt-6fcQjN4VCPY]]).
+- **Live like a startup so you can walk away.** "Live like a startup, do everything bootstrap so
+  that you can walk away from these things." Chris ran multi-million-dollar jobs out of his house
+  for years with low expenses — no shiny office, no expensive car — precisely so he could say no and
+  not collapse "into the fetal position" if he lost a bid
+  ([[wiki/sources/2022-05-15-yt-6fcQjN4VCPY]]).
+- **Desperation is priced in by the buyer.** Needing to close forces you into desperation, and
+  clients "smell the desperation" — then "you start selling really hard," which erodes your price.
+  Low expenses remove the desperation ([[wiki/sources/2022-05-15-yt-6fcQjN4VCPY]]).
+- **Mental health over a bad-fit fee.** "I'd rather sit around and do nothing than do a bad job
+  with a bad client that doesn't appreciate me" — the mental-health cost outweighs the incoming
+  money, which is only sustainable if your expense base lets you decline
+  ([[wiki/sources/2022-05-15-yt-6fcQjN4VCPY]]).
+
+_(Pro Group Q&A; the "million-dollar designer" identity reframe and abundance-mindset material from
+this source belong to [[wiki/topics/mindset/mindset]] — captured here only for the
+expenses → walk-away → pricing-power link. Member "Carrie/Kerry" and the narrator are context, not
+persona data.)_
 
 ---
 
@@ -1905,6 +2032,11 @@ qualifying), [[wiki/entities/the-futur|The Futur]].
 - [[wiki/sources/2021-02-18-yt-kt2oLrl1EHY]] — "Easy & Painless Way To Bid Pt.3" (bake pricing into the Core session, important/urgent grid, budgets live, pain-threshold; §38)
 - [[wiki/sources/2021-02-23-yt-zM2fB-Q8T7g]] — "Running A Profitable Business" (cost/price/value triad, seller-sets-price/buyer-sets-value, profit-from-risk; §39)
 - [[wiki/sources/2021-03-03-yt-LliPPJo5lHE]] — Dan Mall's *Pricing Design* breakdown (sliding scale by risk, rush + pain-in-the-butt charges, "money not budget", 8-question discovery, every-dollar-returns-10x; §40)
+- [[wiki/sources/2021-04-13-yt-iajdoXxgAb8]] — Price bracketing role-play (extract verbal commitment against a lowball, the "FU call" moral leverage; §12)
+- [[wiki/sources/2021-04-22-yt-qZ1EYMgQsKE]] — "How To Guarantee Results When Clients Ask" (guarantee-handling playbook: refuse-at-normal-price → realistic target → price the risk 3×/money-back → prorate → sell ROI → paper it; §41)
+- [[wiki/sources/2021-04-25-yt-S3gC1JRbbdw]] — "Business 101 – How To Leverage Money For Time" (COGS → gross-margin defines real profit; opportunity-cost worksheet lives on the business hub; §39)
+- [[wiki/sources/2021-08-28-yt-TEg5xGw4Q3U]] — "Bidding Fundamentals — How To Price Projects" (ROM / SWAG / scope-variation funnel + contingency-fee mechanic, value-based-is-current callout; §38)
+- [[wiki/sources/2022-05-15-yt-6fcQjN4VCPY]] — "Limiting Beliefs, Behaviors — Do This Instead" (low expenses → walk-away leverage → pricing power; §42)
 - [[wiki/sources/2022-09-22-yt-TB54_6bEP-A]] — Price & value masterclass with Ron Baker (influence link, three options)
 - [[wiki/sources/2023-04-24-yt-kTFhQf5_RxI]] — Raising rates $2k→$5k (raise-your-rate-to-raise-client-quality ladder)
 - [[wiki/sources/2023-10-19-yt-Abi8kwkfZbA]] — "Don't justify your prices" (symmetry of logic, have-to-have vs nice-to-have)

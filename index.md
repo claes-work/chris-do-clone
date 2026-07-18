@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-18 (synthesis pass 9 — all 7 hubs enriched, persona v10, 543 L2; batches 76–85 promoted: pricing/bidding cluster, 8-core-business-concepts [Create & Orchestrate], Instagram playbook, five-ingredients method, brand-strategy method; cynthia-kane entity created)_
+_Last updated: 2026-07-19 (synthesis pass 10 — all 7 hubs enriched, persona v11, 611 L2; batches 86–95 promoted: de-risk-the-buy pricing cluster, difficult-client repair, storytelling-as-craft, feedback/inner-critic toolkits, work-life integration [compartmentalize→integrate evolution], Carlos Segura biography landmark; blair-enns entity created; new anniversary-lie guard)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **611 videos L2** (@thefutur 2014–2025 + @ChrisDo; P1 done, draining P2 [through 2022-06]; synthesized through batch 85 → persona v10).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **611 videos L2** (@thefutur 2014–2025 + @ChrisDo; P1 done, draining P2 [through 2022-06]; synthesized through batch 95 → persona v11).
 
 ## Topics
 
@@ -27,6 +27,7 @@ _Last updated: 2026-07-18 (synthesis pass 9 — all 7 hubs enriched, persona v10
 - [wiki/entities/jose-caballer.md](wiki/entities/jose-caballer.md) — CONTEXT: early co-host/co-founder of The Skool, departed 2016.
 - [wiki/entities/futur-instructors.md](wiki/entities/futur-instructors.md) — CONTEXT: recurring non-Chris instructors (Encina, Burns, Gunn, Livsey, Owens, Ben Stroh) for speaker attribution.
 - [wiki/entities/cynthia-kane.md](wiki/entities/cynthia-kane.md) — CONTEXT: communication author/coach, recurring guest (budget talk, silence, EQ); does NOT train the persona.
+- [wiki/entities/blair-enns.md](wiki/entities/blair-enns.md) — INFLUENCE/CONTEXT: Win Without Pitching / Pricing Creativity author; 4+ on-camera co-host appearances; his frameworks (MLE, Blairtopia, retreat-and-follow) are HIS, do NOT train the persona.
 - [wiki/entities/thefutur-youtube.md](wiki/entities/thefutur-youtube.md) — the main channel: eras, formats, ID UC-b3c7kxa5vU-bnmaROgvog.
 - [wiki/entities/kier-mclaren.md](wiki/entities/kier-mclaren.md) — CONTEXT: Chris's longtime business consultant (~10–15 yrs); doubled Blind's revenue; MASTERMIND series host (Eps 1–10).
 - [wiki/entities/kyle-cooper.md](wiki/entities/kyle-cooper.md) — INFLUENCE: title-design legend (Se7en); Chris's R/GA mentor (~late-1990s) — his first title-design exposure.
@@ -38,10 +39,10 @@ _Last updated: 2026-07-18 (synthesis pass 9 — all 7 hubs enriched, persona v10
 ## Persona (THE PRODUCT)
 
 - [persona/biography.md](persona/biography.md) — dated life timeline, enriched across 9 synthesis passes (**55 facts**; ArtCenter years, Epitaph→Novacom→Buick origin, R/GA under Kyle Cooper, maker→CEO shift, *Pocket Full of Do* + *Create & Orchestrate*, hapkido/fasting, childhood creative-origin).
-- [persona/voice.md](persona/voice.md) — how they talk, **pass-9** (**82 sources**; +"be good not original", "time is money literally", "what makes you weird makes you wonderful", "read the label from inside the jar", have-to→get-to).
-- [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/opinions (**123 sources**; influences subsection; position-changes/evolution flagged incl. value-based-vs-historical-cost-plus).
+- [persona/voice.md](persona/voice.md) — how they talk, **pass-10** (**90 sources**; +"charming razor blade", "I'm Tylenol", "don't be an askhole", "they copy your output not your process", "be a giraffe", five-words distillation).
+- [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/opinions (**128 sources**; influences subsection; position-changes/evolution flagged incl. work-life compartmentalize→integrate + value-based-vs-historical-cost-plus).
 - [persona/appearance.md](persona/appearance.md) — how they look/present (**seeded**: 15 cited self-reported facts; watched-video visual sample still a gap).
-- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt, **v10** (2026-07-18; 543 videos, 7 hubs).
+- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt, **v11** (2026-07-19; 611 videos, 7 hubs; anniversary-lie + brothers-unnamed guards).
 
 ## Other
 

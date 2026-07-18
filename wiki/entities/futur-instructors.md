@@ -201,6 +201,36 @@ Listed here as an attribution guard so their material stays out of `persona/`.
   Do is absent from this series** — the teaching is the guests', framed by Futur hosts. None of it trains
   the persona.
 
+## 2022 multi-instructor era (recognize & fence on sight)
+
+> ⚠️ From **~mid-2021 onward the @thefutur main channel is increasingly team/guest-led** —
+> whole series are hosted by staff other than Chris Do. Treat the channel as a **shared
+> team channel**, not a Chris solo channel: if a 2021+ upload is fronted by one of the
+> people below, **fence it** (do-not-train) unless Chris is verifiably the one teaching.
+> Biographies here are limited to on-camera role unless a source establishes more — where
+> that's all we have, the wiki is silent on the rest.
+
+**Roster to fence (all do-not-train):**
+
+- **Ben Burns** — now hosts the **"Built By Hand"** web-design docuseries. **Auto-fence any
+  title containing "Built By Hand" or "Web Design Process (personal website)."** (See his
+  fuller entry above; left day-to-day Futur ops early Nov 2021 but continues on-camera.)
+- **"Eric"** — hosts a **design-thinking** series (surname not established in the corpus —
+  wiki is silent). Do-not-train.
+- **Nick Caraz** — **gear / equipment tutorials** (camera/production kit). Do-not-train.
+- **Matt Silderman** — **"Personal Funnels"** series (marketing-funnel content). Do-not-train.
+- **Stephanie Owens** — of **Gold Sheep Design**; Futur **copywriter** (and former Accelerator
+  coach, above). Hosts the **"creative voice / focus"** series. Do-not-train.
+- **Elle** — Futur **marketing coordinator**; fronts **product promos**. Do-not-train.
+
+**Recurring GUESTS in this era (context only — invited experts, not Chris):**
+
+- **Kyle T. Webster** — illustrator (Adobe brushes). Guest context.
+- **Carlos Segura** — appears as an **interviewer** / conversation partner. Guest context.
+- **Michael Bungay Stanier** — author of **_How to Begin_** (and _The Coaching Habit_).
+  Guest context; his frameworks are his, not Chris's.
+- **Hector Garcia, CPA** — accounting/tax guest. Guest context.
+
 ## Ingest rule of thumb
 
 Pre-2019 tutorial-style videos on the main channel are often instructor-led even when

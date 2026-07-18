@@ -1,8 +1,8 @@
 ---
 type: hub
 domains: [branding]
-updated: 2026-07-18
-tags: [branding, personal-branding, unbland, brand-strategy, positioning, storytelling, shadow-work, two-word-brand, logo, logo-critique, identity, identity-system, timelessness, style, packaging, brand-equity, shelf-presence, private-label, brand-filter, go-to-person, sub-brand, order-taker, do-good-work, flip-the-switch, branding-vs-marketing, marketing, halo-bias, specialize-externally, generalize-internally, own-the-client-relationship, portfolio, worst-piece-rule, brand-strategy-method, discovery, show-dont-explain, seven-questions, coaching-habit, funnel-math, value-based-pricing, results-based-pricing, facilitation, unbiased-inquiry, client-advocate, everything-is-marketing, inform-or-inspire]
+updated: 2026-07-19
+tags: [branding, personal-branding, unbland, brand-strategy, positioning, storytelling, shadow-work, two-word-brand, logo, logo-critique, identity, identity-system, timelessness, style, packaging, brand-equity, shelf-presence, private-label, brand-filter, go-to-person, sub-brand, order-taker, do-good-work, flip-the-switch, branding-vs-marketing, marketing, halo-bias, specialize-externally, generalize-internally, own-the-client-relationship, portfolio, worst-piece-rule, brand-strategy-method, discovery, show-dont-explain, seven-questions, coaching-habit, funnel-math, value-based-pricing, results-based-pricing, facilitation, unbiased-inquiry, client-advocate, everything-is-marketing, inform-or-inspire, point-of-view, brand-personality, personal-voice-vs-company-voice, brand-as-filter, authenticity, charming-razor-blade]
 ---
 
 # Branding — hub
@@ -1041,6 +1041,96 @@ Chris's signature exercise, refined across the 2023 masterclass and AdobeMAX key
 > he does not deny corporate brands *exist* — he objects to importing their *selling*
 > logic into *personal* branding, which he insists is self-discovery, not sales.
 
+### Framework 37 — A brand needs a point of view; the personal "I" beats the corporate "we"
+
+From a 2022 video, "Why Your Brand Needs a POV." Bridges Part 1 (a company brand) and
+Part 2 (personal brand): a brand — company or person — must carry a distinct point of view
+and personality or it degrades into a hollow marketing vehicle; and Chris's own account of
+why writing in a personal first-person voice liberated The Futur's brand where the filtered
+corporate "we" had stifled it. (2022-05-12) [[wiki/sources/2022-05-12-yt-E5I7SsYVMgE]]
+
+- **A brand is a separate entity with an imbued personality** — it "acts and talks and
+  behaves like human beings," so we start to think of brands as separate entities (his
+  examples: Nike, Adidas, Apple). A company and a personality are two versions of the same
+  person showing different parts; humans are complex, so a brand can hold a broad spectrum
+  of who you want to be. (paraphrase + quote) (2022-05-12)
+  [[wiki/sources/2022-05-12-yt-E5I7SsYVMgE]]
+- **The corporate "we" filters; the personal "I" frees.** Speaking *as a company* you tend
+  to be formal, professional, business-like, filtering to topics that attract potential
+  clients; speaking *as a human* you can talk about politics, religion, sex — whatever you
+  want. Writing content "under the banner of a corporation" was, for Chris, "stifling" and
+  "miserable" because it had to be "inclusive and representative of a lot more people than
+  myself." (quotes) (2022-05-12) [[wiki/sources/2022-05-12-yt-E5I7SsYVMgE]]
+- **First-person voice seeded the brand's personality.** The Futur felt "very liberated"
+  early because it was essentially just Chris and an intern: writing "in the I — here's what
+  I feel, here's what I'm thinking" is what "helped to really solidify the personality of
+  the brand," its voice, behavior, and core values. (quotes) `[self-reported]` (2022-05-12)
+  [[wiki/sources/2022-05-12-yt-E5I7SsYVMgE]] (The concrete media-playbook mechanics of this
+  split — someone else writes *for* The Futur while Chris writes *for himself*; Elle seeding
+  the social voice by scraping existing Chris/Matthew/Ben content — live in
+  [[wiki/topics/content-strategy/content-strategy]].)
+- **A brand voice shouldn't be one person's voice — with a stated risk.** Insisting "this is
+  The Futur and it's only my voice" would exclude collaborators like Matthew; the shared
+  perspective is intentional. But the tension is named, not hidden: as a brand gets bigger
+  and more people weigh in, the voice can get "watered down… very correct… very safe" —
+  Chris says The Futur doesn't have that problem "for right now." (quotes) (2022-05-12)
+  [[wiki/sources/2022-05-12-yt-E5I7SsYVMgE]]
+- **Personality-positioning: brands "searching to be human again."** Wendy's took the
+  #2/#3 burger position by assuming a fictitious, sassy "Wendy" persona that claps back
+  (the "we don't cut corners" reply to McDonald's mocking square burgers); Arby's took the
+  unapologetic "We have the meat" attitude. Both became relevant because "as each brand
+  tries to find their voice they're searching to be human again." (quote) The through-line:
+  > "whatever you do… make sure whether it's a corporation, a bunch of people, that it has a
+  > point of view, otherwise it just becomes a vehicle for you to spew out marketing things."
+  (2022-05-12) [[wiki/sources/2022-05-12-yt-E5I7SsYVMgE]] (Same personality/differentiation
+  move as Framework 12 "make enemies" and Framework 8 authenticity — here applied to
+  *corporate* brands adopting a human voice.)
+
+> ⚠️ NOTE (tension, reconcilable — not a hard contradiction): here (2022-05-12) Chris freely
+> treats a *company* — The Futur — as having a real brand personality, voice, and core
+> values; eighteen months later he says "I'm not sure there's such a thing as a business
+> brand" (2023-12-14) [[wiki/sources/2023-12-14-yt-1kUCm1JPzxg]] (see Framework 17's
+> contradiction note). Reconciliation is the same: he does not deny company brands exist or
+> have a voice — the later objection is to importing corporate *selling* logic into
+> *personal* branding, not to companies having personalities.
+>
+> *Speaker note:* the closing podcast promo is Greg Gunn (producer) — CONTEXT, do-not-train.
+
+### Framework 38 — Authenticity as a positioning strategy; the personal brand as a filter ("charming razor blade")
+
+From a 2022 monologue, "Stop Apologizing For Being Your True Authentic Self." *(The
+self-acceptance / refuse-to-apologize reading is owned by [[wiki/topics/mindset/mindset]],
+and the verbatim quotes by persona/voice; kept here is only the personal-brand / positioning
+angle.)* (2022-06-21) [[wiki/sources/2022-06-21-yt-1PW3tPqcwCs]]
+
+- **Authenticity IS the positioning play.** Leaning into who you already are — and refusing
+  to change yourself to please detractors — is itself the personal-brand strategy. Chris
+  frames finding design as the mechanism through which he found and built his identity:
+  each time he went deeper "I found another piece of the puzzle of myself… I can build my
+  identity here." (quote) `[self-reported]` This is a fresh 2022 citation of Part 2's core
+  thesis — a personal brand is *recovered*, not manufactured ("not creation, self-discovery")
+  — predating the 2023 masterclass/AdobeMAX articulations (Frameworks 8–10). (2022-06-21)
+  [[wiki/sources/2022-06-21-yt-1PW3tPqcwCs]]
+- **The "charming razor blade" self-brand.** Chris embraces a Twitter-given nickname as
+  fitting his brand — "an edge, you can get cut, but there's some charm, some attraction
+  there… that's my brand." He says he loves the nicknames people give him. Structurally this
+  is a two-word, edge-plus-charm self-label that turns a perceived liability (being sharp /
+  cutting) into an asset — the same machinery as Framework 10's two/three-word brand and
+  Framework 15's style-as-identity, arrived at organically rather than via the shadow-word
+  exercise. (2022-06-21) [[wiki/sources/2022-06-21-yt-1PW3tPqcwCs]]
+- **The personal brand as a filter — "they understand me perfectly, they don't misunderstand
+  me."** Chris rejects the framing that criticism means he's misunderstood: the people who
+  react badly and leave understood him fine — they simply "get to react however they want,"
+  and they were never his audience. A strong personal brand repels the wrong people on
+  purpose; "a lot of people don't like it at all — totally okay with that." This is
+  Framework 27's brand-as-filter ("stake something in the ground… the wrong people
+  self-select out") applied to a *personal* brand and its critics: the detractors leaving is
+  the filter working, not a failure. (2022-06-21) [[wiki/sources/2022-06-21-yt-1PW3tPqcwCs]]
+- **Separate identity from conduct.** He'll apologize for *conduct* (misspeaking, causing
+  offense) but never for *identity* (being himself) — a boundary that keeps the authentic
+  brand intact while staying accountable. (The self-acceptance reading of this line is
+  [[wiki/topics/mindset/mindset]]'s.) (2022-06-21) [[wiki/sources/2022-06-21-yt-1PW3tPqcwCs]]
+
 ---
 
 ## Influences credited (not Chris's originations)
@@ -1158,6 +1248,13 @@ Chris's signature exercise, refined across the 2023 masterclass and AdobeMAX key
   data ~3–4%; Start With Why). 2021-02-09.
 - [[wiki/sources/2021-07-11-yt-lrM5CRg-O0I]] — "Tell Your Story (Part 1)" (story as the
   on-ramp; long/infinite game). 2021-07-11.
+- [[wiki/sources/2022-05-12-yt-E5I7SsYVMgE]] — "Why Your Brand Needs a POV" (a brand needs a
+  point of view / personality; the corporate "we" filters while the personal "I" frees; the
+  personal-voice-vs-company-voice split; Wendy's/Arby's personality-positioning "searching to
+  be human again"). 2022-05-12.
+- [[wiki/sources/2022-06-21-yt-1PW3tPqcwCs]] — "Stop Apologizing For Being Your True Authentic
+  Self" (authenticity as positioning; design as self-discovery; the "charming razor blade"
+  self-brand; personal brand as a filter — "they understand me perfectly"). 2022-06-21.
 - [[wiki/sources/2023-12-14-yt-1kUCm1JPzxg]] — ★ Personal Branding Masterclass (shadow
   word + transformer; memory not invention). 2023-12-14.
 - [[wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]] — ★ AdobeMAX 2023 keynote (the full *Unbland*

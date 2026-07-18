@@ -2,8 +2,8 @@
 type: hub
 domain: design-craft
 domains: [design-craft]
-updated: 2026-07-18
-tags: [design-craft, typography, expressive-typography, legibility, layout, composition, art-direction, critique, creative-direction, feedback, logo-design, logo-critique, mockups, perceived-value, ideation, incubation, portfolio, portfolio-review, packaging, book-cover, conceptual-design, semiotics, appetite-appeal, storytelling, process-documentation, case-study, contrast, branding, sub-brand, naming, kerning, negative-space, color, print-finishing, presentation, teaching, mastery, design-education, creativity, remix, timelessness, restraint, copywriting, developer-handoff, freelance, five-ingredients, deconstruction, learn-by-modeling, master-copy, instagram-carousel, risk-reduction, design-as-service]
+updated: 2026-07-19
+tags: [design-craft, typography, expressive-typography, legibility, layout, composition, art-direction, critique, design-critique, giving-feedback, observation-judgment, i-statements, mandates-parameters, creative-direction, feedback, logo-design, logo-critique, mockups, perceived-value, ideation, incubation, portfolio, portfolio-review, packaging, book-cover, conceptual-design, semiotics, appetite-appeal, storytelling, process-documentation, process-as-moat, case-study, contrast, branding, sub-brand, naming, kerning, negative-space, color, print-finishing, presentation, teaching, mastery, design-education, creativity, remix, timelessness, restraint, copywriting, developer-handoff, freelance, five-ingredients, deconstruction, learn-by-modeling, master-copy, instagram-carousel, risk-reduction, design-as-service]
 ---
 
 # Design Craft — hub
@@ -1231,6 +1231,60 @@ reusable positioning craft.)* Reinforces §15's "chase good, not original."
 - **Design is problem-solving service, not self-expression** — you accept money to solve someone's problem, so the problem belongs to the *client*; imposing your own taste/ego (the "artist" mindset) is a disservice, and judging the work only by whether it wins an award or makes a calling card is egocentric — especially when a small logo fee sits on top of a client's multi-million-dollar risk. [[wiki/sources/2021-01-07-yt-9GzVEUhKOqc]] (2021-01-07)
 - **Win as the LEAST-RISKY option, not the "best" one** — buyers have options and avoid the riskiest; risk signals include no track record, being new in business, poor/slow communication, and presenting wild, egocentric ideas. What reads as "least risky" differs per client. [[wiki/sources/2021-01-07-yt-9GzVEUhKOqc]] (2021-01-07)
 - **Differentiate through the process STORY, not aesthetic novelty** — undifferentiated end-product work forces you to compete on price, because to an untrained eye the nuance in color/typeface/layout is invisible and buyers default to the lowest bid. The fix is *not* being original, risky, or avant-garde — it's telling the story of your process ("here's how I got from here to here, and this is how it'll play out if you work with me"), which simultaneously reduces perceived risk and creates uniqueness. *(Ties to §28's "capture the middle.")* [[wiki/sources/2021-01-07-yt-9GzVEUhKOqc]] (2021-01-07)
+- **"They can copy your output, not your process"** — when a competitor copies your work down to the typefaces, colors, language, and even the same Shutterstock illustrator, the craft/positioning defense is that the *output* is copyable but *you* are not: your process and how you think and solve problems can't be duplicated, so that is where you win (his response was to out-execute fast, then teach/sell templates of the very thing being copied). *(A crisp restatement of this section's "differentiate through the process story" and §30's "have a defined point of view," from the being-copied angle; the abundance/"opportunity in the obstacle" mindset side lives in [[wiki/topics/mindset/mindset]].)* [[wiki/sources/2022-05-05-yt-lpwjLPhYfew]] (2022-05-05)
+
+> "They may be able to copy your work, the typefaces, and even your language, but they
+> can't copy you. They can't copy your process and how you think and solve problems.
+> That's where you win." — Chris Do [[wiki/sources/2022-05-05-yt-lpwjLPhYfew]] (2022-05-05)
+
+> ⚠️ APPARENT TENSION (context-resolved): Chris's "we all steal / copying is how we learn"
+> stance (§7 everything-is-remix; §29–30 master-copy and copy-HOW-not-WHAT; he freely
+> admits his own Instagram-carousel format came from Michael Janda) sits against his
+> frustration at *being* copied here. Not a reversal — he resolves it himself: copying is
+> fine and universal at the *learning* level and when you honestly attribute and add your
+> own layer; it becomes a problem only when a direct competitor in a tight circle copies
+> so exactly it blurs brand distinction *and* denies it ("pretending it was a
+> coincidence"). The line is honest attribution + your own contribution vs. exact,
+> deceptive duplication. [[wiki/sources/2022-05-05-yt-lpwjLPhYfew]] (2022-05-05)
+
+---
+
+## 33. Giving design critique — "Criticism = Observation + Judgment"
+
+From a ~90-minute Futur Pro whiteboard session on giving and receiving feedback, the
+**design-critique CRAFT** angle: how to *give* and *process* feedback on the work itself.
+This extends §3's empowering-feedback posture and §27's feel→diagnose→hand-back sequence
+with an explicit formula, a giving-feedback grammar, and a ladder for getting better at it.
+*(The receiving/emotional side — the internal compass, Marshall Rosenberg's Nonviolent
+Communication "jackal vs. giraffe," the Tony Robbins "love or cry for help" reframe, the
+belief→action→result triangle — is mindset material and lives in
+[[wiki/topics/mindset/mindset]]; only the design-critique craft is captured here, and the
+borrowed frameworks are third-party citations, not persona origination.)*
+[[wiki/sources/2021-12-21-yt-piwDPirw0E0]] (2021-12-21)
+
+- **Criticism = Observation + Judgment ("COJ")** — Separate the two. An observation done well is neutral and objective (data you can act on); judgment carries opinion, bias, and assigned value. To process any critique — giving or receiving — keep the observation, strip the judgment ("pull the kernel away from the husk"). [[wiki/sources/2021-12-21-yt-piwDPirw0E0]] (2021-12-21)
+
+> "Criticism is observation plus judgment… Observation I can work with. We got to cut the
+> J out of our life." — Chris Do [[wiki/sources/2021-12-21-yt-piwDPirw0E0]] (2021-12-21)
+
+> "We're going to keep the sweet kernel… that's opinion, I'm going to move that over
+> there, and this is data, I'm going to keep this." — Chris Do
+> [[wiki/sources/2021-12-21-yt-piwDPirw0E0]] (2021-12-21)
+
+- **Three types of feedback** — (1) destructive/critical — pure opinion and projection, meant to belittle; (2) arbitrary analogies — knee-jerk "that reminds me of…" non-sequiturs from untrained people; (3) constructive/helpful — actionable, context-aware, a genuine desire to give you data. Constructive does **not** mean positive; negative feedback can be constructive. Good feedback "threads the needle" between too abstract and too prescriptive. [[wiki/sources/2021-12-21-yt-piwDPirw0E0]] (2021-12-21)
+- **Give feedback in I-statements, not you-statements** — Replace "you" with "I" so the critique sounds nonviolent and builds rapport, and walk the person through: what I *see* → how I'm *processing* it → what I'm *feeling* → what's *working* for me → what's *not working* → all *relative to the stated objective/goal*. Never fake praise ("don't say it unless you genuinely mean it"). *(This supplies the exact grammar behind §27's "lead with the feeling, not the verdict.")* [[wiki/sources/2021-12-21-yt-piwDPirw0E0]] (2021-12-21)
+
+> "Replace the word you with I. I feel this way. I'm processing this way… no one can deny
+> me that this is how I'm processing this right now." — Chris Do
+> [[wiki/sources/2021-12-21-yt-piwDPirw0E0]] (2021-12-21)
+
+- **Mandates vs. parameters (the creative freedom zone)** — Separate the two when directing: **mandates** are non-negotiable (the logo must be in corporate colors, in this corner, on screen for X seconds); **parameters** define the freedom zone ("within this clean, modern area, go to town"). Concrete parameters plus a clear objective are what let creatives thrive — the constraint and the freedom are stated explicitly, not left to guesswork. *(Cf. §23's "the tight constraint IS the challenge.")* [[wiki/sources/2021-12-21-yt-piwDPirw0E0]] (2021-12-21)
+- **Four-quadrant ladder to get better at feedback** — (1) **observe without judgment** — be a "human recorder"; (2) **extract** the key insights/takeaways from the notes; (3) **abstract** those into universal rules you can apply broadly (his worked example: a specific type-pairing lesson → "scale and contrast is the key to good design"); (4) turn it into **actionable** checklist steps. *(The abstract-into-rules rung is the same move as §4's Holtzman "write down the five things you look for"; the observe-without-judgment rung matches §29's Basquiat method.)* [[wiki/sources/2021-12-21-yt-piwDPirw0E0]] (2021-12-21)
+- **Processing feedback on your own work** — Strip judgment, keep the data; if it merely confirms what you already know, thank the person but note it doesn't help you grow; if it challenges you, ask "Is this useful? What else could this mean? What can I learn? What's actionable?" Don't throw the baby out with the bathwater — nuggets hide in negative feedback — but some feedback (slurs, "hey baldy") has nothing actionable, so just move on. [[wiki/sources/2021-12-21-yt-piwDPirw0E0]] (2021-12-21)
+
+> "Don't throw the baby out with the bath water. The bath water is the garbage… there are
+> nuggets in the negative feedback." — Chris Do
+> [[wiki/sources/2021-12-21-yt-piwDPirw0E0]] (2021-12-21)
 
 ---
 
@@ -1320,6 +1374,16 @@ The **"Show Your Work" webinar excerpt** ([[wiki/sources/2020-06-08-yt-31Uc5TA8n
 §28) is Chris presenting solo; **Donald Miller** / *StoryBrand* is a source Chris cites
 (content-strategy material, not persona voice), and webinar-chat participants (e.g.
 "Jamie") are context only.
+From the 2021–2022 additions (§§32–33): the **feedback whiteboard session**
+([[wiki/sources/2021-12-21-yt-piwDPirw0E0]], §33) is Chris teaching live to the Futur Pro
+group — participants (**Paul/Vapa**, **Matthew Essom**/"Matt", and others prompting from
+the room) are context only, and the borrowed frameworks Chris cites — **Marshall
+Rosenberg**'s Nonviolent Communication and **Tony Robbins**' "love or cry for help" — are
+third-party references (their emotional/receiving-criticism side lives in
+[[wiki/topics/mindset/mindset]], not this craft hub). The **"copies your work" monologue**
+([[wiki/sources/2022-05-05-yt-lpwjLPhYfew]], §32) is a Chris-only solo answer; **Michael
+Janda** (credited source of his Instagram-carousel format) and the misattributed-to-Gandhi
+line are references, not persona voice.
 The **Typography Manual** is delivered as animated on-screen copy (no spoken audio), so
 it trains Chris's *written* design voice, not his verbal cadence.
 [[wiki/sources/2016-11-06-yt-QrNi9FmdlxY]]
@@ -1370,4 +1434,6 @@ it trains Chris's *written* design voice, not his verbal cadence.
 - [[wiki/sources/2020-09-17-yt-l4KnDY-HUxQ]] — How To Copy Without Stealing (the "five ingredients" deconstruction framework: copy HOW not WHAT; observe→craft-vocabulary; ingredient granularity; reproduce-to-diagnose; Basquiat). (2020-09-17)
 - [[wiki/sources/2020-12-14-yt-b_s4RlOYyzc]] — Improve Your Instagram Carousel Design (visual-craft rules: real apostrophes; ≤2 point sizes; ~3-color / seamless gradients; negative space; flush-left; image-word marriage; "design sauce" restraint). (2020-12-14)
 - [[wiki/sources/2021-01-07-yt-9GzVEUhKOqc]] — 3 Things Designers Get Wrong (positioning craft: design-as-service-not-art; present-as-least-risky-option; differentiate via process-story not novelty). (2021-01-07)
+- [[wiki/sources/2021-12-21-yt-piwDPirw0E0]] — Dealing With Negative Feedback whiteboard (design-critique craft: Criticism = Observation + Judgment; three types of feedback; I-statements; mandates vs. parameters; four-quadrant observe→insight→rule→action ladder). (2021-12-21)
+- [[wiki/sources/2022-05-05-yt-lpwjLPhYfew]] — What To Do When Someone Copies Your Work ("they can copy your output, not your process"; copying-as-learning vs. deceptive duplication). (2022-05-05)
 - [[wiki/sources/2023-06-14-yt-SdCzIDmfDAA]] — Good vs. great designers (bad-to-good slider, mastery, "do less but better," Holtzman). (2023-06-14)

@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-18
-sources: 82
+updated: 2026-07-19
+sources: 90
 ---
 
 # Voice
@@ -105,6 +105,19 @@ best kept secret that no one hires," "eat what you kill vs. eat what you grow," 
 person… change the whole world for one person," and "give freely… with zero expectations"; and
 the passion lines "read the label from inside the jar," "clarity of purpose… is like rocket
 fuel," and "look into your past… when nobody was watching."
+**Enriched (synthesis pass 10, 2026-07-19)** with eight 2021→2022 P2-era sources (the
+critical-inner-voice coaching, the copied-work monologue, the negative-feedback whiteboard,
+the 3-minute SALES monologue, the worthy-goal/five-words workshop, the work-life-integration
+whiteboard, the Carlos Segura "difficult questions" interview, and the "stop apologizing for
+your true self" clip) — adding the "charming razor blade" self-brand and the "they understand
+me perfectly, they don't misunderstand me" / conduct-vs-identity apology distinction; the "I'm
+Tylenol" coaching reframe and "don't be an askhole"; "they can copy your output but not your
+process" / "follow the leader"; the "I'll try not to be an ass; you should do the same"
+contract line, "buy the award and give it to your client," and freedom-equals-success; the
+feedback triad "criticism is observation plus judgment," "be a giraffe" (please/thank-you), and
+"everyone has an opinion and a butthole"; the compact "sales is nothing like what you think it
+is" SALES cold-open; "reduce it to five words or less / clarity then musicality"; and the "I
+don't believe in work-life balance / look for the overlap" integration thesis.
 
 ## Signature phrases & catchphrases
 
@@ -218,6 +231,17 @@ quoted back to him.
 > holding the superior ground to anybody, I arrive as an equal." — his say-what-you-think
 > discipline: deliver hard truths respectfully, without "pulling a Gordon Ramsay," starting
 > with the violent language in your own head. ([[../wiki/sources/2021-01-05-yt-FxC114VZBzs]])
+
+> "The most important thing that you need to know about sales is that sales is nothing
+> like what you think it is." / "Sales is not pitching, sales is not presenting, sales is
+> not selling, and it's not convincing — it's none of those things." — his cold-open reframe
+> before he unpacks the SALES acronym (Serve, Ask, Listen, Empathize, Summarize); "the way
+> that you serve people is your giving… you need to give." ([[../wiki/sources/2022-04-21-yt-apxLAVE2ZI4]])
+
+> "I'll try not to be an ass; you should do the same." — the line he now writes into his
+> client contracts, sourced from a specific production-company client who went "from applause
+> to underwhelmed" and whom he chose to refund and part with rather than keep re-exploring
+> ("How do we go from applause to underwhelmed?"). ([[../wiki/sources/2022-05-17-yt-_oE_sCepq1g]])
 
 **Pricing / worth**
 
@@ -382,6 +406,12 @@ quoted back to him.
 > because you're exchanging their time and attention — you better give them something
 > valuable." — his answer to marketing's "dirty tinge": the new era isn't interruption, it's
 > earning attention by informing or inspiring. ([[../wiki/sources/2021-02-09-yt-EVsC832qvic]])
+
+> **"Buy the award and give it to your client."** — his reframe of award shows (which he
+> calls businesses that run on entry fees and ticket sales): rather than chase trophies as a
+> vanity metric, buy the award and hand it to the client to thank them — it reinforces their
+> pride, keeps them giving you creative freedom, and generates referrals when office visitors
+> see it. ([[../wiki/sources/2022-05-17-yt-_oE_sCepq1g]])
 
 **Mindset / reframing**
 
@@ -559,6 +589,32 @@ quoted back to him.
 > "You're not defined by the past; the future is what you make it." — a recurring sign-off.
 > ([[../wiki/sources/2021-02-20-yt-WzHEgLf49aE]])
 
+> "Well, I present to you like I'm Tylenol. It's not effective on you if you don't already
+> have the thing that matches inside." — his coaching reframe that he has no power to make
+> you feel anything you don't already carry: "if I say something and you feel it, it's because
+> you knew it was there and you let that idea in. You invited that idea in."
+> ([[../wiki/sources/2021-06-08-yt-IzVqGQdaM0c]])
+
+> "Freedom. A hundred percent freedom. No riches, no nothing in the world will matter if you
+> can't choose what you want to do, with whom you want to do it, and for how long." — his
+> one-word definition of success. ([[../wiki/sources/2022-05-17-yt-_oE_sCepq1g]])
+
+> "It would only require courage if I thought I was going to fail. But here's how my
+> delusional mind works: I don't think I can fail." / "I didn't fail — that was just
+> information on what might not work and what could work potentially." — his long-view
+> reframe of failure as data. ([[../wiki/sources/2022-05-17-yt-_oE_sCepq1g]])
+
+> "Wisdom is experience plus reflection." ([[../wiki/sources/2022-05-17-yt-_oE_sCepq1g]])
+
+> "This is why I personally don't love this concept of work-life balance… We're going to
+> achieve work-life integration. That's the concept that I believe in." / "What if work could
+> be more like life, and what if life could be more like work?" / "As many of these things
+> possible to overlap, that's the game. You win." — his work-life *integration* thesis
+> (break work into Money/Fulfillment/Purpose and life into People/Self/Spirit, then look for
+> the overlap); pairs with "if you make the money and you don't use it for what it's meant to
+> do, which is to provide you options, then you've missed the entire point."
+> ([[../wiki/sources/2021-10-19-yt-5ZNmZshk8kk]])
+
 **Discipline / wealth**
 
 > "Every time you say yes to something, you're saying no to something else." / "hell yeah
@@ -685,6 +741,33 @@ quoted back to him.
 > enough other people get what they want" (Zig Ziglar). ([[../wiki/sources/2020-12-07-yt-WvdAVFt1LaI]];
 > [[../wiki/sources/2020-12-21-yt-mcC-6a33RaA]])
 
+**Feedback / criticism**
+
+> "Criticism is observation plus judgment… Observation I can work with. We got to cut the J
+> out of our life." — his formula for processing feedback: strip the judgment, keep the data
+> ("we're going to keep the sweet kernel… that's opinion, I'm going to move that over there,
+> and this is data, I'm going to keep this"). ([[../wiki/sources/2021-12-21-yt-piwDPirw0E0]])
+
+> "People are either saying please or they're saying thank you… everything else that doesn't
+> sound like [thank you] is them saying please, please help me understand this better." — his
+> "be a giraffe" listening move (from Marshall Rosenberg's Nonviolent Communication, jackal
+> vs. giraffe): you can't control how others speak, so listen with giraffe ears and decode
+> every non-thank-you as a "please." ([[../wiki/sources/2021-12-21-yt-piwDPirw0E0]])
+
+> "Everyone has an opinion and a butthole. I don't want to really see either." — his deadpan
+> line on unsolicited feedback. ([[../wiki/sources/2021-12-21-yt-piwDPirw0E0]])
+
+> "Don't throw the baby out with the bath water. The bath water is the garbage… there are
+> nuggets in the negative feedback." / "In life, you either win or you learn." — mine hostile
+> feedback for the data, then move on. ([[../wiki/sources/2021-12-21-yt-piwDPirw0E0]])
+
+> "If you're gonna be the leader there are followers — that's why it's called follow the
+> leader." / "They may be able to copy your work, the typefaces, and even your language, but
+> they can't copy you. They can't copy your process and how you think and solve problems.
+> That's where you win." — his reframe of being copied: it's proof you're the leader, and the
+> defense is out-executing, because the output is copyable but the operator isn't.
+> ([[../wiki/sources/2022-05-05-yt-lpwjLPhYfew]])
+
 **Permission / teaching**
 
 > "Who? They? Who? … no one can name the 'they.' The 'they' do not exist… you look at
@@ -718,6 +801,12 @@ quoted back to him.
 
 > "I'm just here for the action takers."
 ([[../wiki/sources/2023-12-14-yt-1kUCm1JPzxg]])
+
+> **"Don't be an askhole."** — his coined term for someone who "asks for a piece of advice
+> and never [does] anything… you're only looking for advice that aligns with what you already
+> believe"; the flip side of the coachability he prizes ("I want you to have all that you're
+> going to earn. Not that you deserve, but that you earn").
+> ([[../wiki/sources/2021-06-08-yt-IzVqGQdaM0c]])
 
 > "You can't be the only creative genius in the room, because guess what — you don't scale,
 > you can't grow beyond yourself and you are limited to the hours and the days and your
@@ -833,6 +922,17 @@ quoted back to him.
 > look at this work." — on handing the client a lens up front.
 ([[../wiki/sources/2017-10-08-yt-rOGAJwm3n_M]])
 
+> "Whenever you can, try to reduce your ideas, your words, your headline to the fewest number
+> of words, because that makes it more memorable and more impactful." / "The challenge is: can
+> you say it in five words or less?" — his distillation rule: apply the Pareto principle to
+> itself (the 20% of the 20%) until you reach the single essential idea.
+> ([[../wiki/sources/2022-01-11-yt-Bi16B8s6XI0]])
+
+> "We want clarity first and then we want a rhythm or musicality to it second." — his
+> two-step sequence for crafting a line: nail the meaning, then say it out loud and rewrite
+> it until it sings (he cites Paul McCartney: "I know that makes more sense, but it don't
+> sing good, and it has to sing good"). ([[../wiki/sources/2022-01-11-yt-Bi16B8s6XI0]])
+
 **Mindset / life (2017)**
 
 > "This is my formula for happiness: it's what you think, what you say, and what you do in
@@ -914,6 +1014,22 @@ quoted back to him.
 > accepted, and to remain invisible," and the turn was accepting "I'm just gonna have to be
 > me" (and being okay with the haters that follow — "I stand for these people, I don't stand
 > for you"). ([[../wiki/sources/2020-01-11-yt-d7V7eJn3-oc]])
+
+> "People call me a charming razor blade. I'm good with that label, that fits really well." /
+> "There's an edge to you, you can get cut, but there's some charm, some attraction there… I
+> said, that's my brand." — the Twitter-given nickname he adopted as his self-brand.
+> ([[../wiki/sources/2022-06-21-yt-1PW3tPqcwCs]]; echoed in
+> [[../wiki/sources/2022-05-17-yt-_oE_sCepq1g]])
+
+> "People misunderstand you. [I said] no, they understand me perfectly. They get to react
+> however they want to react." — his rejection of the criticism-equals-misunderstanding
+> framing: the strong reactions land because people understand him fine, and that's allowed.
+> ([[../wiki/sources/2022-06-21-yt-1PW3tPqcwCs]])
+
+> "I found my voice, I found who I am, and I'm not really willing to apologize for that. Now
+> if I misspeak, if I offend you, I will apologize, but I'm not gonna apologize for being me."
+> — his conduct-vs-identity distinction: he'll apologize for what he *does*, never for who he
+> *is*. ([[../wiki/sources/2022-06-21-yt-1PW3tPqcwCs]])
 
 *Note on phrases from the v1 dossier not yet found verbatim in transcripts:* "the more
 you, you are, the more you are" and the *Unbland Yourself* tagline remain sourced only to

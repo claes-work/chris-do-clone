@@ -2,8 +2,8 @@
 type: hub
 domain: content-strategy
 domains: [content-strategy]
-updated: 2026-07-18
-tags: [content-strategy, audience-building, organic-growth, storytelling, attraction-marketing, permission-marketing, community, movement, give-first, karmic-equity, awareness-funnel, portfolio, show-your-work, process-not-product, youtube-strategy, thumbnails, cold-open, awareness-matrix, niching, differentiation, sell-the-problem, thesis-paper, funnel-math, reciprocity, expert-positioning, audience-vs-customers, true-fans, smallest-viable-audience, youtube-launch, polarizing, public-journaling, feed-vs-stories, earned-followers, learning-styles, teach-while-you-learn, imposter-syndrome, repurposing, lumpy-mail, aida-carousels, magic-8, case-study, capabilities-deck, storybrand, multiple-income-streams, fame-vs-price, garage-sale, audience-as-asset, rot-hook, carousel-rubric, heads-or-tails, home-stretch-slide, twelve-post-minimum, guest-post-loop, 1000-true-fans, farming-vs-hunting, riches-in-the-niches, 2x-rule, virtuous-cycle-of-confidence, strongest-tribe, chef-analogy, scarcity-mindset, share-while-you-learn, persist-and-resist, content-manifesto, done-over-perfect]
+updated: 2026-07-19
+tags: [content-strategy, audience-building, organic-growth, storytelling, attraction-marketing, permission-marketing, community, movement, give-first, karmic-equity, awareness-funnel, portfolio, show-your-work, process-not-product, youtube-strategy, thumbnails, cold-open, awareness-matrix, niching, differentiation, sell-the-problem, thesis-paper, funnel-math, reciprocity, expert-positioning, audience-vs-customers, true-fans, smallest-viable-audience, youtube-launch, polarizing, public-journaling, feed-vs-stories, earned-followers, learning-styles, teach-while-you-learn, imposter-syndrome, repurposing, lumpy-mail, aida-carousels, magic-8, case-study, capabilities-deck, storybrand, multiple-income-streams, fame-vs-price, garage-sale, audience-as-asset, rot-hook, carousel-rubric, heads-or-tails, home-stretch-slide, twelve-post-minimum, guest-post-loop, 1000-true-fans, farming-vs-hunting, riches-in-the-niches, 2x-rule, virtuous-cycle-of-confidence, strongest-tribe, chef-analogy, scarcity-mindset, share-while-you-learn, persist-and-resist, content-manifesto, done-over-perfect, golden-formula, story-formula, binary-critique, ego-free-critique, linkedin-storytelling, struggle-porn, ad-breakdown, villain-hero, paint-the-pain, micro-commitments, four-diagnostic-questions, caption-writing, emotional-writer, refinement-loop, content-iteration, velocity, live-in-the-dip, five-words, distillation, pareto-on-itself, clarity-then-musicality]
 ---
 
 # Content Strategy — hub
@@ -2082,6 +2082,251 @@ Chris-attributed; the outro podcast promo is Greg Gunn (context). `[2021-02-05]`
 
 ---
 
+## 35. Storytelling as a craft: the "golden formula," objective critique, and the LinkedIn rubric (2021)
+
+A three-video 2021 deepening of §4's storytelling into a *repeatable, teachable, measurable*
+craft. Where §4 gives the classic story ingredients (conflict; McKee's subjective/objective
+gap; Kindra Hall's normal→explosion→new-normal), this trio adds Chris's own compact formula,
+a way to make story quality **objective**, and a platform-specific rubric for LinkedIn.
+
+**The "golden formula" — personal story + emotional reaction + ONE clear takeaway.**
+`[2021-05-13]` [[wiki/sources/2021-05-13-yt-AzrL1TOPS54]]
+- The formula for shareable content: (1) a **personal** story (your own lived experience,
+  not one others can already tell), (2) that **elicits an emotional reaction** (despair,
+  courage, fear, love, honor, duty — feeling is what gets shared and talked about), (3) with
+  **one clear takeaway** (one, not many). Hit all three and you have "the golden formula."
+  (paraphrase)
+- **Start with the point, then edit backwards.** Most people tell stories with no point. Fix:
+  write one sentence stating the single thing you want the audience to know, then edit the
+  story so every detail that doesn't add up to that point is removed. (paraphrase)
+- Prerequisites before you tell it: form an **informed opinion** first (know the other
+  positions — "that's your truth, but not necessarily the truth"; otherwise you just add to
+  the misinformation), and do the reps off-camera — your first articulation of an idea should
+  not be on camera. Build the outline and find supporting quotes so you sound informed.
+  (paraphrase)
+
+  > "Tell a personal story that elicits an emotional reaction with one clear takeaway — if
+  > you can hit these three things, this is the golden formula." — Chris Do `[2021-05-13]`
+
+  > "Start with a point — write one sentence: what's the one thing I want you to know from
+  > this? And then... edit the story so all the extra details that don't add up to the point
+  > are taken away." — Chris Do `[2021-05-13]`
+
+  > "Your first time articulating an idea should not be on camera." — Chris Do `[2021-05-13]`
+
+**Make story quality objective — ideally binary.** `[2021-07-20]`
+[[wiki/sources/2021-07-20-yt-5_RX0HuEA2U]] The central new idea of the companion video —
+Chris's recurring "make the subjective objective" instinct applied to storytelling:
+- Turn the unmeasurable "write a good story" ("what is good?") into criteria with yes/no
+  answers ("write a story with 400 characters" is checkable). Binary removes the guesswork
+  that feelings and subjective observation introduce. (paraphrase)
+- **The "can someone else WRITE this?" test** — a sharper version of "personal": if another
+  person could have written your story, go back to the start. A personal story reveals
+  something no one else can claim; that's what "separates you from a machine, a copy-and-paste
+  creative." (paraphrase)
+- **Ego-free critique language.** Replace "I like it / I don't like it" with neutral,
+  objective observations: *"I don't recognize where the struggle is"* or *"I'm not feeling
+  anything — it'd be more relatable if you did X."* That way the receiver hears instead of
+  defends. (paraphrase)
+- **Shareability as a takeaway signal** — the behavioral tells that content carries a real
+  takeaway are: are you likely to **share** it, **save** it for later, or **take notes /
+  highlight** it? No takeaway, no sharing. (paraphrase)
+
+  > "If I tell you 'write a good story' — well, what is good? But if I tell you to write a
+  > story that has 400 characters in it, we know we can hit that." — Chris Do `[2021-07-20]`
+
+  > "My question would be: can someone else write this story other than you? If the answer is
+  > yes, go back to the starting point." — Chris Do `[2021-07-20]`
+
+**The LinkedIn storytelling rubric.** `[2021-06-03]` [[wiki/sources/2021-06-03-yt-nw0_NLhgy90]]
+From live-critiquing Pro-group members' LinkedIn posts:
+- A story needs **two core parts: conflict/struggle + the lesson** (ordinary world → new
+  world); Chris color-codes them (conflict yellow, lesson green) when analyzing a post.
+  (paraphrase)
+- **Put the struggle near the start**, pile up specific, relatable details of it (each makes
+  a reader silently "raise their hand — me too, I've been there"), then **name the lesson
+  explicitly**. (paraphrase)
+- **Strip academic language** — intellectual vocabulary builds a barrier. "Stop being a
+  professor and just tell me as a human... you're just telling a friend at a bar."
+  Communication isn't a big vocabulary; it's the language that connects with your audience.
+  (paraphrase)
+- **Go extremely deep and vulnerable on the struggle ("struggle porn"), then back off** — the
+  results will likely surprise you positively. (paraphrase)
+- **Evoke the five senses** and pair **image + words in synchronicity** — a real, candid,
+  vulnerable photo (not a to-camera selfie) so "one image almost tells the entire story."
+  (paraphrase)
+- Tactics: the **400-character discipline** (use the limit to force reduction to the absolute
+  essential — start with the struggle, focus the takeaway, add only what pays it off);
+  **hook the first ~1.5 lines** (LinkedIn only previews a couple of lines, so don't
+  over-space the post like a screenplay); **post daily** (inactivity hurts you; "the
+  algorithm is going to love you for it"); and drive engagement with **thoughtful commentary,
+  not empty "straight fire" hype**. (paraphrase)
+- The teaching goal is to transfer the critique lens so a member can critique their own work
+  "as good as anybody in this group, including myself." (paraphrase)
+
+  > "Communication isn't using a big vocabulary. It's about using the language that connects
+  > with your audience." — Chris Do `[2021-06-03]`
+
+  > "The post limit on LinkedIn is 400 characters... Use the limitation to force yourself to
+  > reduce it down to the absolute essential." — Chris Do `[2021-06-03]`
+
+> Note: the "post daily" cadence here (2021-06-03) adds another data point to the §16
+> **quality-beats-frequency** contradiction — by 2021 the LinkedIn advice is squarely on the
+> *daily-reps* side, consistent with §5's carousel run and against the 2017 "post less"
+> stance. See the §16 callout for the format-and-phase reconciliation.
+
+See §4 for the classic story ingredients this craft layer sits on top of, and §7 for the
+engage-a-community angle the critique/dialogue framing shares.
+
+---
+
+## 36. The direct-response ad-breakdown method (2021 Dr. Squatch teardown)
+
+Chris's copywriting / lead-gen playbook, reverse-engineered from the Dr. Squatch soap
+direct-response ad that actually made him buy — a concrete method rather than a restatement.
+`[2021-05-04]` [[wiki/sources/2021-05-04-yt-wYtk_NDLVIg]]
+
+- **Diagnose what sold YOU.** Opening prompt: in the last 30–90 days, what sales technique
+  worked on *you* — what made you stop the scroll, click, or buy? "If you bought something,
+  if you signed up for an email list, if you joined a Facebook group — you've been sold." You
+  don't need sales jargon to recognize what worked; not understanding *why* is why people
+  struggle to generate sales. (paraphrase)
+- **The four diagnostic questions** for any ad that worked on you: how did the brand (1)
+  present the **problem**, (2) frame the **benefit**, (3) overcome your **unspoken
+  objections**, and (4) get you to take **action**? (paraphrase — the reusable core)
+- **"Paint the pain" — understand the problem before offering the solution.** Most people
+  jump straight to the solution; instead render the pain in "full beautiful detail."
+  Infomercials spend ~80% of the time on the problem — vital for cold leads who didn't know
+  they had a problem until told. (He credits the "ordinary world vs. the way things should
+  be" bridge to Nancy Duarte's TED talk.) (paraphrase)
+- **Every story needs a villain and a hero.** The ad's villain is "Big Soap" — named
+  deliberately to echo "Big Tobacco," exploiting 20+ years of anti-smoking conditioning
+  ("cuts corners to make more money at your expense"); the hero is the natural, USA-made,
+  small-batch product. Chris says he'll be adding the villain/hero device to his own **brand
+  messaging kit**. (paraphrase; fuller treatment in [[wiki/topics/branding/branding]])
+- **Sell the felt benefit, not the feature.** The implied feelings the ad provokes (you'll be
+  more attractive, more confident, smarter for caring for your skin, a good example for your
+  kids) are never stated outright — "reading between the lines." (paraphrase)
+- **Close with social proof + risk reversal + ONE call to action.** Thousands of reviews, a
+  satisfaction-guarantee refund, then a CTA that just says "go to the website" — no pricing,
+  no product matrix, "what do I have to lose." (paraphrase)
+- **The micro-commitment funnel.** The site's onboarding quiz fights the paradox of choice
+  (tell me the one thing to do), stays on-brand (fun/weird), captures email, and the results
+  email carries a purchase code — a chain of small escalating micro-commitments. (paraphrase)
+- **Map awareness → consideration → purchase, scaled to price.** Awareness alone is
+  worthless ("run naked down the street with your hair on fire" gets attention, not
+  consideration); a single piece rarely closes a high-ticket creative-service sale, and
+  **higher price = a longer journey / more touchpoints**. Getting a prospect from unaware to
+  aware-and-considering is already a win. (paraphrase — the 2021 companion to the §6 AIDCA
+  journey and the §14 conversion funnel; the class exercise is to build your own lead-gen tool
+  that moves a cold lead to warm/hot)
+
+  > "I don't want the solution until I understand the problem. I refer to this as painting the
+  > pain — I want you to feel it in its full beautiful rendering." — Chris Do `[2021-05-04]`
+
+  > "Every story needs a villain and a hero — and the villain is big soap companies. Do you
+  > know what 'big soap' sounds like? Big tobacco." — Chris Do `[2021-05-04]`
+
+---
+
+## 37. Instagram caption mechanics and the cross-platform refinement loop (2021)
+
+An "into-the-weeds" wrinkle beyond the §5 IG playbook: how Chris writes the *caption* and
+runs one idea across platforms. `[2021-07-25]` [[wiki/sources/2021-07-25-yt-qrjVDXiHO94]]
+
+- **Write the caption fresh the next morning — after you've forgotten the carousel.** He
+  posts around 7 a.m. on waking; by then he's forgotten the carousel's content, so he scans
+  it quickly and writes "a story about the carousel" with a clear mind. Result: overlapping-
+  but-added detail, written cleanly because it's first thing in the morning. (paraphrase)
+- **The caption = a longer story the reader gave you permission to tell.** If the carousel
+  made you curious enough to click in, you've granted permission for a longer story — a
+  permission-marketing framing (§2) applied at the post level, keeping him "respectful of your
+  time." (paraphrase)
+- **He's an "emotional writer."** Writing "cool and calm and collected" comes out "robotic"
+  and "dry"; he writes from anger or joy because the writing is better. (paraphrase)
+- **Engagement comes from presence, not the post** — he reads and responds to *all* comments
+  for roughly the first half hour after posting; over time the audience learns he's "there for
+  the dialogue," not the thumbs-up. (Reinforces §7.) (paraphrase)
+- **The documented loop:** question / DM answer → **Twitter** test → refine → **Instagram**
+  carousel + Story → **next-morning caption** → respond to all comments → **reframed
+  LinkedIn** post ("same content, framed differently — because I've learned"). Reaction, not a
+  content calendar, is the promotion signal. (paraphrase — the concrete sequence the §6 prism
+  and §5 repurposing only imply)
+
+  > "By the next morning... I've forgotten about what the carousel's about... I quickly scan
+  > the carousel, and then I write a story about the carousel." — Chris Do `[2021-07-25]`
+
+  > "If you're really curious about the story behind the carousel, then you'll read the
+  > caption. And therefore I already have your permission to tell you a longer story." — Chris
+  > Do `[2021-07-25]`
+
+---
+
+## 38. Content as experiment: hypothesis, velocity, iterate, detach (2022)
+
+Chris's method for *improving* content — treat each piece as a scientific experiment.
+`[2022-04-07]` [[wiki/sources/2022-04-07-yt-YAYvQefoqsg]]
+
+- **Form a hypothesis, ship a rough version fast.** Speed / velocity is "everything" because
+  it builds momentum — get the roughest version of your hypothesis out as soon as possible to
+  test whether it's correct. (paraphrase)
+- **Iterate 6–8×, not once.** Most people wrongly weigh the *result* over the *process*,
+  pouring all their effort into one "perfect" launch; Chris would rather ship the same idea
+  4–8 times — the 7th/8th piece is far more refined and data-informed. (paraphrase)
+- **Read the engagement data, detach from the outcome.** On Instagram the signals are
+  engagement, comments, follows, shares, and saves — imperfect but real. Detachment lets him
+  accept "the data suggests otherwise, so I'm going to adjust" even when he loves the piece;
+  set the emotional brain aside for the analytical decision, then turn it back on. (paraphrase)
+- **"Live in the dip."** Stay in the hard, unrewarding early stretch where most people quit.
+  (paraphrase)
+- Worked example: in The Futur's two-week challenge he **over-taught** — carousels too
+  meaty/complicated; the data said people aren't on Instagram for that, so he thinned them to
+  the "sweet spot." (The same over-teaching lesson surfaced in §5/§28.) (paraphrase)
+
+  > "I will go in and I'll do it four five six eight times and in that iterative nature it
+  > starts off really crappy... but I learned so much in the process." — Chris Do `[2022-04-07]`
+
+  > "I embrace the dip, I live in the dip, I start inside the dip." — Chris Do `[2022-04-07]`
+
+  > "As much as I love this... the data suggests otherwise, so I'm going to adjust." — Chris Do
+  > `[2022-04-07]`
+
+> ⚠️ CONTRADICTION: The 2022 **velocity / ship-rough / iterate 6–8×** stance sits in tension
+> with the §16 **"quality beats frequency / take time to craft / post less"** position
+> (2017-08-02). The reconciliation is the same format-and-phase one: 2017 argues against
+> high-volume low-craft spam on a slow account; by 2022 Chris has a repeatable format where
+> *cheap iteration and data* — not one agonized-over post — is how craft actually improves.
+> "Done is better than perfect" (§34.5) is the bridge. [[wiki/sources/2017-08-02-yt-fX7m03XsGGI]]
+
+---
+
+## 39. The five-words-or-less distillation method (2022)
+
+Chris's messaging-distillation technique. **Attribution note:** this comes from a workshop
+built around guest **Michael Bungay Stanier's** "worthy goal" framework — that framework is
+the *guest's* and is NOT persona material; only Chris's own closing distillation lesson (below)
+is Chris-attributed. `[2022-01-11]` [[wiki/sources/2022-01-11-yt-Bi16B8s6XI0]]
+
+- **Reduce any message to five words or fewer** — the fewer the words, the more memorable and
+  impactful; complexity fights memorability. (paraphrase)
+- **Apply the Pareto principle to itself** — take the vital 20%, then the 20% of *that*, and
+  keep cutting until you reach the single essential idea. (paraphrase)
+- **Sequence: clarity first, then rhythm / musicality.** Get it clear, then say it out loud
+  and rewrite it many ways (thesaurus, native-speaker friends) until it "sings." He retells
+  Paul McCartney insisting a lyric "has to sing good" even when another word "makes more
+  sense." (paraphrase)
+
+  > "Whenever you can, try to reduce your ideas, your words, your headline to the fewest number
+  > of words, because that makes it more memorable and more impactful." — Chris Do `[2022-01-11]`
+
+  > "We want clarity first and then we want a rhythm or musicality to it second." — Chris Do
+  > `[2022-01-11]`
+
+This is a *procedure* twin to the §11 "fifth grader" clarity test and Chris's habit of
+structuring things in threes — here expressed as a repeatable reduction method.
+
+---
+
 ## Sources
 
 - [[wiki/sources/2015-11-29-yt-z7Y9TKfgstE]] — "Is Your Design Resume Still Relevant?" —
@@ -2171,8 +2416,29 @@ Chris-attributed; the outro podcast promo is Greg Gunn (context). `[2021-02-05]`
   hero/guide, capture-the-middle (2020-06-08)
 - [[wiki/sources/2020-06-09-yt-ujxvy5NjeRQ]] — "How to Learn Anything (for creatives)" —
   input/output + learn-reflect-implement-share (2020-06-09)
+- [[wiki/sources/2021-05-04-yt-wYtk_NDLVIg]] — "This Ad Made Millions, Here's Why" —
+  direct-response ad-breakdown method: paint-the-pain, villain/hero, four diagnostic
+  questions, micro-commitment funnel, awareness→consideration→purchase (2021-05-04)
+- [[wiki/sources/2021-05-13-yt-AzrL1TOPS54]] — "Three Story Telling Tips (Story Formula)" —
+  the golden formula (personal + emotion + one takeaway), start-with-the-point-then-edit
+  (2021-05-13)
+- [[wiki/sources/2021-06-03-yt-nw0_NLhgy90]] — "Get More LinkedIn Post Engagement — 3
+  Examples" — LinkedIn storytelling rubric (conflict + lesson), 400-char discipline,
+  hook-first-1.5-lines, five senses, image+words (2021-06-03)
 - [[wiki/sources/2021-07-11-yt-lrM5CRg-O0I]] — "Easy Way To Market Yourself — Tell Your
   Story (Part 1)" (2021-07-11)
+- [[wiki/sources/2021-07-20-yt-5_RX0HuEA2U]] — "How To Tell Stories That Win Hearts & Minds"
+  — make story quality objective/binary, "can someone else write this?" test, ego-free
+  critique language, share/save/take-notes signals (2021-07-20)
+- [[wiki/sources/2021-07-25-yt-qrjVDXiHO94]] — "How To Write Better Instagram Content To Get
+  Engagement" — next-morning caption method, caption-as-permitted-story, emotional-writer,
+  Twitter→carousel→caption→LinkedIn refinement loop (2021-07-25)
+- [[wiki/sources/2022-01-11-yt-Bi16B8s6XI0]] — "Create A Worthy Goal" — Chris's five-words-
+  or-less distillation, Pareto-on-itself, clarity-then-musicality (worthy-goal framework is
+  guest Michael Bungay Stanier's, not persona) (2022-01-11)
+- [[wiki/sources/2022-04-07-yt-YAYvQefoqsg]] — "How To Improve Your Content" —
+  content-as-experiment: hypothesis + velocity, iterate 6–8×, read the data, detach,
+  live-in-the-dip (2022-04-07)
 - [[wiki/sources/2022-04-20-yt-6YFU39Vfw0E]] — "How I Got 800K+ Followers on Instagram
   Organically" (2022-04-20)
 - [[wiki/sources/2023-03-09-yt-CiyNGOIbwcE]] — "Attract Customers Like a Magnet

@@ -3,8 +3,8 @@ type: hub
 domain: sales-clients
 domains: [sales-clients]
 created: 2026-07-14
-updated: 2026-07-18
-tags: [sales, negotiation, objection-handling, discovery, positioning, client-management, role-play, serve-dont-sell, embrace-and-pivot, qualifying, closing, client-archetypes, blair-enns, cialdini, leverage, first-client-call, business-development, ambassador, presenting, pitching, money-mindset, strategy-selling, order-taker, trusted-advisor, jobs-to-be-done, decks-are-crutches, difficult-clients, boundary-setting, know-trust-like, inbound-outbound, firing-clients, dont-convince, objection-response-deck, control-energy, diagnostic-phase, outcomes-over-craft, strategist-reframe, client-selection, three-outcomes, mirror-the-ask, build-rapport, reciprocity, time-vampires, dinner-test, sell-your-idea, foreign-idea-invader, outreach-challenge, jim-rohn, mentorship, value-exchange, scaffolding, five-sales-mistakes, two-ears-one-mouth, talk-money-early, match-and-mirror, tony-robbins, buyer-types, referral-fee, minimum-level-of-engagement, value-buyer, lead-temperature, hot-warm-cold-leads, russell-brunson, cold-outreach, dm-outreach, lumpy-mail, allan-dib, praise-first, trust-your-struggle, listen-to-understand, human-tape-recorder, presence, jonathan-stark, deposit-first, accusation-audit, chris-voss, never-split-the-difference, u-turn, say-it-first, consultative-selling, therapist-frame, lion-and-sheep, silence, stop-selling-start-closing, count-to-20, sales-acronym, if-then-close, fiduciary, kevin-daley, dream-date, robot-vs-monkey-brain, no-brainer, one-result, competitive-lock, client-retention, zig-ziglar, sales-timeline, proposal-vs-contract, signed-contract, lead-qualification, matchmaker-frame, last-chapter, honesty-raises-esteem, curse-of-knowledge, ask-small-questions, empathy-exercise, patience, honest-vs-polite, have-to-get-to, non-violent-communication, emotional-neutrality, meeting-etiquette, shadow-the-boss, ask-before-ready, junior-listen-take-notes, free-work, trade-up, marketing-expense, pro-bono, errol-gerson, dont-negotiate-against-yourself, trust-ladder, just-ask-them, consistency-principle, symmetry-of-logic, forcing-acknowledgment-question, agree-then-find-the-gap]
+updated: 2026-07-19
+tags: [sales, negotiation, objection-handling, discovery, positioning, client-management, role-play, serve-dont-sell, embrace-and-pivot, qualifying, closing, client-archetypes, blair-enns, cialdini, leverage, first-client-call, business-development, ambassador, presenting, pitching, money-mindset, strategy-selling, order-taker, trusted-advisor, jobs-to-be-done, decks-are-crutches, difficult-clients, boundary-setting, know-trust-like, inbound-outbound, firing-clients, dont-convince, objection-response-deck, control-energy, diagnostic-phase, outcomes-over-craft, strategist-reframe, client-selection, three-outcomes, mirror-the-ask, build-rapport, reciprocity, time-vampires, dinner-test, sell-your-idea, foreign-idea-invader, outreach-challenge, jim-rohn, mentorship, value-exchange, scaffolding, five-sales-mistakes, two-ears-one-mouth, talk-money-early, match-and-mirror, tony-robbins, buyer-types, referral-fee, minimum-level-of-engagement, value-buyer, lead-temperature, hot-warm-cold-leads, russell-brunson, cold-outreach, dm-outreach, lumpy-mail, allan-dib, praise-first, trust-your-struggle, listen-to-understand, human-tape-recorder, presence, jonathan-stark, deposit-first, accusation-audit, chris-voss, never-split-the-difference, u-turn, say-it-first, consultative-selling, therapist-frame, lion-and-sheep, silence, stop-selling-start-closing, count-to-20, sales-acronym, if-then-close, fiduciary, kevin-daley, dream-date, robot-vs-monkey-brain, no-brainer, one-result, competitive-lock, client-retention, zig-ziglar, sales-timeline, proposal-vs-contract, signed-contract, lead-qualification, matchmaker-frame, last-chapter, honesty-raises-esteem, curse-of-knowledge, ask-small-questions, empathy-exercise, patience, honest-vs-polite, have-to-get-to, non-violent-communication, emotional-neutrality, meeting-etiquette, shadow-the-boss, ask-before-ready, junior-listen-take-notes, free-work, trade-up, marketing-expense, pro-bono, errol-gerson, dont-negotiate-against-yourself, trust-ladder, just-ask-them, consistency-principle, symmetry-of-logic, forcing-acknowledgment-question, agree-then-find-the-gap, five-options, embed-a-pm, difficult-client-repair, non-judgment, post-delivery-detachment, ownership-follows-payment, feel-it-dont-express-it, generous-check-in, graceful-tenacity, concede-by-not-objecting, principles-over-scripts, quality-vs-shareability, loaf-of-bread, design-to-strategy, position-around-you, value-add-then-charge, reluctant-buyer, deferred-final-payment, money-back-guarantee, future-pacing, sell-to-excitement, international-clients, four-obstacle-framework, escrow, certifications, small-starter-project, retreat-and-follow, three-why, what-not-why]
 ---
 
 # Sales & Clients — hub
@@ -2648,6 +2648,284 @@ From "How To Get Great Clients — Build Better Relationships On Trust" (2020-12
 
 ---
 
+## 53. Difficult-client repair — five options (not fire-vs-endure), post-delivery detachment, the cheap client (2021-03)
+
+A March 2021 cluster that turns the "difficult client" problem from a binary into a repair
+playbook. All Chris-attributed; role-play/questioner lines are context.
+
+### 53a. The five options — widen the set before you fire
+
+From "How To Deal With Difficult Clients Instead of Firing Them" (2021-03-30)
+[[wiki/sources/2021-03-30-yt-B2Vw6IUriTo]] — a Pro Group clip answering "when do you let an
+anchor client go?"; nearly all Chris (member question = context).
+
+- **Reject the false binary.** Framing it as "fire them — when?" leaves you no room:
+  "if you box yourself into that kind of thing there's no other options — it's like, do i
+  kill it or do i kill it." First **practice non-judgment** (be a neutral observer, don't
+  assign value to what you see) and **write down ~five options** before deciding. (2021-03-30,
+  paraphrase + quote)
+- **The five options** (paraphrase): (1) fire the client; (2) have an **adult conversation**
+  to remedy what isn't working for both sides and set boundaries; (3) **swallow it** (money's
+  good, replacement is hard); (4) push the work **offshore / onto a new team**; (5)
+  out-of-the-box — **embed an account manager / project manager at the client's office**
+  (e.g. ~3 days on-site gathering requirements + 2 days interfacing with your team). Option 2
+  is the one he favors and demonstrates. The embed carries an up-front financial hit but long
+  term "runs smoother and reduces stress on both sides." (2021-03-30)
+- **Root-cause before you fire — usually it's timelines & expectations.** The real problem is
+  often that work reaches your desk too late: "by the time it reaches our desk we have so
+  little time to really react… it puts me behind the eight ball and we make decisions not
+  truly understanding what the real problems are." Fix the upstream process, not the symptom.
+  (2021-03-30)
+- **Open the repair conversation with appreciation + shared ownership**, not blame: "we've
+  come to take you for granted… at times i felt compelled to say yes to everything… we've
+  developed a pattern of behavior that is not sustainable for me or my team," and "it's just
+  not something that's conducive to doing good work, or to my mental health." Keep the
+  **nuclear option** (amicable parting) explicitly named but clearly the thing you're trying
+  to avoid: "the nuclear option is always available… but i'm trying to avoid that."
+  (2021-03-30) (Extends §8; the reframe complacency, not a bad client is new.)
+
+### 53b. Post-delivery detachment — "they've stopped paying you to care"
+
+From a Clubhouse coaching clip (2021-03-12) [[wiki/sources/2021-03-12-yt-Ii_WWDxmqy4]] —
+a designer/copywriter is upset a client's team rearranged the delivered messaging months
+later; Chris reframes through ownership and non-attachment (questioner = context).
+
+- **Ownership follows payment.** "If somebody pays for something, who owns the thing? …They
+  own it." The client can do whatever they want with a paid deliverable, including break it.
+  (2021-03-12)
+- **What a client actually buys is time-bound attention, not perpetual care:** "They've
+  stopped paying you to care. And I always say: you don't pay me for the work, you pay for my
+  attention and what I care about in the moment." (2021-03-12)
+- **A paid deliverable is a gift — release attachment.** Socratic walk-through: it was made as
+  a tool, paid for, therefore owned — "theoretically, if you give somebody something, you
+  should then have no more attachment or expectation." Staying upset "means she didn't freely
+  give it." Analogy: a deliverable is "like your children — they run up, they do their own
+  thing… we just don't have control over [it] anymore. Ownership is a crazy idea to begin
+  with." Clinging to control over delivered work "is not healthy for you." (2021-03-12)
+- **Feel it, don't express it.** Feeling insulted is fine; regulate the reaction — no "rage
+  text," no "what is this?": "if you feel that way, that's okay — just don't express it
+  externally." (2021-03-12)
+- **The generous three-month check-in** (the practical move): "it's been three months since I
+  delivered this… how are you doing with what I gave you? Do you need any additional help or
+  sharpening of the messaging? — leave it very open and generous," never accusatory.
+  (2021-03-12) (This open, non-attached check-in is the softer counterpart to §45's
+  competitive-lock retention and §52's trust-ladder; here the check-in serves the client, not
+  the sale.)
+
+### 53c. The cheap client — diagnose, don't confront; principles over scripts
+
+From "How To Respond When The Client Just Wants It Done Cheaply" (2021-03-09)
+[[wiki/sources/2021-03-09-yt-_go6fUnF_QE]] — Chris = vendor, Mo Ismail = a skeptical
+multi-million-dollar client who "just wants a video done cheaply" (Mo's lines = context).
+A fumble-recovery demo layered on the §2 diagnose-before-prescribe rule.
+
+- **Enter caring about the human, not the sale** — "I do not want to take money for services
+  that I do not genuinely believe will help you… how can I serve the person in front of me
+  best." Restates the §1/§38 three-options mindset ("hire me, hire someone else, or do
+  nothing at all") as the desperation antidote. (2021-03-09)
+- **Fumble recovery by labeling the emotion ("graceful tenacity").** When the client gets
+  annoyed, name it — "Am I annoying you right now, by the way? You okay?" — which de-escalates
+  and buys permission to keep asking. (2021-03-09) (Same accusation-audit/labeling family as
+  §40, applied mid-scene to recover a pushback.)
+- **Never confront the client's thinking; let them concede by *not* objecting.** "The worst
+  thing that you can do is to confront somebody about their thinking even though you know it's
+  wrong… people tend to dig in." Instead: "I don't need you to admit… I'm just opening that
+  door for you to object if you disagree. And by your complicity, by not disagreeing, allows
+  me to move forward." (2021-03-09) — a sharper NVC move than §48: **silence is the
+  admission**, no forced climb-down required. (Same consistency-trap logic as §10.)
+- **Reframe "cheap" onto value without leading with price; turn a one-off into a campaign.**
+  "Forget about cost for right now"; a single video isn't a narrative — a 3–5-video campaign
+  usually serves the real goal better. The **"loaf of bread"** analogy for stretching one
+  shoot into many "slices" (30-second cut-downs). And "of course I'm going to charge you
+  more… but I don't want you to feel that that's the goal." (2021-03-09)
+- **Value reframe — production polish can *hurt* shareability.** "The quality of the video
+  sometimes lets people know it's a high production and therefore manufactured, and doesn't
+  get shared as much… production quality actually fights against it going viral." Make the
+  client choose which goal (flaunt-quality vs. shareability) matters. (2021-03-09)
+
+  > ⚠️ CONTRADICTION (soft, context-specific): This "polish can hurt results" claim is a
+  > counterweight to any "always maximize production value" reading of Chris elsewhere. It is
+  > scoped to **organic social virality**, not a blanket rule — flag if a topic page ever
+  > generalizes it.
+
+- **Principles beat scripts.** "It's the principles underneath the templates and the
+  frameworks and the scripts that really are what's important… the first rule is just to care
+  about the human being that's in front of you." People who cling to a template in a live
+  role-play "crash so hard"; instead, like Bruce Lee, "be water and take the form of the
+  conversation." Clients are smarter than you think — if you're visibly driving at a sale
+  "you're not that good of a salesperson" to hide it. (2021-03-09)
+
+---
+
+## 54. Design → strategy — embrace-and-pivot up-market, the $10k free-session anchor, "position around YOU" (2021-04-27)
+
+From "How To Go From Design To Selling Strategy To Clients" (2021-04-27)
+[[wiki/sources/2021-04-27-yt-C2SHll_zWh4]] — a Pro Group coaching clip on moving from being
+hired for execution to selling strategy. Chris = trainable; members Emily/Anthony = context.
+Applies the §10 embrace-and-pivot method and §19's strategist reframe to the *transition
+problem* — how a maker climbs up-market with existing clients.
+
+- **Stop being defined by the artifact you make.** "I want you to move away from the thing
+  that you make as what defines you… sell clarity of thinking and communication — and just by
+  the way, we make websites." The deliverable becomes the vehicle, not the identity.
+  (2021-04-27)
+- **The embrace-and-pivot-to-strategy script.** When a client comes praising your design,
+  **embrace** (thank them, affirm you'd love to do brilliant design), then **pivot**: mention
+  you've "incorporated a new thing" that has helped clients grow and ask if they're curious —
+  curiosity earns permission. "Appreciate them for loving you and then pivot hard." (2021-04-27)
+- **Anchor a high price on a *free* first discovery session.** "Since I'm asking you to do
+  this, this first meeting is on me, the next meeting will be on you, because typically I
+  charge ten thousand dollars to do this." (2021-04-27) — the $10k number assigns value to the
+  strategy *before* doing the work, while the first session is free. (Consistent with §13's
+  "charge to think / first half hour on me"; the explicit $10k anchor-on-a-free-session is the
+  new specific.)
+- **Show strategic thinking, don't describe it.** "Demonstrate strategic thinking and not tell
+  them about it" — actually do a quick profile (revenue streams, where to focus) rather than
+  pitch your capability. Use scaffolding discovery (~20–30 min: core customers, the customers
+  they want more of, those customers' pain points, why buyers pick competitors). And **"tell
+  me which wall it's on, not where the bullseye is"** — directional info is enough to avoid
+  "solving a problem that's not worth solving." (2021-04-27)
+- **Value-add first, then charge (to Anthony).** If you're not yet confident selling strategy,
+  give it free as a value-add for the first two or three iterations to build confidence, then
+  "time to charge for it all" — Chris frames this as scaffolding/"bridging yourself to the
+  next evolution of who you're going to be." (2021-04-27)
+- **Position around YOU, not the thing you make → raise rates.** "Too many of us position
+  ourselves around the things that we do, so then we're stuck competing against other makers…
+  the only thing that differentiates you… is price. But here's the cool part: nobody thinks
+  like you. So when you put you in your brand, there is no competition and then you can just
+  raise your rates." (2021-04-27) (Sales-side statement of the positioning thesis.)
+- **Losing old clients is a repositioning *signal*, not a failure.** "The no is an affirmation
+  that you've changed… very rarely do the people you work with today follow you along this
+  journey of becoming the new you." Move on to buyers with "a more expansive definition of who
+  you are." (2021-04-27) Aligning stakeholders on the problem worth solving is "80% of the
+  work"; execution then "runs like the Flash."
+
+---
+
+## 55. The full reluctant-buyer close — a canonical worked example (2021-05-11)
+
+From "Closing A $10k Client That Is Reluctant" (2021-05-11)
+[[wiki/sources/2021-05-11-yt-2nVPJDelYNc]] — a live Clubhouse demo where Chris closes a real
+hesitant prospect (a coach) on a **$10,000** engagement. Two speakers; only Chris trains
+(the prospect's situation/goals/objections = context). Unusually, it strings the whole
+method **end-to-end in one take**, so it belongs here as the canonical worked close.
+
+The sequence:
+1. **Diagnostic opener — quantify the pain with a metric.** He opens by guessing her weekly
+   screen-time (60 vs. her 40 hrs) to make the cost of the status quo concrete before selling.
+2. **Make the desired future state vivid, specific, numeric.** "The more ambiguous a goal is,
+   the more difficult it is to realize." He pushes her to a hard target income and praises
+   specificity when she lands on **$102k**. Then he **anchors the goal on her own 1–10 scale**
+   (she's a "2," Tony Robbins a "10"; contentment at a "7") so the gap is defined in her words.
+3. **Future-pace to attach emotion + money** (a "rub the magic lamp" wish + an "imagine three
+   months from now looking back" visualization).
+4. **Extract the buyer's own price and trust criteria before pitching.** She volunteers "at
+   least ten thousand dollars"; her three trust criteria — (a) do they understand my problem,
+   (b) proven results, (c) do I feel connected — become exactly what he answers later. **Close
+   by asking, claim nothing:** "I don't think I've said anything about what I've done. I've
+   just asked you what you wanted." (Restates §13 selling-vs-closing.)
+5. **Recap in her language, get a confirming yes, then name the reluctance.** "I hear
+   reluctance there, tell me about that," and repeatedly invite the hard version: "you could
+   say 'I don't trust you, Chris'… I'm okay hearing that." (Same say-it-first instinct as
+   §5/§40, turned on the buyer's hesitation.)
+6. **Answer each objection with the exact proof requested** (a list of ~10 past clients to
+   call + a customized plan before the proposal), and **keep asking "is there anything else?"**
+   until the *hidden* objection surfaces — here, she has to reconcile her finances.
+7. **Dissolve the price objection in the terms, not the price** — restructure $10k as **four
+   payments of $2,500**, with the **final payment deferred until after the fourth month of
+   coaching** so she isn't paying in full up front. "Price never drops; the friction is in the
+   terms, so he fixes the terms." (paraphrase)
+8. **Collapse the residual risk with a measurable money-back guarantee.** Swap the reference
+   calls for "something even better": **if in the first six months she hasn't hit $51k she can
+   ask for a full refund on the spot; if she doesn't ask, she owes the full $10k.** "$51k" ≈
+   the halfway proof point toward the $102k target. "If you don't hit your financial goals you
+   don't owe me anything." (Same all-profit-comes-from-risk logic as §4b, now as a hit-a-number
+   guarantee.)
+9. **Close to *excitement*, not mere consent.** "I like my prospective clients to be excited…
+   is there anything else that I could do to make you super excited?"
+
+He also protects the buyer against himself: "you would really need to trust them before you
+spend one dollar… it's hard to make that money. It's easy to spend it." (2021-05-11)
+
+> ⚠️ Note (terms tension, not a contradiction): deferring the **final** payment until after
+> delivery softly cuts against Chris's usual **deposit-first / get-paid-before-you-deliver**
+> stance (§4b's "$2,000 upfront"; the deposit-first move in the 2019 $3k-logo call, §39). Here
+> the first payment is still up front and the deferral is a deliberate risk-reversal for a
+> *reluctant* buyer — an exception engineered to remove friction, not a change of doctrine.
+
+---
+
+## 56. International / cross-border clients — the four-obstacle framework (2022-04-14)
+
+From "How To Work With Clients From Other Countries" (2022-04-14)
+[[wiki/sources/2022-04-14-yt-l85ZNXnC7A0]] — Chris solo, all trainable. A distinct, new
+framework for landing clients across borders: four obstacles, a fix for each, and the stance
+that **none is a real blocker if you take full ownership**.
+
+1. **Language** — "learn English from a native English speaker" (Chris claims non-native-taught
+   English becomes "a weird version") using Rosetta Stone / Duolingo / classes; the real goal
+   is "your ability to articulate your ideas."
+2. **Culture** — often **an advantage**, not a liability: "cultural differences are an
+   advantage because you have a very different perspective and you can bring a breath of fresh
+   air," and you can tap indigenous colors/patterns/forms competitors lack.
+3. **Time zones** — never an issue because **you work on the client's clock.** "Time should
+   not be an issue whatsoever because you work on the client's time… if you want to work with
+   me you need to know where I'm at and sync up your whole life." Ask "What time works best for
+   you for calls and updates?" and "adjust my calendar… to be completely compatible with
+   yours. You don't make any one of these things an issue." Getting a client's time zone wrong
+   reflects badly on you.
+4. **Trust — the biggest obstacle** (the client doesn't know you, you're abroad, and their
+   legal recourse is weak). Earn it by:
+   - **following the sales process — serve, ask, listen, empathize, summarize** (the §1 SALES
+     acronym) so the client feels understood;
+   - a **bank of testimonials from *international* clients**;
+   - **referrals** (connect them to another client in their exact city/niche);
+   - **escrow** (via an escrow company, so they can recover their money if there's a problem);
+   - **certifications** (Adobe/Apple/BBB/Verisign), which "people value for whatever reason";
+   - **the single strongest move — name the difficulty and start small:** "I know it's not
+     easy for you to work with somebody in another country, in another time zone — how might I
+     earn your trust? Start with a small project." (2022-04-14) A small starter project is the
+     risk-reversal that de-risks a big, scary decision (same instinct as §11's paid discovery
+     and §55's guarantee).
+
+---
+
+## 57. Persuasion mechanics — retreat-and-follow, Stark's three "why," Voss's "what-not-why" (2022-06-16)
+
+From "The Psychological Trick Behind Getting People To Say Yes" (2022-06-16)
+[[wiki/sources/2022-06-16-yt-4kVo2YEzPqQ]] — Chris = teacher (train); closing podcast promo
+by Greg Gunn = context. Reframes selling from a persuasion game to a **status/frame game**.
+Some of this reinforces prior material (kill-engagement-3× is §12; Stark's three-why appears
+in the §39 source); the **new/sharpened** pieces are the retreat-as-*test* mechanic and the
+Voss reconciliation.
+
+- **Don't pursue — retreat to keep the higher ground.** "To retain the higher ground in the
+  conversation, don't pursue." **Retreat and follow** (Blair Enns, *The Win Without Pitching
+  Manifesto*): chasing makes people run (true in dating, in nature); "you take a half step
+  back to see if the person's interested and they naturally will follow… we like to pursue
+  people, we don't like to be pursued." At a party, step back — interested people move toward
+  you, uninterested people leave. (2022-06-16)
+- **The half-step is a *test*.** It reveals whether the prospect genuinely wants to work with
+  you: "if they're not interested… no matter what kind of verbal ninjutsu skills you might
+  have… it's not going to work, so don't waste your time with them." (New framing of the §12
+  "kill the engagement three times" move — the point is disqualification, not just leverage.)
+- **Jonathan Stark's three "why" questions** — the mechanism that makes the prospect sell
+  themselves: **(1) why this** (why do this at all), **(2) why now** (why not wait / do
+  nothing), **(3) why me** (of all your options, why me — "because I'm more likely to come in
+  more expensive than everyone else"). "They are selling themselves to themselves in front of
+  you. So you take away all the convincing… by just asking three why questions." (2022-06-16)
+  (Already noted in the §39 source; here it's the full standalone triad.)
+- **Tonality is load-bearing, and the Voss reconciliation.** The same why-questions land well
+  or badly on delivery. Chris Voss (*Never Split the Difference*) warns that poorly-phrased
+  "why" makes people defensive and prefers calibrated questions — so Chris reconciles:
+  **while you're still developing your skills, use "what" questions over "why" (and even over
+  "how")**, because "what" is open-ended and lets the other person "remain neutral and
+  objective." Examples: "What happens if you don't move forward with this project?" / "What
+  happens if you just wait?" (2022-06-16) (Contrast, not contradiction — same disqualify /
+  make-them-sell-themselves goal, gentler instrument.)
+
+---
+
 ## Cross-links
 
 - [[wiki/topics/pricing/pricing]] — value-based pricing, the desired-future-state → value
@@ -2798,6 +3076,27 @@ From "How To Get Great Clients — Build Better Relationships On Trust" (2020-12
   the empathy exercise.
 - [[wiki/sources/2021-01-26-yt-wW7duEovGJM]] — What To Say In A Meeting (2021-01-26) —
   junior's job is to listen/observe/take-notes, ask-to-shadow, ask-before-you're-ready; *mentee = context.*
+- [[wiki/sources/2021-03-09-yt-_go6fUnF_QE]] — Client Just Wants It Done Cheaply (2021-03-09) —
+  diagnose-before-prescribe, label-the-emotion/graceful-tenacity, concede-by-not-objecting (NVC),
+  one-off→campaign/loaf-of-bread, quality-can-hurt-shareability, principles>scripts; *Mo = context.*
+- [[wiki/sources/2021-03-12-yt-Ii_WWDxmqy4]] — Detachment After Delivery / Clubhouse (2021-03-12) —
+  ownership-follows-payment, "they've stopped paying you to care," gift/non-attachment,
+  feel-it-don't-express-it, the generous 3-month check-in; *questioner = context.*
+- [[wiki/sources/2021-03-30-yt-B2Vw6IUriTo]] — Difficult Clients Instead of Firing Them (2021-03-30) —
+  the five options (fire / adult-conversation+boundaries / swallow / offshore / embed-a-PM),
+  non-judgment, timelines-&-expectations root cause, appreciation+shared-ownership repair open.
+- [[wiki/sources/2021-04-27-yt-C2SHll_zWh4]] — Design To Selling Strategy (2021-04-27) —
+  embrace-and-pivot-to-strategy, $10k anchor on a free first session, show-don't-tell,
+  "which wall it's on," position-around-you→raise-rates, losing-old-clients-as-signal; *members = context.*
+- [[wiki/sources/2021-05-11-yt-2nVPJDelYNc]] — Closing A Reluctant $10k Client (2021-05-11) —
+  full worked close: specify a numeric goal, name-the-reluctance, keep-asking-"anything-else?",
+  4×$2,500 with final payment deferred, hit-$51k-or-full-refund guarantee, sell-to-excitement.
+- [[wiki/sources/2022-04-14-yt-l85ZNXnC7A0]] — Clients From Other Countries (2022-04-14) —
+  four-obstacle framework (language / culture-as-advantage / time-zones-on-client's-clock /
+  trust), trust-builders: intl testimonials, referrals, escrow, certifications, small starter project.
+- [[wiki/sources/2022-06-16-yt-4kVo2YEzPqQ]] — Getting People To Say Yes (2022-06-16) —
+  retreat-and-follow half-step-as-test (Blair Enns), Stark's three-why (why-this/now/me),
+  Voss "what-not-why" reconciliation, don't-pursue/higher-ground.
 - [[wiki/sources/2023-10-19-yt-Abi8kwkfZbA]] — Don't Justify Your Prices (2023-10-19) —
   symmetry of logic, have-to-have vs. nice-to-have.
 - [[wiki/sources/2023-12-23-yt-B-NxAZiDkKo]] — The Kind Way to Sell / SALES keynote

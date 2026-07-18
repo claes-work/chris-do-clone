@@ -351,6 +351,10 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2019-04-10 | ★ [Does Creativity Come From Insecurity? w/ Debbie Millman](2019-04-10-yt-wHhcuix-ir8.md) | mindset; design-craft | BIOGRAPHY-rich: Chris's candid childhood monologue (Vietnamese-immigrant/latchkey, outcast/insecurity, typography as "anchor", knowledge-vampire, "every peak is the base of another mountain"); Debbie=context + entity candidate; L3-candidate |
 | 2019-04-11 | [How Do You See Yourself? How Do Others?](2019-04-11-yt-aBxl1SBERYw.md) | mindset; branding | self-acceptance ("I'm the best judge of my own work — criticism only affirms what I know"); Spock/emotional-compression "sound-limiter" metaphor; external-validation-doesn't-work; 2nd speaker=context |
 | 2019-04-15 | [Design Mentorship Reactions & Tips for Young Designers - Young Guns (S1 finale)](2019-04-15-yt-_VrsBh5h8j4.md) | mindset; design-craft; content-strategy | Young Guns S1 finale montage; Chris: feedback-resilience lens (fold vs rise) + global-talent/representation thesis ("see somebody like themselves in the mirror"); students/co-host=context |
+| 2019-04-01 | [Motivating Millennials - Why these 3 hold back](2019-04-01-yt-oyXt5jR6Y1I.md) | mindset; business | team pep-talk; motivated-by-loss > win, binary "hero or loser" self-image, motivation-evaporates-if-not-acted-on, empowerment reframe; team replies=context |
+| 2019-04-16 | [Relevance in the Age of Social Media – Art Center BOLD 2019](2019-04-16-yt-__V7mYxg9Mo.md) | content-strategy; branding; mindset | BOLD 2019 (Futur × ArtCenter, Chris's 1st collab, "homecoming") recap; BIOGRAPHY: ArtCenter alum, taught 15+ yrs, spoke at all 3 prior symposiums; customers-vs-audience/1000-true-fans/attractive-character (known); photographer=context |
+| 2019-04-22 | [The Challenges of Being a Creative Professional – Young Guns (S2 trailer)](2019-04-22-yt-0kVXDPxRMgk.md) | content-strategy; mindset | Young Guns S2 trailer/roster reel; 7 students introduce their career problems (context); Chris only closing lines w/ Melinda; no new persona material |
+| 2019-04-23 | ★ [How to Get Work in ANY City](2019-04-23-yt-q_QESEKja3I.md) | sales-clients; content-strategy; mindset | cold-DM outreach playbook (resumes/email "dead" → DM top ~12 companies, praise-first-ask-later, ~100 DMs/day); "trust your struggle"; reframe-to-dissolve ("any city is the same"); coachee=context; L3-candidate |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -400,4 +404,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_380 videos ingested (L2) so far._
+_384 videos ingested (L2) so far._

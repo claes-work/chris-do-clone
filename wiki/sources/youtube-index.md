@@ -508,6 +508,12 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2021-02-02 | ★ [What Is Brand Strategy And How To Do It (Step 1)](2021-02-02-yt-TqczYbFPWnk.md) | branding; business | Chris solo discovery demo; strategy = goal + path-to-goal, show-don't-explain via 7-question script (Coaching Habit), funnel math, value-based bid; ↔ Step 2; L3-candidate |
 | 2021-02-05 | ★ [9 Tips For Content Creation](2021-02-05-yt-0arou9boK8k.md) | content-strategy; mindset | Chris solo at 1M subs/800+ vids; consistency, persist-and-resist, failure = tuition, done > perfect, "what makes you weird makes you wonderful"; Greg Gunn outro = context; L3-candidate |
 | 2021-02-09 | ★ [Brand Strategy Step 2: What You Need To Know Before You Start](2021-02-09-yt-EVsC832qvic.md) | branding; business; mindset | Chris solo (Pro Group); strategist needs broad business literacy + unbiased facilitation; "everything is marketing", "inform or inspire", verify claims vs data; ↔ Step 1; L3-candidate |
+| 2021-02-11 | ★ [How To Price Design & Bid Projects (Pt.1)](2021-02-11-yt-OiUOaZJJYzg.md) | pricing; business | Chris solo; bidding evolution hourly→markup→cost-plus→SOW; production-fee %, padded day rates, concrete price ranges; ⚠️ historical contradiction vs value-based; ↔ pt2/pt3; L3-candidate |
+| 2021-02-16 | [How To Bid (Pt.2) — Undefined Scope](2021-02-16-yt-dKBFjl6uc7s.md) | pricing; sales-clients | Chris (Pro Group Q&A); paid discovery+strategy phases before pricing, qualify budget via deck, retreat-and-follow (Blair Enns); ↔ pt1/pt3 |
+| 2021-02-18 | ★ [Easy & Painless Way To Bid (Pt.3)](2021-02-18-yt-kt2oLrl1EHY.md) | pricing; sales-clients; business | Chris solo (Pro Group); bake pricing into discovery/Core, important/urgent grid, assign budgets live, facilitator-as-client-advocate; ↔ pt1/pt2; L3-candidate |
+| 2021-02-20 | ★ [Boost Your Productivity With This Time Management Exercise](2021-02-20-yt-WzHEgLf49aE.md) | mindset; business | Chris solo; Post-it time-audit exercise; "time is money literally", "don't major in the minors" (Rohn), "don't die living someone else's dream" (Bronnie Ware); L3-candidate |
+| 2021-02-23 | ★ [Running A Profitable Business (In 11 Minutes)](2021-02-23-yt-zM2fB-Q8T7g.md) | business; pricing; mindset | Chris solo; cost vs price vs value triad; "seller sets price, buyer sets value"; profit compensates risk (Drucker); hourly = break-even; L3-candidate |
+| 2021-03-03 | ★ [How To Talk About Money — Pricing Design Breakdown](2021-03-03-yt-LliPPJo5lHE.md) | pricing; sales-clients; business | Chris solo breakdown of Dan Mall's *Pricing Design*; risk-based sliding scale ($40k vs $300k), reframe "budget"→"money", 8-question discovery, "every dollar returns 10x"; L3-candidate |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -557,4 +563,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_537 videos ingested (L2) so far._
+_543 videos ingested (L2) so far._

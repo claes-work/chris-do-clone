@@ -606,6 +606,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2022-08-30 | [3 Networking Strategies That Landed A $50,000 Contract](2022-08-30-yt-hb1UQlfBNKk.md) | sales-clients; content-strategy | ⚠️ NOT Chris — guest/member designer story (Dean Jackson/Phil Jones/Selena Soo tactics); context/do-not-train |
 | 2022-09-01 | [Hire People For Values Not Just For Skill](2022-09-01-yt-qA0p3lf8m98.md) | business; sales-clients | ⟳ dup of Joana Galvao masterclass (2022-08-22); Chris hiring-for-values already covered; Joana = context |
 | 2022-09-06 | [Turn Pain Into Prosperity](2022-09-06-yt-dF1jhPzfpmc.md) | mindset | ⚠️ NOT Chris — guest Ryan Blair (ViSalus, ex-gang) adversity story; context/do-not-train |
+| 2022-09-08 | [How To Become The Person You've Always Wanted To Be](2022-09-08-yt-3Dz60fW7bSI.md) | mindset | ⚠️ NOT Chris — guest Ryan Blair (Alter Call) reinvention; context/do-not-train |
+| 2022-09-13 | [You're Stronger Than You Think (w/ Ryan Blair)](2022-09-13-yt-Pf1LkjhhYs4.md) | mindset | ⚠️ Ryan Blair guest = context; Chris host asides only (first-gen immigrant); fence |
+| 2022-09-15 | [How To Sell Anything To Anyone (w/ Ron Baker)](2022-09-15-yt-ouvA3Pnmpac.md) | pricing; sales-clients; mindset | ⚠️ Ron Baker (value-pricing) = context/do-not-train; Chris interviewer only; do NOT launder Ron's frameworks into Chris |
+| 2022-09-20 | [Design Services as a Subscription Model? (w/ Ron Baker)](2022-09-20-yt-lM9ARssrJdE.md) | pricing; business; sales-clients | ⚠️ ~95% Ron Baker (subscription/value-pricing-2.0) = context; Chris trains only "resistance = powerful idea" |
+| 2022-09-27 | [The Longer You Wait, The Less Opportunity (w/ Sean Cannell)](2022-09-27-yt-Nr7sVF6Lc7Y.md) | content-strategy; mindset | ⚠️ ~95% Sean Cannell (Think Media) = context/do-not-train; Chris host prompts only |
+| 2022-09-29 | [If You're Scared To Spend, You'll Never Profit (w/ Sean Cannell)](2022-09-29-yt-qCZq6N6W9SE.md) | business; mindset | ⚠️ ~95% Sean Cannell = context/do-not-train; Chris interviewer only |
+| 2022-10-03 | [Easy Way To Market Yourself To Win More Clients](2022-10-03-yt-Lhseljh_mnw.md) | content-strategy; sales-clients | ⚠️ NOT Chris — unidentified British guest presenter (symptoms-not-solutions, AIDA); context/do-not-train |
+| 2022-10-04 | [Risk Is Part Of Success Formula](2022-10-04-yt-oR_XG5Ju_W4.md) | mindset; business | ⚠️ NOT Chris — guest videographer (risk/self-belief/$20k-day-rate); context/do-not-train |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -655,4 +663,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_635 videos ingested (L2) so far._
+_643 videos ingested (L2) so far._

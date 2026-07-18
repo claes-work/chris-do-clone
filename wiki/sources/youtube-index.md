@@ -546,6 +546,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2021-07-16 | [Designing a Personal Portfolio Website – Web Design Process](2021-07-16-yt-NKgoyLeigtU.md) | design-craft; mindset | ⚠️ NOT Chris — Built By Hand Ep.3; host Ben Burns (context/do-not-train); desktop-first, grid→type→color→detail, creative-process curve |
 | 2021-07-20 | ★ [How To Tell Stories That Win Hearts & Minds](2021-07-20-yt-5_RX0HuEA2U.md) | content-strategy; branding; mindset | Chris teaches; extends story formula w/ NEW objective/binary story-critique (turn "good" into yes/no, ego-free critique, "can someone else write this?"); L3-candidate |
 | 2021-07-25 | ★ [How To Write Better Instagram Content](2021-07-25-yt-qrjVDXiHO94.md) | content-strategy; branding | Chris; IG caption-writing workflow — write caption fresh next morning, caption = permitted longer story, Twitter→carousel→Story→LinkedIn loop; extends IG playbook; L3-candidate |
+| 2021-07-27 | [Illustration for Designers](2021-07-27-yt-v8SJoGaCIWo.md) | design-craft | ⚠️ NOT Chris — illustration course trailer by an unnamed Futur instructor (context/do-not-train) |
+| 2021-08-05 | [Brand Strategy Fundamentals](2021-08-05-yt-M8kWJ2icciI.md) | branding | ⚠️ do-not-train (attribution uncertain) — brand-strategy course trailer; "15 yrs" contradicts Chris's timeline; likely team-led promo |
+| 2021-08-10 | [Building a Personal Website With No Code (Built By Hand Ep.4)](2021-08-10-yt-jWr5HlN51KU.md) | design-craft; content-strategy | ⚠️ NOT Chris — Ben Burns; no-code Webflow build; guest Ron Segal; context/do-not-train |
+| 2021-08-10 | [Tips On How To Price Your Design Work And Make A Profit](2021-08-10-yt-I48unL6m0eU.md) | pricing; business | Chris solo whiteboard bid demo; cost-stack build-up ($5k naïve → ~$20.4k business bid); restatement of bid-buildup |
+| 2021-08-28 | ★ [Bidding Fundamentals — How To Price Projects](2021-08-28-yt-TEg5xGw4Q3U.md) | pricing; sales-clients; business | Chris (Pro Group); undefined-scope bidding — scope-variation funnel, ROM, SWAG, estimate-high + 15% contingency; ⚠️ cost-plus-is-history; L3-candidate |
+| 2021-09-04 | [Animations & Interactions: Dark Mode (Built By Hand)](2021-09-04-yt-BpTMsCL_9Bs.md) | design-craft | ⚠️ NOT Chris — Ben Burns + guests Greg Gunn & Tim Ricks; Webflow animation tutorial (context/do-not-train) |
+| 2021-10-13 | [Change The Way You Solve Problems Using Design Thinking](2021-10-13-yt-MMouHj75YwQ.md) | design-craft; business; mindset | ⚠️ NOT Chris — Futur team member "Eric"; design-thinking methodology (problem-tree, root-cause); context/do-not-train |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -595,4 +602,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_575 videos ingested (L2) so far._
+_582 videos ingested (L2) so far._

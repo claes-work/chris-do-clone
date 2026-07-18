@@ -538,7 +538,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2021-06-03 | ★ [Get More LinkedIn Post Engagement — 3 Examples](2021-06-03-yt-nw0_NLhgy90.md) | content-strategy; branding | Chris solo; critiques 3 Pro-group LinkedIn posts; conflict+lesson story rubric + tactics (400-char, hook first 1.5 lines, daily, 5-senses, image+words); L3-candidate |
 | 2021-06-08 | ★ [How To Reframe and Silence Your Critical Inner Voice](2021-06-08-yt-IzVqGQdaM0c.md) | mindset | Small-group coaching; reframe "I could be doing more" as judgement; "I'm Tylenol", "judo flip" your emotion, "don't be an askhole", earn-not-deserve; L3-candidate |
 | 2021-06-10 | [8 Client Objection Responses in 8 Minutes (Lightning Round)](2021-06-10-yt-Lr9kMxm6CYY.md) | sales-clients; pricing; business | Role-play (Chris=designer, Mo=client); live demo of the existing Objection-Response-Deck (8 objections); strong voice data, not new framework |
-| 2021-06-15 | [Planning a Personal Website: Does My Portfolio Matter?](2021-06-15-yt-qFIR-DJxvlw.md) | content-strategy; branding; design-craft | ⚠️ NOT Chris — host Ben Burns + guests Michael Janda & Matthew Encina (context/do-not-train); reinforces portfolio theme, no Chris content |
+| 2021-06-15 | [Planning a Personal Website: Does My Portfolio Matter?](2021-06-15-yt-qFIR-DJxvlw.md) | content-strategy; branding; design-craft | ⚠️ NOT Chris — Built By Hand Ep.1; host Ben Burns + guests Michael Janda & Matthew Encina (context/do-not-train); reinforces portfolio theme, no Chris content |
+| 2021-06-22 | [Get Qualified Leads, Bigger Projects, With No Ads](2021-06-22-yt-wfMxaPT1Ecc.md) | content-strategy; sales-clients | ⚠️ GUEST Katie Sandoval (Aventive) teaches 6-step SEO blog lead-gen (context); Chris hosts, adds inbound>outbound + specialize-externally |
+| 2021-06-24 | [Web Design Process – Finding Inspiration](2021-06-24-yt-hgG8bCkzdcs.md) | design-craft; branding | ⚠️ NOT Chris — Built By Hand Ep.2; host Ben Burns + guest Hrvoje Grubišić (context/do-not-train); moodboard vs stylescape, grotesque type |
+| 2021-07-06 | [Don't Die With Regrets (Motivation)](2021-07-06-yt-MyApI7le0C8.md) | mindset | Chris solo excerpt; regret/memento-mori (Bronnie Ware); NEW framings: Maslow-inversion, "trained to be obedient machines", three-year-future diagnostic; fence |
+| 2021-07-15 | [How To Talk About Money With Clients (Day 9 WWPM cutdown)](2021-07-15-yt-t9EIFt4yxC4.md) | pricing; sales-clients | ⟳ dup-of 2021-06-01 (cutdown of the Blair Enns budget masterclass); no new Chris material |
+| 2021-07-16 | [Designing a Personal Portfolio Website – Web Design Process](2021-07-16-yt-NKgoyLeigtU.md) | design-craft; mindset | ⚠️ NOT Chris — Built By Hand Ep.3; host Ben Burns (context/do-not-train); desktop-first, grid→type→color→detail, creative-process curve |
+| 2021-07-20 | ★ [How To Tell Stories That Win Hearts & Minds](2021-07-20-yt-5_RX0HuEA2U.md) | content-strategy; branding; mindset | Chris teaches; extends story formula w/ NEW objective/binary story-critique (turn "good" into yes/no, ego-free critique, "can someone else write this?"); L3-candidate |
+| 2021-07-25 | ★ [How To Write Better Instagram Content](2021-07-25-yt-qrjVDXiHO94.md) | content-strategy; branding | Chris; IG caption-writing workflow — write caption fresh next morning, caption = permitted longer story, Twitter→carousel→Story→LinkedIn loop; extends IG playbook; L3-candidate |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -588,4 +595,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_568 videos ingested (L2) so far._
+_575 videos ingested (L2) so far._

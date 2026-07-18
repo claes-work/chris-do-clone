@@ -519,6 +519,12 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2021-03-30 | ★ [How To Deal With Difficult Clients Instead of Firing Them](2021-03-30-yt-B2Vw6IUriTo.md) | sales-clients; mindset | Pro Group; reframe firing into 5 OPTIONS (fire/adult-conversation+boundaries/swallow/offshore/embed-PM); root-cause=timelines&expectations; L3-candidate |
 | 2021-04-01 | [Why You Must Raise Your Price (Clubhouse w/ Blair Enns)](2021-04-01-yt-sfyHSbfUCrQ.md) | pricing; business; mindset | Clubhouse WWP-XI; ⚠️ MOST pricing doctrine is **Blair Enns**' (context); Chris trains only on charge-more-as-impact-grows + kill-change-orders |
 | 2021-04-06 | [How To Run A Creative Business (Whiteboard)](2021-04-06-yt-FPPiVT_Ysr4.md) | business; pricing | Chris solo; working on-vs-in, handoff-tax 2x markup, effective-rate vs cost-to-hire, position-closest-to-buyer, walk-away=pricing power; restates business hub |
+| 2021-04-08 | [Easy Sales Technique Even If You Hate Selling](2021-04-08-yt-rP57DeYISHE.md) | sales-clients; pricing | Clubhouse role-play (WWP companion); Chris closes agency owner with questions-only: diagnose, raise minimum, value-based fee ~20-30% of upside, reverse-risk, 1-page memo; full worked close |
+| 2021-04-12 | [Choose A Focus To Build Expertise](2021-04-12-yt-LaRA-AApKOk.md) | mindset; branding; content-strategy | Chris solo excerpt; claim-first positioning as pride/discipline engine — choose focus, make aspirational claim, then "run like hell"; ↔ 04-20 |
+| 2021-04-13 | ★ [How To Determine A Client's Budget Using Price Bracketing](2021-04-13-yt-iajdoXxgAb8.md) | pricing; sales-clients | Pro Group bracketing role-play; lands $180k vs hidden $200k; NEW: extract verbal commitment against lowball + "FU call" moral leverage; narrow L3-candidate |
+| 2021-04-15 | [Direction Matters More Than Speed](2021-04-15-yt-oANRoPuT-ys.md) | mindset; business | Chris coaching group; "a goal is a dream with a plan", direction(compass) > speed(hustle), 1° bearing analogy, visualization + public accountability; Greg Gunn outro = context |
+| 2021-04-20 | [Focus To Build Expertise Rapidly (WWP Clubhouse w/ Blair Enns)](2021-04-20-yt-5a488th9fkM.md) | branding; mindset; content-strategy; business | ⚠️ Blair Enns does bulk of teaching (context); only Chris "least-risky-option → codify process to reduce risk" trains; ↔ 04-12 |
+| 2021-04-22 | ★ [How To Guarantee Results When Clients Ask](2021-04-22-yt-qZ1EYMgQsKE.md) | sales-clients; pricing | Role-play; guarantee-handling playbook: never guarantee at normal price → reframe to realistic target → price the risk (3x) → prorate → sell ROI → paper w/ attorneys; L3-candidate |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -568,4 +574,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_548 videos ingested (L2) so far._
+_554 videos ingested (L2) so far._

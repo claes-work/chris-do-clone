@@ -630,6 +630,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2022-11-08 | [What Does A UX Designer Do?](2022-11-08-yt-ehO7rxx-PgM.md) | design-craft | ⚠️ NOT Chris — Futur UX course; context/do-not-train |
 | 2022-11-09 | [Understanding Your Customer Needs Through Data](2022-11-09-yt-5AfQm-90loU.md) | business; content-strategy | ⚠️ NOT Chris — data/ads guest interview; context/do-not-train |
 | 2022-11-14 | [What Clients Do UX Designers Work With?](2022-11-14-yt-Sc-vYp58iuM.md) | design-craft; sales-clients | ⚠️ NOT Chris — Futur UX course; context/do-not-train |
+| 2022-11-15 | [Win Customers' Hearts With Data (Masterclass w/ Neil Hoyne)](2022-11-15-yt-zidMCJU9GjA.md) | content-strategy; business | ⚠️ Neil Hoyne (Google/*Converted*) = context; Chris trains only small nuggets (intuition-beats-TubeBuddy titling, ~800k IG 2022) |
+| 2022-11-17 | ★ [3 Pricing Strategies - How To Price Your Service](2022-11-17-yt-b5OtiUpNvqs.md) | pricing; business | Chris solo; 3 pricing models as a career-stage/risk LADDER (hourly→fixed-fee→value); pad 10-100% over cost; "graduate from hourly"; L3-candidate |
+| 2022-11-22 | ★ [How & When To Raise Your Rates (The 3x Rule)](2022-11-22-yt-Dr4Ux8_mfU8.md) | pricing; mindset | Chris solo; NEW three-yeses rule (3 yeses in a row → raise); >60-70% close-rate = underpricing; raise 2x not 10x; L3-candidate |
+| 2022-11-23 | [Design Thinking To Get Paid To Solve Problems](2022-11-23-yt-BnrZIDTyE6o.md) | pricing; design-craft; business | ⚠️ framework guest-led (Black Illustrations founder); Chris only elevator/mirror reframe; context/do-not-train |
+| 2022-11-25 | ★ [5 Ways to Find Success & Passion in Life](2022-11-25-yt-_1z-_VuImVg.md) | mindset; business; content-strategy | Chris solo; 5-step direction framework (goal → count 15-25 competitors [David Baker] → reverse-engineer role model → easiest-first → invest in skills); L3-candidate |
+| 2022-12-01 | ★ [How to Craft a Story Brand That People Remember](2022-12-01-yt-v8rfMt87Lb8.md) | branding; content-strategy; mindset | Chris solo; personal-brand story template (origin/defining-moment/transformed + villains); Spider-Man/Campbell lens; L3-candidate |
+| 2022-12-08 | ★ [5 Sales Skills & Tips To Close More Sales](2022-12-08-yt-2sf54bS99D8.md) | sales-clients | Chris solo; 5 sales skills; NEW = tone of voice (Chris Voss "late-night FM DJ voice"); #1-4 restate; L3-candidate |
+| 2022-12-12 | [What To Do When People Say 'I Can't Afford You'](2022-12-12-yt--kPkQX8cX50.md) | pricing; sales-clients | ⚠️ UNVERIFIED, likely NOT Chris (funnel-CTA for creative agencies); objection already covered; context/do-not-train |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -679,4 +687,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_659 videos ingested (L2) so far._
+_667 videos ingested (L2) so far._

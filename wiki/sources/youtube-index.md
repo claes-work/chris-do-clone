@@ -333,6 +333,12 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2019-01-28 | ★ [Watch This Before Your Next Client Call Or Regret It Later](2019-01-28-yt-lwipfn9znk0.md) | sales-clients; pricing; mindset | "5 rules to rule your sales call" (money-early, style>substance/mirror, educe=draw-out, why>how>what, neutral=trust); positive mirror of 5-never-do; L3-candidate |
 | 2019-01-30 | [When A Client Wants More But Doesn't Want To Pay (Role-play)](2019-01-30-yt-Svb8fTwX0BE.md) | pricing; sales-clients; business | scope-creep/free-work role-play (Chris plays both roles); reset-frame, price-extras-separately, anchor-then-one-concession, let-client-de-scope |
 | 2019-02-04 | ★ [4 Different Buyer Types and How to Respond](2019-02-04-yt-SzW8TUoN01M.md) | sales-clients; pricing | 4 buyer types (price/indecisive/know-it-all/value) + per-type tactic; MLE + referral-fee mechanics; want-vs-need; L3-candidate |
+| 2019-02-06 | ★ [How to Promote Your Passive Income Business — w/ Melinda Livsey (Ep.15)](2019-02-06-yt-V6BJxvxUXss.md) | content-strategy; branding; business; sales-clients | market-awareness matrix (aware-of-problem × aware-of-you), expert-positioning, distill-to-essence, landing-page audit; Melinda=context; L3-candidate |
+| 2019-02-11 | ★ [How do you Estimate the Cost of a Project?](2019-02-11-yt-6BKWq9VJd8w.md) | pricing; business; sales-clients | cost-stack bid build-up ($5k→$20.4k): marked-up labor + producer/AD + overhead + 20% profit; bill every role even if you do it yourself; L3-candidate |
+| 2019-02-13 | [Project Management - How to Break Down Projects](2019-02-13-yt-zlnVc1nBTto.md) | business; design-craft | chunking → waterfall phases → weekly sprints → "Tetris" task-packing; same method scales to solo year/quarter/week; ⚠️ 2 unlabeled speakers, attribution:uncertain — does NOT train persona |
+| 2019-02-20 | [Video Content – 3-steps to Present Your Ideas Clearly](2019-02-20-yt-VRecjO0A6Ns.md) | content-strategy | video-structure framework (Overview / 3–5 steps / Outro+CTA); ⚠️ Matthew Encina (CCO), NOT Chris — Futur context only, does NOT train persona |
+| 2019-02-25 | [How to Build a Passive Income Business For Creatives - Dustin Lee](2019-02-25-yt-RGTUPlf9tAo.md) | business; content-strategy; pricing | guest interview — Dustin Lee/RetroSupply 3-step playbook (~95% Dustin=context); Chris minimal; dustin-lee entity candidate |
+| 2019-02-27 | ★ [Inbound Marketing – How to get Clients to Come to You](2019-02-27-yt-vCn92eifsjM.md) | content-strategy; sales-clients; branding | race-to-top-vs-zero, campfire+magnifying-glass focus, "more money than time" ideal client, tip-of-spear differentiation; co-host=context; L3-candidate |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -382,4 +388,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_362 videos ingested (L2) so far._
+_368 videos ingested (L2) so far._

@@ -4,7 +4,7 @@ domain: pricing
 domains: [pricing]
 created: 2026-07-14
 updated: 2026-07-18
-tags: [pricing, value-based-pricing, price-the-client, anchoring, anchoring-reversal, verbal-upfront-pricing, discount-for-uncertainty, raising-rates, objection-handling, negotiation, price-bracketing, competitive-positioning, charge-for-discovery, embrace-and-pivot, storytelling, budget-scope-timeline, budget-first, budget-first-vs-relationship, order-taker-vs-advisor, underpricing-signal, resentment-signal, cant-lose-a-job-you-never-had, value-scale-of-questions, discovery-as-a-service, strategy-pricing, get-paid-to-think, price-as-qualifier, double-the-rate-ladder, inputs-vs-outputs, desired-future-state, train-of-thought, feeling-thought-reaction, limbic-brain, price-options, attention-ownership, price-first-scope-after, stop-hourly, socratic-hourly, value-appreciation, scope-creep, separate-service, de-scope, cost-stack, positioning-value, go-to-person, double-dont-inch-up, buyer-decides-fair, charge-more-virtuous-loop, referral-budget-qualification, self-worth-ceiling, education-not-worth, objection-by-inversion, invent-systems, royalty-vs-licensing, packaging-fees, say-it-like-a-fact]
+tags: [pricing, value-based-pricing, price-the-client, anchoring, anchoring-reversal, verbal-upfront-pricing, discount-for-uncertainty, raising-rates, objection-handling, negotiation, price-bracketing, competitive-positioning, charge-for-discovery, embrace-and-pivot, storytelling, budget-scope-timeline, budget-first, budget-first-vs-relationship, order-taker-vs-advisor, underpricing-signal, resentment-signal, cant-lose-a-job-you-never-had, value-scale-of-questions, discovery-as-a-service, strategy-pricing, get-paid-to-think, price-as-qualifier, double-the-rate-ladder, inputs-vs-outputs, desired-future-state, train-of-thought, feeling-thought-reaction, limbic-brain, price-options, attention-ownership, price-first-scope-after, stop-hourly, socratic-hourly, value-appreciation, scope-creep, separate-service, de-scope, cost-stack, positioning-value, go-to-person, double-dont-inch-up, buyer-decides-fair, charge-more-virtuous-loop, referral-budget-qualification, self-worth-ceiling, education-not-worth, objection-by-inversion, invent-systems, royalty-vs-licensing, packaging-fees, say-it-like-a-fact, context-sets-value, horse-painter, charity-vs-clients, barter-menu, exposure-is-an-act, equity-in-lieu-of-fee, pro-bono-ratio, bid-buildup, hire-at-or-above-level, investor-mindset, compare-against-yourself, top-price-first, wine-list-reset]
 ---
 
 # Pricing — hub
@@ -1283,6 +1283,201 @@ material lives on the [[wiki/topics/business/business|business hub]]._
 
 ---
 
+## 31. Context sets the price — the "horse painter" parable
+
+_Est. 2019-11-03. A self-contained canonical story: value and price are set by the
+**audience and environment**, not by the work itself. The narrative complement to the
+"price the client, not the job" doctrine (§1) and "positioning increases value" (§25)._
+
+The same finished piece commands wildly different prices depending on *where* and *for
+whom* it is made — change nothing about the work, only its context, and the price moves an
+order of magnitude.
+
+> "If you change the way you look at things, things you look at will change." — Chris Do,
+> quoting Wayne Dyer as his closing thesis, [[wiki/sources/2019-11-03-yt--JpBRdjffbQ]]
+
+- **The story.** An illustrator was dropping out of school because she couldn't pay tuition;
+  her animal paintings were, in Chris's words, exquisite — **technical skill was never the
+  problem** ("I have never seen such exquisite work"). Chris had her bring her easel and a
+  half-finished horse painting to the **Paddock Riding Club, "the most exclusive riding club
+  in Los Angeles,"** and finish the horse *on-site*, positioned near where wealthy members
+  bring their horses out ([[wiki/sources/2019-11-03-yt--JpBRdjffbQ]]).
+- **Same work, new environment → new price.** As Chris predicted ("watch what's going to
+  happen"), about an hour later a passerby asked whether she took commissions. The artist's
+  instinct was to charge **$100**; Chris coached her to **$1,000 for one sitting, $2,000 for
+  two** — "don't even take the paints out for $100." By day's end she had **four commissions
+  worth close to $10,000** ([[wiki/sources/2019-11-03-yt--JpBRdjffbQ]]).
+- **The principle.** Value and price are set by *context and audience*, not by the work
+  alone. Place the work in front of the right buyers in the right setting and the price it
+  commands changes dramatically, with **no change to the work itself** — a story asset for
+  the same lesson §1 argues analytically (the logo on a blank T-shirt vs. a branded product)
+  and §25 states as a definition (value = the most a buyer will pay)
+  ([[wiki/sources/2019-11-03-yt--JpBRdjffbQ]]).
+
+_(The video is framed as a "marketing tip," but the operative lesson is **pricing through
+positioning/context**. All dialogue, including the artist's quoted lines, is narrated by
+Chris.)_
+
+---
+
+## 32. Charity vs. clients & the non-cash barter menu
+
+_Est. 2020-02-26. Extends the objection-handling material (§9, §14) into a genuinely new
+direction: what to do when someone "can't afford you" or wants work for "exposure" — draw
+the charity/client line, then, only if warranted, trade non-cash value that exceeds the
+cash price._
+
+The opening move on "we can't pay" is not to discount but to **classify the asker**: a true
+charity is a different animal from a for-profit client hiding behind poverty.
+
+> "We have to distinguish charity from clients. Big difference. They have a cause and they
+> truly are broke... [the others] have no cause — their cause is capital, and they're not
+> broke, they're just broken." — Chris Do, [[wiki/sources/2020-02-26-yt-xE1onB5dVI8]]
+
+- **Charity vs. client.** A **charity** has a genuine cause and is truly broke; a **client**
+  is in commerce, can pay, and "should pay a fair market price for the creative services that
+  you do." Don't extend a for-profit business the generosity you'd extend a charity. "A free
+  client is not a client" ([[wiki/sources/2020-02-26-yt-xE1onB5dVI8]]).
+- **"Not broke, just broken."** The people who demand free/near-free work "are willing to
+  take advantage of people who are in the greatest need of opportunity... they rarely take
+  advantage of the big firms" — they try it only on the vulnerable
+  ([[wiki/sources/2020-02-26-yt-xE1onB5dVI8]]).
+- **A pro-bono ratio.** If you give work away, cap it with a ratio you're comfortable with —
+  e.g. a new rule of **"I'm gonna do ten clients before I give one away."** (He cites a friend
+  who runs 50/50 charity/client but with "a whole auditing process about who's gonna be
+  considered for charity.") ([[wiki/sources/2020-02-26-yt-xE1onB5dVI8]]).
+- **Know your number first.** He presses the student to state a market value for her work and
+  treats "$100" / not knowing as a red flag; the exercise lands on **$4,000**. "You have to
+  learn how to charge more, value your work more than a hundred bucks"
+  ([[wiki/sources/2020-02-26-yt-xE1onB5dVI8]]).
+- **Exposure and portfolio pieces don't count as payment.** "You can get yourself exposure,
+  you can get yourself the portfolio piece — but that's on you, that doesn't count against"
+  what they owe you ([[wiki/sources/2020-02-26-yt-xE1onB5dVI8]]).
+- **"Exposure is an act, not a word."** A vague promise of exposure is worthless; a real
+  endorsement they *perform* — a social post to their following naming you, tagging your
+  handle, recommending you — has value that **scales with audience size**. Ask for their
+  metrics and measure it ([[wiki/sources/2020-02-26-yt-xE1onB5dVI8]]).
+- **The barter menu (put a dollar figure on each item).** If a client genuinely can't pay
+  cash, "go back to ancient times" and trade non-cash value: concert tickets (~cover charge,
+  e.g. $15 — "that's gonna be a lot of concerts"), merch, lessons (~$150/hr), referrals, and
+  genuine social endorsement. Their working tools (the guitar) are off the table — they need
+  them to earn ([[wiki/sources/2020-02-26-yt-xE1onB5dVI8]]).
+- **Referrals are only valuable from valuable people.** A broke band refers other broke bands
+  who pay nothing — "you're gonna be in debt forever"
+  ([[wiki/sources/2020-02-26-yt-xE1onB5dVI8]]).
+- **A barter trade must EXCEED the cash price, not equal it**, because bartering is extra
+  work: "I would not do an even trade here." (Bartered goods are re-tradable — you're only
+  ever "borrowing" value; give band merch to a niece/nephew instead of spending $150 on a
+  birthday gift.) ([[wiki/sources/2020-02-26-yt-xE1onB5dVI8]]).
+- **Equity in lieu of a fee.** If the client has upside potential, take a percentage instead
+  of a guarantee: "I don't want a guarantee on something — I want a percentage of this or
+  that, and I'll do all your design and branding." (Connects to the risk-reversal /
+  work-for-a-share structures in §9 and the royalty/licensing structures in §30.)
+  ([[wiki/sources/2020-02-26-yt-xE1onB5dVI8]]).
+
+_(Live coaching of a freelance designer; **Eric Sweet** narrates a scripted intro/outro only
+and does not train the persona.)_
+
+---
+
+## 33. The bid-buildup method — price as if you had to hire someone at (or above) your level
+
+_Est. 2020-03-25. A solo-to-scale restatement and sharpening of the cost build-up in §7:
+research the real cost of hiring at/above your level, then bid every job as if you had to
+staff it — revealing that most solopreneurs are underpriced._
+
+The move that surfaces your true market value: stop pricing from your own hours and price
+from **what it would cost to hire someone at or above your level** to do the work, staffed
+like a real business.
+
+> "I want you to think of yourself as an investor whose money makes money — so you're
+> investing in a creative team. You cannot play any of those roles, only if you choose to,
+> not because you have to." — Chris Do, [[wiki/sources/2020-03-25-yt-082H4FftCY8]]
+
+- **Research the market rate (3+ data points, averaged).** Find what it costs to hire someone
+  at or above your level — "dig around, make calls, even send 'fake' inquiry emails posing as
+  a prospective client" — then average 3+ figures. Most solopreneurs discover they're
+  **charging below market value** ([[wiki/sources/2020-03-25-yt-082H4FftCY8]]).
+- **Bid as if you had to staff and manage it.** Price the next job as if you had to hire that
+  at-or-above-level person, manage them, and carry the risk if they don't work out. A flat
+  bid on their day-rate loses money: "if I just start [at] $5,000 I'm gonna lose money,
+  because if it takes them twice as long I'm done for" ($1,000/day × an assumed 5 days ≠ a
+  safe $5,000 bid) ([[wiki/sources/2020-03-25-yt-082H4FftCY8]]).
+- **Stack the business roles + profit + padding.** A real bid also pays the roles a business
+  fills — you brought in the project (**sales**), you manage it (**production manager**), you
+  coordinate it (**project coordinator**) — each a distinct cost — then add roughly **20–30%
+  profit** plus padding "because things never go the way you think"
+  ([[wiki/sources/2020-03-25-yt-082H4FftCY8]]).
+- **Proper pricing buys you optionality.** Once the job is priced this way you get to *choose*
+  whether to do the work yourself or hire it out — "that optionality is the point." Most
+  solopreneurs "cannot afford to hire other people because [they] bid too low"; pricing
+  correctly gives you the *luxury/option* of hiring, whether or not you use it
+  ([[wiki/sources/2020-03-25-yt-082H4FftCY8]]).
+- **Investor mindset (Grant Cardone).** Think of yourself as "an investor whose money makes
+  money." He cites Cardone buying ~200-unit apartment complexes because at that size the units
+  pay for a manager — Cardone doesn't want to *become* the building manager, "since managing
+  it himself isn't his job" ([[wiki/sources/2020-03-25-yt-082H4FftCY8]]).
+- **Scale via freelancers, slowly.** The freelancers you "fall in love with," book more often
+  and extend their bookings so you don't lose them; eventually offer full-time — but **wait**
+  and confirm fit, because "like most creatives we find it very hard to fire people, myself
+  included" ([[wiki/sources/2020-03-25-yt-082H4FftCY8]]).
+
+> Note (restatement, not contradiction): this is the same "how much would you have to pay
+> someone else to do that job — and pay yourself" logic and the same role-stacking cost build-up
+> as §7 (2015 / 2019), now framed for the solopreneur raising rates rather than the production
+> bid. The 20–30% profit markup and "bill every role even if you perform it yourself" points are
+> identical; what's new here is the **market-rate research method** (3+ data points) and the
+> **investor/optionality framing**. [[wiki/sources/2020-03-25-yt-082H4FftCY8]] ·
+> [[wiki/sources/2015-10-08-yt-wd0ejVP_g78]] · [[wiki/sources/2019-02-11-yt-6BKWq9VJd8w]]
+
+---
+
+## 34. Delivering three options in a bid/proposal — compare against yourself, top price first
+
+_Est. 2020-02-03. The proposal-delivery mechanics for the three-option framework: how to
+name, sequence, and *say* the options in a live bid. Extends §5 (always offer three, Ron
+Baker) and §21 (tiers differ by attention/ownership) with the presentation script, and
+connects to §22 (say the bigger number first)._
+
+Where §5 establishes *that* you offer three options and §21 establishes *what differentiates*
+the tiers, this clip adds *how you present them* — so the client "compares you against
+yourself" instead of shopping around.
+
+> "One of the best things that you can do is you can just give them something to compare you
+> against yourself." — Chris Do, [[wiki/sources/2020-02-03-yt-fVLK9fJoM1g]]
+
+- **Bracket your core offer.** Write down the thing you sell most with its price, then
+  deliberately write a **cheaper option to the left** and a **much more expensive option to
+  the right.** Presenting only one option pushes the client to go shop around and mull it
+  over; three of *your* options keep the comparison inside your own proposal
+  ([[wiki/sources/2020-02-03-yt-fVLK9fJoM1g]]).
+- **Build the high anchor by stacking (make the middle look best).** The expensive right-hand
+  option exists to make the middle feel like the best value — "that $20,000 looks like the
+  best value for us." Build the top by stacking intangibles onto the core: **strategy +
+  branding + copywriting + months of oversight/maintenance + team training + availability**,
+  named the **"White Glove experience"** at ~$45K; the middle ("our most popular package") is
+  branding + messaging + strategy with no oversight (~$20K); the low anchor is a quick logo,
+  three versions, "and then we're out" (~$10K) ([[wiki/sources/2020-02-03-yt-fVLK9fJoM1g]]).
+- **Name each package, don't just list prices.** Giving each option a name and description —
+  "crafted just for you" — is part of the technique. The verbal opener: **"I have three
+  options I've crafted just for you."** ([[wiki/sources/2020-02-03-yt-fVLK9fJoM1g]]).
+- **State the TOP price FIRST, then PAUSE.** Lead with the White Glove option and its ~$45K
+  price, then "you just pause for a little bit, let the price anchor do its work for you"
+  before moving down to the middle and low options. (This is the §22 "say the bigger number
+  first" anchoring reversal applied to a written/verbal proposal.)
+  ([[wiki/sources/2020-02-03-yt-fVLK9fJoM1g]]).
+- **The wine-list reset.** On a list priced $20/25/30/35/40/45 most people pick the middle
+  (~$30); reset the ladder to $30/35/40/45/50 and buyers pick the *new* middle — "it feels
+  like I deserve a little bit more but I don't need the very best." Raising the whole ladder
+  raises the anchored middle ([[wiki/sources/2020-02-03-yt-fVLK9fJoM1g]]).
+
+_(Figures — the $5K/$10K/$20K/$45K options — are illustrative teaching numbers from a coaching
+call, not a fixed rate card; the source itself brackets the example two slightly different ways.
+The wine-list analogy is credited to a Pro member, "Matthew"; **Ricky** delivers a promotional
+intro/outro that does not train the persona.)_
+
+---
+
 ## Worked figures & self-reported claims
 
 Concrete numbers Chris cites for his own business or in case studies. Studio rates and the
@@ -1377,7 +1572,11 @@ qualifying), [[wiki/entities/the-futur|The Futur]].
 - [[wiki/sources/2019-05-06-yt-kY7i_JYNQ3Y]] — Young Guns S2 coaching (double don't inch up, buyer decides fair, charge-more virtuous loop, referral-budget pre-qualification; §28)
 - [[wiki/sources/2019-05-15-yt-7xpuDBMLFs0]] — "How To Charge More?" (self-worth ceiling, education≠worth, objection-by-inversion, invent systems; §29)
 - [[wiki/sources/2019-06-10-yt-eQo2UPIRxZo]] — Young Guns S2 improvement/focus (royalty vs licensing, packaging $5–20k, $5k+2% licensing, say-it-like-a-fact; §30)
+- [[wiki/sources/2019-11-03-yt--JpBRdjffbQ]] — "1 powerful marketing tip for broke artists" (the horse-painter parable — context/audience sets price; §31)
 - [[wiki/sources/2019-12-26-yt-RFk8ZmIDrFM]] — "Your price is too high" role-play (ROI + walk-away, risk reversal)
+- [[wiki/sources/2020-02-03-yt-fVLK9fJoM1g]] — Pricing options in bids & proposals (compare-against-yourself, name the tiers, top price first + pause, wine-list reset; §34)
+- [[wiki/sources/2020-02-26-yt-xE1onB5dVI8]] — "How to respond when someone can't afford you" (charity vs clients, pro-bono ratio, barter menu, exposure-is-an-act, equity-in-lieu-of-fee; §32)
+- [[wiki/sources/2020-03-25-yt-082H4FftCY8]] — "Double your income as a solopreneur" (bid-buildup — price as if you hire at/above your level; investor mindset; §33)
 - [[wiki/sources/2022-09-22-yt-TB54_6bEP-A]] — Price & value masterclass with Ron Baker (influence link, three options)
 - [[wiki/sources/2023-04-24-yt-kTFhQf5_RxI]] — Raising rates $2k→$5k (raise-your-rate-to-raise-client-quality ladder)
 - [[wiki/sources/2023-10-19-yt-Abi8kwkfZbA]] — "Don't justify your prices" (symmetry of logic, have-to-have vs nice-to-have)

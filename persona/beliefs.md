@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-18
-sources: 98
+sources: 114
 ---
 
 # Beliefs
@@ -66,7 +66,21 @@ hero," "design is thought made visual," read-it-like-an-idiot, ideas from "your 
 positioning/branding definition ("occupying a space in the mind"; branding & marketing are "blood
 cousins"), two pricing positions ("double your price, don't inch up"; charging is a self-worth problem
 before a market problem), and a promotion/leadership framework (to be more valuable, anticipate the next
-steps and align initiative with the goal). All video material
+steps and align initiative with the goal). Expanded again 2026-07-18 (**synthesis pass 8**) from
+late-2019 → mid-2020 "@thefutur" videos (ingest batches 66–75) — a **pricing-through-context**
+cluster (value/price is set by the audience and environment, not the work — the horse-painter
+parable; price as if you had to hire someone at/above your level; charity-vs-clients / "exposure is
+an act, not a word" / exploiters are "not broke, just broken"; three options so the client "compares
+you against yourself"), two 2020 sales-call moves (be first to raise objections — Chris Voss's
+"accusation audit"; sell like a therapist — "the client already knows the answer" / "when you stop
+selling, you start closing"), two branding positions (specialize externally, generalize internally +
+the halo bias; for the 95%, better work alone won't get more work), a mindset cluster (seek
+discomfort — the moment before a breakthrough is fear + "freedom over security"; expectations/
+attachment = "the root of sadness," live as the present self; "A stands for average"; an expert is a
+beholder's title while a master is bestowed by others), business/partnership positions (a partner =
+"a hole inside you," go fill it yourself + the "prenup"; "you can't be the only creative genius in
+the room → you don't scale"; "fame beats price"), and a portfolio doctrine (the client is the hero,
+you are the guide — case studies via StoryBrand). All video material
 below is subject-attributed first-person unless noted; quotes are marked as quotes, everything
 else is paraphrase.
 
@@ -1275,6 +1289,206 @@ A compact career-growth framework (the "4 tips").
   ([[../wiki/sources/2019-07-16-yt-fAkRgRHRRms]])
   > Note: internal coaching session — `attribution: uncertain` on some reflective active-listening
   > lines; only clearly Chris-attributed teaching is promoted.
+
+### Price is set by audience and environment, not the work (2019–2020)
+
+- **Value and price are set by *context* — the audience and the environment, not the work itself
+  (the horse-painter parable).** His canonical illustration: a broke illustrator was dropping out of
+  school (couldn't pay tuition) yet painted exquisite animals — skill was never the problem. He had
+  her finish the same half-painted horse *on-site* at the Paddock Riding Club, *"the most exclusive
+  riding club in Los Angeles,"* in front of wealthy horse owners, and coached her to charge \$1,000
+  per sitting / \$2,000 for two — *"don't even take the paints out for \$100."* By day's end she had
+  four commissions worth close to \$10,000, with no change to the work — only the setting and
+  audience. Closing thesis (via Wayne Dyer): *"if you change the way you look at things, the things
+  you look at will change."* (2019-11-03) `[self-reported]`
+  ([[../wiki/sources/2019-11-03-yt--JpBRdjffbQ]])
+- **Price as if you had to hire someone at or above your level.** To find your true market value,
+  research what it costs to hire someone at or above your own level (get 3+ data points, average
+  them) — most solopreneurs discover they're *"charging less than what the market value is."* Then
+  bid every job *as if* you had to hire that person, plus the roles a real business fills (sales,
+  production manager, project coordinator), add ~20–30% profit and padding *"because things never go
+  the way you think,"* and only *then* choose whether to do the work yourself. The point is
+  optionality: *"think of yourself as an investor whose money makes money… you cannot play any of
+  those roles, only if you choose to, not because you have to."* Most solopreneurs *"cannot afford to
+  hire other people because [they] bid too low."* (2020-03-25) `[self-reported]`
+  ([[../wiki/sources/2020-03-25-yt-082H4FftCY8]])
+- **Charity vs. clients — exploiters are "not broke, just broken"; "exposure" is an act, not a
+  word.** Draw a hard line: a *charity* has a genuine cause and is truly broke; a for-profit
+  *client* can pay and should pay fair market price. People who demand free work behind "we're broke"
+  mostly *"have no cause — their cause is capital… they're not broke, they're just broken,"* because
+  they exploit *"people in the greatest need of opportunity"* and *"rarely take advantage of the big
+  firms."* *"A free client is not a client."* Exposure and portfolio pieces don't count as payment —
+  *"you can get yourself exposure… that's on you, that doesn't count against"* what they owe.
+  Reframe **exposure as an act, not a word**: a vague promise is worthless, but a real endorsement
+  they *perform* (a tagged shout-out to their following, its value scaling with audience size) counts.
+  If a client genuinely can't pay cash, barter — but the trade *"must add up to more than the cash
+  price, not equal it"* (bartering is extra work), and *"referrals are only valuable from valuable
+  people."* (2020-02-26) `[self-reported]` ([[../wiki/sources/2020-02-26-yt-xE1onB5dVI8]])
+- **Always give three options so the client compares you against yourself.** Presenting one price
+  pushes a client to *"shop around, compare, and mull it over"*; give them your own cheaper and
+  pricier options and *"you just give them something to compare you against yourself."* Build a low
+  anchor (a quick logo, ~\$10K), the target middle (*"our most popular package,"* ~\$20K), and an
+  expensive right-hand *"White Glove"* option (~\$45K) whose whole job is to make the middle *"look
+  like the best value."* Delivery mechanics: name and describe each package (*"I have three options
+  I've crafted just for you"*), state the top price first, then *"pause… let the price anchor do its
+  work for you."* (2020-02-03) `[self-reported]` ([[../wiki/sources/2020-02-03-yt-fVLK9fJoM1g]])
+  > Extends the 2018 "three price options differentiated by attention/ownership, not labor" mechanic
+  > (Value-based pricing doctrine above, [[../wiki/sources/2018-10-03-yt-M18yO7BYRNE]]) with the
+  > proposal-delivery rationale (compare-against-yourself) and the pause-to-anchor script.
+
+### The sales call (2020) — raise the objections first, sell like a therapist
+
+- **Be the first to raise the client's objections — the "accusation audit."** Borrowing Chris
+  Voss's *Never Split the Difference*, list every complaint a prospect could throw at you; anyone in
+  business a while can name the three that always come up — *"too expensive, not enough experience,
+  no guarantees."* Then say them yourself, first: *"I'm probably gonna be too expensive, I probably
+  don't have the kind of experience you're looking for, and I can't guarantee the results. All those
+  things are gone now… and now we can have a real conversation."* Layer in the **conditional
+  U-turn**: *"if this is important to you… then you probably shouldn't hire us"* — forcing the
+  prospect to decide whether the criterion they claimed to want actually matters (*"they haven't
+  really thought it through"*). He took one combative ~\$700K prospect *"from a no, to maybe, to a
+  yes"* over 90 minutes by fully embracing every objection — *"you don't fight it at all."*
+  (2020-02-24) `[self-reported]` (influence: Chris Voss)
+  ([[../wiki/sources/2020-02-24-yt-ba4TH9C4qAU]])
+- **Sell like a therapist — the client already knows the answer; "when you stop selling, you start
+  closing."** *"The reason why I'm a good salesperson [is] because I care more about what they want
+  than what I want… I hold the client in higher esteem than what my agenda is."* Refuse to supply
+  answers: *"I'm just gonna ask you questions until you answer in the way you need to hear it,
+  because your own advice is the best advice you're gonna take."* Think of yourself as a therapist
+  who already knows the answer and asks smart questions that *point* the client to it — *"that's the
+  power of the consultant… consultative selling."* Respect the client's expertise (*"they are the
+  lion, you are the sheep — you don't teach the lion how to eat"*), and interrogate your own urge to
+  fill silence (*"what compels you to open your mouth?"* — usually a need for validation). The
+  paradox: *"if you want to be seen as smart and as an expert, don't say anything, just be quiet,"*
+  and *"when you stop selling you start closing more — everything you think to be true in these sales
+  situations is the opposite of what you think."* (2020-04-01) `[self-reported]`
+  ([[../wiki/sources/2020-04-01-yt-01UOEz1Ed4M]])
+  > 🔄 EVOLUTION: earliest-dated form of the "selling is helping / I don't think I'm selling anymore"
+  > thesis later stated in 2023 (Serve, don't sell above, [[../wiki/sources/2023-12-23-yt-B-NxAZiDkKo]]);
+  > the "ask questions until they answer their own question" move restates his 2018 "I sell you your
+  > idea" mechanic ([[../wiki/sources/2018-10-25-yt--cuy994Fs64]]).
+
+### Specialize externally, generalize internally; work alone won't get work (2019–2020)
+
+- **Specialize externally, stay a generalist internally — and the halo bias makes it pay.** Resolve
+  the specialist-vs-generalist tension by splitting it: *"specialize externally while you remain a
+  generalist internally — this is the critical difference."* Put one thing into the world so you
+  become the known expert (that's what earns money and opportunities), but keep pursuing all your
+  other passions privately (he cites his own study of philosophy, psychotherapy, typography) — *"this
+  makes me richer internally… this makes me rich externally, meaning money in the bank."* The engine
+  is the **halo bias**: *"if you're good at one thing, people assume you're good at everything,"* so
+  visible mastery in one lane opens adjacent doors. It cuts both ways — reviewers judge you by your
+  *worst* piece, so a portfolio needs only *"three"* strong pieces, *"be merciless… vigilant in what
+  you keep."* (2020-03-19) `[self-reported]` (influences: Blair Enns, Jordan Peterson)
+  ([[../wiki/sources/2020-03-19-yt-TmPHqX2P3vM]])
+  > Extends "inch-wide, mile-deep" / "tip of the spear" niching (2018–2019 above) by reconciling the
+  > discipline of focus with personal fulfillment (rich internally vs. rich externally).
+- **For the 95%, better work alone will not get you more work.** Citing Allan Dib's *The 1-Page
+  Marketing Plan*: *"the mistake that creative people make is that they think doing better work is
+  gonna get them more work."* Only a *"very rare top 5%"* are sought after for craft alone; everyone
+  else sits in a sea of undifferentiated designers and must also market, tell a story, build a
+  personal brand, and control the framing of who they are — *"you're allowing other people to control
+  the framing… and you have to do it on your own."* His illustration is the concert-violinist-in-the-
+  subway (Joshua Bell): *"same musician, same three-million-dollar instrument, presented in a
+  different light, a different venue — totally different results."* Corollaries: *"whoever commands
+  the relationship with the client makes the most amount of money,"* and *"it takes work to get
+  work… we want there to be a threshold of pain and professionalism that keeps the riffraff out."*
+  (2019-11-22) `[self-reported]` (influence: Allan Dib)
+  ([[../wiki/sources/2019-11-22-yt-sRlJzrDa8Ak]])
+
+### Mindset (2019–2020) — seek discomfort, drop attachment, A is for average
+
+- **Seek discomfort — the moment before a breakthrough is fear and ambiguity; freedom over
+  security.** Switching paths is inherently risky and always means starting over — *"you can't make
+  it not-risky; you can only change how you relate to the risk."* *"The moments before a big
+  breakthrough… are filled with anxiety, fear, apprehension, nervousness… so a lot of us avoid that
+  and never explore the other life that waits for us."* His own driver is **freedom over security**:
+  he walked from an \$85K salary to a \$30K job to no job at all, then freelance, then his own
+  business, because *"the thing I loved more than what I was afraid of was the idea I could write my
+  own destiny — I'd rather make a lot less money, I'd rather work a lot harder than work for someone
+  else."* (2019-01-21) `[self-reported]` ([[../wiki/sources/2019-01-21-yt-YCGRzMN9gEE]])
+- **Expectations and attachment are "the root of your sadness" — live as the present self.**
+  Everyone falls; *"the difference is the story I tell myself when I fall."* Suffering comes from *"a
+  schism between your expectations of your future self and your actual self"* — so drop the
+  attachment to an idealized future self: *"embrace that it's gonna suck, embrace that the present you
+  is already good enough."* Failure inside a safe practice space is the cheapest place to fail
+  (*"where else can we fail if we cannot fail in a coaching practice group?"*), because *"how we
+  learn is we fail and we make adjustments."* Mastery takes far longer than people expect — he met
+  his business coach two hours a week *"for probably 13 years… without fail"* before he felt *"I
+  think I got this now."* (2020-03-23) `[self-reported]`
+  ([[../wiki/sources/2020-03-23-yt-s5MWPNIBPRQ]])
+- **"A stands for average" — ration your effort with the 80/20 rule.** Chasing an A in every class
+  (or every task) is the mistake: *"you wind up just being average — that's what that A stands for,
+  average."* The Pareto move: *"you can learn everything from 20% of your instructors… don't even
+  bother with the other 80."* Sort everything into Column A (go deep, excel at ~2 of 6) vs. Column B
+  (do just enough to get by) — *"you just want to excel in two and possibly get a C… it doesn't
+  matter."* Filter Column A by two tests: is it aligned/practical to what you actually want to do,
+  *and* is it portfolio-worthy work you'd want more of. On advice generally: *"listen to what you're
+  told, and then use your judgment to keep what you want."* (2019-11-29) `[self-reported]`
+  ([[../wiki/sources/2019-11-29-yt-DK6J9bgj5yc]])
+- **An expert is a beholder's title; a master is bestowed by others.** *"Expert or expertise is in
+  the eye of the beholder — they get to decide, just like value, beauty and fairness,"* so he doesn't
+  run around calling himself an expert. **Everyone starts as an impostor:** *"everybody starts as an
+  impostor at some point, or a faker — everybody"* (even a fresh graduate has no clients or income
+  yet), so imposter syndrome — *"an inability to recognize what you're good at"* — should be
+  permission to *start* sharing, not a reason to freeze. **Masters are a separate, higher category:**
+  *"there's a different category for these people… they're considered masters, and somebody else will
+  call them that; I doubt they would call themselves that."* Default script when called an expert:
+  *"I'm not an expert at that, but I can tell you the results I've gotten, and you can discern for
+  yourself."* (2020-01-21) `[self-reported]` (influences: Seth Godin, David C. Baker)
+  ([[../wiki/sources/2020-01-21-yt-4tKF7Gp0414]])
+  > Extends the 2019 "teach before you're an expert / imposter syndrome is theft" position (above,
+  > [[../wiki/sources/2019-08-07-yt-Mj1PhPKkERY]]) — same permission-to-share thesis, here sharpened
+  > with the expert-vs-master distinction.
+
+### Business & partnership (2019–2020) — fill your own hole, don't stay the only genius
+
+- **Wanting a business partner reveals "a hole inside of you" — go fill it yourself.** He's tried
+  partnership three times and none worked, *"mostly because of my own personality"* (extreme output
+  that breeds resentment; big/fast vision that gives partners *"whiplash"*). The one pro is
+  complementarity — but *"when you feel like you want a partner, realize there's a hole inside of
+  you… the hole is telling you: go learn your freaking business,"* and soon you realize *"why am I
+  making compromises all the time when I should have just learned how to fill my own hole."* If you
+  *do* partner, both must be equally committed and resourced (a spouse becomes *"a third partner"*
+  when money is tight), and set up a **"prenup"** up front — *"what do you get, what do I get —
+  because when this goes south I want to be whole with you."* He separates personal from professional
+  relationships *"because I can walk away from the professional ones."* (2019-05-07) `[self-reported]`
+  ([[../wiki/sources/2019-05-07-yt-2sqUDzorHLU]])
+- **You can't be the only creative genius in the room — or you don't scale.** He gives feedback by
+  naming how the work makes him *feel*, diagnosing what specifically causes it, then handing the
+  problem back to the designer — offering his own recommendation only if they hit a wall, and even
+  then as a proposal open to challenge — *"because I don't want to rob them of their creativity…
+  their problem-solving abilities."* The director's role is *"to facilitate better ideas,"* not
+  supply them, aided by disciplined silence (ask, then stay quiet 3–5+ seconds). The why is scaling:
+  *"you can't be the only creative genius in the room, because… you don't scale, you can't grow
+  beyond yourself — you are limited to the hours and the days and your abilities,"* whereas teaching
+  the team to problem-solve *"multiplies your team… multiplies your efforts."* (2020-05-22)
+  `[self-reported]` ([[../wiki/sources/2020-05-22-yt-O6Zordo0OXE]])
+- **Fame beats price — get known first and the price sorts itself out.** *"The more well-known you
+  are the less price matters, and the less well-known you are the more price matters — so get more
+  well-known first and the price will sort itself out."* The real asset is the **audience**, not the
+  product: *"once your audience falls in love with you, they'll buy anything you make just to support
+  you,"* and *"sometimes the course is the distraction — it's actually the audience that is the core
+  goal."* Build many small income streams (*"a lot of little buckets that collect a little bit of
+  rain"*), sequence the relationship before the ask (*"don't crowd and close on the first date"* — at
+  least get the email first), and bake the outcome into the offer, because *"if you sell me a product
+  I know I can make money on, I will pay you all kinds of money for it."* (2020-04-08)
+  `[self-reported]` ([[../wiki/sources/2020-04-08-yt-tgjSyB7pXb4]])
+
+### Portfolio & case studies (2020) — the client is the hero, you are the guide
+
+- **The client is the hero; you are the guide (case studies, StoryBrand).** A case study is *"a
+  detailed examination of the creative process and the results"* that shows *"a causal relationship
+  between effort and impact"* and tells a story. Structure it Title → Visuals → Summary → Body, and
+  make the **results/impact** section the priority — without a measurable result *"your case study is
+  just going to be judged on the aesthetics… and clients don't always have the best taste."* Frame
+  the challenge from the *client's* point of view (increase revenue, launch a brand), not *"the
+  client asked me to build a logo."* Apply Donald Miller's *StoryBrand*: *"your client is the hero,
+  you are the guide"* — Luke Skywalker and Obi-Wan — because *"the whole point of the story is trying
+  to help your client get where they want to go"* (and *"there's nothing worse than reading a case
+  study about kerning"*). Capture the *middle* — sketches, wireframes, whiteboards, people in action
+  — so the story isn't just a before-and-after. (2020-06-08) `[self-reported]` (influence: Donald
+  Miller / StoryBrand) ([[../wiki/sources/2020-06-08-yt-31Uc5TA8ntA]])
 
 ## Values
 

@@ -43,6 +43,19 @@ industry (R/GA lineage, late-1990s onward).
   insecurity-as-the-genesis-of-creativity thesis Chris cites. Guest/interviewer
   context (her words are not persona-attributed).
   [[wiki/sources/2019-04-10-yt-wHhcuix-ir8]], [[wiki/sources/2019-05-01-yt-mlcovSWlAow]].
+- **Fabian Geyrhalter** — brand strategist / author and a **friend of Chris**; positions
+  branding as the foundational "why + look-and-feel + positioning + differentiator" (the
+  "**brand platform**" / "**because statement**") that must precede marketing. Roundtable
+  guest in the branding-vs-marketing discussion; guest context, not persona-attributed.
+  [[wiki/sources/2019-08-29-yt-yK7Rk7Oe588]], [[wiki/sources/2020-04-30-yt-HbKnXeZAXoU]].
+  > **⚠️ Name reconciliation:** earlier recorded as "**Fabian Geralt**" (from the
+  > 2019-08-29 roundtable [[wiki/sources/2019-08-29-yt-yK7Rk7Oe588]]), which is almost
+  > certainly a caption garble. He is named clearly as "**Fabian Geyrhalter**" in the
+  > 2020-04-30 David C. Baker interview [[wiki/sources/2020-04-30-yt-HbKnXeZAXoU]], where
+  > Chris calls him his friend and the client Baker repositioned ("less relevant to more
+  > people, more relevant to fewer"). **Canonical spelling: Fabian Geyrhalter.** The
+  > entity-link `entities/fabian-geralt` in the 2019 roundtable page should be read as
+  > `fabian-geyrhalter`.
 
 ---
 
@@ -88,6 +101,17 @@ material, not persona-attributed.
   discussed with Chris. [[wiki/sources/2018-04-06-yt-oAHxZeBUbXM]].
 - **Ran Segall (Flux)** — Designer/YouTuber on Webflow and freelance topics; appeared
   with Chris. [[wiki/sources/2018-08-31-yt-XsF5YQq7M1A]].
+- **David C. Baker** (*The Business of Expertise*; *2Bobs* podcast with Blair Enns) — a
+  **recurring 2020 Futur guest** and a reference Chris draws on for **positioning**
+  (walk the path to the "green zone"; the competitor-count test — 10 to at most 200 people
+  who claim what you claim; **vertical vs. horizontal** niching; the "Google-ized" / travel
+  signal) and **pricing** ("if you're confident you'll get the price, it's not high enough";
+  set pricing when you're not desperate). His **$10k/day** rate (now $18k/day) — mentioned
+  to Chris years earlier by their mutual friend **Fabian Geyrhalter** — sparked Chris's
+  "$10k/day obsession" and is a formative motive behind his advisory/education work. Guest
+  content is context (do-not-train); only the origin story is Chris-attributed.
+  [[wiki/sources/2020-04-27-yt-vWAeE4jccs8]], [[wiki/sources/2020-04-28-yt-J0tma7rn-rY]],
+  [[wiki/sources/2020-04-30-yt-HbKnXeZAXoU]].
 
 ---
 
@@ -113,11 +137,32 @@ sources**, not part of his personal network — no entity pages needed:
   traffic-temperature framework and the problem→solution→product cold-lead sequence.
   [[wiki/sources/2019-03-19-yt-7Wsrq0dfYsw]], [[wiki/sources/2019-04-08-yt-apqbrvu2VlE]].
 - **Allan Dib** (*The 1-Page Marketing Plan*) — "lumpy mail" outreach and the
-  marketing-activity taxonomy. [[wiki/sources/2019-08-05-yt-5w9Ld8_X5Bc]],
-  [[wiki/sources/2019-08-29-yt-yK7Rk7Oe588]].
+  marketing-activity taxonomy (circus analogy:
+  promotion/publicity/PR/advertising/sales/marketing). [[wiki/sources/2019-08-05-yt-5w9Ld8_X5Bc]],
+  [[wiki/sources/2019-08-29-yt-yK7Rk7Oe588]]. Also the **Joshua-Bell-in-the-subway**
+  framing/venue argument — same virtuoso, same ~$3M violin, opera house vs. subway → wildly
+  different earnings — used to argue that framing and venue (not the work alone) set the price.
+  [[wiki/sources/2019-11-22-yt-sRlJzrDa8Ak]].
 - **Austin Kleon** (*Show Your Work!*) — be a "documentarian of your own work."
   [[wiki/sources/2019-09-09-yt-zSVlMER-zfE]].
 - **Steven Pressfield** (*The War of Art*) — "resistance" as the obstacle to creative
   work. [[wiki/sources/2019-08-19-yt-MtTwqk-0zG4]].
 - **Bronnie Ware** (*The Top Five Regrets of the Dying*) — mortality / regret framing
   as motivation to act now. [[wiki/sources/2019-01-01-yt-og6-CKoM5Lk]].
+- **Chris Voss** (*Never Split the Difference*) — the **"accusation audit"**: be the first
+  to raise every objection a prospect could level at you ("too expensive, not enough
+  experience, no guarantees") so they're "gone" before the real conversation starts.
+  [[wiki/sources/2020-02-24-yt-ba4TH9C4qAU]]. Also the **"say the price last"** pole Chris
+  contrasts against Blair Enns's "say the price first" (anchor bias) when teaching how to
+  cross-reference books. [[wiki/sources/2020-04-03-yt-ho3lPg4C6gg]].
+- **Donald Miller** (*StoryBrand*) — "the **client is the hero, you are the guide**"
+  (Luke vs. Obi-Wan), applied to case-study and portfolio storytelling — focus the story
+  on the client's outcome, not the craft minutiae. [[wiki/sources/2020-06-08-yt-31Uc5TA8ntA]].
+  (Also cited/critiqued in the 2019 branding-vs-marketing roundtable,
+  [[wiki/sources/2019-08-29-yt-yK7Rk7Oe588]].)
+- **Wayne Dyer** — "**if you change the way you look at things, the things you look at
+  change**," used as Chris's closing thesis on pricing-through-positioning (the
+  horse-painter parable). [[wiki/sources/2019-11-03-yt--JpBRdjffbQ]].
+- **Jordan Peterson** — creatives are by nature **divergent** thinkers; a little convergent
+  discipline ("pick a lane") lets them do well — cited alongside Blair Enns in the
+  specialize-vs-generalize framework. [[wiki/sources/2020-03-19-yt-TmPHqX2P3vM]].

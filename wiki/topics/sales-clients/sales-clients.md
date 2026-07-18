@@ -4,7 +4,7 @@ domain: sales-clients
 domains: [sales-clients]
 created: 2026-07-14
 updated: 2026-07-18
-tags: [sales, negotiation, objection-handling, discovery, positioning, client-management, role-play, serve-dont-sell, embrace-and-pivot, qualifying, closing, client-archetypes, blair-enns, cialdini, leverage, first-client-call, business-development, ambassador, presenting, pitching, money-mindset, strategy-selling, order-taker, trusted-advisor, jobs-to-be-done, decks-are-crutches, difficult-clients, boundary-setting, know-trust-like, inbound-outbound, firing-clients, dont-convince, objection-response-deck, control-energy, diagnostic-phase, outcomes-over-craft, strategist-reframe, client-selection, three-outcomes, mirror-the-ask, build-rapport, reciprocity, time-vampires, dinner-test, sell-your-idea, foreign-idea-invader, outreach-challenge, jim-rohn, mentorship, value-exchange, scaffolding, five-sales-mistakes, two-ears-one-mouth, talk-money-early, match-and-mirror, tony-robbins, buyer-types, referral-fee, minimum-level-of-engagement, value-buyer, lead-temperature, hot-warm-cold-leads, russell-brunson, cold-outreach, dm-outreach, lumpy-mail, allan-dib, praise-first, trust-your-struggle, listen-to-understand, human-tape-recorder, presence, jonathan-stark, deposit-first]
+tags: [sales, negotiation, objection-handling, discovery, positioning, client-management, role-play, serve-dont-sell, embrace-and-pivot, qualifying, closing, client-archetypes, blair-enns, cialdini, leverage, first-client-call, business-development, ambassador, presenting, pitching, money-mindset, strategy-selling, order-taker, trusted-advisor, jobs-to-be-done, decks-are-crutches, difficult-clients, boundary-setting, know-trust-like, inbound-outbound, firing-clients, dont-convince, objection-response-deck, control-energy, diagnostic-phase, outcomes-over-craft, strategist-reframe, client-selection, three-outcomes, mirror-the-ask, build-rapport, reciprocity, time-vampires, dinner-test, sell-your-idea, foreign-idea-invader, outreach-challenge, jim-rohn, mentorship, value-exchange, scaffolding, five-sales-mistakes, two-ears-one-mouth, talk-money-early, match-and-mirror, tony-robbins, buyer-types, referral-fee, minimum-level-of-engagement, value-buyer, lead-temperature, hot-warm-cold-leads, russell-brunson, cold-outreach, dm-outreach, lumpy-mail, allan-dib, praise-first, trust-your-struggle, listen-to-understand, human-tape-recorder, presence, jonathan-stark, deposit-first, accusation-audit, chris-voss, never-split-the-difference, u-turn, say-it-first, consultative-selling, therapist-frame, lion-and-sheep, silence, stop-selling-start-closing, count-to-20]
 ---
 
 # Sales & Clients — hub
@@ -2088,6 +2088,146 @@ detailed in [[wiki/topics/pricing/pricing]]).
 
 ---
 
+## 40. The accusation audit — say the objection first, and the conditional "U-turn" (2020-02-24)
+
+From "Be The First To Raise Client Objections" (2020-02-24)
+[[wiki/sources/2020-02-24-yt-ba4TH9C4qAU]] — a Futur Pro Group coaching excerpt.
+*Host framing (Ricky, intro/outro) is Futur context, do-not-train; the core teaching
+(~lines 10–133) is Chris Do, first person.* This names the **source and the sharpened
+device** behind the §5 Eight Mile Principle and §10 embrace-and-pivot: when a prospect
+opens combatively ("you're not right, you don't have the team, you don't have the
+expertise"), you win not by fighting but by **fully embracing every objection and voicing
+them yourself first**. Chris describes moving one such prospect "from a no, to maybe, to a
+yes" over a 90-minute call.
+
+**The accusation audit (Chris Voss)** (2020-02-24) — new attribution: Chris credits **Chris
+Voss's *Never Split the Difference*** and its "accusation audit" — list every argument or
+complaint a prospect could throw at you, then prepare your answer to each. Anyone in
+business a while can write the recurring three:
+
+> "They always say the same three things: too expensive, and you don't have enough
+> experience, no guarantees." (2020-02-24)
+
+> "Right at the beginning of a call, before we go any further... I'm probably gonna be too
+> expensive, I probably don't have the kind of experience you are looking for, and I can't
+> guarantee the results. All those things are gone now... and now we can have a real
+> conversation." (2020-02-24)
+
+(Chris's stock trio here — **too expensive / not enough experience / no guarantees** —
+is his own recurring set; compare the §5 five-objection list from the 2023 keynote:
+experience, vertical expertise, price, timeline, team size.)
+
+**Concede-plus-social-proof on the "no experience" objection** (2020-02-24): don't deny it —
+own it and reframe the track record:
+
+> "You don't have to take my word for it, but I've been in business now for... probably 19
+> years, and I haven't dropped the ball too many times. You get to decide." (2020-02-24)
+
+**The conditional "U-turn"** (2020-02-24) — the genuinely new rhetorical device. Instead of
+arguing a criterion the prospect claims to care about, phrase it as a hypothetical that
+makes *them* question whether it actually matters — "**IF** this is important to you, then
+you probably shouldn't hire us":
+
+> "If this is important to you, X Y and Z, then you probably shouldn't hire us — and then it
+> makes them think, well, what's the alternative to that?" (2020-02-24)
+
+> "You make them turn against themselves, because... it's hard to think and it's hard to make
+> decisions. So they think this is what they want, but truthfully they haven't really thought
+> it through." (2020-02-24)
+
+Chris calls this a **"U-turn"**: you take a trait the prospect said they wanted and get them
+to turn against it themselves. Worked example (~$700K video project): told the prospect that
+if their primary concern is technical specs — technical directors, software licenses, a
+render farm — they should hire someone else, then reframed the whole decision as **"do you
+care more about technical specs or artistry?"** The dating analogy: "if good looks matter to
+you, if six-pack abs matter to you, then you probably don't want to hang out with me — if you
+want a future." (2020-02-24)
+
+This is the same "name the objection first" instinct as §5 (Eight Mile), §10 (embrace-and-
+pivot), §11 (elicit every stakeholder's objections) and the §4d "raise the price objection
+first" Carrie story — now with an explicit book/technique lineage (Voss's accusation audit)
+and the conditional-hypothetical "U-turn" that turns the prospect's own stated criteria
+against them.
+
+---
+
+## 41. Selling as therapy — the WHY behind "talk less, listen more" & the self-restraint psychology (2020-04-01)
+
+From "The Best Sales Technique—Talk Less Listen More" (2020-04-01)
+[[wiki/sources/2020-04-01-yt-01UOEz1Ed4M]] — a live Pro Group coaching clip; a first-person
+Chris Do monologue/dialogue (community members are *context*; a mid-roll sponsor read is
+excluded). This **deepens** the existing listen-more material — §34 (two-ears-one-mouth,
+~10% you / 90% them), §39 (listen-to-understand-not-respond), §2 (whoever asks more
+questions is in control) — by supplying the underlying *why* and the psychology of
+self-restraint, rather than repeating the "listen more" instruction.
+
+**Selling is therapy / consultative selling** (2020-04-01) — the core reframe:
+
+> "I want you to think of yourself as a therapist… they just ask you really super-smart
+> questions [because] they already know the answer — the way they phrase the question is
+> pointing you in a direction. That's the power of the consultant, of the therapist:
+> consultative selling." (2020-04-01)
+
+The client already knows the answer; your questions merely point them to it — because "your
+own advice is the best advice that you're gonna take":
+
+> "I'm just gonna ask you questions until you answer in the way [you] need to hear it,
+> because your own advice is the best advice that you're gonna take." (2020-04-01)
+
+(This is the mechanism behind the §13/§3 "when they say it, they believe it, you're closing"
+line — reframed as therapy rather than closing tactics.)
+
+**Chris's stated core of selling — hold the client higher than your agenda** (2020-04-01):
+
+> "The reason why I'm a good salesperson [is] because I care more about what they want than
+> what I want… I hold the client in higher esteem than what my agenda is. That's it."
+> (2020-04-01)
+
+(The operational statement of the §1 serve-don't-sell / client-centered posture.)
+
+**The lion-and-sheep respect frame** (2020-04-01) — new: the business owner across from you
+is already very successful at what they do, so don't come in teaching:
+
+> "They are the lion, you are the sheep. You don't go into the lion [and] teach the lion how
+> to eat — it doesn't work like that." (2020-04-01)
+
+Understand their lens, point of view, value system, and how *they* judge success — then ask,
+don't instruct.
+
+**Self-diagnostic — "What compels you to open your mouth?"** (2020-04-01) — the genuinely new
+psychology. Chris turns the lens inward on his members and interrogates the *urge to speak*,
+diagnosing its drivers: discomfort with silence, boredom / sensing "people aren't enjoying
+themselves," an intrinsic need to entertain — and, underneath it all, validation-seeking:
+
+> "We are all looking for validation… we're trying to validate that we're smart, that we have
+> answers, and we can't wait to prove it to another human being." (2020-04-01)
+
+He warns against imposing your own value system about silence (some people are happy in
+silence) and against cutting the client off — "the minute somebody cuts off the client I give
+them the death eyes… you cutting them off says 'I don't need any more information'… because
+you're desperate to prove you know what they're gonna say" (2020-04-01). (This is the *why*
+behind §34's "never interrupt" rule.)
+
+**The paradox of restraint & the count-to-20 discipline** (2020-04-01):
+
+> "If you want to be seen as smart and as an expert, don't say anything, just be quiet. It's a
+> weird paradox." (2020-04-01)
+
+> "When you stop selling you start closing more… everything that you think to be true in these
+> sales situations, it's the opposite of what you think." (2020-04-01)
+
+The tactic when the urge to speak hits: **slow down and count** (e.g. "count to 20,"
+"one-one-thousand… slow down") — and Chris admits he still believes it but is "weak in the
+moment" sometimes (2020-04-01, self-aware). Reframe for the next call: given five vendors
+where four pitched/sold/cut you off and one "stopped and listened to everything you said like
+every word mattered," all things equal you hire the listener.
+
+The "stop selling → start closing" paradox restates §13's selling-vs-closing line and §1's
+serve-don't-sell from the angle of *self-restraint*; the count-to-20 discipline is the
+practical companion to §39's listen-to-understand and human-tape-recorder drill.
+
+---
+
 ## Cross-links
 
 - [[wiki/topics/pricing/pricing]] — value-based pricing, the desired-future-state → value
@@ -2199,6 +2339,12 @@ detailed in [[wiki/topics/pricing/pricing]]).
   (2019-07-03) — Chris (withhold judgment); team (unpack motivation, overage).
 - [[wiki/sources/2019-12-26-yt-RFk8ZmIDrFM]] — "Your Price Is Too High" role-play
   (2019-12-26) — qualify-then-walk, risk-reversal anchor, negotiate scope.
+- [[wiki/sources/2020-02-24-yt-ba4TH9C4qAU]] — Be The First To Raise Client Objections
+  (2020-02-24) — accusation audit (Chris Voss), say-the-objection-first, conditional "U-turn";
+  *host Ricky = context.*
+- [[wiki/sources/2020-04-01-yt-01UOEz1Ed4M]] — The Best Sales Technique / Talk Less Listen More
+  (2020-04-01) — selling-as-therapy, lion-and-sheep, "what compels you to open your mouth?",
+  stop-selling-start-closing, count-to-20; *Pro Group members = context.*
 - [[wiki/sources/2020-08-19-yt-EeBfMUD7j60]] — Use This Sales Technique (2020-08-19) —
   the Eight Mile Principle, safe-choice positioning, the pivot.
 - [[wiki/sources/2023-10-19-yt-Abi8kwkfZbA]] — Don't Justify Your Prices (2023-10-19) —

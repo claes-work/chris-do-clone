@@ -33,6 +33,22 @@ tags: [person, context, instructors, speaker-attribution]
   anecdote) is **Encina's, not Chris's** — [[../sources/2019-07-24-yt-pRDfov1dbj0|Building A Brand Ep.10]].
   In the *Building A Brand* (Hamilton Family Brewery) and *Design From Scratch* documentaries he presents
   Blind client work as a creative director, not as Chris.
+- **Confirmed prolific TEAM SOLO-HOST in 2020 (batches 66–75)** — fronts entire @thefutur uploads alone,
+  self-identifying by name ("Hello, I'm Matthew Encina… I'll see you in The Futur"), Chris absent:
+  **"3 Tips to Have a Long and Successful Creative Career"** ([[../sources/2020-05-06-yt-WcIKtetf2p8|WcIKtetf2p8]],
+  built entirely on *his own* life — pitching Coldplay 2014, founding/closing a studio 2007–2009) and
+  **"Speak More Confidently: An Introvert's Guide to Working with Clients"**
+  ([[../sources/2020-05-26-yt-NmvSuZeDw60|NmvSuZeDw60]]). Both are first-person autobiographical monologues —
+  **none of this trains the persona**. Also delivers the interview segment of the "six tips" montage
+  ([[../sources/2020-06-15-yt-CvUPNobpqZ4|CvUPNobpqZ4]], do-not-train).
+- ⚠️ **INTROVERT ATTRIBUTION GUARD (high conflation risk — do not merge biographies).** In
+  [[../sources/2020-05-26-yt-NmvSuZeDw60|NmvSuZeDw60]] Encina self-describes as a "**wallflower**," "the most
+  quiet person in the room," a nervous "mess" early in client work who had to *learn* to slow down, allow
+  silence, and ask questions. **This is Matthew Encina's biography, NOT Chris Do's.** Chris Do has his OWN
+  separately-documented "**loud introvert / extreme introvert who learned to speak**" story — introvert is a
+  signature Chris theme — so an ingester is highly likely to wrongly route Encina's wallflower/quiet-person
+  backstory into Chris's `persona/biography.md`/`beliefs.md`. Keep them strictly apart: Encina's introvert
+  narrative must NEVER flow into the Chris persona (the source page carries this same explicit warning).
 
 ## Ben Burns — digital director → COO (era ~2016–2021)
 
@@ -94,7 +110,7 @@ tags: [person, context, instructors, speaker-attribution]
   Review with Ben Burns and Stephanie Owens", YouTube AK2CbuiDbs0); left with Burns in Nov 2021
   to Maker Division [press-corroborated: makerdivision.com; Burns announcements].
 
-## Ricky Lin ("Ricky") — Young Guns co-host / facilitator (era ~2019)
+## Ricky Lin ("Ricky") — Young Guns co-host / facilitator → recurring clip host (era ~2019–2020)
 
 - Co-host and facilitator of The Futur's **"Young Guns" Season 2** live coaching series, opposite Chris
   Do who does the coaching. Ricky runs the shot-clock/segment transitions and cues each student
@@ -103,6 +119,25 @@ tags: [person, context, instructors, speaker-attribution]
 - On camera he adds a few asides (an Adobe Max "he turns his energy up and down" anecdote about Chris; a
   Seth Godin "the professional shows up" note) — these are **Ricky-attributed context**, and his anecdotes
   *about* Chris are not Chris's own words. Only Chris's coaching in these episodes trains the persona.
+- **By 2020 (batches 66–75) Ricky is a recurring HOST/narrator of short Futur clips** who self-identifies
+  ("Hey everyone, Ricky here"). His intro/outro framing is Futur context, **do-not-train**; whether a given
+  clip's *teaching body* trains the persona depends entirely on who teaches it, which varies clip to clip:
+  - **4-part Instagram series (Apr 2020)** — Ricky is the connective host, but the parts differ:
+    **pt1** ([[../sources/2020-04-20-yt-ZbFak7vZvVQ|Exploit The Instagram Algorithm]]) = Ricky intro/outro,
+    main workshop body by an **unidentified** speaker (possibly Chris, **not confirmed** — `attribution:
+    uncertain`, do-not-train until confirmed); **pt2** ([[../sources/2020-04-21-yt-ZkQM-WBeRjc|Define Your
+    Audience for Instagram]]) = **taught entirely by Ricky** (do-not-train); **pt3**
+    ([[../sources/2020-04-22-yt-t-7kpMQsRCA|Carousels / AIDA technique]]) = **Chris teaches the full body**
+    (his AIDA + "magic 8 slides" framework, persona-eligible) with only a ~7-second Ricky intro voiceover;
+    **pt4** ([[../sources/2020-04-23-yt-kLgixmrLUlg|5 Tips To Get More Instagram Followers]]) = **NOT Ricky
+    and NOT Chris** — an unidentified team member (likely Ben Burns) who refers to Chris in the third person.
+  - Hosts the intro/outro of **"Be The First To Raise Client Objections"**
+    ([[../sources/2020-02-24-yt-ba4TH9C4qAU|ba4TH9C4qAU]]) — Ricky frames it (and adds an Eminem *8 Mile*
+    outro analogy, his own aside); the sales teaching body is **Chris**, persona-eligible.
+  - Hosts/narrates the **"Six Tips to Help You Get Hired Out of Design School" montage**
+    ([[../sources/2020-06-15-yt-CvUPNobpqZ4|CvUPNobpqZ4]]) — a multi-speaker stitch where only the
+    Chris-attributed segments (targeting few companies, reciprocity, portfolio) train the persona; Ricky's
+    stitching plus the Charlie (guest) and Matthew Encina segments are do-not-train.
 
 ## Recurring guest instructors (external experts — context only)
 
@@ -121,6 +156,28 @@ Listed here as an attribution guard so their material stays out of `persona/`.
   + look-and-feel + positioning + differentiator") and the "brand platform / because statement" are **his,
   not Chris's** — [[../sources/2019-08-29-yt-yK7Rk7Oe588|Branding vs. Marketing]]. → own entity page:
   [[fabian-geralt]].
+- **Emily Cohen** — design-business consultant. The primary voice of the "**Brutally Honest w Emily Cohen**"
+  livestream (Mar 26 2020); Chris Do only hosts/prompts. The **red-flag fee framework** (count red flags,
+  raise your fee ~10% per flag), the "**fire ~one client a year**" rule, and the diplomatic client-firing
+  scripts ("we've outgrown each other" / "I'm too expensive") are **Cohen's, not Chris's** —
+  [[../sources/2020-04-14-yt-mXi7SGXZYVQ|How to Protect Yourself from Bad Clients]]. ⚠️ Her red-flag/firing
+  material sits right next to Chris's own client-screening themes (high blend risk); do-not-train. No entity
+  page yet — create one if she recurs.
+- **Greg Hickman** — productized-service / marketing consultant. Guest presenter of "**How To Create Your
+  Ideal Client**" — the **client-onboarding-automation** framework (fill the signed-to-kickoff gap with
+  training videos + warm-up assignments + live coaching; "same page, not just the same book") is **his, not
+  Chris's**; the caption is an uninterrupted guest monologue with **no Chris speech at all** —
+  [[../sources/2020-05-18-yt-MBNbFww_bNw|MBNbFww_bNw]]. → own entity page (create when warranted):
+  [[greg-hickman]].
+- **Wesley Little** — therapist. Guest supplying the clinical framework in the early-COVID "**Coping With
+  Fear & Anxiety**" clip (under- vs. over-reaction, "sit with the core emotion," self-awareness first) —
+  **his, not Chris's**; Chris hosts and volunteers his *own* coping methods (those are persona-eligible, but
+  Wesley's clinical material is not) — [[../sources/2020-04-02-yt-wIzlb_iYZjY|wIzlb_iYZjY]]. → own entity
+  page (create if a second source appears): [[wesley-little]].
+- **David C. Baker** — author (*The Business of Expertise*) / advisor to creative firms and a **repeat 2020
+  interview guest** (e.g. [[../sources/2020-04-27-yt-vWAeE4jccs8|Business Advice For Small Creative Firms]]).
+  Baker does most of the talking; Chris hosts. His firm-sizing/positioning frameworks are **Baker's, not
+  Chris's** — do-not-train. Already tracked on [[influences]].
 
 ## Sina — Futur host (PM-interview series) (era ~2019)
 

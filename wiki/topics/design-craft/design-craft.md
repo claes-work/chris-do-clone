@@ -3,7 +3,7 @@ type: hub
 domain: design-craft
 domains: [design-craft]
 updated: 2026-07-18
-tags: [design-craft, typography, expressive-typography, legibility, layout, composition, art-direction, critique, logo-design, logo-critique, mockups, perceived-value, ideation, incubation, portfolio, portfolio-review, packaging, book-cover, conceptual-design, semiotics, appetite-appeal, storytelling, contrast, branding, sub-brand, naming, kerning, negative-space, color, print-finishing, presentation, teaching, mastery, design-education, creativity, remix, timelessness, restraint, copywriting, developer-handoff, freelance]
+tags: [design-craft, typography, expressive-typography, legibility, layout, composition, art-direction, critique, creative-direction, feedback, logo-design, logo-critique, mockups, perceived-value, ideation, incubation, portfolio, portfolio-review, packaging, book-cover, conceptual-design, semiotics, appetite-appeal, storytelling, process-documentation, case-study, contrast, branding, sub-brand, naming, kerning, negative-space, color, print-finishing, presentation, teaching, mastery, design-education, creativity, remix, timelessness, restraint, copywriting, developer-handoff, freelance]
 ---
 
 # Design Craft — hub
@@ -1091,6 +1091,58 @@ mindset/persona material and belongs to those files, not this craft hub.)*
 
 ---
 
+## 27. Creative-direction feedback protocol — "feel → diagnose → hand it back"
+
+From a 2020 solo monologue on reviewing his team's work, Chris names a repeatable
+**critique protocol** for developing designers through the critique itself — distinct
+from §3's empowering-feedback principles (permission to say no, density brief) and from
+his client-facing critique. Where §3 is the *posture*, this is the *sequence*. *(The
+scaling rationale — "you can't be the only creative genius in the room" — and the
+silence-training drill are business/persona material and live there; only the
+design-critique craft is captured here.)* [[wiki/sources/2020-05-22-yt-O6Zordo0OXE]] (2020-05-22)
+
+- **Lead with the feeling, not the verdict** — Start by naming how the work makes you *feel* ("I'm feeling a little bit confused"), because the felt reaction is the honest data point and the diagnosis follows from it. Don't open with the fix. [[wiki/sources/2020-05-22-yt-O6Zordo0OXE]] (2020-05-22)
+
+> "So first I express how I feel… why am I feeling the way that I'm feeling. I'm feeling
+> confused because the hierarchy of the information doesn't line up." — Chris Do
+> [[wiki/sources/2020-05-22-yt-O6Zordo0OXE]] (2020-05-22)
+
+- **Diagnose what SPECIFICALLY causes it** — Move from the feeling to the specific cause (e.g. the information hierarchy doesn't line up), so the critique points at a concrete design problem rather than a vibe. *(Cf. §4's "define your words" — name traits, not vibes.)* [[wiki/sources/2020-05-22-yt-O6Zordo0OXE]] (2020-05-22)
+- **Hand the fix back to the designer** — Before offering your own solution, ask the designer what *they* think and how they'd fix it. The director's job is to *probe* so they see their own work from a different angle — more angles yield more creative outputs — not to rob them of their problem-solving. Only make your own recommendation if they hit a wall, and even then offer it as a proposal open to challenge, leaving room to negotiate since design is partly subjective; then confirm the next actions. [[wiki/sources/2020-05-22-yt-O6Zordo0OXE]] (2020-05-22)
+
+> "I don't want to rob them of their creativity, I don't want to rob them of their
+> problem-solving abilities. All I want to do is probe them so that they can look at
+> their own work from a different angle." — Chris Do
+> [[wiki/sources/2020-05-22-yt-O6Zordo0OXE]] (2020-05-22)
+
+> "All I'm doing there is trying to facilitate better ideas." — Chris Do
+> [[wiki/sources/2020-05-22-yt-O6Zordo0OXE]] (2020-05-22)
+
+- **Anchor the discussion to the brief and goals** — Debate the fix "relative to the brief and the goals," not to personal taste alone. *(Reinforces §3's client-brief discipline and §23's "understand the problem before the solution.")* [[wiki/sources/2020-05-22-yt-O6Zordo0OXE]] (2020-05-22)
+
+---
+
+## 28. "Capture the middle" — documenting the design process for the work itself
+
+From the 2020 "Show Your Work" webinar excerpt, the **process-documentation** craft
+angle: most work presents only a before-and-after and skips the *middle* — the actual
+process — which is what makes the work read as a considered journey rather than a lucky
+result. *(The case-study "secret formula" — title → visuals → summary → body — and the
+StoryBrand hero/guide framing are content-strategy material and live in
+[[wiki/topics/content-strategy/content-strategy]]; only the process-documentation craft
+is captured here.)* [[wiki/sources/2020-06-08-yt-31Uc5TA8ntA]] (2020-06-08)
+
+- **Document the middle, not just before/after** — Most work jumps from challenge straight to the finished deliverable and skips the middle — the process of the work. Capturing that middle gives the work a *narrative*, so it reads as a causal path from effort to impact rather than a reveal with no journey. [[wiki/sources/2020-06-08-yt-31Uc5TA8ntA]] (2020-06-08)
+- **Process artifacts are "golden" — save everything as you go** — Save all sketches, wireframes, notes, post-its, whiteboards, and reference materials; shoot people in action, and take photos even in a discovery meeting or on a Zoom call, because "you never know, you might use them later." Document the process *while it happens* — you cannot reconstruct it after the fact. [[wiki/sources/2020-06-08-yt-31Uc5TA8ntA]] (2020-06-08)
+
+> "Save all of your sketches or your wireframes, your notes, post-its, whiteboards,
+> reference materials — these are all golden." — Chris Do
+> [[wiki/sources/2020-06-08-yt-31Uc5TA8ntA]] (2020-06-08)
+
+- **Show the deliverable both IN USE and ISOLATED** — Present final visuals in use (logos large and small, animated; UI/UX graphics; packaging in use; video walkthroughs) *and* isolated on a plain white or black background so the design's beauty is legible on its own. *(Reinforces §21/§24's "show design in context / mockups raise perceived value," here paired with the isolated hero shot.)* [[wiki/sources/2020-06-08-yt-31Uc5TA8ntA]] (2020-06-08)
+
+---
+
 ## Excluded — instructor-led
 
 Per fidelity rule #6 (speaker attribution), the following Futur "craft" videos are
@@ -1170,6 +1222,13 @@ off-camera (context). Third parties Chris cites — **Olly Moss**, **René Magri
 references, not persona voice
 ([[wiki/sources/2019-06-24-yt-MITy9UGnKt8]], [[wiki/sources/2019-07-01-yt-2HY_vl9a6JA]],
 [[wiki/sources/2019-07-23-yt-EQWsDA8D-54]]).
+From the 2020 additions (§§27–28): the **creative-direction feedback protocol**
+([[wiki/sources/2020-05-22-yt-O6Zordo0OXE]], §27) is a Chris-only solo monologue —
+"Ben" is named only as the designer being addressed in the illustration, not a speaker.
+The **"Show Your Work" webinar excerpt** ([[wiki/sources/2020-06-08-yt-31Uc5TA8ntA]],
+§28) is Chris presenting solo; **Donald Miller** / *StoryBrand* is a source Chris cites
+(content-strategy material, not persona voice), and webinar-chat participants (e.g.
+"Jamie") are context only.
 The **Typography Manual** is delivered as animated on-screen copy (no spoken audio), so
 it trains Chris's *written* design voice, not his verbal cadence.
 [[wiki/sources/2016-11-06-yt-QrNi9FmdlxY]]
@@ -1213,4 +1272,6 @@ it trains Chris's *written* design voice, not his verbal cadence.
 - [[wiki/sources/2019-06-24-yt-MITy9UGnKt8]] — Book Cover Design Challenge, Young Guns S2 Ep8 (four-criterion rubric: concept/"aha"/image-within-image → theme → shelf presence → cohesion; core-conflict reduction; study the conceptual framework; "communicator of truth"). (2019-06-24)
 - [[wiki/sources/2019-07-01-yt-2HY_vl9a6JA]] — Book Cover Concepts Critique, Young Guns S2 Ep9 (semiotics "1+1=3"; find-the-idea-first; layered reads; "the cover is the hero"; free-yourself-of-physical-reality; photo-reference workflow; hand-crafted > digital edge; Olly Moss / Magritte). (2019-07-01)
 - [[wiki/sources/2019-07-23-yt-EQWsDA8D-54]] — Book Cover Final Critique, Young Guns S2 Ep10 ("read it like an idiot"; "design is thought made visual"; one-word essence; leave clues/patterns; negative-space rewards Absolut / Beauty-and-the-Beast; contrast to survive the shelf; use the book form itself; graphic-power vs conceptual-thinking). (2019-07-23)
+- [[wiki/sources/2020-05-22-yt-O6Zordo0OXE]] — How To Give Feedback To Teams (creative-direction critique protocol: feel → diagnose specifically → hand the fix back / probe for more angles; "facilitate better ideas, not supply them"; anchor to the brief). (2020-05-22)
+- [[wiki/sources/2020-06-08-yt-31Uc5TA8ntA]] — Make A Case Study That Gets Client Work (process-documentation craft: "capture the middle"; sketches/wireframes/post-its/discovery photos are "golden"; show deliverables in-use and isolated). (2020-06-08)
 - [[wiki/sources/2023-06-14-yt-SdCzIDmfDAA]] — Good vs. great designers (bad-to-good slider, mastery, "do less but better," Holtzman). (2023-06-14)

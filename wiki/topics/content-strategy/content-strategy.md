@@ -3,7 +3,7 @@ type: hub
 domain: content-strategy
 domains: [content-strategy]
 updated: 2026-07-18
-tags: [content-strategy, audience-building, organic-growth, storytelling, attraction-marketing, permission-marketing, community, movement, give-first, karmic-equity, awareness-funnel, portfolio, show-your-work, process-not-product, youtube-strategy, thumbnails, cold-open, awareness-matrix, niching, differentiation, sell-the-problem, thesis-paper, funnel-math, reciprocity, expert-positioning, audience-vs-customers, true-fans, smallest-viable-audience, youtube-launch, polarizing, public-journaling, feed-vs-stories, earned-followers, learning-styles, teach-while-you-learn, imposter-syndrome, repurposing, lumpy-mail]
+tags: [content-strategy, audience-building, organic-growth, storytelling, attraction-marketing, permission-marketing, community, movement, give-first, karmic-equity, awareness-funnel, portfolio, show-your-work, process-not-product, youtube-strategy, thumbnails, cold-open, awareness-matrix, niching, differentiation, sell-the-problem, thesis-paper, funnel-math, reciprocity, expert-positioning, audience-vs-customers, true-fans, smallest-viable-audience, youtube-launch, polarizing, public-journaling, feed-vs-stories, earned-followers, learning-styles, teach-while-you-learn, imposter-syndrome, repurposing, lumpy-mail, aida-carousels, magic-8, case-study, capabilities-deck, storybrand, multiple-income-streams, fame-vs-price, garage-sale, audience-as-asset]
 ---
 
 # Content Strategy — hub
@@ -1493,6 +1493,226 @@ to the §12 micro-content "pizza." `[2019-04-24]` [[wiki/sources/2019-04-24-yt-z
 
 ---
 
+## 28. AIDA for Instagram carousels: get them past slide 3, own the "magic 8" (2020)
+
+Chris's carousel-specific structural framework — the operational counterpart to the §5
+carousel *format* choice and a direct evolution of the §11 AIDA web-headline template,
+now applied slide-by-slide. Delivered in part three of a Futur Instagram series; the
+framing voiceover is teammate **Ricky** (context, not persona), but all teaching is
+Chris-attributed first person. `[2020-04-22]` [[wiki/sources/2020-04-22-yt-t-7kpMQsRCA]]
+
+- **Structure the carousel on AIDA** — Attention → Interest → Desire → Action — with one
+  modification: he reworks **Desire into "give the details."** "That's the only difference.
+  Otherwise it's AIDA." `[2020-04-22]` [[wiki/sources/2020-04-22-yt-t-7kpMQsRCA]] (Compare
+  §11's 2016 web-headline variant A-D-D-A — Attention/Detail/Desired-state/Action; the AIDA
+  spine is constant, the middle letters flex per medium.)
+
+- **Attention = a benefit aimed at the reader, not you.** Grab attention and tell them why
+  they should care; the reason to care is a *benefit*, and "this is about them, not you."
+  He cites Marty Neumeier's edit of his tweeted book title — *"100 Books That Changed My
+  Life"* → *"100 Books That'll Change **Your** Life"* — as the "genius" reader-first shift.
+  `[2020-04-22]` [[wiki/sources/2020-04-22-yt-t-7kpMQsRCA]]
+
+  > "This is a benefit. This is about them, not you. This is really critical." — Chris Do
+  > `[2020-04-22]`
+
+- **Slide 1 is the magnet / "clickbait" — a formula of type + image.** Whatever it takes
+  to pull you in. His self-deprecating lesson: he "was a little lazy" and posted all-type
+  slides until his wife said she couldn't tell what it was; adding an image (a woman's lip
+  breaking through paper, "pink on pink") made it his highest-performing post — "the
+  combination of image to type really works." Designers do this well for clients but "don't
+  do a good job for ourselves." `[2020-04-22]`
+  [[wiki/sources/2020-04-22-yt-t-7kpMQsRCA]]
+
+- **The rule: get them past slide 3.** Momentum is built across the opening slides; if it
+  breaks at slide 3, "the algorithm will think... failed clickbait, lost me, out" and the
+  post won't perform. (He credits working this out with his Pro community.) `[2020-04-22]`
+  [[wiki/sources/2020-04-22-yt-t-7kpMQsRCA]]
+
+  > "You have to get them to go beyond slide 3. This is super critical... If it breaks
+  > here, I don't think your post is going to perform well." — Chris Do `[2020-04-22]`
+
+- **Put the densest value in the MIDDLE, not early.** Two ways to lose the viewer: tell
+  them nothing new, *or* front-load the most value-packed slide — "if they read it all,
+  we're done. You gave me all that I needed to know." Instagram swipes are fast ("1001,
+  1002"), so a too-dense slide stalls the flow. In the middle slides you either **educate**
+  (tell me something I didn't know) or **entertain** (tell a joke). `[2020-04-22]`
+  [[wiki/sources/2020-04-22-yt-t-7kpMQsRCA]]
+
+  > "You want to educate — tell me something I didn't know before — or tell me a joke, make
+  > it funny, entertain me." — Chris Do `[2020-04-22]`
+
+- **The "magic 8."** You get max 10 slides but effectively lose two (slide 1 = hook, last
+  = CTA), so focus your value on the middle 8. "Just think eight. Eight is great."
+  `[2020-04-22]` [[wiki/sources/2020-04-22-yt-t-7kpMQsRCA]]
+
+- **Action slide = one clear thing that also seeds engagement.** Give a single, clear CTA
+  (ideally step-by-step) and a reason to engage — e.g. "you have a question, for the next
+  two hours I'll answer them" — which also *generates your next post*. `[2020-04-22]`
+  [[wiki/sources/2020-04-22-yt-t-7kpMQsRCA]]
+
+- **The breath/comma slide-breaking tip.** From his sequential-design teaching: "every
+  time you take a breath, every time you put a comma, new slide." Breaking dense slides
+  apart is "good news" — it multiplies content ("this is how you can do two a day"). The
+  opposite failure is empty content: "it's like cotton candy... it feels like I'm eating
+  something but there's nothing there." `[2020-04-22]`
+  [[wiki/sources/2020-04-22-yt-t-7kpMQsRCA]]
+
+  > "Use a speaking metaphor. Every time you take a breath, every time you put a comma, new
+  > slide." — Chris Do `[2020-04-22]`
+
+> ⚠️ TENSION (reconcilable): "Put the densest value in the middle, don't give it all away
+> early" (2020-04-22) reads against the §24 **"front-load the value"** launch rule
+> (2019-05-28). The reconciliation is *promise vs. payoff*: front-load the **hook / what
+> they'll get** (slide 1 magnet, the up-front promise), but hold the **dense payoff** for
+> the middle so the reader keeps swiping. One is the promise; the other is where you
+> actually cash it in. [[wiki/sources/2019-05-28-yt-N3hHRYhQRwo]]
+
+---
+
+## 29. The case study that wins work: the "secret formula" + the capabilities deck (2020)
+
+Chris's named framework for building case studies (and portfolios) that *convert* — the
+operational how-to underneath the §16 "show your work / process-not-product" and §13
+"show the work / get found" theses. Single-speaker Chris monologue from The Futur's "Show
+Your Work" webinar. `[2020-06-08]` [[wiki/sources/2020-06-08-yt-31Uc5TA8ntA]]
+
+- **What a case study IS.** "A detailed examination of the creative process and the
+  results of a specific project" — distinguished from plain portfolio work because it shows
+  a **causal relationship between effort and impact** and it tells a story. `[2020-06-08]`
+  [[wiki/sources/2020-06-08-yt-31Uc5TA8ntA]]
+
+  > "A case study... shows a causal relationship between effort and impact, and it's a
+  > story." — Chris Do `[2020-06-08]`
+
+- **The "secret formula": Title → Visuals → Summary → Body** (big agencies all follow it):
+  `[2020-06-08]` [[wiki/sources/2020-06-08-yt-31Uc5TA8ntA]]
+  1. **Title** — hook and ignite curiosity; don't just name the client (yours aren't as
+     famous as Coca-Cola). Not "Packaging for Beauty by Earth" but "How we helped a beauty
+     brand grow from the garage to $10M+ in sales" — "almost like YouTube clickbait, except
+     on the other side there's actual value."
+  2. **Summary** — written for busy people (reviewers spend ~30 seconds to a few minutes),
+     split into three: **mission/challenge** framed from the *client's* point of view
+     (increase revenue / launch a brand / improve click-through — deeper than "the client
+     asked me to build a logo") → **outcome** (what you actually did) → **results/impact**,
+     the **measurable** effect on the client's business, which **matters most**.
+  3. **Body** — should read like a story (see StoryBrand below); "this is where designers
+     struggle the most."
+  4. **Visuals** — must be "badass" *and* document the process/middle, not just the final.
+
+- **Results/impact is the most important part — because clients don't always have taste.**
+  Without a measurable result the case study "is just going to be judged on the aesthetics
+  — and clients don't always have the best taste," which is bad news. A measurable result
+  also verifies your **expertise** and **de-risks the project** for the buyer (ties to the
+  §16 "clients choose the least risky option"). `[2020-06-08]`
+  [[wiki/sources/2020-06-08-yt-31Uc5TA8ntA]]
+
+- **StoryBrand: the client is the hero, you are the guide.** Applies Donald Miller's
+  *StoryBrand* (explicitly credited) — in the Star Wars analogy the **client is Luke, you
+  are Obi-Wan.** The point of the project's "saga" isn't finishing correctly, it's helping
+  the client get where they want to go; focus the story on impact, not craft minutiae.
+  `[2020-06-08]` [[wiki/sources/2020-06-08-yt-31Uc5TA8ntA]]
+
+  > "Your client is the hero, you are the guide. This comes directly from StoryBrand by
+  > Donald Miller." — Chris Do `[2020-06-08]`
+
+  > "The body should read like a story. There's nothing worse than reading a case study
+  > about kerning." — Chris Do `[2020-06-08]`
+
+- **Capture the middle — process visuals are "golden."** Most case studies jump from
+  challenge straight to outcome and skip the *middle* (the process of working with the
+  client), leaving only a before-and-after. Fix it: shoot people in action (even in a
+  discovery meeting / on Zoom — "you never know, you might use them later") and save every
+  sketch, wireframe, note, post-it, whiteboard, and reference — "these are all golden."
+  Show final deliverables both **in use** (large/small, animated, in context) and
+  **isolated** on plain white/black so the beauty is visible. `[2020-06-08]`
+  [[wiki/sources/2020-06-08-yt-31Uc5TA8ntA]]
+
+  > "Save all of your sketches or your wireframes, your notes, post-its, whiteboards,
+  > reference materials — these are all golden." — Chris Do `[2020-06-08]`
+
+- **The capabilities deck — a pre-proposal artifact.** A **capabilities deck** is a
+  document with a couple of case studies plus an outline of your services — something
+  meaningful to send a prospect who is "fishing for information" and asking for a proposal
+  *before* you've discussed the work, needs, or budget. It is **not** a full proposal. (New
+  named artifact for the corpus; the case-study application-work also feeds it — ties to
+  the §15 "application work compounds.") `[2020-06-08]`
+  [[wiki/sources/2020-06-08-yt-31Uc5TA8ntA]] (Sales-artifact angle also in
+  [[wiki/topics/sales-clients/sales-clients]].)
+
+---
+
+## 30. The multiple-income-stream model: audience-as-core, fame-vs-price, "little buckets" (2020)
+
+Chris's monetization *strategy* for a creator building income around a passion — the
+commercial layer beneath the give-first machine, showing how an audience converts to
+revenue without betraying §1. From a recorded coaching call (the coachee "Blair," a
+session drummer, is context, not persona). The specific Futur dollar figures belong to
+biography; the durable **strategy** is below. `[2020-04-08]`
+[[wiki/sources/2020-04-08-yt-tgjSyB7pXb4]]
+
+- **Multiple parallel income streams — "little buckets that collect rain."** Don't rely on
+  one product; stack many revenue lines (courses at a range of price points, a
+  subscription coaching group, ad revenue, sponsorships, affiliate deals, donations). "It's
+  a lot of little buckets that collect a little bit of rain, and they'll all equal
+  something." `[2020-04-08]` [[wiki/sources/2020-04-08-yt-tgjSyB7pXb4]]
+
+- **Audience-as-core; product-as-distraction.** "The audience is everything." Once the
+  audience "falls in love with you, they'll buy anything that you make just to support
+  you." The product can be a decoy for the real asset: "sometimes the course is the
+  distraction — it's actually the audience that is the core goal," and the course becomes a
+  **vehicle for fans to say thank you.** Build the audience first; it takes time.
+  `[2020-04-08]` [[wiki/sources/2020-04-08-yt-tgjSyB7pXb4]] (The monetization corollary of
+  the §23 customers-vs-audience landmark and the §1 give-first principle.)
+
+  > "When you make the course, the course sometimes is the distraction — it's actually the
+  > audience that is the core goal... and then you give them a vehicle to say thank you." —
+  > Chris Do `[2020-04-08]`
+
+- **The fame-vs-price principle — get known first.** "The more well-known you are the less
+  price matters, and the less well-known you are the more price matters." So get more
+  well-known first and "the price will sort itself out." What people find valuable is what
+  they believe makes them money — frame outcomes ("how to get your first paid gig"), since
+  people think short-term and a near-term financial benefit loosens the wallet.
+  `[2020-04-08]` [[wiki/sources/2020-04-08-yt-tgjSyB7pXb4]]
+
+  > "The more well-known you are the less price matters... get more well-known first and the
+  > price will sort itself out." — Chris Do `[2020-04-08]`
+
+- **Course-bundling mechanics.** Sell **mini-courses** at a low, low-risk price
+  (~$50–$100 — "disposable income"), then **bundle** ~8–12 modules into a master class
+  priced **below the sum of the parts** so buyers feel they're already saving (twelve $100
+  courses "should sell for $1,200," discounted). "Outrageous" value-stacked bundles convert;
+  offer a **try-then-credit** path (buy one, credit it toward the bundle); and **bake the
+  value into the name** (a friend sells a "how to build a $10,000 website" class for ~$400 —
+  "the value is baked in already without even having to market"). `[2020-04-08]`
+  [[wiki/sources/2020-04-08-yt-tgjSyB7pXb4]] (Fuller pricing treatment in
+  [[wiki/topics/pricing/pricing]].)
+
+- **The "garage sale" — sell what you already own.** Citing *Rework* (37signals/Basecamp):
+  "have a garage sale" — sell the digital assets already sitting on your hard drive
+  (textures, brushes, templates, presentations, case studies; for a musician, loops and
+  samples). It's **lower-hanging fruit than writing a course** and gets people used to
+  pulling out a credit card. The Futur does exactly this — packaging case studies and
+  cleaned-up, templatized contract forms so buyers avoid a $400/hour attorney; it makes
+  money *and* builds goodwill. `[2020-04-08]`
+  [[wiki/sources/2020-04-08-yt-tgjSyB7pXb4]]
+
+  > "Do a garage sale — look in your inventory of things, the digital assets that you
+  > already own and created, and sell some of those things." — Chris Do `[2020-04-08]`
+
+- **Sequence the sale — relationship before ask.** Use a ladder of micro-commitments
+  (watch → subscribe → buy); at minimum get them on your **email list** first ("don't crowd
+  and close on the first date"). Keep the newsletter **story-driven and personal** (mine
+  your archives) and non-selling — if it gets good open rates, tell those same stories on
+  camera. `[2020-04-08]` [[wiki/sources/2020-04-08-yt-tgjSyB7pXb4]] (Consistent with the §1
+  give-first sequencing and the §14 micro-conversion funnel.)
+
+  > "Don't crowd and close on the first date... but at least have them sign up for your
+  > email." — Chris Do `[2020-04-08]`
+
+---
+
 ## Sources
 
 - [[wiki/sources/2015-11-29-yt-z7Y9TKfgstE]] — "Is Your Design Resume Still Relevant?" —
@@ -1553,6 +1773,15 @@ to the §12 micro-content "pizza." `[2019-04-24]` [[wiki/sources/2019-04-24-yt-z
 - [[wiki/sources/2019-09-09-yt-zSVlMER-zfE]] — "The Difference Between Good & Great Companies" —
   customers-vs-audience (LANDMARK), be-consistent/give-generously/serve-others,
   smallest-viable-audience, market-first inversion (2019-09-09)
+- [[wiki/sources/2020-04-08-yt-tgjSyB7pXb4]] — "Make A Living Doing What You Love —
+  Practical Advice" — multiple-income-streams, audience-as-core, fame-vs-price,
+  course-bundling, garage-sale (2020-04-08)
+- [[wiki/sources/2020-04-22-yt-t-7kpMQsRCA]] — "Why Your Instagram Carousels Are Being
+  Ignored — Use AIDA" — AIDA-for-carousels, past-slide-3, magic-8, breath/comma slide
+  breaks (2020-04-22)
+- [[wiki/sources/2020-06-08-yt-31Uc5TA8ntA]] — "Make A Case Study That Gets Client Work" —
+  case-study secret formula (title→visuals→summary→body), capabilities deck, StoryBrand
+  hero/guide, capture-the-middle (2020-06-08)
 - [[wiki/sources/2020-06-09-yt-ujxvy5NjeRQ]] — "How to Learn Anything (for creatives)" —
   input/output + learn-reflect-implement-share (2020-06-09)
 - [[wiki/sources/2021-07-11-yt-lrM5CRg-O0I]] — "Easy Way To Market Yourself — Tell Your

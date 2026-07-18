@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-18
-sources: 63
+sources: 74
 ---
 
 # Voice
@@ -70,6 +70,20 @@ positioning definition ("occupying a space in a person's mind") and "branding an
 are blood cousins"; "don't give a gift that you like"; "come along on the ride, we'll grow
 together" with the imposter-syndrome-robs-others reframe; and "you don't need a mentor when
 you can have many heroes."
+**Enriched (synthesis pass 8, 2026-07-18)** with eleven late-2019→mid-2020 P2-era sources
+(the self-acceptance monologue, the "no business partner anymore" biography, the horse-
+painter pricing parable, the charity-vs-clients "exposure" clip, the talk-less-listen-more
+sales coaching, the "80/20 of school" Q&A, the empower-your-team feedback talk, the career-
+risk/changing-careers clip, the case-study webinar, the make-a-living monetization call, and
+the get-hired-out-of-design-school montage) — adding the "cantankerous / sardonic" self-
+acceptance self-descriptor and "come into the light"; the partnership "there's a hole inside
+of you" reframe; the Wayne-Dyer "if you change the way you look at things, things you look at
+will change"; "they're not broke, they're just broken"; "when you stop selling you start
+closing more" and "what compels you to open your mouth?"; "that's what that A stands for —
+average"; "you can't be the only creative genius in the room"; "I'd rather make a lot less
+money… than work for someone else" and "what got you here won't get you there"; "there's
+nothing worse than reading a case study about kerning"; "the more well-known you are the less
+price matters"; and "don't show me what you do, show me what you want to be hired for."
 
 ## Signature phrases & catchphrases
 
@@ -154,6 +168,19 @@ quoted back to him.
 > you treat an audience (from the "all companies have customers; a few companies have an
 > audience" talk). ([[../wiki/sources/2019-09-09-yt-zSVlMER-zfE]])
 
+> "When you stop selling you start closing more… everything that you think to be true in
+> these sales situations, it's the opposite of what you think." — his restraint paradox:
+> the harder you race to prove you're smart, the more you lose. "If you want to be seen as
+> smart and as an expert, don't say anything, just be quiet."
+> ([[../wiki/sources/2020-04-01-yt-01UOEz1Ed4M]])
+
+> "What compels you to open your mouth? What compels you to speak to fill the gap?" — his
+> self-diagnostic for the urge to fill silence on a call (he traces it to a need for
+> validation and discomfort with silence). Paired with his therapist frame: "I'm just gonna
+> ask you questions until you answer in the way [you] need to hear it, because your own
+> advice is the best advice that you're gonna take."
+> ([[../wiki/sources/2020-04-01-yt-01UOEz1Ed4M]])
+
 **Pricing / worth**
 
 > "The price I give you today will always be the cheapest price. Wait till you see
@@ -189,6 +216,16 @@ quoted back to him.
 > phone-call test (charge enough that you're *happy* to pick up on your personal time).
 ([[../wiki/sources/2026-07-14-research-biography-dossier]] §13;
 [[../wiki/sources/2024-01-10-yt-h-eRwbbpfxo]])
+
+> "The more well-known you are the less price matters, and the less well-known you are the
+> more price matters. So I would encourage you to get more well-known first and the price
+> will sort itself out." — his fame-vs-price principle.
+> ([[../wiki/sources/2020-04-08-yt-tgjSyB7pXb4]])
+
+> "We have to distinguish charity from clients… they have no cause — their cause is capital,
+> and they're not broke, they're just broken." — on the for-profit "clients" who demand free
+> work behind "we're broke," exploiting the people in the greatest need of opportunity ("they
+> rarely take advantage of the big firms"). ([[../wiki/sources/2020-02-26-yt-xE1onB5dVI8]])
 
 **Brand / personal brand**
 
@@ -271,6 +308,11 @@ quoted back to him.
 > is imperfect ("it's not a great example of a two-word brand, but it's mine, I'm using
 > it"). ([[../wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]];
 [[../wiki/sources/2023-12-14-yt-1kUCm1JPzxg]])
+
+> "Don't show me what you do, show me what you want to be hired for." — his portfolio-
+> positioning rule: don't make a viewer comb your work to guess your specialty; "claim an
+> expertise, get as narrow as you can… and then show only the pieces that back that up."
+> ([[../wiki/sources/2020-06-15-yt-CvUPNobpqZ4]])
 
 **Mindset / reframing**
 
@@ -357,6 +399,29 @@ quoted back to him.
 > "Dress for the job you want, not the job you have." — closing career line (borrowed
 > idiom he leans on). ([[../wiki/sources/2019-08-12-yt-f7T1Zs28Deo]])
 
+> "If you change the way you look at things, things you look at will change." — a line he
+> closes with, quoting Wayne Dyer (the "horse painter" pricing parable): reframe *where* and
+> *for whom* the work is seen and the price it commands changes dramatically, with no change
+> to the work itself. ([[../wiki/sources/2019-11-03-yt--JpBRdjffbQ]])
+
+> "What got you here won't get you there — so all your life experiences reward you for doing
+> the same thing over and over again, and anytime you try something new it's going to be
+> horrible, but the reward is if you stick it out." — his changing-careers / seek-discomfort
+> reframe (borrowed title he leans on): "the moments before a big breakthrough… are filled
+> with anxiety, with fear, apprehension, nervousness."
+> ([[../wiki/sources/2019-01-21-yt-YCGRzMN9gEE]])
+
+> "The mistake that we all make is we try to get an A in every single class… and then you
+> wind up just being average. That's what that A stands for — average." — his "80/20 of
+> school" line: concentrate effort, excel in two classes, and "do enough to get by" in the
+> rest. ([[../wiki/sources/2019-11-29-yt-DK6J9bgj5yc]])
+
+> "When you feel like you want a partner, realize there's a hole inside of you… the hole is
+> telling you: go learn your freaking business." — his reframe on the urge to take a business
+> partner: the missing piece is usually a skill to go learn, not a person to go find (he's
+> tried three partnerships and "not made it work, mostly because of my own personality").
+> ([[../wiki/sources/2019-05-07-yt-2sqUDzorHLU]])
+
 > "Before they called you, before they reached out, you have no job — you cannot lose
 > something you didn't have. I didn't lose a Rolls Royce because I don't have one." — his
 > anti-scarcity reframe for chasing a bad-fit prospect.
@@ -429,6 +494,11 @@ quoted back to him.
 > you become is decided in your own free time (echoes Jim Rohn's "work harder on yourself
 > than you do on your job," though he doesn't credit Rohn here).
 > ([[../wiki/sources/2019-07-29-yt-Uu29Tb2Cilg]])
+
+> "I'm not a guy who works well for other people… I'd rather make a lot less money, I'd
+> rather work a lot harder than to work for someone else." — his freedom-over-security driver
+> for going out on his own ("the thing I loved more than what I was afraid of was the idea I
+> could write my own destiny"). ([[../wiki/sources/2019-01-21-yt-YCGRzMN9gEE]])
 
 **Content strategy / giving**
 
@@ -503,6 +573,13 @@ quoted back to him.
 > "I'm just here for the action takers."
 ([[../wiki/sources/2023-12-14-yt-1kUCm1JPzxg]])
 
+> "You can't be the only creative genius in the room, because guess what — you don't scale,
+> you can't grow beyond yourself and you are limited to the hours and the days and your
+> abilities." — his case for developing his team instead of overriding them: give feedback by
+> naming how the work makes you *feel*, then hand the fix back to the designer ("I don't want
+> to rob them of their creativity… their problem-solving abilities").
+> ([[../wiki/sources/2020-05-22-yt-O6Zordo0OXE]])
+
 **Design craft / typography**
 
 > "If you don't control type, type controls you." — his headline typography catchphrase
@@ -560,6 +637,10 @@ quoted back to him.
 > "If we can reduce a big idea down smaller and smaller until we are able just to pull out
 > the essence." — the "one word" reduction exercise: know the single word behind a design.
 > ([[../wiki/sources/2019-07-23-yt-EQWsDA8D-54]])
+
+> "There's nothing worse than reading a case study about kerning." — a case study's body
+> should read like a story about impact (StoryBrand: client = hero, you = guide), not craft
+> minutiae. ([[../wiki/sources/2020-06-08-yt-31Uc5TA8ntA]])
 
 **Design philosophy (logos, originality, timelessness)**
 
@@ -677,6 +758,14 @@ quoted back to him.
 > "I'm powerful in my logical robotic way… and I don't want to be you. We can borrow parts
 > from each other." — his "logical/robotic" self-frame, contrasting himself with Jose's
 > "spiritual, deep, connected" mode. ([[../wiki/sources/2016-11-19-yt-qJhyAHRkC6g]])
+
+> "Leaning into the quirkiness, my crankiness, my cantankerous sense of humor, my sardonic
+> style — whatever it is that's just working for me, and I'm okay with that." / "I'm telling
+> you, from a person who used to be in the shadows: come into the light." — his self-
+> acceptance self-descriptor: growing up all he ever wanted was "to be accepted… just
+> accepted, and to remain invisible," and the turn was accepting "I'm just gonna have to be
+> me" (and being okay with the haters that follow — "I stand for these people, I don't stand
+> for you"). ([[../wiki/sources/2020-01-11-yt-d7V7eJn3-oc]])
 
 *Note on phrases from the v1 dossier not yet found verbatim in transcripts:* "the more
 you, you are, the more you are" and the *Unbland Yourself* tagline remain sourced only to

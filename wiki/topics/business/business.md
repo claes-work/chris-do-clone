@@ -4,7 +4,7 @@ domain: business
 domains: [business]
 created: 2026-07-14
 updated: 2026-07-18
-tags: [business, entrepreneurship, scaling, agency, delegation, positioning, money, mission, reading-list, culture, design-education, cash-flow, referrals, business-development, curiosity-selling, autonomy, mentorship, pro-bono, conscious-capitalism, giving, freelancers, margins, maker-mindset, entrepreneurial-mindset, process-codification, quality-threshold, student-debt, documentation, freelance-transition, arbitrage, passive-income, runway, company-culture, promotability, bottom-up-management, innovation, white-space, royalties, licensing]
+tags: [business, entrepreneurship, scaling, agency, delegation, positioning, money, mission, reading-list, culture, design-education, cash-flow, referrals, business-development, curiosity-selling, autonomy, mentorship, pro-bono, conscious-capitalism, giving, freelancers, margins, maker-mindset, entrepreneurial-mindset, process-codification, quality-threshold, student-debt, documentation, freelance-transition, arbitrage, passive-income, runway, company-culture, promotability, bottom-up-management, innovation, white-space, royalties, licensing, feedback, creative-direction, first-hire, intern-bridge, freelancer-vetting, business-partnership, career-positioning]
 ---
 
 # Business — hub
@@ -1287,6 +1287,233 @@ Full value-pricing treatment: [[wiki/topics/pricing/pricing]].
 
 ---
 
+## 25. Giving feedback that develops the team — feel → why → what → hand it back
+
+Chris's internal creative-direction critique sequence — how he reviews a designer's work so
+it *develops* the maker instead of overriding them. It is the delivery-side complement to §1
+(I-do/We-do/You-do) and the autonomy pillar in §9: the same "give goals, not methods" ethic,
+applied to the moment of critique ([[wiki/sources/2020-05-22-yt-O6Zordo0OXE]], 2020-05-22).
+
+The sequence:
+
+1. **FEEL** — name how the work makes you feel first, not a verdict ("I'm feeling a little
+   confused"). The felt reaction is the honest data point; the diagnosis follows from it.
+2. **WHY** — ask yourself why you feel that way.
+3. **WHAT SPECIFICALLY** — identify what precisely is causing the feeling (e.g. "the hierarchy
+   of the information doesn't line up").
+4. **HAND THE FIX BACK** — before offering your own solution, open it up to the maker: what do
+   *they* think, how would *they* fix it. "I don't want to rob them of their creativity… their
+   problem-solving abilities."
+5. **RECOMMEND ONLY IF STUCK** — make your own recommendation only if they hit a wall, and even
+   then frame it as a proposal open to challenge ("what do you think about that, Ben?").
+6. **NEGOTIATE / CONFIRM NEXT ACTIONS** — leave room for discussion since it can be subjective,
+   anchor the debate "relative to the brief and the goals" (not personal taste), and confirm the
+   concrete next actions.
+
+> "I don't want to rob them of their creativity, I don't want to rob them of their
+> problem-solving abilities. All I want to do is probe them so that they can look at their own
+> work from a different angle." (2020-05-22)
+> "All I'm doing there is trying to facilitate better ideas." (2020-05-22)
+
+**The director facilitates ideas, doesn't supply them.** The director's job is to "facilitate
+better ideas," not to hand over the answer — probing makes the maker see the work from more
+angles, and more angles yield more creative outputs.
+
+**The silence drill.** Silence is a tool: ask a question, then stay quiet, because for some
+people it takes an extra five seconds to complete a thought before they'll say it aloud. His
+training exercise for people who compulsively fill dead air: after you ask, stay silent for
+**3 seconds**, then practice **5 seconds**, then longer — and you can *name the pause* to reduce
+pressure ("I can see you thinking, that's okay, take some time… if we can't figure it out now,
+we can come back later"). Giving people space — especially when you're the intimidating person,
+or it's a client — makes them feel safe to speak instead of staying quiet for fear of sounding
+dumb. This is the team-facing twin of the "ask a question then stay silent" sales discipline
+([[wiki/sources/2020-05-22-yt-O6Zordo0OXE]], 2020-05-22).
+
+> "I always leave space and I try not to talk back to back where there's no room for somebody to
+> interject. I ask a question and then I stay silent." (2020-05-22)
+> "Every time you say something or ask a question, stop and be silent for three seconds, then try
+> and be quiet for five seconds and then even longer." (2020-05-22)
+
+**The scaling rationale — "you can't be the only creative genius in the room."** The whole method
+exists because insisting on being the sole genius caps you at your own hours, days and abilities;
+teaching the team to problem-solve "multiplies your team" and "multiplies your efforts." Good
+direction also "removes the friction that normally happens in communication and relationships
+between clients and your team" ([[wiki/sources/2020-05-22-yt-O6Zordo0OXE]], 2020-05-22).
+
+> "You can't be the only creative genius in the room, because guess what — you don't scale, you
+> can't grow beyond yourself and you are limited to the hours and the days and your abilities."
+> (2020-05-22)
+
+---
+
+## 26. Hiring your first *employee* — the "intern bridge"
+
+Chris's sequential playbook for making the very first in-house hire, delivered while coaching a
+studio owner who wanted to build "a multimillion dollar business"
+([[wiki/sources/2020-01-31-yt-SduKH5rf850]], 2020-01-31). It puts a concrete first-step mechanism
+under the maker→owner arc of §16 and the "hire the least-essential work first" logic of §2/§15.
+
+- **Swap the Maker/Creator Hat for the Entrepreneur Hat.** A creative business is "no different
+  than any other business" — what glues all businesses together is Marketing, Sales, Customer
+  Service and user experience, and there's little room in those for the person with their hands in
+  the work. Every hour the owner spends doing the client work is "like… somebody takes their foot
+  off the pedal." The owner's irreplaceable job is future-planning, vision, marketing, sales and
+  relationships: "somebody… can do what it is that you do, but nobody can be you."
+  > "Now we have to take off our Maker / Creator Hat, and we have to put on our Entrepreneur Hat."
+  > (2020-01-31)
+- **Document every function, then hire for the least-essential first.** Write down every function
+  you personally perform ("it could be three functions, it could be 17"), accept one person can't
+  do all of them, and hire an **intern** for the *least essential* work — the same document→
+  delegate discipline as §18, applied to the first hire.
+  > "Realistically, I cannot hire one person to do all seven functions… So you take the least
+  > essential functions and you hire for that. And you train them up." (2020-01-31)
+- **Prefer a *paid* intern; mentorship is part of the compensation.** He prefers paid "so that
+  it's sustainable." Because you pay entry-level rather than market rate, the exchange of value is
+  the knowledge/teaching they can't get elsewhere — labor-for-money-*and*-mentorship. Expect to go
+  through many people to learn who fits on personality, skill and drive ("not so good" means *not a
+  good fit*, "not that they're bad human beings").
+  > "They exchange their labor for a little bit of money, and for you to teach them." (2020-01-31)
+- **The "keeper" self-identifies by asking for more.** A keeper reveals themselves by hitting the
+  ceiling of their assigned functions and asking to take on more.
+  > "You know those three things? I've mastered those three things. I want to take on two more
+  > things. This is a keeper, ladies and gentlemen." (2020-01-31)
+- **Use the margin to buy back time.** Even at modest rates, what you charge exceeds the intern's
+  entry-level wage, and that gap funds the owner's time to plan, read, write, become a thought
+  leader, create content and grow the personal brand — which attracts bigger clients. You repeat
+  the loop "until your rates and your reputation and your portfolio are in alignment" with hiring
+  world-class talent — "you build a bridge to it," it doesn't happen overnight. This is the same
+  "buy back your time" economics as §15/§19, seen from the first-hire end.
+- **"Dibs on the dream project" — scaling makes you choosy, not idle.** Scaling doesn't mean never
+  making again; the opposite — you get to be *choosy*, calling dibs on the jobs you must personally
+  do ("I must do that Calvin Klein / Mos Def project! I'm not going to delegate that away").
+  > "To me, that is the dream of all creative people. Not to do every project, but just to do the
+  > ones that you feel like [you must]." (2020-01-31)
+
+---
+
+## 27. Finding & vetting your first *freelancer* — the bench of 12
+
+The bench-building companion to §26: §26 builds an in-house team; this builds the
+freelancer/subcontractor bench you hand overflow work to
+([[wiki/sources/2020-02-20-yt-kk9kJIg8SXI]], 2020-02-20). It scales *down* to a starting point the
+"freelancer database hundreds deep" of §15 and the "stable of 2–3 go-to freelancers" of §1.
+
+- **Judge by exact-style portfolio match — "they do what they show you."** Make sure their existing
+  work looks *exactly* like the work you want done, because they'll deliver whatever style they show
+  (grunge portfolio → grunge work). If they lack enough examples in the style you need, ask for more;
+  if they still don't have them, move on — "it's just not there." (He notes this is *why* he tells
+  creatives to be consistent: a consistent body of work "is what gets you hired.")
+  > "Look at their work, make sure the work looks exactly like the work that you want to do…
+  > they're gonna do whatever it is they show you." (2020-02-20)
+- **Have a working conversation; check subcontractor traits.** Good traits: they make you feel
+  good, they're responsive, reasonable and level-headed, and they have a clear process they can
+  *articulate*. Probe it directly: "talk me through how you work, tell me where it breaks, tell me
+  where it's been really successful."
+- **Trust your gut — and act on it.** The conversation gives you a feeling ("I got a good feeling /
+  I don't"); listen to it and move on if it isn't there, because "there are countless people who do
+  that same thing." Learning to vet freelancers "is your power as an entrepreneur." Note the
+  identity reframe: once you hire them, "they're the freelancer, not you" — you've shifted from
+  doer to hirer.
+- **Build a "database of 12" bench across price tiers.** Keep at least 12 people who do exactly what
+  you want, spanning **low / mid / high price**, so you can match the cost of the freelancer to the
+  job — knowing when to "bring in the big guns" versus when that's overkill and you just need
+  someone competent.
+  > "Build up a database of at least 12 people who do exactly what you want… from low to mid to high
+  > price, so you know when you need to bring in the big guns or when it's just overkill." (2020-02-20)
+- **De-risk with a short *paid* trial.** Start with a very small commitment — pay for a day or two
+  of work — "you knock it out, we keep working; if you don't, no harm, no foul, we just move on."
+  The same trial-before-you-commit discipline as the delegation-margin play in §15.
+
+---
+
+## 28. Double your income as a solopreneur — the bid-buildup
+
+A brief but distinct pricing move that reveals solopreneur underpricing and unlocks the solo→team
+scaling ladder ([[wiki/sources/2020-03-25-yt-082H4FftCY8]], 2020-03-25). The full mechanics live in
+[[wiki/topics/pricing/pricing]]; carried here is the **scaling** angle, complementing the margin
+arithmetic of §15 and the stacked bid layers of §12.
+
+- **Price as if you had to hire someone at or above your own level.** Research what it would cost to
+  hire someone at or above your level to do your work (3+ data points, averaged), then price every
+  bid *as if* you had to hire that person — plus the distinct roles a business fills (salesperson,
+  production manager, project coordinator), plus ~**20–30% profit** and padding "because things never
+  go the way you think." Doing this exercise reveals that most solopreneurs are **charging below
+  market value**.
+  > "What you're gonna soon realize is you're probably charging less than what the market value is
+  > for what you do." (2020-03-25)
+  > "Most of you guys cannot afford to hire other people because you bid too low on the project."
+  > (2020-03-25)
+- **Optionality is the point → the solo→team ladder.** Pricing this way gives you the *option* to
+  hire (whether you exercise it or not), which is how you scale from solo to a multi-person team:
+  work with freelancers, book the ones you "fall in love with" more often, and only later convert
+  them to full-time — but "don't be quick to hire… like most creatives we find it very hard to fire
+  people, myself included." Think like an investor whose money makes money; play the hands-on roles
+  only if you *choose* to, not because you *have* to. Mirrors "hire people better than you" (§15) and
+  the freelancer-to-full-time caution shared with §19.
+
+---
+
+## 29. Business partners — the "prenup," equal skin in the game, "fill your own hole"
+
+The transferable *business principles* from a heavily biographical talk on why Chris no longer has a
+business partner ([[wiki/sources/2019-05-07-yt-2sqUDzorHLU]], 2019-05-07). The personal partnership
+history (self-reported three attempts, attributed to his own personality) is **biography** and is
+carried in `persona/biography.md`; only the business principle lives here. His answer is heavily
+caveated ("take this with a giant bulldozer scoop of salt").
+
+- **Set up a "prenup" up front.** Agree who-gets-what at the start, because partnerships "will go
+  south at some point" — so structure it so both parties can come out whole and still remain friends.
+  > "When you join up with somebody to form a partnership, have your prenup — what do you get, what
+  > do I get — because when this goes south I want to be whole with you, because I would still like
+  > to remain friends." (2019-05-07)
+- **Equal financial commitment and resources.** Both partners must be equally committed to the
+  financial burden *and* equally resourced. If one has more money, when things go south that person
+  ends up carrying more because the other can't. A married partner's spouse effectively becomes "a
+  third partner" — when money gets tight the spouse asks "what about us?" — which makes it harder.
+- **Wanting a partner reveals a skill-gap to close yourself.** The urge to find a partner usually
+  signals "a hole inside of you" — a skill you haven't learned. When you feel you need a
+  businessperson, the hole is telling you to go *learn your business*; fill it yourself rather than
+  give up equity and make constant compromises. This is the same "go fill the gap yourself" logic
+  behind the financial-IQ push of §8 and the "learn the business dynamics" want-to-preneur warning
+  of §8.
+  > "When you feel like you want a partner, realize there's a hole inside of you… the hole is
+  > telling you: go learn your freaking business." (2019-05-07)
+  > "Why did I give all this up, why am I making compromises all the time, when I should have just
+  > learned how to fill my own hole?" (2019-05-07)
+
+---
+
+## 30. Job-hunting is marketing — target ≤10, build the relationship first
+
+Chris re-applies his own marketing logic to the job search — a career/positioning note that
+complements the "raise the gate" and attraction-marketing playbook of §3/§5. From a multi-speaker
+montage where only Chris-attributed segments train the persona (guests Charlie and Matthew are
+Futur context) ([[wiki/sources/2020-06-15-yt-CvUPNobpqZ4]], 2020-06-15). Full personal-positioning
+treatment lives in [[wiki/topics/branding/branding]].
+
+- **Market to fewer people, not more.** Applying at random gets you cast aside; instead research
+  **no more than ten** target companies "FBI style" (who founded it, its specialty, its pain points
+  and competitors), follow them on social and start a dialogue so you already have a relationship
+  before you need one.
+  > "We want to market to fewer people, not more." (2020-06-15)
+- **The effort-concentration analogy.** $1,000 spread across 1,000 people is $1 each; across 100
+  people, $10 each; across 10 people, $100 each. Replace "money" with **effort/energy** — the same
+  logic says concentrate on ten targets. (This is the job-seeker version of the pricing
+  effort-concentration analogy used elsewhere in the corpus.)
+- **LinkedIn reciprocity.** If someone's *first* interaction is to ask for a job or sell him
+  something, he unfollows, unfriends and blocks them regardless of who they are — "I work in a place
+  of reciprocity." Leading with "I admire your work, do something for me" gives you only a small
+  shot. Mirrors the "genuinely help first" reciprocity ethic of §11 and the anti-desperation
+  positioning of §3.
+  > "Nobody that wants to build a real relationship with me would start it that way… I work in a
+  > place of reciprocity." (2020-06-15)
+- **Work anywhere — geography isn't a constraint.** You can work with anyone anywhere; in **24 years
+  of running a business he has met face-to-face fewer than 15%** of his clients `[self-reported]`. Go
+  where the market is (US, UK, Germany, etc.); "you won't get there by trying to be all things to all
+  people." Reinforces the focus/positioning discipline of §3.
+
+---
+
 ## See also
 
 - [[wiki/topics/pricing/pricing]] — value-based pricing, "price the client not the job,"
@@ -1355,6 +1582,9 @@ Full value-pricing treatment: [[wiki/topics/pricing/pricing]].
 - [[wiki/sources/2019-03-04-yt-dr0ntxYFEWs]] — "Stop Losing Money – How to Find Your Break
   Even Point" (Errol Gerson=CONTEXT guest; Chris's runway doctrine: charge more → longer sales
   cycles → hold cash; 3-months-peace; $250k deal >1yr), 2019-03-04
+- [[wiki/sources/2019-05-07-yt-2sqUDzorHLU]] — "Why I Don't Have A Business Partner Anymore"
+  (business principle: the "prenup"; equal financial commitment; wanting a partner reveals a
+  skill-gap to fill yourself — partnership *story* is biography), 2019-05-07
 - [[wiki/sources/2019-06-10-yt-eQo2UPIRxZo]] — "Improvement, Accountability & Focus — Coaching
   Young Guns S2" (royalty vs. licensing deal structures; packaging fees to scale; "designers
   assume, professionals ask"), 2019-06-10
@@ -1366,6 +1596,21 @@ Full value-pricing treatment: [[wiki/topics/pricing/pricing]].
 - [[wiki/sources/2019-09-17-yt-SKlCnawfQQE]] — "Are you Becoming Obsolete? Innovate Don't
   Iterate" (define by purpose not what you do; Kodak/Blockbuster/Tower/Western Union;
   task/gap/opportunity white-space exercise; long-term plans a fantasy), 2019-09-17
+- [[wiki/sources/2020-01-31-yt-SduKH5rf850]] — "Hiring Your First Employee As An Entrepreneur"
+  (the intern bridge: Maker→Entrepreneur Hat; document functions; hire least-essential first;
+  paid intern + mentorship-as-comp; keeper self-identifies; buy back time; "dibs"), 2020-01-31
+- [[wiki/sources/2020-02-20-yt-kk9kJIg8SXI]] — "Find & Hire Your First Freelancer"
+  (exact-style portfolio match; subcontractor traits; trust your gut; the bench of 12 across
+  low/mid/high price; short paid trial), 2020-02-20
+- [[wiki/sources/2020-03-25-yt-082H4FftCY8]] — "How To Double Your Income As A Solopreneur"
+  (bid-buildup: price as if you had to hire at/above your level + roles + profit reveals
+  underpricing; optionality; solo→team ladder), 2020-03-25
+- [[wiki/sources/2020-05-22-yt-O6Zordo0OXE]] — "How To Give Feedback To Teams That Empower &
+  Engage Creatives" (feel→why→what→hand-back→recommend-if-stuck→negotiate; the silence drill;
+  "you can't be the only creative genius in the room"), 2020-05-22
+- [[wiki/sources/2020-06-15-yt-CvUPNobpqZ4]] — "Six Tips to Help You Get Hired Out of Design
+  School" (Chris segments only: market to fewer; research ≤10 companies FBI-style; LinkedIn
+  reciprocity; work anywhere / <15% clients met face-to-face), 2020-06-15
 - [[wiki/sources/2022-12-01-yt-Qn5PPMhHkXM]] — "How I Scaled My Creative Agency To $80M"
   (I do / We do / You do), 2022-12-01
 - [[wiki/sources/2022-12-15-yt-6Thuc_W_dDU]] — "5 Books That Made Me A Millionaire"

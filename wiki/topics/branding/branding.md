@@ -2,7 +2,7 @@
 type: hub
 domains: [branding]
 updated: 2026-07-18
-tags: [branding, personal-branding, unbland, brand-strategy, positioning, storytelling, shadow-work, two-word-brand, logo, logo-critique, identity, identity-system, timelessness, style, packaging, brand-equity, shelf-presence, private-label, brand-filter, go-to-person, sub-brand, order-taker, do-good-work, flip-the-switch, branding-vs-marketing, marketing]
+tags: [branding, personal-branding, unbland, brand-strategy, positioning, storytelling, shadow-work, two-word-brand, logo, logo-critique, identity, identity-system, timelessness, style, packaging, brand-equity, shelf-presence, private-label, brand-filter, go-to-person, sub-brand, order-taker, do-good-work, flip-the-switch, branding-vs-marketing, marketing, halo-bias, specialize-externally, generalize-internally, own-the-client-relationship, portfolio, worst-piece-rule]
 ---
 
 # Branding — hub
@@ -567,6 +567,102 @@ on the *branding-vs-marketing debate* itself — an anti-tribalism position. (20
   disciplines. (2019-08-29) [[wiki/sources/2019-08-29-yt-yK7Rk7Oe588]] (Sharpens Framework 30's
   identity-design ≠ brand-strategy line into a critique of the field's loose use of the word.)
 
+### Framework 33 — "Your work alone won't get you more work": move upstream, own the client relationship, put your face/story forward
+
+From a 2019 one-on-one coaching episode in which **Chris coaches Priscilla** (Priscilla =
+CONTEXT, not persona), a subcontracting designer who believes the work should speak for
+itself. Chris's rebuttal is a positioning thesis that sharpens Framework 29 (differentiate
+or self-commoditize) and Framework 30 (move up to the strategist): for the vast majority,
+craft alone does not sell — story, positioning, and owning the relationship do. (2019-11-22)
+[[wiki/sources/2019-11-22-yt-sRlJzrDa8Ak]]
+
+- **The thesis — better work alone won't win work.** Only a "very rare top 5%" of creatives
+  are sought purely for craft; the other ~95% sit in a sea of undifferentiated designers and
+  must compete on more than the work. Believing that doing *better work* (while ignoring
+  marketing, storytelling, narrative, and communicating beliefs/values) will get you more
+  work is "the mistake that creative people make." Chris credits the framing to **Allan Dib**
+  (*The 1-Page Marketing Plan*) and is explicit he is **not** saying good work isn't worth it —
+  it is necessary but not sufficient. (2019-11-22) [[wiki/sources/2019-11-22-yt-sRlJzrDa8Ak]]
+- **Move upstream to the strategic thinker.** Offering "logo or design services" puts you
+  against tens of thousands worldwide (too many competitors → compete on price); niching so
+  narrowly there's no market is the opposite failure. The escape is to move *upstream* toward
+  strategic thinking, where there's less competition — differentiating through positioning and
+  a personal brand. (2019-11-22) [[wiki/sources/2019-11-22-yt-sRlJzrDa8Ak]] (Same positioning
+  band — enough competitors to have a market, few enough to command a premium — as Frameworks
+  3, 29.)
+- **Own the client relationship.** > "Whoever commands the relationship with the client makes
+  the most amount of money." An intermediary who owns the relationship must mark up on top and
+  carries the risk, so they can't afford your rate — put yourself on the front line doing the
+  hard client conversations yourself. (2019-11-22) [[wiki/sources/2019-11-22-yt-sRlJzrDa8Ak]]
+- **The Joshua-Bell-in-the-subway / venue argument (via Allan Dib).** A world-class violinist
+  who commands ~$1,000/minute in an opera house made pocket change playing the same ~$3M
+  violin for the same time in a subway. > "Same musician, same three million dollar instrument,
+  presented in a different light, a different venue — totally different results." The venue and
+  the expectation (suit, ticket, plush seats, status) tell the audience what it's worth. Lesson:
+  > "you're allowing other people to control the framing of who Priscilla is… and you have to do
+  it on your own." (2019-11-22) [[wiki/sources/2019-11-22-yt-sRlJzrDa8Ak]] (This is Framework 3's
+  reframing / "positioning is the art of the frame" applied to *who frames you* — don't let an
+  employer or intermediary do it.)
+- **Story and work are inseparable — even the top 5% have strong personal branding.** Aaron
+  Draplin: > "his story and his work are inseparable" — the outsider Midwesterner / underdog
+  story carries marks that are merely "good… okay" in the pantheon of great logos. Tibor Kalman
+  became famous for his thinking *and* for being quotable, opinionated, and absolutist about
+  design. So lean into who you are — > "to run away from yourself would feel disingenuous and
+  inauthentic." Identity words function as "code words" (French, New York) that let people fill
+  in assumptions, so choose the words of your simple story carefully. (2019-11-22)
+  [[wiki/sources/2019-11-22-yt-sRlJzrDa8Ak]] (Bridges Part 1 client positioning to the Part 2
+  *Unbland* thesis — Frameworks 8, 11; Draplin is the credited origin of that framework.)
+
+### Framework 34 — Specialize externally, generalize internally (the halo bias) + the worst-piece portfolio rule
+
+From a 2020 LMU classroom Q&A answering a student anxious about being pressured to niche
+while having many passions. Single-speaker; all substantive content is **Chris Do** (the
+student and "Diego" are CONTEXT). This reconciles the niching tension that Frameworks 18
+("pick one"), 28 ("flip the switch"), and 29 ("go-to person") leave open — *how* to niche
+without killing the parts of yourself that don't fit the lane — and names the payoff
+mechanism. (2020-03-19) [[wiki/sources/2020-03-19-yt-TmPHqX2P3vM]]
+
+- **Specialize externally, generalize internally — "the critical difference."** Show the
+  WORLD one thing you go deep on so you become the known expert (this is what earns money,
+  work, and opportunity); keep pursuing ALL your other passions *privately*.
+  > "You probably should specialize externally while you remain a generalist internally. This
+  is the critical difference." The internal generalist stays *rich internally* (fulfilled — he
+  cites his own private study of philosophy, psychotherapy, typography); the external
+  specialist gets *rich externally* — > "meaning money in the bank." (2020-03-19)
+  [[wiki/sources/2020-03-19-yt-TmPHqX2P3vM]] This resolves the WIN-Venn / "pick one" anxiety
+  (Framework 18): you don't have to *abandon* your other loves, only edit what you *show*.
+- **The halo bias is the payoff engine.** > "The halo bias is: if you're good at one thing, you
+  must be good at everything." Showing the world one thing you're excellent at makes people
+  assume you're excellent broadly, so adjacent doors open once you reach superstar/expert
+  credibility. It **cuts both ways** — if your one visible thing looks bad, they assume you're
+  bad at everything. > "You can still love all those things that you like to do — you just pick
+  a lane and go deep on that and put that face into the world, because the halo bias works for
+  you." (2020-03-19) [[wiki/sources/2020-03-19-yt-TmPHqX2P3vM]] (This is the *mechanism* behind
+  Framework 28's "get known for one thing, then flip the switch" and Framework 29's go-to
+  person — mastery in one visible domain is what makes the adjacent opportunities appear.)
+- **The worst-piece portfolio rule — show only 3–4.** Edit ruthlessly: you need only **three**
+  strong pieces, not fourteen, because reviewers judge you by your *worst* piece and imagine the
+  rest of your work is like it. > "They look at the worst piece and they imagine the rest of your
+  work like that… so don't put anything you're not super proud of. Be merciless, be vigilant in
+  what you keep." `[self-reported]` he got his first advertising job by sending just **four**
+  conceptual pieces in a FedEx box. (2020-03-19) [[wiki/sources/2020-03-19-yt-TmPHqX2P3vM]]
+  (Same "curate hard" instinct as Framework 33's "three best case studies.")
+- *Credited context (not Chris's origination):* **Blair Enns** — creative people are addicted to
+  the new and the novel and tire of repetition, and this addiction works *against* our ability to
+  market ourselves, develop expertise, and command the greatest value (so external specialization
+  requires killing that desire). **Jordan Peterson** — creatives are by nature *divergent*
+  thinkers rather than convergent, so a little discipline to "pick a lane" pays off (creatives
+  produce immeasurable value — his Sistine Chapel / Eiffel Tower examples, figures unverified).
+  Both are CONTEXT, cited approvingly. (2020-03-19) [[wiki/sources/2020-03-19-yt-TmPHqX2P3vM]]
+
+> ⚠️ NOTE (tension, reconcilable — not a hard contradiction): three months before Framework 33,
+> Chris teaches that branding and marketing are converging "blood cousins, maybe twins"
+> (2019-08-29) [[wiki/sources/2019-08-29-yt-yK7Rk7Oe588]]; in Framework 33 he calls design,
+> branding, and marketing "separate disciplines you could each study for 8–10 years"
+> (2019-11-22) [[wiki/sources/2019-11-22-yt-sRlJzrDa8Ak]]. Reconciliation: he treats them as
+> *distinct crafts that overlap and converge* — a solo designer needs enough marketing (probably
+> content marketing) to showcase work, not mastery of all three. Not presented as a reversal.
+
 ---
 
 ## Part 1b — The blind client-engagement workflow (The Process, 2015)
@@ -859,6 +955,14 @@ Chris's signature exercise, refined across the 2023 masterclass and AdobeMAX key
   [[wiki/sources/2015-03-24-yt-FYHD1fBKZDk]]
 - **Dan Sullivan** — the **three-year question** ("what has to have happened for you to be
   happy?"), used as a career-positioning tool. [[wiki/sources/2018-11-22-yt-3el7kOfTPK4]]
+- **Allan Dib** (*The 1-Page Marketing Plan*) — "better work alone won't get you more work,"
+  and the Joshua-Bell-in-the-subway venue/framing anecdote.
+  [[wiki/sources/2019-11-22-yt-sRlJzrDa8Ak]]
+- **Blair Enns** — creatives' addiction to novelty works against marketing, expertise, and
+  commanding value (the discipline case for external specialization).
+  [[wiki/sources/2020-03-19-yt-TmPHqX2P3vM]]
+- **Jordan Peterson** — creatives as *divergent* (vs. convergent) thinkers; a little
+  "pick a lane" discipline pays off. [[wiki/sources/2020-03-19-yt-TmPHqX2P3vM]]
 - **Guy Kawasaki** (hire A+ players) and **Tony Robbins** (people like people who are like
   themselves — the match-and-mirror basis) — credited in passing.
   [[wiki/sources/2015-03-24-yt-FYHD1fBKZDk]]; [[wiki/sources/2015-04-28-yt-KSGzJiK9Uz8]]
@@ -916,6 +1020,13 @@ Chris's signature exercise, refined across the 2023 masterclass and AdobeMAX key
   2018-05-26.
 - [[wiki/sources/2019-06-27-yt-A24V7CUWe4M]] — *Building A Brand* Ep 6: logo design process
   with a client ("identify, not explain"). 2019-06-27.
+- [[wiki/sources/2019-11-22-yt-sRlJzrDa8Ak]] — "Your Work [ALONE] Won't Get You More Work"
+  coaching w/ Priscilla (better work alone won't win work — move upstream, differentiate,
+  own the client relationship; Joshua-Bell venue framing via Allan Dib; Draplin/Kalman
+  story-and-work-inseparable). 2019-11-22.
+- [[wiki/sources/2020-03-19-yt-TmPHqX2P3vM]] — "Specialize or Generalize" LMU Q&A (specialize
+  externally / generalize internally; the halo bias; show only 3–4 pieces / judged by your
+  worst; Blair Enns & Jordan Peterson). 2020-03-19.
 - [[wiki/sources/2019-08-29-yt-yK7Rk7Oe588]] — "What Is The Difference Between Branding &
   Marketing?" roundtable w/ Fabian Geralt & Melinda Livesey (positioning = occupying a space in
   the mind; branding & marketing are converging "blood cousins"; anti-tribalism; Godin's modern

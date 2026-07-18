@@ -2,7 +2,7 @@
 type: hub
 domains: [mindset]
 updated: 2026-07-18
-tags: [mindset, self-belief, discipline, decision-making, teaching-philosophy, reframing, resilience, learning, imposter-syndrome, stoicism, momentum, integrity, self-doubt, growth-mindset, self-directed-learning, introvert, authenticity, expectation, action-bias, goal-setting, overwhelm, public-commitment, effort, credentials, be-of-service, career-path, positioning, goal-clarity, chunking, prism-self, comparison, knowledge-vampire, superpower, ikigai, sacrifice, modeling, value-exchange, education, gratitude, delayed-gratification, emotional-detachment, out-hustle, anti-planning, survival-mode, self-responsibility, innovate-vs-iterate, purpose-over-product, white-space, empathy-exercise, heroes, run-towards-fear, belief-precedes, compelling-event, hold-beliefs-loosely, massive-action, memento-mori, small-steps, work-on-yourself, results-over-being-right, audience-relative-signals, flaw-acceptance]
+tags: [mindset, self-belief, discipline, decision-making, teaching-philosophy, reframing, resilience, learning, imposter-syndrome, stoicism, momentum, integrity, self-doubt, growth-mindset, self-directed-learning, introvert, authenticity, expectation, action-bias, goal-setting, overwhelm, public-commitment, effort, credentials, be-of-service, career-path, positioning, goal-clarity, chunking, prism-self, comparison, knowledge-vampire, superpower, ikigai, sacrifice, modeling, value-exchange, education, gratitude, delayed-gratification, emotional-detachment, out-hustle, anti-planning, survival-mode, self-responsibility, innovate-vs-iterate, purpose-over-product, white-space, empathy-exercise, heroes, run-towards-fear, belief-precedes, compelling-event, hold-beliefs-loosely, massive-action, memento-mori, small-steps, work-on-yourself, results-over-being-right, audience-relative-signals, flaw-acceptance, seek-discomfort, freedom-over-security, freedom-business, compartmentalize, present-self, story-you-tell, safe-to-fail, pareto-school, expert-vs-master, clarity-through-articulation, name-three-things, reading-method]
 ---
 
 # Mindset — hub
@@ -1995,6 +1995,340 @@ and §12's growth-yardstick, plus a dated instance of the §31 emotional-detachm
 
 ---
 
+## 40. Change your relationship with risk — seek the discomfort before the breakthrough
+
+From the 2019 "Taking Risks — Changing Careers" coaching clip
+[[wiki/sources/2019-01-21-yt-YCGRzMN9gEE]] (all 2019-01-21; the audience member who asks the
+opening question is context). Where §34 says "run towards your fear" and §16 says discomfort
+compounds, this is Chris's most explicit statement that risk/ambiguity is a thing to *seek*,
+plus his personal "freedom over security" creed.
+
+- **You can't de-risk a career change — only change how you relate to risk** (2019-01-21):
+  switching verticals is inherently risky and always means starting over ("part of how it
+  works"); the work isn't to make it safe but to change your relationship with risk itself, so
+  uncertainty becomes a *good* thing to seek rather than avoid.
+
+  > "Switching verticals is risky, so now we have to understand our relationship with risk — and
+  > is risk bad or good?" — Chris Do, 2019-01-21
+  > "Our relationship with risk and ambiguity needs to be changed — it should be a good thing,
+  > you should seek that, because the reward will be there for you." — Chris Do, 2019-01-21
+
+- **The discomfort right before a breakthrough is the signal, not the stop sign** (2019-01-21):
+  from motivation literature (his citation, uncredited author) — the moments *before* a big
+  breakthrough are filled with anxiety, fear, apprehension and ambiguity, so most people avoid
+  that nervousness and "never explore that other life that waits for us." The reward sits just
+  past the discomfort.
+
+  > "The moments before a big breakthrough happen in your life are filled with anxiety, with
+  > fear, apprehension, nervousness... so a lot of us avoid that risk, that nervousness, that
+  > uncertainty, and we never explore that other life that waits for us." — Chris Do, 2019-01-21
+
+- **"What got you here won't get you there"** (2019-01-21): your life experiences reward you for
+  doing the same thing repeatedly; anything new "is going to be horrible" at first, but sticking
+  it out through the discomfort is where wonderful things happen. (The same maxim anchors §34's
+  innovate-don't-iterate keynote, 2019-09-17, and recurs in the 2019-11-25 work-life session,
+  §41 — a recurring Chris phrase, not a one-off.)
+
+  > "What got you here won't get you there — so all your life experiences reward you for doing the
+  > same thing over and over again, and anytime you try something new it's going to be horrible,
+  > but the reward is if you stick it out... wonderful things can happen for you." — Chris Do, 2019-01-21
+
+- **The "freedom over security" creed** (2019-01-21): his personal driver — he'd rather shoulder
+  the risk and earn far less than work for someone else, because he values writing his own destiny
+  over security. (The mindset root under §41's "freedom business" and §32's "not motivated by
+  money.") [self-reported]
+
+  > "The thing I loved more than what I was afraid of was the idea I could write my own destiny."
+  > — Chris Do, 2019-01-21
+  > "I'm not a guy who works well for other people... I'm willing to shoulder the risk for the
+  > reward of just freedom. I'd rather make a lot less money, I'd rather work a lot harder than to
+  > work for someone else." — Chris Do, 2019-01-21
+
+---
+
+## 41. Work-life balance = a "freedom business" — compartmentalize
+
+From the 2019 Priscilla work-life-balance coaching episode
+[[wiki/sources/2019-11-25-yt-VN_0fy-jXYc]] (all 2019-11-25; coachee Priscilla and the Futur
+narrator are context). The mindset half of Chris's work-life teaching (the demand/supply and
+lifestyle-business *business mechanics* live in the business hub).
+
+- **Compartmentalize — build "walled-off sections"** (2019-11-25): you get "messed up" when you
+  think about work during family time and about family during work time — then you're good to
+  neither. The fix is designated, walled-off blocks: family days vs. work days, "off the grid"
+  vs. "mommy working time." When it's family time, no amount of money buys an interruption.
+
+  > "Where we get messed up is when we're supposed to be working we're thinking about our family,
+  > and when we're with our family we're worried about the work we haven't finished — and so we're
+  > not good to our work and we're not good to our family." — Chris Do, 2019-11-25
+  > "It's mommy and me time — clients, I'm off the grid, man. You cannot pay me enough money to
+  > interrupt this right now." — Chris Do, 2019-11-25
+
+- **A "lifestyle business" is really a *freedom* business** (2019-11-25): "lifestyle business"
+  usually codes for "I don't want to work much / don't need to make much" — but understood
+  properly it's a **freedom business**: doing what you want, when you want, without worrying about
+  money. Self-imposed small parameters are the line between a validating freedom business and
+  being "a glorified freelancer."
+
+  > "The lifestyle business is a freedom business. You want to be in that — 'I want to do this, I
+  > get to do that' — while not having to worry about money." — Chris Do, 2019-11-25
+  > "What's the difference between having a validating good lifestyle business and being a
+  > glorified freelancer?" — Chris Do, 2019-11-25
+
+- **Front-load the sacrifice, then coast** (2019-11-25): the mechanism behind looking like he's
+  "on vacation all the time" was intensity, focus, systems, protocols and sacrifice paid *upfront*,
+  so he can now coast, travel and choose his time. (An *earlier-era* instance of the front-loaded-
+  sacrifice belief §6 states as principle in 2025 and §18/§29/§24 date across 2017–2018.)
+
+  > "The intensity and the focus and the amount of sacrifice was paid upfront so that I now can
+  > coast into my golden years." — Chris Do, 2019-11-25
+
+- **"Increase demand, decrease the supply of you"** (2019-11-25): you buy that freedom by
+  elevating your profile so your time earns maximum return — and past a certain point the *work*
+  is already good enough (law of diminishing returns), so demand comes from getting the word out
+  about who you are, not from polishing the work further. (The mindset framing of a business-hub
+  mechanic; pairs with §39's "results over being right" effort-allocation.)
+
+  > "We need to increase the demand, decrease the supply of you." — Chris Do, 2019-11-25
+  > "At a certain level the work is good enough. Beyond that I think it's the law of diminishing
+  > return — greater effort does not equal greater result." — Chris Do, 2019-11-25
+
+---
+
+## 42. Picking yourself up from rock bottom — the story you tell when you fall
+
+From the 2020 Pro Group coaching session "How To Pick Yourself Up From Rock Bottom"
+[[wiki/sources/2020-03-23-yt-s5MWPNIBPRQ]] (all 2020-03-23; the coached member is context). A
+mindset framework demonstrated live: recovering from a confidence collapse by changing the
+*narrative* around failure and dropping attachment to an idealized future self. (The ~13-year
+weekly business-coaching biography beat lives in `persona/biography.md`; only the frameworks are
+here.)
+
+- **Everyone falls — the difference is the story you tell yourself** (2020-03-23): what separates
+  people isn't whether they fall but the story they tell when they do; Chris's own story on falling
+  is curiosity, not shame — "what did we learn from this that was necessary to discovering something
+  new?" (The self-directed version of §2's storytelling-animals reframe.)
+
+  > "The difference is the story I tell myself when I fall versus the story you tell yourself when
+  > you fall... when I fall, like, uh-huh, that hurt — what did we learn from this that was
+  > necessary to discovering something new?" — Chris Do, 2020-03-23
+  > "If you look up to me you got to know I fall a lot." — Chris Do, 2020-03-23
+
+- **Attachment to an idealized future self is "the root of your sadness" — live in the present
+  self** (2020-03-23): the schism between your expectations of your *future self* and your *actual
+  self* is what turns your world upside down; practice thinking about only the present self (not the
+  future, not the past) and you'll be happier and able to live in the moment. Test the attachment:
+  ask why you love that future image and how it helps you *today* — if you can't write a good answer,
+  let it go.
+
+  > "Now you have expectations, you have attachment — those are the root of your sadness."
+  > — Chris Do, 2020-03-23
+  > "When there's a schism between your expectations of your future self and your actual self, your
+  > world is turned upside down." — Chris Do, 2020-03-23
+  > "Embrace the change, embrace the pain, embrace that it's gonna suck, embrace that the present
+  > you is already good enough." — Chris Do, 2020-03-23
+
+  > ⚠️ EVOLUTION (consistent, sharpening): "expectation is the root of sadness" (2020-03-23) is the
+  > same belief as §15's "the source of most of our sadness and despair is expectation" (2017-10-03),
+  > and the "attachment" framing echoes §14's ego-as-attachment (2017-09-03) and §31/§39's emotional
+  > detachment. The 2020 addition is the crisp **present-self vs. future-self** axis and the
+  > "house made of assumptions" image below — a deepening, not a contradiction.
+
+- **"A house made of assumptions falls over"** (2020-03-23): don't assume or guess — take the time
+  to understand the problem; doing so establishes credibility, expertise, patience and generosity,
+  while racing to the conclusion throws all of that away. (Echoes his sales-discovery "don't
+  assume" principle; see `sales-clients`.)
+
+  > "When you build a house made of assumptions it's gonna fall over, and that's why I tell you guys
+  > do not assume, do not guess, take the time to understand the problem." — Chris Do, 2020-03-23
+
+- **A practice group is the safest, cheapest place to fail** (2020-03-23): "how we learn is we fail
+  and we make adjustments," so failing in front of a coaching room during a workshop is far better
+  than failing in front of a paying client — and if you can't create a safe space to fail, that
+  itself needs work. Also: labeling a *practice* as a *competition you must win* turns a normal
+  loss into embarrassment; choosing a different word changes the whole experience. (The naming/
+  reframing move of §3's War Jitsu, applied to failure.)
+
+  > "Where else can we fail if we cannot fail in a coaching practice group?" — Chris Do, 2020-03-23
+  > "How we learn is we fail and we make adjustments." — Chris Do, 2020-03-23
+
+---
+
+## 43. The 80/20 of school — "A stands for average"
+
+From the 2019 student Q&A "How To Get More From School"
+[[wiki/sources/2019-11-29-yt-DK6J9bgj5yc]] (all 2019-11-29; students and the Futur recap host are
+context). A named application of the Pareto principle to education that extends §30's education-as-
+value-exchange and the value-over-credentials thread — deliberately ration your effort rather than
+spread it evenly.
+
+- **20% of your instructors teach you almost everything — find them** (2019-11-29): a rigorous
+  program demands more than any student can deliver to every class equally, so concentrating effort
+  is a necessity, not laziness; roughly 20% of your instructors will teach you nearly everything of
+  value, and it's your job to identify which 20% and give the rest little effort.
+
+  > "You can learn everything from 20% of your instructors. It's up to you to decide which 20.
+  > Don't even bother with the other 80 — they're gonna waste your time, and I'll say it that
+  > clearly." — Chris Do, 2019-11-29
+
+- **The Column A / Column B binary sort** (2019-11-29): think in a binary way — Column A (classes to
+  pay attention to) vs. Column B (classes to coast on) — list your teachers and sort them; aim to
+  excel in ~2 of 6 and "do enough to get by" in the rest. Two filters decide Column A: (1) is the
+  class aligned/practical to the career you actually want, and (2) is it portfolio-worthy *and* an
+  example of the work you actually want to do (portfolio-worthy alone isn't enough — a class you
+  hate can be portfolio-worthy and still not qualify).
+
+  > "You can do really well in two classes probably out of six, and the other ones just do enough to
+  > get by." — Chris Do, 2019-11-29
+  > "It is portfolio-worthy, but it's not what I want to do... it has to meet all the criteria,
+  > otherwise you don't put in category A." — Chris Do, 2019-11-29
+
+- **Chasing an A in every class makes you average** (2019-11-29): the common mistake is trying for
+  the Dean's List across the board; excelling everywhere leaves you merely average. Better to excel
+  in two and possibly get a C — or even flunk — the rest.
+
+  > "The mistake that we all make is we try to get an A in every single class... and then you wind
+  > up just being average. That's what that A stands for — average." — Chris Do, 2019-11-29
+  > "You just want to excel in two and possibly get a C in every other one — possibly even flunk. It
+  > doesn't matter." — Chris Do, 2019-11-29
+
+- **"Listen to what you're told, but make your own judgment"** (2019-11-29): take what you need and
+  disregard the rest — even choosing to ignore *all* of a given source is a valid exercise of that
+  judgment. (The same self-directed-learning stance as §7's 2016-06-28 material.)
+
+  > "Listen to what you're told, and then use your judgment to keep what you want." — Chris Do, 2019-11-29
+
+---
+
+## 44. Expert vs. master — a title you accept vs. a title others bestow
+
+From the 2020 "Thinking Critically" debate "Imposter Syndrome: Expertise Vs. Mastery"
+[[wiki/sources/2020-01-21-yt-4tKF7Gp0414]] (all 2020-01-21; guest Alec Miller is context and does
+NOT train the persona). This sharpens the heavily-covered expertise/imposter theme (§9, §37) with
+two durable distinctions.
+
+- **Expert = eye of the beholder (a title you can accept); master = a higher category others
+  bestow** (2020-01-21): expertise is "in the eye of the beholder, just like value, beauty and
+  fairness" — others decide, you don't declare it. An expert is simply "someone who knows a little
+  more than you" or "someone who can help you solve a problem" (a Seth Godin definition, his
+  citation). *Masters* are a separate, higher category that other people call you — and that you'd
+  never claim for yourself.
+
+  > "The expert is in the eye of the beholder... so I'm not running around claiming that I am an
+  > expert at anything." — Chris Do, 2020-01-21
+  > "There's a different category for these people... they're considered masters, and somebody else
+  > will call them that; I doubt that they would call themselves that." — Chris Do, 2020-01-21
+  > "I'm not an expert at that, but I can tell you the results that I've gotten, and you can discern
+  > for yourself." — Chris Do, 2020-01-21 (his default script when called an expert)
+
+- **Subjective vs. objective measures of expertise** (2020-01-21): objective measures are yes/no —
+  won an Olympic medal, won a Clio or Academy Award, published, graduated with distinction;
+  everything else (a teacher, coach or therapist who helps you) is subjective and debatable. Both
+  are legitimate; conflating them is the error.
+
+- **Everyone starts as an impostor — so just start sharing** (2020-01-21): everybody begins as a
+  "faker for a minute" (even a design graduate has no clients or income yet), so waiting to "arrive"
+  before making content robs creatives of the ability to share and help. Following Gladwell's
+  10,000-hours rule would disqualify nearly everyone. This is permission to *pursue a path*, not
+  permission to lie. (Pairs with §9's imposter material and the content-strategy hub's "just start.")
+
+  > "So many of us suffer from impostor syndrome that we're not willing to make content because
+  > we're waiting to arrive at becoming an expert." — Chris Do, 2020-01-21
+  > "Everybody starts as an impostor at some point, or a faker — everybody." — Chris Do, 2020-01-21
+
+- **Imposter syndrome = "the inability to recognize what you're good at"** (2020-01-21): the root is
+  being unable to accept your own achievement because of some "secret knowledge" you think
+  invalidates it ("I'm just photo-bashing," "my dad had money"). The fix: disclose the thing you
+  think discredits you — if people still value you, you begin to overcome it. (The same
+  self-acceptance definition as §37's "true confidence = strengths *and* flaws," dated three years
+  after 2017's earliest framings.)
+
+  > "[Imposter syndrome is] just your inability to recognize what you're good at. Period."
+  > — Chris Do, 2020-01-21
+
+- **Radical honesty, filtered for relevance** (2020-01-21): advocate transparent honesty but don't
+  front-load *everything* — disclose what's **relevant** to the person deciding; volunteering "the
+  14 times we screwed up" unprompted isn't relevant, but answer honestly if asked. Turning an intro
+  into a wall of disclaimers is "lawyers talking to lawyers, not humans talking to humans."
+
+  > "That's not humans talking to humans, that's just lawyers talking to lawyers, and I don't think
+  > that's helpful to anybody." — Chris Do, 2020-01-21
+
+---
+
+## 45. Confidence rebuilt through teaching — "clarity through articulation"
+
+From the 2020 "How To Build Self Confidence and Discover What You Know"
+[[wiki/sources/2020-01-27-yt-bBEYQqHqR98]] (all 2020-01-27; Futur team members are context). The
+*mechanism* by which teaching rebuilds belief in what you know — a sharpening of §7's "when one
+teaches, two learn." (The ~2000 burnout → Art Center/Otis teaching origin story is biography and
+lives in `persona/biography.md`; only the mechanism is here.)
+
+- **Clarity through articulation** (2020-01-27): working alone you make "a thousand decisions a
+  minute" but never explain them, so you're not even aware of your own process; teaching forces you
+  to articulate those decisions, which surfaces knowledge you didn't know you had and reveals its
+  value.
+
+  > "When you teach you learn about how you think, and you gain clarity through articulation."
+  > — Chris Do, 2020-01-27
+  > "When you work on your own you're making a thousand decisions a minute... but you never have to
+  > explain it to anybody... The problem is you're not even aware of your own process." — Chris Do, 2020-01-27
+
+- **The best coaches often never reached flow-state mastery** (2020-01-27): a natural like Michael
+  Jordan can't explain how he does it because he never had to think about it; someone who had to
+  consciously deconstruct the mechanics can actually teach them. Conscious struggle is a *teaching*
+  asset, not a deficiency. (Connects to §7's Five-Ingredients deconstruction — the skill is making
+  the implicit explicit.)
+
+  > "To coach it, to train people, it's much better that you get the person who never quite made it
+  > to that level, because they've had to really sit down and think what is it that's happening
+  > here." — Chris Do, 2020-01-27
+  > "Things that you thought everybody must know, turns out very few people actually know."
+  > — Chris Do, 2020-01-27
+
+---
+
+## 46. Two crisis-coping tools — "name the three things" and how to read a book
+
+From two early-COVID (April 2020) Futur clips: the Wesley Little anxiety conversation
+[[wiki/sources/2020-04-02-yt-wIzlb_iYZjY]] and the work-from-home compilation
+[[wiki/sources/2020-04-03-yt-ho3lPg4C6gg]] (both multi-speaker; only Chris-attributed segments are
+promoted — therapist Wesley Little and the Futur team are context, not persona). Two small,
+self-contained tools from the same fortnight.
+
+- **Overwhelm remedy: "name the three things you need to do right now" and become your own boss**
+  (2020-04-02): when bouncing between a thousand activities until his nerves feel like "a ball of
+  rubber bands twisted and knotted together," Chris asks himself the three things he must do right
+  now, prioritizes that short list, and does #1, then #2, then #3 — ignoring everything else. This
+  "very quickly quiets the noise." (A concrete companion to §18/§25's goal-decomposition and §31's
+  daily practices.)
+
+  > "I say to myself, what are three things you just need to do right now, and prioritize that
+  > list... in that way I become my own boss." — Chris Do, 2020-04-02
+  > "That allows me to very quickly quiet the noise and the bouncing between different activities...
+  > and then just hunker down — boom, one, two, three — and then I don't think about anything else."
+  > — Chris Do, 2020-04-02
+
+  His other coping method in the same clip — reframing the anxious internal "story" (crafted "out of
+  thin air," since most of what we do is "based on feelings and opinions," not fact) into a better
+  one — is the same narrative reframe already covered in §2 (change your story) and §27 (selective
+  filter), now applied to pandemic anxiety; cross-referenced, not re-counted.
+
+- **How to read a book — TOC first, read twice, annotate as building blocks** (2020-04-03): Chris's
+  concrete learning method (extends §7's output-cycle and §19's "consume with a purpose"): (1) read
+  the **table of contents** first as a high-level preview; (2) **read the book twice** — first pass
+  skim in one sitting reading only the first sentence of each paragraph, second pass slow, in
+  90-minute blocks with breaks so the mind can digest; (3) create an annotation **legend/key code** —
+  highlight key phrases, underline things to cross-reference with other material, and box ideas you
+  can reuse as "a building block" for a future talk, workshop or presentation.
+
+  > "Read the book twice. Quickly skim through the book on the first pass... just read the first
+  > sentence of each paragraph. Do this in one sitting." — Chris Do, 2020-04-03
+  > "Draw a box around ideas that you can use and repurpose. Think of this as a building block for
+  > something else — perhaps a talk, workshop, or presentation you plan to give." — Chris Do, 2020-04-03
+
+---
+
 ## Cross-cutting patterns
 
 - **Language is the lever.** War Jitsu (§3), "share" not "teach" (§7), defining words like
@@ -2079,6 +2413,9 @@ and §12's growth-yardstick, plus a dated instance of the §31 emotional-detachm
 - [[wiki/sources/2018-12-05-yt-mruxbUxEUS4]] — "Take Full Responsibility for Your Life"
   (take 100% responsibility / self-authorship, parents' outdated "operating system",
   "when you're 50" visualization) — 2018-12-05
+- [[wiki/sources/2019-01-21-yt-YCGRzMN9gEE]] — "Taking Risks — Changing Careers" (change your
+  relationship with risk / seek discomfort, "freedom over security" creed, "what got you here won't
+  get you there") — 2019-01-21
 - [[wiki/sources/2019-04-01-yt-J0m-fwEQ5TQ]] — Melinda Livsey Ep. 16 "How Do I Market My Product?"
   (cited here for anti-planning mindset: "weird business person, not motivated by money") — 2019-04-01
 - [[wiki/sources/2019-04-08-yt-apqbrvu2VlE]] — Melinda Livsey Ep. 17 "How Do You Find Customers?"
@@ -2103,6 +2440,21 @@ and §12's growth-yardstick, plus a dated instance of the §31 emotional-detachm
 - [[wiki/sources/2019-10-24-yt-cbwSXFNATOY]] — "Why You Don't Need A Mentor — Find Heroes"
   (mentors-don't-scale, find heroes as a compass, "hijack" without permission, "many heroes";
   multi-speaker — Chris segments only) — 2019-10-24
+- [[wiki/sources/2019-11-25-yt-VN_0fy-jXYc]] — "Find Work-Life Balance – The Struggle"
+  (compartmentalize / walled-off sections, "lifestyle business is a freedom business",
+  front-loaded sacrifice, "increase demand, decrease supply of you") — 2019-11-25
+- [[wiki/sources/2019-11-29-yt-DK6J9bgj5yc]] — "How To Get More From School" (80/20 of school,
+  Column A/B binary sort, "A stands for average") — 2019-11-29
+- [[wiki/sources/2020-01-21-yt-4tKF7Gp0414]] — "Imposter Syndrome: Expertise Vs. Mastery"
+  (expert = beholder's title vs. master = others bestow, subjective vs. objective, imposter =
+  inability to recognize what you're good at; multi-speaker — Chris only) — 2020-01-21
+- [[wiki/sources/2020-01-27-yt-bBEYQqHqR98]] — "How To Build Self Confidence and Discover What You
+  Know" (clarity through articulation, best coaches never reached flow-state mastery; multi-speaker —
+  Chris only) — 2020-01-27
+- [[wiki/sources/2020-04-02-yt-wIzlb_iYZjY]] — "Coping With Fear & Anxiety In Difficult Times"
+  ("name the three things" overwhelm remedy / become your own boss; multi-speaker — Chris only) — 2020-04-02
+- [[wiki/sources/2020-04-03-yt-ho3lPg4C6gg]] — "Work From Home Setup" (how to read a book: TOC first,
+  read twice, annotation legend / building blocks; multi-speaker — Chris only) — 2020-04-03
 - [[wiki/sources/2019-08-12-yt-f7T1Zs28Deo]] — ★ AIGA 2019 keynote "What You Believe Becomes
   Reality" (belief cycle, interpretation, War Jitsu, inner-critic exercise) — 2019-08-12
 - [[wiki/sources/2020-06-09-yt-ujxvy5NjeRQ]] — ★ "How To Learn Anything" whiteboard session

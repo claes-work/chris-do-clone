@@ -502,6 +502,12 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2021-01-12 | ★ [How To Get Attention In The Market](2021-01-12-yt-0nVNU5GFhm8.md) | content-strategy; branding; sales-clients | Chris solo webinar; social-media-not-a-portfolio, niche+long-game, stand-out-1/8-inch (Errol Gerson), 3 honest reasons for free work + trade-up; title says "2022"; L3-candidate |
 | 2021-01-14 | ★ [7 Ways To Build & Earn Trust In 5 Minutes](2021-01-14-yt-sD3eS0XYl1I.md) | sales-clients; mindset; business | Chris solo; named 7-part trust framework (shared vocab, small Qs, reflect back, reduce risk, "I don't know", transparent, patient) + empathy exercise; L3-candidate |
 | 2021-01-18 | ★ [Hardest Thing To Do As A Boss — Fire Someone](2021-01-18-yt-bDwrWpgEDfw.md) | business; mindset | Chris + unnamed co-host (context); firing script + no-surprise 2-3 warnings over 6-9mo w/ criteria; fit principle; L3-candidate |
+| 2021-01-21 | [My Former Student Became A Millionaire](2021-01-21-yt-nM0fDSH4bl8.md) | business; mindset; content-strategy; branding | Chris solo; Karen Wang/Dispel Dice Kickstarter case study; apply skills to your OWN ideas, neglected niches = opportunity; student bio = context |
+| 2021-01-26 | ★ [What To Say In A Meeting](2021-01-26-yt-wW7duEovGJM.md) | sales-clients; mindset; content-strategy | Chris coaches mentee (Encina outro = context); a junior should listen/observe/take great notes, not offer unsolicited ideas; ask to shadow; career is a marathon; L3-candidate |
+| 2021-01-28 | [7 Mistakes To Avoid When You Start A Business](2021-01-28-yt-F8dQD0wUi8U.md) | business; sales-clients; pricing; content-strategy; mindset | Chris frames guest **Tim Brown**'s 7 freelancer→agency mistakes — mistakes = Tim-attributed (context); only Chris's intro + VBP interjection train |
+| 2021-02-02 | ★ [What Is Brand Strategy And How To Do It (Step 1)](2021-02-02-yt-TqczYbFPWnk.md) | branding; business | Chris solo discovery demo; strategy = goal + path-to-goal, show-don't-explain via 7-question script (Coaching Habit), funnel math, value-based bid; ↔ Step 2; L3-candidate |
+| 2021-02-05 | ★ [9 Tips For Content Creation](2021-02-05-yt-0arou9boK8k.md) | content-strategy; mindset | Chris solo at 1M subs/800+ vids; consistency, persist-and-resist, failure = tuition, done > perfect, "what makes you weird makes you wonderful"; Greg Gunn outro = context; L3-candidate |
+| 2021-02-09 | ★ [Brand Strategy Step 2: What You Need To Know Before You Start](2021-02-09-yt-EVsC832qvic.md) | branding; business; mindset | Chris solo (Pro Group); strategist needs broad business literacy + unbiased facilitation; "everything is marketing", "inform or inspire", verify claims vs data; ↔ Step 1; L3-candidate |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -551,4 +557,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_531 videos ingested (L2) so far._
+_537 videos ingested (L2) so far._

@@ -598,6 +598,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2022-07-28 | [Is Having a Personal Brand & Building Influence Important?](2022-07-28-yt-WxWjt6_-waY.md) | branding; content-strategy | ⚠️ NOT Chris — Daniel Priestley clip (5 Ps, functionality-vs-vitality, Eiffel-Tower ecosystem); context/do-not-train |
 | 2022-08-02 | [Personal Branding Masterclass (w/ Daniel Priestley)](2022-08-02-yt-zafDOeWNAxg.md) | branding; business; content-strategy | ⚠️ ~90% Daniel Priestley (context/do-not-train); Chris trains only on Socratic method + anti-funnels + NEW: Futur's own 40Q scorecard (Ben Burns) |
 | 2022-08-04 | [Quality vs Quantity on YouTube (Brendan Kane)](2022-08-04-yt-0kVR17hqLSo.md) | content-strategy; business | ⚠️ NOT Chris — Brendan Kane (Hookpoint) guest; Chris reframes as "facts/fun/feelings" (not new); context/do-not-train |
+| 2022-08-09 | [Engineer Videos To Go Viral (Brendan Kane)](2022-08-09-yt-Lty8_Qi9R2A.md) | content-strategy; business | ⚠️ ~95% Brendan Kane guest (research-first, gold/silver/bronze); Chris 2 framing Qs; context/do-not-train |
+| 2022-08-16 | [Solving Your Clients UX Design Challenges](2022-08-16-yt-jrJ_HFQ3cEU.md) | design-craft | ⚠️ NOT Chris — guest Vincent Brethwaite (InVision), heuristic evaluation; Chris silent; context/do-not-train |
+| 2022-08-16 | [From Broke College Student to Living Richly at 24](2022-08-16-yt-t1ggWMNshsY.md) | mindset; pricing; business | ⚠️ guest 3D-artist success story = context; Chris host trains only on anti-undersell/market-rate + wealth warning |
+| 2022-08-18 | [YouTube Shorts: The Genius Of Jake Fellman](2022-08-18-yt-1YEJ_PN-HNM.md) | content-strategy; mindset | ⚠️ Jake Fellman guest = context; Chris framing only (The Dip); nothing new |
+| 2022-08-25 | [Building An Audience of 20 Million In 1 Year (Jake Fellman)](2022-08-25-yt-HnrcBS_2RU0.md) | content-strategy; business; mindset | ⚠️ mostly Jake Fellman (context); Chris trains only on NATIVE-LANGUAGE repurposing doctrine; marginal L3 |
+| 2022-08-30 | [3 Networking Strategies That Landed A $50,000 Contract](2022-08-30-yt-hb1UQlfBNKk.md) | sales-clients; content-strategy | ⚠️ NOT Chris — guest/member designer story (Dean Jackson/Phil Jones/Selena Soo tactics); context/do-not-train |
+| 2022-09-01 | [Hire People For Values Not Just For Skill](2022-09-01-yt-qA0p3lf8m98.md) | business; sales-clients | ⟳ dup of Joana Galvao masterclass (2022-08-22); Chris hiring-for-values already covered; Joana = context |
+| 2022-09-06 | [Turn Pain Into Prosperity](2022-09-06-yt-dF1jhPzfpmc.md) | mindset | ⚠️ NOT Chris — guest Ryan Blair (ViSalus, ex-gang) adversity story; context/do-not-train |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -647,4 +655,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_627 videos ingested (L2) so far._
+_635 videos ingested (L2) so far._

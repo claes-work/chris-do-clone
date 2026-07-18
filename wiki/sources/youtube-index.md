@@ -560,6 +560,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2022-01-11 | ★ [Create A Worthy Goal](2022-01-11-yt-Bi16B8s6XI0.md) | mindset; content-strategy | Michael Bungay Stanier workshop (worthy-goal framework = guest/context); Chris-trainable = five-words-or-less distillation + clarity-then-musicality; L3-candidate |
 | 2022-01-20 | ★ [Finding Your Path](2022-01-20-yt-bLVFZRUmocA.md) | mindset; content-strategy | Chris solo; "you don't need a grand mission to START — discover it along the way" (Sinek/Peterson); 21C creator shift, NFTs/Beeple; L3-candidate (purpose reframe) |
 | 2022-01-25 | [Grow Your Business – Business Bootcamp 2022](2022-01-25-yt-QKE7TrbyrQA.md) | business; content-strategy | ⚠️ PROMO — Business Bootcamp 2022 sales video; restates known origin + self-reported credentials; do-not-train persona voice |
+| 2022-01-28 | [Design Thinking vs. Problem Solving](2022-01-28-yt-8wf5W9TavmE.md) | design-craft; business; mindset | ⚠️ NOT Chris — Futur team tutorial (likely "Eric"); follow-up to 2021-10-13; context/do-not-train |
+| 2022-02-10 | [Rose, Thorn, Bud – Problem Solving Method](2022-02-10-yt-LKgXTGHzH50.md) | design-craft; business | ⚠️ NOT Chris — team-led design-thinking tutorial (Rose=positives/Thorn=challenges/Bud=potential); context/do-not-train |
+| 2022-02-15 | [Learn to Get Bigger, Better Client Leads](2022-02-15-yt-H5yJNjoM1Ec.md) | sales-clients; content-strategy | ⚠️ NOT Chris — workshop promo by Matt Silderman (Futur educator); Personal Funnels pitch; context/do-not-train |
+| 2022-02-17 | [How To Find Work/Life Balance – Whiteboard Edit](2022-02-17-yt-K9Pz3nozdec.md) | mindset; business | ⟳ dup-of 2021-10-19 (~5min cutdown of the work-life integration whiteboard); no new material |
+| 2022-03-09 | [How To Get The Highest Quality From iPhone Video](2022-03-09-yt-Q1FA11412cM.md) | content-strategy | ⚠️ NOT Chris — Futur team gear tutorial by Nick Caraz; production-tech; context/do-not-train |
+| 2022-03-10 | [Legal Tax Write-Offs for Designers (w/ CPA)](2022-03-10-yt-UZgf2vKSD5I.md) | business; wealth | ⚠️ Guest CPA Hector Garcia — tax advice = context/do-not-train; Chris trains only on tax-code=algorithm analogy + document-the-narrative |
+| 2022-03-31 | [Build Your Audience On This One Principle](2022-03-31-yt-Beae3jnhaBQ.md) | content-strategy; mindset | Chris solo; "one principle" = reciprocity (Cialdini) = give-first restated; See's Candies/restaurant examples; no new framework |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -609,4 +616,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_589 videos ingested (L2) so far._
+_596 videos ingested (L2) so far._

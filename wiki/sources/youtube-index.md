@@ -553,6 +553,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2021-08-28 | ★ [Bidding Fundamentals — How To Price Projects](2021-08-28-yt-TEg5xGw4Q3U.md) | pricing; sales-clients; business | Chris (Pro Group); undefined-scope bidding — scope-variation funnel, ROM, SWAG, estimate-high + 15% contingency; ⚠️ cost-plus-is-history; L3-candidate |
 | 2021-09-04 | [Animations & Interactions: Dark Mode (Built By Hand)](2021-09-04-yt-BpTMsCL_9Bs.md) | design-craft | ⚠️ NOT Chris — Ben Burns + guests Greg Gunn & Tim Ricks; Webflow animation tutorial (context/do-not-train) |
 | 2021-10-13 | [Change The Way You Solve Problems Using Design Thinking](2021-10-13-yt-MMouHj75YwQ.md) | design-craft; business; mindset | ⚠️ NOT Chris — Futur team member "Eric"; design-thinking methodology (problem-tree, root-cause); context/do-not-train |
+| 2021-10-19 | ★ [Work Life Balance – 90 min Whiteboard Session](2021-10-19-yt-5ZNmZshk8kk.md) | mindset; business; content-strategy | Chris solo; work-life INTEGRATION (MFP: Money/Fulfillment/Purpose × PSS: People/Self/Spirit → find the overlap); rejects balance as zero-sum; ⚠️ evolution vs 2019 compartmentalize; L3-candidate |
+| 2021-12-21 | ★ [Dealing With Negative Feedback – Whiteboard Session](2021-12-21-yt-piwDPirw0E0.md) | mindset; content-strategy; design-craft; sales-clients | Chris solo; full feedback/criticism guide — Criticism = Observation + Judgment, NVC jackal/giraffe, Belief→Action→Result, I-statement giving, learner's mindset; strong L3-candidate |
+| 2021-12-26 | [How To Get Work & Make More Money](2021-12-26-yt-T13xl4XDFc8.md) | sales-clients; content-strategy; business; mindset | Chris Q&A; 3-target-companies + Dan Mall "love letter", raise-rate phone script, multiple-clients-for-leverage; restatement, confirming cite |
+| 2021-12-28 | [Can You Do It All & Be Successful? (Multi-hyphenate)](2021-12-28-yt-udEjBnf02X0.md) | mindset; business | ⚠️ NOT Chris — coach Matt Essam + coachee Connor (context/do-not-train); multi-hyphenate/focus/values-vs-vehicles; contradicts specialize-externally |
+| 2022-01-11 | ★ [Create A Worthy Goal](2022-01-11-yt-Bi16B8s6XI0.md) | mindset; content-strategy | Michael Bungay Stanier workshop (worthy-goal framework = guest/context); Chris-trainable = five-words-or-less distillation + clarity-then-musicality; L3-candidate |
+| 2022-01-20 | ★ [Finding Your Path](2022-01-20-yt-bLVFZRUmocA.md) | mindset; content-strategy | Chris solo; "you don't need a grand mission to START — discover it along the way" (Sinek/Peterson); 21C creator shift, NFTs/Beeple; L3-candidate (purpose reframe) |
+| 2022-01-25 | [Grow Your Business – Business Bootcamp 2022](2022-01-25-yt-QKE7TrbyrQA.md) | business; content-strategy | ⚠️ PROMO — Business Bootcamp 2022 sales video; restates known origin + self-reported credentials; do-not-train persona voice |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -602,4 +609,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_582 videos ingested (L2) so far._
+_589 videos ingested (L2) so far._

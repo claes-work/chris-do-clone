@@ -447,6 +447,10 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2020-05-01 | [Building a Brand, A Design Documentary – Season 1 Trailer](2020-05-01-yt-UDTCC-uyJF0.md) | branding; content-strategy | trailer/montage; Hamilton Family Brewery + Ben Burns + Matthew Encina; ⚠️ Chris absent — Blind/Futur entity context only, does NOT train persona |
 | 2020-05-04 | [Managing Your Team – Should You Let Them Fail?](2020-05-04-yt-fmiX7cN1CnU.md) | business; mindset | let-them-fail leadership: "touch the stove", rubber-band-expansion delegation, over-responsibility vs responsibility; ⚠️ primary coach voice uncertain (likely Chris, unverified) — does NOT train persona pending verification; L3-candidate (gated) |
 | 2020-05-06 | [3 Tips to Have a Long and Successful Creative Career](2020-05-06-yt-WcIKtetf2p8.md) | mindset; content-strategy | start-before-ready / failure=lesson / experiences-compound; ⚠️ Matthew Encina solo (his own life story), NOT Chris — does NOT train persona |
+| 2020-05-11 | [How To Automate Logo Designs for Any Client](2020-05-11-yt-pn8108evPVk.md) | business; design-craft | productize / "pre-loaded, done-for-you" (descriptor words → prebuilt style-scapes, templatized worksheets); ⚠️ unnamed Futur coach, NOT Chris — does NOT train persona |
+| 2020-05-18 | [How To Create Your Ideal Client w/ Greg Hickman](2020-05-18-yt-MBNbFww_bNw.md) | sales-clients; business | train clients during the signing gap, automated onboarding, kill scope creep; ⚠️ 100% guest Greg Hickman — Chris absent, does NOT train persona; greg-hickman entity candidate |
+| 2020-05-22 | ★ [How To Give Feedback To Teams That Empower & Engage Creatives](2020-05-22-yt-O6Zordo0OXE.md) | business; design-craft | Chris's internal team-critique protocol: feel → why → what specifically → HAND the fix back to the maker → recommend only if stuck → negotiate; "don't rob them of their creativity"; the silence drill (3s→5s); "can't be the only genius → you don't scale"; L3-candidate |
+| 2020-05-26 | [Speak More Confidently: An Introverts Guide to Working with Clients](2020-05-26-yt-NmvSuZeDw60.md) | sales-clients; mindset | slow down / deliberate silence, "I don't know" is fine, be curious; ⚠️ Matthew Encina (NOT Chris) — the introvert backstory here is Encina's, must NOT be conflated with Chris's "loud introvert"; does NOT train persona |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -496,4 +500,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_476 videos ingested (L2) so far._
+_480 videos ingested (L2) so far._

@@ -349,6 +349,8 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2019-04-01 | ★ [How do I Market my Product? — w/ Melinda Livsey (Ep.16)](2019-04-01-yt-J0m-fwEQ5TQ.md) | content-strategy; sales-clients; branding; mindset | sell the PROBLEM not the solution; loss/FOMO > gain; "different but better"; "write your thesis paper" deep-research differentiation; win-heart-then-logic; Melinda=context; L3-candidate |
 | 2019-04-08 | ★ [How do you find Customers for Your Product? — w/ Melinda Livsey (Ep.17)](2019-04-08-yt-apqbrvu2VlE.md) | content-strategy; sales-clients; business | problem→solution→product (Brunson); story-mining (spaces/places/things + 5–7pt timeline); funnel-attrition math; "expand the pool"; give-give-give reciprocity; Melinda=context; L3-candidate |
 | 2019-04-10 | ★ [Does Creativity Come From Insecurity? w/ Debbie Millman](2019-04-10-yt-wHhcuix-ir8.md) | mindset; design-craft | BIOGRAPHY-rich: Chris's candid childhood monologue (Vietnamese-immigrant/latchkey, outcast/insecurity, typography as "anchor", knowledge-vampire, "every peak is the base of another mountain"); Debbie=context + entity candidate; L3-candidate |
+| 2019-04-11 | [How Do You See Yourself? How Do Others?](2019-04-11-yt-aBxl1SBERYw.md) | mindset; branding | self-acceptance ("I'm the best judge of my own work — criticism only affirms what I know"); Spock/emotional-compression "sound-limiter" metaphor; external-validation-doesn't-work; 2nd speaker=context |
+| 2019-04-15 | [Design Mentorship Reactions & Tips for Young Designers - Young Guns (S1 finale)](2019-04-15-yt-_VrsBh5h8j4.md) | mindset; design-craft; content-strategy | Young Guns S1 finale montage; Chris: feedback-resilience lens (fold vs rise) + global-talent/representation thesis ("see somebody like themselves in the mirror"); students/co-host=context |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -398,4 +400,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_378 videos ingested (L2) so far._
+_380 videos ingested (L2) so far._

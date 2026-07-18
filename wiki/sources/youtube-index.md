@@ -496,6 +496,12 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2020-12-21 | ★ [Find Your Passion Find Your Purpose](2020-12-21-yt-mcC-6a33RaA.md) | mindset | Chris solo; "read the label from inside the jar"; childhood creative origin story (denied path=poverty); L3-candidate for biography/beliefs |
 | 2020-12-23 | ★ [When to Discuss Budget During a Sales Call — Role Play](2020-12-23-yt-oOKgc-bvX7o.md) | sales-clients; pricing | Chris coaches team member Mo; surface budget early w/o greed; matchmaker positioning, "last chapter", day-rate anchor; L3-candidate |
 | 2020-12-29 | [How To Get Great Clients — Build Better Relationships On Trust](2020-12-29-yt-e17ZASTRBGg.md) | sales-clients; mindset | Chris solo; great clients = trust earned incrementally; core failure = not listening; "just ask them" reframe |
+| 2020-12-31 | [Letting Go Of Perfectionism](2020-12-31-yt-x6KzyyPswYM.md) | mindset; design-craft | Chris solo; healthy iterative vs harmful "only as good as your last creation" perfectionism; Fred Astaire expect-to-struggle anecdote |
+| 2021-01-05 | ★ [Should You Be Honest Or Polite When Talking To Clients](2021-01-05-yt-FxC114VZBzs.md) | sales-clients; mindset | Chris coaches mentee Mo; politeness often = fakeness, be respectful+truthful; have-to/get-to reframe; non-violent communication; L3-candidate |
+| 2021-01-07 | [3 Things Designers Get Wrong](2021-01-07-yt-9GzVEUhKOqc.md) | design-craft; sales-clients; mindset; branding | Chris solo; artist-not-service, present-as-least-risky-option, undifferentiated-no-process-story; "be good not original"; Greg Gunn outro = context |
+| 2021-01-12 | ★ [How To Get Attention In The Market](2021-01-12-yt-0nVNU5GFhm8.md) | content-strategy; branding; sales-clients | Chris solo webinar; social-media-not-a-portfolio, niche+long-game, stand-out-1/8-inch (Errol Gerson), 3 honest reasons for free work + trade-up; title says "2022"; L3-candidate |
+| 2021-01-14 | ★ [7 Ways To Build & Earn Trust In 5 Minutes](2021-01-14-yt-sD3eS0XYl1I.md) | sales-clients; mindset; business | Chris solo; named 7-part trust framework (shared vocab, small Qs, reflect back, reduce risk, "I don't know", transparent, patient) + empathy exercise; L3-candidate |
+| 2021-01-18 | ★ [Hardest Thing To Do As A Boss — Fire Someone](2021-01-18-yt-bDwrWpgEDfw.md) | business; mindset | Chris + unnamed co-host (context); firing script + no-surprise 2-3 warnings over 6-9mo w/ criteria; fit principle; L3-candidate |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -545,4 +551,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_525 videos ingested (L2) so far._
+_531 videos ingested (L2) so far._

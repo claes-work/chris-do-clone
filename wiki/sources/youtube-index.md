@@ -622,6 +622,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2022-10-18 | [What's Your Incentive For Copywriting?](2022-10-18-yt-IE48mhwUJH8.md) | content-strategy; branding; business | ⚠️ guest copywriter (likely Neville Medhora) = context; Chris trains only ad-agency background |
 | 2022-10-20 | [Using Social Media Trends To Write Better](2022-10-20-yt-V28lNZWLbCA.md) | content-strategy | ⚠️ NOT Chris — Neville Medhora clip (AAA test, sender-reputation); Chris interviewer only; context/do-not-train |
 | 2022-10-25 | [Write Better Copy For Conversions (Masterclass w/ Neville Medhora)](2022-10-25-yt-oCrPS-g8kmQ.md) | content-strategy; business | ⚠️ Neville Medhora masterclass = context; Chris trains only live-audio advocacy + Pro Group growth (300→670) |
+| 2022-10-27 | [This CEO Predicted Remote Work Back In 2013](2022-10-27-yt-9-iOpXEJYBw.md) | business; mindset | ⚠️ NOT Chris — remote-work guest (inferred Jason Fried); context/do-not-train |
+| 2022-10-28 | [Dark Patterns—Designed For Manipulation](2022-10-28-yt-q-ntX8ky_8M.md) | design-craft | ⚠️ NOT Chris — Futur UX course (unnamed instructor); context/do-not-train |
+| 2022-11-01 | [Why Simple is Better — The Paradox of Choice](2022-11-01-yt-g8y6yV3VTcA.md) | design-craft | ⚠️ NOT Chris — Futur UX course (Hick's Law, jam study); context/do-not-train |
+| 2022-11-03 | [UX Design—Heuristics & Mental Shortcuts](2022-11-03-yt-WhQP6dVNsNA.md) | design-craft | ⚠️ NOT Chris — Futur UX course (Nielsen Norman heuristics); context/do-not-train |
+| 2022-11-07 | [Data Driven Marketing: How to Make Better Decisions](2022-11-07-yt-LhPx0AdCBK8.md) | business; content-strategy | ⚠️ NOT Chris — data/ads guest interview; context/do-not-train |
+| 2022-11-08 | [What Does A UX Designer Do?](2022-11-08-yt-ehO7rxx-PgM.md) | design-craft | ⚠️ NOT Chris — Futur UX course; context/do-not-train |
+| 2022-11-09 | [Understanding Your Customer Needs Through Data](2022-11-09-yt-5AfQm-90loU.md) | business; content-strategy | ⚠️ NOT Chris — data/ads guest interview; context/do-not-train |
+| 2022-11-14 | [What Clients Do UX Designers Work With?](2022-11-14-yt-Sc-vYp58iuM.md) | design-craft; sales-clients | ⚠️ NOT Chris — Futur UX course; context/do-not-train |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -671,4 +679,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_651 videos ingested (L2) so far._
+_659 videos ingested (L2) so far._

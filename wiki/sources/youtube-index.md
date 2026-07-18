@@ -339,6 +339,12 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2019-02-20 | [Video Content – 3-steps to Present Your Ideas Clearly](2019-02-20-yt-VRecjO0A6Ns.md) | content-strategy | video-structure framework (Overview / 3–5 steps / Outro+CTA); ⚠️ Matthew Encina (CCO), NOT Chris — Futur context only, does NOT train persona |
 | 2019-02-25 | [How to Build a Passive Income Business For Creatives - Dustin Lee](2019-02-25-yt-RGTUPlf9tAo.md) | business; content-strategy; pricing | guest interview — Dustin Lee/RetroSupply 3-step playbook (~95% Dustin=context); Chris minimal; dustin-lee entity candidate |
 | 2019-02-27 | ★ [Inbound Marketing – How to get Clients to Come to You](2019-02-27-yt-vCn92eifsjM.md) | content-strategy; sales-clients; branding | race-to-top-vs-zero, campfire+magnifying-glass focus, "more money than time" ideal client, tip-of-spear differentiation; co-host=context; L3-candidate |
+| 2019-03-04 | [Stop Losing Money – How to Find Your Break Even Point](2019-03-04-yt-dr0ntxYFEWs.md) | business; pricing; mindset | guest Errol Gerson (break-even math = guest, NOT persona); Chris NEW: runway/sales-cycle insight (bigger deals close slower → need cash runway); errol-gerson entity candidate |
+| 2019-03-06 | [Project Management - How to Manage Your Clients](2019-03-06-yt-wEvVoXZzkKU.md) | sales-clients; business | client-mgmt tactics ("process is the product", decision-tree logging, milestone penalties); ⚠️ 2 unlabeled Futur instructors, NOT Chris — does NOT train persona |
+| 2019-03-11 | ★ [Brand Identity Design Process - Airline Branding Challenge - Young Guns EP 9](2019-03-11-yt-N0WD9KG7kEY.md) | branding; design-craft; mindset | Chris mentors airline sub-brand challenge: sub-brand≠rebrand, research→100-names→persona→style-scape, "aim 10–15 yrs younger", color craft, present-with-a-deck; students=context; L3-candidate |
+| 2019-03-12 | [How to Create Engaging and Relevant Content for Instagram](2019-03-12-yt-2ocGbROfgfQ.md) | content-strategy; branding; design-craft | guest Stefan Kunz (IG tactics = context); Chris lens: social content = designed like an ad (engineer one "twist"/hype), maker = marketer |
+| 2019-03-19 | ★ [Convert Cold Leads into Paying Clients](2019-03-19-yt-7Wsrq0dfYsw.md) | sales-clients; content-strategy | hot/warm/cold lead-temperature taxonomy + per-temp approach & awareness ladder (credited to Russell Brunson); preframing/priming; Chris solo; L3-candidate |
+| 2019-03-25 | ★ [Brand Identity Design Presentations and Critique - Young Guns EP 10](2019-03-25-yt-P5cqMtqTNog.md) | design-craft; branding | Chris critiques 5 airline sub-brands: negative-space≠white-space, kerning-as-volume, "slap-on logo" anti-pattern, DNA-extension, print-finishing=premium, "undesigned design is hard"; students=context; L3-candidate |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -388,4 +394,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_368 videos ingested (L2) so far._
+_374 videos ingested (L2) so far._

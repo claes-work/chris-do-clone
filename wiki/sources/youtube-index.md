@@ -582,6 +582,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2022-06-16 | ★ [The Psychological Trick Behind Getting People To Say Yes](2022-06-16-yt-4kVo2YEzPqQ.md) | sales-clients; mindset | Chris; persuasion mechanics — retreat-and-follow (Blair Enns), Jonathan Stark's 3 why-questions (why-this/now/me), Voss "what not why"; L3-candidate |
 | 2022-06-21 | ★ [Stop Apologizing For Being Your True Authentic Self](2022-06-21-yt-1PW3tPqcwCs.md) | mindset; branding; content-strategy | Chris solo; authenticity/self-acceptance; design-as-self-discovery/identity; "charming razor blade"; "they understand me perfectly, not misunderstand"; L3-candidate |
 | 2022-06-23 | [Find Your Creative Focus](2022-06-23-yt-6IbV3sEmjWs.md) | mindset; content-strategy; branding | ⚠️ NOT Chris — Stephanie Owens; focus-not-niche (industry/skill/market axes); context/do-not-train |
+| 2022-06-28 | [Urgency Is Overrated](2022-06-28-yt-Olqmivbfls8.md) | mindset; business | ⚠️ Jason Fried (Basecamp) guest — "ASAP is poison"/async doctrine is his (context); Chris interviewer only |
+| 2022-06-30 | ★ [How To Be Inspired By Nature](2022-06-30-yt-NClPY12YRYU.md) | design-craft; mindset | Chris solo; inspiration from OUTSIDE your industry (nature/architecture/ceramics); creativity = connecting disparate things (farther apart = more creative); L3-candidate |
+| 2022-07-01 | [Making Money With No Clients](2022-07-01-yt-Qowvab8In-E.md) | business; content-strategy | ⚠️ NOT Chris — Stephanie Owens; income-stream diversification (art licensing, products); context/do-not-train |
+| 2022-07-05 | [Is Remote Work The Future? (Jason Fried)](2022-07-05-yt-1UDnJL_CxjI.md) | business; mindset | ⚠️ Jason Fried guest interview (remote-as-resilience, async/trust) = context; Chris interviewer; few trainable interjections |
+| 2022-07-07 | ★ [Don't Do This When You Give A Presentation](2022-07-07-yt-esqoKMQSEbo.md) | content-strategy; sales-clients; mindset | Chris + guest; over-delivery failure mode, narrow-to-2-3-takeaways, over-prepare-then-edit, curse-of-knowledge-as-teaching; new vs Pitch This!; L3-candidate |
+| 2022-07-12 | ★ [When Should You Change Careers?](2022-07-12-yt-2vvVWJlY-0E.md) | mindset; content-strategy; business | Chris; 3-stage career-pivot origin (commercials→branding→education, "exchanged one master for another"), "canary in the coal mine" non-attachment; L3-candidate |
+| 2022-07-14 | [Public Speaking Tip For Introverts](2022-07-14-yt-_dkGyynJaX0.md) | mindset; content-strategy | ⚠️ guest storytelling coach delivers the tip (context); Chris self-IDs introvert but reaffirms existing material; fence |
+| 2022-07-15 | ★ [How To Charge For Design Thinking](2022-07-15-yt-VSDT8VmzzHI.md) | pricing; business | Chris solo; hard price anchors ($50k/2wk, $150k/8-10wk = research+workshop+strategy); unbundle prep/workshop/reporting; L3-candidate |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -631,4 +639,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_611 videos ingested (L2) so far._
+_619 videos ingested (L2) so far._

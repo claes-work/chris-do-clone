@@ -345,6 +345,10 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2019-03-12 | [How to Create Engaging and Relevant Content for Instagram](2019-03-12-yt-2ocGbROfgfQ.md) | content-strategy; branding; design-craft | guest Stefan Kunz (IG tactics = context); Chris lens: social content = designed like an ad (engineer one "twist"/hype), maker = marketer |
 | 2019-03-19 | ★ [Convert Cold Leads into Paying Clients](2019-03-19-yt-7Wsrq0dfYsw.md) | sales-clients; content-strategy | hot/warm/cold lead-temperature taxonomy + per-temp approach & awareness ladder (credited to Russell Brunson); preframing/priming; Chris solo; L3-candidate |
 | 2019-03-25 | ★ [Brand Identity Design Presentations and Critique - Young Guns EP 10](2019-03-25-yt-P5cqMtqTNog.md) | design-craft; branding | Chris critiques 5 airline sub-brands: negative-space≠white-space, kerning-as-volume, "slap-on logo" anti-pattern, DNA-extension, print-finishing=premium, "undesigned design is hard"; students=context; L3-candidate |
+| 2019-03-28 | [Visual Trends 2019](2019-03-28-yt-odwoh5kL9dg.md) | content-strategy; branding; design-craft | Adobe 2019 trends (Natural Instincts/Creative Democracy/Disruptive Expression/Brand Stand); ⚠️ ~90% Adobe guest Brenda Milis, NOT persona; Chris reframe only: "trendy"=negative vs visually-fluent/culturally-relevant |
+| 2019-04-01 | ★ [How do I Market my Product? — w/ Melinda Livsey (Ep.16)](2019-04-01-yt-J0m-fwEQ5TQ.md) | content-strategy; sales-clients; branding; mindset | sell the PROBLEM not the solution; loss/FOMO > gain; "different but better"; "write your thesis paper" deep-research differentiation; win-heart-then-logic; Melinda=context; L3-candidate |
+| 2019-04-08 | ★ [How do you find Customers for Your Product? — w/ Melinda Livsey (Ep.17)](2019-04-08-yt-apqbrvu2VlE.md) | content-strategy; sales-clients; business | problem→solution→product (Brunson); story-mining (spaces/places/things + 5–7pt timeline); funnel-attrition math; "expand the pool"; give-give-give reciprocity; Melinda=context; L3-candidate |
+| 2019-04-10 | ★ [Does Creativity Come From Insecurity? w/ Debbie Millman](2019-04-10-yt-wHhcuix-ir8.md) | mindset; design-craft | BIOGRAPHY-rich: Chris's candid childhood monologue (Vietnamese-immigrant/latchkey, outcast/insecurity, typography as "anchor", knowledge-vampire, "every peak is the base of another mountain"); Debbie=context + entity candidate; L3-candidate |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -394,4 +398,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_374 videos ingested (L2) so far._
+_378 videos ingested (L2) so far._

@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-19 (synthesis pass 10 — all 7 hubs enriched, persona v11, 611 L2; batches 86–95 promoted: de-risk-the-buy pricing cluster, difficult-client repair, storytelling-as-craft, feedback/inner-critic toolkits, work-life integration [compartmentalize→integrate evolution], Carlos Segura biography landmark; blair-enns entity created; new anniversary-lie guard)_
+_Last updated: 2026-07-19 (synthesis pass 11 — 6 hubs enriched, persona v12, 688 L2; batches 96–105 promoted: pricing-ladder + three-yeses-rule, Scruples hiring test, tone-of-voice, YouTube-scripting, superhero story-template, 5-step-direction; 2022-23 guest-expert era catalogued; Ron Baker attribution guard)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **688 videos L2** (@thefutur 2014–2025 + @ChrisDo; P1 done, draining P2 [through 2023-03]; synthesized through batch 95 → persona v11).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **688 videos L2** (@thefutur 2014–2025 + @ChrisDo; P1 done, draining P2 [through 2023-03]; synthesized through batch 105 → persona v12).
 
 ## Topics
 
@@ -38,11 +38,11 @@ _Last updated: 2026-07-19 (synthesis pass 10 — all 7 hubs enriched, persona v1
 
 ## Persona (THE PRODUCT)
 
-- [persona/biography.md](persona/biography.md) — dated life timeline, enriched across 9 synthesis passes (**55 facts**; ArtCenter years, Epitaph→Novacom→Buick origin, R/GA under Kyle Cooper, maker→CEO shift, *Pocket Full of Do* + *Create & Orchestrate*, hapkido/fasting, childhood creative-origin).
-- [persona/voice.md](persona/voice.md) — how they talk, **pass-10** (**90 sources**; +"charming razor blade", "I'm Tylenol", "don't be an askhole", "they copy your output not your process", "be a giraffe", five-words distillation).
+- [persona/biography.md](persona/biography.md) — dated life timeline, enriched across 11 synthesis passes (**64 facts**; Saigon-refugee origin, ArtCenter scholarship, R/GA under Kyle Cooper, *Pocket Full of Do* + *Create & Orchestrate*, Futur 2.02M-subs Jan-2023, Beverly-Hills Hormozi dinner).
+- [persona/voice.md](persona/voice.md) — how they talk, **pass-11** (**97 sources**; +"storytelling is delaying", "charge more for money", "why not do nothing?", FM-DJ-voice, sell→help/bucket-of-trust, make-better-wishes).
 - [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/opinions (**128 sources**; influences subsection; position-changes/evolution flagged incl. work-life compartmentalize→integrate + value-based-vs-historical-cost-plus).
 - [persona/appearance.md](persona/appearance.md) — how they look/present (**seeded**: 15 cited self-reported facts; watched-video visual sample still a gap).
-- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt, **v11** (2026-07-19; 611 videos, 7 hubs; anniversary-lie + brothers-unnamed guards).
+- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt, **v12** (2026-07-19; 688 videos, 7 hubs; +Ron-Baker attribution guard, anniversary-lie + family-unnamed guards).
 
 ## Other
 

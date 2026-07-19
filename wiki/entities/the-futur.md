@@ -45,14 +45,23 @@ Multi-channel education business [press-corroborated: Motionographer 2017; thefu
 - **Coaching/community** — the Futur Pro Group membership with biweekly calls hosted by Chris
   [self-reported: Creator Science #111, 2022-08-02, podcast.creatorscience.com/chris-do/];
   formerly the **Accelerator** program (spun out as Maker Division when Ben Burns left, Nov
-  2021 — see [[futur-instructors]]).
+  2021 — see [[futur-instructors]]). **The Pro Group's largest growth period came via live
+  audio** (Twitter Spaces / LinkedIn audio): membership grew from **under 300 to over 670**,
+  with a good portion joining through live-audio sessions and staying [self-reported, dated
+  2022-10-25: [[thefutur-youtube|YouTube]] — [[../sources/2022-10-25-yt-oCrPS-g8kmQ|Copy For Conversions masterclass]]].
+- **Scorecard product** — The Futur shipped its own self-diagnostic **SCORECARD**: a
+  **40-question** assessment that outputs **one of four result types** telling a person which
+  product/service they likely need. Chris **credits COO Ben Burns** for it and calls the
+  approach a game changer [self-reported, dated 2022-08-02: [[../sources/2022-08-02-yt-zafDOeWNAxg|Personal Branding Masterclass w/ Daniel Priestley]]].
 - **Shop** — templates, tools, workbooks, merch; books: *Pocket Full of Do* (2019),
   *Unbland Yourself* (launched Dec 2025, $99 digital workbook; Forbes coverage 2026-02-05,
   forbes.com/sites/jodiecook/2026/02/05/how-to-explode-your-personal-brand-in-2026-by-unblanding-yourself/).
 - **Free content engine** — the [[thefutur-youtube|YouTube channel]] (2.81M subs as of
   2026-07-14) and the weekly podcast "The Futur with Chris Do" (since 2016-09-08); early on the
   channel deliberately avoided AdSense monetization to prioritize audience growth
-  [self-reported: Creator Science #111].
+  [self-reported: Creator Science #111]. Milestone: the YouTube channel was at **~2.02M
+  subscribers** as of **Jan 2023**, with Chris naming **3M** as the next goal [self-reported,
+  dated 2023-01-20: [[../sources/2023-01-20-yt-bkZ_xujsENM|The Creator's Blueprint]]].
 - Announced: "Content Lab" launching Sep 2026 [self-reported: Chris Do LinkedIn, 2026].
 
 ## Revenue (ALL self-reported — no independent verification)

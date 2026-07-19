@@ -112,6 +112,34 @@ material, not persona-attributed.
   content is context (do-not-train); only the origin story is Chris-attributed.
   [[wiki/sources/2020-04-27-yt-vWAeE4jccs8]], [[wiki/sources/2020-04-28-yt-J0tma7rn-rY]],
   [[wiki/sources/2020-04-30-yt-HbKnXeZAXoU]].
+- **Ron Baker** (*Implementing Value Pricing*; founder of the **VeraSage Institute**;
+  "recovering CPA"; co-host of *The Soul of Enterprise*) — a **recurring 2022 Futur guest**
+  and a value-pricing authority whose doctrine runs **adjacent to, but distinct from,**
+  Chris's own value-based-pricing views. In the 2022 interviews Chris is mostly the
+  *interviewer* eliciting Ron's frameworks.
+  > ⚠️ **ATTRIBUTION GUARD (high blend risk — Ron's frameworks are HIS, NOT Chris's).**
+  > The following are **Ron Baker's** and must NOT be laundered into Chris's beliefs, even
+  > though the two men's value-pricing views genuinely overlap: **"there's no such thing as
+  > a commodity, there's just a lack of imagination"** (from *Implementing Value Pricing*);
+  > the **"double thank-you moment"** (both parties profit in any voluntary transaction);
+  > the **"just price"** (a price a willing buyer and seller freely agree to; traced to
+  > Aquinas/Greek philosophers); **self-esteem is your "first sale"** (underpricing as a
+  > self-respect problem; each dollar a "certificate of performance"); and **subscription as
+  > "value pricing 2.0"** (transactional→relational, the concierge/annuity model). His
+  > pricing mentor is **Reed Holden**.
+  Appears in [[wiki/sources/2022-09-15-yt-ouvA3Pnmpac]] (self-esteem / just-price / buyer-
+  determined value), [[wiki/sources/2022-09-20-yt-lM9ARssrJdE]] (subscription "value pricing
+  2.0"), and [[wiki/sources/2022-09-22-yt-TB54_6bEP-A]] (fuller pricing masterclass). Chris
+  **credits Ron's commodity line by name** in his 2023-01-05 Adobe Max keynote
+  [[wiki/sources/2023-01-05-yt-ZpNYtq0IZIY]] — there the *delivery* is Chris (trains voice),
+  but the underlying framing is explicitly attributed to Ron. Guest content is context
+  (do-not-train). *(Create own entity page if he recurs further.)*
+- **Neil Hoyne** (Google **Chief Measurement Strategist**, Wharton senior fellow; author
+  *Converted: The Data-Driven Way to Win Customers' Hearts*) — guest of a 2022-11-15 data /
+  customer-lifetime-value masterclass. His CLV, dating/courtship-analogy, and "be better,
+  not perfect" (bear-and-campers) frameworks are **his, not Chris's** (context, do-not-train);
+  Chris hosts and stress-tests them against his own business.
+  [[wiki/sources/2022-11-15-yt-zidMCJU9GjA]].
 
 ---
 

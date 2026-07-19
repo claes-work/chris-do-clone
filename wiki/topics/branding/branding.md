@@ -1131,6 +1131,70 @@ angle.)* (2022-06-21) [[wiki/sources/2022-06-21-yt-1PW3tPqcwCs]]
   brand intact while staying accountable. (The self-acceptance reading of this line is
   [[wiki/topics/mindset/mindset]]'s.) (2022-06-21) [[wiki/sources/2022-06-21-yt-1PW3tPqcwCs]]
 
+### Framework 39 — The superhero-IP story template: origin → defining moment → transformed, plus world-building (allies AND villains)
+
+From a 2022 keynote-style talk, "How to Craft a Story Brand That People Remember" (CONFIRMED
+solo Chris Do, autobiographical throughout). Chris borrows the structure of comic-book /
+superhero intellectual property — and the Marvel Cinematic Universe's *world building* — as a
+reusable template for a memorable **personal brand**. It predates and prefigures the 2023
+comic-book-mythology frame in Framework 11 and the "make enemies" idea in Framework 12, but
+adds a crisper, *ordered* three-part story arc explicitly welded to Joseph Campbell's hero's
+journey and demonstrated end-to-end with Spider-Man. (2022-12-01)
+[[wiki/sources/2022-12-01-yt-v8rfMt87Lb8]]
+
+- **A strong personal brand has four areas — a three-part story + world-building.** The story
+  arc, stated as a named, ordered set: **(1) origin story** (background/history), **(2) the
+  defining moment / catalyst** (the event that *starts* the journey — the lesson is not yet
+  learned), **(3) the having-transformed moment** (you cross into a new world and can never be
+  the same). The fourth area is **world building** — your allies *and* your villains.
+  (paraphrase) (2022-12-01) [[wiki/sources/2022-12-01-yt-v8rfMt87Lb8]] (Cross-ref Framework 11's
+  four-part cut — origin / community / defining attributes / the enemy; see NOTE below.)
+- **The transformation is Joseph Campbell's hero's journey.** The catalyst starts the journey
+  but the character isn't remade until they leave the ordinary world and cross into the new one;
+  Chris names Campbell explicitly ("this is like Joseph Campbell language"). A story needs
+  conflict, and "you have to walk away having learned something." (paraphrase + quote)
+  (2022-12-01) [[wiki/sources/2022-12-01-yt-v8rfMt87Lb8]]
+- **Superhero IP is the model — the edge is interconnected world-building.** Comic films dominate
+  the box office; the MCU's advantage is the *interconnectivity* of characters inside one larger
+  narrative ("world building"). The most popular characters follow a clear origin → defining
+  moment → transformation pattern; lesser-known ones don't. (paraphrase) (2022-12-01)
+  [[wiki/sources/2022-12-01-yt-v8rfMt87Lb8]]
+- **Spider-Man worked example — transformation ≠ getting the powers.** Peter Parker gets his
+  powers from the radioactive spider but doesn't *become* Spider-Man then; he first uses them
+  selfishly (wrestling for money) and refuses to stop a robber who then kills Uncle Ben — the man
+  he could easily have stopped. Uncle Ben's *"with great power comes great responsibility,"* and
+  the vow to use power for good rather than self-gain, is the transformation moment. (paraphrase)
+  (2022-12-01) [[wiki/sources/2022-12-01-yt-v8rfMt87Lb8]]
+- **You need villains — "no true fans without true critics."** > "The best heroes have the best
+  villains… some of you are trying to move through life and create content without picking a
+  fight with anybody, so that you have no villains in your story." A story with no villains is
+  shallow; avoiding an opinion to dodge criticism leaves the brand with nothing to stand on. So
+  identify the villains in your story and tell that story "over and over again." (quote +
+  paraphrase) (2022-12-01) [[wiki/sources/2022-12-01-yt-v8rfMt87Lb8]] (This is an *earlier*
+  (2022) instance of Framework 12's "make enemies / true fans need true critics" — Chris credits
+  the sharper "make enemies and gain fans" phrasing to Freddy O in 2023; kept here only for the
+  superhero-IP framing, not as a new claim.)
+- **The minimum viable action.** > "If you learn nothing else from today, just start working on
+  what your three parts of your story are: your origin, the defining moment, and having
+  transformed." Study anyone with a strong personal brand and you'll find the same three.
+  (quote) (2022-12-01) [[wiki/sources/2022-12-01-yt-v8rfMt87Lb8]]
+- `[self-reported]` **Chris maps the template to himself.** His **defining moment**: friend Jose
+  invites him to make YouTube content, which he reluctantly agreed to ("I love teaching, I just
+  don't like to be in the spotlight"). His **transformed moment**: a "rough breakup" with former
+  mentor and business partner Jose, learning to go it alone, and discovering that teaching and
+  empowering others mattered more than commercials and music videos — "the more lives I transform,
+  the strange thing is the more money I make." (paraphrase + quote) (2022-12-01)
+  [[wiki/sources/2022-12-01-yt-v8rfMt87Lb8]] (Biographical detail is owned by
+  `persona/biography.md`; the Jose Caballer partnership/split lives there.)
+
+> ⚠️ NOTE (complementary framings, not a contradiction): Chris offers *two* four-part comic-book
+> cuts of the personal-brand story. Here (2022-12-01) it is **origin → defining moment →
+> transformed + world-building (allies/villains)**; in the 2023 AdobeMAX keynote (Framework 11)
+> it is **origin story / community / defining attributes / the enemy** (2023-12-19)
+> [[wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]]. Both are hero's-journey / superhero-mythology
+> lenses on the same idea — the earlier one foregrounds the *transformation arc* (Campbell), the
+> later one the *cast around the hero* (Stan Lee / McKee). Not presented as a revision.
+
 ---
 
 ## Influences credited (not Chris's originations)
@@ -1172,6 +1236,9 @@ angle.)* (2022-06-21) [[wiki/sources/2022-06-21-yt-1PW3tPqcwCs]]
   [[wiki/sources/2015-03-24-yt-FYHD1fBKZDk]]; [[wiki/sources/2015-04-28-yt-KSGzJiK9Uz8]]
 - **Carl Jung** — Persona / Shadow. [[wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]];
   [[wiki/sources/2023-12-14-yt-1kUCm1JPzxg]]
+- **Joseph Campbell** (the hero's journey) — the leaving-the-ordinary-world / crossing-into-the-
+  new-world arc behind the origin → defining moment → transformed story template.
+  [[wiki/sources/2022-12-01-yt-v8rfMt87Lb8]]
 - **Michael Beirut** (Pentagram) — the "diving vs. swimming competition" long-game framing for
   judging logo launches, endorsed by Chris. [[wiki/sources/2017-12-15-yt-y42PI9peurI]]
 - **Dieter Rams / Braun** — the benchmark of simplicity and restraint behind "restraint =
@@ -1255,6 +1322,10 @@ angle.)* (2022-06-21) [[wiki/sources/2022-06-21-yt-1PW3tPqcwCs]]
 - [[wiki/sources/2022-06-21-yt-1PW3tPqcwCs]] — "Stop Apologizing For Being Your True Authentic
   Self" (authenticity as positioning; design as self-discovery; the "charming razor blade"
   self-brand; personal brand as a filter — "they understand me perfectly"). 2022-06-21.
+- [[wiki/sources/2022-12-01-yt-v8rfMt87Lb8]] — "How to Craft a Story Brand That People Remember"
+  (the superhero-IP / MCU story template: origin → defining moment → transformed + world-building
+  via allies AND villains; Joseph Campbell's hero's journey; Spider-Man worked example; "no true
+  fans without true critics"). 2022-12-01.
 - [[wiki/sources/2023-12-14-yt-1kUCm1JPzxg]] — ★ Personal Branding Masterclass (shadow
   word + transformer; memory not invention). 2023-12-14.
 - [[wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]] — ★ AdobeMAX 2023 keynote (the full *Unbland*

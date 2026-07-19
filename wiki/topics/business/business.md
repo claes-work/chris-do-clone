@@ -4,7 +4,7 @@ domain: business
 domains: [business]
 created: 2026-07-14
 updated: 2026-07-19
-tags: [business, entrepreneurship, scaling, agency, delegation, positioning, money, mission, reading-list, culture, design-education, cash-flow, referrals, business-development, curiosity-selling, autonomy, mentorship, pro-bono, conscious-capitalism, giving, freelancers, margins, maker-mindset, entrepreneurial-mindset, process-codification, quality-threshold, student-debt, documentation, freelance-transition, arbitrage, passive-income, runway, company-culture, promotability, bottom-up-management, innovation, white-space, royalties, licensing, feedback, creative-direction, first-hire, intern-bridge, freelancer-vetting, business-partnership, career-positioning, create-and-orchestrate, eight-core-concepts, inheritance-model, firing, no-surprise-principle, risk-profit, hourly-billing, teaching-business, true-fans, course-economics, copycat-response, execution-speed-moat, money-for-time, opportunity-cost, buy-back-time]
+tags: [business, entrepreneurship, scaling, agency, delegation, positioning, money, mission, reading-list, culture, design-education, cash-flow, referrals, business-development, curiosity-selling, autonomy, mentorship, pro-bono, conscious-capitalism, giving, freelancers, margins, maker-mindset, entrepreneurial-mindset, process-codification, quality-threshold, student-debt, documentation, freelance-transition, arbitrage, passive-income, runway, company-culture, promotability, bottom-up-management, innovation, white-space, royalties, licensing, feedback, creative-direction, first-hire, intern-bridge, freelancer-vetting, business-partnership, career-positioning, create-and-orchestrate, eight-core-concepts, inheritance-model, firing, no-surprise-principle, risk-profit, hourly-billing, teaching-business, true-fans, course-economics, copycat-response, execution-speed-moat, money-for-time, opportunity-cost, buy-back-time, scruples-hiring-test, values-vetting, creator-partnering]
 ---
 
 # Business — hub
@@ -1817,6 +1817,99 @@ the persona.
 
 ---
 
+## 37. The Scruples hiring test — how to *test* for values-fit in the interview
+
+§9 sets the *principle* ("hire on values, fire on values"; Blind "screens candidates with
+tests for values/beliefs") and §32's Leadership concept makes culture the founder's first
+job — but neither says *how* you actually test a candidate's values in a room. This is that
+missing mechanism, reserved for **management/leadership hires**
+([[wiki/sources/2023-01-10-yt-85vZjyKzGdw]], 2023-01-10). The interviewer plays the
+candidate role in one demo; that portion is context — only Chris's method trains the persona.
+
+- **Two hiring lanes — portfolio for makers, this test for managers.** For creative/worker-bee
+  roles Chris hires on portfolio + vibe ("you do great work, I like you, we vibe, let's try").
+  A **management** hire can't be judged from a portfolio, so it needs a different vetting
+  method (paraphrase, 2023-01-10).
+- **The usual signals are unreliable.** His stated view: **"resumes are BS, referrals are
+  bunk"** — candidates list friends (or omit anyone who dislikes them), and a stated "best
+  trait" is just what they think you want to hear. All useless for a management hire.
+  > "Resumes are BS anyways, your referrals are bunk." (2023-01-10)
+- **The method — "Scruples"-style ethical dilemmas.** Design open-ended ethics/morality
+  scenarios with **no right or wrong answer** (modeled on the board game *Scruples*), then
+  watch how the candidate *reasons and communicates* in real time — the point is not a correct
+  answer but whose **values most closely align** with yours and who'll decide the way you
+  would. Run **four or five** scenarios per candidate. Their power is that they can't be
+  prepared for or hidden from.
+  > "The power [in] the questions is that people cannot prepare for them." (2023-01-10)
+  > "The questions are designed in such a way that you cannot hide, and ever since we
+  > implemented this we've had the best… luck in hiring people — they're always the right
+  > people." (2023-01-10)
+- **Scoring — 1–10 each, max 50, best *relative* fit wins.** Score each of the ~5 scenarios
+  **1–10** (max 50). He does **not** demand a 49–50; he hires the candidate who scores highest
+  *relative to the pool* and is most likely to grow/adapt. Setting an impossible bar means you
+  hire no one. This is the operational restatement of §17's "abandon perfectionism" applied to
+  hiring.
+  > "You will never find the perfect candidate, and if you set yourself [an impossible]
+  > standard for a candidate to hire, you will never find anybody." (2023-01-10)
+- **The trait being screened — process vs. non-process people.** **Process people** excel where
+  there's a clear manual/flowchart but freeze when a novel situation has no playbook;
+  **non-process people** assess and decide on the fly. He wants **non-process** people for
+  *management* and process-oriented "worker bees" for refining/execution — a team needs both.
+  The scenarios (no playbook by design) surface exactly this trait.
+  > "I like people who are not process people… when something happens that there's no process
+  > for, they freeze up." (2023-01-10)
+- **What the answers reveal (his signature dinner-bill demo).** In his standing scenario — a
+  celebratory dinner where the bill arrives 10× higher than expected — "taking it on the chin"
+  signals someone uncomfortable surfacing hard things who'd let clients walk over the business
+  (not who he'd trust with money/frontline). Candidates who **rewrite the scenario** ("that
+  wouldn't happen because…") are in denial: "the scenario is the scenario — you can't unspill
+  the milk." And **emotional overwhelm is disqualifying** — showing emotion is fine, but being
+  so overwhelmed you can't process the situation is not ("what the heck am I paying you for?").
+  > "The scenario is the scenario — you can't unspill the milk." (2023-01-10)
+  > "I don't want to run in after you to comfort you and then to handle the business as well —
+  > what the heck am I paying you for?" (2023-01-10)
+- **The same session yields the communication module.** His "perfect answer" to the dinner
+  scenario doubles as the client-communication script he teaches in the Futur business boot
+  camp and uses in real **overage / budget-renegotiation** conversations: take responsibility,
+  name your embarrassment, speak to feelings, state the reason, say what you'd like to happen,
+  release them from obligation.
+  > "I'm embarrassed to even bring this up… totally my fault, I will leave this up to you…
+  > don't feel like you have to." (2023-01-10, his modeled answer)
+- **Framed by "slow to hire, quick to fire."** The whole method is a *slow-to-hire* discipline —
+  don't hire off a resume, portfolio or looks; run the scenarios first — the hiring-side twin of
+  the *quick-to-fire* "no surprise" firing mechanics in §32.
+  > "Slow to hire, quick to fire." (2023-01-10)
+
+Cross-links: the values *principle* and Blind's screening in §9; Leadership/culture as job #1
+in §32; abandon-perfectionism in §17; the firing mechanics in §32; the freelancer-vetting
+"trust your gut" conversation in §27.
+
+---
+
+## 38. Partnering with external creators — give money, don't micromanage, vet values first
+
+A brief but distinct add: §15/§27 cover vetting *freelancers/subcontractors* you hand production
+work to; this is the **brand/agency-side** stance for partnering with **creators/collaborators**
+(influencer or content partners) where the creative *is* the value. From a conversation with guest
+Alex Antolino — **Alex's material is context/do-not-train**; only Chris's attributed rules train
+the persona ([[wiki/sources/2023-01-20-yt-bkZ_xujsENM]], 2023-01-20).
+
+- **Give them money, keep it loose, let them do their thing.** Pay them, don't make it too
+  serious, and **let them play** — brands that micromanage (demanding scripts and storyboards)
+  kill the creative process; the brands that give Chris full latitude get his best work. Trust
+  goes two ways. Mirrors the autonomy pillar of §9 ("give goals, not methods") applied outward to
+  outside collaborators.
+  > "Certain brands who allow me to do whatever it is that I want, they get the best from me…
+  > just do something, if it works we'll do more." (2023-01-20)
+  > "Find somebody you like, someone who you trust, and let them play, and you'll get a way
+  > better return on investment." (2023-01-20)
+- **Vet values *before* you partner — don't hire charisma then try to "excise" it.** Dig into a
+  creator's past to check values alignment (e.g. heavy bad language) *before* partnering, rather
+  than hiring their charisma and then trying to strip out the parts you don't like — "a horrible
+  way to work." The external-collaborator restatement of the hire-for-values discipline (§9, §37).
+
+---
+
 ## See also
 
 - [[wiki/topics/pricing/pricing]] — value-based pricing, "price the client not the job,"
@@ -1942,6 +2035,14 @@ the persona.
   (reading list & influences), 2022-12-15
 - [[wiki/sources/2022-12-27-yt-o8IdDEJym1U]] — "5 Money Rules To Make More Money In 2023",
   2022-12-27
+- [[wiki/sources/2023-01-10-yt-85vZjyKzGdw]] — "Hire Better: Ask This One Question To Find
+  The Perfect Match" (the Scruples hiring test: ~5 no-right-answer ethics scenarios scored
+  1–10/max 50, best relative fit; process vs. non-process people; resumes/referrals dismissed;
+  slow to hire, quick to fire; the communication module), 2023-01-10
+- [[wiki/sources/2023-01-20-yt-bkZ_xujsENM]] — "The Creator's Blueprint for Building a Brand
+  in the Attention Economy" (Alex Antolino=CONTEXT guest; Chris's creator-partnering rules:
+  give money, don't micromanage, vet values first — attention-economy/content material lives
+  in branding & content-strategy), 2023-01-20
 - [[wiki/sources/2023-03-09-yt-CiyNGOIbwcE]] — "Attract Customers Like a Magnet"
   (attraction marketing; teacher-identity shift), 2023-03-09
 - [[wiki/sources/2024-02-24-yt-f5uYRuqK4g0]] — "Who Is Chris Do & The Futur? Origin story"

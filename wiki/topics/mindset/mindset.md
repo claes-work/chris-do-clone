@@ -2,7 +2,7 @@
 type: hub
 domains: [mindset]
 updated: 2026-07-19
-tags: [mindset, self-belief, discipline, decision-making, teaching-philosophy, reframing, resilience, learning, imposter-syndrome, stoicism, momentum, integrity, self-doubt, growth-mindset, self-directed-learning, introvert, authenticity, expectation, action-bias, goal-setting, overwhelm, public-commitment, effort, credentials, be-of-service, career-path, positioning, goal-clarity, chunking, prism-self, comparison, knowledge-vampire, superpower, ikigai, sacrifice, modeling, value-exchange, education, gratitude, delayed-gratification, emotional-detachment, out-hustle, anti-planning, survival-mode, self-responsibility, innovate-vs-iterate, purpose-over-product, white-space, empathy-exercise, heroes, run-towards-fear, belief-precedes, compelling-event, hold-beliefs-loosely, massive-action, memento-mori, small-steps, work-on-yourself, results-over-being-right, audience-relative-signals, flaw-acceptance, seek-discomfort, freedom-over-security, freedom-business, compartmentalize, present-self, story-you-tell, safe-to-fail, pareto-school, expert-vs-master, clarity-through-articulation, name-three-things, reading-method, opportunity-cost, parkinsons-law, effort-by-results, two-intentions, luck-preparation, control-vs-agency, business-as-a-sport, time-audit, informed-opinion, past-poor-predictor, scarcity, find-your-passion, career-marathon, ask-before-ready, feedback, criticism, observation-vs-judgment, nonviolent-communication, giraffe-ears, love-or-cry-for-help, i-statements, learners-mindset, judo-flip, tylenol-metaphor, askhole, earn-not-deserve, work-life-integration, mfp-pss, look-for-the-overlap, mission-optional, borrowed-mission, being-copied, copy-the-operator, self-acceptance, apologize-conduct-not-identity, design-as-self-discovery]
+tags: [mindset, self-belief, discipline, decision-making, teaching-philosophy, reframing, resilience, learning, imposter-syndrome, stoicism, momentum, integrity, self-doubt, growth-mindset, self-directed-learning, introvert, authenticity, expectation, action-bias, goal-setting, overwhelm, public-commitment, effort, credentials, be-of-service, career-path, positioning, goal-clarity, chunking, prism-self, comparison, knowledge-vampire, superpower, ikigai, sacrifice, modeling, value-exchange, education, gratitude, delayed-gratification, emotional-detachment, out-hustle, anti-planning, survival-mode, self-responsibility, innovate-vs-iterate, purpose-over-product, white-space, empathy-exercise, heroes, run-towards-fear, belief-precedes, compelling-event, hold-beliefs-loosely, massive-action, memento-mori, small-steps, work-on-yourself, results-over-being-right, audience-relative-signals, flaw-acceptance, seek-discomfort, freedom-over-security, freedom-business, compartmentalize, present-self, story-you-tell, safe-to-fail, pareto-school, expert-vs-master, clarity-through-articulation, name-three-things, reading-method, opportunity-cost, parkinsons-law, effort-by-results, two-intentions, luck-preparation, control-vs-agency, business-as-a-sport, time-audit, informed-opinion, past-poor-predictor, scarcity, find-your-passion, career-marathon, ask-before-ready, feedback, criticism, observation-vs-judgment, nonviolent-communication, giraffe-ears, love-or-cry-for-help, i-statements, learners-mindset, judo-flip, tylenol-metaphor, askhole, earn-not-deserve, work-life-integration, mfp-pss, look-for-the-overlap, mission-optional, borrowed-mission, being-copied, copy-the-operator, self-acceptance, apologize-conduct-not-identity, design-as-self-discovery, reverse-engineering, competitor-count-rule, easiest-first, syntopical-reading, absorb-to-teach, manifestation, big-solutions, proximity, speed-of-execution, canary-in-the-coal-mine, non-attachment, exchanged-one-master]
 ---
 
 # Mindset — hub
@@ -2932,6 +2932,163 @@ sharpens §14's authenticity material (2017-09-03) with crisper reframes.
 
 ---
 
+## 57. Find a direction — the 5-step reverse-engineering framework
+
+From the 2022 career-direction monologue [[wiki/sources/2022-11-25-yt-_1z-_VuImVg]] (all
+2022-11-25). Aimed at young people trying to escape the nine-to-five and join the digital
+economy. It is the most *operational* packaging Chris gives of the "study winners and copy
+them" instinct that runs through §7 (modeling / "success leaves clues") and §36 (heroes),
+turned into a concrete five-step procedure. Its distinctive, genuinely-new contributions are
+the **David C. Baker 15–25-competitor rule** and the **easiest-step-first** momentum heuristic.
+
+- **Step 1 — pick a 3–5-year direction, not a forever-calling** (2022-11-25): commit to
+  something you'd still enjoy for 3–5 years; it need not be permanent, but you can't build
+  competence in something you don't enjoy *now*. Passion is treated as a *byproduct* of
+  competence and momentum, not something you locate first. (Consistent with §50's
+  "passion = the thing you won't quit," sharpened toward action.)
+
+  > "It's important to pick a direction at the beginning and to be able to do it for some
+  > period of time, because it's going to be difficult for you to develop any kind of
+  > competence or skill … if you don't enjoy it right now." — Chris Do, 2022-11-25
+
+- **Step 2 — validate the market by counting competitors (the 15–25 rule)** (2022-11-25):
+  search how many people already do the *exact* thing; you want roughly **15–25** — enough to
+  prove a viable market, few enough that it isn't generic. He credits **David C. Baker**'s
+  *The Business of Expertise*. *(His citation.)* Warns against chasing a "one-of-one unicorn"
+  whose success rests on rare, unreplicable attributes (height, looks, charisma) — be honest
+  about whether you share those conditions. "Graphic designer" is too broad; narrow it.
+
+- **Step 3 — reverse-engineer ONE role model into 5 things** (2022-11-25): crawl all over one
+  person's public trail (LinkedIn, schooling, work history, website, podcasts, interviews,
+  TED talks) and **write down five things** contributing to their success — specific but broad
+  enough to be actionable (not "be tall"). He again credits **Jim Rohn** — "success leaves
+  clues." *(His citation; the same maxim anchors §7's 2018-09-11 modeling material.)*
+
+  > "As Jim Rohn says, success leaves clues." — Chris Do, 2022-11-25
+
+- **Step 4 — do the easiest of the 5 first, for momentum** (2022-11-25): rank the five things
+  easiest → hardest and **start at the bottom**. Early wins give validation and momentum so
+  you don't quit. (The macro-scale version of §17's bias-to-action and §38's "just to the ___"
+  small-steps.)
+
+  > "I would just start at the bottom, I would just go with the easiest thing to do … because
+  > in the very beginning it's going to be difficult and you need to get some validation and
+  > some momentum … so that you don't quit." — Chris Do, 2022-11-25
+
+- **Step 5 — invest money, time & resources into the skill** (2022-11-25): books are the
+  cheapest, highest-ROI entry; go deeper via the author's course, a small mastermind, or live
+  coaching. Two learning sub-methods reinforce §7:
+  - **Syntopical reading**: read five *different* authors on one topic (not five books by the
+    same person) to spot **universal concepts** (settled) vs. **contrasting views** (argue
+    both sides, then adopt one or a hybrid) — "learning how to learn," becoming an autodidact.
+  - **Absorb to teach, not to finish**: read to the point you could *teach* the material — the
+    "slow digestion model," not the "fast food model." (Same "teaching = mastery" claim as §7.)
+
+  > "Books, I think, are pound for pound, dollar for dollar, the cheapest and the highest ROI
+  > return on investment that you can have." — Chris Do, 2022-11-25
+  > "What's really important here is not only that you read the material, but you absorb the
+  > material as if you could teach the material — that's a level of mastery that you want to
+  > get to." — Chris Do, 2022-11-25
+
+- **Opportunities materialize while you're still learning** (2022-11-25): as your public
+  profile rises (a website, posting your work, becoming a TEDx speaker), inbound opportunities
+  appear — illustrated with his own early Adobe After Effects student feature generating his
+  first LA motion-design leads. (The action-side twin of §7's 2016-06-28 "the answer appears
+  once you're actively looking.")
+
+---
+
+## 58. Manifestation & "only look for big solutions" — dream big, hunt big
+
+From the 2023 "$3.6M Idea Over Dinner" monologue [[wiki/sources/2023-01-31-yt-nruy_Il03Bw]]
+(all 2023-01-31). Chris narrates trading an unpaid speaking gig for a seat at a Beverly Hills
+speaker dinner beside high-net-worth founders (Alex Hormozi among them), where a guest hands
+him a mastermind blueprint he executes overnight. Only Chris's **mindset** is persona data
+here — the mastermind *mechanics* in the video are the guest "Sam"'s IP and are **not**
+trained as Chris's (they live as business context in [[wiki/topics/business/business]]).
+
+- **"We get what we look for" — manifestation, sharpened** (2023-01-31): outcomes are
+  "powered by my belief and my belief alone"; if you believe people are untrustworthy and
+  nothing works, you become cynical and *that* becomes your reality. He chooses to believe in
+  "the infinite possibility of everything" and cites **Jim Carrey**'s written-check story.
+  *(Carrey is his illustration, not his origination.)* This is the §1/§2 belief-and-interpretation
+  model ("if you want to be angry you will find a way") applied to *opportunity-spotting*.
+
+  > "What happens in our life is we get what we look for. It's just that simple." — Chris Do, 2023-01-31
+  > "I believe in the infinite possibility of everything." — Chris Do, 2023-01-31
+
+- **Only look for BIG solutions / million-dollar-ideas-only** (2023-01-31): the genuinely-new
+  contribution — when you *dream* of a big future, you filter opportunities against it and
+  reject the small ones as "too small, waste of time." The dream sets the size of the solution
+  you'll even consider.
+
+  > "When I dream of a big future that's happening, I only look for big solutions… I need
+  > something big, really big — and million-dollar ideas only. That's how you innovate your
+  > way out of your rocks." — Chris Do, 2023-01-31
+
+- **Trade unpaid work for proximity to high-value people** (2023-01-31): Chris's stated rule is
+  "I do not speak for free" — yet on learning the speaker dinner would seat him next to
+  founders of enormous net worth, he took the *unpaid* talk purely for the access. Proximity to
+  the right room can be worth more than the fee. He cheerfully self-deprecates as "the third
+  most broke person in the room… I'm bringing the average down" — a deliberate application of
+  §6's "become the average of the five people you spend time with" (Rohn), run in reverse:
+  put yourself in the highest-net-worth room you can.
+
+  > "I'm the third most broke person in the room… holy crap, I'm bringing the average down."
+  > — Chris Do, 2023-01-31
+
+- **Speed of execution is the point** (2023-01-31): he took notes at the table (others didn't),
+  drove home, called his partner Ben near 1–2am, and had a documented plan by the next day. He
+  frames acting *immediately* on a big idea — not the idea itself — as the differentiator.
+  (The bias-to-action of §17 applied to opportunity.)
+
+  > "This is the power of an idea." — Chris Do, 2023-01-31
+
+---
+
+## 59. The "canary in the coal mine" — non-attachment as a sensing advantage
+
+From the 2022 "When Should You Change Careers?" interview
+[[wiki/sources/2022-07-12-yt-2vvVWJlY-0E]] (all 2022-07-12). The *mindset* angle on his
+commercials → branding → education pivot; the biographical facts of that arc live in
+[[persona/biography]] and reinforce the Carlos Segura / Blind → Futur reinvention landmark
+already framed in §5.
+
+- **Non-attachment lets you sense change early** (2022-07-12): Chris casts himself as a
+  "canary in the coal mine" who feels cultural shifts before others — and attributes the
+  early-warning ability specifically to being **less attached** to what he's currently doing.
+  Non-attachment is reframed here not as detachment-for-peace (as in §14's ego material) but as
+  a *perceptual* advantage: the less your identity is fused to your current work, the sooner
+  you can see it declining. He read audiences leaving cable/commercials for streaming and
+  concluded demand for commercials was in structural decline while his reps dismissed him.
+
+  > "I'm like the canary in the coal mine where I can sense change happening much quicker than
+  > most people. I like to think it's because I'm less attached to what it is I'm doing."
+  > — Chris Do, 2022-07-12
+  > "I think we need to build a new ship… The writing's on the wall, you're just not willing to
+  > read it." — Chris Do, 2022-07-12
+
+- **"Exchanged one master for another"** (2022-07-12): the genuinely-new reframe. Pivoting from
+  commercials to branding felt rewarding, but he realized he'd only swapped which client he
+  served — still "a slave to client work." A comfortable, well-paid pivot is not the same as
+  freedom. (Foreshadows §41's "freedom business" creed — the pivot to education was the search
+  for work that wasn't servicing clients at all.)
+
+  > "I think I exchanged one master for another master. I'm still working for the master, I'm
+  > still a slave to client work." — Chris Do, 2022-07-12
+
+- **Follow the work that's "life-affirming," then build the model around it** (2022-07-12):
+  teaching "filled my heart and soul" — so much he decided it "has got to be my calling" even
+  with no business model yet. The change-careers rule he draws: pivot *proactively* when you
+  sense the tide shifting (falling demand), toward what genuinely fulfills you, and trust that
+  you can build a sustainable model around it afterward — don't wait for the model to exist
+  first. (The mindset counterpart to §32's anti-planning "throw out the business plan.")
+
+  > "It filled my heart, my soul up so much that I was like this has got to be my calling in
+  > life. I didn't have a business model yet but I was going to figure it out." — Chris Do, 2022-07-12
+
+---
+
 ## Cross-cutting patterns
 
 - **Language is the lever.** War Jitsu (§3), "share" not "teach" (§7), defining words like
@@ -3107,3 +3264,14 @@ sharpens §14's authenticity material (2017-09-03) with crisper reframes.
 - [[wiki/sources/2022-06-21-yt-1PW3tPqcwCs]] — "Stop Apologizing For Being Your True Authentic
   Self" (self-acceptance, "they understand me perfectly", apologize for conduct not identity,
   design as self-discovery) — 2022-06-21
+- [[wiki/sources/2022-07-12-yt-2vvVWJlY-0E]] — "When Should You Change Careers?" ("canary in
+  the coal mine" non-attachment sensing, "exchanged one master for another", follow the
+  life-affirming work then build the model) — 2022-07-12
+- [[wiki/sources/2022-11-25-yt-_1z-_VuImVg]] — "5 Ways to Find Success & Passion in Life"
+  (5-step reverse-engineering framework: 3–5yr direction → 15–25-competitor rule (David C.
+  Baker) → reverse-engineer a role model into 5 things → easiest-first momentum → invest in
+  skills / syntopical reading / absorb-to-teach) — 2022-11-25
+- [[wiki/sources/2023-01-31-yt-nruy_Il03Bw]] — "$3.6M Idea Over Dinner" (manifestation / "we
+  get what we look for", "only look for big solutions / million-dollar-ideas-only", trade
+  unpaid work for proximity to high-net-worth rooms, speed of execution; mastermind mechanics
+  are guest "Sam"'s IP → business hub, not trained as Chris's) — 2023-01-31

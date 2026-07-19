@@ -4,7 +4,7 @@ domain: sales-clients
 domains: [sales-clients]
 created: 2026-07-14
 updated: 2026-07-19
-tags: [sales, negotiation, objection-handling, discovery, positioning, client-management, role-play, serve-dont-sell, embrace-and-pivot, qualifying, closing, client-archetypes, blair-enns, cialdini, leverage, first-client-call, business-development, ambassador, presenting, pitching, money-mindset, strategy-selling, order-taker, trusted-advisor, jobs-to-be-done, decks-are-crutches, difficult-clients, boundary-setting, know-trust-like, inbound-outbound, firing-clients, dont-convince, objection-response-deck, control-energy, diagnostic-phase, outcomes-over-craft, strategist-reframe, client-selection, three-outcomes, mirror-the-ask, build-rapport, reciprocity, time-vampires, dinner-test, sell-your-idea, foreign-idea-invader, outreach-challenge, jim-rohn, mentorship, value-exchange, scaffolding, five-sales-mistakes, two-ears-one-mouth, talk-money-early, match-and-mirror, tony-robbins, buyer-types, referral-fee, minimum-level-of-engagement, value-buyer, lead-temperature, hot-warm-cold-leads, russell-brunson, cold-outreach, dm-outreach, lumpy-mail, allan-dib, praise-first, trust-your-struggle, listen-to-understand, human-tape-recorder, presence, jonathan-stark, deposit-first, accusation-audit, chris-voss, never-split-the-difference, u-turn, say-it-first, consultative-selling, therapist-frame, lion-and-sheep, silence, stop-selling-start-closing, count-to-20, sales-acronym, if-then-close, fiduciary, kevin-daley, dream-date, robot-vs-monkey-brain, no-brainer, one-result, competitive-lock, client-retention, zig-ziglar, sales-timeline, proposal-vs-contract, signed-contract, lead-qualification, matchmaker-frame, last-chapter, honesty-raises-esteem, curse-of-knowledge, ask-small-questions, empathy-exercise, patience, honest-vs-polite, have-to-get-to, non-violent-communication, emotional-neutrality, meeting-etiquette, shadow-the-boss, ask-before-ready, junior-listen-take-notes, free-work, trade-up, marketing-expense, pro-bono, errol-gerson, dont-negotiate-against-yourself, trust-ladder, just-ask-them, consistency-principle, symmetry-of-logic, forcing-acknowledgment-question, agree-then-find-the-gap, five-options, embed-a-pm, difficult-client-repair, non-judgment, post-delivery-detachment, ownership-follows-payment, feel-it-dont-express-it, generous-check-in, graceful-tenacity, concede-by-not-objecting, principles-over-scripts, quality-vs-shareability, loaf-of-bread, design-to-strategy, position-around-you, value-add-then-charge, reluctant-buyer, deferred-final-payment, money-back-guarantee, future-pacing, sell-to-excitement, international-clients, four-obstacle-framework, escrow, certifications, small-starter-project, retreat-and-follow, three-why, what-not-why]
+tags: [sales, negotiation, objection-handling, discovery, positioning, client-management, role-play, serve-dont-sell, embrace-and-pivot, qualifying, closing, client-archetypes, blair-enns, cialdini, leverage, first-client-call, business-development, ambassador, presenting, pitching, money-mindset, strategy-selling, order-taker, trusted-advisor, jobs-to-be-done, decks-are-crutches, difficult-clients, boundary-setting, know-trust-like, inbound-outbound, firing-clients, dont-convince, objection-response-deck, control-energy, diagnostic-phase, outcomes-over-craft, strategist-reframe, client-selection, three-outcomes, mirror-the-ask, build-rapport, reciprocity, time-vampires, dinner-test, sell-your-idea, foreign-idea-invader, outreach-challenge, jim-rohn, mentorship, value-exchange, scaffolding, five-sales-mistakes, two-ears-one-mouth, talk-money-early, match-and-mirror, tony-robbins, buyer-types, referral-fee, minimum-level-of-engagement, value-buyer, lead-temperature, hot-warm-cold-leads, russell-brunson, cold-outreach, dm-outreach, lumpy-mail, allan-dib, praise-first, trust-your-struggle, listen-to-understand, human-tape-recorder, presence, jonathan-stark, deposit-first, accusation-audit, chris-voss, never-split-the-difference, u-turn, say-it-first, consultative-selling, therapist-frame, lion-and-sheep, silence, stop-selling-start-closing, count-to-20, sales-acronym, if-then-close, fiduciary, kevin-daley, dream-date, robot-vs-monkey-brain, no-brainer, one-result, competitive-lock, client-retention, zig-ziglar, sales-timeline, proposal-vs-contract, signed-contract, lead-qualification, matchmaker-frame, last-chapter, honesty-raises-esteem, curse-of-knowledge, ask-small-questions, empathy-exercise, patience, honest-vs-polite, have-to-get-to, non-violent-communication, emotional-neutrality, meeting-etiquette, shadow-the-boss, ask-before-ready, junior-listen-take-notes, free-work, trade-up, marketing-expense, pro-bono, errol-gerson, dont-negotiate-against-yourself, trust-ladder, just-ask-them, consistency-principle, symmetry-of-logic, forcing-acknowledgment-question, agree-then-find-the-gap, five-options, embed-a-pm, difficult-client-repair, non-judgment, post-delivery-detachment, ownership-follows-payment, feel-it-dont-express-it, generous-check-in, graceful-tenacity, concede-by-not-objecting, principles-over-scripts, quality-vs-shareability, loaf-of-bread, design-to-strategy, position-around-you, value-add-then-charge, reluctant-buyer, deferred-final-payment, money-back-guarantee, future-pacing, sell-to-excitement, international-clients, four-obstacle-framework, escrow, certifications, small-starter-project, retreat-and-follow, three-why, what-not-why, late-night-fm-dj-voice, tone-of-voice, tonal-control, belief-first, self-fulfilling-prophecy, help-not-sell, bucket-of-trust, make-better-wishes, one-thing, striking-distance, why-not-do-nothing, cost-of-inaction, socratic-selling, goodwill-bank, five-years-of-value, unsell-yourself]
 ---
 
 # Sales & Clients — hub
@@ -2926,6 +2926,220 @@ Voss reconciliation.
 
 ---
 
+## 58. Tone & delivery — the "late-night FM DJ voice" (2022-12-08)
+
+From "5 Sales Skills & Tips To Close More Sales" (2022-12-08)
+[[wiki/sources/2022-12-08-yt-2sf54bS99D8]] — single-speaker Chris Do monologue, framed as
+"the five biggest mistakes I see people making on a sales call." Four of the five restate
+existing material (see below); the **tone-of-voice** skill is **genuinely new to the hub**.
+
+**Tone of voice is a sales skill — the late-night FM DJ voice** (2022-12-08): most people
+are not mindful of *how* they sound. Talking fast raises the listener's heart rate and
+reads as anxious or desperate ("is the house on fire, is he in a rush?"), which signals
+*don't trust me*. Chris cites **Chris Voss's *Never Split the Difference*** and the
+**"late-night FM DJ voice"** — speak in a slow, low register and take lots of breaths; it
+calms people down. Corollary: a slow calm voice de-escalates an angry person, while
+speeding up and raising pitch builds excitement. The sales bottom line (paraphrase):
+
+> "Chris Voss talks about in his book *Never Split the Difference* about the late-night FM
+> DJ voice: speak in a slow, low tone of voice, take lots of breaths, and it'll calm people
+> down." (2022-12-08)
+
+> "If there's anxiety, if there's stress, people are less likely to trust you and therefore
+> less likely to buy from you." (2022-12-08)
+
+This complements the *content* of the discovery conversation (§2) with its *delivery*, and
+is the first hub entry to cite Voss's vocal-register technique specifically (Voss also
+underlies the §40 accusation audit and §42 labeling).
+
+**The other four "mistakes" restate existing material** (2022-12-08, brief): (1) not asking
+enough / asking leading-binary questions instead of open ones — §2; a client must first feel
+"do you recognize me, do you understand my problem, my fears and hopes"; (2) not truly
+listening — the concrete technique is to **take notes rather than hold eye contact** ("your
+words matter so much I must scribe them") and play their words back, a sharper articulation
+of the §39 human-tape-recorder drill; (3) trying to close too early ("honey, take me out on
+a date first… I didn't even know I liked you") — §9/§12; (4) having no filter — §9 qualify.
+Note Chris explicitly **rejects the "no dumb questions" cliché**: "there are such things as
+dumb questions… I get dumb questions all the time." (2022-12-08)
+
+---
+
+## 59. Belief-first diagnosis — why you aren't closing is a belief problem, not a tactics problem (2022-10-10)
+
+From "Selling: Why You Aren't Closing Any Clients" (2022-10-10)
+[[wiki/sources/2022-10-10-yt-QHSGKo1XKyM]] — Chris coaches a mentee ("Phil"; the coachee's
+replies are context, do-not-train). The new contribution is a **diagnosis of non-closing
+that ignores tactics and targets the seller's underlying belief.**
+
+**The belief → feeling → action → result chain** (2022-10-10, paraphrase): the belief you
+hold about an activity determines how you feel about it; the feeling determines the action
+you take; the action determines the result. Chris calls it "an oversimplified framework of
+human behavior" but "one of the most important things you can ever learn."
+
+> "The only variable that really changes anything is the belief about what you're doing —
+> because the belief determines how you feel, how you feel determines the action you take,
+> and the action you take determines the result." (2022-10-10)
+
+**The self-fulfilling-prophecy demo** (2022-10-10): run the *identical* activity (LinkedIn
+outreach) through two people with opposite beliefs and they get identical raw outcomes
+(some yeses, some no's, some ignores) yet opposite *net* results, because each interprets
+the evidence through their belief. Person A believes outreach is the best way to get
+business *and* is an act of service → feels confident → reaches out consistently → counts
+the yeses as proof it works. Person B believes outreach is "salesy, spammy, bothering
+people" → feels uncomfortable → acts half-heartedly → dismisses the yeses as luck and the
+no's as proof it "doesn't work." "They would focus on the stuff that reinforced the belief."
+
+**Why tactics don't fix it** (2022-10-10): "We can change the action… but if you still have
+this belief, what's going to happen… you'll be like, well, this doesn't work." Handing a
+skeptic a better script or more volume barely moves the outcome, because a hostile belief
+sabotages or discounts any tactic. So the binding constraint on closing is the belief, not
+the technique.
+
+**Extends to self-worth → revenue** (2022-10-10): the same chain governs income —
+
+> "If you believe to your core that you are worth half a million pounds… guess what — you
+> would have half a million pounds in revenue." (2022-10-10)
+
+This sits *underneath* the whole hub: the anti-desperation posture (§12), serve-don't-sell
+(§1) and retreat-and-follow (§57) all assume the seller first holds the belief that makes
+the calm, non-needy behavior possible. See [[wiki/topics/mindset/mindset]] for the
+belief-chain and self-worth framing.
+
+---
+
+## 60. "Sell" → "help" — the word-swap & the bucket of trust (2022-07-17)
+
+From "Overcome Your Fear of Sales — Reframe 'Sell' To 'Help'" (2022-07-17)
+[[wiki/sources/2022-07-17-yt-4-C7IPMao1g]] — Chris Do solo (closing podcast promo by Greg
+Gunn = context). Fresh, quotable packaging of the serve-don't-sell stance (§1).
+
+**The one-word reframe** (2022-07-17): the harder you try to sell, the fewer clients you
+get, because prospects sense a self-motivated agenda and lose trust. The fix is to mentally
+**erase the four-letter word "sell" and replace it with "help"** — approach with genuine
+enthusiasm to understand the client's needs, how they decide, and what has blocked them.
+
+> "I want you to rethink the word sell… it's four letters, let's just erase that word in
+> your mind and just help." (2022-07-17)
+
+**Helping can mean declining or referring** (2022-07-17): "sometimes helping you is to say
+I'm not qualified for this… or you're going to overpay for this, you should call somebody
+else for a lot less money" — and that *builds* trust. (Same serve-or-decline logic as §1;
+the graceful referral of §9.)
+
+**Trust is the currency; the bucket of trust** (2022-07-17): trust is "the currency that
+we're working within," and **everything you say — more importantly everything you *do* —
+either adds to or drains a "bucket of trust."** Self-diagnostic for your next call: how deep
+is the bucket of trust you're building versus the bucket of losing trust? Cutting a client
+off, or claiming to know the answer before they've fully articulated the problem, are
+selfish moves that drain it. When a client sees you as trustworthy they "pay you more…
+stop talking to other people, and give you more creative latitude than ever before."
+
+He contrasts this creative-friendly approach with the aggressive "Wolf of Wall Street"
+alpha-selling stereotype, which he says "only works when the seller has a lot of leverage"
+and is largely ineffective for creatives (2022-07-17). Reinforces §1 and §12.
+
+---
+
+## 61. "Make better wishes" — goal-setting as the front-end to client selection (2022-12-21)
+
+From "How To Get Better Clients That Pay You More" (2022-12-21)
+[[wiki/sources/2022-12-21-yt-pwyilOrVen4]] — live coaching demo; Chris coaches an unnamed
+participant (the coachee's lines = context). Client-selection, anchoring and the "say it /
+close it" line are already covered (§27, §3, §13); the **new** angle is a *front-end*:
+before you can attract better clients you must first make your **own goal** specific and
+measurable.
+
+**Make better wishes** (2022-12-21, paraphrase): don't accept a broad goal like "I need
+help closing clients" — force it into something specific and measurable ("teach me how to
+close $30k clients that do X, Y, Z"). Chris frames goal-setting as a genie / "one thing"
+exercise (referencing *The One Thing*): a vague wish gets a useless grant.
+
+> "I need to teach you how to make better wishes… you need to be more specific in your wish,
+> because I can help you close 200 clients — that's not gonna make you happy." (2022-12-21)
+
+**Striking distance** (2022-12-21): anchor the target to what's realistically within reach
+of where you are now (a $100k client, if that's within striking distance), not a fantasy
+number. This connects goal-setting to client-selection: you can't design a filter or a
+pitch for a client you haven't specified.
+
+The rest of the clip restates existing beliefs: sell the dream outcome before numbers
+enter, and **let the client name the number** — "as soon as you say 100K in the pricing
+negotiation part, you've already walked into the trap"; "when you say it, you're selling;
+and when they say it, you're closing." (2022-12-21 — see the §3 anchoring contradiction note
+and [[wiki/topics/pricing/pricing]].)
+
+---
+
+## 62. Feel the pain — the "why not do nothing?" cost-of-inaction diagnostic (2023-02-13)
+
+From "Feel the Pain" (2023-02-13) [[wiki/sources/2023-02-13-yt-uWX2g0QplSg]] — Chris Do solo.
+A compact sales-psychology model that sharpens the §26 cost-of-inaction / §4c "cost of not
+fixing it" material into a single diagnostic question.
+
+**Motivation = degree of pain felt × clarity of the outcome** (2023-02-13, paraphrase):
+people act on how much pain they feel *combined* with how clear the desired outcome is —
+"the combination of the two are very powerful to motivate people to take action."
+
+**Sellers under-sell the pain** (2023-02-13): most sellers over-index on painting the
+outcome and neglect helping the prospect *feel* the pain of their current situation. "Anytime
+you can't sell something and it's not worth a lot, it's because they don't feel the pain."
+The seller's job is to help the client **define** the pain, not just present a solution
+(Chris cites the book *Socratic Selling*). The lever is the **cost of inaction** — make the
+cost of *not* acting vivid and felt.
+
+**The diagnostic question — "Why not do nothing?"** (2023-02-13):
+
+> "One thing that you should do when you're talking to your clients… ask them this one
+> question: why not do nothing? That'll help them to tell you how much pain they're having
+> around not taking action." (2023-02-13)
+
+The same model explains why self-improvement stalls (wanting the gym but not going = "you
+don't feel the pain enough"). Adjacent to Stark's "why now / why not wait" (§57) and Voss's
+"what happens if you just wait?" (§57) — this is the felt-pain version of the same move.
+
+---
+
+## 63. The goodwill bank & "unsell yourself" (2023-02-14)
+
+From "This Sales Method Will Make You $1M" (2023-02-14)
+[[wiki/sources/2023-02-14-yt-7RNL_PUPdYE]] — Chris Do solo workshop; a role-play against an
+audience member "Anthony" (demo prospect = context). Mostly corroborates serve-don't-sell
+(§1) and retreat-and-follow (§57); two framings are worth capturing.
+
+**The goodwill bank — every ask "drops you to the bottom"** (2023-02-14, framing attributed
+to **Alex Hormozi**): give value with no ask for ~five years and you can become a
+millionaire; the more goodwill you build, the bigger the ask you can eventually make, but
+every ask spends the balance back down.
+
+> "If you want to make a million dollars, give five years of value, do not ask for a single
+> thing… every time you ask for something… you drop to the bottom again, you start over,
+> you're losing goodwill. The more goodwill… the bigger the ask can be." (2023-02-14)
+
+This is the "make content, give it away, no funnels" stance of §1 quantified as a bank
+balance. Chris adds a concrete self-critique: constant selling on "value" webinars
+(scarcity, bonuses, deadlines) "destroys my brand," and he admits refusing that funnel is
+"probably why we're not getting as many sales as we should" — an acknowledged trade-off.
+
+**"The only thing clients will do is what they already want to do"** (2023-02-14): the
+vendor's job is to *find out* what the client already wants, not push them; if it isn't what
+you sell, point them elsewhere — and the referral often comes back. Sharp restatement of
+diagnose-before-prescribe (§2) and serve-or-decline (§1).
+
+**The "unsell yourself" exercise** (2023-02-14) — a deliberate confidence-builder that
+extends retreat-and-follow (§57): Chris told a mentee who felt run over by clients to find a
+client she would *hate* to work with and, on the call, **unsell herself** — serve them,
+"retreat and see if they follow," recommend other options, be curious, lead with no bias.
+
+> "I want you to unsell yourself… serve the clients even because you don't want to work with
+> them. I want you to retreat and see if they follow." (2023-02-14)
+
+Result: the client praised her, referred two friends, and — for the first time in a long
+time — she felt "respected, wanted, and allowed to lead the engagement." Closes on scarcity
+mindset vs. the long game: selling "for today" comes from fear of not being in business
+tomorrow — "I'm not afraid, I'm gonna play this game for a really long time." Reinforces §12.
+
+---
+
 ## Cross-links
 
 - [[wiki/topics/pricing/pricing]] — value-based pricing, the desired-future-state → value
@@ -3097,6 +3311,18 @@ Voss reconciliation.
 - [[wiki/sources/2022-06-16-yt-4kVo2YEzPqQ]] — Getting People To Say Yes (2022-06-16) —
   retreat-and-follow half-step-as-test (Blair Enns), Stark's three-why (why-this/now/me),
   Voss "what-not-why" reconciliation, don't-pursue/higher-ground.
+- [[wiki/sources/2022-07-17-yt-4-C7IPMao1g]] — Reframe 'Sell' To 'Help' (2022-07-17) —
+  erase-"sell"/write-"help" word-swap, trust-is-the-currency, the bucket of trust; *Greg Gunn promo = context.*
+- [[wiki/sources/2022-10-10-yt-QHSGKo1XKyM]] — Why You Aren't Closing Any Clients (2022-10-10) —
+  belief-first diagnosis (belief→feeling→action→result), self-fulfilling-prophecy demo, self-worth→revenue; *coachee "Phil" = context.*
+- [[wiki/sources/2022-12-08-yt-2sf54bS99D8]] — 5 Sales Skills To Close More Sales (2022-12-08) —
+  late-night-FM-DJ voice / tonal control (Chris Voss); the other 4 mistakes restate §2/§9/§12/§39.
+- [[wiki/sources/2022-12-21-yt-pwyilOrVen4]] — Get Better Clients That Pay More (2022-12-21) —
+  "make better wishes" goal-setting front-end (One Thing / striking distance), let-client-name-number; *participant = context.*
+- [[wiki/sources/2023-02-13-yt-uWX2g0QplSg]] — Feel the Pain (2023-02-13) —
+  motivation = pain-felt × outcome-clarity, cost-of-inaction, the "why not do nothing?" diagnostic (Socratic Selling).
+- [[wiki/sources/2023-02-14-yt-7RNL_PUPdYE]] — This Sales Method Will Make You $1M (2023-02-14) —
+  goodwill bank / five-years-of-value (Hormozi), "unsell yourself" exercise, long-game vs. scarcity; *role-play "Anthony" = context.*
 - [[wiki/sources/2023-10-19-yt-Abi8kwkfZbA]] — Don't Justify Your Prices (2023-10-19) —
   symmetry of logic, have-to-have vs. nice-to-have.
 - [[wiki/sources/2023-12-23-yt-B-NxAZiDkKo]] — The Kind Way to Sell / SALES keynote

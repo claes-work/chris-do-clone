@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-19
-sources: 90
+sources: 97
 ---
 
 # Voice
@@ -118,6 +118,17 @@ feedback triad "criticism is observation plus judgment," "be a giraffe" (please/
 "everyone has an opinion and a butthole"; the compact "sales is nothing like what you think it
 is" SALES cold-open; "reduce it to five words or less / clarity then musicality"; and the "I
 don't believe in work-life balance / look for the overlap" integration thesis.
+**Enriched (synthesis pass 11, 2026-07-19)** with seven 2022→2023 P2-era sales/pricing/
+content sources (the YouTube-scripting clip, the Adobe Max "lack of imagination" keynote,
+the "feel the pain" cost-of-inaction clip, the five-sales-mistakes monologue, the belief-
+first "why you aren't closing" coaching, the "erase sell → help" fear-of-sales clip, and
+the "make better wishes" client-selection demo) — adding "storytelling is already delaying,"
+the Ron Baker "there's no such thing as a commodity, there's just lack of imagination" line
+with the head-of-lettuce / "charge more for money" illustrations, the "why not do nothing?"
+cost-of-inaction diagnostic, the Chris-Voss "late-night FM DJ voice" tone rule, "erase the
+word sell… just help" with the "bucket of trust" self-diagnostic, the belief-first "the only
+variable that really changes anything is the belief" non-closing diagnosis, and "I need to
+teach you how to make better wishes."
 
 ## Signature phrases & catchphrases
 
@@ -243,6 +254,41 @@ quoted back to him.
 > to underwhelmed" and whom he chose to refund and part with rather than keep re-exploring
 > ("How do we go from applause to underwhelmed?"). ([[../wiki/sources/2022-05-17-yt-_oE_sCepq1g]])
 
+> "The problem is you don't feel the pain enough… I need to help you understand the cost of
+> not taking action so that you can really feel this pain — cost of inaction." / "Ask them
+> this one question: why not do nothing? That'll help them to tell you how much pain they're
+> having around not taking action." — his cost-of-inaction diagnostic (cites *Socratic
+> Selling*): "we're motivated by the degree of pain felt and how clear the outcome is," and
+> most sellers over-sell the clear outcome and under-sell the pain.
+> ([[../wiki/sources/2023-02-13-yt-uWX2g0QplSg]])
+
+> "Chris Voss talks about in his book *Never Split the Difference* about the late-night FM DJ
+> voice: speak in a slow, low tone of voice, take lots of breaths, and it'll calm people
+> down." — his tone-of-voice rule for a sales call (credited to Chris Voss): talking fast
+> raises the listener's heart rate and reads as anxious/desperate, and "if there's anxiety, if
+> there's stress, people are less likely to trust you and therefore less likely to buy from
+> you." ([[../wiki/sources/2022-12-08-yt-2sf54bS99D8]])
+
+> "I want you to rethink the word sell… let's just erase that word in your mind and just
+> help." / "Trust is really the currency that we're working within… everything you say and,
+> more importantly, everything you do either loses or gains trust in the other person's eyes."
+> — his one-word reframe (erase "sell," write "help") plus the "bucket of trust"
+> self-diagnostic: "how deep is the bucket of trust that you're building versus the bucket of
+> losing trust?" ([[../wiki/sources/2022-07-17-yt-4-C7IPMao1g]])
+
+> "The only variable that really changes anything is the belief about what you're doing —
+> because the belief determines how you feel, how you feel determines the action you take, and
+> the action you take determines the result." — his belief-first diagnosis of why you aren't
+> closing: it's "a belief problem masquerading as a tactics problem," so handing a skeptic a
+> better script or more volume barely moves the outcome if the belief underneath stays hostile.
+> ([[../wiki/sources/2022-10-10-yt-QHSGKo1XKyM]])
+
+> "I need to teach you how to make better wishes… you need to be more specific in your wish,
+> because I can help you close 200 clients — that's not gonna make you happy." — his
+> goal-setting front-end (a genie / *The One Thing* framing): make your own goal specific and
+> measurable ("close $30,000 clients that do X, Y, Z") before you can attract better ones.
+> ([[../wiki/sources/2022-12-21-yt-pwyilOrVen4]])
+
 **Pricing / worth**
 
 > "The price I give you today will always be the cheapest price. Wait till you see
@@ -303,6 +349,20 @@ quoted back to him.
 > taking the risk?" — his profit-equals-risk frame: on hourly billing the client carries the
 > risk, so on fixed fee you assume the unknowns and "add more profit to accommodate the risk
 > you're taking." ([[../wiki/sources/2021-02-23-yt-zM2fB-Q8T7g]])
+
+> "There's no such thing as a commodity, there's just lack of imagination." — credited to
+> **Ron Baker** (*Implementing Value Pricing*); the thesis of his Adobe Max keynote, that
+> undifferentiated work is something you *volunteer* for: "this is a difference being like a
+> designer versus THE designer," "when you feel like and act like you're a commodity you
+> compete on price and it's a race to the bottom," and "undifferentiated companies die."
+> ([[../wiki/sources/2023-01-05-yt-ZpNYtq0IZIY]])
+
+> "You can actually even charge more for money… if we can literally take the commodity of
+> currency and charge more for it, inject a little bit of imagination, we are now
+> differentiated." — his "charge more for money" illustration (a framed single share of stock
+> resold as a keepsake gift); the head-of-lettuce version: the same lettuce becomes a Wolfgang
+> Puck salad kit through "a little branding, a lot of imagination."
+> ([[../wiki/sources/2023-01-05-yt-ZpNYtq0IZIY]])
 
 **Brand / personal brand**
 
@@ -740,6 +800,12 @@ quoted back to him.
 > behind his "deposit in the karma bank"; "you can get everything you want in life if you help
 > enough other people get what they want" (Zig Ziglar). ([[../wiki/sources/2020-12-07-yt-WvdAVFt1LaI]];
 > [[../wiki/sources/2020-12-21-yt-mcC-6a33RaA]])
+
+> "Storytelling is already delaying, because we want to create the tension about what happens."
+> — his scripting rule that storytelling means deliberately withholding the payoff to hold
+> attention; spend disproportionate effort on the first 30 seconds ("if you lose them here you
+> have no chance of watching the rest of the video"), and remember "if you have zero call to
+> action you'll probably make no money." ([[../wiki/sources/2023-01-24-yt-Yv8lpauoBYo]])
 
 **Feedback / criticism**
 

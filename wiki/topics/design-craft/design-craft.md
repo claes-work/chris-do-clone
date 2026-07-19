@@ -1288,6 +1288,62 @@ borrowed frameworks are third-party citations, not persona origination.)*
 
 ---
 
+## 34. Inspiration from OUTSIDE your industry; creativity = distance between disparate things
+
+From a 2022 clip, "How To Be Inspired By Nature" (CONFIRMED Chris Do; an unnamed co-host asks
+one question, Greg Gunn delivers the outro — both CONTEXT). This is the corpus's canonical,
+quotable statement of the "creativity connects two disparate ideas" thesis that §10, §14 and §29
+all cross-reference, plus a concrete *sourcing* practice: look far outside your own field. It
+extends §7's "everything is remix" and §30's "cross-pollinate from an adjacent field" — where
+§30 says look to a nearby field (fashion→architecture), this pushes to nature and everyday
+objects and adds the **distance** dimension. [[wiki/sources/2022-06-30-yt-NClPY12YRYU]] (2022-06-30)
+
+- **Creativity = distance between disparate things.** The farther apart the two things you connect,
+  the more it reads as creative — a non-sequitur brought into your thinking is what reads as
+  "crazy cool, unique." (paraphrase; Chris notes he taught this to his art-school design students)
+  [[wiki/sources/2022-06-30-yt-NClPY12YRYU]] (2022-06-30)
+
+> "Creativity is your ability to find a connection between two or more disparate things, and the
+> farther apart those two things are, the more we're going to say that's really creative."
+> — Chris Do [[wiki/sources/2022-06-30-yt-NClPY12YRYU]] (2022-06-30)
+
+- **Don't look at your own industry — it just recycles the field.** Looking at your own field is
+  "like looking at your own product"; you end up "regurgitating an idea and putting a slightly new
+  coat of paint on it… the same idea seen over and over again." (paraphrase + quote)
+  [[wiki/sources/2022-06-30-yt-NClPY12YRYU]] (2022-06-30) *(Same trap as §15's "chase good, not
+  original" and §30's "creative watering hole" where everyone stares at the same stuff.)*
+- **Look to nature and other disciplines — "nature always works."** For inspiration and color
+  Chris looks to architecture, gardening, plants, flowers, and animals, because nature "always
+  got it figured out — nothing in nature looks bad." A flower rewards close looking (beautiful
+  from afar, *more* beautiful up close — intricate, almost fractal) and it *always* works
+  aesthetically, which he calls "an incredible notion in itself." (paraphrase + quote)
+  [[wiki/sources/2022-06-30-yt-NClPY12YRYU]] (2022-06-30)
+
+> "I look outside because nature's always got it figured out. Nothing in nature looks bad."
+> — Chris Do [[wiki/sources/2022-06-30-yt-NClPY12YRYU]] (2022-06-30)
+
+- **Interrogate why a thing *feels* good, then transfer it.** To learn how something should feel,
+  walk into a beautiful building and ask *why* it feels good — textures, how materials come
+  together, scale, proportion, setting — then transfer that thinking to an "unrelated" medium like
+  software, which is really deeply related (both are about space, function, and feeling).
+  (paraphrase) [[wiki/sources/2022-06-30-yt-NClPY12YRYU]] (2022-06-30)
+- **Keep physical inspiration objects at the desk.** Chris studies rocks (some just found on the
+  beach, one a ~$10 "desert rose"), ceramics, and furniture while working — their textures,
+  shadows, shapes, proportions, and color — deliberately *not* looking at software while building
+  software. Aesthetic judgment here is "purely subjective… there's no objective thing probably."
+  (paraphrase) [[wiki/sources/2022-06-30-yt-NClPY12YRYU]] (2022-06-30)
+- **Copying-to-learn is a stage, not the goal.** Early in his career Chris leaned on his own
+  industry (Communication Arts, print, business cards, letterhead) and it made him a good
+  *copier* — useful for learning, but he felt less creative; he only started generating his own
+  ideas once he looked *away* from his field and figured out how to bring outside influences back
+  in. (paraphrase) [[wiki/sources/2022-06-30-yt-NClPY12YRYU]] (2022-06-30) *(Consistent with §7's
+  master-copy / copy-to-learn framing.)*
+
+> "There's inspiration everywhere, and I would encourage people to look far outside their own
+> industry and their own trade for it." — Chris Do [[wiki/sources/2022-06-30-yt-NClPY12YRYU]] (2022-06-30)
+
+---
+
 ## Excluded — instructor-led
 
 Per fidelity rule #6 (speaker attribution), the following Futur "craft" videos are
@@ -1436,4 +1492,5 @@ it trains Chris's *written* design voice, not his verbal cadence.
 - [[wiki/sources/2021-01-07-yt-9GzVEUhKOqc]] — 3 Things Designers Get Wrong (positioning craft: design-as-service-not-art; present-as-least-risky-option; differentiate via process-story not novelty). (2021-01-07)
 - [[wiki/sources/2021-12-21-yt-piwDPirw0E0]] — Dealing With Negative Feedback whiteboard (design-critique craft: Criticism = Observation + Judgment; three types of feedback; I-statements; mandates vs. parameters; four-quadrant observe→insight→rule→action ladder). (2021-12-21)
 - [[wiki/sources/2022-05-05-yt-lpwjLPhYfew]] — What To Do When Someone Copies Your Work ("they can copy your output, not your process"; copying-as-learning vs. deceptive duplication). (2022-05-05)
+- [[wiki/sources/2022-06-30-yt-NClPY12YRYU]] — How To Be Inspired By Nature (creativity = distance between two disparate things; look outside your industry; nature "always works"; physical inspiration objects at the desk; copying-to-learn stage). (2022-06-30)
 - [[wiki/sources/2023-06-14-yt-SdCzIDmfDAA]] — Good vs. great designers (bad-to-good slider, mastery, "do less but better," Holtzman). (2023-06-14)

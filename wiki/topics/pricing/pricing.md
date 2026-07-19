@@ -4,7 +4,7 @@ domain: pricing
 domains: [pricing]
 created: 2026-07-14
 updated: 2026-07-19
-tags: [pricing, value-based-pricing, price-the-client, anchoring, anchoring-reversal, verbal-upfront-pricing, discount-for-uncertainty, raising-rates, objection-handling, negotiation, price-bracketing, competitive-positioning, charge-for-discovery, embrace-and-pivot, storytelling, budget-scope-timeline, budget-first, budget-first-vs-relationship, order-taker-vs-advisor, underpricing-signal, resentment-signal, cant-lose-a-job-you-never-had, value-scale-of-questions, discovery-as-a-service, strategy-pricing, get-paid-to-think, price-as-qualifier, double-the-rate-ladder, inputs-vs-outputs, desired-future-state, train-of-thought, feeling-thought-reaction, limbic-brain, price-options, attention-ownership, price-first-scope-after, stop-hourly, socratic-hourly, value-appreciation, scope-creep, separate-service, de-scope, cost-stack, positioning-value, go-to-person, double-dont-inch-up, buyer-decides-fair, charge-more-virtuous-loop, referral-budget-qualification, self-worth-ceiling, education-not-worth, objection-by-inversion, invent-systems, royalty-vs-licensing, packaging-fees, say-it-like-a-fact, context-sets-value, horse-painter, charity-vs-clients, barter-menu, exposure-is-an-act, equity-in-lieu-of-fee, pro-bono-ratio, bid-buildup, hire-at-or-above-level, investor-mindset, compare-against-yourself, top-price-first, wine-list-reset, subjective-value, doctor-counter, envy-reframe, cost-vs-price-vs-value, seller-sets-price-buyer-sets-value, profit-from-risk, cost-plus, production-fee, padded-day-rates, statement-of-work, fixed-plus-variable, aicp-bid-form, top-sheet, karen-rainey, present-day-rate-card, retreat-and-follow, phased-discovery-bid, important-urgent-grid, budget-live-in-room, pain-threshold, facilitator-as-advocate, money-not-budget, sliding-scale-by-risk, rush-charge, pain-in-the-butt-charge, every-dollar-returns-10x, dan-mall, course-prelaunch-pricing, price-low-then-raise, verbal-commitment-against-lowball, fu-call, rom-bid, swag, scope-variation-funnel, contingency-fee, guarantee-handling, price-the-risk, prorate-guarantee, roi-return-framing, paper-the-guarantee, cogs-gross-margin, low-expenses-leverage, walk-away-power]
+tags: [pricing, value-based-pricing, price-the-client, anchoring, anchoring-reversal, verbal-upfront-pricing, discount-for-uncertainty, raising-rates, objection-handling, negotiation, price-bracketing, competitive-positioning, charge-for-discovery, embrace-and-pivot, storytelling, budget-scope-timeline, budget-first, budget-first-vs-relationship, order-taker-vs-advisor, underpricing-signal, resentment-signal, cant-lose-a-job-you-never-had, value-scale-of-questions, discovery-as-a-service, strategy-pricing, get-paid-to-think, price-as-qualifier, double-the-rate-ladder, inputs-vs-outputs, desired-future-state, train-of-thought, feeling-thought-reaction, limbic-brain, price-options, attention-ownership, price-first-scope-after, stop-hourly, socratic-hourly, value-appreciation, scope-creep, separate-service, de-scope, cost-stack, positioning-value, go-to-person, double-dont-inch-up, buyer-decides-fair, charge-more-virtuous-loop, referral-budget-qualification, self-worth-ceiling, education-not-worth, objection-by-inversion, invent-systems, royalty-vs-licensing, packaging-fees, say-it-like-a-fact, context-sets-value, horse-painter, charity-vs-clients, barter-menu, exposure-is-an-act, equity-in-lieu-of-fee, pro-bono-ratio, bid-buildup, hire-at-or-above-level, investor-mindset, compare-against-yourself, top-price-first, wine-list-reset, subjective-value, doctor-counter, envy-reframe, cost-vs-price-vs-value, seller-sets-price-buyer-sets-value, profit-from-risk, cost-plus, production-fee, padded-day-rates, statement-of-work, fixed-plus-variable, aicp-bid-form, top-sheet, karen-rainey, present-day-rate-card, retreat-and-follow, phased-discovery-bid, important-urgent-grid, budget-live-in-room, pain-threshold, facilitator-as-advocate, money-not-budget, sliding-scale-by-risk, rush-charge, pain-in-the-butt-charge, every-dollar-returns-10x, dan-mall, course-prelaunch-pricing, price-low-then-raise, verbal-commitment-against-lowball, fu-call, rom-bid, swag, scope-variation-funnel, contingency-fee, guarantee-handling, price-the-risk, prorate-guarantee, roi-return-framing, paper-the-guarantee, cogs-gross-margin, low-expenses-leverage, walk-away-power, pricing-ladder, career-stage-risk-ladder, input-output-outcome, profit-participation, licensing-usage-rights, supply-chain-margin, ten-to-hundred-markup, graduate-from-hourly, opaque-estimate, three-yeses-rule, close-rate-underpricing, design-thinking-anchors, unbundle-workshop-phases, price-as-signal, labor-theory-of-value, goldilocks-choice-architecture]
 ---
 
 # Pricing — hub
@@ -233,6 +233,22 @@ negotiation is judged against.
   with you?" to "*how* should I work with you?" This framework is **Ron Baker's**, which
   Chris hosts and endorses in the value-pricing masterclass
   ([[wiki/sources/2022-09-22-yt-TB54_6bEP-A]]).
+  - _Fresh 2023 framings for the three-option / value case (light reinforcement, not new
+    doctrine):_ pricing is **psychology, not cost.** Chris attacks the **labor theory of
+    value** — which he ties to Karl Marx / Marxism, the idea that a good should cost only its
+    "necessary labor" — using a viral TikTok "$3,500 luxury-wallet teardown to a $275 fair
+    value" as the foil: it "fails to understand buyer psychology," because "when I buy
+    something I start to form my own identity" (people buy identity, not materials). **Price
+    is a signal:** "when you price something low it signals to your client something… and when
+    you price something high, relatively speaking, it signals something totally different."
+    The *why* behind three options is **choice architecture / Goldilocks** — "we usually pick
+    the one in the middle because… we're contextual thinkers. It's very hard for us to make a
+    decision absent context" — so offering "a low, an ideal, and a premium" both wins the
+    middle *and* "removes the client's incentive to go bid you against other vendors" (a lone
+    price has no context, so they shop it around). Also: "what you don't understand is people
+    want to pay more for something — you just need to give them a reason to," and Ron Baker's
+    "there's no such thing as a commoditized service or product; there's just a lack of
+    imagination." ([[wiki/sources/2023-02-23-yt-qfA0RkYube8]]).
 
 ---
 
@@ -375,6 +391,21 @@ because the buyer is psychologically different above a price threshold.
   supply to justify a higher price. The busyness "trick": "I'm really busy, it's gonna be
   a rush charge, I'll have to work the weekend." **Position yourself as an expert, not a
   service provider** — experts are busy ([[wiki/sources/2018-08-27-yt-gIw-PBNXWgE]]).
+- **The three-yeses rule — a named trigger for *when* to raise (new, 2022-11-22).** The rest
+  of §8 covers *how much* and the mindset; this adds the concrete signal for *when*: **three
+  yeses in a row → raise your price.** "If you get three yeses, change your price. Three
+  yeses is all you need, ever. Forever." A **close rate above ~60–70% is itself an
+  underpricing symptom** — "if you're closing more than 60, 70 [percent] it's because your
+  ask is too small… either way you need to charge more" (a numeric threshold on the
+  resentment/underpricing signal in §23). Grounded in supply/demand: "how much supply is
+  there of you? One… if you can increase demand for you, then you're on the right side of the
+  supply-demand chain." **Increment: 2x is great — "you don't have to go 10x" — but don't
+  inch up** (he jumped his own speaking fee $10K → $30K in one move: "I don't take little
+  steps. I'm just gonna go"), consistent with the double-don't-inch-up rule in §28. When
+  raising produces *too many* no's, either settle back to the supply/demand equilibrium or —
+  the real answer — **create more value and become the person worth the higher fee**: "What
+  are you willing to do to become a person where people will pay you that much?" Framed by a
+  "you're either growing or you're dying" mindset ([[wiki/sources/2022-11-22-yt-Dr4Ux8_mfU8]]).
 - **"Double your price tomorrow."** Blunt headline advice to an undercharging illustrator
   ($300 → $600, no framing, don't explain it) ([[wiki/sources/2018-08-27-yt-gIw-PBNXWgE]]).
 - **Raise the gate** — design the brand experience (website, curated case studies over
@@ -806,6 +837,20 @@ clients._
   gets ~60% of the real value ("a D… one letter away from an F"); the strategist reaches the
   perfect thing — and can bill $10K for the realization itself. Done well, "you should have
   almost no competition." ([[wiki/sources/2018-03-08-yt-dKIyObgkBVI]]).
+- **Hard price anchors for design-thinking engagements (2022-07-15).** Concrete numbers for
+  pricing the *thinking* itself: "it's not uncommon to charge 50,000 or more for these larger
+  projects," and "I typically charge 150,000 for eight to ten week projects that include
+  research, workshop and a design strategy." Scope — and therefore price — scales with duration,
+  "from as little as one week up to a whole year and beyond." **Unbundle the engagement into
+  three separately-billed phases**: (1) **workshop prep** — aligning the client and stakeholders
+  on the creative brief / problem to solve, plus light company research; (2) **the workshops
+  themselves** — one to several days, in person or virtual, "to uncover deep insights about their
+  customer base, their market conditions, and… their perceptions of their own business"; (3)
+  **post-workshop analysis & reporting** — "at least four to five days uncovering and unpacking"
+  the learnings into a findings report that decides whether more research is needed or the project
+  can proceed. Mapping the process flow is what reveals where the deliverables surface, which is
+  what lets you "elevate your design pricing package." Worked short **two-week project = $50,000**,
+  split across those three phases ([[wiki/sources/2022-07-15-yt-VSDT8VmzzHI]]).
 
 > COACHEE CONTEXT (not Chris-attributed): in the 2018-03-02 role-play Chris's mentee **Melinda
 > Livsey** articulates a **Brand Strategy → Objectives → Deliverables** hierarchy ("start with
@@ -1906,6 +1951,85 @@ persona data.)_
 
 ---
 
+## 43. The pricing ladder — a career-stage / risk progression (input → output → outcome → profit-share)
+
+_Est. 2022-11-17. Chris's clearest single framing of how the models scattered across this hub fit
+together: a **staged ladder** you climb as you take on more risk and move closer to the client.
+This section **unifies** the anti-hourly case (§1), the cost / fixed-bid mechanics (§7, §33, §37),
+value-based pricing (§2, §6), and the "just master the progression" advice (§28) into one ordered
+progression — and adds a **fourth royalty / profit-participation rung** above them._
+
+The governing rule: **"whoever takes on the risk makes more money."** Each rung up the ladder moves
+risk from the client to you and moves you closer to the client, so each rung earns more.
+
+> "At some point in your life you need to graduate from charging hourly so that you can move into
+> more fixed fees or project-based pricing or pricing based on outputs." — Chris Do,
+> [[wiki/sources/2022-11-17-yt-b5OtiUpNvqs]]
+
+**The rungs** ([[wiki/sources/2022-11-17-yt-b5OtiUpNvqs]]):
+
+1. **Hourly / day-rate — pricing on *inputs* (the freelancer).** You're booked as "a temporary
+   employee" for a period of time. When new, ask the booker "what do people like me charge people
+   like you," then raise your rate as you demonstrate higher output (e.g. $250/day → $350/day once
+   you show you produce twice as much; +$50/day or +$10–20/hr with each new studio). **Problem:**
+   you only make money while working and you're incentivized to work *longer*, not more
+   efficiently — so people "quiet quit" / artificially slow down — and there's a market ceiling
+   (~$1,000/day) where you get "priced out." (The same anti-hourly critique as §1, here staged as
+   merely the *first* rung, not a sin.)
+2. **Fixed fees / project-based — pricing on *outputs* (the independent "agency of one").** Once
+   you work directly with clients (agency middleman removed), itemize deliverables, estimate
+   hours × rate, then **add padding** because projects go sideways. Clients *expect* a fixed fee to
+   cost more than hourly — hourly forces them to police your time, whereas a fixed fee **transfers
+   the risk to you**, and "whoever takes on the risk makes more money." They no longer expect *you*
+   personally to do the work, so you're rewarded for being efficient, hiring good people, and
+   upgrading equipment. **Markup heuristic (new): charge 10%–100% more than your estimated cost**
+   ($10K of man-hours → charge $20K, "in fact… a lot more"), scaled to the customer's appetite,
+   business health, and perceived value. (Complements the cost build-up in §7 / §33 / §37.)
+3. **Outcome / value-based — pricing on the *value created* (§2, §6).** Charge on the value to the
+   client, not the artifact. **On-ramp (new framing): borrow the illustrator's/photographer's
+   licensing model** — "what is the usage? What kind of rights do you want to own?" (they don't
+   even transfer ownership) — and price by estimating impressions / market reach. Worked example: a
+   25% conversion lift on an e-commerce page (1,000 → 1,250 sales/month × ~$100 profit = ~$25K/month
+   → ~$250K over ten months) → negotiate a percentage of that value (10–20%, "up to 80… whatever you
+   can negotiate"), e.g. a flat **$25K–$50K fee to capture ~10–20%** — "a good deal every day of the
+   week."
+4. **Royalty / commission / profit participation — the advanced 4th rung (extends §30).** Charge
+   **nothing up front** and collect a percentage of every sale, for a period or in perpetuity. Only
+   for well-run companies with good products and "fair, honest people." Chris would **not** build a
+   whole agency on this — it's "a bit of a gamble" with no immediate cash; keep only 1–2 such
+   **"partners"** (a word he uses deliberately — "their success and your ability to make money are
+   tied together") alongside more reliable models.
+
+**Supporting principles** ([[wiki/sources/2022-11-17-yt-b5OtiUpNvqs]]):
+
+- **The wheat → pie supply-chain analogy.** "As many people between the person who makes the work
+  and the client, the less money you make." Own more of the pipeline (farmer → mill → wholesaler →
+  baker → slice of pie) to reap more profit — but you inherit customer service, inventory, and
+  risk. General markup rule cited: "whatever you buy you charge twice as much."
+- **"Graduate from hourly."** Continuing to bill hourly once you're an independent studio is a
+  "mistake" — you've acquired too much risk to still be pricing on inputs.
+- **Make the estimate opaque (agency clients).** His firm "did somewhere between four to six
+  million dollars every single year, and for the vast majority of that time we did fix fees," and
+  evolved to present **deliverables + terms & conditions instead of itemized line items**, because
+  agency buyers just flip to the bold grand total anyway.
+- **Terms & conditions ride on the fixed fee**: e.g. max 3 rounds of revisions (revisions = tweaks,
+  not starting over), 9–5 Mon–Fri, and the project closes/rebids if the client stalls it more than
+  ~2 weeks.
+
+> POSITION NUANCE (not a contradiction): presenting hourly/day-rate as a *legitimate* model here
+> sits against Chris's usual "value-based is the ideal" stance — but this source is precisely the
+> **reconciliation**: hourly → fixed → value → profit-share is a **career-stage / risk ladder**,
+> not a menu of equals. Hourly is the entry rung for freelancers/temp workers; you "graduate" to
+> fixed fees, then value-based, as independence and risk grow. He adds that a very successful agency
+> can run on fixed fees alone, and that a *mix* of models (not 100% profit-participation) is
+> healthiest. This is the staging the POSITION NUANCE callouts in §1 (hourly "still makes sense
+> sometimes") and §28 ("master the progression hourly → deliverable → project fees, *then* value")
+> gesture at — the ladder is the through-line.
+> [[wiki/sources/2022-11-17-yt-b5OtiUpNvqs]] · [[wiki/sources/2019-05-06-yt-kY7i_JYNQ3Y]] ·
+> [[wiki/sources/2016-10-22-yt-RKXZ7t_RiOE]]
+
+---
+
 ## Worked figures & self-reported claims
 
 Concrete numbers Chris cites for his own business or in case studies. Studio rates and the
@@ -1917,6 +2041,10 @@ $69k deal are `[self-reported]`; teaching figures are illustrative.
   $20,000–$30,000; logo $16,000 (logo-with-mascot ~$40,000–$50,000); application design ~same;
   messaging $12,000. "All variable depending on the size of the client... and the value you're
   going to deliver." `[self-reported]` ([[wiki/sources/2021-02-11-yt-OiUOaZJJYzg]], §37).
+- **Design-thinking engagement anchors (2022):** "not uncommon" to charge $50,000+ for larger
+  projects; a short two-week engagement ~$50,000; **$150,000 for an eight-to-ten-week project**
+  (research + workshop + design strategy), unbundled into prep / workshop / post-workshop
+  reporting. `[self-reported]` ([[wiki/sources/2022-07-15-yt-VSDT8VmzzHI]], §18).
 - **Course/product figures (2020):** typography course $69 pre-launch → $99 full price;
   $173,000 in the first month; $500,000+ lifetime (one month at $28,000). Futur book Kickstarter
   ~$75,000 (goal $25,000). Teaching figures illustrative/`[self-reported]`
@@ -2037,7 +2165,11 @@ qualifying), [[wiki/entities/the-futur|The Futur]].
 - [[wiki/sources/2021-04-25-yt-S3gC1JRbbdw]] — "Business 101 – How To Leverage Money For Time" (COGS → gross-margin defines real profit; opportunity-cost worksheet lives on the business hub; §39)
 - [[wiki/sources/2021-08-28-yt-TEg5xGw4Q3U]] — "Bidding Fundamentals — How To Price Projects" (ROM / SWAG / scope-variation funnel + contingency-fee mechanic, value-based-is-current callout; §38)
 - [[wiki/sources/2022-05-15-yt-6fcQjN4VCPY]] — "Limiting Beliefs, Behaviors — Do This Instead" (low expenses → walk-away leverage → pricing power; §42)
+- [[wiki/sources/2022-07-15-yt-VSDT8VmzzHI]] — "How To Charge For Design Thinking" (hard price anchors $50k/2wk, $150k/8–10wk; unbundle prep/workshop/reporting; §18)
 - [[wiki/sources/2022-09-22-yt-TB54_6bEP-A]] — Price & value masterclass with Ron Baker (influence link, three options)
+- [[wiki/sources/2022-11-17-yt-b5OtiUpNvqs]] — "3 Pricing Strategies" (the career-stage / risk pricing ladder: input→output→outcome→profit-share; 10–100% fixed-fee markup; licensing/usage on-ramp; wheat→pie supply chain; opaque estimate; §43)
+- [[wiki/sources/2022-11-22-yt-Dr4Ux8_mfU8]] — "How & When To Raise Your Rates" (the three-yeses rule, >60–70% close-rate underpricing signal, 2x-not-10x; §8)
+- [[wiki/sources/2023-02-23-yt-qfA0RkYube8]] — "How To Price Your Services…" (light: labor-theory-of-value/Marx critique, price-as-signal, Goldilocks/choice-architecture rationale for three options; §5)
 - [[wiki/sources/2023-04-24-yt-kTFhQf5_RxI]] — Raising rates $2k→$5k (raise-your-rate-to-raise-client-quality ladder)
 - [[wiki/sources/2023-10-19-yt-Abi8kwkfZbA]] — "Don't justify your prices" (symmetry of logic, have-to-have vs nice-to-have)
 - [[wiki/sources/2025-04-08-yt-b0fQyaBSSI0]] — Pricing deep dive $500→$100k (full price-the-client method, ~20% anchor, $69k case study)

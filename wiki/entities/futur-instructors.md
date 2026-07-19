@@ -201,7 +201,7 @@ Listed here as an attribution guard so their material stays out of `persona/`.
   Do is absent from this series** — the teaching is the guests', framed by Futur hosts. None of it trains
   the persona.
 
-## 2022 multi-instructor era (recognize & fence on sight)
+## 2022–2023 guest-expert era (recognize & fence on sight)
 
 > ⚠️ From **~mid-2021 onward the @thefutur main channel is increasingly team/guest-led** —
 > whole series are hosted by staff other than Chris Do. Treat the channel as a **shared
@@ -209,6 +209,12 @@ Listed here as an attribution guard so their material stays out of `persona/`.
 > people below, **fence it** (do-not-train) unless Chris is verifiably the one teaching.
 > Biographies here are limited to on-camera role unless a source establishes more — where
 > that's all we have, the wiki is silent on the rest.
+>
+> ⚠️ **By 2022–2023 the main channel runs a heavy cadence of guest masterclasses /
+> interviews** — Chris hosts and interviews, but the substantive teaching is the guest
+> expert's. **ALL guest-masterclass teaching is do-not-train**; only Chris's own attributed
+> host lines feed the persona. Recognize the recurring guest experts below on sight and
+> fence their frameworks out of `persona/`.
 
 **Roster to fence (all do-not-train):**
 
@@ -230,6 +236,41 @@ Listed here as an attribution guard so their material stays out of `persona/`.
 - **Michael Bungay Stanier** — author of **_How to Begin_** (and _The Coaching Habit_).
   Guest context; his frameworks are his, not Chris's.
 - **Hector Garcia, CPA** — accounting/tax guest. Guest context.
+
+**2022–2023 guest-expert masterclass/interview roster (all context / do-not-train — their
+frameworks are theirs, not Chris's; Chris hosts):**
+
+- **Ron Baker** — value-pricing authority (*Implementing Value Pricing*; VeraSage Institute).
+  Multiple 2022 pricing interviews. His doctrine is adjacent to but **distinct from** Chris's;
+  see the attribution guard on [[influences]].
+- **Neil Hoyne** — Google Chief Measurement Strategist, author *Converted* (data / customer-
+  lifetime-value masterclass). See [[influences]].
+- **Kindra Hall** — storytelling expert, author *Stories That Stick*. Guest context.
+- **Daniel Priestley** — author *Key Person of Influence* / *Oversubscribed*; founder of Dent
+  Global and ScoreApp. Personal-branding masterclass. His 5 P's / product-ecosystem are his,
+  not Chris's — see [[influences]] and [[../sources/2022-08-02-yt-zafDOeWNAxg|Personal Branding Masterclass]].
+- **Brendan Kane** — Hookpoint / author *One Million Followers* (attention / hook strategy). Guest context.
+- **Jake Fellman** — 3D / short-form animator (YouTube Shorts virality). Guest context.
+- **Sean Cannell** — Think Media (YouTube growth). Guest context.
+- **Ryan Blair** — entrepreneur (ViSalus; Alter Call). Guest context.
+- **Dakota Robertson** — Twitter/X ghostwriter (writing / audience growth). Guest context.
+- **Neville Medhora** — copywriter, founder Kopywriting Kourse (ex-AppSumo / The Hustle);
+  "Write Better Copy For Conversions" masterclass. His copywriting frameworks are his, not
+  Chris's — [[../sources/2022-10-25-yt-oCrPS-g8kmQ|Copy For Conversions]]; see [[influences]].
+- **John D. Saunders** — 5Four Digital (web design / agency growth). Guest context.
+- **Alex Antolino** — ex-Typeform creative director turned creator; "attention is the new
+  oil" / creator-economy conversation. His material is context — [[../sources/2023-01-20-yt-bkZ_xujsENM|The Creator's Blueprint]].
+- **Vince Labon** — Roley / Rolly Nation (brand/product). Guest context.
+- **Vincent Brethwaite** — InVision (product / design). Guest context.
+- **Joana Galvao** — Gif Design (branding / design business). Guest context.
+- **The Futur "UX Design & Business" course** — fronted by an **unnamed female instructor**
+  (surname not established in the corpus — wiki is silent). Do-not-train.
+- Plus recurring **data / ads guests** (analytics, paid-media). Guest context.
+
+> ⚠️ **"TWO CHRISES" TRAP.** Guest **Chris Franklin** (a guest expert) is **NOT Chris Do**
+> the SUBJECT. Do not conflate them: a video featuring or fronted by "Chris Franklin" is
+> guest context (do-not-train), never Chris Do's own voice. Attribute by first *and* last
+> name whenever a "Chris" appears in 2022–2023 guest content.
 
 ## Ingest rule of thumb
 

@@ -3,7 +3,7 @@ type: hub
 domain: content-strategy
 domains: [content-strategy]
 updated: 2026-07-19
-tags: [content-strategy, audience-building, organic-growth, storytelling, attraction-marketing, permission-marketing, community, movement, give-first, karmic-equity, awareness-funnel, portfolio, show-your-work, process-not-product, youtube-strategy, thumbnails, cold-open, awareness-matrix, niching, differentiation, sell-the-problem, thesis-paper, funnel-math, reciprocity, expert-positioning, audience-vs-customers, true-fans, smallest-viable-audience, youtube-launch, polarizing, public-journaling, feed-vs-stories, earned-followers, learning-styles, teach-while-you-learn, imposter-syndrome, repurposing, lumpy-mail, aida-carousels, magic-8, case-study, capabilities-deck, storybrand, multiple-income-streams, fame-vs-price, garage-sale, audience-as-asset, rot-hook, carousel-rubric, heads-or-tails, home-stretch-slide, twelve-post-minimum, guest-post-loop, 1000-true-fans, farming-vs-hunting, riches-in-the-niches, 2x-rule, virtuous-cycle-of-confidence, strongest-tribe, chef-analogy, scarcity-mindset, share-while-you-learn, persist-and-resist, content-manifesto, done-over-perfect, golden-formula, story-formula, binary-critique, ego-free-critique, linkedin-storytelling, struggle-porn, ad-breakdown, villain-hero, paint-the-pain, micro-commitments, four-diagnostic-questions, caption-writing, emotional-writer, refinement-loop, content-iteration, velocity, live-in-the-dip, five-words, distillation, pareto-on-itself, clarity-then-musicality]
+tags: [content-strategy, audience-building, organic-growth, storytelling, attraction-marketing, permission-marketing, community, movement, give-first, karmic-equity, awareness-funnel, portfolio, show-your-work, process-not-product, youtube-strategy, thumbnails, cold-open, awareness-matrix, niching, differentiation, sell-the-problem, thesis-paper, funnel-math, reciprocity, expert-positioning, audience-vs-customers, true-fans, smallest-viable-audience, youtube-launch, polarizing, public-journaling, feed-vs-stories, earned-followers, learning-styles, teach-while-you-learn, imposter-syndrome, repurposing, lumpy-mail, aida-carousels, magic-8, case-study, capabilities-deck, storybrand, multiple-income-streams, fame-vs-price, garage-sale, audience-as-asset, rot-hook, carousel-rubric, heads-or-tails, home-stretch-slide, twelve-post-minimum, guest-post-loop, 1000-true-fans, farming-vs-hunting, riches-in-the-niches, 2x-rule, virtuous-cycle-of-confidence, strongest-tribe, chef-analogy, scarcity-mindset, share-while-you-learn, persist-and-resist, content-manifesto, done-over-perfect, golden-formula, story-formula, binary-critique, ego-free-critique, linkedin-storytelling, struggle-porn, ad-breakdown, villain-hero, paint-the-pain, micro-commitments, four-diagnostic-questions, caption-writing, emotional-writer, refinement-loop, content-iteration, velocity, live-in-the-dip, five-words, distillation, pareto-on-itself, clarity-then-musicality, youtube-scripting, thirty-second-hook, storytelling-is-delaying, soft-vs-hard-cta, native-language-repurposing, train-the-algorithm, over-delivery, curse-of-knowledge, propaganda-piece-tell, change-of-state-conflict]
 ---
 
 # Content Strategy — hub
@@ -1491,6 +1491,21 @@ to the §12 micro-content "pizza." `[2019-04-24]` [[wiki/sources/2019-04-24-yt-z
   almost 60,000 — a 2019 snapshot, consistent with the larger self-reported runs in §5.
   `[self-reported, 2019-04-24]` [[wiki/sources/2019-04-24-yt-zeE7F1498yw]]
 
+- **The vertical-video corollary — post everywhere, but in each platform's "native language"
+  to train its algorithm (2022).** For a short-form vertical video "there's no circumstance"
+  where you make it and *don't* post it on every platform (YouTube Shorts, TikTok, IG Reels).
+  But the same asset must be packaged in each platform's native format, "because you're
+  training that algorithm to understand and recognize this piece of content" — YouTube runs on
+  title + thumbnail (+ the word "shorts"/#shorts); Instagram wants ~6–10 hashtags and a
+  caption. Same video, platform-native packaging. `[2022-08-25]`
+  [[wiki/sources/2022-08-25-yt-HnrcBS_2RU0]] (Sharpens the §16 "post natively, don't
+  replicate" rule with the *train-the-algorithm* rationale; drawn from the Jake Fellman
+  masterclass — only Chris's line trains, Jake's craft/monetization content is context.)
+
+  > "You still have to post it in a native way and speak in the native language of that
+  > platform because you're training that algorithm to understand and recognize this piece of
+  > content." — Chris Do `[2022-08-25]`
+
 ---
 
 ## 28. AIDA for Instagram carousels: get them past slide 3, own the "magic 8" (2020)
@@ -2175,6 +2190,42 @@ From live-critiquing Pro-group members' LinkedIn posts:
 > *daily-reps* side, consistent with §5's carousel run and against the 2017 "post less"
 > stance. See the §16 callout for the format-and-phase reconciliation.
 
+**Chris's own story pedagogy — from teaching sequential-design storyboarding (2022).**
+`[2022-07-21]` [[wiki/sources/2022-07-21-yt-IRrecMyTDgE]] (Solo-Chris lines from the Kindra
+Hall interview; Kindra's own four-component framework is guest context and is NOT promoted.)
+- **"Normal → explosion → new normal," now taught as his own arc — with conflict reframed
+  as the change of state.** The "explosion" is the moment of change, and "anytime there is a
+  change of state, there's conflict in that change" — so for Chris conflict is *baked into*
+  the arc rather than bolted on; he calls it "a soft C conflict, not a hard C." (paraphrase)
+  (Note: in 2016 he credited this arc to Kindra Hall — see §4 tip 3; by 2022 he teaches it as
+  "how I teach stories," an adopted framework he now owns.)
+- **The everyday-conflict / "life-and-death feel" reframe.** Stories are about conflict, and
+  even mundane moments "need to feel like life and death" — his examples: your crush finally
+  calls and a sibling answers the phone; a car door falls off at a fancy restaurant. "Feel the
+  feels and transmit that" so the audience relates to you as a human. (paraphrase; the
+  exaggerate-to-life-and-death instinct restates §4 tip 5, here anchored to human relatability.)
+- **His craft checklist: rich dialogue + sensory detail + visible struggle.** A story "needs
+  to be rich in dialogue" (inner or outer), have sensory detail, and show a part "where
+  there's some struggle — we want to know that you're trying." The reader buys in on
+  relatability: "I will jump into your story when I start to feel like I relate to you."
+  (paraphrase — dialogue as a near-requirement is a new emphasis vs. the §35 LinkedIn
+  rubric's conflict+lesson core and Kindra's classing dialogue as optional *technique*; a
+  framing difference, not a contradiction.) (paraphrase)
+- **The "propaganda piece" authenticity tell (genuinely new).** People edit their stories to
+  present themselves in a good light and skip the struggle; when Chris senses that, "this is
+  a propaganda piece and I'm not really buying into it." The struggle is the price of
+  believability. (paraphrase)
+
+  > "Normal, explosion, new normal... innately in there is the explosion which is the moment
+  > of change... anytime there is a change of state, there's conflict in that change." — Chris
+  > Do `[2022-07-21]`
+
+  > "It needs to be rich in dialogue, there needs to be sensory detail, and there has to be
+  > this part where there's some struggle — we want to know that you're trying." — Chris Do
+  > `[2022-07-21]`
+
+  > "This is a propaganda piece and I'm not really buying into it." — Chris Do `[2022-07-21]`
+
 See §4 for the classic story ingredients this craft layer sits on top of, and §7 for the
 engage-a-community angle the critique/dialogue framing shares.
 
@@ -2327,6 +2378,93 @@ structuring things in threes — here expressed as a repeatable reduction method
 
 ---
 
+## 40. Scripting a YouTube video: the 30-second hook + soft/hard CTA discipline (2023)
+
+Chris's concrete scripting spine for mid-to-long-form YouTube — the media-craft layer that
+sits beneath the audience-building philosophy above and updates the §17 (2018) YouTube
+playbook. `[2023-01-24]` [[wiki/sources/2023-01-24-yt-Yv8lpauoBYo]]
+
+- **The first 30 seconds are the make-or-break — spend disproportionately there.** Retention
+  graphs show a massive early drop-off; lose 60–70% of viewers immediately and you keep only
+  ~30%, which is why views stay low. Watching is sequential and compounding (you only reach
+  minute three if the viewer survives minute one), so pour time, energy, and even props into
+  the first 30 seconds and treat it "like a mini teaser trailer" for the rest. (paraphrase)
+- **Open with a hook — the "why" question or the false-belief bridge.** Lead with a big,
+  usually rhetorical "why" question (e.g. "why do some companies outperform others?") to
+  create a pattern interrupt. A second technique: state something the viewer believes is
+  false, get them to watch, then bridge to the real topic — but use it *sparingly*, or
+  audiences learn the formula and dismiss it as clickbait. (paraphrase, second technique
+  credited to Brandon Kane)
+- **"Storytelling is delaying" holds the tension** — deliberately withhold the payoff so the
+  audience *needs* to keep watching. (Restates the §4 tip 4 "story delaying"; here it's the
+  engine of retention-scripting rather than a standalone story ingredient. Suspense plus
+  "changing the stakes" can carry a whole video with almost no content — his example: a viral
+  red-umbrella / raining-cash video hit ~700,000 views purely by pulling viewers to the end.)
+  (paraphrase)
+- **Soft CTA after the hook, hard sell never mid-body.** After hooking, you can insert a
+  *soft* call to action ("like and comment, it helps the algorithm") — plus stealthy "soft"
+  signals (wearing a certain hat) — then move straight into the what/how and "deliver the
+  goods." (paraphrase)
+- **The end-CTA discipline.** A hard pitch ("buy my product," "enroll in this bootcamp")
+  "negates the goodwill you just created" and erodes trust once viewers feel sold to — but
+  zero CTA and "you'll probably make no money," so use one occasionally and keep it
+  audience-serving (subscribe, notifications, the related podcast). This is the §1 give-first
+  ethic applied at the scripting level: soft asks that serve, never a mid-video hard sell.
+  (paraphrase)
+- **Reverse-engineer what works.** "Whenever you see a hot piece of content, consume it,
+  inhale it, break it down, reverse engineer what works." (paraphrase; the content-craft twin
+  of §36's "diagnose what sold you.")
+
+  > "The first 30 seconds are the most important 30 seconds of the video... If you lose them
+  > here you have no chance of watching the rest." — Chris Do `[2023-01-24]`
+
+  > "[A hard pitch] kind of negates the goodwill that you just created." — Chris Do
+  > `[2023-01-24]`
+
+  > "If you have zero call to action you'll probably make no money." — Chris Do `[2023-01-24]`
+
+---
+
+## 41. Keynote / teaching delivery: don't over-deliver (2022)
+
+A presentation-craft doctrine distinct from the client-pitch discipline covered in
+sales-clients: the core failure mode of a *keynote or teaching talk* is over-delivering.
+`[2022-07-07]` [[wiki/sources/2022-07-07-yt-esqoKMQSEbo]] (Two-person dialogue; only
+Chris-attributed lines below train — the "$500 of value" stress and the Joel-Pilger
+"middle-shelf" line are the co-host's/guest's, marked as context.)
+
+- **Over-delivering is the mistake — narrow to 2–3 takeaways.** Cramming too much fries the
+  audience's "circuits"; the mind can only process so much in 5, 10, or 40 minutes. Since his
+  own cautionary tale (below) Chris focuses a talk down to "maybe two or three things" he
+  wants the audience to walk away with and *reiterates* them until they're "really really
+  clear." As an audience member he zones out on speakers who over-give and remembers fondly
+  the one who stays focused, concise, and gets off stage on time — "so I try and be that guy."
+  (paraphrase)
+- **The ICON cautionary tale.** He once covered "way too much ground" at ICON (the
+  illustration conference), even ending with a guitar song and bringing a friend up to do a
+  comedy bit; it became "discombobulated," a "mess of stuff." He learned his lesson from it.
+  (paraphrase)
+- **Over-prepare, then edit down to the essence.** Prepare far more than needed, let it
+  "marinate," then come back and cut the tangents and redundant parts down to the essence — he
+  cites John Cleese on "trimming the fat" when writing sketches. Editing is the most-overlooked
+  part of the process. (paraphrase) (The co-host's related points — over-preparing to quell the
+  "this is not enough" insecurity, and Joel Pilger's "give them your middle-shelf, not
+  top-shelf" — are guest context, not Chris-attributed.)
+- **Curse of knowledge = your license to teach the basics.** Once you've learned something it
+  becomes habit and you forget you ever *didn't* know it, so you hesitate to teach it
+  ("doesn't everybody know this?") — when in fact most people don't. What you take for granted
+  as obvious is news to most; you don't need a brand-new discovery to be valuable. (paraphrase)
+
+  > "Since then I've really focused on narrowing it down to maybe two or three things... and I
+  > make sure and reiterate those things so that they're really, really clear." — Chris Do
+  > `[2022-07-07]`
+
+  > "It's a form of cognitive bias, it's the curse of knowledge — where you've learned it...
+  > and then you forgot that at one point in your life you didn't know this stuff." — Chris Do
+  > `[2022-07-07]`
+
+---
+
 ## Sources
 
 - [[wiki/sources/2015-11-29-yt-z7Y9TKfgstE]] — "Is Your Design Resume Still Relevant?" —
@@ -2441,6 +2579,20 @@ structuring things in threes — here expressed as a repeatable reduction method
   live-in-the-dip (2022-04-07)
 - [[wiki/sources/2022-04-20-yt-6YFU39Vfw0E]] — "How I Got 800K+ Followers on Instagram
   Organically" (2022-04-20)
+- [[wiki/sources/2022-07-07-yt-esqoKMQSEbo]] — "Don't Do This When You Give A Presentation"
+  — keynote/teaching delivery: don't over-deliver, narrow to 2–3 takeaways, over-prepare-then-
+  edit (John Cleese), curse-of-knowledge as license to teach the basics (2022-07-07)
+- [[wiki/sources/2022-07-21-yt-IRrecMyTDgE]] — "How To Tell A Great Story (w/ Kindra Hall)"
+  — Chris's own story pedagogy: normal→explosion→new-normal as change-of-state=conflict,
+  life-and-death-feel reframe, dialogue+sensory+struggle checklist, "propaganda piece" tell
+  (Kindra's framework is guest context) (2022-07-21)
+- [[wiki/sources/2022-08-25-yt-HnrcBS_2RU0]] — "Building An Audience of 20 Million In 1 Year
+  (w/ Jake Fellman)" — Chris's native-language cross-platform repurposing: post the vertical
+  video everywhere, packaged natively to train each algorithm (Jake's content is context)
+  (2022-08-25)
+- [[wiki/sources/2023-01-24-yt-Yv8lpauoBYo]] — "How to Script a YouTube Video That Keeps 'Em
+  Hooked" — 30-second hook, retention-graph math, storytelling-is-delaying, soft-vs-hard CTA
+  discipline, reverse-engineer hot content (2023-01-24)
 - [[wiki/sources/2023-03-09-yt-CiyNGOIbwcE]] — "Attract Customers Like a Magnet
   (Masterclass 5/5)" — attraction/permission marketing (2023-03-09)
 - [[wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]] — "Personal Branding — Most Important Thing

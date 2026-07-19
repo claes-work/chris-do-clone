@@ -659,6 +659,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-02-27 | [How to Start A Career In Design: Tips for Beginners](2023-02-27-yt-h30LgLeOx2E.md) | mindset; design-craft; content-strategy; business | Chris solo; escape freelance marketplaces via radical specialization ("comic logo boy"), project fees; restates specialize-externally |
 | 2023-03-01 | [How To Scale Your Creative Agency To A $1M Business](2023-03-01-yt-ralyeTQyrMo.md) | business | ⚠️ NOT Chris — guest presenter (EOS/Priestley scaling promo); context/do-not-train |
 | 2023-03-02 | [Quit Lying Saying You Create Brand Identities](2023-03-02-yt-IOGkznjRKUI.md) | branding; design-craft; mindset | Chris (confirmed); blunt restatement brand≠identity (real branding needs copy/strategy/positioning/product/UX); reinforces F1/24/29/30/32 |
+| 2023-03-03 | ★ [Create An Offer Customers Can't Resist](2023-03-03-yt-A76eNW_XfWM.md) | pricing; sales-clients; business | Chris; irresistible-offer construction — raise value not cut price, 10x/÷10 redesign, client's-time reframe, 3-tier ladder; cites Hormozi; L3-candidate |
+| 2023-03-07 | [Simplifying Success: The One Thing You Need to Do](2023-03-07-yt-Ll4CcmJKXNw.md) | mindset; business | Chris (w/ Neil Patel); execution > consumption "go do something"; restatement; bio: "25 years" (2023) |
+| 2023-03-08 | [How to Find Your Unique Superpower](2023-03-08-yt-4wRaJTFNStE.md) | mindset; branding; content-strategy | ⚠️ guest Michael Ventura (Applied Empathy) = context; Chris's superpower framing reinforces; cold-open clip is Michael not Chris |
+| 2023-03-10 | [The Secret to Building a Personal Brand — Reduce Your Market Size](2023-03-10-yt-81bLdOJwteA.md) | branding; content-strategy; mindset | Chris solo; niching reinforces; NEW coaching move ("how do you know this is true?"), socialized-suppression/inner-parent-voice; light-L3 |
+| 2023-03-14 | [From Cliches to Creativity: Making Your Brand Stand Out](2023-03-14-yt-jnbhLAVjFYQ.md) | branding; design-craft; content-strategy | Chris solo; two-word brand + anti-cliché (reinforces F10); NEW noun-as-truth, brand=hook-not-pitch, cliché-twist technique; light-L3 |
+| 2023-03-15 | [Why Authenticity is Key to Building a Strong Brand](2023-03-15-yt-jfidSSYH3_4.md) | branding; mindset | ⚠️ NOT Chris — guest persona "Phyllis Williams-Stadler"; Chris interviewer only; dup of brand-as-filter theme; context/do-not-train |
+| 2023-03-16 | ★ [5 Things I Do Every Day To Win New Clients](2023-03-16-yt-iz7q77pKnQg.md) | sales-clients; content-strategy; business | Chris solo; 5-point cold-outreach CHECKLIST (Reason/Compliment/Anchor/Value/Ask); the "anchor" concept + packaged template are new; L3-candidate |
+| 2023-03-17 | [How to Build a Strong Personal Brand for Your Business](2023-03-17-yt-bI3ooXqax6U.md) | branding; content-strategy; mindset | ⚠️ guest Phyllis Williams-Stadler = context; Chris reinforces two-word-brand (already covered); not a dup |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -708,4 +716,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_688 videos ingested (L2) so far._
+_696 videos ingested (L2) so far._

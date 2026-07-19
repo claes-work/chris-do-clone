@@ -7,7 +7,7 @@ _Last updated: 2026-07-19 (synthesis pass 11 — 6 hubs enriched, persona v12, 6
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **696 videos L2** (@thefutur 2014–2025 + @ChrisDo; P1 done, draining P2 [through 2023-03]; synthesized through batch 105 → persona v12).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **704 videos L2** (@thefutur 2014–2025 + @ChrisDo; P1 done, draining P2 [through 2023-04]; synthesized through batch 105 → persona v12).
 
 ## Topics
 

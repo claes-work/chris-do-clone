@@ -667,6 +667,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-03-15 | [Why Authenticity is Key to Building a Strong Brand](2023-03-15-yt-jfidSSYH3_4.md) | branding; mindset | ⚠️ NOT Chris — guest persona "Phyllis Williams-Stadler"; Chris interviewer only; dup of brand-as-filter theme; context/do-not-train |
 | 2023-03-16 | ★ [5 Things I Do Every Day To Win New Clients](2023-03-16-yt-iz7q77pKnQg.md) | sales-clients; content-strategy; business | Chris solo; 5-point cold-outreach CHECKLIST (Reason/Compliment/Anchor/Value/Ask); the "anchor" concept + packaged template are new; L3-candidate |
 | 2023-03-17 | [How to Build a Strong Personal Brand for Your Business](2023-03-17-yt-bI3ooXqax6U.md) | branding; content-strategy; mindset | ⚠️ guest Phyllis Williams-Stadler = context; Chris reinforces two-word-brand (already covered); not a dup |
+| 2023-03-21 | [Run Your Freelance Business Like A Pro](2023-03-21-yt-9X0ECHByVJ0.md) | business; sales-clients | ⚠️ caption is only a Bloom.io sponsor ad read; no teaching captured; context/do-not-train (re-fetch) |
+| 2023-03-22 | ★ [3 Ways To Improve Communication Instantly](2023-03-22-yt-hiYvvhoFYak.md) | mindset; sales-clients; content-strategy | Chris solo; record-and-review self-diagnosis drill + ESL grammar fix + speech-as-changeable-behavior; L3-candidate |
+| 2023-03-23 | [Mastering Communication: The Key to Success](2023-03-23-yt-FuXJln-UtNQ.md) | sales-clients; mindset; content-strategy | ⚠️ guest Vinh Giang (communication coach) = context; Chris host only; fence |
+| 2023-03-26 | [Freelancing Secrets (w/ Jamie Brindle & Paul Mikhaylov)](2023-03-26-yt-HUfNu9nywuQ.md) | business; sales-clients; content-strategy | ⚠️ guest panel = context; Chris trains but strong restatement (designer-vs-artist, hunter/farmer, persona/shadow); no new doctrine |
+| 2023-03-28 | ★ [How To Make Your First $100,000 (Masterclass)](2023-03-28-yt-_fIIa6FeFAY.md) | business; pricing; sales-clients; mindset | Chris solo Pro masterclass; first-$100K system — $10k/mo×10mo, labor-vs-volume quadrant, MLE, close-ratio→×10 lead-gen funnel; L3-candidate |
+| 2023-03-30 | [Customers, Not Companies, Create the Brand](2023-03-30-yt-YxORHjBUDEg.md) | branding | ⚠️ NOT Chris — guest "Kevin"; restates Neumeier gut-feeling; context/do-not-train |
+| 2023-03-31 | [Developing a Winning Brand Strategy](2023-03-31-yt-0begsejrxjI.md) | branding; business | ⚠️ Futur podcast; Chris host, guest Micah Salidis (Trollback+Co) = brand-strategy voice/context; Brand-Strategy Method already covered |
+| 2023-04-02 | ★ [Personal Branding: Unmask Your Unique Identity](2023-04-02-yt-wiu5Efx029s.md) | branding; content-strategy | Chris solo; brand-story structure via Spider-Man/Stan Lee (character-want-obstacle + hero's journey); "vulnerabilities > superpowers"; extends story-template; L3-candidate |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -716,4 +724,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_696 videos ingested (L2) so far._
+_704 videos ingested (L2) so far._

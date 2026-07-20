@@ -711,6 +711,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2022-12-27 | ★ [5 Money Rules To Make More Money](2022-12-27-yt-o8IdDEJym1U.md) | mindset; business | delegate/value-price/focus/money-talk/invest; L3-candidate |
 | 2023-03-09 | ★ [Attract Customers Like a Magnet (Masterclass 5/5)](2023-03-09-yt-CiyNGOIbwcE.md) | content-strategy; branding; business | attraction-marketing (Chris solo, host=context); L3-candidate |
 | 2023-04-24 | ★ [Raising Your Design Rates $2k→$5k](2023-04-24-yt-kTFhQf5_RxI.md) | pricing; business; sales-clients | raise-rate→better-clients ladder; guest (DesignJoy) context; L3-candidate |
+| 2023-04-28 | [How to Start Your YouTube Journey as a Creative Entrepreneur](2023-04-28-yt-36Ec8svtemI.md) | content-strategy; mindset | ⚠️ NOT Chris — unnamed guest (Think-Media style); YouTube-start AVLS/ASQ; context/do-not-train |
+| 2023-04-29 | [Use This Sales Technique To Get More Customers](2023-04-29-yt-W9D5UmbnYBo.md) | sales-clients; business | ⚠️ speaker unverified (context); short give-value/discovery sales thread; do-not-train |
+| 2023-05-01 | [Will AI End Creative Professions? (ArtCenter AMA)](2023-05-01-yt-DhB4O9tI00Q.md) | content-strategy; business; mindset | Chris solo AMA; early-2023 AI stance (augment-not-replace, "dobot" clone); synth-candidate |
+| 2023-05-05 | [The Secret to Winning at Life (guest Lisa Galea)](2023-05-05-yt-2FyZkBpXwK0.md) | mindset | guest talk Lisa Galea (context); Chris intro-only handoff; minimal-Chris |
+| 2023-05-07 | [Grow Your Business on YouTube (Sean Cannell)](2023-05-07-yt-EWNMNIoQcZw.md) | content-strategy; mindset | guest Sean Cannell (context); Chris's viral formula (polarizing+emotion+value) eligible |
+| 2023-05-10 | [How to Be a Powerful Communicator (Marshall Davis Jones)](2023-05-10-yt-blcgUkObMCY.md) | mindset; content-strategy | guest Marshall Davis Jones (context); Chris reflects money-fear/storytelling |
+| 2023-05-11 | [Find Dream Clients With Engaging Reels](2023-05-11-yt-nSQriqU1NOs.md) | content-strategy; sales-clients | ⚠️ Chris absent — guest letterer (Aurélie Maron?); Reels/personal projects; context/do-not-train |
+| 2023-05-12 | [Secret to Running a $1 Million Solo Design Agency (Brett Williams/DesignJoy)](2023-05-12-yt-8vwgUwgH2Js.md) | pricing; sales-clients; business; mindset | guest Brett Williams/DesignJoy (context); Chris pricing-ladder restates threads |
 | 2023-06-14 | ★ [The Secret To 'Great' Design](2023-06-14-yt-SdCzIDmfDAA.md) | design-craft; mindset | teaching philosophy + "do less but do better"; L3-candidate |
 | 2023-10-19 | ★ [Don't Justify Your Prices. Do This Instead.](2023-10-19-yt-Abi8kwkfZbA.md) | pricing; sales-clients; business | have-to-have vs nice-to-have; never cede higher ground; L3-candidate |
 | 2023-12-14 | ★ [How To Build A Successful Personal Brand (Masterclass)](2023-12-14-yt-1kUCm1JPzxg.md) | branding; content-strategy; mindset | two-word-brand, shadow→transformer; Chris-taught; L3-candidate |
@@ -732,4 +740,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_712 videos ingested (L2) so far._
+_720 videos ingested (L2) so far._

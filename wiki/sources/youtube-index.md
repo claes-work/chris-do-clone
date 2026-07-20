@@ -719,6 +719,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-05-10 | [How to Be a Powerful Communicator (Marshall Davis Jones)](2023-05-10-yt-blcgUkObMCY.md) | mindset; content-strategy | guest Marshall Davis Jones (context); Chris reflects money-fear/storytelling |
 | 2023-05-11 | [Find Dream Clients With Engaging Reels](2023-05-11-yt-nSQriqU1NOs.md) | content-strategy; sales-clients | ⚠️ Chris absent — guest letterer (Aurélie Maron?); Reels/personal projects; context/do-not-train |
 | 2023-05-12 | [Secret to Running a $1 Million Solo Design Agency (Brett Williams/DesignJoy)](2023-05-12-yt-8vwgUwgH2Js.md) | pricing; sales-clients; business; mindset | guest Brett Williams/DesignJoy (context); Chris pricing-ladder restates threads |
+| 2023-05-17 | ★ [Mastering Personal Branding (Yayoi Kusama)](2023-05-17-yt-MCAuYeL4FT4.md) | branding; content-strategy; mindset | Chris-narrated essay; 6-part personal-branding framework (Kusama = context); L3-candidate |
+| 2023-05-18 | ★ [AVOID THIS MISTAKE To Achieve Your Full Potential](2023-05-18-yt-tsktSqpb-mg.md) | mindset; business; content-strategy | Chris solo; take-small-steps + three-M's (Mastery→Media→Monetize); L3-candidate |
+| 2023-05-22 | [Is it Better to Charge More or Less?](2023-05-22-yt--mD5LjAAVxw.md) | pricing; mindset; business | inversion-thinking pricing exercise; charge-more restated; unnamed guest self-worth angle (context) |
+| 2023-05-24 | ★ [Why Creatives Need to Charge More (Paco de Leon)](2023-05-24-yt-0mV67G-XwEU.md) | pricing; mindset; business; sales-clients | guest Paco de Leon (context); Chris charge-more / hourly-as-habit; L3-candidate |
+| 2023-05-25 | [Use This Simple Tool To Grow Your Creative Business](2023-05-25-yt-s_lOf3PuGeA.md) | sales-clients; business | ⚠️ Chris absent — Futur instructor one-page sales framework; context/do-not-train |
+| 2023-05-30 | [From Boring to Iconic: Designing With Personality](2023-05-30-yt-PRpr0_Iz4dI.md) | branding; design-craft | guest designer (James Victore? uncertain, context); Chris shape-recognition / "logo doesn't sell the car"; synth-candidate |
+| 2023-06-04 | [Why YOUR Opinion doesn't matter!](2023-06-04-yt-rmkNaEKC3Ks.md) | mindset; design-craft | ⚠️ Chris absent — James Victore teaser clip; context/do-not-train |
+| 2023-06-11 | [How to Unleash YOUR Creative (James Victore)](2023-06-11-yt-edutpq93RnU.md) | mindset; design-craft; content-strategy | guest James Victore (context); Chris restates positioning; guest carries substance |
 | 2023-06-14 | ★ [The Secret To 'Great' Design](2023-06-14-yt-SdCzIDmfDAA.md) | design-craft; mindset | teaching philosophy + "do less but do better"; L3-candidate |
 | 2023-10-19 | ★ [Don't Justify Your Prices. Do This Instead.](2023-10-19-yt-Abi8kwkfZbA.md) | pricing; sales-clients; business | have-to-have vs nice-to-have; never cede higher ground; L3-candidate |
 | 2023-12-14 | ★ [How To Build A Successful Personal Brand (Masterclass)](2023-12-14-yt-1kUCm1JPzxg.md) | branding; content-strategy; mindset | two-word-brand, shadow→transformer; Chris-taught; L3-candidate |
@@ -740,4 +748,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_720 videos ingested (L2) so far._
+_728 videos ingested (L2) so far._

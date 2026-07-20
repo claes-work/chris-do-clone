@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-19 (synthesis pass 11 — 6 hubs enriched, persona v12, 688 L2; batches 96–105 promoted: pricing-ladder + three-yeses-rule, Scruples hiring test, tone-of-voice, YouTube-scripting, superhero story-template, 5-step-direction; 2022-23 guest-expert era catalogued; Ron Baker attribution guard)_
+_Last updated: 2026-07-20 (ingest yt batch @thefutur, 8 → 712 L2; P2 Apr-2023: say-no/language-as-shield, find-your-gift Venn + 100-list, adversity/hero-vs-villain storytelling; guest fences Kevin Finn ×2, Lucy Werner PR, + 2 non-Chris context videos)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **704 videos L2** (@thefutur 2014–2025 + @ChrisDo; P1 done, draining P2 [through 2023-04]; synthesized through batch 105 → persona v12).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **712 videos L2** (@thefutur 2014–2025 + @ChrisDo; P1 done, draining P2 [through 2023-04-18]; synthesized through batch 105 → persona v12).
 
 ## Topics
 

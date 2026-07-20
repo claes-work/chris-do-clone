@@ -675,6 +675,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-03-30 | [Customers, Not Companies, Create the Brand](2023-03-30-yt-YxORHjBUDEg.md) | branding | ⚠️ NOT Chris — guest "Kevin"; restates Neumeier gut-feeling; context/do-not-train |
 | 2023-03-31 | [Developing a Winning Brand Strategy](2023-03-31-yt-0begsejrxjI.md) | branding; business | ⚠️ Futur podcast; Chris host, guest Micah Salidis (Trollback+Co) = brand-strategy voice/context; Brand-Strategy Method already covered |
 | 2023-04-02 | ★ [Personal Branding: Unmask Your Unique Identity](2023-04-02-yt-wiu5Efx029s.md) | branding; content-strategy | Chris solo; brand-story structure via Spider-Man/Stan Lee (character-want-obstacle + hero's journey); "vulnerabilities > superpowers"; extends story-template; L3-candidate |
+| 2023-04-04 | ★ [Know How To Say No](2023-04-04-yt-m0ylqR7IaFo.md) | sales-clients; mindset | Chris: "language is the shield" — saying no gracefully; guest exit-tip = context; L3-candidate |
+| 2023-04-07 | ★ [5 Min Guide To Personal Branding (Embracing Vulnerabilities)](2023-04-07-yt-_QL89EOFnNQ.md) | branding; mindset | Chris solo; find-your-gift Venn + 100-list exercise; vulnerabilities > superpower; L3-candidate |
+| 2023-04-10 | [3 Common Business Mistakes Entrepreneurs Make](2023-04-10-yt-2-hq5Pk4ghk.md) | business | ⚠️ NOT Chris — unnamed UK guest; agency-scaling mistakes; context/do-not-train |
+| 2023-04-11 | [Brand Principles For The 21st Century — Kevin Finn](2023-04-11-yt-Xzlv_KHIIUM.md) | branding; business; mindset | guest Kevin Finn talk (context); brand-vs-branding, return-on-impact; Chris silent |
+| 2023-04-12 | ★ [Pitching Your Way to Success (PR Expert)](2023-04-12-yt-5NUeELlfJLY.md) | content-strategy; branding; sales-clients | guest Lucy Werner (context); Chris: confusion-vs-curiosity test, PR = verification; L3-candidate |
+| 2023-04-13 | [Purpose Is Motivational, Impact Is Measurable — Kevin Finn](2023-04-13-yt-utOyWSf_Pwo.md) | branding; mindset; sales-clients | guest Kevin Finn (context); brand-vs-business, language; Chris restates prior threads |
+| 2023-04-17 | ★ [Adversity Makes Your Story Great](2023-04-17-yt-mrJUiIItRKo.md) | branding; content-strategy; mindset | Chris solo; adversity-as-story ally; hero-vs-villain responsibility; struggle > flexing; L3-candidate |
+| 2023-04-18 | [How to Break Your Habits & Achieve Excellence](2023-04-18-yt-T1VouJBUODM.md) | mindset; business | ⚠️ scripted essay (Jobs/Musashi); narrator unconfirmed — context/do-not-train |
 | 2018-08-01 | [Simple Tips to IMPROVE your Design](2018-08-01-yt-53zf7pBjCaU.md) | design-craft | taught by Matthew Encina, NOT Chris — context only |
 | 2018-08-27 | ★ [How Do I Raise Prices Without Losing Clients?](2018-08-27-yt-gIw-PBNXWgE.md) | pricing; sales-clients; business | raising rates; 9 frameworks; L3-candidate |
 | 2018-10-17 | ★ [How to Negotiate a Lowball Offer](2018-10-17-yt-DjgVwN_k_88.md) | sales-clients; pricing; business | anchoring/re-anchoring; L3-candidate |
@@ -724,4 +732,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_704 videos ingested (L2) so far._
+_712 videos ingested (L2) so far._

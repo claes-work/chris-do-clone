@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-20 (ingest yt batch @thefutur, 8 → 728 L2; P2 May–Jun-2023: Chris-narrated Yayoi-Kusama personal-branding essay [6-part framework], solo "small steps"/three-M's clip, inversion-thinking pricing, charge-more w/ Paco de Leon; guest fences James Victore [full interview + teaser], + 1 non-Chris context video [Futur instructor sales-framework])_
+_Last updated: 2026-07-20 (ingest yt batch @thefutur, 8 → 736 L2; P2 Jun–Jul-2023: solo give-to-get/value-ladder, Shu-Ha-Ri copy-transform-combine ★, money-obsession reframe, 3 21st-century skills, lead-gen/first-client playbook ★, three-coach-lessons bio ★, solo origin-story pitch ★; guest fence Chris Voss negotiation masterclass)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **728 videos L2** (@thefutur 2014–2025 + @ChrisDo; P1 done, draining P2 [through 2023-06-11]; synthesized through batch 105 → persona v12).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **736 videos L2** (@thefutur 2014–2025 + @ChrisDo; P1 done, draining P2 [through 2023-07-24]; synthesized through batch 105 → persona v12).
 
 ## Topics
 

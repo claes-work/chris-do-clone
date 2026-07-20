@@ -728,6 +728,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-06-04 | [Why YOUR Opinion doesn't matter!](2023-06-04-yt-rmkNaEKC3Ks.md) | mindset; design-craft | ⚠️ Chris absent — James Victore teaser clip; context/do-not-train |
 | 2023-06-11 | [How to Unleash YOUR Creative (James Victore)](2023-06-11-yt-edutpq93RnU.md) | mindset; design-craft; content-strategy | guest James Victore (context); Chris restates positioning; guest carries substance |
 | 2023-06-14 | ★ [The Secret To 'Great' Design](2023-06-14-yt-SdCzIDmfDAA.md) | design-craft; mindset | teaching philosophy + "do less but do better"; L3-candidate |
+| 2023-06-21 | [Sell What Your Clients Think is Valuable?!!](2023-06-21-yt-u0laTWsoNvs.md) | sales-clients; pricing; business; mindset; content-strategy | give-to-get + define client success (two B's); value ladder; solo |
+| 2023-06-29 | ★ [Why Copying Works—Copy, Combine, Transform](2023-06-29-yt-BJ7nX1t4g9k.md) | mindset; design-craft; branding | reframing value + Shu-Ha-Ri copy-transform-combine mastery; solo workshop; L3-candidate |
+| 2023-07-05 | [How To Respond To Negative Criticism (Starving Artist VS Creative Entrepreneur)](2023-07-05-yt-zrHbCEbPXak.md) | mindset; business; sales-clients; design-craft | reframes money-obsession criticism; Simon's definition of design; solo |
+| 2023-07-09 | [3 Skills YOU Need for Success in the 21st Century](2023-07-09-yt-IVS1yyKpO4E.md) | mindset; content-strategy; business | 3 21st-century skills: critical-thinking/learning/rhetoric; short solo clip |
+| 2023-07-13 | ★ [How to Generate Leads & Get Your 1st Client](2023-07-13-yt-rMCaditGH24.md) | sales-clients; mindset; business; pricing | lead-gen & first-client playbook (overflow→brand-strategy pivot); Mo co-host, Chris-heavy; L3-candidate |
+| 2023-07-16 | ★ [The $312K Coaching Advice That Changed My Life](2023-07-16-yt-_TP2i7zFeRA.md) | sales-clients; business; mindset | three coach lessons (say-what-you-think / say-no / owner's-power); bio [self-reported]; solo; L3-candidate |
+| 2023-07-20 | [FBI Negotiator Teaches Art Of Negotiation (Masterclass w/ Chris Voss)](2023-07-20-yt-iDnEfgAAkBE.md) | sales-clients; mindset; business | guest Chris Voss negotiation masterclass; Do hosts, Voss guest-fenced (does not train) |
+| 2023-07-24 | ★ [From Struggling to Thriving: My Journey to Business Success](2023-07-24-yt-53a6Ue4yFYI.md) | mindset; business; sales-clients; content-strategy | solo origin-story (bio [self-reported]) pitch for Futur Pro Group; L3-candidate |
 | 2023-10-19 | ★ [Don't Justify Your Prices. Do This Instead.](2023-10-19-yt-Abi8kwkfZbA.md) | pricing; sales-clients; business | have-to-have vs nice-to-have; never cede higher ground; L3-candidate |
 | 2023-12-14 | ★ [How To Build A Successful Personal Brand (Masterclass)](2023-12-14-yt-1kUCm1JPzxg.md) | branding; content-strategy; mindset | two-word-brand, shadow→transformer; Chris-taught; L3-candidate |
 | 2023-12-19 | ★ [Personal Branding — AdobeMAX 2023 keynote](2023-12-19-yt-MVz9mm0Z-7g.md) | branding; content-strategy; mindset | Unbland-core keynote + biography; L3-candidate |
@@ -748,4 +756,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_728 videos ingested (L2) so far._
+_736 videos ingested (L2) so far._

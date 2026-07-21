@@ -2026,3 +2026,38 @@ nothing was actually ingested. Ledger counts unchanged from batch 114 (open @the
 P2:330 P3:44; L2=748).
 
 Synthesis notes: none (0 videos ingested this batch — pure tooling blocker, no content debt).
+
+## [2026-07-21] ingest | yt batch (@thefutur, 0) — ABORTED again: PO-token block confirmed persistent
+
+Re-ran Stage B (open P1 exists → P1 first): `ingest_batch.py prepare --channel @thefutur --n 8`
+selected the same open P1 row (yt-LZtM7wyqe7w) + 7 oldest-first P2 rows (BV-2cMw6QlY, r2N4qePR0h4,
+xiNHfB8FVwY, QCmLf1Go-Uw, AqnS_hrVZVQ, mUoyOZH1R4I, t7PZ6eD2lEQ). **8/8 again returned
+`no subtitles for the requested languages`**, each preceded by the same "PO token was not
+provided" warning.
+
+Before trusting that as genuine, re-verified independently of the driver: manually re-ran
+`yt-dlp --write-auto-subs --sub-langs "en.*"` against LZtM7wyqe7w directly — same result, "no
+subtitles for the requested languages" (this video only has *automatic* captions, no manual
+English track, so it is fully gated behind the missing PO token). As a control, ran the identical
+command against an outside video with a genuine *manual* (non-auto) English caption track
+(jNQXAC9IVRw, "Me at the Zoo") — that one succeeds and downloads real subtitle text despite
+showing the identical PO-token warning. This isolates the block precisely: **auto-generated
+caption tracks are unconditionally blocked in this environment (yt-dlp 2026.07.04, no PO-token
+provider plugin installed); manual/uploaded caption tracks are unaffected.** Since the vast
+majority of the remaining @thefutur corpus relies on auto-captions (channel doesn't upload manual
+subs), this blocks ingestion broadly, not just these 8 videos — consistent with, and confirming,
+the prior iteration's diagnosis.
+
+Per the ingest-loop safety rail (3 consecutive yt-dlp failures → assume rate-limiting/blocking,
+finish bookkeeping for what succeeded, stop), reverted `ingest_batch.py`'s auto-marks via `git
+checkout -- pipeline/ledger.csv` (confirmed clean diff after revert) — none of the 8 rows are
+genuinely no-captions; all 8 remain open at their prior status (P1:1, P2:330 unchanged). No source
+pages, youtube-index.md, or persona files touched. No ledger state changed net.
+
+**Unblock path for a future iteration**: install a PO-token provider (e.g.
+`bgutil-ytdlp-pot-provider`) or otherwise supply yt-dlp with a valid PO token; until then, Stage B
+against @thefutur will keep aborting 0/8 on auto-caption-only videos. Manual-caption videos (rare
+in this corpus) would still fetch fine, but the driver has no cheap way to distinguish them ahead
+of the fetch attempt.
+
+Synthesis notes: none (0 videos ingested this batch — pure tooling blocker, no content debt).

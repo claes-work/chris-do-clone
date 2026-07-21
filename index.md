@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-21 (ingest yt batch @thefutur, 8 → 744 L2; P2 Jul–Aug-2023: portfolio-less client-getting (gaps diagnostic), solo Pro-Group Q&A ★ (referrals/owner-power/switch-verticals), Hoodzpah value-based-pricing interview, Emmy-designer 3-skills masterclass Pt1of3 ★, charge-more self-worth doctrine ★ (circa-2016 tape), typography good→great Pt2/3 ★; guest fences Chris Voss rejection masterclass + Hoodzpah big-brands panel)_
+_Last updated: 2026-07-21 (ingest yt batch @thefutur, 8 → 746 L2; P2 Aug–Sep-2023: semiotics/conceptual-design masterclass Pt3of3 ★ (completes the good→great→god-tier trilogy), Sho.ai "why I cloned myself" interview (dobot AI-clone project, Chris solo on AI-ethics/citing-sources/$5k-hr-rate/Avengers-Iron-Man bio, guest fenced); 6 no-captions)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **744 videos L2** (@thefutur 2014–2025 + @ChrisDo; P1 done, draining P2 [through 2023-08-15]; synthesized through batch 105 → persona v12).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **746 videos L2** (@thefutur 2014–2025 + @ChrisDo; P1 done, draining P2 [through 2023-09-03]; synthesized through batch 105 → persona v12).
 
 ## Topics
 

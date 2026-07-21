@@ -1,6 +1,6 @@
 ---
 type: source-subindex
-updated: 2026-07-17
+updated: 2026-07-21
 ---
 
 # YouTube Sources Sub-Index
@@ -744,6 +744,8 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-08-08 | ★ [Emmy Winning Designer SHARES 3 SKILLS (Part 1of3)](2023-08-08-yt-7MB_nwvmB-E.md) | design-craft; sales-clients; mindset; business | masterclass Pt1of3: skill #1 listening over exploration; L3-candidate (w/ Pts 2&3) |
 | 2023-08-12 | ★ [How To Charge More for Graphic Design](2023-08-12-yt-H5yR-_pPhkQ.md) | pricing; sales-clients; mindset; business | charge-more: value/self-worth over craft (circa-2016 tape); L3-candidate |
 | 2023-08-15 | ★ [How Typography Elevates Design from Good to Great (Masterclass Part 2/3)](2023-08-15-yt-ITcFFuKO2pU.md) | design-craft; mindset | Do-taught typography Pt2/3; good→great, contrast is Queen; L3-candidate |
+| 2023-08-22 | ★ [What You Missed In Graphic Design & Concepting (Masterclass 3/3)](2023-08-22-yt-fM-Emc75FEA.md) | design-craft; mindset | Do-taught semiotics/conceptual-design Pt3of3, completes trilogy w/ Pt1+2; L3-candidate |
+| 2023-09-03 | [Why I Cloned Myself using AI](2023-09-03-yt-phg5M9mIKKg.md) | business; mindset; pricing | Sho.ai interview (dobot); Chris solo on AI-ethics/citing-sources/$5k-hr-rate/Avengers-bio; guest fenced |
 | 2023-10-19 | ★ [Don't Justify Your Prices. Do This Instead.](2023-10-19-yt-Abi8kwkfZbA.md) | pricing; sales-clients; business | have-to-have vs nice-to-have; never cede higher ground; L3-candidate |
 | 2023-12-14 | ★ [How To Build A Successful Personal Brand (Masterclass)](2023-12-14-yt-1kUCm1JPzxg.md) | branding; content-strategy; mindset | two-word-brand, shadow→transformer; Chris-taught; L3-candidate |
 | 2023-12-19 | ★ [Personal Branding — AdobeMAX 2023 keynote](2023-12-19-yt-MVz9mm0Z-7g.md) | branding; content-strategy; mindset | Unbland-core keynote + biography; L3-candidate |
@@ -764,4 +766,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_744 videos ingested (L2) so far._
+_746 videos ingested (L2) so far._

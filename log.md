@@ -2094,3 +2094,46 @@ until unblocked, rather than re-dispatching further batches that will reproduce 
 
 Synthesis notes: none (0 videos ingested this batch — pure tooling blocker, no content debt;
 identical to the prior two aborts).
+
+## [2026-07-21] ingest | yt batch (@thefutur, 0) — ABORTED a fourth time: block confirmed, root cause narrowed further (roster-dispatched iteration)
+
+Ran Stage B (open P1 exists → P1 first) as dispatched by the roster autopilot, same selection
+as the prior three aborts: `ingest_batch.py prepare --channel @thefutur --n 8` picked
+yt-LZtM7wyqe7w (P1) + the same 7 oldest-first P2 rows (BV-2cMw6QlY, r2N4qePR0h4, xiNHfB8FVwY,
+QCmLf1Go-Uw, AqnS_hrVZVQ, mUoyOZH1R4I, t7PZ6eD2lEQ). **8/8 again returned "no subtitles for the
+requested languages"**, identical signature to the three prior aborts.
+
+Before reproducing that with the driver, tried three additional workarounds not attempted in
+the prior three iterations, to see whether any avoid the PO-token gate without needing pip
+(unavailable in this environment — no `pip`/`pip3` binary) or a cookies file:
+- `--extractor-args "youtube:player_client=android"` → fails outright: "Sign in to confirm
+  you're not a bot" (android client requires auth here).
+- `--extractor-args "youtube:player_client=ios"` → same bot-check failure.
+- `--extractor-args "youtube:player_client=tv"` → same bot-check failure (verified against a
+  clean `/tmp` output path to rule out stale cached files after an initial false-positive from
+  a leftover test artifact).
+- Default client (falls back to `android vr` in this yt-dlp build) and explicit `player_client=web`
+  → both reach the video but hit the same "PO token was not provided" / "no subtitles for the
+  requested languages" outcome as the driver.
+
+**Conclusion, now confirmed a 4th time with broader coverage**: this is not a transient
+rate-limit — every accessible client path (web, android-vr default, web explicit, android, ios,
+tv) is blocked, either by the PO-token gate on auto-caption tracks or by an outright bot-check
+requiring cookies/sign-in. No workaround is reachable without installing a PO-token provider
+plugin (blocked: no pip in this environment) or supplying browser cookies (needs the repo
+owner). Per the ingest-loop safety rail (3 consecutive yt-dlp failures → assume blocking, finish
+bookkeeping for what succeeded, stop): reverted `ingest_batch.py`'s auto-marks via
+`git checkout -- pipeline/ledger.csv` (confirmed clean `git status` after revert — no net ledger
+change; P1:1, P2:330 unchanged), and removed the empty `raw/youtube/<id>/` fetch-attempt dirs.
+No source pages, youtube-index.md, or persona files touched.
+
+**This is the fourth consecutive aborted iteration reproducing the identical diagnosis.**
+Recommending explicitly: do not keep re-dispatching Stage B for this clone via autopilot until
+one of the unblock paths lands (pip + `bgutil-ytdlp-pot-provider`, or a YouTube cookies file
+supplied by the repo owner) — further iterations will keep reproducing 0/8 at the cost of a
+wasted cycle each time. This clone's ingest loop is otherwise healthy (open P2:330, P3:44+72,
+shorts:859; synthesis debt low at 3 batches since pass 12); the blocker is purely the caption-
+fetch tooling, not the ledger or pipeline state.
+
+Synthesis notes: none (0 videos ingested this batch — pure tooling blocker, no content debt;
+identical to the prior three aborts, diagnosis narrowed).

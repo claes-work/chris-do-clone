@@ -736,6 +736,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-07-16 | ★ [The $312K Coaching Advice That Changed My Life](2023-07-16-yt-_TP2i7zFeRA.md) | sales-clients; business; mindset | three coach lessons (say-what-you-think / say-no / owner's-power); bio [self-reported]; solo; L3-candidate |
 | 2023-07-20 | [FBI Negotiator Teaches Art Of Negotiation (Masterclass w/ Chris Voss)](2023-07-20-yt-iDnEfgAAkBE.md) | sales-clients; mindset; business | guest Chris Voss negotiation masterclass; Do hosts, Voss guest-fenced (does not train) |
 | 2023-07-24 | ★ [From Struggling to Thriving: My Journey to Business Success](2023-07-24-yt-53a6Ue4yFYI.md) | mindset; business; sales-clients; content-strategy | solo origin-story (bio [self-reported]) pitch for Futur Pro Group; L3-candidate |
+| 2023-07-28 | [How to Get Clients Without a Portfolio](2023-07-28-yt-BHqb2j7mFwE.md) | sales-clients; business; mindset; content-strategy | clients without portfolio: gaps diagnostic, do-more-than-10; Hoodzpah guest fenced |
+| 2023-07-31 | [How To Handle Rejection When Communicating (Masterclass w/ Chris Voss)](2023-07-31-yt-nhfG_k0GvY4.md) | sales-clients; mindset; business | Voss rejection masterclass; guest-fenced (does not train), only Do framing |
+| 2023-08-01 | [How To Land Big Brands](2023-08-01-yt-83wF6D8r7wo.md) | sales-clients; content-strategy; business | landing big-brand clients; Hoodzpah guest panel (guest-fenced, Do framing) |
+| 2023-08-03 | ★ [Unlocking Business Growth: Expert Advice for Entrepreneurs](2023-08-03-yt-MHTX7OtmPEw.md) | sales-clients; business; mindset; pricing; content-strategy | solo Q&A: referrals, coaching, owner presence, switch-verticals; L3-candidate |
+| 2023-08-06 | [Grow YOUR Design Agency in Under 2 Hours @Hoodzpah](2023-08-06-yt-jhjyQxJ1NpM.md) | pricing; business; sales-clients; branding; mindset | Do interviews Hoodzpah twins (guests fenced); value-based pricing doctrine |
+| 2023-08-08 | ★ [Emmy Winning Designer SHARES 3 SKILLS (Part 1of3)](2023-08-08-yt-7MB_nwvmB-E.md) | design-craft; sales-clients; mindset; business | masterclass Pt1of3: skill #1 listening over exploration; L3-candidate (w/ Pts 2&3) |
+| 2023-08-12 | ★ [How To Charge More for Graphic Design](2023-08-12-yt-H5yR-_pPhkQ.md) | pricing; sales-clients; mindset; business | charge-more: value/self-worth over craft (circa-2016 tape); L3-candidate |
+| 2023-08-15 | ★ [How Typography Elevates Design from Good to Great (Masterclass Part 2/3)](2023-08-15-yt-ITcFFuKO2pU.md) | design-craft; mindset | Do-taught typography Pt2/3; good→great, contrast is Queen; L3-candidate |
 | 2023-10-19 | ★ [Don't Justify Your Prices. Do This Instead.](2023-10-19-yt-Abi8kwkfZbA.md) | pricing; sales-clients; business | have-to-have vs nice-to-have; never cede higher ground; L3-candidate |
 | 2023-12-14 | ★ [How To Build A Successful Personal Brand (Masterclass)](2023-12-14-yt-1kUCm1JPzxg.md) | branding; content-strategy; mindset | two-word-brand, shadow→transformer; Chris-taught; L3-candidate |
 | 2023-12-19 | ★ [Personal Branding — AdobeMAX 2023 keynote](2023-12-19-yt-MVz9mm0Z-7g.md) | branding; content-strategy; mindset | Unbland-core keynote + biography; L3-candidate |
@@ -756,4 +764,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_736 videos ingested (L2) so far._
+_744 videos ingested (L2) so far._

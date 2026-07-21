@@ -2137,3 +2137,45 @@ fetch tooling, not the ledger or pipeline state.
 
 Synthesis notes: none (0 videos ingested this batch — pure tooling blocker, no content debt;
 identical to the prior three aborts, diagnosis narrowed).
+
+## [2026-07-21] ingest | yt batch (@thefutur, 0) — ABORTED a fifth time: block still present, verified without re-dispatching a full batch (roster-dispatched iteration)
+
+Orient: `python tools/ingest_batch.py status` — unchanged since batch 114 (open @thefutur P1:1
+P2:330 P3:44; @TheFuturAcademy P3:72; shorts:859; L2=748 L3=0; synthesis debt 4 batches since
+pass 12, checkpoint at 10 — not due; persona last touched by pass 12 (v13), not stale; @ChrisDo
+already has 9 ledger rows, so Stage A not triggered). First matching rule: open P1 row exists →
+Stage B.
+
+Given four prior consecutive iterations today already reproduced an identical 0/8 result with an
+exhaustive root-cause narrowing (PO-token gate blocks all auto-caption tracks; every extractor
+client tried — web, android, ios, tv, android-vr default — either hits the same PO-token gate or
+an outright bot-check; no `pip`/`pip3` in this environment to install a PO-token provider plugin;
+manual-caption videos unaffected but rare in this corpus) and the fourth iteration explicitly
+recommended NOT re-dispatching further full 8-video batches while unchanged, this iteration
+first re-verified cheaply and non-destructively instead of repeating the full driver cycle:
+confirmed `yt-dlp --version` is still `2026.07.04` (unchanged) and `pip`/`pip3` are still absent
+from this environment (unchanged — the documented unblock path remains unavailable), then ran a
+single direct, non-mutating probe (`yt-dlp --write-auto-subs --sub-langs "en.*" --skip-download`,
+no ledger touch) against the same open P1 row (LZtM7wyqe7w): identical signature — "PO token was
+not provided" warning followed by "no subtitles for the requested languages". No environment
+change since the four prior aborts; the diagnosis stands unchanged.
+
+Did not re-run `ingest_batch.py prepare` against the full 8-row batch (which would only reproduce
+the identical 8/8 failure-and-revert cycle already documented three times) — no ledger rows were
+touched, so nothing to revert; `git status`/`git diff --stat pipeline/ledger.csv` confirmed clean
+before and after. No source pages, youtube-index.md, or persona files touched.
+
+Per the ingest-loop safety rail (3+ consecutive yt-dlp failures → assume blocking, finish
+bookkeeping for what succeeded, stop) and the roster rule that a clone's own accumulated evidence
+outranks re-running the same probe: this iteration ends here without further Stage B dispatch.
+**Unblock path is still: install a PO-token provider (`bgutil-ytdlp-pot-provider`, needs `pip`) or
+supply a YouTube cookies file — both require the repo owner, out of scope for an ingest
+iteration.** This clone's ledger/pipeline state otherwise remains healthy (open P2:330, P3:44+72,
+shorts:859; synthesis debt 4/10, well under checkpoint; persona at v13, not stale). Recommend the
+roster autopilot pause dispatch to this clone's ingest loop until the repo owner installs a
+PO-token provider or supplies cookies — repeated dispatch without an environment change will keep
+reproducing this identical no-op.
+
+Synthesis notes: none (0 videos ingested this batch — pure tooling blocker, no content debt;
+identical to the prior four aborts, no new information beyond confirming the block persists
+unchanged).

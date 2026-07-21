@@ -2061,3 +2061,36 @@ in this corpus) would still fetch fine, but the driver has no cheap way to disti
 of the fetch attempt.
 
 Synthesis notes: none (0 videos ingested this batch — pure tooling blocker, no content debt).
+
+## [2026-07-21] ingest | yt batch (@thefutur, 0) — ABORTED a third time: PO-token block still present (roster-dispatched iteration)
+
+Ran Stage B (open P1 exists → P1 first) as dispatched by the roster autopilot:
+`ingest_batch.py prepare --channel @thefutur --n 8` selected the same open P1 row
+(yt-LZtM7wyqe7w) + the same 7 oldest-first P2 rows as the prior two aborted iterations
+(BV-2cMw6QlY, r2N4qePR0h4, xiNHfB8FVwY, QCmLf1Go-Uw, AqnS_hrVZVQ, mUoyOZH1R4I, t7PZ6eD2lEQ).
+**8/8 again returned `no subtitles for the requested languages`**, each preceded by the same
+"PO token was not provided" warning — identical signature to the two prior aborts.
+
+Re-verified independently (not just trusting the driver): ran `yt-dlp --write-auto-subs
+--sub-langs "en.*" --skip-download` directly against LZtM7wyqe7w — same PO-token warning,
+same "no subtitles for the requested languages" result. No environment change since the last
+two attempts (no PO-token provider plugin available; `pip`/`pip3` are not installed in this
+environment at all, so installing `bgutil-ytdlp-pot-provider` is not a quick fix from inside
+an ingest iteration — that is an infra task for the repo owner, out of scope here).
+
+Per the ingest-loop safety rail (3 consecutive yt-dlp failures → assume blocking, finish
+bookkeeping for what succeeded, stop): reverted `ingest_batch.py`'s auto-marks via
+`git checkout -- pipeline/ledger.csv` (confirmed clean diff after revert). All 8 rows remain
+open at prior status (P1:1, P2:330 unchanged). No source pages, youtube-index.md, or persona
+files touched. No ledger state changed net.
+
+**Status: this is now three consecutive aborted iterations (same day) with an unchanged
+diagnosis.** Stage B against @thefutur/@TheFuturAcademy will keep aborting 0/8 on
+auto-caption-only videos until a PO-token provider is installed for yt-dlp, or YouTube's
+gating lifts. Recommend the repo owner either (a) install `python3-pip` +
+`bgutil-ytdlp-pot-provider` in this environment, or (b) pause the ingest loop for this clone
+until unblocked, rather than re-dispatching further batches that will reproduce the identical
+0/8 result.
+
+Synthesis notes: none (0 videos ingested this batch — pure tooling blocker, no content debt;
+identical to the prior two aborts).

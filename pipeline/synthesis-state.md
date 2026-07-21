@@ -6,14 +6,62 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **P2 long-tail through ingest batch 105 (L2=688) — all L2 source pages 2014 → early-2023 (@thefutur P2 era through 2023-03-02).** Synthesis pass 11 ran 2026-07-19 → system-prompt v12.
+Synthesized through: **P2 long-tail through ingest batch 114 (L2=748) — all L2 source pages 2014 → late-2023 (@thefutur P2 era through 2023-10-29).** Synthesis pass 12 ran 2026-07-21 → system-prompt v13.
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
 
-_(none — caught up through batch 105. Next checkpoint: after ~10 more ingest batches or an era boundary.)_
+_(none — caught up through batch 114. Next checkpoint: after ~10 more ingest batches or an era boundary.)_
 
 ## Done checkpoints
+
+- [x] **2026-07-21 · pass 12 · system-prompt v13** — P2 2023 era (batches 106–114, ~60 L2 pages,
+  L2 688→748; includes the good→great→god-tier design masterclass trilogy and the Sho.ai
+  AI-clone interview). Promoted (one file at a time): PRICING +4 sections (§44 irresistible-
+  offer toolkit [10x/÷10 redesign, client's-time-not-yours, 3-tier ladder; Hormozi-credited], §45
+  ~2016 charge-more self-worth canon [quality-of-questions price lever, diagnose-before-
+  prescribe, passionately-detached] ⚠️ CONTRADICTION flagged against its own $48k-Buick
+  arbitrage story, §46 referral finder's-fee 6–15% + first-100K-system cross-ref +
+  $5,000/hr self-report, §47 hourly-as-habit-problem/"high tide all boats"/$0–$750k inversion-
+  thinking [Paco de Leon]), SALES-CLIENTS +7 (§64 5-point cold-outreach checklist, §65
+  communication self-diagnosis drill, §66 three coaching lessons [say-what-you-think/
+  permission-to-say-no/owner's-power] + symmetry-of-logic, §67 lead-gen/first-client playbook
+  [overflow strategy/five-companies drill/free-$10K pivot wedge], §68 "language is the shield",
+  §69 portfolio-less client-getting, §70 diagnose-before-prescribe/quality-of-questions
+  [cross-ref pricing §45]), BUSINESS +3 (§39 first-$100K system [MLE/labor-vs-volume quadrant/
+  close-ratio×10 funnel], §40 the three M's [Mastery→Media→Monetize], §41 switch-verticals-
+  not-services + $1M typography-course proof + fluid-agency model), MINDSET +6 (§60 reframing-
+  as-packaging + three learner types, §61 "language is the shield" + communication drill, §62
+  three 21st-century skills, §63 AI stance [dated 2023] + citing-sources ethic, §64 charge-more
+  canon mindset-half + symmetry-of-logic, §65 FOCUS acronym + silence discipline + self-
+  compassion), CONTENT-STRATEGY +3 (§42 own viral-content formula ["theory is lonely," Jenga
+  effect], §43 AI stance dated 2023, §44 pitching/verification/"confusion vs curiosity"),
+  BRANDING +5 frameworks (F40 six-part personal-brand model [Kusama case study], F41 brand
+  storytelling [character/want/obstacle, hero-vs-villain, vulnerabilities-over-superpowers],
+  F42 find-your-gift [3-circle Venn, 100-item list, "complaint is your calling"], F43 shape-
+  recognition ["a logo doesn't sell the car"], F44 light: cliché-twist "known unknown" +
+  noun-not-adjective), DESIGN-CRAFT +2 (§35 Shu-Ha-Ri mastery progression + copy-combine-
+  transform [Kirby Ferguson], §36 the good→great→god-tier masterclass trilogy [listening/
+  typography-Kryptonite/semiotics-hybrid-third-meaning + own *Crank Calls* D&AD Pencil case
+  study — promoted as ONE landmark across 3 source videos]). Persona: beliefs +10 (128→138),
+  voice +12 quote-clusters (97→106: "language is the shield," "symmetry of logic," "AI is the
+  bear," "contrast is Queen," "theory is lonely," FOCUS/silence), biography +5 facts (64→69:
+  hardest-two-years/Karen-Rainey bidding turning point [Nissan/Sun/Janus], early 3D work on the
+  first Marvel *Avengers* film [Iron Man visuals ~2010], 2014 Jose-Caballer "board of
+  directors" process conflict, wife-suspected-ADHD [name-free], Adobe-MAX-speaking/Atomicon-
+  attendance). system-prompt v12→v13 (compiled_from 688→748). ENTITIES: jose-caballer.md
+  deepened (2014 process-conflict account + his own ADHD coping rituals). Guards preserved+
+  reinforced: family unnamed, Emmy-not-Grammy (+ NEW: it's ONE Emmy, not "two-time" per a
+  2023 self-report — flagged as uncorroborated slip), value-based-is-current (+ NEW: the
+  ~2016 charge-more arbitrage story is not current doctrine), AI-stance is a dated 2023
+  snapshot (NEW guard — date-stamp before presenting as current). TOOLING FIX (bonus, low-
+  risk): `tools/ingest_batch.py`'s `FLAG_RE` anchored from a bare `429` substring match to
+  `\b429\b`, fixing a false-positive that silently excluded 4 open rows (1 P1 + 3 P2) whose
+  `views=` note happened to contain the digits "429" — confirmed fixed via
+  `ingest_batch.py status` (P1 0→1, P2 326→330 after the fix). Advanced high-water mark to
+  batch 114 (L2=748). Synthesis debt reset 10→0. CARRIED LINT: broken-caption re-fetch queue
+  (0lRXUzwFvHY, HNoLn3rapK4, hSvluYcim4I); "I like deliverables too" softening; 19/23/24-yr
+  timeline drift; Melinda Livsey/Livesey spelling.
 
 - [x] **2026-07-19 · pass 11 · system-prompt v12** — P2 mid-2022 → early-2023 era (batches 96–105, ~69 L2 pages, L2 611→688; guest-masterclass-heavy so most pages fenced context). Promoted (one agent per file): PRICING (§43 pricing-LADDER hourly→fixed[pad 10-100%]→value→royalty, §8 THREE-YESES-rule + close-rate>60-70%=underpricing, §18 design-thinking anchors $50k/2wk-$150k/8-10wk, §5 light labor-theory/price-as-signal/Goldilocks), SALES-CLIENTS +6 (§58 tone-of-voice/Voss-FM-DJ, §59 belief-first-non-closing, §60 sell→help/bucket-of-trust, §61 make-better-wishes goal-front-end, §62 why-not-do-nothing cost-of-inaction, §63 goodwill-bank-5yr/unsell-yourself), BUSINESS +2 (§37 SCRUPLES hiring test, §38 creator-partnering rules), CONTENT-STRATEGY +2 sections +folds (§40 YouTube-scripting/storytelling-is-delaying/30-sec-hook/soft-hard-CTA, §41 keynote over-delivery, +§35 storytelling-pedagogy normal→explosion→new-normal, +§27 native-language repurposing), BRANDING +1 (F39 superhero-IP story-template), DESIGN-CRAFT +1 (§34 creativity=connecting-disparate + outside-your-industry), MINDSET +3 (§57 5-step-direction/David-Baker-15-25-competitors, §58 only-look-for-big-solutions/manifestation, §59 canary-in-the-coal-mine career-pivot). Persona: voice +8 quote-clusters (90→97: "storytelling is delaying", "charge more for money", "why not do nothing?", FM-DJ-voice, sell→help/bucket-of-trust, belief-first, make-better-wishes), biography +7 facts (57→64: Futur 2.02M-subs Jan-2023, Beverly-Hills-Hormozi-dinner, Apple-512k-at-20/desktop-publishing-at-19/Brisbane-debate, selling-obsessed-partner-split [not a 4th], private-arts-school ~$22k/sem, After-Effects-1-of-5-students, canary-career-pivot). system-prompt v11→v12 (compiled_from 611→688). ENTITIES: influences += Ron Baker (⚠️ ATTRIBUTION GUARD: "no commodity, just lack of imagination" + value-pricing-2.0/double-thank-you are HIS not Chris's) + Neil Hoyne; futur-instructors → "2022-2023 guest-expert era" roster (Kindra Hall/Daniel Priestley/Brendan Kane/Jake Fellman/Sean Cannell/Ryan Blair/Dakota Robertson/Neville Medhora/John D. Saunders/Alex Antolino/Vince Labon/Vincent Brethwaite/Joana Galvao + UX-course instructor) + "two Chrises" (Chris Franklin≠Chris Do) trap; the-futur.md += Pro-Group <300→>670 (2022) + 40Q/4-outcome SCORECARD (Ben Burns) + 2.02M subs (Jan 2023). Guards preserved+reinforced: family unnamed (+brothers), no married-24-yrs/anniversary (admitted lie), Ron-Baker's-frameworks-are-Baker's, Blair's-are-Blair's, Emmy-not-Grammy, no $10k/day-for-Chris (=David C. Baker's), value-based-is-current. Advanced high-water mark to batch 105 (L2=688). Synthesis debt reset 10→0. CARRIED LINT: broken-caption re-fetch queue (0lRXUzwFvHY, HNoLn3rapK4, hSvluYcim4I); "I like deliverables too" softening; 19/23/24-yr timeline drift; Melinda Livsey/Livesey spelling.
 <!-- pass 11 original scope (done): Promote (one agent per file), dated + cited, contradictions flagged. PRICING (major): 3-PRICING-MODELS career/risk LADDER (hourly→fixed-fee[pad 10-100% over cost]→outcome/value + royalty tier); THREE-YESES RULE (3 yeses in a row → raise price) + close-rate>60-70%=underpricing signal + raise-2x-not-10x; design-thinking HARD PRICE ANCHORS ($50k/2wk, $150k/8-10wk, unbundle prep/workshop/reporting); light: labor-theory-of-value/price-as-signal/Goldilocks-3-options framings. SALES-CLIENTS: TONE OF VOICE sales skill (Chris Voss "late-night FM DJ voice"); BELIEF-FIRST diagnosis of not-closing (belief→feeling→action→result); goal-setting FRONT-END to client selection ("make better wishes"); sell→help word-swap + "bucket of trust" diagnostic; "why not do nothing?" cost-of-inaction diagnostic; give-value-first-5yr goodwill-bank (Hormozi). BUSINESS: the SCRUPLES hiring test (~5 no-right-answer ethics scenarios scored 1-10 for management values-fit — the operational HOW behind hire-for-values); creator-PARTNERING rules (give money/no-micromanagement/vet-values). CONTENT-STRATEGY: YouTube-SCRIPTING framework ("storytelling is delaying" + 30-sec hook + soft/hard CTA); Chris's own STORYTELLING PEDAGOGY (normal→explosion→new-normal arc + everyday-conflict/life-and-death-feel + dialogue+sensory+struggle checklist + "propaganda piece" tell); native-language cross-platform REPURPOSING doctrine; presentation OVER-DELIVERY failure mode (narrow-to-2-3, over-prepare-then-edit, curse-of-knowledge-as-teaching). BRANDING: personal-brand STORY TEMPLATE (origin/defining-moment/transformed + villains + superhero/Campbell lens). DESIGN-CRAFT: creativity = connecting DISPARATE things + inspiration from OUTSIDE your industry. MINDSET: 5-STEP DIRECTION framework (3-5yr goal → count 15-25 competitors [David C. Baker viable-market rule] → reverse-engineer a role model into 5 things → easiest-first-for-momentum → invest-in-skills); manifestation / "only look for big solutions" mindset; career-pivot origin ("canary in the coal mine", commercials→branding→education). BIOGRAPHY: The Futur ~2.02M YouTube subs (Jan 2023, targeting 3M); Beverly Hills founder dinner w/ Alex Hormozi (2023); Apple 512k computer since age ~20 (~1993); desktop-publishing at 19; ran a public design debate in Brisbane; split with a selling-obsessed early business partner; taught a private arts school (~$22k/sem); ~$5k Louis Vuitton (appearance). VOICE: "storytelling is delaying", "charge more for money", lettuce→Wolfgang-Puck illustration, "why not do nothing?", tone-of-voice/FM-DJ. ENTITIES: influences += Ron Baker (value-pricing authority, VeraSage/Implementing Value Pricing — adjacent-but-distinct-from-Chris, ATTRIBUTION GUARD: "no commodity, just lack of imagination" is HIS), Neil Hoyne (Google/Converted), Jonathan Stark (already added pass 10); futur-instructors += 2022-23 guest-experts (Kindra Hall, Daniel Priestley, Brendan Kane, Jake Fellman, Sean Cannell, Ryan Blair, Dakota Robertson, Neville Medhora, John D. Saunders, Alex Antolino, Vince Labon, Vincent Brethwaite, Joana Galvao) + the "UX Design & Business" course (unnamed instructor) as do-not-train series; the-futur.md += Pro Group grew <300→>670 (2022) + 40Q/4-outcome SCORECARD product (Ben Burns) + 2.02M subs (Jan 2023). Recompile system-prompt v11→v12 (compiled_from 611→688). LINT: carry broken-caption re-fetch queue (0lRXUzwFvHY, HNoLn3rapK4, hSvluYcim4I) + the "two Chrises" (Chris Franklin ≠ Chris Do) + guest-partnership-is-not-Chris's catches + "I like deliverables too" softening + 19/23/24-yr timeline drift + Melinda Livsey/Livesey spelling. -->

@@ -3,7 +3,7 @@ type: hub
 domain: business
 domains: [business]
 created: 2026-07-14
-updated: 2026-07-19
+updated: 2026-07-21
 tags: [business, entrepreneurship, scaling, agency, delegation, positioning, money, mission, reading-list, culture, design-education, cash-flow, referrals, business-development, curiosity-selling, autonomy, mentorship, pro-bono, conscious-capitalism, giving, freelancers, margins, maker-mindset, entrepreneurial-mindset, process-codification, quality-threshold, student-debt, documentation, freelance-transition, arbitrage, passive-income, runway, company-culture, promotability, bottom-up-management, innovation, white-space, royalties, licensing, feedback, creative-direction, first-hire, intern-bridge, freelancer-vetting, business-partnership, career-positioning, create-and-orchestrate, eight-core-concepts, inheritance-model, firing, no-surprise-principle, risk-profit, hourly-billing, teaching-business, true-fans, course-economics, copycat-response, execution-speed-moat, money-for-time, opportunity-cost, buy-back-time, scruples-hiring-test, values-vetting, creator-partnering]
 ---
 
@@ -1908,6 +1908,70 @@ the persona ([[wiki/sources/2023-01-20-yt-bkZ_xujsENM]], 2023-01-20).
   than hiring their charisma and then trying to strip out the parts you don't like — "a horrible
   way to work." The external-collaborator restatement of the hire-for-values discipline (§9, §37).
 
+## 39. The first-$100K system — MLE, the labor-vs-volume quadrant, and the close-ratio × 10 lead-gen funnel
+
+A Futur Pro member masterclass (the "100 to 100 challenge" — 100 Pro members past $100K in
+revenue), fully Chris-taught. ([[wiki/sources/2023-03-28-yt-_fIIa6FeFAY]], 2023-03-28)
+
+- **Goal math**: reduce $100K/year to **$10K/month over 10 working months**, leaving a
+  2-month cushion for bad months/downtime/vacation. Scales linearly: double the monthly
+  number for $200K, swap the numbers for $500K→$1M.
+- **Pricing to hit $10K/month** — hourly ($100/hr needs 100 hrs/month; $500/hr needs only
+  20), per-deliverable ($1,000/logo → 10/month; $10,000/website → 1/month), or a hybrid.
+- **The labor-vs-volume quadrant**: avoid high-labor/high-volume (the "Fiverr" bucket,
+  near-zero pay) and be wary of low-labor/high-volume (an assembly line needing many
+  clients); aim toward low-volume work.
+- **Minimum Level of Engagement (MLE)**: set a threshold every client must clear — e.g. "I
+  have a minimum fee of $10,000 to speak — does it make sense for us to have a call?" — and
+  treat it as policy, not a negotiable.
+- **The lead-gen funnel math**: know your close ratio (10% needs work; 20–30% is decent;
+  50%+ is excellent — with no data, assume 50%). Units needed ÷ close ratio = qualified
+  appointments needed; **then multiply by 10** for lead attrition (~9 of 10 interested people
+  aren't qualified) to get the total leads to generate.
+- **Ask for referrals early** — before you finish, or even before you start, when feelings
+  are highest; pre-frame it at signing. In the sub-$100K stage, **don't pay cash for
+  referrals** — a high-touch personalized thank-you keeps the recommendation genuine (once
+  past that stage, referral commissions become viable — see the 6–15% finder's-fee band in
+  [[wiki/topics/pricing/pricing]] §46).
+- **Borrow vs. build authority** (credited to Mira Kaddoura's *But I'm Not an Expert*):
+  borrow by summarizing books, resharing others' posts the right way, interviewing admired
+  people; build with how-to posts, listicles, and especially **live demonstrations** — doing
+  it live signals real competence.
+
+## 40. The "three M's" — Mastery → Media → Monetize
+
+A compact, named sequence for creative entrepreneurs, organizing several threads taught
+elsewhere in this hub. ([[wiki/sources/2023-05-18-yt-tsktSqpb-mg]], 2023-05-18)
+
+1. **Mastery** — go learn a skill and do it well; just focus on that.
+2. **Media** — once you start to master something, learn to publish and produce content
+   that *demonstrates* your mastery (they work together).
+3. **Monetize** — the common failure mode is rushing straight to monetize before the first
+   two are in place: "we're just effing this up all the time because we just want to run to
+   make money."
+
+> "Just learn a freaking skill. I don't care what it is. Learn a skill first and get really
+> good." (2023-05-18)
+
+Delivered alongside a broader **incrementalism** frame ("big things start small and small
+things start big"; solve your neighbor's problem before the world's; teach one person, then
+five, then fifty) — see [[wiki/topics/mindset/mindset]] for the mindset-layer material from
+the same source.
+
+## 41. Switch verticals, don't add services — the typography-course proof point
+
+When your industry is dying, **don't add new services** — that makes you an inexperienced
+newbie "chasing the tail." Instead, **take your exact same skill set to an industry one
+degree different that needs it now.** Chris's own proof: he taught 15 years at ArtCenter and
+Otis at ~$55/hour (less than he paid his own freelancers) — "nobody gets rich teaching." He
+took the same lessons, same personality, same style, and recorded them on YouTube; his
+**first typography course**, recorded once in ~6 weeks, has **grossed over $1M** — versus
+not even $100K from 15 years of classroom teaching. "Don't add more services — switch the
+vertical." Related operating model: think of yourself as a **"fluid agency"** — a thin
+management layer with vetted subcontractors (designers, developers, writers) you can pull in
+or refer to, built proactively before you need it, rather than scrambling when work arrives.
+([[wiki/sources/2023-08-03-yt-MHTX7OtmPEw]], 2023-08-03)
+
 ---
 
 ## See also
@@ -2049,3 +2113,9 @@ the persona ([[wiki/sources/2023-01-20-yt-bkZ_xujsENM]], 2023-01-20).
   (Travis Makes Friends; founding, $80M, $4–5M, mission), 2024-02-24
 - [[wiki/sources/2025-04-08-yt-b0fQyaBSSI0]] — "How I Went From Charging $500 to $100,000
   For A Logo" (value-pricing; charge-more), 2025-04-08
+- [[wiki/sources/2023-03-28-yt-_fIIa6FeFAY]] — "How To Make Your First $100,000 (Masterclass)"
+  (MLE, labor-vs-volume quadrant, close-ratio × 10 lead-gen funnel; §39), 2023-03-28
+- [[wiki/sources/2023-05-18-yt-tsktSqpb-mg]] — "AVOID THIS MISTAKE To Achieve Your Full
+  Potential" (the three M's: Mastery → Media → Monetize; §40), 2023-05-18
+- [[wiki/sources/2023-08-03-yt-MHTX7OtmPEw]] — "Unlocking Business Growth" Pro-Group Q&A
+  (switch-verticals-not-services, $1M typography course, fluid-agency model; §41), 2023-08-03

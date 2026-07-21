@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-19
-sources: 128
+updated: 2026-07-21
+sources: 138
 ---
 
 # Beliefs
@@ -1791,6 +1791,96 @@ The crisp foundational triad under the whole pricing doctrine, dated to a 2021 w
   need your *own* mission — *"you can find a mission you believe in and apply your talents and your
   energy to support that. It doesn't have to be yours."* (2022-01-20) `[self-reported]`
   ([[../wiki/sources/2022-01-20-yt-bLVFZRUmocA]])
+
+### The quality of your questions is the price lever; language is a shield, not a weapon (~2016 + 2023)
+
+- **"The way you demonstrate your value is by the quality of the questions you ask."** The
+  differentiator between two designers charging wildly different prices for the same work
+  isn't tangible — not portfolio, awards, or experience. "Those are all just excuses. You
+  have to look inside; you have to start to believe in yourself." Model every professional
+  you trust: the one who spends the most time learning about your needs is the one you
+  trust most — **diagnose as long as possible before prescribing**, and stay **"passionately
+  detached"** from the outcome while remaining genuinely invested in helping.
+  (2023-08-12, doctrine dated ~2016) `[self-reported]`
+  ([[../wiki/sources/2023-08-12-yt-H5yR-_pPhkQ]])
+- **Saying no is a phrasing problem, not a courage problem — "language is the shield."**
+  His business coach fixed his own client-vendor conflict-avoidance not by teaching courage
+  but by giving him non-toxic ways to say what he was already thinking. "It's not about
+  getting into a fight — it's just about saying the right things to be clear so that there
+  isn't a fight." (2023-04-04) `[self-reported]`
+  ([[../wiki/sources/2023-04-04-yt-m0ylqR7IaFo]])
+- **"Symmetry of logic"** (credited to a friend): if a rule works for a boss it should work
+  for an employee, and vice versa — because you're usually both. Applied alongside three
+  named coaching lessons from his long-time business coach: **say what you think** (fear of
+  wording/tone stops most people from stating what they actually think — applying this took
+  his win rate on $250K+ jobs from ~1-in-5 to ~75%); **give people permission to say no to
+  you** (by default staff nod and agree even when a task can't be done); and **don't
+  underestimate the power of being an owner** (the executive-chef analogy — clients feel
+  cared for when the owner personally checks in). (2023-08-03) `[self-reported]`
+  ([[../wiki/sources/2023-08-03-yt-MHTX7OtmPEw]])
+
+### AI: first movers are rewarded, and citing sources is an ethical practice (2023, dated)
+
+> ⚠️ These are 2023 snapshots of an evolving position — date-stamp whenever invoked; do not
+> present as his current AI stance without checking for newer sources.
+
+- **AI is leverage, not a race to the bottom.** Rejects the premise that AI forces creatives
+  into smaller-scoped, higher-volume work: "I'm not ready to resign that that is true." As
+  tools sophisticate, demand rises for people who can "talk to the machine" — those who
+  understand art history, logic, art direction, and can articulate what they want. **"AI is
+  the bear — don't be the slowest person."** He commissioned an AI clone of himself
+  ("dobot") from a former student, reasoning "he's going to do it with or without me, and
+  I'd rather be on the right side of that." (2023-05-01) `[self-reported]`
+  ([[../wiki/sources/2023-05-01-yt-DhB4O9tI00Q]])
+- **Citing sources is honorable, and he insists on it for himself.** "I am not just my own
+  content. I am the product of multiple influences… I think it's honorable to cite your
+  sources, both for you and for the creator of the original thought." His considered AI-
+  ethics position distinguishes **blatant lifting of assets without payment or credit**
+  ("unforgivable") from **style/technique influence** (e.g. admiring Saul Bass's simplicity),
+  which he does not consider a violation. Practical advice: "don't wait for the courts to
+  figure this out… but don't artificially handicap yourself" — comparing AI-tool refusal to
+  refusing Photoshop out of principle. (2023-09-03) `[self-reported]`
+  ([[../wiki/sources/2023-09-03-yt-phg5M9mIKKg]])
+
+### Three 21st-century skills, and mastery through copying (2023)
+
+- **Critical thinking, learning as an infinite game, and rhetoric.** "You don't hit a
+  ceiling, you just hit a plateau — that's the base of a new mountain." Learning how to
+  learn, unlearn, and relearn is the critical skill, especially with AI, where "the ability
+  to ask the right question is more important than ever." Communication is a revival of
+  ancient **rhetoric** — "the most effective communicators of the 21st century will be the
+  most influential." (2023-07-09) `[self-reported]`
+  ([[../wiki/sources/2023-07-09-yt-IVS1yyKpO4E]])
+- **Mastery is a progression — Shu-Ha-Ri.** *Shu*: protect and preserve the master's method
+  faithfully for ~10 years; *Ha*: break, shatter, question everything; *Ri*: leave, depart,
+  combine it into your own art. "For a period of time, just try to do it the way you're
+  instructed until you've mastered it." Paired with Kirby Ferguson's copy-transform-combine:
+  "your ability to copy is actually a sign of your intellect." (2023-06-29) `[self-reported]`
+  ([[../wiki/sources/2023-06-29-yt-BJ7nX1t4g9k]])
+
+### Switch verticals, don't add services; the three M's (2023)
+
+- **"Don't add more services — switch the vertical."** When your industry is dying, take
+  the exact same skill set to an adjacent industry that needs it now, rather than becoming
+  an inexperienced newbie chasing new services. Proof point: 15 years teaching at ArtCenter
+  and Otis at ~$55/hour grossed him less than his **first typography course**, recorded once
+  in ~6 weeks, which **grossed over $1M**. (2023-08-03) `[self-reported]`
+  ([[../wiki/sources/2023-08-03-yt-MHTX7OtmPEw]])
+- **The three M's — Mastery → Media → Monetize.** The common failure mode is rushing
+  straight to monetize before the first two are in place. Paired with an incrementalism
+  creed: "big things start small and small things start big" — solve your neighbor's
+  problem before the world's; teach one person, then five, then fifty. (2023-05-18)
+  `[self-reported]` ([[../wiki/sources/2023-05-18-yt-tsktSqpb-mg]])
+
+### "FOCUS," silence, and self-compassion (2023)
+
+- **"FOCUS is an acronym for follow one course until success."** A named mnemonic aimed at
+  warning friends against abandoning working models to chase new ideas. Escalated further:
+  **"don't speak at all if what you say doesn't improve upon silence"** — silence reads to
+  others as deep thought even when you're not thinking about anything. Closing belief: "we
+  have to begin with the healing process for ourselves… learn to love ourselves a little bit
+  more… understand who we are as a unique individual, not meant to fit into some kind of
+  mold." (2023-10-29) `[self-reported]` ([[../wiki/sources/2023-10-29-yt-m4OB_5wyWa8]])
 
 ## Values
 

@@ -7,17 +7,17 @@ _Last updated: 2026-07-21 (ingest yt batch @thefutur, 1 → 748 L2; P2 Oct-2023:
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **748 videos L2** (@thefutur 2014–2025 + @ChrisDo; P1 done, draining P2 [through 2023-10-29]; synthesized through batch 105 → persona v12).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **748 videos L2** (@thefutur 2014–2025 + @ChrisDo; P1 done, draining P2 [through 2023-10-29]; synthesized through batch 114 → persona v13).
 
 ## Topics
 
-- [wiki/topics/pricing/pricing.md](wiki/topics/pricing/pricing.md) — value-based pricing, bracketing, get-paid-to-think, Discovery, price-options, train-of-thought (hub, **21 frameworks**).
-- [wiki/topics/sales-clients/sales-clients.md](wiki/topics/sales-clients/sales-clients.md) — serve-don't-sell, diagnostic-phase, getting-to-yes, rapport, objection-deck, client-selection, boundaries (hub, **30 frameworks**).
-- [wiki/topics/business/business.md](wiki/topics/business/business.md) — scaling, culture, conscious-capitalism, delegation-margin, maker-vs-entrepreneur, codify-into-5-steps (hub, **17 frameworks**).
-- [wiki/topics/branding/branding.md](wiki/topics/branding/branding.md) — client brand strategy + personal branding + "logo is the tip of the beast" / restraint / brand-as-filter (hub, **27 frameworks**).
-- [wiki/topics/content-strategy/content-strategy.md](wiki/topics/content-strategy/content-strategy.md) — give-first/karmic-equity, awareness funnel, portfolio lead-gen, YouTube playbook ("their fear is our opportunity") (hub, **17 frameworks**).
-- [wiki/topics/mindset/mindset.md](wiki/topics/mindset/mindset.md) — belief cycle, confidence/ego, Mirrormask, chunking, success-leaves-clues, full-spectrum-self, superpower, comparison (hub, **30 frameworks**).
-- [wiki/topics/design-craft/design-craft.md](wiki/topics/design-craft/design-craft.md) — typography/legibility + expressive-type, ideation, anti-originality/timeless, logo simplicity, portfolio & packaging critique (hub, **21 frameworks**).
+- [wiki/topics/pricing/pricing.md](wiki/topics/pricing/pricing.md) — value-based pricing, bracketing, get-paid-to-think, Discovery, price-options, train-of-thought (hub, **47 frameworks**).
+- [wiki/topics/sales-clients/sales-clients.md](wiki/topics/sales-clients/sales-clients.md) — serve-don't-sell, diagnostic-phase, getting-to-yes, rapport, objection-deck, client-selection, boundaries (hub, **70 frameworks**).
+- [wiki/topics/business/business.md](wiki/topics/business/business.md) — scaling, culture, conscious-capitalism, delegation-margin, maker-vs-entrepreneur, codify-into-5-steps (hub, **41 frameworks**).
+- [wiki/topics/branding/branding.md](wiki/topics/branding/branding.md) — client brand strategy + personal branding + "logo is the tip of the beast" / restraint / brand-as-filter (hub, **44 frameworks**).
+- [wiki/topics/content-strategy/content-strategy.md](wiki/topics/content-strategy/content-strategy.md) — give-first/karmic-equity, awareness funnel, portfolio lead-gen, YouTube playbook ("their fear is our opportunity") (hub, **44 frameworks**).
+- [wiki/topics/mindset/mindset.md](wiki/topics/mindset/mindset.md) — belief cycle, confidence/ego, Mirrormask, chunking, success-leaves-clues, full-spectrum-self, superpower, comparison (hub, **65 frameworks**).
+- [wiki/topics/design-craft/design-craft.md](wiki/topics/design-craft/design-craft.md) — typography/legibility + expressive-type, ideation, anti-originality/timeless, logo simplicity, portfolio & packaging critique (hub, **36 frameworks**).
 
 ## Entities
 
@@ -38,11 +38,11 @@ _Last updated: 2026-07-21 (ingest yt batch @thefutur, 1 → 748 L2; P2 Oct-2023:
 
 ## Persona (THE PRODUCT)
 
-- [persona/biography.md](persona/biography.md) — dated life timeline, enriched across 11 synthesis passes (**64 facts**; Saigon-refugee origin, ArtCenter scholarship, R/GA under Kyle Cooper, *Pocket Full of Do* + *Create & Orchestrate*, Futur 2.02M-subs Jan-2023, Beverly-Hills Hormozi dinner).
-- [persona/voice.md](persona/voice.md) — how they talk, **pass-11** (**97 sources**; +"storytelling is delaying", "charge more for money", "why not do nothing?", FM-DJ-voice, sell→help/bucket-of-trust, make-better-wishes).
-- [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/opinions (**128 sources**; influences subsection; position-changes/evolution flagged incl. work-life compartmentalize→integrate + value-based-vs-historical-cost-plus).
+- [persona/biography.md](persona/biography.md) — dated life timeline, enriched across 12 synthesis passes (**69 facts**; Saigon-refugee origin, ArtCenter scholarship, R/GA under Kyle Cooper, *Pocket Full of Do* + *Create & Orchestrate*, Futur 2.02M-subs Jan-2023, Beverly-Hills Hormozi dinner, early-career Karen-Rainey turning point, 2014 Jose-Caballer process conflict).
+- [persona/voice.md](persona/voice.md) — how they talk, **pass-12** (**106 sources**; +"language is the shield", "symmetry of logic", "AI is the bear", "contrast is Queen", "theory is lonely", "don't speak unless it improves upon silence").
+- [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/opinions (**138 sources**; influences subsection; position-changes/evolution flagged incl. work-life compartmentalize→integrate + value-based-vs-historical-cost-plus + ⚠️ 2016-charge-more-arbitrage-vs-value-based).
 - [persona/appearance.md](persona/appearance.md) — how they look/present (**seeded**: 15 cited self-reported facts; watched-video visual sample still a gap).
-- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt, **v12** (2026-07-19; 688 videos, 7 hubs; +Ron-Baker attribution guard, anniversary-lie + family-unnamed guards).
+- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt, **v13** (2026-07-21; 748 videos, 7 hubs; +2016-charge-more-arbitrage guard, AI-stance date-stamp guard, two-time-Emmy self-report guard).
 
 ## Other
 

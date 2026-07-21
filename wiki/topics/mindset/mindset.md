@@ -1,7 +1,7 @@
 ---
 type: hub
 domains: [mindset]
-updated: 2026-07-19
+updated: 2026-07-21
 tags: [mindset, self-belief, discipline, decision-making, teaching-philosophy, reframing, resilience, learning, imposter-syndrome, stoicism, momentum, integrity, self-doubt, growth-mindset, self-directed-learning, introvert, authenticity, expectation, action-bias, goal-setting, overwhelm, public-commitment, effort, credentials, be-of-service, career-path, positioning, goal-clarity, chunking, prism-self, comparison, knowledge-vampire, superpower, ikigai, sacrifice, modeling, value-exchange, education, gratitude, delayed-gratification, emotional-detachment, out-hustle, anti-planning, survival-mode, self-responsibility, innovate-vs-iterate, purpose-over-product, white-space, empathy-exercise, heroes, run-towards-fear, belief-precedes, compelling-event, hold-beliefs-loosely, massive-action, memento-mori, small-steps, work-on-yourself, results-over-being-right, audience-relative-signals, flaw-acceptance, seek-discomfort, freedom-over-security, freedom-business, compartmentalize, present-self, story-you-tell, safe-to-fail, pareto-school, expert-vs-master, clarity-through-articulation, name-three-things, reading-method, opportunity-cost, parkinsons-law, effort-by-results, two-intentions, luck-preparation, control-vs-agency, business-as-a-sport, time-audit, informed-opinion, past-poor-predictor, scarcity, find-your-passion, career-marathon, ask-before-ready, feedback, criticism, observation-vs-judgment, nonviolent-communication, giraffe-ears, love-or-cry-for-help, i-statements, learners-mindset, judo-flip, tylenol-metaphor, askhole, earn-not-deserve, work-life-integration, mfp-pss, look-for-the-overlap, mission-optional, borrowed-mission, being-copied, copy-the-operator, self-acceptance, apologize-conduct-not-identity, design-as-self-discovery, reverse-engineering, competitor-count-rule, easiest-first, syntopical-reading, absorb-to-teach, manifestation, big-solutions, proximity, speed-of-execution, canary-in-the-coal-mine, non-attachment, exchanged-one-master]
 ---
 
@@ -3087,6 +3087,140 @@ already framed in §5.
   > "It filled my heart, my soul up so much that I was like this has got to be my calling in
   > life. I didn't have a business model yet but I was going to figure it out." — Chris Do, 2022-07-12
 
+## 60. Reframing as packaging of value; three learner types
+
+From a live workshop excerpt (audience answers are context, not persona data). The
+mindset-layer material from the same source that supplies the design-craft Shu-Ha-Ri
+framework — see [[wiki/topics/design-craft/design-craft]] §35.
+([[wiki/sources/2023-06-29-yt-BJ7nX1t4g9k]], 2023-06-29)
+
+- **Reframing is packaging, and packaging drives perceived value.** The identical artwork
+  looks cheap in an ugly frame and valuable in a beautiful one with good lighting and no
+  clutter — "the packaging or the presentation of ideas matters a lot." Worked example: "how
+  do we make the elevator go faster" reframed into "how do we lessen the frustration of
+  people waiting" unlocks cheap solutions (mirrors, music, snacks) instead of an expensive
+  new elevator.
+- **Three learner types** (offered as "an observation he likes so it's true for now"): (1)
+  high-level learners who get a concept from a table of contents — tend to be leaders,
+  managers, innovators; (2) story/parable learners; (3) the "pesky" kinesthetic type —
+  "believe it when I see it… I'm gonna do it myself" — who can become almost uncoachable.
+- **Why students don't follow through**: a disconnect between the teacher's solution and the
+  problem the student can actually *see* right now ("it will make sense later, but it
+  doesn't now") — give solutions aimed at problems students recognize immediately.
+
+## 61. "Language is the shield" and the communication self-diagnosis drill
+
+Two related self-presentation frameworks. ([[wiki/sources/2023-04-04-yt-m0ylqR7IaFo]],
+2023-04-04; [[wiki/sources/2023-03-22-yt-hiYvvhoFYak]], 2023-03-22)
+
+- **Saying no is a phrasing problem, not a courage problem.** Chris's own synthesis after
+  his business coach gave him "a couple ways of saying what you're thinking" that were far
+  less toxic than the aggressive versions he'd imagined: **language is the "key" or the
+  "shield"** — with the right words you don't need to be extra courageous. "It's not about
+  getting into a fight — it's just about saying the right things to be clear so that there
+  isn't a fight." Without it, most creatives (himself included) bury conflict until it leaks
+  out as passive-aggression.
+- **The way you speak is a set of changeable behaviors**, not a fixed identity — "these
+  behaviors are either serving you or they're not, and behaviors can be changed." A
+  reproducible self-review protocol: record yourself for five minutes, wait a day (immediate
+  review makes you too self-critical), then review sound-only, picture-only, and transcript
+  (red-highlight filler/non-words) separately. "Don't be so attached to who you are in the
+  present… you don't give the future version of yourself a chance."
+
+## 62. Three 21st-century skills: critical thinking, learning as an infinite game, and rhetoric
+
+A short solo monologue answering "what skill should everyone be learning right now?"
+([[wiki/sources/2023-07-09-yt-IVS1yyKpO4E]], 2023-07-09)
+
+1. **Critical thinking** — digest and compare information, do topical reading, and form an
+   informed opinion amid an abundance of conflicting "expert" claims: "you have to figure
+   out what your truth is."
+2. **Learning how to learn — and unlearn, and relearn.** Especially aided by AI, "the ability
+   to ask the right question is more important than ever," because you have to articulate
+   what you want via questions and prompts. **Learning is an infinite game, not finite** —
+   "you don't hit a ceiling, you just hit a plateau — that's the base of a new mountain."
+3. **Articulating your thinking** — a revival of **rhetoric**, a top-tier skill for the
+   ancient Greeks and Romans (Socrates, Plato, the Senate) that's since been lost. "The most
+   effective communicators of the 21st century will be the most influential, and with
+   influence you can do just about anything."
+
+## 63. AI stance (early 2023, dated) and the citing-sources ethic
+
+_The AI-stance material is a time-bound snapshot (2023-05-01) — date-stamp it whenever
+invoked; do not present as his current position without checking newer AI sources._
+([[wiki/sources/2023-05-01-yt-DhB4O9tI00Q]], 2023-05-01;
+[[wiki/sources/2023-09-03-yt-phg5M9mIKKg]], 2023-09-03)
+
+- **Rejects the premise that AI forces creatives into smaller-scoped, higher-volume work** —
+  "I'm not ready to resign that that is true." Frames AI as leverage for first movers: "the
+  future tends to reward first movers." As tools sophisticate, demand rises for people who
+  can **"talk to the machine"** — those who understand art history, logic, art direction, and
+  can articulate what they want. Signature line: **"AI is the bear — don't be the slowest
+  person."** Clear goals "magnetize" the means and methods that achieve them.
+- **AI ethics, considered position (2023-09-03)**: relays a design-school mentor's framing
+  that "AI is not doing anything different than what humans do — it's just called looking,
+  and then you make it your own," and draws his own distinction between two kinds of
+  copyright infringement — **blatant lifting of assets without payment or credit**
+  ("unforgivable… should come at a heavy cost") versus **style/technique influence** (e.g.
+  admiring Saul Bass's graphic simplicity), which he does not consider a violation. Practical
+  advice: "don't wait for the courts to figure this out… but don't artificially handicap
+  yourself" — comparing AI-tool refusal to refusing Photoshop out of principle.
+- **Citing sources is an ethical practice, stated explicitly**: "I am not just my own
+  content. I am the product of multiple influences… I think it's honorable to cite your
+  sources, both for you and for the creator of the original thought… I'm always a little
+  leery when people say things and they say it as if they came up with it by themselves."
+  Reinforces the citation ethos already documented across this hub.
+- **A properly framed question is 50% of the answer** — his stated reason for wanting an AI
+  teaching-clone ("dobot," built from his book and Business Bootcamp material) to ask
+  diagnostic questions before answering rather than answer immediately.
+
+## 64. Charge-more self-worth canon, mindset half (~2016 era) — plus symmetry of logic
+
+_Same sources as [[wiki/topics/pricing/pricing]] §45 and
+[[wiki/topics/sales-clients/sales-clients]] §70/§66 — the mindset-layer material._
+([[wiki/sources/2023-08-12-yt-H5yR-_pPhkQ]], ~2016 era, republished 2023-08-12;
+[[wiki/sources/2023-08-03-yt-MHTX7OtmPEw]], 2023-08-03)
+
+- **Self-worth precedes price.** The differentiator between two designers charging wildly
+  different prices for identical work isn't tangible — "those are all just excuses. You have
+  to look inside; you have to start to believe in yourself." He calls this the **Mastery
+  mindset**.
+- **"Sometimes dumb is good."** Naming an arbitrary price at age 22 (the $48,000 Buick
+  story) worked precisely because he didn't yet know the "rules" — "the more you learn about
+  how things are supposed to work, the more you start to sell yourself short."
+- **Symmetry of logic** (credited to a friend): if a rule works for a boss it should work for
+  an employee, and vice versa — because you're usually both. Keeps you consistent in both
+  directions.
+- **Choose discomfort over resentment** (attributes to Brené Brown, then endorses it): being
+  clear and briefly uncomfortable beats going along and resenting someone afterward. "The
+  stress that you're feeling does not come from the things you say — it comes from the
+  things you do not say."
+
+## 65. The FOCUS acronym, "don't speak unless it improves upon silence," and self-compassion
+
+From an ADHD-focused interview; the guest's coaching content is context only — the material
+below is Chris's own closing synthesis and standalone belief statements.
+([[wiki/sources/2023-10-29-yt-m4OB_5wyWa8]], 2023-10-29;
+[[wiki/sources/2023-09-10-yt-b-y51Li7Bgs]], 2023-09-10, light callback)
+
+- **"FOCUS is an acronym for follow one course until success."** A named mnemonic Chris
+  states as his own teaching device, aimed at friends who abandon working models to chase
+  new ideas.
+- **"Don't speak at all if what you say doesn't improve upon silence."** An escalation past
+  merely pausing before speaking — silence reads to others as deep thought "even if you're
+  not thinking about anything."
+- **A three-part synthesis for follow-through**: (1) physical health — "if you don't take
+  care of the machine, the machine will fall apart"; looking fit also signals "I'm a
+  motivated, focused person who can get things done"; (2) the FOCUS/silence discipline above;
+  (3) clear, broken-down goals as a precondition for follow-through.
+- **Self-compassion as the closing takeaway**: "we have to begin with the healing process for
+  ourselves… learn to love ourselves a little bit more… understand who we are as a unique
+  individual, not meant to fit into some kind of mold." Consistent with the standing
+  self-worth/impostor-syndrome thread in this hub.
+- **Light callback**: closing a separate 2023-09-10 interview, a first-person values
+  statement — "so much of what we do is based out of instinct and emotion, and sometimes
+  that can steer us in the wrong direction" — favoring data over pure instinct when deciding.
+
 ---
 
 ## Cross-cutting patterns
@@ -3275,3 +3409,27 @@ already framed in §5.
   get what we look for", "only look for big solutions / million-dollar-ideas-only", trade
   unpaid work for proximity to high-net-worth rooms, speed of execution; mastermind mechanics
   are guest "Sam"'s IP → business hub, not trained as Chris's) — 2023-01-31
+- [[wiki/sources/2023-03-22-yt-hiYvvhoFYak]] — "3 Ways To Improve Communication Instantly"
+  (record-review-3-ways drill, behaviors-are-changeable framing) — 2023-03-22, §61.
+- [[wiki/sources/2023-04-04-yt-m0ylqR7IaFo]] — "Know How To Say No" ("language is the
+  shield"; guest's exit script fenced) — 2023-04-04, §61.
+- [[wiki/sources/2023-05-01-yt-DhB4O9tI00Q]] — "Will AI End Creative Professions?" (dated
+  early-2023 AI stance: first-movers, "talk to the machine," the bear metaphor) — 2023-05-01,
+  §63.
+- [[wiki/sources/2023-06-29-yt-BJ7nX1t4g9k]] — "Why Copying Works" (reframing as packaging of
+  value; three learner types) — 2023-06-29, §60.
+- [[wiki/sources/2023-07-09-yt-IVS1yyKpO4E]] — "3 Skills YOU Need for Success in the 21st
+  Century" (critical thinking, learning-as-infinite-game, rhetoric revival) — 2023-07-09, §62.
+- [[wiki/sources/2023-08-03-yt-MHTX7OtmPEw]] — "Unlocking Business Growth" Pro-Group Q&A
+  (symmetry of logic, choose-discomfort-over-resentment) — 2023-08-03, §64.
+- [[wiki/sources/2023-08-12-yt-H5yR-_pPhkQ]] — "How To Charge More for Graphic Design" (~2016
+  doctrine: self-worth precedes price, "sometimes dumb is good"; co-host Jose Caballer =
+  context) — 2023-08-12, §64.
+- [[wiki/sources/2023-09-03-yt-phg5M9mIKKg]] — "Why I Cloned Myself using AI" (AI-ethics
+  position, citing-sources ethic, "a properly framed question is 50% the answer"; guest Sho =
+  context) — 2023-09-03, §63.
+- [[wiki/sources/2023-09-10-yt-b-y51Li7Bgs]] — "Convert clicks into customers!" (light:
+  data-over-instinct closing statement; guest Amanda Webb = context) — 2023-09-10, §65.
+- [[wiki/sources/2023-10-29-yt-m4OB_5wyWa8]] — "Entrepreneurship and ADHD = SUPERPOWERS"
+  (FOCUS acronym, "don't speak unless it improves upon silence," self-compassion; guest Abby
+  Lemon = context) — 2023-10-29, §65.

@@ -1,7 +1,7 @@
 ---
 type: hub
 domains: [branding]
-updated: 2026-07-19
+updated: 2026-07-21
 tags: [branding, personal-branding, unbland, brand-strategy, positioning, storytelling, shadow-work, two-word-brand, logo, logo-critique, identity, identity-system, timelessness, style, packaging, brand-equity, shelf-presence, private-label, brand-filter, go-to-person, sub-brand, order-taker, do-good-work, flip-the-switch, branding-vs-marketing, marketing, halo-bias, specialize-externally, generalize-internally, own-the-client-relationship, portfolio, worst-piece-rule, brand-strategy-method, discovery, show-dont-explain, seven-questions, coaching-habit, funnel-math, value-based-pricing, results-based-pricing, facilitation, unbiased-inquiry, client-advocate, everything-is-marketing, inform-or-inspire, point-of-view, brand-personality, personal-voice-vs-company-voice, brand-as-filter, authenticity, charming-razor-blade]
 ---
 
@@ -1195,6 +1195,140 @@ journey and demonstrated end-to-end with Spider-Man. (2022-12-01)
 > lenses on the same idea — the earlier one foregrounds the *transformation arc* (Campbell), the
 > later one the *cast around the hero* (Stan Lee / McKee). Not presented as a revision.
 
+### Framework 40 — The six-part personal-brand model (Kusama case study)
+
+Narrated video essay using artist Yayoi Kusama's biography as a case study; Chris narrates
+throughout (self-identifies as "a loud introvert," references business partner Jose
+Caballer) — his own voice, so the framework trains normally. Kusama's biographical facts
+are context, not persona data. (2023-05-17) [[wiki/sources/2023-05-17-yt-MCAuYeL4FT4]]
+
+His most complete single articulation of personal branding, six parts, each with a method:
+
+1. **Origin story** — know the story that tells people who you are, why you do what you do,
+   and what you offer. Review your history "as an outsider looking in," treating yourself as
+   the character. "You are the author of your own story."
+2. **Stand out (attention as currency)** — "it is better to be seen than ignored." A
+   personal brand draws out and enhances what's already unique about you; childhood
+   conditioning (be quiet, dress presentably) erodes the curiosity that standing out
+   requires, and it must be deliberately rediscovered.
+3. **Timeless themes and archetypes** — scan your life for a central theme and narrow it to
+   **one universal word** (power, love, hope, obsession, creation, rebellion) that resonates
+   across generations like a myth; then pick one or two archetypes that feel like you.
+4. **World building** — create an environment "larger than just one person," inviting people
+   in rather than having them look from outside. "World building is an act of vulnerability.
+   It requires great strength to let people in." Every social-media profile is "essentially
+   active world building."
+5. **Silhouette** — when you're recognizable by shape alone (not facial detail), you've
+   reached an iconic level. Deliberately construct one: stand in front of a mirror with a
+   bright light so only your body's shape shows; study the silhouettes of people you admire.
+6. **Withstand criticism** — if you stand out and grab attention, "someone will come along
+   and criticize you… as natural as the sun rising." Much of the backlash comes from people
+   who wish they could stand out too; keep going.
+
+> "Dare to be bold, dare to be original, dare to stand for something bigger than yourself,
+> and never shy away from the unusual." (2023-05-17)
+
+Cites **Robert Greene** (*48 Laws of Power*: "stand out, be conspicuous at all costs") and
+**Marty Neumeier** ("brand is a person's gut feeling") — both attributed to those authors,
+not original to Chris.
+
+### Framework 41 — Brand storytelling: character/want/obstacle, the hero-vs-villain distinction, and vulnerabilities over superpowers
+
+Two cutdowns from the same 2023 live personal-branding talk series as Framework 39
+(distinct sources, same talk); this material sharpens the *storytelling mechanics* rather
+than restating the origin/defining-moment/transformed arc.
+([[wiki/sources/2023-04-02-yt-wiu5Efx029s]], 2023-04-02;
+[[wiki/sources/2023-04-17-yt-mrJUiIItRKo]], 2023-04-17)
+
+- **Storytelling needs three components: character, want, obstacle** — without an obstacle
+  there's no conflict and no story. What a character *wants* (fame, fortune) usually differs
+  from what they *need* to learn (self-acceptance, forgiveness) — the internal lesson is the
+  real arc.
+- **Applied to Stan Lee's Spider-Man**: build the character from superpower → name →
+  personal problems (a teenager, loaded with relatable problems). **The defining moment
+  wasn't the radioactive-spider bite — it was Uncle Ben's death and Peter's guilt over it.**
+  The "relapse" beat (Peter letting the thief go) makes the character relatable and the
+  eventual triumph land harder.
+- **"What makes you interesting, complex, unique is not your superpower — it's your
+  vulnerabilities."** Mine your own biography — your parents, what shaped how you think, and
+  your own inciting incident ("the thing where everything changes, nothing is the same
+  again") — the same way you'd mine a character's.
+- **The hero-vs-villain distinction, applied to personal storytelling**: both face the same
+  adversity; the split is entirely in how they *process* it. "The hero draws from it, defines
+  their purpose from it, gains strength, is transformed by it to do better. They take
+  responsibility and they grow from it. The villain is victimized by it and blames others,
+  never takes responsibility." Great characters are built on tragedy (cites Black Panther,
+  Superman, Iron Man, Daredevil, Batman origins as illustration).
+- **Sharing wins reads as "flexing" and bores people — sharing the *struggle* behind the win
+  is what earns engagement.** Prompt: *"My friends think I'm great at [X], but what they
+  really don't know is that I struggle with [Y]."* Chris's own example: posting "I'm a
+  [self-reported: multi-]Emmy award-winning designer" underperformed telling the story of his
+  knees shaking backstage before the acceptance speech.
+
+### Framework 42 — Find-your-gift: the three-circle Venn, the 100-item list, and "your complaint is your calling"
+
+From the same 2023 personal-branding talk series as Frameworks 39/41 — a distinct **discovery
+process** for locating your "superpower," rather than story structure.
+([[wiki/sources/2023-04-07-yt-_QL89EOFnNQ]], 2023-04-07)
+
+- **The three-circle Venn**: your superpower sits at the intersection of (1) **physical
+  gifts** (even a trait you once hated about yourself can be one), (2) the **talented skill**
+  you spend time developing, and (3) the **things that capture your passion/attention** — the
+  things where you lose track of time.
+- **The 100-item list exercise**: on a card, write 100 things that might be your superpower —
+  do not stop, do not edit. The first ~20 are obvious; ~20–60 get hard; ~60–100 feel near
+  impossible, but pushing past the obvious surfaces the idiosyncratic material.
+- **"Your complaint is your calling"** (credited to Michael Ventura, via a source Ventura
+  himself credits) — a strong recurring complaint usually signals a strong opinion and points
+  at what you care about.
+- **"Passion = I pass on"** — reframe the heavy question "what is your passion?" into "what
+  do you want to leave behind for others?"
+- **True strength is a coin with two sides** — what you talk about is what you're strong at;
+  what you hide is your vulnerability; bringing the two together makes you "real, relatable,
+  authentic, and very very attractive." (Reinforces, doesn't replace, the
+  vulnerabilities-not-superpowers thesis in Framework 41.)
+
+### Framework 43 — Shape-recognition and iconography: "a logo doesn't sell the car"
+
+A dialogue about the wave of luxury/automotive "Helveticizing" rebrands. Guest "James"
+(possibly James Victore — `attribution: uncertain`) contributes book-cover/poster craft
+material that is **context only**; the branding thesis below is Chris's.
+([[wiki/sources/2023-05-30-yt-PRpr0_Iz4dI]], 2023-05-30)
+
+- **On the rebrand backlash**: people want personality but reject it when it "doesn't agree
+  with the way we think" — "everybody just relax."
+- **Shape-recognition over legibility** — people recognize shapes, not individual letters;
+  the hand-wringing over new marks' legibility is overblown.
+- **"A logo doesn't sell the product."** "If the car is basic crap, I don't care how good
+  your logo is; and if the car is great, conversely, I don't care how bad your logo is… I'm
+  not buying the car to drive the logo." Car companies notoriously have mediocre logos —
+  look at the business model, not the mark.
+- **Iconography over letterforms is a bold, smart brand move.** A symbol accrues meaning and
+  feeling over time regardless of legibility — most people can't correctly draw the BMW
+  roundel or the Mercedes star, "and nobody's complaining about it."
+- **Don't hire an expressive designer, then sand off the personality.** A client nitpicking a
+  hand-lettered form is asking the designer to move away from why they were hired; what an
+  expressive designer brings is "human," not "Helvetica."
+
+### Framework 44 — light additions: the cliché-twist ("known unknown") and noun-not-adjective labels
+
+Two crisp tactical adds from live-workshop clips; mostly reinforce Framework 10 (the
+two-word brand) rather than establish new territory.
+([[wiki/sources/2023-03-14-yt-jnbhLAVjFYQ]], 2023-03-14)
+
+- **A two-word brand is a hook, not your whole identity** — its only job is to start a
+  conversation, engineered like a headline: the headline's job is to get you to read the
+  subhead; the subhead's job is to get you to the body copy. Don't treat every interaction as
+  a call-to-action to hire you.
+- **A noun that's your truth beats two adjectives.** Example: a community member's
+  self-label "world-class hugger" — hugging isn't normally celebrated, but the "world-class"
+  twist makes it hers.
+- **The "known unknown" technique** (credited to *A Smile in the Mind*: "a cliché is a
+  bankrupt idea — make a deposit"): take a familiar, played-out phrase and change one
+  component so it becomes unknown again — "less is more" → Brian Collins's "mess is more"
+  (for a maximalism piece); *The Horse Whisperer* → "I'm a mortgage Whisperer" (via Sam
+  Horn's *POP!*).
+
 ---
 
 ## Influences credited (not Chris's originations)
@@ -1334,3 +1468,20 @@ journey and demonstrated end-to-end with Spider-Man. (2022-12-01)
   (brand→positioning→pricing→value-prop chain). 2024-01-10.
 - [[wiki/sources/2025-05-31-yt-RCocxOMQD3M]] — "My 10 Personal Branding Rules" (0→5M
   followers; authenticity, prism, movement). 2025-05-31.
+- [[wiki/sources/2023-03-14-yt-jnbhLAVjFYQ]] — "From Cliches to Creativity" (noun-not-
+  adjective label, headline-as-hook, cliché-twist "known unknown"; Framework 44). 2023-03-14.
+- [[wiki/sources/2023-04-02-yt-wiu5Efx029s]] — "Personal Branding: Unmask Your Unique
+  Identity" (character/want/obstacle, Spider-Man defining-moment analysis, vulnerabilities-
+  not-superpowers; Framework 41). 2023-04-02.
+- [[wiki/sources/2023-04-07-yt-_QL89EOFnNQ]] — "5 Minute Guide To Personal Branding By
+  Embracing Vulnerabilities" (three-circle find-your-gift Venn, 100-item list, "complaint is
+  your calling"; Framework 42). 2023-04-07.
+- [[wiki/sources/2023-04-17-yt-mrJUiIItRKo]] — "Adversity Makes Your Story Great"
+  (hero-vs-villain responsibility distinction, "friends think I'm great at X" prompt;
+  Framework 41). 2023-04-17.
+- [[wiki/sources/2023-05-17-yt-MCAuYeL4FT4]] — "Mastering Personal Branding" — Yayoi Kusama
+  case study (the six-part personal-brand model: origin/stand-out/theme+archetype/world-
+  building/silhouette/withstand-criticism; Framework 40). 2023-05-17.
+- [[wiki/sources/2023-05-30-yt-PRpr0_Iz4dI]] — "From Boring to Iconic" (shape-recognition,
+  "a logo doesn't sell the car," iconography-over-legibility; guest "James" = context;
+  Framework 43). 2023-05-30.

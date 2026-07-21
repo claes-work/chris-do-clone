@@ -1922,3 +1922,78 @@ Batch 114. Selected 8 open P2 rows (oldest-first): 7 no-captions (auto-marked L1
 
 NEW guest/context names: Abby Lemon (UK ADHD coach for creatives, returning guest) — thin recurring mention, no entity page yet (revisit if she recurs again with more substance); Rob Fitzpatrick (author, *The Workshop Survival Guide*) — one-off mention, no entity page.
 Synthesis notes: debt 9→10/10 → **SYNTHESIS CHECKPOINT NOW DUE: next iteration is Stage S** (synthesis pass 12 → system-prompt version bump), draining batches 105–114. NEW for the next pass — (1) BIOGRAPHY (new, dense): 2014 Jose Caballer board-of-directors/process-conflict story (m4OB_5wyWa8) → persona/biography.md, cross-ref [[wiki/entities/jose-caballer]]; (2) BELIEFS (2 standalone, corpus-new): "FOCUS = follow one course until success" acronym + "don't speak unless it improves upon silence" (m4OB_5wyWa8) → persona/beliefs.md + voice.md (both strong verbatim/voice data); (3) entity update: Jose Caballer's own ADHD coping rituals (m4OB_5wyWa8) → wiki/entities/jose-caballer.md; (4) minor: wife-suspected-ADHD biography beat (m4OB_5wyWa8, name-free) → persona/biography.md. GUEST-FENCED (do-not-train): Abby Lemon's ADHD-coaching content (m4OB_5wyWa8). Carry-forward debt (unchanged from batch 113): broken-caption re-fetch queue; 19/23/24-yr timeline drift; Melinda Livsey/Livesey spelling; `ingest_batch.py` `FLAG_RE` 429-substring false-positive on `views=` notes (yt-LZtM7wyqe7w P1 + 3 P2 rows) — still not fixed, still flagged for a future tooling pass. Rate-limit: none.
+
+## [2026-07-21] lint | synthesis pass 12 — batches 106–114 promoted → persona v13 (L2=748)
+
+Stage S checkpoint. Drained the batch 106–114 synthesis debt (10/10) into the wiki topics + persona;
+recompiled `persona/system-prompt.md` v12→v13 (compiled_from_sources 688→748); advanced the
+high-water mark to batch 114. This was the 2023 "@thefutur" era, including the good→great→
+god-tier design masterclass trilogy (promoted as one landmark across its 3 source videos) and
+the Sho.ai AI-clone interview. One file at a time (concurrency rule).
+- **pricing +4** (§44 irresistible-offer toolkit — 10x/÷10 redesign, client's-time-not-yours, 3-tier
+  ladder, Hormozi-credited vocabulary; §45 ~2016 charge-more self-worth canon — quality-of-
+  questions price lever, diagnose-before-prescribe, "passionately detached" — ⚠️ CONTRADICTION
+  flagged against its own $48k-Buick arbitrage story, never present as current doctrine; §46
+  referral finder's-fee 6–15% + first-100K-system cross-ref + $5,000/hr self-report; §47 hourly-
+  as-habit-problem / "high tide raises all boats" / $0–$750k inversion-thinking exercise [Paco de
+  Leon] — this last one had been left as a dangling Sources-footer reference only; written in
+  properly this pass).
+- **sales-clients +7** (§64 5-point cold-outreach checklist [Reason/Compliment/Anchor/Value/Ask];
+  §65 communication self-diagnosis drill [record-review-3-ways + ESL-teacher grammar fix]; §66
+  three coaching lessons [say-what-you-think / permission-to-say-no / owner's-power] + "symmetry
+  of logic"; §67 lead-gen/first-client playbook [overflow strategy, five-companies drill, take-a-
+  competitor-to-lunch, free-$10K pivot wedge]; §68 "language is the shield" — saying no as a
+  phrasing not courage problem; §69 portfolio-less client-getting [gaps diagnostic, "do more than
+  10"]; §70 diagnose-before-prescribe / quality-of-questions, cross-ref pricing §45).
+- **business +3** (§39 the first-$100K system [MLE, labor-vs-volume quadrant, close-ratio×10 lead-
+  gen funnel math]; §40 the three M's [Mastery → Media → Monetize]; §41 switch-verticals-not-
+  services + the $1M typography-course proof point + fluid-agency model).
+- **mindset +6** (§60 reframing-as-packaging-of-value + three learner types; §61 "language is the
+  shield" + the communication drill; §62 three 21st-century skills [critical thinking, learning-
+  as-infinite-game, rhetoric]; §63 AI stance [dated 2023] + citing-sources ethic; §64 charge-more
+  canon's mindset half + symmetry-of-logic; §65 FOCUS acronym + silence discipline + self-
+  compassion).
+- **content-strategy +3** (§42 Chris's own viral-content formula [polarizing+real+value; "theory
+  is lonely, it loves action"; the Jenga effect]; §43 AI stance dated 2023; §44 pitching/
+  verification/"confusion vs curiosity", don't-self-create-a-category).
+- **branding +5 frameworks** (F40 the six-part personal-brand model [Kusama case study: origin/
+  stand-out/theme+archetype/world-building/silhouette/withstand-criticism]; F41 brand
+  storytelling [character/want/obstacle, hero-vs-villain responsibility distinction,
+  vulnerabilities-over-superpowers, "friends think I'm great at X" prompt]; F42 find-your-gift
+  [3-circle Venn, 100-item list, "your complaint is your calling" (credited to Michael Ventura),
+  "passion = I pass on"]; F43 shape-recognition / "a logo doesn't sell the car"; F44 light: the
+  cliché-twist "known unknown" technique + noun-not-adjective labels).
+- **design-craft +2** (§35 Shu-Ha-Ri mastery progression + copy→combine→transform [credited to
+  Kirby Ferguson's *Everything Is a Remix*]; §36 the good→great→god-tier masterclass trilogy —
+  listening/"open ears not happy ears" [Pt1], typography/"Kryptonite"/"contrast is Queen" [Pt2],
+  semiotics/"hybrid third meaning" + the *Crank Calls* D&AD Pencil case study [Pt3] — promoted as
+  ONE landmark spanning three source videos, per the ★ hold-and-promote-together flag raised at
+  ingest).
+- **Persona:** beliefs +10 (128→138), voice +12 quote-clusters (97→106: "language is the shield,"
+  "symmetry of logic," "AI is the bear," "contrast is Queen," "theory is lonely," the FOCUS/
+  silence pair), biography +5 facts (64→69: the hardest-two-years/Karen-Rainey bidding-spreadsheet
+  turning point [Nissan/Sun/Janus bids]; early 3D work on the first Marvel *Avengers* film [Iron
+  Man visuals, ~2010]; the 2014 Jose Caballer "board of directors" process conflict; wife-
+  suspected-ADHD [name-free]; Adobe MAX speaking engagement + Atomicon attendance confirmation).
+  system-prompt v13 (compiled_from 748).
+- **Entities:** `wiki/entities/jose-caballer.md` deepened — the 2014 process-conflict account
+  (Chris's side only, clearly marked) + his own ADHD-adjacent coping rituals.
+- **Guards preserved+reinforced, and 3 NEW:** family unnamed; Emmy-not-Grammy — **NEW clause:
+  it's ONE Emmy (2010), not "two-time"** — a single 2023 self-report of "two-time Emmy" is
+  flagged in `persona/biography.md` and the system-prompt as an uncorroborated slip, not a fact;
+  value-based-is-current — **NEW clause: the ~2016 charge-more arbitrage story ($48k Buick) is
+  not current pricing doctrine**, never present it as superseding value-based pricing; **NEW
+  guard: the 2023 AI-stance material is a dated snapshot** — date-stamp before presenting as
+  current.
+- **Tooling fix (bonus, low-risk, in scope for bookkeeping):** `tools/ingest_batch.py`'s
+  `FLAG_RE` was doing a bare substring match on `"429"`, so ledger rows with a `views=` note
+  containing those digits (e.g. `views=429344`) were silently excluded from `status`/`prepare`
+  selection as if rate-limited — flagged as tooling debt in batch 112's synthesis notes and
+  carried since. Fixed by anchoring to `\b429\b` (word-boundary), which still matches legitimate
+  `"429"`/`"429/unavailable"` rate-limit notes but no longer matches inside a view-count digit
+  run. Verified via `python tools/ingest_batch.py status`: the previously-hidden rows are now
+  correctly counted as open (@thefutur P1 0→1, P2 326→330).
+
+Synthesis debt reset 10→0 (high-water mark now batch 114, L2=748). Carried lint debt (unchanged):
+broken-caption re-fetch queue (0lRXUzwFvHY, HNoLn3rapK4, hSvluYcim4I); "I like deliverables too"
+softening; 19/23/24-yr timeline drift; Melinda Livsey/Livesey spelling.

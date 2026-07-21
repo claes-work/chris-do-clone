@@ -64,7 +64,11 @@ LEDGER = REPO / "pipeline" / "ledger.csv"
 INDEX = REPO / "wiki" / "sources" / "youtube-index.md"
 LOG = REPO / "log.md"
 SYNTH_CHECKPOINT = 10  # ingest batches since last synthesis -> a synthesis pass is due
-FLAG_RE = re.compile(r"429|no-captions|unavailable|dup-of", re.IGNORECASE)
+# \b429\b (not a bare 429|...) so a `views=429344`-style note doesn't false-positive as a
+# rate-limit flag just because the view count happens to contain the digits "429" — see
+# log.md batch 112's synthesis notes for the false-positive this caused (yt-LZtM7wyqe7w P1
+# + 3 P2 rows silently excluded from status/prepare selection).
+FLAG_RE = re.compile(r"\b429\b|no-captions|unavailable|dup-of", re.IGNORECASE)
 OPEN_STATUSES = {"L0-discovered", "L1"}
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))

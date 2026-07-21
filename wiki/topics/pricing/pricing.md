@@ -3,8 +3,8 @@ type: hub
 domain: pricing
 domains: [pricing]
 created: 2026-07-14
-updated: 2026-07-19
-tags: [pricing, value-based-pricing, price-the-client, anchoring, anchoring-reversal, verbal-upfront-pricing, discount-for-uncertainty, raising-rates, objection-handling, negotiation, price-bracketing, competitive-positioning, charge-for-discovery, embrace-and-pivot, storytelling, budget-scope-timeline, budget-first, budget-first-vs-relationship, order-taker-vs-advisor, underpricing-signal, resentment-signal, cant-lose-a-job-you-never-had, value-scale-of-questions, discovery-as-a-service, strategy-pricing, get-paid-to-think, price-as-qualifier, double-the-rate-ladder, inputs-vs-outputs, desired-future-state, train-of-thought, feeling-thought-reaction, limbic-brain, price-options, attention-ownership, price-first-scope-after, stop-hourly, socratic-hourly, value-appreciation, scope-creep, separate-service, de-scope, cost-stack, positioning-value, go-to-person, double-dont-inch-up, buyer-decides-fair, charge-more-virtuous-loop, referral-budget-qualification, self-worth-ceiling, education-not-worth, objection-by-inversion, invent-systems, royalty-vs-licensing, packaging-fees, say-it-like-a-fact, context-sets-value, horse-painter, charity-vs-clients, barter-menu, exposure-is-an-act, equity-in-lieu-of-fee, pro-bono-ratio, bid-buildup, hire-at-or-above-level, investor-mindset, compare-against-yourself, top-price-first, wine-list-reset, subjective-value, doctor-counter, envy-reframe, cost-vs-price-vs-value, seller-sets-price-buyer-sets-value, profit-from-risk, cost-plus, production-fee, padded-day-rates, statement-of-work, fixed-plus-variable, aicp-bid-form, top-sheet, karen-rainey, present-day-rate-card, retreat-and-follow, phased-discovery-bid, important-urgent-grid, budget-live-in-room, pain-threshold, facilitator-as-advocate, money-not-budget, sliding-scale-by-risk, rush-charge, pain-in-the-butt-charge, every-dollar-returns-10x, dan-mall, course-prelaunch-pricing, price-low-then-raise, verbal-commitment-against-lowball, fu-call, rom-bid, swag, scope-variation-funnel, contingency-fee, guarantee-handling, price-the-risk, prorate-guarantee, roi-return-framing, paper-the-guarantee, cogs-gross-margin, low-expenses-leverage, walk-away-power, pricing-ladder, career-stage-risk-ladder, input-output-outcome, profit-participation, licensing-usage-rights, supply-chain-margin, ten-to-hundred-markup, graduate-from-hourly, opaque-estimate, three-yeses-rule, close-rate-underpricing, design-thinking-anchors, unbundle-workshop-phases, price-as-signal, labor-theory-of-value, goldilocks-choice-architecture]
+updated: 2026-07-21
+tags: [pricing, value-based-pricing, price-the-client, anchoring, anchoring-reversal, verbal-upfront-pricing, discount-for-uncertainty, raising-rates, objection-handling, negotiation, price-bracketing, competitive-positioning, charge-for-discovery, embrace-and-pivot, storytelling, budget-scope-timeline, budget-first, budget-first-vs-relationship, order-taker-vs-advisor, underpricing-signal, resentment-signal, cant-lose-a-job-you-never-had, value-scale-of-questions, discovery-as-a-service, strategy-pricing, get-paid-to-think, price-as-qualifier, double-the-rate-ladder, inputs-vs-outputs, desired-future-state, train-of-thought, feeling-thought-reaction, limbic-brain, price-options, attention-ownership, price-first-scope-after, stop-hourly, socratic-hourly, value-appreciation, scope-creep, separate-service, de-scope, cost-stack, positioning-value, go-to-person, double-dont-inch-up, buyer-decides-fair, charge-more-virtuous-loop, referral-budget-qualification, self-worth-ceiling, education-not-worth, objection-by-inversion, invent-systems, royalty-vs-licensing, packaging-fees, say-it-like-a-fact, context-sets-value, horse-painter, charity-vs-clients, barter-menu, exposure-is-an-act, equity-in-lieu-of-fee, pro-bono-ratio, bid-buildup, hire-at-or-above-level, investor-mindset, compare-against-yourself, top-price-first, wine-list-reset, subjective-value, doctor-counter, envy-reframe, cost-vs-price-vs-value, seller-sets-price-buyer-sets-value, profit-from-risk, cost-plus, production-fee, padded-day-rates, statement-of-work, fixed-plus-variable, aicp-bid-form, top-sheet, karen-rainey, present-day-rate-card, retreat-and-follow, phased-discovery-bid, important-urgent-grid, budget-live-in-room, pain-threshold, facilitator-as-advocate, money-not-budget, sliding-scale-by-risk, rush-charge, pain-in-the-butt-charge, every-dollar-returns-10x, dan-mall, course-prelaunch-pricing, price-low-then-raise, verbal-commitment-against-lowball, fu-call, rom-bid, swag, scope-variation-funnel, contingency-fee, guarantee-handling, price-the-risk, prorate-guarantee, roi-return-framing, paper-the-guarantee, cogs-gross-margin, low-expenses-leverage, walk-away-power, pricing-ladder, career-stage-risk-ladder, input-output-outcome, profit-participation, licensing-usage-rights, supply-chain-margin, ten-to-hundred-markup, graduate-from-hourly, opaque-estimate, three-yeses-rule, close-rate-underpricing, design-thinking-anchors, unbundle-workshop-phases, price-as-signal, labor-theory-of-value, goldilocks-choice-architecture, irresistible-offer, ten-x-divide-by-ten-redesign, vertical-integration-offer, quality-of-questions-price-lever, diagnose-before-prescribe, passionately-detached, referral-finders-fee, switch-verticals, high-tide-all-boats, inversion-thinking-pricing, first-100k-system, minimum-level-of-engagement, close-ratio-funnel-math]
 ---
 
 # Pricing — hub
@@ -2030,6 +2030,130 @@ risk from the client to you and moves you closer to the client, so each rung ear
 
 ---
 
+## 44. The irresistible-offer toolkit — raise value instead of cutting price
+
+_Est. 2023-03-03. Episode 4 of a 5-part "core essentials" series; Chris explicitly credits
+Alex Hormozi's "$100M Offers" for the value-equation vocabulary (perceived value, effort &
+sacrifice) but the worked design exercises below are his own. Extends the pricing-ladder
+(§43) with concrete offer-redesign mechanics, not a new rung._
+
+- **Price tension is "Goldilocks"** — clients balk when a price feels too high *or* too low;
+  it has to feel "just right." Two levers relieve it: drop price to a no-brainer, or **raise
+  perceived value** — and "anybody can tell you to reduce your price to sell more; few
+  people can teach you how to raise your prices so you sell less to more qualified buyers."
+- **The raise-vs-lower-price exercise**: list the benefits and consequences of each,
+  objectively. Raising → higher-caliber clients, higher perceived value, room to hire
+  A-players, more runway to say no to poor fits. Lowering → a little more demand, but you
+  can't afford subcontractors, do everything yourself, become "the McDonald's" of your
+  service, burn out. "The benefits are few, the consequences are many."
+- **The higher the price, the less competition; the lower the price, the more competition
+  you invite** — a $100 logo puts you up against hobbyists and design-school freshmen, and
+  "educates your customer to buy based on price, not value."
+- **The "10× / divide-by-10" offer-redesign exercise**: take your current service and
+  redesign it at 10× the price — most people reflexively "just do 10× more of the same"; the
+  real move is to "push past the sludge" to a radically different offer (e.g. dedicated
+  crews, documentary-style filming, an AI-assisted A/B-test pass). Then redesign the same
+  service at 1/10 the price — the constraint forces an **infinitely scalable** product
+  (a guide, a deck of prompt cards). Just *reducing quantity* at either end "is not the
+  answer."
+- **"Time is money — but the CLIENT'S time, not yours."** If you're pressured to cut price,
+  **decrease the delivery time instead of the price** — the client hired you to save *their*
+  time and effort, and "no client buys your time, they buy results." (Amazon example: it won
+  by compressing delivery time, not cutting price.)
+- **Vertical integration as an offer lever** (picked up from a speaker at a mastermind):
+  McDonald's owns the largest potato and chicken farms and makes more toys than anyone,
+  selling none of them — complementary break-even businesses that give the core product an
+  unfair advantage. Applied to a creative offer: run a break-even/loss-leader personal-brand
+  or content arm whose attention feeds the profitable business.
+- **Package into a three-tier price ladder** (e.g. $500 / $5K / a "Ritz-Carlton" $50K) —
+  tiering "removes the necessity for the client to triple-bid you."
+- **Reduce risk to strengthen the offer**: "the higher the risk, the worse the offer."
+  Increase the *perceived* likelihood of success with assurances beyond a money-back
+  guarantee — track record, being published, judging shows, speaking on stages.
+
+> "Trading time for money is a fool's errand… when you sell units of time you are
+> incentivized to sell more time and not more results. No client buys your time, they buy
+> results." — Chris Do, [[wiki/sources/2023-03-03-yt-A76eNW_XfWM]]
+
+([[wiki/sources/2023-03-03-yt-A76eNW_XfWM]])
+
+## 45. Charge-more self-worth canon (~2016 era) — the quality of your questions is the price lever
+
+_Republished 2023-08-12 on The Futur, but the tape opens "here we are in 2016" — this is
+Chris's **~2016 position**, not his current framing. Cross-reference §46 below and
+[[wiki/topics/sales-clients/sales-clients]] §69 (diagnose-before-prescribe), which carry the
+sales-technique half of the same source._
+
+> ⚠️ CONTRADICTION (flag, not yet reconciled): the headline live example here is a pure
+> **arbitrage/markup** move — hire a cheaper collaborator (Aaron) at $5K and sell the same
+> job at $50K, pocketing the spread — justified by "confidence/trust/the quality of your
+> questions." This sits in tension with Chris's more disciplined **value-based-pricing**
+> doctrine documented across this hub (price to the client's quantified outcome, surfaced
+> via discovery — §2, §6, §39). Read as an early/2016-era, deliberately provocative framing
+> aimed at a room that under-charges out of fear, not a supersession of value-based pricing.
+> ([[wiki/sources/2023-08-12-yt-H5yR-_pPhkQ]])
+
+- **The differentiator between two designers charging wildly different prices for the same
+  work is not tangible** — not experience, overhead, portfolio, or awards. "Those are all
+  just excuses. You have to look inside; you have to start to believe in yourself."
+  Self-worth precedes price.
+- **"The way you demonstrate your value is by the quality of the questions you ask."**
+  Anyone can be taught better questions; good questions signal expertise and make the client
+  feel uniquely understood — the central claim of this source, reinforcing and pre-dating the
+  "diagnose before prescribe" doctrine in [[wiki/topics/sales-clients/sales-clients]] §69.
+- **Clients don't hire the best designer — they hire assurance.** "People do not hire the
+  best designers; they hire the people that can assure them, make them feel like it's going
+  to get done." Trust is more psychological than craft.
+- **The $48,000 Buick story (age ~22, self-reported).** He brokered an optical-titles job
+  he'd never done before and named a price "by a very scientific approach" — i.e. he made it
+  up, reasoning only "I want enough runway that I don't have to work for six months." The
+  client said yes. "I was too stupid, too young, too cocky to know what the rules were…
+  sometimes dumb is good."
+- **You don't have to choose between meaningful work and money** — reject the "sell out and
+  eat vs. stay pure and starve" designer's dilemma; you need to acquire different skills, not
+  make a trade.
+
+## 46. Referral finder's fees, and folding in the first-$100K funnel math
+
+- **A finder's fee / sales commission on pre-vetted, ready-to-buy referrals: 6–15% is the
+  fair range** — beyond 15% margins get untenable, though desperate referrers will pay
+  30–50%. Formalize it by asking your referral partners "how much do you pay for new leads?"
+  (2023-08-03) ([[wiki/sources/2023-08-03-yt-MHTX7OtmPEw]])
+- **Saying "no" today creates demand for a "yes" tomorrow** — declining because your
+  schedule is full signals integrity and standards; the worst option is over-committing and
+  serving nobody well. ([[wiki/sources/2023-08-03-yt-MHTX7OtmPEw]])
+- **The "first $100K" funnel and Minimum Level of Engagement (MLE)** — the full worked
+  system (goal math, per-deliverable/hourly/hybrid pricing to a $10K/month target, the
+  labor-vs-volume quadrant, and the close-ratio × 10 lead-gen funnel) lives on
+  [[wiki/topics/business/business]] §39 to avoid duplication; cross-referenced here because
+  it is fundamentally a pricing-to-a-target exercise.
+  ([[wiki/sources/2023-03-28-yt-_fIIa6FeFAY]])
+- **Self-reported consulting rate: $5,000/hour.** Framed as the ceiling that makes an AI
+  teaching-clone ("dobot") worth building — it lets him "handle 90% of your questions… at a
+  fraction of the cost" for the people priced out of the $5K/hr rate. (2023-09-03)
+  ([[wiki/sources/2023-09-03-yt-phg5M9mIKKg]])
+
+## 47. Hourly billing is a habit problem, not just a math problem — "high tide raises all boats"
+
+_From an interview with Paco de Leon (The Hella Group, financial planner/bookkeeper — her
+financial-planning frameworks are context, not Chris's doctrine). Sharpens the existing
+charge-more thesis with a subsidization angle and an inversion-thinking exercise, distinct
+from §44's offer-redesign mechanics._ (2023-05-24) ([[wiki/sources/2023-05-24-yt-0mV67G-XwEU]])
+
+- **Hourly billing survives as a habit long after the math stops justifying it.** Charging
+  more isn't purely an effective-rate calculation — it's a philosophical/habit problem most
+  designers never interrogate.
+- **"High tide raises all boats."** Charging more for yourself lets you subsidize pro-bono
+  work for causes and nonprofits you care about — raising your own price *increases* how
+  much good you can do, rather than trading it off.
+- **The $0 → $750,000 inversion-thinking exercise (a Twitter thought experiment).** Imagine
+  being paid literally $0 for a piece of logo work, then imagine being paid $750,000 for the
+  same brief — concretely describe what you would actually do differently at each extreme.
+  The exercise surfaces how much of your current process is arbitrary default, not
+  value-calibrated.
+
+---
+
 ## Worked figures & self-reported claims
 
 Concrete numbers Chris cites for his own business or in case studies. Studio rates and the
@@ -2173,3 +2297,8 @@ qualifying), [[wiki/entities/the-futur|The Futur]].
 - [[wiki/sources/2023-04-24-yt-kTFhQf5_RxI]] — Raising rates $2k→$5k (raise-your-rate-to-raise-client-quality ladder)
 - [[wiki/sources/2023-10-19-yt-Abi8kwkfZbA]] — "Don't justify your prices" (symmetry of logic, have-to-have vs nice-to-have)
 - [[wiki/sources/2025-04-08-yt-b0fQyaBSSI0]] — Pricing deep dive $500→$100k (full price-the-client method, ~20% anchor, $69k case study)
+- [[wiki/sources/2023-03-03-yt-A76eNW_XfWM]] — "Create An Offer Customers Can't Resist" (irresistible-offer toolkit: raise-vs-lower exercise, Goldilocks price tension, 10x/÷10 redesign, client's-time reframe, vertical integration, 3-tier ladder; Hormozi value-equation credited, not original; §44)
+- [[wiki/sources/2023-05-24-yt-0mV67G-XwEU]] — "Why Creatives Need to Charge More" w/ Paco de Leon (hourly-as-habit-problem, "high tide all boats," $0–$750k logo Twitter experiment, inversion thinking; guest's money-psychology material fenced; §47)
+- [[wiki/sources/2023-08-03-yt-MHTX7OtmPEw]] — "Unlocking Business Growth" Pro-Group Q&A (6–15% finder's-fee band, take-a-competitor-to-lunch, "symmetry of logic," win-rate 1-in-5→75%; §46)
+- [[wiki/sources/2023-08-12-yt-H5yR-_pPhkQ]] — "How To Charge More for Graphic Design" ("The Process," ~2016 doctrine: quality-of-questions-you-ask, $48k Buick arbitrary-number story, "sometimes dumb is good"; ⚠️ arbitrage-vs-VBP contradiction flagged; §45)
+- [[wiki/sources/2023-09-03-yt-phg5M9mIKKg]] — "Why I Cloned Myself using AI" (self-reported $5,000/hour consulting rate; §46 light)

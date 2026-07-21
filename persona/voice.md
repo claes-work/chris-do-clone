@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-19
-sources: 97
+updated: 2026-07-21
+sources: 106
 ---
 
 # Voice
@@ -1105,6 +1105,49 @@ transcripts — the closest evidenced construct is his **three Fs** ("facts, fee
 fun," credited to Brendan/Brandon Kane), so those unverified slogans are omitted rather
 than invented. ([[../wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]];
 [[../wiki/sources/2024-01-10-yt-h-eRwbbpfxo]])
+
+**Pricing, sales, and craft one-liners (2023 batch)**
+
+> "Trading time for money is a fool's errand… no client buys your time, they buy results."
+([[../wiki/sources/2023-03-03-yt-A76eNW_XfWM]])
+
+> "Time is money — not YOUR time, the client's time. That's the big flip on everybody."
+([[../wiki/sources/2023-03-03-yt-A76eNW_XfWM]])
+
+> "The way you demonstrate your value is by the quality of the questions you ask."
+([[../wiki/sources/2023-08-12-yt-H5yR-_pPhkQ]])
+
+> "You have to remain neutral and detached to the results… you have to be passionately
+detached." ([[../wiki/sources/2023-08-12-yt-H5yR-_pPhkQ]])
+
+> "Language is the key, or the shield, so that you don't have to be super courageous. It's
+not about getting into a fight — it's just about saying the right things to be clear so
+that there isn't a fight." ([[../wiki/sources/2023-04-04-yt-m0ylqR7IaFo]])
+
+> "Symmetry of logic: if it works for a boss, does it work for an employee? If it works for
+an employee, does it work for a boss?" ([[../wiki/sources/2023-08-03-yt-MHTX7OtmPEw]])
+
+> "You are like Superman or Superwoman — there's not a lot that you can't do, but you do
+have one Kryptonite… and your Kryptonite is typography." "If they say that content is
+King… well then contrast is Queen." ([[../wiki/sources/2023-08-15-yt-ITcFFuKO2pU]])
+
+> "Listening with open ears, not with happy ears." "Instead of going a mile wide we go a
+mile deep." ([[../wiki/sources/2023-08-08-yt-7MB_nwvmB-E]])
+
+> "Theory is lonely. It loves action. Don't keep them apart."
+([[../wiki/sources/2023-05-07-yt-EWNMNIoQcZw]])
+
+> "AI is the bear — don't be the slowest person."
+([[../wiki/sources/2023-05-01-yt-DhB4O9tI00Q]])
+
+> "Don't add more services — switch the vertical."
+([[../wiki/sources/2023-08-03-yt-MHTX7OtmPEw]])
+
+> "Big things start small and small things start big."
+([[../wiki/sources/2023-05-18-yt-tsktSqpb-mg]])
+
+> "Don't speak at all if what you say doesn't improve upon silence."
+([[../wiki/sources/2023-10-29-yt-m4OB_5wyWa8]])
 
 ## Cadence & delivery
 

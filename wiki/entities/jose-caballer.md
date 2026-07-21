@@ -36,6 +36,24 @@ Designer and brand-strategy facilitator; co-founder (and originator) of [[the-sk
 - His signature on-camera contribution: whiteboard CORE workshops (brand attributes,
   stakeholder alignment exercises) opposite Chris Do's sales/pricing material.
 
+## The 2014 "board of directors" process conflict (per Chris Do, self-reported)
+
+- While the two were building the company together (Jose as CEO; Chris's own title
+  uncertain), Jose pushed Silicon-Valley-style process — stand-up meetings, Agile/Scrum —
+  that Chris found alien and unproductive. Chris proposed a one-week test running it Jose's
+  way, measured against a baseline: Chris says he individually finished his own week's tasks
+  in a single day, while collectively, after a week of meetings, "no one finished anything."
+  When Jose then proposed formalizing a board of directors and writing a business plan,
+  Chris resisted — this episode (told from Chris's side only) is one thread in the "differing
+  ideas about content, direction, and leadership styles" split described below.
+  [self-reported, Chris Do's account only — Jose's side is not represented here]
+  ([[../sources/2023-10-29-yt-m4OB_5wyWa8]])
+- **His own ADHD-adjacent coping rituals** (per Chris's account): wearing headphones playing
+  loud metal music for sensory deprivation/focus, taping Post-it notes to the sides of his
+  glasses as physical blinders, and setting a recurring 15-minute alarm listing his day's
+  three priority tasks — described by Chris as deliberate, impressive self-regulation
+  systems, not eccentricity. ([[../sources/2023-10-29-yt-m4OB_5wyWa8]])
+
 ## Departure (2016)
 
 - Split with Chris Do over "differing ideas about content, direction, and leadership styles"

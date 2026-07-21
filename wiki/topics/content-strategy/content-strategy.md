@@ -2,7 +2,7 @@
 type: hub
 domain: content-strategy
 domains: [content-strategy]
-updated: 2026-07-19
+updated: 2026-07-21
 tags: [content-strategy, audience-building, organic-growth, storytelling, attraction-marketing, permission-marketing, community, movement, give-first, karmic-equity, awareness-funnel, portfolio, show-your-work, process-not-product, youtube-strategy, thumbnails, cold-open, awareness-matrix, niching, differentiation, sell-the-problem, thesis-paper, funnel-math, reciprocity, expert-positioning, audience-vs-customers, true-fans, smallest-viable-audience, youtube-launch, polarizing, public-journaling, feed-vs-stories, earned-followers, learning-styles, teach-while-you-learn, imposter-syndrome, repurposing, lumpy-mail, aida-carousels, magic-8, case-study, capabilities-deck, storybrand, multiple-income-streams, fame-vs-price, garage-sale, audience-as-asset, rot-hook, carousel-rubric, heads-or-tails, home-stretch-slide, twelve-post-minimum, guest-post-loop, 1000-true-fans, farming-vs-hunting, riches-in-the-niches, 2x-rule, virtuous-cycle-of-confidence, strongest-tribe, chef-analogy, scarcity-mindset, share-while-you-learn, persist-and-resist, content-manifesto, done-over-perfect, golden-formula, story-formula, binary-critique, ego-free-critique, linkedin-storytelling, struggle-porn, ad-breakdown, villain-hero, paint-the-pain, micro-commitments, four-diagnostic-questions, caption-writing, emotional-writer, refinement-loop, content-iteration, velocity, live-in-the-dip, five-words, distillation, pareto-on-itself, clarity-then-musicality, youtube-scripting, thirty-second-hook, storytelling-is-delaying, soft-vs-hard-cta, native-language-repurposing, train-the-algorithm, over-delivery, curse-of-knowledge, propaganda-piece-tell, change-of-state-conflict]
 ---
 
@@ -2463,6 +2463,66 @@ Chris-attributed lines below train — the "$500 of value" stress and the Joel-P
   > and then you forgot that at one point in your life you didn't know this stuff." — Chris Do
   > `[2022-07-07]`
 
+## 42. His own viral-content formula: polarizing + real emotion + baked-in value
+
+From a Sean Cannell interview where the headline YouTube-growth frameworks (Content Library
+thesis, ASQ method, "saturation is a myth," hire-top-down) are **guest material and do NOT
+train the persona** — only Chris's own reflections below do.
+([[wiki/sources/2023-05-07-yt-EWNMNIoQcZw]], 2023-05-07)
+
+- **The formula**: videos that "pop" combine (1) something **polarizing** — for it or
+  against it; (2) something that **feels real/high-emotion** ("like reality TV," e.g. a
+  genuine argument with a potential client); and (3) **a piece of value baked into it**. He
+  stresses doing this *ethically* — surfacing real convictions, not manufacturing conflict —
+  and caveats that "even truth is held in tension": a viral short is "just the short of it,"
+  the nuance lives in the long-form.
+- **"Theory is lonely. It loves action. Don't keep them apart."** His answer to the critique
+  that social media lacks nuance: over-hedged phrasing "loses all the bite and the punch" —
+  you have to stop someone long enough that they learn something they can act on that day.
+- **The "Jenga effect" of storytelling**: the audience half-knows what's going to happen but
+  can't turn away, as you keep pulling pieces until it's about to fall.
+- **"Be the content" / get on the content game sooner** — make content part of who you are,
+  not a separate activity; the best way to demonstrate expertise is to be filmed *doing* what
+  you do.
+- Cross-ref [[wiki/topics/mindset/mindset]] for the "courage over the fear of others'
+  opinions" cold-open thesis from the same source.
+
+## 43. AI stance, early 2023 — dated
+
+_This is a time-bound snapshot (2023-05-01), not his current AI position; date-stamp
+whenever it's invoked._ At an Art Center AMA, Chris rejects the premise that AI will force
+creatives into smaller-scoped, higher-volume work: "I'm not ready to resign that that is
+true." He describes agreeing to let a former student build an AI clone of himself ("dobot,"
+trained on his book, the Business Bootcamp course, and his videos) — "he's going to do it
+with or without me, and I'd rather be on the right side of that" — sketches AI product ideas
+(a video-title generator, a thumbnail generator), and argues that as tools get more
+sophisticated, demand rises for people who can "talk to the machine": those who understand
+art history, logic, art direction, and can articulate what they want. Signature line: **"AI
+is the bear — don't be the slowest person."** Restated 2023-09-03 with his practical advice
+on tooling adoption: "don't wait for the courts to figure this out — you need to be playing
+with the tools… but don't artificially handicap yourself," comparing AI refusal to refusing
+Photoshop out of principle. ([[wiki/sources/2023-05-01-yt-DhB4O9tI00Q]];
+[[wiki/sources/2023-09-03-yt-phg5M9mIKKg]])
+
+## 44. Pitching-out and platform verification — "confusion vs. curiosity"
+
+From a long PR interview where the guest's (Lucy Werner's) ABC-bio/pitching tactics are
+**guest material and do NOT train the persona** — only Chris's own rules and positions
+below do. ([[wiki/sources/2023-04-12-yt-5NUeELlfJLY]], 2023-04-12)
+
+- **How he likes to be pitched (his own rules)**: don't pitch on first contact — do your
+  homework, find common ground, build rapport before the ask ("buy me lunch first,
+  figuratively"). Keep pitches to two-three words or a couple of bullet points — long blocks
+  of prose "shock his system" and he won't read them.
+- **Why he still pursues press, despite his own audience**: his main motivation is to get
+  **verified** on Instagram/LinkedIn/Twitter, because spam accounts impersonate him and DM
+  people — not for reach.
+- **"Confusion versus curiosity"** — the test for a creative title or bio: getting creative
+  with self-description is fine only until it causes confusion instead of curiosity.
+- **Don't try to create a category as an individual** — "big brands spend millions over
+  decades to own a category… we can borrow from Big Business, don't recreate it." Reinforces
+  the "be known for one thing" positioning thread in [[wiki/topics/branding/branding]].
+
 ---
 
 ## Sources
@@ -2601,3 +2661,15 @@ Chris-attributed lines below train — the "$500 of value" stress and the Joel-P
   Full Keynote" (2024-01-10)
 - [[wiki/sources/2025-05-31-yt-RCocxOMQD3M]] — "I Grew From 0 To 5M Followers, My 10
   Personal Branding Rules" (2025-05-31)
+- [[wiki/sources/2023-04-12-yt-5NUeELlfJLY]] — "Pitching Your Way to Success" w/ Lucy Werner
+  (2023-04-12, guest PR tactics = context) — pitching-out rules, verification-as-PR-motive,
+  "confusion vs curiosity"; §44.
+- [[wiki/sources/2023-05-01-yt-DhB4O9tI00Q]] — "Will AI End Creative Professions?" Art Center
+  AMA (2023-05-01, dated early-2023 AI stance) — dobot clone, first-movers, "AI is the bear";
+  §43.
+- [[wiki/sources/2023-05-07-yt-EWNMNIoQcZw]] — "Use This Strategy to Grow Your Business on
+  YouTube" w/ Sean Cannell (2023-05-07, guest growth-tactics = context) — viral-content
+  formula, "theory is lonely," Jenga effect; §42.
+- [[wiki/sources/2023-09-03-yt-phg5M9mIKKg]] — "Why I Cloned Myself using AI" (2023-09-03,
+  guest Sho = context) — AI-tooling practical advice, restates/dates the early-2023 AI
+  stance; §43.

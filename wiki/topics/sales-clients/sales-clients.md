@@ -3,7 +3,7 @@ type: hub
 domain: sales-clients
 domains: [sales-clients]
 created: 2026-07-14
-updated: 2026-07-19
+updated: 2026-07-21
 tags: [sales, negotiation, objection-handling, discovery, positioning, client-management, role-play, serve-dont-sell, embrace-and-pivot, qualifying, closing, client-archetypes, blair-enns, cialdini, leverage, first-client-call, business-development, ambassador, presenting, pitching, money-mindset, strategy-selling, order-taker, trusted-advisor, jobs-to-be-done, decks-are-crutches, difficult-clients, boundary-setting, know-trust-like, inbound-outbound, firing-clients, dont-convince, objection-response-deck, control-energy, diagnostic-phase, outcomes-over-craft, strategist-reframe, client-selection, three-outcomes, mirror-the-ask, build-rapport, reciprocity, time-vampires, dinner-test, sell-your-idea, foreign-idea-invader, outreach-challenge, jim-rohn, mentorship, value-exchange, scaffolding, five-sales-mistakes, two-ears-one-mouth, talk-money-early, match-and-mirror, tony-robbins, buyer-types, referral-fee, minimum-level-of-engagement, value-buyer, lead-temperature, hot-warm-cold-leads, russell-brunson, cold-outreach, dm-outreach, lumpy-mail, allan-dib, praise-first, trust-your-struggle, listen-to-understand, human-tape-recorder, presence, jonathan-stark, deposit-first, accusation-audit, chris-voss, never-split-the-difference, u-turn, say-it-first, consultative-selling, therapist-frame, lion-and-sheep, silence, stop-selling-start-closing, count-to-20, sales-acronym, if-then-close, fiduciary, kevin-daley, dream-date, robot-vs-monkey-brain, no-brainer, one-result, competitive-lock, client-retention, zig-ziglar, sales-timeline, proposal-vs-contract, signed-contract, lead-qualification, matchmaker-frame, last-chapter, honesty-raises-esteem, curse-of-knowledge, ask-small-questions, empathy-exercise, patience, honest-vs-polite, have-to-get-to, non-violent-communication, emotional-neutrality, meeting-etiquette, shadow-the-boss, ask-before-ready, junior-listen-take-notes, free-work, trade-up, marketing-expense, pro-bono, errol-gerson, dont-negotiate-against-yourself, trust-ladder, just-ask-them, consistency-principle, symmetry-of-logic, forcing-acknowledgment-question, agree-then-find-the-gap, five-options, embed-a-pm, difficult-client-repair, non-judgment, post-delivery-detachment, ownership-follows-payment, feel-it-dont-express-it, generous-check-in, graceful-tenacity, concede-by-not-objecting, principles-over-scripts, quality-vs-shareability, loaf-of-bread, design-to-strategy, position-around-you, value-add-then-charge, reluctant-buyer, deferred-final-payment, money-back-guarantee, future-pacing, sell-to-excitement, international-clients, four-obstacle-framework, escrow, certifications, small-starter-project, retreat-and-follow, three-why, what-not-why, late-night-fm-dj-voice, tone-of-voice, tonal-control, belief-first, self-fulfilling-prophecy, help-not-sell, bucket-of-trust, make-better-wishes, one-thing, striking-distance, why-not-do-nothing, cost-of-inaction, socratic-selling, goodwill-bank, five-years-of-value, unsell-yourself]
 ---
 
@@ -3138,6 +3138,140 @@ time — she felt "respected, wanted, and allowed to lead the engagement." Close
 mindset vs. the long game: selling "for today" comes from fear of not being in business
 tomorrow — "I'm not afraid, I'm gonna play this game for a really long time." Reinforces §12.
 
+## 64. The 5-point cold-outreach checklist (2023-03-16)
+
+A named, repeatable checklist Chris runs on every cold or semi-cold outreach (email,
+LinkedIn DM): **(1) Reason** — a clear reason why you're reaching out to this specific
+person; **(2) Genuine compliment** — something you actually like about them, not flattery;
+**(3) Anchor** — something that ties the two of you together (same school, a shared
+acquaintance, similar work) — "an anchor is something that ties two people together… that
+is ultimately what builds rapport"; **(4) Value** — what you're offering, framed about
+*them*, usually free or low-priced (an article, an introduction, something you made);
+**(5) The ask** — small and easy ("would you like me to send it over?"). Hitting all five in
+any cold or semi-cold outreach is "almost guaranteed to boost your response rate." His
+mindset reframe: when pursuing new clients he isn't thinking "how do I get this person as a
+client" but "how do I hit these five points and build authentic, valuable connections."
+([[wiki/sources/2023-03-16-yt-iz7q77pKnQg]])
+
+## 65. Communication self-diagnosis: the record-review-3-ways drill (2023-03-22)
+
+A reproducible self-review protocol, distinct from the *conversational* listening/tone
+material elsewhere in this hub — this is diagnosing your own delivery. Record yourself
+speaking for five minutes; **leave it a day** before reviewing (immediate review makes you
+too self-critical); then review it three separate ways, one channel at a time: **(1) sound
+only** — note qualities of your voice and unnecessary sounds; **(2) picture only** (muted) —
+note movement, gestures, anything non-functional; **(3) transcript** — red-highlight
+**non-words** (sounds that fill silence) and **filler words** (words that fill silence).
+Chris says this single move "will completely transform how you come across." For
+grammatical errors (aimed at non-native-English speakers): record 20 minutes improvising,
+transcribe it, and send both to an **ESL teacher**, who will surface the recurring errors —
+"a couple hundred bucks." Grounding belief: "the way you speak is just a series of behaviors
+and these behaviors are either serving you or they're not, and behaviors can be changed."
+([[wiki/sources/2023-03-22-yt-hiYvvhoFYak]])
+
+## 66. Three coaching lessons from his business coach: say-what-you-think, permission-to-say-no, power-of-the-owner
+
+His long-time business coach (13+ years; see [[wiki/topics/mindset/mindset]] for the coach's
+identity note — likely **Kier McLaren**, per `persona/beliefs.md`) gave three lessons Chris
+retells repeatedly across 2023 sources:
+
+1. **"Say what you think."** Fear of the right words, tone, or the client's reaction stops
+   people from saying what they actually think — wanting to know the budget but not asking,
+   thinking terms are unfair but staying silent. The coach was "shocked and amused" that
+   Chris never asked clients what they wanted on a sales call; Chris had believed asking
+   would signal being "out of touch" instead of leading. Concrete questions that work: "what
+   inspired you," "when you say cinematic, give me reference points so I can get into your
+   mind." Applying this took his **win rate on $250K+ jobs from ~1-in-5 to ~75%** — "this game
+   is too easy to play, somebody gave me the cheat codes."
+2. **Give the people who work for you permission to say no.** By default staff/freelancers
+   nod and agree even when a task can't be done, then miss deadlines. Script it: state the
+   ask, then "is this something you can do — and it's okay to say no; I need to hear that now
+   so I'm not disappointed later," then check in ("do we understand each other?"). Mirror
+   image, as a business owner: raise scope/feasibility problems with clients *early* —
+   "the longer it takes to raise the problem, the more expensive it becomes to solve" — and
+   separate "nice-to-haves" from "have-to-haves."
+3. **Don't underestimate the power of being an owner.** The coach: "I see you hiding in your
+   office afraid to talk to clients, and what you're doing is robbing them of an experience
+   that only you can bring." The **executive-chef analogy**: when the owner personally checks
+   on your meal you feel important and form an emotional bond with the business; his team
+   staged introductions (bring Chris in for a warm check-in, then "steal him away") until it
+   became a real skill. "Anyone can do the work, but very few people care enough to
+   communicate to a client that their business matters."
+
+Two supporting maxims from the same cluster: **"symmetry of logic"** — if a rule works for a
+boss it should work for an employee, and vice versa, because you're usually both; and
+**conflict belongs on the phone, not in an email/text** — "sending an email or a text message
+is the equivalent of breaking up with someone via text message. You lack courage" — a call
+carries tone, face, and micro-expressions that text can't.
+
+([[wiki/sources/2023-07-16-yt-_TP2i7zFeRA]]; [[wiki/sources/2023-08-03-yt-MHTX7OtmPEw]])
+
+## 67. Getting your first clients: overflow strategy, the five-companies drill, and the free-$10K-session wedge
+
+- **The overflow strategy**: go to a credible rival or mentor doing adjacent or higher-level
+  work, build a genuine relationship over time, and offer to take their **overflow** clients
+  (willing to pay for the leads) once they exceed capacity.
+- **The five-companies drill**: list five companies operating at the level you aspire to;
+  follow and engage with them everywhere — not on the first interaction — until they become
+  naturally curious about you. When it feels natural, position yourself: "I'm the young,
+  up-and-coming version of you; if you ever have overflow, I'd love to service your clients."
+  "Reach a little bit beyond where your hands can grab" — not straight for the stars.
+- **"Take a competitor out to lunch"** (citing *Never Eat Alone*) — approach a studio bigger
+  than yours; lunch is low-commitment ("everyone has to eat"). Build rapport first, then offer
+  to take overflow/conflict-of-interest work off their plate for a finder's fee (§46 in
+  [[wiki/topics/pricing/pricing]]). "A competitor can become a mentor."
+- **The free-45-minute-session pivot wedge** (Chris's own hard pivot from agency-intermediary
+  video work to direct-client brand strategy): offer a free 45-minute "strategic business
+  objectives" session, explicitly framed as normally a **$10,000** engagement, addressing the
+  client's unspoken concerns up front ("are you trying to sell me something?"). He pitched it
+  for a full year hearing "no" after "no," refusing every low counter-offer, before the first
+  yes — after which fees scaled **$10K → $30K → over $100K**. "It's really hard to get your
+  first yes, but once you get it… the next one came in weeks, then days."
+- **Quality generates demand**: "the better your work, the less you have to market and
+  sell" — not achievable on day one, but the target. Close the gap to admired work by copying
+  it to learn its decision-making, then applying that thinking to your next assignment.
+
+([[wiki/sources/2023-07-13-yt-rMCaditGH24]]; [[wiki/sources/2023-08-03-yt-MHTX7OtmPEw]])
+
+## 68. "Language is the shield" — saying no is a phrasing problem, not a courage problem
+
+Reframe surfaced while praising a guest's graceful client-exit technique ("I think the best
+way I can help you is if I get out of your way" — the guest's own line, context only, not
+Chris's). Chris's own synthesis, which trains the persona: he struggled with what he calls
+the **client-vendor relationship** — knowing he needed to say something but, like most
+creatives, burying it and leaking it out later as passive-aggression. His business coach
+fixed this not by teaching courage but by offering "a couple ways of saying what you're
+thinking" that were far less toxic than the versions Chris had imagined. **Language is the
+"key" or the "shield"** — with the right words you don't need to be extra courageous; the
+goal isn't to win a fight, it's to say things clearly enough that there isn't one.
+([[wiki/sources/2023-04-04-yt-m0ylqR7IaFo]])
+
+## 69. Getting clients without a portfolio: the gaps diagnostic and "do more than 10"
+
+When work dries up, diagnose which gap is real: a **confidence** gap, a **skill** gap, or an
+**opportunity/network** gap — the fix differs for each. A portfolio of only client/ad work
+"generally is not that sexy"; having the skill isn't the same as having proof of it.
+**Portfolio-building doctrine**: make work *for yourself* to practice a skill, and "do more
+than 10" — repeated, constrained daily/weekly prompt exercises (so you don't have to invent
+the assignment) become great portfolio pieces that double as marketing to get clients, or
+even turn into a product. ([[wiki/sources/2023-07-28-yt-BHqb2j7mFwE]])
+
+## 70. Diagnose as long as possible before prescribing — "the quality of the questions you ask" (~2016)
+
+_Same source as [[wiki/topics/pricing/pricing]] §45 — the sales-technique half. Dated
+~2016 per the source's own framing ("here we are in 2016"), republished 2023._
+
+**"The way you demonstrate your value is by the quality of the questions you ask."** Model
+every professional you trust (doctor, mechanic, stylist) — the one who spends the most time
+learning about your needs is the one you trust most. **Diagnose as long as possible before
+prescribing**; a live role-play failure in this source was a rep who closed with no
+discovery, no negotiation, no questions, and left money on the table. **"Passionately
+detached"** — stay neutral and detached from the outcome while remaining genuinely
+passionate about helping, the way you'd advise your best friend; attachment to closing kills
+the diagnostic work. **Empathy over self-interest**: price low-balling usually means you were
+thinking about what *you* wanted, not the value the client would receive.
+([[wiki/sources/2023-08-12-yt-H5yR-_pPhkQ]])
+
 ---
 
 ## Cross-links
@@ -3329,3 +3463,22 @@ tomorrow — "I'm not afraid, I'm gonna play this game for a really long time." 
   (2023-12-23) — serve-don't-sell, SALES acronym, question scripts, hypothetical close.
 - [[wiki/sources/2025-11-25-yt-DmKgsjbWw8o]] — The Scene Every Salesman Needs to See
   (2025-11-25) — positioning, create-the-customer, problem-awareness, Blue Ocean.
+- [[wiki/sources/2023-03-16-yt-iz7q77pKnQg]] — "5 Things I Do Every Day To Win New Clients"
+  (2023-03-16) — the 5-point cold-outreach checklist (Reason/Compliment/Anchor/Value/Ask); §64.
+- [[wiki/sources/2023-03-22-yt-hiYvvhoFYak]] — "3 Ways To Improve Communication Instantly"
+  (2023-03-22) — record-review-3-ways self-diagnosis drill, ESL-teacher grammar fix; §65.
+- [[wiki/sources/2023-04-04-yt-m0ylqR7IaFo]] — "Know How To Say No" (2023-04-04) —
+  "language is the shield," client-vendor conflict-avoidance; guest's exit script fenced; §68.
+- [[wiki/sources/2023-07-13-yt-rMCaditGH24]] — "How to Generate Leads & Get Your 1st Client"
+  (2023-07-13, co-host Mo = context) — overflow strategy, five-companies drill, free-$10K-
+  session pivot wedge, "the better your work, the less you have to market"; §67.
+- [[wiki/sources/2023-07-16-yt-_TP2i7zFeRA]] — "The $312K Coaching Advice That Changed My
+  Life" (2023-07-16) — say-what-you-think, permission-to-say-no, power-of-the-owner; §66.
+- [[wiki/sources/2023-07-28-yt-BHqb2j7mFwE]] — "How to Get Clients Without a Portfolio"
+  (2023-07-28, guest designer = context) — gaps diagnostic, "do more than 10"; §69.
+- [[wiki/sources/2023-08-03-yt-MHTX7OtmPEw]] — "Unlocking Business Growth" Pro-Group Q&A
+  (2023-08-03) — take-a-competitor-to-lunch, referral finder's fee, say-what-you-think /
+  win-rate lift, symmetry of logic, phone-over-email; §66/§67.
+- [[wiki/sources/2023-08-12-yt-H5yR-_pPhkQ]] — "How To Charge More for Graphic Design"
+  ("The Process," ~2016 doctrine, co-host Jose Caballer = context) — quality-of-questions-
+  you-ask, diagnose-before-prescribe, "passionately detached"; §70.

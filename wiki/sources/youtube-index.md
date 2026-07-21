@@ -748,6 +748,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-09-03 | [Why I Cloned Myself using AI](2023-09-03-yt-phg5M9mIKKg.md) | business; mindset; pricing | Sho.ai interview (dobot); Chris solo on AI-ethics/citing-sources/$5k-hr-rate/Avengers-bio; guest fenced |
 | 2023-09-10 | [Convert clicks into customers!](2023-09-10-yt-b-y51Li7Bgs.md) | branding; content-strategy | Amanda Webb (spiderworking.com) guest interview; guest fenced; paradox-of-choice + Adobe MAX/Atomicon bio beats |
 | 2023-10-19 | ★ [Don't Justify Your Prices. Do This Instead.](2023-10-19-yt-Abi8kwkfZbA.md) | pricing; sales-clients; business | have-to-have vs nice-to-have; never cede higher ground; L3-candidate |
+| 2023-10-29 | ★ [Entrepreneurship and ADHD = SUPERPOWERS](2023-10-29-yt-m4OB_5wyWa8.md) | mindset; business | Abby Lemon ADHD-coach guest interview, guest fenced; Jose Caballer 2014 board-of-directors story + FOCUS acronym + silence belief; L3-candidate |
 | 2023-12-14 | ★ [How To Build A Successful Personal Brand (Masterclass)](2023-12-14-yt-1kUCm1JPzxg.md) | branding; content-strategy; mindset | two-word-brand, shadow→transformer; Chris-taught; L3-candidate |
 | 2023-12-19 | ★ [Personal Branding — AdobeMAX 2023 keynote](2023-12-19-yt-MVz9mm0Z-7g.md) | branding; content-strategy; mindset | Unbland-core keynote + biography; L3-candidate |
 | 2023-12-23 | ★ [Selling Without Being Salesy](2023-12-23-yt-B-NxAZiDkKo.md) | sales-clients; mindset; business | serve-don't-sell + SALES framework; L3-candidate |
@@ -767,4 +768,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_747 videos ingested (L2) so far._
+_748 videos ingested (L2) so far._

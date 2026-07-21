@@ -2179,3 +2179,46 @@ reproducing this identical no-op.
 Synthesis notes: none (0 videos ingested this batch — pure tooling blocker, no content debt;
 identical to the prior four aborts, no new information beyond confirming the block persists
 unchanged).
+
+## [2026-07-21] ingest | yt batch (@thefutur, 0) — ABORTED a sixth time: block re-confirmed, no re-dispatch (roster-dispatched iteration)
+
+Orient: `ingest_batch.py status` unchanged since batch 114 (@thefutur open P1:1 P2:330 P3:44,
+@TheFuturAcademy P3:72, shorts:859, L2=748/L3=0, synthesis debt 5/10 — checkpoint not due, P1
+not drained so persona not stale, all TARGET channels already enumerated). Stage-machine
+selection is unchanged too: first matching rule is still Stage B (open P1 row exists).
+
+Per the prior iteration's explicit recommendation (do not re-dispatch full 8-video batches
+while the environment is unchanged — it only reproduces the identical 8/8 failure-and-revert),
+this iteration verified cheaply and non-destructively instead of running
+`ingest_batch.py prepare` again:
+- `yt-dlp --version` → `2026.07.04` (unchanged); `pip`/`pip3`/`pipx`/`ensurepip` all still
+  absent from this environment (unchanged — the documented unblock path, installing
+  `bgutil-ytdlp-pot-provider`, remains unavailable).
+- Direct, non-mutating probe (`yt-dlp --write-auto-subs --sub-langs "en.*" --skip-download`,
+  no ledger touch) against the same open P1 row (LZtM7wyqe7w): identical signature — "PO token
+  was not provided" warning, "no subtitles for the requested languages".
+- `--list-subs` against all 8 rows the driver would select (LZtM7wyqe7w, BV-2cMw6QlY,
+  r2N4qePR0h4, xiNHfB8FVwY, QCmLf1Go-Uw, AqnS_hrVZVQ, mUoyOZH1R4I, t7PZ6eD2lEQ): none expose a
+  fetchable manual English track (one has zh-Hant auto captions only, two show a `live_chat`
+  json artifact, the rest report no subtitles at all) — consistent with, not contradicting, the
+  PO-token diagnosis (auto-caption listings are also gated, so blocked tracks simply don't
+  enumerate). No manual-caption row available to substitute in this batch.
+
+Did not re-run `ingest_batch.py prepare` (would only reproduce the identical 8/8
+failure-and-revert already documented five times); `git status`/`git diff --stat
+pipeline/ledger.csv` confirmed clean before and after this iteration. No source pages,
+youtube-index.md, ledger rows, or persona files touched.
+
+**This is the sixth consecutive aborted iteration (five roster-dispatched) reproducing the
+identical diagnosis with zero environment change.** Unblock path is unchanged: install a
+PO-token provider (`bgutil-ytdlp-pot-provider`, needs `pip` — absent here) or supply a YouTube
+cookies file — both require the repo owner, out of scope for an ingest iteration. Recommending
+more strongly this time: the roster autopilot should stop dispatching this clone's ingest loop
+until one of those lands; further dispatches will keep spending a cycle to reconfirm a diagnosis
+that has not changed across six attempts. This clone's ledger/pipeline state otherwise remains
+healthy (open P2:330, P3:44+72, shorts:859; synthesis debt 5/10, well under checkpoint; persona
+at v13, not stale).
+
+Synthesis notes: none (0 videos ingested this batch — pure tooling blocker, no content debt;
+identical to the prior five aborts, no new information beyond re-confirming the block persists
+unchanged).

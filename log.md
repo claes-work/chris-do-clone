@@ -2222,3 +2222,41 @@ at v13, not stale).
 Synthesis notes: none (0 videos ingested this batch — pure tooling blocker, no content debt;
 identical to the prior five aborts, no new information beyond re-confirming the block persists
 unchanged).
+
+## [2026-07-21] ingest | yt batch (@thefutur, 0) — ABORTED a seventh time: block re-confirmed, no re-dispatch (roster-dispatched iteration)
+
+Orient: `ingest_batch.py status` unchanged since batch 114 (@thefutur open P1:1 P2:330 P3:44,
+@TheFuturAcademy P3:72, shorts:859, L2=748/L3=0, synthesis debt 6/10 — checkpoint not due, P1
+not drained so persona not stale, all TARGET channels already enumerated). Stage-machine
+selection is unchanged too: first matching rule is still Stage B (open P1 row exists).
+
+Per the six prior iterations' explicit, repeated recommendation (do not re-dispatch full
+8-video batches while the environment is unchanged — it only reproduces the identical 8/8
+failure-and-revert), this iteration again verified cheaply and non-destructively instead of
+running `ingest_batch.py prepare`:
+- `yt-dlp --version` → `2026.07.04` (unchanged); `pip`/`pip3`/`pipx` all still absent from this
+  environment (unchanged — the documented unblock path, installing
+  `bgutil-ytdlp-pot-provider`, remains unavailable).
+- Direct, non-mutating probe (`yt-dlp --write-auto-subs --sub-langs "en.*" --skip-download`,
+  no ledger touch) against the same open P1 row (LZtM7wyqe7w): identical signature — "There are
+  missing subtitles languages because a PO token was not provided" warning, "There are no
+  subtitles for the requested languages".
+
+Did not re-run `ingest_batch.py prepare` (would only reproduce the identical 8/8
+failure-and-revert already documented six times); `git status`/`git diff --stat
+pipeline/ledger.csv` confirmed clean before and after this iteration. No source pages,
+youtube-index.md, ledger rows, or persona files touched.
+
+**This is the seventh consecutive aborted iteration (six roster-dispatched) reproducing the
+identical diagnosis with zero environment change.** Unblock path is unchanged: install a
+PO-token provider (`bgutil-ytdlp-pot-provider`, needs `pip` — absent here) or supply a YouTube
+cookies file — both require the repo owner, out of scope for an ingest iteration. Reiterating
+the standing recommendation: the roster autopilot should stop dispatching this clone's ingest
+loop until one of those lands; further dispatches will keep spending a cycle to reconfirm a
+diagnosis that has not changed across seven attempts. This clone's ledger/pipeline state
+otherwise remains healthy (open P2:330, P3:44+72, shorts:859; synthesis debt 6/10, well under
+checkpoint; persona at v13, not stale).
+
+Synthesis notes: none (0 videos ingested this batch — pure tooling blocker, no content debt;
+identical to the prior six aborts, no new information beyond re-confirming the block persists
+unchanged).

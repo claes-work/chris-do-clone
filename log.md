@@ -1997,3 +1997,32 @@ the Sho.ai AI-clone interview. One file at a time (concurrency rule).
 Synthesis debt reset 10→0 (high-water mark now batch 114, L2=748). Carried lint debt (unchanged):
 broken-caption re-fetch queue (0lRXUzwFvHY, HNoLn3rapK4, hSvluYcim4I); "I like deliverables too"
 softening; 19/23/24-yr timeline drift; Melinda Livsey/Livesey spelling.
+
+## [2026-07-21] ingest | yt batch (@thefutur, 0) — ABORTED: global caption-fetch block (PO token)
+
+Ran Stage B (open P1 exists → P1 first): `ingest_batch.py prepare --channel @thefutur --n 8`
+selected the 1 open P1 row (yt-LZtM7wyqe7w, "Building A Client Website From Scratch – Building A
+Brand, Ep. 8") + 7 oldest-first P2 rows. **All 8/8 came back `no subtitles for the requested
+languages`** from yt-dlp, each preceded by `WARNING: ... There are missing subtitles languages
+because a PO token was not provided.` This is different from the high-no-caption-ratio batches
+112–114 (6–7/8 no-captions but 1–2/8 still fetched OK, i.e. genuine mixed absence) — here 0/8
+fetched, so it does not look like per-video caption absence.
+
+Verified before trusting the driver's auto-classification: manually re-ran plain `yt-dlp
+--list-subs` against 2 of the 8 IDs (LZtM7wyqe7w, xiNHfB8FVwY) **and** an unrelated control video
+outside this corpus (jNQXAC9IVRw, "Me at the Zoo" — has well-known English auto-captions). All
+three produced the identical PO-token warning and "no subtitles"/"has no automatic captions"
+result. This confirms a **yt-dlp/environment-level block** (YouTube now gates auto-caption
+tracks behind a PO token; this yt-dlp install — 2026.07.04, no PO-token provider plugin
+configured — cannot obtain one), not a genuine absence of captions on these 8 videos. Per the
+`ingest-loop.md` safety rail ("3 consecutive yt-dlp failures → assume rate-limiting"), treated
+this as a blocked iteration and stopped rather than continuing to auto-mark videos wrong.
+
+**Reverted** `ingest_batch.py`'s auto-marks: all 8 rows restored to their prior open status
+(P1:0→1 unchanged at 1, i.e. no ledger state actually changed net) — none of them are genuinely
+`no-captions`; a future run with a working PO-token provider (e.g. `bgutil-ytdlp-pot-provider`)
+should retry them cleanly. No source pages, youtube-index, or persona changes this iteration —
+nothing was actually ingested. Ledger counts unchanged from batch 114 (open @thefutur P1:1
+P2:330 P3:44; L2=748).
+
+Synthesis notes: none (0 videos ingested this batch — pure tooling blocker, no content debt).

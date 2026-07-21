@@ -22,6 +22,11 @@ from user. Next: `/loop /ingest-loop`.
 - [ ] P3 guest content with attribution pass
 - [ ] Shorts dedup (dupes → skipped with `dup-of:`, new → L2)
 - [ ] Retry rows flagged `429` / `no-captions` / `unavailable`
+- [ ] **Blocker (2026-07-21):** yt-dlp caption fetch is globally blocked by YouTube's PO-token
+      requirement on this machine (confirmed against an unrelated control video, not corpus-
+      specific) — 0/8 fetched in the last attempted batch. Install/configure a PO-token
+      provider (e.g. `bgutil-ytdlp-pot-provider`) or update yt-dlp before running further ingest
+      batches; see `log.md` 2026-07-21 entry for the verification steps.
 - [ ] Checkpoint synthesis every ~10 batches / channel boundary (see E)
 
 ## C. Books / courses / landmark documents — OPEN

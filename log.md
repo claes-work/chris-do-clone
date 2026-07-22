@@ -2444,3 +2444,47 @@ dispatch regardless of who runs it. Pipeline otherwise healthy: open P2:330, P3:
 synthesis debt correctly 0/10; persona at v13, not stale.
 
 Synthesis notes: none (0 videos ingested this batch — pure tooling blocker, no content debt).
+
+## [2026-07-22] ingest | yt batch (@thefutur, 0) — ABORTED a twelfth time: PO-token block re-confirmed, no re-dispatch (roster-dispatched iteration)
+
+Orient: `ingest_batch.py status` unchanged since batch 114 (@thefutur open P1:1 P2:330 P3:44,
+@TheFuturAcademy P3:72, shorts:859, L2=748/L3=0, synthesis debt 0/10 with the counter fix from
+the prior iteration holding — checkpoint not due, P1 not drained so persona not stale, all
+TARGET channels already enumerated). Stage-machine selection unchanged: first matching rule is
+still Stage B (open P1 row exists).
+
+Per the eleven prior iterations' documented, exhaustive diagnosis (PO-token gate blocks all
+auto-caption tracks on @thefutur; every extractor client path tried; no `pip`/`pip3`/`ensurepip`
+in this environment; `sudo` requires a password the agent doesn't have; unblock path verified
+end-to-end unreachable without repo-owner/root action in iteration 10), this iteration again
+verified cheaply and non-destructively instead of re-running a full 8-video `prepare`:
+- `ingest_batch.py prepare --channel @thefutur --n 1 --dry-run` selected the same open P1 row
+  (LZtM7wyqe7w); no captions fetched, no ledger changes.
+- `yt-dlp --version` → `2026.07.04` (unchanged); `pip`/`pip3` still absent, `python3 -m pip`
+  still reports "No module named pip" (unblock path still unavailable); no cookies file in the
+  repo.
+- Direct, non-mutating probe (`yt-dlp --write-auto-subs --sub-langs "en.*" --skip-download`)
+  against the same open P1 row: identical signature — "There are missing subtitles languages
+  because a PO token was not provided" warning, "There are no subtitles for the requested
+  languages". (Noted in passing: this yt-dlp build now solves JS player challenges via a local
+  deno runtime before falling back to the PO-token gate — an internal yt-dlp implementation
+  detail, not a new unblock path; the caption-fetch outcome is identical to all eleven priors.)
+
+Did not re-run `ingest_batch.py prepare` for real (would only reproduce the identical 8/8
+failure-and-revert already documented eleven times); `git status` confirmed clean before and
+after this iteration. No source pages, `youtube-index.md`, ledger rows, or persona files
+touched.
+
+**This is the twelfth consecutive aborted iteration (eleven roster-dispatched) reproducing the
+identical diagnosis with zero environment change.** Unblock path is unchanged and already fully
+scoped (iteration 10): install a PO-token provider (`bgutil-ytdlp-pot-provider`, needs
+`pip`/`ensurepip`/`apt` — all require root, unavailable to this agent) or supply a YouTube
+cookies file — both require the repo owner. Standing recommendation stands: the roster autopilot
+should hold this clone's ingest loop until one of those lands; further dispatches can only
+reconfirm a diagnosis that has now been independently re-verified twelve times. This clone's
+ledger/pipeline state otherwise remains healthy (open P2:330, P3:44+72, shorts:859; synthesis
+debt correctly 0/10 post-fix; persona at v13, not stale).
+
+Synthesis notes: none (0 videos ingested this batch — pure tooling blocker, no content debt;
+identical to the prior eleven aborts, no new information beyond re-confirming the block persists
+unchanged).

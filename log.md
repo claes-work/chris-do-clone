@@ -2573,3 +2573,64 @@ state otherwise remains healthy (open P2:330, P3:44+72, shorts:859; synthesis de
 Synthesis notes: none (0 videos ingested this batch — pure tooling blocker, no content debt;
 identical to the prior thirteen aborts, no new information beyond re-confirming the block persists
 unchanged).
+
+## [2026-07-22] ingest | yt batch (@thefutur, 0) — ABORTED a fifteenth time: block ESCALATED from PO-token subtitle warning to full "not a bot" extraction failure (roster-dispatched iteration)
+
+Orient: read `SUBJECT.md` (no changes), `grep "^## \[" log.md | head -6`, and ROADMAP.md status per
+the loop's Stage 0. `ingest_batch.py status` unchanged since batch 114/the debt-counter fix, except
+the discovery-refresh bump already committed by the roster autopilot (`8228bc0`): `@thefutur
+P1:2 P2:330 P3:44` (a new fresh-upload row `yt-j8yGn1v8OgU`, "She Cracked the YouTube Code. Here's
+Everything She Knows", published 2026-07-21, discovered 2026-07-22, `L0-discovered`, P1, joined the
+existing stuck P1 row `LZtM7wyqe7w`), `@TheFuturAcademy P3:72`, shorts:859, L2=748/L3=0, synthesis
+debt correctly 0/10, checkpoint not due. Persona not stale (pass 12 was three days ago, P1 not
+drained, no unreflected topic pages). Stage-machine selection unchanged: first matching rule is
+Stage B (open P1 rows exist), same as the prior fourteen iterations — this time with the new fresh
+row prioritized per dispatch instructions.
+
+Per dispatch instructions, checked the ledger for the discovery-refresh video and probed it
+specifically (not just the previously-stuck row) before re-confirming the standing diagnosis:
+- `awk` on `pipeline/ledger.csv` confirmed `yt-j8yGn1v8OgU` on `@thefutur`, P1, `L0-discovered`,
+  `notes=views=4888 fresh-upload`.
+- Direct, non-mutating probe (`yt-dlp --write-auto-subs --write-subs --sub-langs "en.*"
+  --skip-download`) against `j8yGn1v8OgU`: **new failure signature** —
+  `ERROR: Sign in to confirm you're not a bot. Use --cookies-from-browser or --cookies for the
+  authentication.` This is a full extraction failure (webpage/player API stage), not the prior
+  "missing subtitles languages because a PO token was not provided" warning that let extraction
+  otherwise complete. Retried once (transient-failure check): identical error, immediately.
+- Re-probed the previously-stuck P1 row `LZtM7wyqe7w` with the same command for comparison:
+  **identical new "Sign in to confirm you're not a bot" error** — confirms the block has escalated
+  channel-/IP-wide, not just on the new video, and is not video-specific.
+- `python3 -m pip --version` → "No module named pip" (still absent); `which pip pip3` → nothing;
+  `find . -iname "*cookie*"` → no cookies file anywhere in the repo (unblock path — a YouTube
+  cookies file — still requires repo-owner action; a PO-token provider alone will no longer be
+  sufficient now that the failure is at the bot-check stage, before subtitle negotiation).
+- `yt-dlp --version` → `2026.07.04` (unchanged).
+- `ingest_batch.py prepare --channel @thefutur --n 1 --dry-run` still selects the older P1 row
+  (`LZtM7wyqe7w`, 2019-07-10) ahead of the fresh 2026-07-21 upload — expected, selection order is
+  priority-then-oldest-published-first; the fresh row is genuinely next after it. No captions
+  fetched, no ledger changes from the dry-run.
+- `ingest_batch.py status` re-run after both probes: byte-identical to before them (open counts,
+  L2=748/L3=0, debt 0/10) — confirms the probes were non-mutating. Temp probe files removed
+  from `/tmp`.
+
+`git status --short` was clean before this iteration except the autopilot's own discovery-refresh
+commit (already pushed as `8228bc0`); no source pages, `youtube-index.md`, ledger rows, or persona
+files touched by this iteration; this log entry is the only change.
+
+**This is the fifteenth consecutive aborted iteration (fourteen roster-dispatched), and the first
+to observe a change: the extraction block has escalated from a subtitle-only PO-token warning to a
+full YouTube bot-check failure at the webpage/player-API stage, reproduced on both the previously-
+stuck row and the new fresh-upload row.** This means the previously-scoped unblock path (installing
+a PO-token provider) is no longer sufficient by itself — a YouTube cookies file (`--cookies` /
+`--cookies-from-browser`) is now the primary unblock path, since the failure now happens before
+subtitle negotiation even begins. Both remedies still require repo-owner/root action unavailable to
+this agent (root for a pip-installed PO-token provider; a logged-in browser/account for a cookies
+export). Standing recommendation: the roster autopilot should hold this clone's ingest loop until a
+cookies file or PO-token provider lands — further dispatches can at most re-confirm this escalated
+diagnosis, not resolve it. This clone's ledger/pipeline state otherwise remains healthy (open P1:2
+[incl. the new fresh row], P2:330, P3:44+72, shorts:859; synthesis debt correctly 0/10; persona at
+v13, not stale).
+
+Synthesis notes: none (0 videos ingested this batch — pure tooling blocker, no content debt; the
+only new information this iteration is the escalated failure signature, which is an operational/
+tooling fact, not persona-relevant content).

@@ -2394,3 +2394,53 @@ synthesis debt 9/10, one batch under checkpoint; persona at v13, not stale).
 Synthesis notes: none (0 videos ingested this batch — pure tooling blocker, no content debt;
 identical to the prior nine aborts, no new information beyond confirming the unblock path
 itself is unreachable without root).
+
+## [2026-07-22] ingest | yt batch (@thefutur, 0) — ABORTED an eleventh time: block re-confirmed; fixed a debt-counter bug that had inflated synthesis debt to a false checkpoint (roster-dispatched iteration)
+
+Orient: `ingest_batch.py status` at the start of this iteration showed "ingest batches since
+last synthesis: 10 (checkpoint at 10) <-- SYNTHESIS DUE" — the stage machine's first matching
+rule (`AGENTS.md`/`ingest-loop.md`) would read this as Stage S (synthesis checkpoint) taking
+priority over Stage B. But `synthesis_batch.py status`/`prepare` disagreed: 0 pending
+checkpoints, "synthesis is caught up," and `ingest_batch.py status` itself showed L2=748
+unchanged since pass 12 (batch 114) — i.e. the pipeline's own authoritative state said there was
+genuinely nothing new to synthesize.
+
+Root cause, found and fixed (bonus tooling fix, same category as pass 12's `FLAG_RE` fix):
+`batches_since_synthesis()` in `tools/ingest_batch.py` counted every log line matching
+`"ingest |"` as one unit of synthesis debt, with no distinction between a real batch (N videos
+ingested) and a zero-content abort. The ten consecutive PO-token-blocked aborts logged since
+pass 12 (batches "…, 0) — ABORTED…" first through tenth) were each a `0`-item batch, but each
+still incremented the debt counter by 1 — so ten purely-diagnostic dead ends alone pushed the
+counter to the checkpoint threshold with **zero** actual new L2 material behind it. Running a
+real Stage S pass on that state would have produced an empty promotion (nothing new to promote,
+violating the "quality over volume" / "do NOT re-add material already on the page" rules in
+`tools/SYNTHESIS.md`) and, worse, would have looked like a legitimate pass 13 in the state file
+history while carrying zero content.
+
+Fix: `batches_since_synthesis()` now parses the `(<channel>, N)` count out of each `ingest |` log
+line and only advances the counter when `N >= 1`; a `synthesis`/`lint` line still resets it to 0
+as before. Verified: `ingest_batch.py status` now reports "ingest batches since last synthesis:
+0 (checkpoint at 10)" — matching `synthesis_batch.py`'s "caught up" state exactly. Re-ran the
+stage-machine selection with the corrected number: synthesis not due, persona not stale (pass 12
+was yesterday, P1 not drained), all TARGET channels enumerated → first matching rule is Stage B
+(open P1 row), same as the prior ten iterations.
+
+Verified the PO-token block itself is still present and the environment is unchanged, via the
+same cheap non-mutating checks as iterations 2-10 (no full-batch re-dispatch, since that would
+only reproduce the identical failure already documented ten times): `yt-dlp --version` →
+`2026.07.04` (unchanged); a direct `--write-auto-subs --skip-download` probe against the same
+open P1 row (LZtM7wyqe7w) reproduces the identical "PO token was not provided" / "no subtitles
+for the requested languages" signature; `python3 -m pip` still reports "No module named pip"
+(unblock path — a PO-token provider or a cookies file — still requires repo-owner/root action,
+per iteration 10's exhaustive scoping). `git status` clean before and after this iteration aside
+from the `tools/ingest_batch.py` fix; no source pages, `youtube-index.md`, ledger rows, or
+persona files touched.
+
+Standing recommendation unchanged: the roster autopilot should hold this clone's ingest loop
+until a PO-token provider or a cookies file is supplied by the repo owner — further dispatches
+of Stage B can only reconfirm the same diagnosis. This iteration's own value was fixing the
+debt-counter bug, which otherwise would have forced a hollow "synthesis pass" on the very next
+dispatch regardless of who runs it. Pipeline otherwise healthy: open P2:330, P3:44+72, shorts:859;
+synthesis debt correctly 0/10; persona at v13, not stale.
+
+Synthesis notes: none (0 videos ingested this batch — pure tooling blocker, no content debt).

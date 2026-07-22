@@ -96,15 +96,30 @@ def normalize_channel(arg: str) -> str:
         sorted({r['channel_or_publisher'] for r in read_ledger() if r['channel_or_publisher'].startswith('@')})))
 
 
+_BATCH_N_RE = re.compile(r"ingest\s*\|\s*yt batch \([^,]+,\s*(\d+)\)", re.IGNORECASE)
+
+
 def batches_since_synthesis() -> int:
-    """Count ingest-batch log entries since the last synthesis pass (the synthesis debt, in batches)."""
+    """Count ingest-batch log entries since the last synthesis pass (the synthesis debt, in batches).
+
+    A batch only counts toward the debt if it actually ingested >=1 item. Zero-content batches
+    (e.g. "yt batch (@thefutur, 0) — ABORTED: ..." from a tooling blocker like a rate-limit or a
+    PO-token block) added no new L2 material for synthesis to promote, so they must NOT advance
+    the checkpoint counter — otherwise repeated aborts alone eventually force a Stage-S pass with
+    nothing to promote (see log.md batches 115-124: 10 consecutive zero-content aborts inflated
+    the debt to the checkpoint threshold with zero actual synthesis debt).
+    """
     count = 0
     for line in (LOG.read_text(encoding="utf-8", errors="replace") if LOG.exists() else "").splitlines():
         if line.startswith("## ["):
             low = line.lower()
             if "synthesis" in low:      # a synthesis/lint pass resets the counter
                 count = 0
-            elif "ingest |" in low or "| ingest" in low or "ingest |" in low:
+                continue
+            if "ingest |" in low or "| ingest" in low:
+                m = _BATCH_N_RE.search(line)
+                if m and int(m.group(1)) == 0:
+                    continue            # zero-content abort: no new material, doesn't count
                 count += 1
     return count
 

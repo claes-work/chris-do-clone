@@ -2531,3 +2531,45 @@ debt correctly 0/10; persona at v13, not stale).
 Synthesis notes: none (0 videos ingested this batch — pure tooling blocker, no content debt;
 identical to the prior twelve aborts, no new information beyond re-confirming the block persists
 unchanged).
+
+## [2026-07-22] ingest | yt batch (@thefutur, 0) — ABORTED a fourteenth time: PO-token block re-confirmed, no re-dispatch (roster-dispatched iteration)
+
+Orient: read `SUBJECT.md` (no changes), `grep "^## \[" log.md | head -6`, and ROADMAP.md status per
+the loop's Stage 0. `ingest_batch.py status` unchanged since batch 114/the debt-counter fix:
+`@thefutur P1:1 P2:330 P3:44`, `@TheFuturAcademy P3:72` (catalog tier per SUBJECT.md), shorts:859,
+L2=748/L3=0, synthesis debt correctly 0/10, checkpoint not due. Persona not stale (pass 12 was two
+days ago, P1 not drained, no unreflected topic pages). All three TARGET channels already have
+ledger rows. Stage-machine selection unchanged: first matching rule is Stage B (open P1 row
+exists), same as the prior thirteen iterations.
+
+Re-verified cheaply and non-destructively instead of re-running a full 8-video `prepare` (would
+only reproduce the identical failure already documented thirteen times):
+- `python3 -m pip --version` → "No module named pip" (still absent); `which pip pip3` → nothing;
+  `find . -iname "*cookie*"` → no cookies file anywhere in the repo (unblock path — PO-token
+  provider or cookies file — still requires repo-owner/root action).
+- `yt-dlp --version` → `2026.07.04` (unchanged).
+- `ingest_batch.py prepare --channel @thefutur --n 1 --dry-run` selected the same open P1 row
+  (LZtM7wyqe7w, "Building A Client Website From Scratch..."); no captions fetched, no ledger
+  changes.
+- Direct, non-mutating probe (`yt-dlp --write-auto-subs --sub-langs "en.*" --skip-download`)
+  against that same P1 row: identical signature — "There are missing subtitles languages because
+  a PO token was not provided" warning, "There are no subtitles for the requested languages".
+- `ingest_batch.py status` re-run after the probe: byte-identical to before it (open counts,
+  L2=748/L3=0, debt 0/10) — confirms the probe was non-mutating. Temp probe output file removed.
+
+`git status --short` was clean before this iteration and remains clean (no source pages,
+`youtube-index.md`, ledger rows, or persona files touched; this log entry is the only change).
+
+**This is the fourteenth consecutive aborted iteration (thirteen roster-dispatched) reproducing
+the identical diagnosis with zero environment change.** Unblock path is unchanged and already
+fully scoped (iteration 10): install a PO-token provider (`bgutil-ytdlp-pot-provider`, needs
+`pip`/`ensurepip`/`apt` — all require root, unavailable to this agent) or supply a YouTube cookies
+file — both require the repo owner. Standing recommendation stands: the roster autopilot should
+hold this clone's ingest loop until one of those lands; further dispatches can only reconfirm a
+diagnosis that has now been independently re-verified fourteen times. This clone's ledger/pipeline
+state otherwise remains healthy (open P2:330, P3:44+72, shorts:859; synthesis debt correctly
+0/10; persona at v13, not stale).
+
+Synthesis notes: none (0 videos ingested this batch — pure tooling blocker, no content debt;
+identical to the prior thirteen aborts, no new information beyond re-confirming the block persists
+unchanged).

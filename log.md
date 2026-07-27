@@ -7855,3 +7855,87 @@ this lifetime"** / **rebirth over death** for `branding`; (7) ✅ **stories are 
 attestation, promote with the Miyagi telling as one entry**; (8) ★★★ *"I'm in tears — my wife's like: what's
 wrong with you?"* for `voice.md`; (9) ★★ **"two buildings"** for the biography; (10) ✅ **the corrected
 Matrix attribution**, as evidence about how his misquotes work.
+
+## [2026-07-27] ingest | yt batch (@thefutur, 1) — the attribution map
+
+**Stage B (P2), `--n 3`.** The row deferred from batch 164 was taken first and proved a landmark, so it took
+the batch. Ledger 916 → **917 L2**. **No deferrals outstanding.**
+
+| id | date | what it is |
+|---|---|---|
+| `yt-PaCM-LXyIfc` | 2025-04-15 | ★★★ **LANDMARK for attribution** — ten books; ⏸️ from 164 |
+
+**1. ★★★ This is the corpus's single best attribution source — and that matters here more than usual.**
+The corpus has caught him misattributing *Book Yourself Solid* **four times**. This video is twenty-one
+minutes of him naming books and saying what he took from each, **and he credits carefully throughout**:
+**Sally Hogshead** for *different is better than better* (second consecutive crediting), **Blair Enns** for
+the anchoring script, **Kirby Ferguson** for remix, **Marty Neumeier** for *onlyness*. ✅ **The pattern
+already noted holds: when he knows a source, he handles it well; the misattributions are recall failures,
+not carelessness.**
+
+★★★ **And the framing argument is itself about sources**: *"when you follow people that are influencing the
+influencers, **all the names lead back to one person**"* — Darren Hardy, Brian Tracy, Tony Robbins all thank
+**Jim Rohn** — *"**he's the OG, the original gangster of self-help**… ★★★ **I like going back to the
+source.**"* ★ He even concedes the regress himself: *"maybe you have to go back to biblical times to find
+where [Rohn] drew inspiration from."*
+
+> ⚠️ **One pointed aside, recorded with care.** *"You've heard people like **Gary Vee** say ***get rid of one
+> loser friend*** — ★★★ **I wonder where he got that idea from.**"* **Chris's dated opinion about a named
+> living person; this roster contains a separate Gary Vaynerchuk clone, and it is fenced from that clone.**
+
+**2. ★★★ Three entries do real work beyond the recommendation.**
+
+- ***Delivering Happiness* — the operational history behind *culture equals brand*, including its cost.**
+  *"**We literally copied the core values from *Delivering Happiness*, modified it a little bit, and started
+  to live by them — to HIRE and to FIRE our team based on this.** ★★ **It took us probably a year and a half
+  before we were able to change our culture around.**"* And the part most people would leave out:
+  ★★★ *"**when you start to live by your values, people start to quit — and then you have to ask a couple of
+  people to leave.**"*
+- ***Rework* — think like a chef**, argued against a friend who refused to teach (*"I don't want to create a
+  bunch of clones… **poor copycats**"*). The rebuttal is a question: *"**who are the most famous, celebrated
+  and successful chefs you know?**"* — Lagasse, Ramsay, Flay — ★★★ *"**why are they the most celebrated?
+  Because they've done a really good job of sharing their secret sauce.**"* With the mechanism (*"as much as
+  we love watching people do things, **very few actually apply it** — **we want the master to do it for
+  us**"*) and the warning: ★★★ *"**if you want to get busy being the world's best kept secret and hoarding
+  all the resources yourself — do so at your own peril.**"*
+  ✅ **This answers Kier McLaren's *"don't be the world's best kept secret"* from three weeks earlier.**
+- ***Win Without Pitching* — *"probably the book that I refer to the most, hands down, bar none"*** — with
+  the **anchoring script in full**, including the instruction most teaching omits: ★★★ *"**you say that big
+  number and you just be quiet. Count to three if you need to, as Blair suggests — and then see what the
+  client says.**"* Then the whole negotiation walk-through down to *"how much less?"*
+
+**Also**: ★★★ ***The Coaching Habit* reclassified as a sales book** — *"if you apply the framework with your
+prospects **you'll find there's a lot less friction**"* — resting on the premise that **advice creates
+dependency** (*"it robs them of the ability to think for themselves"*); ★★★ **closure** from *Understanding
+Comics*, read in college and *"**something I use a lot in storytelling**"*; ★★★ ***Zag*** — *"**branding is
+the act of intentional differentiation**"* and **the onlyness statement**; ★★ **Cialdini's reciprocity**
+with the Hare Krishna study and the modern coda (*"because this is overused, **we've become numb**"*); and
+★★ **the TED-talk book with his own warning attached** — *"**I want to warn you about this book**… **it can
+create a lot of impostor syndrome**"* — plus **the catchphrase** and ★★★ **leaky-tire syndrome**.
+
+**3. ★★★ And the closing caveat is the best line in it**, aimed at his own genre: *"**reading can only get
+you so far. Reading is not going to make you rich, successful, happy, more creative.** It's when you APPLY
+these ideas that you move forward. ★★★ **Personal development doesn't work if you actually don't do any of
+the development.**"*
+
+> ⚠️ **A title/content discrepancy, flagged not resolved**: **the title says 198 books**; **in the video he
+> says *"I estimate that I've read over a hundred books."*** **Neither figure is asserted.**
+> ⚠️ **Also flagged**: the captions give the price bracket as both *"20 to $55,000"* and *"20 to 50,000"* —
+> **his own *"the middle of which is about 35K"* fixes it at $20–50K**, and the other figure is treated as a
+> transcription artefact.
+
+**Pipeline state:** `@thefutur` P1:0, **P2:160**, P3:44; `@TheFuturAcademy` P3:72; shorts 860; L2=**917**,
+L3=0; synthesis debt **2/10**; persona v19.
+
+Synthesis notes: genuinely new — (1) ★★★ **rebuild `entities/influences` around this source** — it is the
+clearest statement of which books he claims and what he takes from each; (2) ★★★ **think like a chef**, with
+the friend who refused and *"do so at your own peril"* — ✅ **the answer to Kier's *don't be the world's best
+kept secret***; (3) ★★★ **the *Delivering Happiness* culture rewrite WITH its cost** — the operational
+history behind *culture equals brand*; (4) ★★★ **price bracketing + the silence** (*"count to three"*),
+✅ credited to Blair Enns, with the full walk-through; (5) ★★★ ***The Coaching Habit* as a sales book** and
+**advice creates dependency**; (6) ★★★ **branding is the act of intentional differentiation** + **the
+onlyness statement**; (7) ★★★ **closure** (McCloud) as a device he still uses; (8) ★★★ **copy faithfully
+first** — *"a really bad imitation… is the biggest insult"*; (9) ★★★ **"personal development doesn't work if
+you don't do any of the development"**; (10) ★★ **leaky-tire syndrome** and the catchphrase; (11) ★★ **read
+*Understanding Comics* in college** and **the early public-speaking butterflies** → `persona/biography.md`.
+⚠️ **Record the 198-vs-100 discrepancy**; ⚠️ **the Gary Vaynerchuk aside stays fenced from that clone.**

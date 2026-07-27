@@ -7104,3 +7104,89 @@ audience — with the guest's *"incredible question asker"* as external corrobor
 someone's story back to them**, which he already does for friends; (6) ★★ **loss-leader / jewel-in-the-crown
 client logic** for `business`. ⚠️ **Create an `andrea-sampson.md` entity page**; ⚠️ **her material and her
 clients' stories stay fenced.**
+
+## [2026-07-27] ingest | yt batch (@thefutur, 2 of 3 — one deferred) — a compendium, mined rather than swallowed
+
+**Stage B (P2), `--n 3`.** Clean start, no carried deferrals. Ledger 905 → **907 L2**.
+
+| id | date | what it is |
+|---|---|---|
+| `yt-odAro9miDOE` | 2025-03-21 | ⚠️ guest-dominant + short — Colin and Samir on MrBeast |
+| `yt-lXTf0ypur0Q` | 2025-03-25 | ⚠️ **COMPENDIUM** — 40 items in 22 minutes |
+| `yt-MqWUPpjMj3o` | 2025-03-23 | ⏸️ **DEFERRED** (74KB) |
+
+**1. ⚠️ The 40-item listicle got a handling decision, not just an ingest.** Most of the forty are
+**compressed restatements** of doctrine the corpus already holds in fuller form. The page says so at the
+top and **flags the risk explicitly: do NOT let the compendium overwrite the fuller tellings.** What it is
+kept for is (a) the ~14 items that are genuinely new or newly sharp, and (b) **the compressed phrasings
+themselves**, which are often the most quotable versions.
+
+**The genuinely new**: ★★★ **practice intentional incompetence** (*"don't get good at things you don't want
+to get good at"* — the active form of delegation); ★★★ **the tyranny of the how** (*"when you [ask how] you
+eliminate ideas prematurely"*, evidenced by his own design students); ★★★ **sales is change management** —
+*"what people pay for is **to go from the current state to a desired future state**… and **if you have a
+plan on how to do that, that's what you're selling**"*; ★★★ **the three-word findability test** (Google
+yourself without your name; find three words whose top-10 is your real competition; seed your content with
+them); ★★★ **sell before you build** and ★★★ **sell how you buy** (*"just look at how YOU make decisions…
+reverse-engineer that"*); ★★★ **good is the price of entry — different is better than better**;
+★★★ **create how you consume**; ★★★ **being needy is repulsive**; ★★★ **price the client, not the job**.
+
+**2. ★★★ A real refinement of the anchoring doctrine, not a repeat.** *"**Say the price first when you know
+what you're doing. Say the price last when you don't.**"* First anchors high so they can't lowball —
+*"**but the caveat: when you DON'T know what you're doing, you're going to shoot yourself in the foot by
+saying a price you think is really high when in truth the price is much, much higher.**"* Worked as a logo
+designer of ten years quoting a known range, versus an unfamiliar sponsorship where the guess is an order of
+magnitude low. **This belongs in `pricing` §52 as a condition on anchoring, not as a new entry.**
+
+**3. ★★★ The best new sales insight is about the client's fear, not yours.** *"**The client is more afraid
+of you than you are of them.**"* Because you're the specialist and they run a broad business, *"**they're
+not going to disclose information — not because they're trying to manipulate you, but because they're
+afraid of sounding stupid.**"* → ★★★ *"**give them permission to sound stupid**"*, and speak their language,
+because *"**impressing them with your knowledge is only going to make them feel dumber**"* and less
+forthcoming. Paired with ★★★ **sometimes the client is right** — *"**they will forget more about their
+business than you hope to learn about it**, and **it's arrogant to assume we know better how to run a
+bakery.**"*
+
+**4. ★★★ Two more Kier McLaren maxims — including the origin of the public-speaking push.**
+- *"**Say what you think**"* — *"the best way to release the stress"* — ★★ **with the half he flags as
+  unfinished**: *"the second part is **to learn how to say it in an objective, non-violent way — but that's
+  a story for another day.**"*
+- *"**Don't be the world's best kept secret.** You're so busy doing the great work that no one knows about
+  — **how is anybody ever going to find you?**"* — *"**and my introverted self was freaking out**"* — *"do
+  public speaking, go talk to clients… **your network is your net worth. You've got to get out there,
+  kid.**"* ✅ **This is the origin of the public-speaking arc already in `persona/biography.md`.**
+
+★★ **And a confession worth keeping**: *"**don't let the fear of firing someone be the reason you're not
+hiring.** **I did this myself for years** — toiling, staying up late, burnt out — because **I was really
+afraid of looking at another human being and saying: I control your livelihood.**"*
+
+⚠️ **A new self-report, recorded not reconciled**: *"I've been in business over 30 years and **I've built
+two eight-figure businesses.**"* The corpus holds Blind's *$80M lifetime billings* and The Futur separately;
+**this is the first time he characterises both this way.**
+
+**5. ★★★ One genuine contribution inside a guest-dominant clip.** Colin and Samir's three rules of YouTube
+and their *Jenga storytelling* framing are **theirs and fenced** — but Chris adds the film-craft half they
+don't have: *"**Michael Bay's style is to keep it at a frenetic pace for as long as possible — and then we
+become numb.** Whereas **Quentin will build and build, and you can't handle any more — he'll let you off the
+hook for a little bit**… **and I feel emotionally drained and satisfied.**"* **They describe disproportionate
+rise and fall; he names the failure mode on the other side.**
+
+**Deferral (no silent caps):** one row — `MqWUPpjMj3o` (74KB) — returned to `L0-discovered` at P2,
+transcript cached, not skimmed. **Takes the next batch first.**
+
+**Pipeline state:** `@thefutur` P1:0, **P2:170**, P3:44; `@TheFuturAcademy` P3:72; shorts 860; L2=**907**,
+L3=0; synthesis debt **5/10**; persona v18.
+
+Synthesis notes: genuinely new — (1) ★★★ **intentional incompetence**; (2) ★★★ **the tyranny of the how**;
+(3) ★★★ **sales is change management**; (4) ★★★ **say the price first when you know, last when you don't** —
+⚠️ **promote as a CONDITION on the existing anchoring doctrine, not a new entry**; (5) ★★★ **the client is
+more afraid of you** + **give them permission to sound stupid**; (6) ★★★ **sometimes the client is right**;
+(7) ★★★ **the three-word findability test**; (8) ★★★ **sell before you build** / **sell how you buy**;
+(9) ★★★ **the fear-of-firing confession**; (10) ★★★ **good is the price of entry / different is better than
+better**; (11) ★★★ **create how you consume**; (12) ★★★ **being needy is repulsive**; (13) ★★★ **price the
+client, not the job**; (14) ★★★ **two Kier McLaren maxims** — *"say what you think"* (⚠️ **with the
+non-violent half he leaves unfinished**) and *"don't be the world's best kept secret"* ✅ **as the origin of
+the public-speaking push**; (15) ★★★ **tension architecture** (*"and then we become numb"*) → `content-
+strategy`; (16) ★★ **two eight-figure businesses** `[self-reported]`. ⚠️⚠️ **The other ~26 items are
+compressed restatement — take the phrasings for `voice.md`, NOT the substance, and do not let them displace
+the fuller sources.**

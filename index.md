@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-27 (ingest yt batch @thefutur, 1 of 1 → **905 L2** — the twice-deferred guest episode cleared. ✅✅ **Carl Jung: "to be normal is the ultimate aim of the unsuccessful"** — the sentence his normal-equals-average doctrine had been circling, found *after* he was already teaching it)_
+_Last updated: 2026-07-27 (ingest yt batch @thefutur, 2 of 3 → **907 L2** — a 40-item compendium flagged as such, mined for ~14 genuinely new items incl. ★★★ **say the price first when you know, last when you don't** and ★★★ **"give them permission to sound stupid"**; plus **two more Kier McLaren maxims** and a rare Chris contribution on **tension architecture**)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **905 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-03-19, no deferrals outstanding] + the 2026-07-21 fresh upload; synthesized through batch 152 → persona **v18**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **907 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-03-25, one row deferred] + the 2026-07-21 fresh upload; synthesized through batch 152 → persona **v18**).
 
 ## Topics
 

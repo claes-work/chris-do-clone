@@ -785,7 +785,11 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2024-02-01 | ★ [How to Negotiate a Lowball Offer](2024-02-01-yt-7XCeHBnVIik.md) | pricing; sales-clients | **anchoring — the story of him losing to it**: the client's anchor he carried to Ben Burns, caught late, then re-anchored at 30; "I delete the email"; L3-candidate |
 | 2024-02-05 | ★★ [How to Talk About Price or Budget Using Price Bracketing](2024-02-05-yt-NJ53pSoxnFQ.md) | pricing; sales-clients | **a dated change of practice — he now says the bigger number FIRST**, confirmed on air against his older teaching; anchor high; re-scope instead of discounting; L3-candidate |
 | 2024-02-08 | ★ [Being Rejected Was The Best Outcome — Liz Mosley](2024-02-08-yt-iiuPtiPSjVU.md) | mindset; business; content-strategy | guest-primary, premised on **Chris's own rejection of her**; his **podcast-gatekeeping rationale** ("am I going to reach a billion people 42 at a time?"); the Matrix/Neo riff; L3-candidate |
+| 2024-02-09 | ★★ [Proven Strategies to Attract Your Ideal Clients (Business Bootcamp)](2024-02-09-yt-QH6b8mMEP2g.md) | business; sales-clients; branding | the **moral-ambiguity disclosure** ("I used to be a guy on the white side… turns out, pretty comfortable"); **spec work** bounded by "just don't lie"; the director's-cut portfolio rule; A–F client scoring; L3-candidate |
+| 2024-02-15 | ★★ [5 Passive Income Ideas to Make $10,000 Per Month](2024-02-15-yt-HJ9IW1w2bDc.md) | business; content-strategy; pricing | **buy back your time** (the day-rate spread, "less than Starbucks"); **The Futur's own YouTube economics** (CPM ~$28, ~$180K/yr, peak ~$360K); affiliate → sponsorship; "where's the value? In the relationships"; L3-candidate |
 | 2024-02-24 | ★ [Who Is Chris Do & The Futur? Origin Story](2024-02-24-yt-f5uYRuqK4g0.md) | mindset; business | richest biography source (Travis Makes Friends podcast); L3-candidate |
+| 2024-02-26 | ★★ [4 Ways To Get Your First 10 Customers (Full Class)](2024-02-26-yt-nNRWt9-XML0.md) | sales-clients; business; content-strategy | Hormozi's **Core Four**; the **referral script** (ask at the moment of gratitude, as a no-question); problem / sample / tool; **"what are they trying to avoid?"** (via Noah Kagan); L3-candidate |
+| 2024-02-27 | ★★ [Brand Strategy For Designers: How to Get Started (Part 1)](2024-02-27-yt-tgDjT6G5VZo.md) | branding; business; design-craft | **how he actually learned brand strategy** — jealousy of Yo Santosa's Ferroconcrete work, then Jose Caballer's CORE and the user-profile epiphany; the **Tango** case study; the **Ford Aerostar door** story; L3-candidate |
 | 2024-11-06 | [From $13 to $100K Brand Deals — w/ Adrian Per](2024-11-06-yt-KvUO_1lrNcQ.md) | content-strategy; business | guest interview (Per = context); 6 Chris quotes |
 | 2025-03-11 | ★ [10 Habits I Quit To Go From Broke To Millionaire](2025-03-11-yt-f6YiuU-P-6E.md) | mindset; business | discipline/mindset feed; L3-candidate |
 | 2025-04-08 | ★ [$500 to $100,000 For A Logo (Pricing Deep Dive)](2025-04-08-yt-b0fQyaBSSI0.md) | pricing; business; sales-clients | charge-more evolution + biography; L3-candidate |
@@ -800,4 +804,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_780 videos ingested (L2) so far._
+_784 videos ingested (L2) so far._

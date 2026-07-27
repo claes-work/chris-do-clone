@@ -3160,3 +3160,81 @@ benchmark; (7) the **owner-and-founder-calls-me** disqualification heuristic; (8
 riff, "a multiverse of events," the mini-art-director story, and a third instance of the honest-about-
 gaps pattern ("I don't know enough to even form an opinion"). Carried forward as cautions: the two
 flagged items above, plus the guest-attribution guards on `KfKpmV9uFx4`.
+
+## [2026-07-27] ingest | yt batch (@thefutur, 4 of 8) — P2 Feb 2024; batch deliberately SPLIT
+
+Orient per Stage 0: `SUBJECT.md` unchanged; `ingest_batch.py status` → `@thefutur P1:0 P2:300 P3:44`,
+L2=780/L3=0, synthesis debt **4/10**. Stage machine → **Stage B on P2**. Prepared 8, **8/8 transcripts
+fetched with 0 failures.**
+
+> **⚠️ This batch was deliberately split, and only 4 of the 8 were ingested.** The eight transcripts
+> totalled **511 KB** — roughly double a normal batch and the largest selected so far — and four of
+> them are 70–102 KB long-form teaching sessions. Rather than skim four sources and write pages that
+> imply a closeness of reading I hadn't done, I ingested the **four I read in full** and left the other
+> four **open at L0-discovered** for the next iteration. Their transcripts are already filed in `raw/`,
+> so the next batch will re-select them and cost nothing to fetch. The tradeoff is one short batch now
+> against four thin, unreliable source pages — the ledger and the wiki are the durable artefacts here,
+> so accuracy wins.
+>
+> **Deferred (transcripts already on disk, still L0-discovered):** `yt-guhfsArySxU` (2024-02-12,
+> *3 Steps To Get New Customers*, 102 KB), `yt-Qyb3R0vYgbo` (2024-02-14, *Noah Kagan* interview, 95 KB),
+> `yt-fIZD4KHxcow` (2024-02-19, *Chris Franklin deep dive*, 84 KB), `yt-x6z8-ZAXfHE` (2024-02-22,
+> *Why Most Creatives Fail Online*, 70 KB).
+
+**Ingested (4, all @thefutur, all → L2):**
+- `yt-QH6b8mMEP2g` 2024-02-09 *Business Bootcamp* — ★★ contains the batch's most candid disclosure:
+  **moral ambiguity.** *"I used to be a guy on the white side… and these people are eating my lunch.
+  What am I doing? I'm playing by rules that I imposed upon myself. So how comfortable am I in the
+  moral ambiguity? **Turns out, pretty comfortable. I discovered this pretty late in life.**"* Bounded
+  by one hard rule — *"you can present anything, just don't lie."* Also **spec work as marketing** (the
+  spec car commercial that went on the demo reel unlabelled and produced real car work and awards), the
+  **director's-cut portfolio rule**, **A–F client scoring with continuous firing**, and the Brand Lab
+  pivot compressed to *"two sides of the same coin"* with the correction *"I'm adding, not switching."*
+- `yt-HJ9IW1w2bDc` 2024-02-15 *Passive Income* — ★★ despite the title, a systematic teach on revenue
+  not tied to hours, and **the most numerically transparent source in the corpus about The Futur's own
+  YouTube economics**: CPM ~$28, ~$15K/month AdSense, ~$180K/year, best year ~$360K, plus why finance
+  audiences reach $36 CPM against $2 for gaming. The engine is **buy back your time** — worked through
+  brutally on the coachee's own numbers (~$12.50/hour, *"less than you would make at Starbucks"*) — and
+  the identity shift from solopreneur to agency. Best single passage: the friend cut out of a nine-year
+  partnership who took **100%** of the clients with him. *"Where's the value? In the relationships."*
+- `yt-nNRWt9-XML0` 2024-02-26 *4 Ways To Get Your First 10 Customers* — ★★ a hot seat on a business that
+  fell from **$297K to $151K** after losing a client who was 50% of revenue. Carries Hormozi's **Core
+  Four**, three lead levers (**highlight the problem / give a sample / give a tool**) each with its
+  mechanism, a fully scripted **referral ask** built as a no-question (Phil Jones + Chris Voss), and the
+  idea I'd rate highest in the batch — **Noah Kagan's "what are they trying to avoid?"** — which Chris
+  then applies to his *own* buying: he outsources to avoid overhead, liability insurance and workers'
+  comp.
+- `yt-tgDjT6G5VZo` 2024-02-27 *Brand Strategy For Designers* — ★★ **the clearest account anywhere in
+  the corpus of how he actually learned brand strategy**: jealousy of **Yo Santosa**'s Ferroconcrete
+  work for Pinkberry (*"really just jealous — did we go to the same school, and did you have some secret
+  sauce?"*), her inability to explain her own method, and his reverse-engineering of it; then **Jose
+  Caballer**'s CORE framework and the user-profile epiphany — *"for almost 20 years I didn't understand
+  that we're designing for someone"* — including their documented user-first vs. brand-first
+  disagreement. Plus the **Tango** case study end to end, and the **Ford Aerostar** door falling off
+  outside a French restaurant, which does real teaching work on false brand promises while being a
+  vivid family anecdote.
+
+**Bookkeeping:** 4 `ledger_set.py` updates; 4 rows inserted in date order; footer 780 → **784**;
+`index.md` count and status line updated, with the split noted there too. No `raw/` file modified after
+filing. No persona or topic page touched.
+
+**Pipeline state after this batch:** `@thefutur` P1:0, **P2:296**, P3:44; `@TheFuturAcademy` P3:72;
+shorts 860; L2=**784**, L3=0; synthesis debt **5/10**; persona v14.
+
+> **Next iteration: Stage B (P2), and it will pick up the four deferred rows first** — they are the
+> oldest open P2 items, so the driver's oldest-first selection will re-select them automatically with
+> their transcripts already cached. Checkpoint is 5 batches away.
+
+Synthesis notes: genuinely new this batch — (1) **how he learned brand strategy** — the Yo Santosa
+envy, her inability to articulate her method, and the Jose Caballer CORE/user-profile epiphany with its
+*"almost 20 years"* admission — a missing chapter in the biography; (2) the **moral-ambiguity
+disclosure**, an unusually honest belief entry about consciously leaving a rules-purist position
+because it was costing him, bounded by "just don't lie"; (3) **The Futur's own YouTube economics** with
+real figures, and the **buy-back-your-time** day-rate arithmetic; (4) **"what are they trying to
+avoid?"** (credited to Noah Kagan) plus Chris's application of it to his own outsourcing — a different
+question from the corpus's existing problem/outcome sequence; (5) the **referral script** with its
+gratitude timing and no-question construction — the corpus has referral *fees* but never a referral
+*ask*; (6) the **Ford Aerostar** story; (7) **spec work as marketing** and the **director's-cut
+portfolio rule**; (8) *"where's the value? In the relationships"* with the 100%-client-defection case;
+(9) the **Tango** case study as the best end-to-end brand-strategy walkthrough available. Deferred
+material is not counted here — it will appear in the next batch's notes.

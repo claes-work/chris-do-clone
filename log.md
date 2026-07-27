@@ -4975,3 +4975,109 @@ pass**: check whether the Brian Collins material in the compilation belongs to t
 candidates: **Brendan Kane**. Carried: the two rows deferred today; Part 2 of the Jule Kim listening
 workshop; the Seth Godin guest episode; two earlier Priestley and two earlier Tom Ross episodes; a Jasmine
 Star stub.
+
+## [2026-07-27] ingest | yt batch (@thefutur, 2 of 4 — two deferred) — the full argument, and a caretaker
+
+**Stage B (P2), `--n 4`** (the recalibration held). Both rows deferred from batch 137 resumed at the front
+and were ingested — **no row is deferred twice.** Ledger 872 → **874 L2**. One of the two is a ★★★ landmark
+that took most of the batch.
+
+| id | date | what it is |
+|---|---|---|
+| `yt-JUueoUqV9eQ` | 2024-11-24 | ★★★ **LANDMARK** — Jule Kim, unfiltered; ⏸️ deferred from 137 |
+| `yt-Vu4l1CluzCU` | 2024-12-03 | "Hamlet" — guest-primary; ⏸️ deferred from 137 |
+| `yt-t7exym6wXBY` | 2024-12-05 | ⏸️ **DEFERRED** (57KB) |
+| `yt-29C2qGyYjzc` | 2024-12-11 | ⏸️ **DEFERRED** (79KB) |
+
+**1. ★★★ The "I'm proud of you" argument, in full — this source supersedes the summary.**
+[[2024-10-31-yt-U1anI0b1nvI]] stated the conclusion. This one shows the whole path, and it begins with an
+objection **from inside his own house**: *"my wife's like — **why are you so thrifty with giving him praise
+and saying to him you're proud of him?**"* Then a friend's challenge (*"you mean you're not proud of your
+friends?"* — *"**no. What right do I have to be proud of them?**"*). Then the argument: ★★★ *"**if I say I'm
+proud of you, that means there are times when I'm not proud of you**"*; *"most parents use that phrase **as
+a means to control their children**"*; ★★★ *"**it is violent language, because you're saying: I have power
+over you.**"*
+
+And — the part the earlier telling lacks — **the resolution of the paradox**: ★★★ *"if my children don't get
+good grades, get in trouble with the law… **I'm so proud of you, because I'm proud that you are my child.**
+… **I don't want to be *proud of* them. I *am* proud of them, always.**"* Plus a new, specific detail:
+★★★ his therapist's correction — *"**just don't put any question marks on it.** I used to say *do you know
+Daddy loves you?* She said: **turn that into a statement. Dad loves you.**"*
+
+**2. ★★★ Caretaker, middle child — and a self-portrait that contradicts the public one.** Asked directly, he
+answers without hedging: ★★★ *"**sure do. Middle child.**"* Jule's framing of why that surprises people:
+*"because of your public persona you come off super ruthless — **people have called you the razor blade**."*
+Then the part worth holding carefully: ★★★ *"**the way I do that is I recede into the background. I just
+don't call you back. I don't respond.** It's not like I need to have a big come-to-Jesus conversation."*
+Jule is openly surprised — *"I see you as someone who would just speak your mind"* — and he adds the
+inversion himself: ★★★ *"**I have an easier time telling people that I know, like and trust what I really
+think, versus strangers.** You would think it would be the opposite."*
+
+> ⚠️ **Held, not reconciled.** A month earlier he said *"they did not misunderstand me. I am abrasive. I am
+> opinionated."* Both are his, both dated, and **he flags the gap himself.** The persona must carry the
+> public bluntness **and** the private conflict-avoidance, not one smoothed into the other.
+
+> ⚠️ **A SECOND, DIFFERENT ACCOUNT OF WHY HE SOUGHT THERAPY — flagged, not merged.** On 10-31 the reason
+> was **violent thoughts about his own children**. Here it is a workplace realisation: *"I was **more
+> concerned about employees who disagreed with me — in their mental welfare — than my own**… I would
+> acquiesce, but in a way I can see now was **passive aggressive**… and it would build up a lot of
+> resentment."* These may be two threads of the same therapy or two framings for two audiences. **Both
+> recorded; neither presented as *the* reason.** Resolve only if a third source settles it.
+
+Also new and immediately usable: ★★★ **the genealogy-of-ideas exercise** (credited to Austin Kleon) —
+write down 10 beliefs, trace each to its origin, then ask *"**how reliable is the source? What was it in
+response to? And if somebody had said this to you as an adult, would you still believe it?**"*;
+★★★ *"**if normal is bad, should you do that? I think no**"*; ★★ **choose discomfort over resentment**
+(Brené Brown, credited); and ★★ **inbound and outbound held as equals**, with Neel Dhingra named as the
+outbound exemplar — *"**one is not better than the other**… just the mere thought of that makes me want to
+crawl back in bed."* That last is the corpus's clearest statement that his own method is a **preference,
+not a doctrine**.
+
+> ⚠️ **FAMILY-NAME REDACTION.** He names his oldest son on air. Per the standing `SUBJECT.md` rule the name
+> is **not recorded**; the age (20, turning 21, Nov 2024) is. The page states the redaction openly rather
+> than hiding it — same handling as the wife's name in [[2024-10-24-yt-R_CZQoktnPE]].
+
+**3. ★★★ Chris becomes the research subject on his own show.** In the Hamlet episode he asks for a
+five-whys demonstration and the guest says *"how about I do you?"* — so Chris gets interviewed about his
+headphones. What comes out is about **listening**: ★★★ *"a lot of what I do I believe is about having great
+conversations, and so **I want to listen to every single word. If you let out a sigh, I need to hear it**"*,
+and *"**are you eating right now?** … Because **I can hear you chewing.**"* The corpus is full of Chris
+*instructing* people to listen; this is the first source where **his own purchase decision is justified by
+needing to hear a sigh** — behavioural corroboration rather than another assertion. Same episode:
+★★★ *"once I understood [psychographics] it **radically changed the way I approached design** — because
+**everything before was about what my world was like, what I wanted to do.**"*
+
+> ⚠️ **One factual error flagged and quarantined.** He attributes Apple's *Think Different* copy to *"a Jack
+> Kerouac poem that they just licensed."* It was written for the campaign at TBWA\Chiat\Day. He hedges
+> twice, so it is a tentative misremembering, not an asserted claim — **recorded on the page, marked, and
+> explicitly excluded from promotion.** Fidelity rule 5.
+
+**Deferrals (no silent caps).** Two rows deferred — `t7exym6wXBY` (57KB) and `29C2qGyYjzc` (79KB) — both
+returned to `L0-discovered` at P2 with transcripts cached; neither skimmed. **Calibration:** the constraint
+is not batch size but **landmark density** — three of the last five batches contained a ★★★ source needing
+2,000+ words of careful handling. Batch size stays at **4**; if the next batch is also landmark-heavy the
+right move is a **synthesis checkpoint** rather than more ingest.
+
+**Pipeline state after this batch:** `@thefutur` P1:0, **P2:206**, P3:44; `@TheFuturAcademy` P3:72;
+shorts 860; L2=**874**, L3=0; synthesis debt **5/10**; persona v16.
+
+> **Next iteration: Stage B (P2), `--n 4`.** 206 open P2 rows, led by the two deferred rows.
+
+Synthesis notes: genuinely new — (1) ★★★ **the full "I'm proud of you" argument** — at the next pass this
+should **replace** the summary treatment: it has the objection, the reasoning, the resolution (*proud that
+you are my child*, not *proud of* you) and the therapist's correction; (2) ★★★ **caretaker / middle child**,
+self-identified, plus the birth-order profiling method; (3) ⚠️★★★ **the second therapy account** — record
+both, merge neither; (4) ⚠️★★★ ***"I recede into the background"*** and the friends-vs-strangers inversion,
+held **against** the abrasive self-portrait rather than reconciled; (5) ★★★ **the genealogy-of-ideas
+exercise**; (6) ★★★ **"if normal is bad, should you do that?"**; (7) ★★★ **"if you let out a sigh, I need to
+hear it"** — behavioural evidence for the listening doctrine; (8) ★★★ **psychographics as the turn in his
+design practice** (*"everything before was about what my world was like"*); (9) ★★ **choose discomfort over
+resentment**; (10) ★★ **inbound and outbound as equals**, Dhingra named; (11) ★★ **A players divergent /
+B–C convergent**; (12) ★ *"I did this inner work before I went on social media"* as a dating anchor;
+(13) ★ the **new Accelerator ad copy** with named member outcomes. ⚠️ **Explicitly do NOT promote** the
+*Think Different* / Kerouac claim. Fenced: **Jule Kim** (the coaching-ethics argument, the ICF board, the
+*rent-a-friend* prohibition, her client story, her respect framework), **"Hamlet"** (the funding ladder,
+multivariate testing economics, the five-whys method, the Camino case study, the tooling list). Carried:
+the two rows deferred today; the Seth Godin guest episode; two earlier Priestley and two earlier Tom Ross
+episodes; a Jasmine Star stub; and the two reconciliation tasks from batch 137 (the Brian Collins material
+and the unnamed director episode).

@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-27 (ingest yt batch @thefutur, 2 of 3 → **910 L2** — ✅✅ **the missing cost ledger for bias-toward-action**, admitted by him: *"this is what I do to my wife all the time, and to my entire team… they literally then have to go and clean up the crap afterwards"*; plus **the risk asymmetry in his own marriage**, and a **twelfth** fenced Matt Essam instance)_
+_Last updated: 2026-07-27 (ingest yt batch @thefutur, 1 → **911 L2** — Chris as the *guest* for once: ★★★ **the clearest statement of why he does this work** (*"it hurts me… this is something I want to try to counteract"*), ★★★ **a detailed self-sabotage confession**, and ✅✅ **the *less violent language* half of a Kier McLaren maxim left unfinished four days earlier**)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **910 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-03-27, one row deferred] + the 2026-07-21 fresh upload; synthesized through batch 152 → persona **v18**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **911 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-03-29, no deferrals outstanding] + the 2026-07-21 fresh upload; synthesized through batch 152 → persona **v18**).
 
 ## Topics
 

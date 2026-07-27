@@ -323,6 +323,29 @@ The corpus has carried this story qualitatively for several passes. **This telli
 > Look at all these amazing companies I admire — we're pitching against them.** ★★★ **That self-talk can
 > only last so long before you want to take desperate measures.**"*
 
+### ★★★ Two more maxims, and a half-finished one completed (2025-03-25, 2025-03-29)
+
+- ★★★ **"Say what you think."** *"**Biggest lesson I learned from my business mentor.** We're stressed
+  thinking about how the client will respond, or how our employees will feel… **the best way to release the
+  stress is just to say what you think.**"* ([[../sources/2025-03-25-yt-lXTf0ypur0Q]])
+  > ⚠️ He flagged the other half as unfinished in the same breath: *"the second part is **to learn how to say
+  > it in an objective, non-violent way** — **but that's a story for another day.**"*
+  >
+  > ✅✅ **AND HE SUPPLIED IT FOUR DAYS LATER**: ★★★ *"**we need to use less violent language when we're
+  > describing how we feel about things** — and we do it all the time. **We're judging ourselves, we're
+  > judging others, all the time.**"* Applied live to a man who listed three faults in one breath:
+  > ★★★ *"**please don't talk to yourself like that. It hurts me hearing that — I feel ill for you saying
+  > that.**"* → *"**your words shape your world.**"* ([[../sources/2025-03-29-yt-ozgIEp5d2ks]])
+  > **The two halves belong together; promote them as one.**
+- ★★★ **"Don't be the world's best kept secret."** *"**You're so busy doing the great work that no one knows
+  about — how is anybody ever going to find you?**"* — *"**and my introverted self was freaking out.**"* His
+  prescription: *"do public speaking, go talk to clients, go to dinners — **because your network is your net
+  worth. You've got to get out there, kid.**"* ★★★ Chris: *"I took his advice, and years later **I can't
+  think of a better piece of advice.**"* ✅ **This is the origin of the public-speaking arc already recorded
+  in `persona/biography.md`.** ([[../sources/2025-03-25-yt-lXTf0ypur0Q]])
+- ★★★ **"Seek progress over perfection."** *"Something my business coach used to say to me **all the
+  time**."* ([[../sources/2025-03-29-yt-ozgIEp5d2ks]])
+
 ### ★★★ A second maxim (2025-03-12)
 
 > ★★★ *"**You can tell me WHAT you want, you can tell me HOW to do it — but you can't tell me both.**"*

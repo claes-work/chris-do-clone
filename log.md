@@ -9100,3 +9100,73 @@ missing mechanism under the existing Dip material; merge, don't duplicate. (7) �
 refusal; the parents' later move. (9) ✅ **Non-violent language, fifth attestation** — now including
 correcting a colleague on air, which is a *behaviour*, not just a belief. (10) ⚠️ **Cross-clone**:
 Hormozi appears in a long third-party anecdote and Gary Vee in the "too" list; both fenced.
+
+## [2026-07-28] ingest | yt batch (@thefutur, 2) — "all strategy is autobiographical"
+
+Batch 178. Both prepared rows ingested; the batch-177 deferral was taken first as promised and **no
+deferrals are outstanding.** L2 937 → **939**.
+
+- **2025-07-31 — w/ Klaus Kleinfeld** (⚠️ low harvest, said plainly). Guest-dominated: the ex-Siemens
+  and Alcoa CEO's framework (*inner game / outer game*), his biography, and his health protocols are
+  **his and are fenced**. Chris's material is thin, and the page lists it in full rather than padding
+  it. Two things earn recording: he **self-identifies as Gen X** while **labelling his own framing a
+  stereotype before he uses it** (*"I'm sharing perhaps this stereotype about millennials"*); and
+  ★★★ **the compartmentalisation exchange, kept whole.** He offers a gendered generalisation — *"I
+  find that trait to be more common in men than women"* — **concedes its downside in the same
+  breath** (*"sometimes I think she's really healthy, because she's always expressing what she thinks
+  and feels in the moment — whereas **we tend to go into our cave**… and sometimes it can be very,
+  very toxic"*) — and then **the guest corrects him outright** (*"I think women can compartmentalise
+  actually better than men"*), and **he lets it stand without defending.** The behavioural pattern is
+  worth more to the persona than the claim; the page records the claim, the concession and the
+  correction together, never the first line alone. Wife referenced by role only.
+
+- **2025-08-05 — "You've been creating content ALL Wrong"** (★★★). A short members-only workshop
+  recording, and unusually dense.
+
+  ★★★★ **It opens with a warranty on his own advice**, unprompted and before any teaching: *"**I have
+  survivor bias, and you need to know that.** Because **all strategy is autobiographical.** If I share
+  a strategy with you, it's because it's what has worked for me. **Now, the real problem is if I tell
+  you what works for me and it's not you — that's the real problem.** … **I can't tell you it's going
+  to work for all of you, because many of you don't want what it is that I have.**" This is the
+  clearest epistemic disclaimer he has given anywhere in the corpus and should travel with his
+  strategy material.
+
+  ★★★★ **Chunking, or the rule of five** — a complete named framework, not a maxim: *"**whatever you
+  want to teach, break it down into five things… it's always five. It's never seven, it's not three —
+  always five**"*; **prioritise and mean it** (*"the first thing is the most important thing. **If you
+  don't have contrast in your design, it sucks**"*); **recurse** (*"**then what the hell is contrast?
+  Then you do five of that**"*) until **the terminus** — *"you may have to go three layers in, but
+  it's usually not more than three"*; and the payoff that makes it a content engine: *"**how many ways
+  can you show size in contrast? That's infinite content.**"* Demonstrated live on design, then **on
+  the buildings visible out of the window** (square house + square roof = *"boring as hell"* → shift
+  it; wrap a window around a corner; align the chimney to the edge — *"**you'll see this now, once you
+  know this concept**"*), and then run on a participant's own domain, where he catches the jargon
+  instantly: *"balancing macros — **oh, that's a complicated word.**"* ✅ Same rule he gave a
+  second-language speaker on 2025-05-25.
+
+  ★★★★ **The bubble of broad appeal** — the diagnosis for why good niche content dies: *"you make niche
+  content… **you have to wrap it in a bubble of something that has broad appeal. You have to meet the
+  audience where they're at.** Find something everybody's already talking about **and then you build
+  the bridge to your niche thing.**"* Illustrated with the **Neil deGrasse Tyson** field-goal story
+  told end to end, ending on *"**had he talked about the Earth's rotation at the beginning, no one
+  would even care.**"*
+
+  ★★ Also logged: *"if you want to reach more people, you have to teach more people"*, the distinction
+  between *"real teachers, not internet teachers"*, and a dated business data point — **1,000+ YouTube
+  members** and a **members-only library**.
+
+**Synthesis notes:** (1) ★★★★ ***"All strategy is autobiographical"* is the highest-value item in this
+batch** and is unusual in kind: it is a **standing caveat he places on his own teaching**. It belongs
+in `persona/beliefs` **and** as a system-prompt guard — when giving strategy advice, the persona should
+be willing to say it worked for him and may not transfer. (2) ★★★★ **Chunking / the rule of five**
+belongs in `topics/content-strategy` **and** `topics/design-craft` as a procedure, with the stopping
+rule and the *infinite content* payoff intact — the payoff is what distinguishes it from generic
+"break it down" advice. (3) ★★★★ **The bubble of broad appeal** is the missing complement to
+*copy the beginning, not the ending* and to the VidCon *don't chase new* material: it explains
+**distribution** where those explain **positioning**. Promote with the Tyson story attached; the story
+is the argument. (4) ★★ **The architecture demonstration** is a good example of his teaching move of
+making an invisible pattern visible and then telling you that you'll now see it everywhere.
+(5) ⚠️ From the Kleinfeld episode, promote **only** the behavioural observation — that he hedges his own
+stereotypes and does not defend a corrected generalisation — **not** the generalisation itself.
+(6) ★★ The **1,000+ members** figure joins the June-2025 pricing and cadence disclosures on
+`entities/the-futur`.

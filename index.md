@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-28 (ingest yt batch @thefutur, 2 → **937 L2** — ★★★ **LANDMARK: the VidCon keynote**, the most complete statement of the personal-branding argument in the corpus and the citable version from here on — *"attention IS the economy"*, **don't chase new / don't chase better**, *"branding is the act of remembering"*, the inversion exercise, and the "too much" list)_
+_Last updated: 2026-07-28 (ingest yt batch @thefutur, 2 → **939 L2** — ★★★★ *"I have survivor bias… **all strategy is autobiographical**"*, an unprompted warranty on his own advice; plus **chunking / the rule of five** and **the bubble of broad appeal** with the Neil deGrasse Tyson story)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **937 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-07-29; one row deferred once — a 52 KB guest episode, queued first for next batch] + the 2026-07-21 fresh upload; synthesized through batch 173 → persona **v20**; ⚠️ pass 18b pending).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **939 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-08-05, no deferrals outstanding] + the 2026-07-21 fresh upload; synthesized through batch 173 → persona **v20**; ⚠️ pass 18b pending).
 
 ## Topics
 

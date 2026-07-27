@@ -5711,3 +5711,76 @@ which ✅ pairs with *"talk to a five-year-old"* from 01-16; (12) ★★ **art f
 **with** his own correlation-not-causal caveat; (13) ★ **afraid of heights**, **home gym**. ⚠️ **Do not
 promote the Skid Row phrasing.** Fenced: **Jodie Cook** (her six-step system, the Forbes path, the
 waiting-list validation rule, agency-care-applied-to-SaaS).
+
+## [2026-07-27] ingest | yt batch (@thefutur, 2 of 3 — one deferred) — the false yes, and a market signal
+
+**Stage B (P2), `--n 3`.** The row deferred from batch 144 resumed at the front and was ingested — **no row
+deferred twice**, now six batches running. Ledger 884 → **886 L2**.
+
+| id | date | what it is |
+|---|---|---|
+| `yt-R2OJpyCb_pU` | 2025-01-21 | Finn McKenty — guest-primary, ⏸️ deferred from 144, now done |
+| `yt-GnEPJ87pIHI` | 2025-01-30 | ★★ Chris solo — **client retention**, compact |
+| `yt-6TPa4lWo5C4` | 2025-01-28 | ⏸️ **DEFERRED** (43KB) |
+
+**1. ★★ A gap in the corpus closed: this is the first dedicated source on *keeping* clients.** The
+sales-clients hub is otherwise entirely about **winning** work. Five failure modes, three of them new
+framings:
+
+- ★★★ **The false yes** — the sharpest idea, and it names a class of late-stage blowup the hub had no
+  vocabulary for: *"you'll default to language that you understand. It'll make you feel really smart… and
+  **you intimidate the client to the point where they just *go along with it* versus *agreeing to it* —
+  which is a very different thing. You get a false yes.**"* The bill arrives at presentation: *"**oh, that's
+  not what I was expecting when you said you're going to do X.**"*
+- ★★★ **"Is it a better idea?" replaces "is it difficult?"** — *"sometimes really good clients ask you to do
+  something really difficult, and **I don't try to measure if it's difficult. I always ask myself: is that a
+  better idea? If it's a better idea, I do it — and I'm grateful for it.**"*
+- ★★★ **"You're selling not what you do — you're selling peace of mind"**, with the evidence being a visible
+  process: *"**only people who have done things many times have a system in place.**"*
+
+Plus two smaller ones worth keeping: **responsiveness as a filter he applies when hiring**, with a holding
+reply (*"received. We are processing."*); and the reason to keep a check-in cadence — *"**sometimes the team
+you put in place will not tell you they're having challenges with a client until it's too late** — until the
+client says *your team isn't getting it.* **And now that bridge is broken.**"*
+
+> ✅ **Promote as one idea with two tellings.** [[2024-10-24-yt-R_CZQoktnPE]] argues clients defect *"because
+> you failed in keeping the relationship"*; **this is the operational version of that claim.**
+
+**2. ★★★ And the Finn McKenty episode — low Chris density, but one item that matters a lot.** Most of it is
+the guest's story, and the page says so rather than inflating it. The keeper is a **dated market signal
+about The Futur's own category**:
+
+> ★★★ *"**Across the board, friends that run educational companies — our sales are down.** … **Pat Flynn
+> released his video *Information Products Are Dead*** and started to chart how his sales have died and what
+> he's doing to pivot. And I talked to my buddy **Daniel Priestley** — Priestley is like: *yeah,
+> **information's almost at the price of zero now**, or that's the perception.* **And so maybe it's the
+> large language models.**"*
+
+**This is the context the corpus was missing.** It already records the **courses → subscription pivot**, the
+**memberships launch** (*"I never have to launch another course"*), and the **three conversion admissions**
+of Oct–Nov 2024 — but not the market those decisions were made in. He names two peers who corroborate, and
+offers a cause as a **hypothesis** (*"maybe it's…"*) rather than a conclusion. **Promote it beside the pivot
+material, not separately.**
+
+**Deferral (no silent caps):** `6TPa4lWo5C4` (43KB) returned to `L0-discovered` at P2, transcript cached,
+not skimmed.
+
+**Pipeline state:** `@thefutur` P1:0, **P2:191**, P3:44; `@TheFuturAcademy` P3:72; shorts 860; L2=**886**,
+L3=0; synthesis debt **3/10**; persona v17.
+
+> **Next iteration: Stage B (P2), `--n 3`**, led by the deferred 2025-01-28 row.
+
+Synthesis notes: genuinely new — (1) ★★★ **the false yes** (*going along with it* vs *agreeing to it*) — a
+new named failure mode for `sales-clients`; (2) ★★★ ***"is that a better idea?"*** as the decision rule on
+client input, replacing difficulty; (3) ★★★ **"you're selling peace of mind"** + *only people who've done it
+many times have a system*; (4) ★★★ **responsiveness as a hiring filter**, with the holding-reply script;
+(5) ★★ **the non-verbal leak** (side-eye, eye-roll → *"they feel punished for trying to contribute"*) and
+*"no one wants to feel like they're just money"*; (6) ★★ **the decaying check-in cadence** and the
+**team-won't-escalate** warning, which belongs with the delegation material; (7) ★★★ **the January-2025
+market signal** — *"our sales are down"*, Pat Flynn's *Information Products Are Dead*, Priestley's
+*"information's almost at the price of zero"*, LLMs as hypothesis — **for `entities/the-futur`, beside the
+pivot and memberships**; (8) ★★ **"let me restate the question"** and the **reverse-engineer-it-live** moves
+for `persona/voice.md`. ✅ **Promote (1)–(6) alongside** the 2024-10-24 *"you failed in keeping the
+relationship"* material — one idea, two tellings. Fenced: **Finn McKenty** (the visibility argument he
+credits onward, his persuasion sequence, the career switch, the P&G lesson, the attribution problem that
+pushed him to YouTube). New entity candidates: **Finn McKenty**, **Pat Flynn**.

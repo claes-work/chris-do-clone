@@ -4250,3 +4250,98 @@ energy/frequency guard), **Joel Pilger** (pitching methodology). **New debt**: c
 promised clickbait follow-up. Carried: the five-way Brand Lab reconciliation; the subscription-vs-scarcity
 reconciliation; earlier Priestley/Tom Ross episodes; **Mo**, **Anneli**, **Amy** as entity candidates;
 **keep checking every batch for re-uploads.**
+
+## [2026-07-27] ingest | yt batch (@thefutur, 5) — "I was a jerk", the European tour, and a pair completed
+
+**Stage B (P2), batch of 5.** All five fetched cleanly (100KB — an unusually light batch) and **all read
+in full**. Ledger 841 → **846 L2**.
+
+| id | date | what it is |
+|---|---|---|
+| `yt-zAP6FfTGHXA` | 2024-08-11 | whoever-fails-the-most-wins (Godin, credited) |
+| `yt-i10g2BVfWVI` | 2024-08-13 | ★★ **authenticity — and the most humanising page in the corpus** |
+| `yt-rDtHxDFdrPw` | 2024-08-15 | Neumeier's *Designful Company* frame; refinement ≠ innovation |
+| `yt-ufQErCvUQnc` | 2024-08-20 | ★★ **the European tour, documented** |
+| `yt-zr2tbUwqKnY` | 2024-08-22 | Big Domino theory — guest-primary |
+
+**1. ★★ `yt-i10g2BVfWVI` is the most personally revealing source I have ingested**, and it is also the
+**promised clickbait follow-up** — he opens by saying so, which **clears that debt item and completes the
+pair**.
+
+His definition of authenticity is a measurement rather than a virtue: *"**the difference between who you
+are when no one's watching and how you show up — that gap is how inauthentic you are.** That's my belief.
+**I'm guilty of this myself. Everyone is.**"*
+
+Then he tells the **Toronto incident** against himself in full: exhausted after a talk, an over-long
+approach from a self-described fan, a question he'd answered a thousand times, and his own patience
+failing. Afterwards he saw a video titled *"be careful of your heroes… Chris is a jerk"* — and his
+response is the reason this page matters: ★★ *"**I was a jerk. I was a jerk — and I chose to be a jerk in
+that moment.** … **I needed to grow in patience in that moment, but I didn't.**"* No hedge, no
+reframe.
+
+And it is the **primary source for "go to therapy"** — previously attested only second-hand (a guest
+quoting it back at him in March). Here he gives the whole case: his therapist **Joan Lightfoot**, the
+**caretaker / middle-child** diagnosis he initially rejected, the adult expression (conflict-aversion →
+staff who booked things he'd refused → resentment → *"eventually I help the person find another job
+outside of our company — and this happens over and over"*), and the deliberately small corrective of
+sending back over-salted food *"with kindness."* Plus: *"**how you do one thing is how you do
+everything**"*, *"is this truly who I am, **or am I repeating the sins of the past?**"*, and *"I'm 52…
+**way closer to death than I am to life.**"*
+
+> ⚠️ Filed **sensitive**. It is self-disclosed, deliberate, and told in service — which is exactly the
+> condition his own personal-story rule sets. **The rule governs how the persona may use it**, and the
+> page says so. Note also that the management pattern he discloses (people exploiting his conflict
+> aversion, and him engineering their exit rather than confronting them) is **unflattering and
+> self-reported** — record it as such rather than smoothing it.
+
+**2. ★★ `yt-ufQErCvUQnc` finally documents the European tour**, which the corpus has referenced for months
+without detail. Sparked by **Anneli Hansen** (surname now on record) asking him to come to Stockholm, it
+was **polled into existence** rather than booked — *"until they speak up, it's all speculative… you book
+the venue, make the travel arrangements, and then no one shows up. **It's a blood bath.**"* The principle
+he draws is the keeper: ★★ *"**we're going to design and plan the event *with* people, not *for* them.**"*
+
+The operational detail is unusually candid: they **got it wrong two or three cities in** (*"we're not
+reading the pulse of the city"*), Bucharest and Warsaw needed different framing, and they now use
+**ChatGPT for cultural pre-research** — *"at least I was going into the battlefield prepared."* Venues came
+from co-working spaces (*"they've got space and no humans"*) via local intermediaries — including **Joanna
+Galvao** buying all eight sold tickets to force a move **from Lisbon to Porto**.
+
+And the story he chooses to end on is the best answer in the corpus to "what if nobody comes": a **2016
+workshop with two paying attendees**, run anyway — *"and you know how the rest of the story goes with
+**Rodrigo**. He's been to my house, we've travelled the world together."*
+
+**3. A useful tension, recorded rather than resolved.** The Big Domino guests argue that taking small steps
+*"gives you an excuse to procrastinate"* on the big, important thing. Chris generally argues the opposite —
+**chunk down** so the commitment is achievable. ★ Both are true under different conditions (chunking helps
+a *buyer* commit; it hurts an *operator* avoiding a big bet), and I've filed it as a **tension for the
+mindset hub** rather than letting either side win. It's a better outcome than the page would otherwise
+have earned.
+
+**Pipeline state after this batch:** `@thefutur` P1:0, **P2:234**, P3:44; `@TheFuturAcademy` P3:72;
+shorts 860; L2=**846**, L3=0; synthesis debt **7/10**; persona v15.
+
+> **Next iteration: Stage B (P2).** 234 open P2 rows. **Checkpoint ~3 batches out** — and the queue for it
+> is getting heavy again.
+
+Synthesis notes: genuinely new this batch — (1) ★★ **authenticity as the observable gap** between
+unobserved self and presented self; (2) ★★ **the Toronto "I was a jerk" incident**, unhedged — the single
+most humanising item in the corpus, and it must not be sanded down; (3) ★★ **"go to therapy"** with the
+full case (Joan Lightfoot; caretaker/middle-child; conflict-aversion → resentment → exits; the restaurant
+practice) — and **this page supersedes the second-hand attestation** in
+[[2024-03-21-yt-GQP3fym57aQ]]; (4) ★★ **"how you do one thing is how you do everything"** and **awareness
+converts reflex into choice**; (5) ★ **"I'm 52… way closer to death than I am to life"**; (6) ★★
+**undersell the event**, with the buyer-side justification that makes it persuasive rather than
+manipulative; (7) ★★ **design *with* people, not *for* them**, and polling as **pre-commitment**; (8) ★★
+**the European tour** as an operational record for [[wiki/entities/the-futur]], incl. **localise or
+fail**, **AI as cultural pre-research**, and the space-partnership model; (9) ★★ the **2016 two-person
+workshop** and the Rodrigo origin for `persona/biography.md`; (10) ★★ **ten small gambles, not one large
+one**, and *"am I designing my company to fail in small iterative ways?"* — with *"whoever fails the most
+wins"* credited to **Seth Godin**; (11) ★★ **operational excellence is table stakes; refinement ≠
+innovation**, with the barriers-are-gone argument (frame credited to **Marty Neumeier**, *The Designful
+Company*); (12) ★ the **Honda andon cord** and **Herbert Simon's** definition of design; (13) ★ **the
+chunking tension** (commitment device vs. procrastination licence) — record as a tension.
+**Debt cleared:** the promised **clickbait follow-up** is found and paired. **New ledger actions:** locate
+the **Seth Godin guest episode** referenced on 08-11; **`anneli-hansen.md`** is now justified (three
+attestations + surname). Carried: the five-way Brand Lab reconciliation; the subscription-vs-scarcity
+reconciliation; **`jule-kim.md`** (4 appearances); Part 2 of the Jule Kim listening workshop; earlier
+Priestley/Tom Ross episodes; **keep checking every batch for re-uploads.**

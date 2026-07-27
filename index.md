@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-28 (ingest yt batch @thefutur, 1 → **946 L2** — the 131 KB LinkedIn masterclass, longest of the run: *"writing is thinking made visual"*, his definition of bad work, **the heuristics argument** that supplies the mechanism under social-as-résumé, and a live offer-design correction)_
+_Last updated: 2026-07-28 (ingest yt batch @thefutur, 2 → **948 L2** — ★★★ **the three ingredients of magnetism** and **the 9-1-1 formula** from a long interview where Chris is the subject; plus the sequence lesson (*"can you drive me to the airport?"*) and ⚠️ **a flagged contradiction** about whether he studies the algorithm)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **946 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-09-11, no deferrals outstanding] + the 2026-07-21 fresh upload; synthesized through batch 173 → persona **v20**; ⚠️ pass 18b pending).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **948 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-09-20; one row deferred once — the FIRST Essam episode with Chris present, queued first for next batch] + the 2026-07-21 fresh upload; synthesized through batch 173 → persona **v20**; ⚠️ pass 18b pending).
 
 ## Topics
 

@@ -6340,3 +6340,116 @@ mind** (Tony Robbins on consistency); (13) ★★★ **money is a vote**, **the 
 philosophy**, **a portfolio is only as good as the person looking at it**; (14) ★★★ **attachment to identity
 is the real obstacle** — *"no, I like my misery"*; (15) ★★★ the mission **with the *without losing their
 soul* clause restored**, which he corrects the host about live.
+
+## [2026-07-27] ingest | yt batch (@thefutur, 2 of 3 — one deferred) — he explains his own abrasiveness
+
+**Stage B (P2), `--n 3`.** Both rows deferred from batch 151 taken first and ingested; one fresh row
+deferred. Ledger 896 → **898 L2**.
+
+| id | date | what it is |
+|---|---|---|
+| `yt-HtkujhkfHOM` | 2025-02-26 | ★★★ **LANDMARK** — Melanie Whitney guest episode; ⏸️ from 151 |
+| `yt-t1UUjOU5-4c` | 2025-03-01 | ⛔ **DO-NOT-TRAIN** — 11th Matt Essam instance; ⏸️ from 151 |
+| `yt-2dY6MsSedKg` | 2025-03-04 | ⏸️ **DEFERRED** (AdobeMAX Miami) |
+
+**1. ✅✅ He explains why people find him abrasive — and it reconciles the corpus's oldest open tension.**
+Asked what work he's been doing to soften, **he rejects the premise** (*"I don't think much has changed"*)
+and offers a different account:
+
+> ★★★ *"Initially… **it's like a shock — cold water, or electricity.** Who is this Asian man who's **super
+> direct, brusque… really thrifty with my words**, just trying to find the problem really quickly? And
+> **people will take it as arrogant, as aggressive, as violent communication — until they get past the first
+> couple of layers.** Once they get beyond that: **oh, there's a warm, compassionate human being there.**"*
+> — and the diagnosis: *"**it's your familiarity with me that has changed how you remember it.**"*
+
+The corpus has been holding *"I am abrasive"* against *"I recede into the background"* as unmerged
+self-descriptions. **This is his own reconciliation**, and it flattens neither: the abrasiveness is real
+and deliberate, it is what strangers meet first, warmth is what survives familiarity. The mechanism is
+stated even more plainly later — ★★★ *"**I'm kind of like a robot — deliberately**"* — and it is a **context
+rule, not a mask**: *"in the context of teaching… **where do I bring that out? It doesn't fit**"*, against
+*"**if you're out on a fishing trip with me in a boat, it's going to get fun.**"* **Promote his explanation;
+keep the underlying quotes.**
+
+> ★★★ **And the one change he DOES admit**, new and dated: *"**the last two years I've spent a good deal of
+> money to hire teaching consultants to teach me how to be a better teacher**"* — with the limit: *"**it
+> hasn't changed my care for somebody, or the sharpness of the blade.**"*
+
+**2. ★★★ The therapy account, third telling — the fullest, and now dated.** *"I saw my therapist — a family
+therapist — for **a total of 10 sessions in the span of less than a year**… **I ran out of things to talk to
+her about, which is one of my big regrets in life.**" ✅ **10 matches `persona/biography.md`**; ⚠️ three days
+earlier he said **11** — two-to-one, all hedged, **recorded as "about ten", not hardened.** ★★★ **A date,
+new to the corpus: *"probably 2007, 2006"*** — ⚠️ though he contradicts himself minutes later (*"14 years
+ago… no, maybe 17"*), so the estimate is recorded with the inconsistency attached. **The reason is stated
+more plainly than anywhere else**: *"**I felt like I was failing my relationship with my children and I
+wanted to be a better father.**"
+
+> ⚠️ **This weights one branch of the two-reasons tension; it does not close it.** The employees account is
+> neither repeated nor contradicted here. **Both still stand.**
+
+★★★ **New — Kier McLaren's gate on therapy**: *"**if you're not willing to be honest, don't go. Just save
+your money.**" And the challenge Chris issues off it — *"people are in therapy for years, if not decades —
+**are you making progress? The kind that you want?**"* — **with the qualification he supplies himself**:
+*"if it took 18 years to develop this fear, hopefully it doesn't take 18 years to undo it. **But it will
+take time. Not 18 minutes.**"
+
+**3. ✅ A THIRD independent corroboration of the 2014 hinge**: *"**Kier McLaren and I stopped working
+together right around the time of The Futur — so that's 2014.**" Alongside the Draplin turning point and
+*"why did it take me until 42"* from three days earlier. ⚠️ A 13-year relationship ending in 2014 implies a
+start around 2001 — **recorded as implication, not asserted.**
+
+**4. ★★★ The most personal passage in months.** His wife asked to see him angry — *"I want to see that
+**behind the robot** there's a human in there that cares"* — and his answer: *"**I will let the dragon out.
+And I'm totally in control of the dragon**"*, closing with ★★★ *"**I care a lot. I just choose not to
+express it in negative ways.**" And on his childhood, the clearest statement in the corpus: *"**it was pretty
+rough** — stories of abandonment, people forgetting about me, just feeling lost and alone"* — which his sons
+request as entertainment (*"**they're eating popcorn in my misery**"*), and which he closes with the most
+generous line he has offered about his upbringing: ★★★ *"**Grandma did the best that she could with the
+information she had. She just didn't know.**"
+
+**Also:** ★★★ **the dark-thought triage at full length** (*"amplify it to its nth degree… **what is the
+bottom of this pit? I want to go there NOW** … **I know how this ends — why don't I just make the decision
+now?**"*) — **promote this version over the earlier partial ones**; ★★★ *"**show up for people before they
+show up for you**"* plus the archive rebuttal (*"**I have video proof that I have. The story's been there —
+it's just no one wants to know it**"*); ★★★ the Futur thesis as **zone of genius → *"less violence, in every
+definition of that word"***; ★★★ **radical accountability** and the fog that excuses inaction; ★★★ **the
+gossip boundary** — the single exception to *ask me anything*; ★★★ *"**a business problem is a business
+problem. I don't care if you bake cakes or you walk dogs.**"
+
+> ⚠️ **The guest half is fenced.** **Melanie Whitney** is the subject-matter expert here — **PEACE**, **core
+> wounds**, **judgment vs. discernment** and her personal history are **hers, context only, not persona
+> data**, and her personal disclosures are recorded minimally and respectfully. She is also a **Pro Group
+> member who was on the fishing trip**, so the framing is friendly by construction — noted for the same
+> reason other community-adjacent contributors are. **She now warrants an entity page — flagged for the
+> synthesis pass, not created inline.**
+
+**5. ⛔ Eleventh Matt Essam instance — zero Chris Do content.** Ingested to L2 **for ledger completeness and
+the fence only**; the page's whole job is to make sure nobody later mistakes *"the prospect pathway"*, *"the
+irresistible offer"* or *"cost of inaction"* for Chris's vocabulary. Ziglar, Priestley and Hormozi are
+**Essam's** credits. SUBJECT.md fence count **10 → 11**; entity instance table extended. ✅ Restated on the
+page: **the arrangement is disclosed — do not describe it as covert** — and **the fence does not run
+backwards** where Chris is demonstrably first.
+
+**Deferral (no silent caps):** one row — `2dY6MsSedKg` (AdobeMAX Miami) — returned to `L0-discovered` at
+P2, transcript cached, not skimmed.
+
+**Pipeline state:** `@thefutur` P1:0, **P2:179**, P3:44; `@TheFuturAcademy` P3:72; shorts 860; L2=**898**,
+L3=0; synthesis debt **10/10 — CHECKPOINT DUE**; persona v17.
+
+> **Next iteration: Stage S — synthesis pass 16.**
+
+Synthesis notes: genuinely new — (1) ✅✅ ★★★ **his own explanation of why he reads as abrasive**, which
+**reconciles the abrasive-vs-receding tension** without flattening it, plus ★★★ ***"I'm kind of like a robot
+— deliberately"*** and the **context rule**; (2) ★★★ **the therapy account**: ✅ 10 sessions, ★★★ **dated
+2006–2007**, the children reason at length, ★★★ **Kier's honesty gate**, and *"one of my big regrets"* —
+⚠️ **the two-reasons tension stays open**; (3) ✅ ★★★ **coach-free since 2014**, the **third** corroboration
+of the hinge; (4) ★★★ **the dark-thought triage, fullest version** — supersede the partial ones;
+(5) ★★★ **the dragon** and *"I care a lot, I just choose not to express it in negative ways"*;
+(6) ★★★ **his childhood as "pretty rough"** and ***"Grandma did the best she could"*** →
+`persona/biography.md`; (7) ★★★ **seek out the highest authority within your grasp and pay them** — the
+operational form of *forever student*; (8) ★★★ **show up for people before they show up for you** and **the
+archive argument**; (9) ★★★ **zone of genius → less violence, in every definition of that word**;
+(10) ★★★ **radical accountability**; (11) ★★★ **the gossip boundary**; (12) ★★★ **a business problem is a
+business problem** — pattern recognition as why he can answer cold; (13) ★★ **teaching consultants, last
+two years** — dated. ⚠️ Required: **fence Melanie Whitney's frameworks and personal history out of
+beliefs.md/voice.md**, **create her entity page**, and **correct the caption's "$225,000 a semester" to
+~$25,000** using his own *"a seventh of the cost"* arithmetic.

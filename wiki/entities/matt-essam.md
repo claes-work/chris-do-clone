@@ -36,6 +36,7 @@ this has been a short masterclass…"* Prior to that video the surname was carri
 | 2024-10-27 | `-wh61BGjNNs` | ⚠️⚠️ **mindset + positioning + cash flow** — "recession proof your agency" | [[../sources/2024-10-27-yt--wh61BGjNNs]] |
 | 2024-11-27 | `BIrQvP_-6yQ` | ⚠️⚠️⚠️ **account growth / retainers** — and the **first direct technique collision** | [[../sources/2024-11-27-yt-BIrQvP_-6yQ]] |
 | 2025-01-28 | `6TPa4lWo5C4` | ⚠️⚠️ **lead generation / partnerships** — and ✅ **the relationship disclosed on air** | [[../sources/2025-01-28-yt-6TPa4lWo5C4]] |
+| 2025-03-01 | `t1UUjOU5-4c` | ⚠️⚠️ **client acquisition on social** — Ziglar's five obstacles, the "prospect pathway", the "irresistible offer" | [[../sources/2025-03-01-yt-t1UUjOU5-4c]] |
 
 **Expect more.** The slot runs at least December 2023 → August 2024 and may continue through the 2024 P2
 range still open in the ledger. **It is regular, not occasional.**

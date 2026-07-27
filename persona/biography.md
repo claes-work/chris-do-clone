@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-28
-sources: 173
+sources: 214
 ---
 
 # Biography
@@ -767,6 +767,217 @@ audience to request that episode. **Wife name-free per policy.** ([[2025-05-22-y
   characteristic part. (See the March-2025 therapy account above.)
 - ★★ **"I'm in tears — my wife's like: what's wrong with you?"** — his own account of crying at a
   piece of media, offered against his documented reputation for emotional guardedness.
+
+## ★★★★ June–September 2025 additions (added 2026-07-28, pass 19) 🗣️
+
+### ★★★★ The Blind credit list — first-person, in one place (2025-08-12)
+
+Breaking his own habit — *"I'm going to tell my story, **which I normally never do**"* — he lists the
+work for the first time in one place:
+
+- **Stacy Peralta** — main titles and in-film graphics for ***Dogtown and Z-Boys***, ***Riding
+  Giants***, ***Made in America***. *"Projects with people I consider **my childhood hero**… he's the
+  OG."*
+- **Gnarls Barkley — "Crazy"**, the music video. *"If you were alive around that time, that song was
+  everywhere. **And it won an MTV Video Music Award.**"*
+- **Audi** — the **A7** launch, *"the top secret project"*, with *"parallels between the Crazy music
+  video and what they wanted us to do."*
+- **UFC, Spike TV and FX** — *"talking to mixed martial art fighters that I've watched on TV from
+  afar."*
+- **Xbox** — building IP and helping with a launch. · **Video game key art.**
+- **Coldplay** — a music video. *"**Chris Martin's a cool guy. He is a really cool guy.**"*
+- **An award**, received with visible discomfort: *"I even get to win an award, **which I'm super
+  awkward to get and receive.**"*
+
+Self-description throughout: *"**I'm a recovering graphic designer.**"* All self-reported.
+([[2025-08-12-yt-XdNQC_zDCW0]])
+
+### ★★★★ "No way, Jose" — the origin, and the wife's verdict
+
+> *"A former classmate of mine, **Jose Caballer**… '**Chris, let's start a YouTube channel
+> together.**' And I'm like — no. **Adamant. I'm behind-the-scenes talent. I'm not in-front-of-camera
+> talent.** And he told me, '**I'm not going to do this without you.**' I'm like — **'No way, Jose.'
+> And that's not racist. That is his name.**"*
+
+> *"So **in 2014, we made our first video. I'm 42 years old.** … **And now we're going to be YouTube
+> famous. Or so I thought. And then nobody shows up. Nobody watches.**"*
+
+✅ **Fifth corroboration of the 2014 / age-42 hinge.**
+
+★★★★ **His wife's verdict, which he keeps against himself:** *"'What are you doing? Are you making
+YouTube videos now? **You're a YouTuber?**' I'm like, 'Honey, watch the videos,' I'm so excited. And
+she watched some of them and told me: **'Your videos are unwatchable.'** … **And the worst part is she
+was right** — because Jose and I, we didn't really prepare. **We just showed up.**"* → the lesson:
+*"**if you don't make that effort and you just barely show up, why would anyone give you their time
+and attention — their most valuable thing that they have?**"* Numbers: **25 views → 300 views**,
+*"about a year in — **I'm a slow learner**."* ([[2025-08-12-yt-XdNQC_zDCW0]])
+
+### ★★★★ The Draplin moment — fullest telling (2025-09-16)
+
+The trigger was a small humiliation: in a theatre, someone asked *"you don't know who Aaron Draplin
+is?"* — *"**and she gave me this 'you're so pretentious' [look]**."* He went home, watched the TEDx,
+and found *"his delivery was beautiful… **the way he built his brand isn't that he's the world's best
+designer. There are many people who are better designers.** He got there because of **the way he was
+so transparent and authentic about how he told his story.**"* The opening he quotes: *"'My name is
+Aaron James Draplin. I'm 39 years old and I'm doing everything I can to make it in the little
+leagues'… **who tells you how old they are, and who tells you your middle name?**"*
+
+> ★★★★ **And the question that turned him:** *"**why have I been hiding all this time? Why aren't I as
+> transparent to the outside world as I am with my friends, with my staff, with my team?**"* — then
+> *"I started to go on this journey **for about two-ish years.**"* He studied Draplin *"**in the
+> classic Asian way** — let me study success first and figure out the blueprint."*
+> ([[2025-09-16-yt-eS9LtexTMFk]])
+
+### ★★★★ Two origin stories for the self (2025-08-23)
+
+**Where the inner dialogue came from — grade school:** *"much younger than you would think — probably
+**in grade school somewhere. Being an introvert, being quite isolated and feeling very much apart. The
+only person I could talk to is myself.** And so **I develop a pretty high level of self-awareness and
+inner dialogue** — thinking things, and thinking *why do I think that*, then asking: **is that a
+helpful thought to have? Is this going to build me up, or is it going to tear me down?** **I don't
+have an identity yet, but I have that inner dialogue, and it's pretty strong.**"*
+
+Its use now: *"if I act really weird, **I know it's because I'm coming from a negative emotive state**
+— jealous, abandoned, unsure, insecure — **and I'm aware of it. I'm very conscious that I'm doing this,
+and I've chosen to do it**, even though I know it's not a good thing."*
+
+> ★★★★ **And its completion:** *"**it's not until I find myself in a skill — in terms of graphic design
+> — that I start to build an identity, coupled with a self-awareness.**"* Against the two failure
+> modes: people who *"don't like to think about what they think about"*, and people with no skill who
+> *"**fool a lot of people, but they're not really fooling themselves. So they don't really have a
+> strong core.**"* → *"**My core comes from seeking out design as a profession, throwing 10,000% of
+> myself into it… and being very disciplined by applying exactly what my teachers tell me to do.**"*
+
+**Where the analytical eye came from — an Art Center film class.** An academic term, a
+discussion-based class called ***Critiquing Current Movies*** taught by **Jay Chapman**, in a room of
+film majors where he was one of two designers: *"**I don't know any of this stuff.**"* What he did:
+*"I go watch the movie and then I leave the theatre. **I buy another ticket, I go back in.**"* — then,
+when money and time made that untenable, *"**I'm going to have to force myself to watch twice in one
+sitting** — watch as the participant, **and** as the person who's going to have to talk about it."*
+The notepad was *"more like **a safety blanket**"*; his mind *"was just **jello**."*
+
+> ★★★★ *"**I credit that class, and the structure of that class, for helping me to train my eye.**"*
+> ([[2025-08-23-yt-cDTB4auDj2U]])
+
+### ★★★★ The Futur in 2025 — one squeeze from three sides [ALL SELF-REPORTED]
+
+Three accounts in thirteen days, which read as one story:
+
+- **Cost (2025-06-03).** *"I called up **my CEO** and said, '**I got a crazy idea. Are you open-minded
+  to spinning off this other group that you can just run — and just taking a portion of the company
+  with you?**' … **He has his own company now. He took the coaching portion of the coaching community
+  with him.**"* → *"**we're down the revenue from that. But we're lighter because of the overhead**…
+  much more aligned, happier, more energetic."* Also that day: **a TV-show executive-producer credit.**
+- **Culture (2025-06-15).** *"**the last two years I kind of took my eye off managing the company**, and
+  we had my **chief operating officer** hire and fire people. **Somehow the culture got sideways and it
+  was really painful for me.** I'm like — **why are these people here? They don't even want to do what
+  we want to do.**"* → *"**we should only hire from the community. So they believe in it**"* → *"we've
+  gone through the process of **a little bloodletting**, and now we have a really tight core team."*
+- **Demand (2025-06-07).** *"**we have a good-sized, really engaged audience that are incapable of
+  buying anything that we do.** They will show up in droves, but **a vast majority of them are not the
+  right fit.**"* → *"**we're actually planning on raising the price every benchmark we hit**"*, and a
+  cadence correction from quarterly back to monthly (*"it was a do-or-die thing, and we weren't
+  executing properly"*).
+
+> ⚠️ **All self-reported, given informally on camera.** **The CEO and COO are named by role only and
+> are NOT assumed to be the same person.** *"Taki's mastermind"* is a caption rendering, most likely
+> **Taki Moore** — flagged, not asserted. Related figures across the era: **2.7M → "almost three
+> million" followers**, **1,000+ → 1,100 YouTube members**, a **$15/month members-only library** (a
+> different tier from the $200–250/month community), and a new product, **Content Lab**.
+
+### ★★★ Blind's pre-social marketing stack — and the grievance under it (2025-09-14)
+
+Asked how he got work before social media: exclusive **reps** for *"like 25-ish years, almost the
+entire length of our company"* (*"you're as good as the company you keep"*); **PR firms**; an
+**executive producer** doing outbound and the wine-and-dine circuit — *"**so I outsourced all that,
+because I didn't want to do it**"*; **advertorials**; directory ads in **Alt Pick** and **the
+Blackbook**; **competitions and design annuals**; and **trade press** (*Shoot*, *Ad Age*,
+*Creativity*).
+
+> ★★★★ **The grievance that explains everything he built afterwards:** *"there was **a layer of
+> opaqueness that I could never tell** — because we did this, we got that. The general consensus from
+> my executive producer was **spend as much as you can, do as much as you can, always**… **and as the
+> person signing the cheque, that was wearing thin on me — because you can't actually trace any of this
+> stuff. It was untraceable. And this is how it existed for decades.**"*
+> ([[2025-09-14-yt-TE8qfhD4b8I]])
+
+### ★★★ Choices made against comfort (2025-07-13)
+
+- **He applied to exactly one school.** *"I asked around: what's the best school to go to? They said go
+  to **Art Center**. So I went to Art Center **despite it being prohibitively expensive. I didn't even
+  consider schools two, three or four.** It was not within the realm of possibility. **I only applied
+  to one school** — it's either get into school or don't."*
+- **He refused San Jose.** *"**My uncles would be like, 'come back to San Jose.'** I'm like — well,
+  **the heart of advertising is in LA or New York. Those are my two choices.** None of them sound like
+  San Jose. **I have to be here.** And I stayed here throughout the rest of my career, **despite it
+  being uncomfortable for my family.**"*
+- ★★ **And the reversal, years later:** *"at some point **my dad and mom sell their house and move in
+  with us** for a period of time — **and now they live in LA**, because they'd rather be around their
+  children."* ([[2025-07-13-yt-TIY_ggV3S_o]])
+
+### ★★★ Self-description, updated
+
+- ✅ **1975 / fall of Saigon**, restated in one breath with the self-concept: *"**we came to the United
+  States when I was three, in 1975. Fall of Saigon.** … This **awkward, socially awkward, super weird
+  person, this loud introvert**, gets to do all these amazing things. **I would have never dreamt in a
+  million years that this is the life I get to live.**"* ([[2025-08-12-yt-XdNQC_zDCW0]])
+- ★★★★ **The introversion strategy escalates (2025-09-14):** *"**I do not know how to work a room.
+  Period. And instead of learning how, I've given up on that** — and I've just done something
+  different, which is to become so well known that people will just walk up to me."* → *"**we all are,
+  in a way, inventing solutions to our own problems.**"* A stronger claim than the earlier *"content so
+  good that I didn't need to develop social skills."*
+- ★★★ **The mechanism, from 2025-05-29:** *"**through creating content, you get invited to speak — and
+  when you speak, there's this introduction. So they know you before you know them. So technically,
+  you never really walk into a room full of strangers.**"*
+- ★★ **He self-identifies as Gen X**, and **labels his own framing a stereotype before using it**
+  (*"I'm sharing perhaps this stereotype about millennials"*). ([[2025-07-31-yt-aaBt9lSDpHY]])
+- ★★ **An epithet he repeats without objecting to it:** *"they call you **the charming razor blade.**"*
+- ★★ **He owns a Tesla** (2025-08-12, self-reported) — and by **2025-09-16**: *"**I used to love Tesla
+  as a company. I don't love it as much as I used to, because Elon's been saying a lot of stuff.**"*
+  Record both, dated.
+- ★★ **On his own brain:** *"**it's like a muscle. I want my brain muscle to be strong… I don't know if
+  Alzheimer's or dementia is in my future. It can be. I'm going to give myself the best shot** by
+  engaging as much of my brain as possible… **if you don't use it, I think you lose it.**"* And:
+  *"**I rest hard** — when I go to sleep, I sleep."*
+
+### ★★★ A reversal he made in seventeen days (2025-05-29 → 2025-06-15)
+
+On **2025-05-29** he declined man-on-the-street on personality grounds (*"I tested it and I didn't
+like it… I'm not extroverted"*). On **2025-06-15**: *"I'm about to start a new series where I'm man on
+the street, and **I cannot be more scared to do it.**"* — taking **Brendan Kane's** script, built on
+Kane's read of him: *"**I think your genius is helping people to see their own value.**"* His first
+reaction to the tactic (*"just ask people how much they charge an hour"*) was *"**I'm totally against
+that**"*; then he tested it and *"**it clicked.**"*
+
+### ★★ Family — recorded by role only
+
+> ⚠️ **POLICY.** Both sons appear repeatedly in this era, in photographs and stories. **No names are
+> recorded, here or anywhere.** Identifying detail is kept to the minimum the stories require.
+
+- **On speaking at his older son's school:** *"**I've never been more nervous in my life** — because
+  **it's okay if I mess up in front of you, 'cause tomorrow you don't see me. But I don't want to mess
+  up in front of my boy.** And I was having those sleepless nights again — **even though at this point
+  I'd spoken a lot.**"* ([[2025-08-12-yt-XdNQC_zDCW0]])
+- **The younger son:** a trip to the Philippines to swim with whale sharks (*"**I don't even like the
+  water**"*), and *"for about **a year and a half he's out of school**… we get to just travel the world
+  together, **just the two of us.**"*
+- ★★★ **The fishing story (2025-08-23)** — four days in the Canadian wilderness with his 21-year-old
+  son. The son goes rogue on technique (*"**I think this is a sign of developing your own personality
+  and stepping into manhood. So I respect that**"*), hooks a big fish, and the line breaks. The offer
+  refused: *"'Dad, you take it.' — '**No, son. This is for you. You have to learn these things in your
+  life.**'"* — with the honesty: *"**I wanted it for him, but I needed him to catch it.**"* The blame,
+  and how he handled it: *"'You told me to keep the line up.' — '**There's a difference between keeping
+  your rod up and keeping tension on the line. And I've told you some things — you don't listen, so
+  that's okay. I'm not blaming you.**'"* Then, at dinner, the son volunteers unprompted: *"**I've had
+  bad habits and dad set me straight.**"* → *"**a 20-minute span between the lesson learned and him
+  saying that. For some people it would take two, three years.**"*
+- ★★★ **A friction he discloses (2025-05-22):** *"**full disclosure, my wife and I, we do not share
+  this dream. So it creates a lot of friction for us**… '**we're supposed to be winding down into our
+  chill life and you're winding up into the crazy frantic life**' — and **she just looks at my calendar
+  and gets stressed out just by looking at the calendar.**"* Married *"**almost 30 years**"* (≈1995,
+  ✅ consistent). **Wife name-free.**
+- ★★ *"**My wife helps out with some of the shots to the face**"* — on how he got grounded, alongside
+  *"I've done some therapy. I've got a lot of coaching."* ([[2025-09-16-yt-eS9LtexTMFk]])
 
 ## Personal life (name-free by policy)
 

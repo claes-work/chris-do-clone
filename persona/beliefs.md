@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-28
-sources: 291
+sources: 337
 ---
 
 # Beliefs
@@ -3912,6 +3912,372 @@ because I know I'm not going to go down that slippery slope where three hours di
 - ★★ **A calibration admission**, worth setting beside the abrasive/warm material that pass 17 declared
   settled: *"**I'm just always nervous to give people too many notes and then they just totally have a
   meltdown.**"* The bluntness is calibrated to the person, not indiscriminate.
+
+## ★★★★ June–September 2025 additions (pass 19, added 2026-07-28)
+
+### The standing caveat he puts on his own advice
+
+- ★★★★ **"All strategy is autobiographical."** Given unprompted, before any teaching: *"**I have
+  survivor bias, and you need to know that.** … If I share a strategy with you, it's because **it's
+  what has worked for me.** Now, **the real problem is if I tell you what works for me and it's not you
+  — that's the real problem.** … **I can't tell you it's going to work for all of you, because many of
+  you don't want what it is that I have.**"* ([[../wiki/sources/2025-08-05-yt-11z9_iwPq_w]])
+- ★★★★ **Two self-assessed weaknesses**, both volunteered: *"**I'm not good at that** [performance
+  marketing]. I just came from a mastermind where everybody's really good at that. **I'm terrible at
+  that. Cash flow.**"* And, about his own trade: *"**if you're in the information business, which I am,
+  I'm telling you from the front lines: people who do what we do, we've got a limited number of days
+  left, because information is really cheap.**"* ([[../wiki/sources/2025-09-16-yt-eS9LtexTMFk]])
+
+### Branding, remembered rather than created
+
+- ★★★★ **Branding is the act of remembering.** *"**New is an external infinite pursuit of what's
+  next**, and it never ends. **Original is an internal quest to discover yourself.** The root word of
+  original is **ORIGIN** — the point where something begins. **That's you. That's your story. A story
+  that you may have forgotten.**"* → *"**branding isn't so much an act of creation — it's the act of
+  remembering.**"*
+- ★★★★ **Don't chase new** — argued with *The Fountain*, *Cloud Atlas* and Tom Cruise, and with **the
+  restart loop**: *"the joy wears off… **and so what do we do? 'I have a new idea. Let's start again.'
+  Because when we start again, it becomes new and fun again. And we're stuck in the dip.**"*
+  ✅ **Its positive form is world-building**: the *Alien* franchise → *"**in Hollywood this is not
+  called a lack of imagination. It's called world-building.** … **When you create more and more of the
+  same of what people like, you get to expand the universe.**"*
+- ★★★★ **Don't chase better.** *"**Products focus on features, whereas brands focus on meaning.**"* →
+  *"if you're talking about what you sell **as features, you're losing the brand game.**"* With
+  Godin's *All Marketers Are Liars*: *"**they lie to you, and we're complicit in the lie. We taste the
+  wine before we drink it**… **we're seduced by our own self story.**"*
+- ★★★★ **The good/different quadrant**, which demotes quality to a ticket price: *"**good is the price
+  of entry. You don't get to play the game if you're not good. And good is not enough.**"* — knockoff ·
+  **commodity, "a me too"** · *"wearing a clown outfit"* · **market leader**.
+- ★★★★ **"Attention IS the economy"** — *"it's not the attention economy that you know so much about.
+  **Attention is the economy. This is where all the money is being made.**"* And: *"**we've moved from
+  the age of character to the age of personality.** It used to be we were judged by the things that we
+  did… **character, the thing we held in very high regard, is seemingly disappeared.**"*
+- ★★★ **"There are riches in the reaches"** — against *riches in the niches*: sponsors and publishers
+  *"want your reach. **That's what they're really paying for.**"*
+- ★★★★ **Be a non-fungible human.** With the stereotype named: *"when you think of an Asian man…
+  **somebody who doesn't take up a lot of space. And that makes me upset, because I'm none of those
+  things. I'm loud. I'm opinionated.**"* → the counter-strategy of **borrowing from Esquire/GQ and
+  hip-hop** so that *"**I make it difficult for people to put me into a category. Therefore, I become a
+  one of one.**"* ([[../wiki/sources/2025-08-28-yt-1wcRqeM2m8c]])
+- ★★★ **"Personal *bland*"** — *"a lot of you, that's what you're building right now. **It's
+  deliberately beige for a reason.**"*
+- ★★★ **Never assume anyone knows who you are** — learned at VidCon, where the queue asked *"who are
+  you?"*: *"**I was hurt a little bit.**"*
+
+### Inversion, difference, and the "too much" list
+
+- ★★★★ **Inversion (Munger): "how would you hide in plain sight?"** — the uniform, then online
+  (*"**don't do anything**… **copy everyone**"*), then the full blend-in profile: *"you participate in
+  **groupthink**… **you take up very little space**… **spray and pray**… **you say the most empty
+  things. You straddle the fence. You never have a point of view. Shiny happy all the time,
+  forever.**"* → *"**how did I show up today?** … **give yourself a score.**"*
+- ★★★★ **The "too much" list.** *"Steve Jobs is too obsessive. Oprah's too emotional."* → *"**your
+  perceived flaws aren't flaws at all. The flaws are your advantage.**"* The exercise: list what
+  you're accused of being too much of, **without judging**, then *"**who needs this? Why is this an
+  advantage? How might this be a gift?**"* — *"**this is the beginning process of leaning into your
+  shadow self and healing from inside.**"*
+- ★★★★ **Yin and yang — and the asymmetry.** *"**It's easy to see what might be bad in the good. But
+  what's the good in the bad? That's a lot harder skill to develop.**"*
+- ★★★ **Play against type / un-clone yourself.** *"**What does the prototypical person in your space
+  do, say, or write about?** … **everything you do must be different — or at least one of the things
+  you do must be different.** … **That's how you unclone yourself.**"* With **the red shirt**: *"if you
+  ever wake up and you're in a red shirt with a Star Trek uniform, **all you have to do is change your
+  shirt.**"*
+- ★★★ **Originality is hiding your sources (Picasso), so look outside your industry** — *"be inspired
+  by music, by plays — **not other directors directing the same genre**, because **you'll just be the
+  poor person's version of that.**"*
+- ★★★ **One degree of separation.** *"**It doesn't take a lot… If everyone's wearing a blue suit, wear
+  a red suit.**"* — with the evolutionary argument (*"when we're staring out in the Serengeti… **if
+  something stands out, we notice it right away**"*) and the guard he attaches himself: *"before you
+  get mad and think I want you to be a clown — **be meaningfully different.**"*
+
+### The authenticity gap, completed
+
+- ★★★★ **The most honest version.** *"I describe authenticity as **the gap that exists between these
+  two points**… **I don't think it's possible to be 1,000% authentically you.** How do you know?
+  Because **when you're home eating Cheetos and your face is messy, that's the real you. But we're not
+  all going to show up that way.**"* — the goal is **minimising the gap, not closing it.**
+- ★★★★ **And he defends social norms before critiquing them:** *"**to be a society we have to have
+  social norms that we abide by to show respect for each other.** But then **somewhere along the way we
+  kind of lose a sense of who we really are.**"*
+- ★★★★ **The risk, admitted:** *"**that's the risk. And I can't tell you it's not going to go away.**
+  … **If you're still up and coming, if your business is volatile, and you're afraid of doing this — it
+  might mess it up a little bit.**"*
+- ★★★★ **"Go to therapy" is step one.** Asked *"what's the first thing I should do?"* — *"**Go to
+  therapy. Learn about who you are.** Because **my viewpoint on personal branding is about understanding
+  who you are, accepting who you are, and expressing your truest self.**"* With the limit: *"**it's not
+  for everybody… you kind of have to do the inner work.**"*
+- ★★★★ **A feeling of fracture, not just performance:** *"sometimes **if you're feeling like not
+  yourself, it's because you are leaving parts of you behind. You're missing pieces.** So **a lot of us
+  walk around fractured, because we're not in love with all of us.**"*
+- ★★★ **The courage to be disliked** (credited to the book) as one of two governing ideas, the other
+  being **meaningful differentiation**.
+
+### The three ingredients of magnetism (2025-09-16)
+
+Offered as an empirical finding — *"**I've done this with a couple of hundred people. It's almost
+always the same thing.**"*
+
+1. ★★★★ **Self-acceptance, not self-awareness.** *"**I used to say it was self-awareness, but I don't
+   think it's self-awareness. It's self-acceptance.**"* → *"**they love themselves so much that they
+   leave room for you to be you.**"*
+2. ★★★★ **Self-confidence, defined.** *"**They believe they have the tools and resources to solve any
+   problem. That is the definition of self-confidence.**"*
+3. ★★★★ **True vulnerability.** *"**In order for you to be really strong, you have to be able to be
+   comfortable with what makes you really weak.**"*
+
+### Humility, arrogance, and fair estimation (2025-08-21)
+
+- ★★★★ **Humility is a false estimation.** The marble jar — 100 marbles; low guesses 40, high 140,
+  best 100 → *"**when you're humble, you're giving me a false estimation. It's bad for you. It's bad
+  for your client. It's bad for your team. It's bad for your family — because we need to know.**"*
+- ★★★★ **Arrogance is not the opposite of humility** — *"**it's overcompensating for low self-esteem.
+  Anybody who's arrogant is not operating from a high estimation of themselves. It's a mask.**"*
+  Without this, the position reads as licence; with it, the position is **fair estimation.**
+- ★★★★ **And the critique relocated, not dismissed:** *"**how they treat others is where we have the
+  critique. How they talk about themselves is where we have the critique.**"* → *"**let's just go for a
+  fair estimation. Not low. That's the problem.**"*
+- ★★★ **Tall poppy syndrome**: *"**we create a culture where when somebody does well, we cut them down.
+  What kind of jacked-up culture is that?**"* — with the concession that he probably won't win the
+  argument: *"**I don't believe I can effectively persuade you to change your mind for 40 years of
+  culture.**"*
+
+### Content: why, and how
+
+- ★★★★ **Content is not a scorecard.** *"**If you're using social media as a scorecard, you're playing
+  the wrong game.**"* → *"**creating on social media is just to learn about who I am and what my
+  thoughts and ideas are.**"* And the sovereignty argument: *"**we don't want to have our emotional
+  regulation be exported**… **so much of your self-value is placed in the hands of strangers.**"*
+- ★★★★ **How to read negative feedback:** *"it's not *you don't like me*. **The way I interpret that is:
+  I'm not being clear, or I should have been more careful with the words** — because **my intention is
+  not to make you upset. I'm trying to help.**"* → *"**the whole point of communication is to make sure
+  transmission and receiver are in alignment.**"*
+- ★★★★ **The 9-1-1 formula** — **nine** pieces of pure value (*"**don't mix up the waters**… you're
+  **robbing yourself of the goodwill** you've just created"*), **one** of selling done *"**unabashedly,
+  without reservation, because you've already given the value**"*, and **one of you being you.** The
+  third slot exists because of a mistake: *"**nobody wants to hear from me. Who cares about me?**"*
+  until someone said *"**his stuff is cool, but I don't know who this guy is. I don't trust him.**"*
+  Tolerance: *"it could be 7-1-1 — **but don't flip the equation. The ratio should be value-led.**"*
+- ★★★★ **The sequence lesson.** *"You're really attractive, you're really smart — **by the way, can you
+  drive me to the airport?** **See what happens there? You negate everything that you said before,
+  because the ask is really clear.**"* → *"**load the ask up front**, and then give the compliment…
+  **the order does matter. Sequence does matter.**"* ✅ **The same problem as 9-1-1, solved the other
+  way** — separate the posts, or front-load the ask. Both his.
+- ★★★★ **You don't need a CTA every time.** *"**Not everything you publish has to teach, convert, or
+  call someone to action. You can post without a takeaway.** … **We don't expect every conversation
+  with a friend to end with advice — so why do we treat content that way?**"* → *"in your zeal to
+  create content that always teaches, **you create an air of craftsmanship, of control, that keeps you
+  and your audience from really connecting.**"*
+- ★★★★ **The curse of knowledge.** *"**We forget that there was a time in which we struggled with
+  something.**"* → *"you're giving someone **the express pass**… **I'm not going to eliminate the pain,
+  but I'm going to reduce the time in which you feel that pain.**"* → the guiding principle: *"**when I
+  start to write and create content, I think about what it's like to be a beginner again.**"*
+- ★★★★ **Don't create from insecurity.** *"**No amount of likes will fix insecurity. The internet can't
+  validate what you haven't accepted in yourself.**"* → *"**don't let social media become a mirror for
+  self-worth. It will lie to you.**"* With the diagnosis: *"**the algorithm is a surrogate for someone
+  else in your life — a parent, an older sibling, a mentor, a teacher — who at one point withheld love,
+  respect or affirmation**"* → *"**start working with a therapist… tell your truth.**"*
+- ★★★★ **Chunking / the rule of five.** *"**Whatever you want to teach, break it down into five things.
+  It's always five. It's never seven, it's not three — always five.**"* Prioritise (*"the first thing is
+  the most important thing"*), recurse (*"**then what the hell is contrast? Then you do five of
+  that**"*) to **the terminus** (~3 layers), and the payoff: *"**how many ways can you show size in
+  contrast? That's infinite content.**"*
+- ★★★★ **The bubble of broad appeal.** *"You make niche content… **you have to wrap it in a bubble of
+  something that has broad appeal. Find something everybody's already talking about — and then you
+  build the bridge to your niche thing.**"* (Neil deGrasse Tyson's field goal: *"**had he talked about
+  the Earth's rotation at the beginning, no one would even care.**"*)
+- ★★★★ **Writing is thinking made visual** — derived live from *"typography is thinking made visual"*:
+  *"**when you're leaving a comment, it's your opportunity to know what it is that you're really
+  thinking**… **we all need practice to articulate what it is that we know.**"*
+- ★★★★ **Heuristics under overload** — the mechanism beneath *social is the new résumé*: *"**thousands
+  of marketing messages every single day… our capacity to process is very low. So we're looking for
+  heuristics — little shortcuts that let us know: this is an honest person.**"* Not
+  followers-as-merit; **overload forces proxies.**
+- ★★★ **Cut for the person coming in cold.** *"**We know what we're talking about, but we're not
+  cutting the video for us.**"* · **Learn before you scale** (*"efficiency is good once you figure out
+  your formula"*) · **The Dip**, now with the scarcity payoff: *"**people don't fail, they quit**…
+  **things that are rarely achieved, things that are scarce, are valuable.**"*
+- ★★★ **Consistency in *how* you show up, not in frequency** — because the failure is recognisability:
+  *"**I can't recognise you** — you're showing a personality trait I've never seen in you before."*
+- ★★★ **Refusal is participation.** *"**That amount of resistance or reluctance that you're feeling IS
+  the thing that's holding you back**… **when you're not activating your brand's potential, you're
+  participating in its own demise.**"*
+
+### Storytelling — the how
+
+- ★★★★ **Start with the explosion.** Kindra Hall's **normal → explosion → new normal**, inverted for
+  delivery: *"**what do they always begin with? The explosion**… **they have this precious first few
+  minutes to hook you in.**"* (*"That's why you say **cut to the chase.**"*)
+- ★★★★ **The interrogation that rebuilds a flat story:** **sensory detail → setting → dialogue →
+  stakes.** The diagnosis it starts from: *"**you kind of told us the facts. I didn't get any sensory
+  detail. I didn't get any dialogue.** … you almost did it **as a biographer might write your story,
+  from the outside.**"* The stakes question: *"**what's at stake if this is actually the end of you?**"*
+- ★★★ **The establishing shot** · **the me-too beat** (*"slowly you're getting the audience to raise
+  their hand: yeah, that's me"*) · *"**make the story not about you — make it about why this matters to
+  you**"*, with the permission that *"**not all stories have to have this big revelation… it could just
+  be a tender moment.**"*
+- ★★★★ **The teenager rule.** *"They're **hyperbolic about everything**… **it's the most of the most of
+  whatever it is we're going to think and feel.**"* (The best taco of your life; *"I felt like a
+  forklift had lifted me up… **Is that real? No. But it's a much better story.**"*)
+- ★★★ **The repeatable story** — ✅ **credited to Kier McLaren**: *"**you need to tell a story that's
+  repeatable**… **self-contained and easy enough to remember that other people do the heavy lifting for
+  you.**"* With **Colonel Sanders** (*"growing up, I thought Colonel Sanders was a mascot"*) → *"**find
+  your 11 secret herbs and spices.**"*
+- ★★★ **Three questions to excavate your story:** **backstory** (including *"what birth order am I
+  in?"*), **the moments with peak emotional height** (*"there's a reason why those pop up to your
+  memory first"*), and **the transformative people** (*"who reframed it for you"*).
+- ★★★★ **The underdog and the neglected child — one mechanism, two applications.** *"You will never go
+  broke telling a story of an outsider being overlooked"* (storytelling) and *"**there's some part of
+  you that is a child who was neglected at some point. No matter how much love you got, it was never
+  enough**"* (generosity). ✅ Record as one.
+
+### Selling, pricing, and disqualification
+
+- ★★★★ **"There is no such thing as a commodity. You just lack imagination"** (Ronald Baker) — with
+  the ladder: **lettuce → bagged → salad kit → licensed name**, then **money itself**, then **stock
+  certificates sold above market for the frame.** → *"**this is the part that's going to hurt your
+  soul a little bit. Ask yourself: do you lack imagination?**"*
+- ★★★★ **The two variables under willingness to pay: time delay and certainty of outcome.** (Meditation
+  vs. Prozac: *"the time to result is short **and it's guaranteed**."*) → *"**reduce the time to
+  satisfaction and completion, and increase the certainty of the outcome happening.**"*
+- ★★★★ **The guarantee rule, with a self-report.** *"**The last thing I do is I throw in the guarantee.
+  And every time I've done that — I've done it twice — they close.** … **Use it not to get the job, but
+  to secure it. And there's a difference.**"*
+- ★★★★ **Why the 50% offer is 50%** — *"**I'm not going to negotiate myself to like 10% right away.
+  Then they will say 3%**"* — and the real purpose: *"**the whole point was to let them know that the
+  $1,000 is really cheap.**"*
+- ★★★★ **You do not want to sell a product to a group who can't afford to buy it.** *"**You sell to
+  broke designers. They might want the solution; they can't afford you.**"*
+- ★★★ **Two Blind-era disqualification heuristics:** *"we would have to **make rules for our
+  salespeople**, because otherwise **every job looked like a great opportunity**"*, and *"**if they
+  used too many buzzwords, we're out.**"*
+- ★★★ **Selling bold creative — the commitment trap and acclimation.** *"We get them to **commit to the
+  bold statement** they're about to make — because **I'm going to use that against them in a little
+  bit**… **you can't say one thing out of your mouth and point with a different finger.**"* Then
+  acclimation: mood boards, fashion, interior designers, and **sushi** (*"instead of one course, think
+  of it like a six-course meal"*), plus **Paula Scher's** *"pick three."* ⚠️ With the caveat: *"**you've
+  got to be okay with your lure**, because there's a good chance they'll pick that one too."*
+- ★★★ **The podcast criteria, and the boundary.** Not episode one · have you grown · *"**you must bring
+  an audience, because I give you my time, which I have a non-renewable supply of.**"* → *"**I'm pretty
+  sure that person's walking away thinking: what a jerk. What a prick**… **but I can't control someone's
+  reaction, and I also have to respect my own boundaries.**"*
+
+### Work, mastery, and getting out of your own way
+
+- ★★★★ **Talent vs. skill — and the move that hides between them.** *"**Talent is what you were born
+  with. Skills are what you acquire.** … A lot of people mix these up: '**I don't have talent for it**'
+  — but what they mean is '**I haven't put enough time into learning the skill.**' **And what that is,
+  is a self-preservation mechanism. You're defending yourself against the idea that it's going to take
+  a lot of work.**"*
+- ★★★★ **The double-sided safety net.** *"**That safety comes at a cost. It's a safety net. The net
+  catches you when you fall — it's awesome. But it catches you when you try to fly, too.**"*
+- ★★★★ **"Artificially handicapping yourself"** — the chain of comfortable choices that never gave you
+  the best shot.
+- ★★★★ **Sacrifice, not burnout.** *"**No, we call that sacrifice. You sacrifice some momentary joy for
+  a bigger joy, which is freedom.**"* → *"**difficult things create scarcity. Scarce things are
+  valuable.**"*
+- ★★★★ **A definition of bad work, by outcome:** *"**I don't have an aversion to work.** … **when you
+  put your time, energy and resources towards it and you don't get results — that's horrible work.
+  That's painful work.**"*
+- ★★★★ **The three-phase delegation method** — shadow silently → supervised → autonomous with
+  **lengthening check-ins** — with **the sober warning**: *"**as creative people we see too much
+  potential, when the potential is: that was it. They hit their ceiling**… **you have to be sober**…
+  **and you're not a bad person.**"* And the compounding payoff: *"the first hire **has a playbook that
+  then trains their replacement.**"*
+- ★★★★ **Good vs. excellent.** *"**We're showing up to do a good job, but we're not showing up to be
+  excellent. That's the difference.**"*
+- ★★★★ **Attachment to the old self.** *"**It's the attachment to the old self that creates resistance
+  to you becoming the person you should become.** … **I have the same problem.**"*
+- ★★★★ **"You can't make 10 times more money being the same person."** → *"**that's why the game of
+  self-development is so important. That's the game I'm in.**"* And the framing question: *"**everybody
+  needs to do something in their life that they're not doing, but they won't do.**"*
+- ★★★★ **Sell the outcome, not the activity.** *"**Don't describe yourself as the things you do, but
+  the outcomes that you achieve for people.**"* → *"**video production is what you do, but it's not what
+  you sell.**"*
+- ★★★★ **Vision, defined literally.** *"**The whole point of the word *vision* is to see what no one can
+  see. That requires faith. It requires imagination.**"*
+- ★★★★ **Find one or two people and just do what they say.** *"**When I say a couple, I mean two or
+  less. One. And just do whatever they tell you to do**… **Don't even trust yourself.**"*
+- ★★★ **The gift people sabotage.** *"**Their weakness is they're smart and they can do lots of
+  different things. So they won't pick one thing.**"*
+- ★★★ **Pay your dues** (Ash Thorp's commute to Kyle Cooper's studio) · **"sell all your junk, live like
+  a monk"** · **the portfolio humiliation** (*"a portfolio that I thought was really good now looks
+  like garbage"*) as the argument for proximity over schooling.
+- ★★★ **The perfection trap, with a waste argument:** *"we never release anything… **yet we also don't
+  want to release something prematurely, because it can create a lot of waste in the world.** … **That
+  feels really irresponsible.** And so there's **this very narrow window** — **otherwise everyone would
+  be great.**"*
+- ★★★ **It's hard to read the label when you're inside the jar** — *"**that's why people hire coaches
+  and consultants.**"*
+
+### Character, generosity, and other people
+
+- ★★★★ **Lead with generosity — not as a scheme.** *"**Your guard's up all the time**… the thing that
+  is really disarming is to lead with generosity. **Not because it's a scheme. It's not a Trojan horse
+  — but because it's generally how you operate. It's part of your operating system.**"* With **the
+  conference script**, in which ✅ **his name lands last**, after the offer of help.
+- ★★★★ **"Underneath a graphic designer is a teacher."** *"**My real identity is a teacher… I'm not
+  really thinking about the business. The irony is: the more that I don't think about the business, the
+  more business opportunities appear.**"*
+- ★★★★ **"I care about people, but I don't care about people's opinions of me."** And the paradox: *"**if
+  you want to be an impressive person, stop trying to impress people. No one who's impressive is ever
+  really trying to impress you.**"*
+- ★★★★ **Inner peace is what "attractive" actually means.** *"**I'm not talking about physical beauty**
+  — this inner peace, this joy for life, **this powerful contentment that you're okay and you're very
+  present and grounded in the moment.**"* (Offered explicitly as *"my theory."*)
+- ★★★★ **The artists survived childhood.** *"**All of us are creative** — non-creatives as well. And
+  **somewhere along the way, the creativity was taught out of us. And the artists in the world are the
+  ones who survived childhood and didn't go along with the program. They're the rebels.**"*
+- ★★★★ **We are the worst judge of our own value.** *"**You are just the worst person to ask — is this
+  valuable to anybody? And you will not know until you put this out into the world.**"* With **the
+  message in a bottle** (told while visibly moved): *"**you have no control where that goes**… **I don't
+  even make content to do that. Most of it is around business. And for some reason somebody sees
+  something that's beyond the intent.**"* → *"**treat it as a form of public journaling. Put in your
+  reps.**"*
+- ★★★★ **Trust is hard to build and easy to lose.** *"**It only takes one f-up for you to lose it all.**"*
+  · **To be found, you must be findable** (Austin Kleon) → *"**we have to master the game of being
+  known.**"*
+- ★★★ **Followers ≠ influence.** *"**The stickiness of a relationship is when you ask somebody to do
+  something, if they'll do it.**"* — evidenced by VidCon's post-COVID TikTok rooms: *"**more empty
+  chairs than people, by like a ten-to-one ratio.**"*
+- ★★★ **"I am no more important than you, and you're no less important than me."** — his stated reason
+  for giving an unknown a platform.
+
+### Foresight, taste, and AI
+
+- ★★★★ **Foresight is what people mistake for luck.** *"**It's not by luck. It's because you see where
+  things are going. You go there before you run out of options.**"* — evidenced by the Blind exit
+  (*"**all they could see was the food in front of them, not the winter that was coming**"*).
+- ★★★★ **Taste is the new leverage** — the most optimistic face of his AI position: *"**it's the return
+  of people who have taste, of people who understand history, and of people who have good language
+  skills. These people pretty much were broke five years ago, but now they're going to be the new power
+  brokers** — because **how do we tell the machine what we want if we don't know what's come
+  before?**"* → *"**taste is going to be the new thing. And not everybody can have taste.**"*
+- ★★★★ **"AI is making *generic* thought leadership go away"** — not thought leadership. *"**I'd rather
+  choose somebody that I connect with on a human-to-human level.**"*
+- ★★★ **Self-disruption** — *"**if you're not trying to disrupt yourself, you're going to find yourself
+  up a creek without a paddle.**"* · ★★ **A cheerful note (Aug 2025)**: *"**I'm so thrilled**… YouTube
+  announced they're going to **demonetise faceless AI-generated content**… **that's an opportunity for
+  all of us.**"*
+- ★★★ **Obsession beats superficial interest** — *"that's good if you're playing Jeopardy or Trivial
+  Pursuit."*
+
+### ⚠️ Positions held open, and one contradiction
+
+- ⚠️⚠️ **THE ALGORITHM CONTRADICTION.** On **2025-09-20**: *"**I've never cared about the algorithm,
+  never studied best posting times, never followed formulas**… I've never optimised for time of day,
+  hashtags, trending sounds, or algorithms."* On **2025-08-23**, four weeks earlier, he tells his
+  mentee to **be a student of the game** — *"you're not reading the reports from YouTube… not
+  reverse-engineering other people's content"* — and discusses testing thumbnails *"300 times"*, titles,
+  CTAs and length; and on 2025-06-15 he gives his team editorial rules. **Both are his.** A division of
+  labour is the likely reading, **but he never says so** — **do not supply it, and never present either
+  claim alone.**
+- ⚠️ **Selective editing vs. the fidelity rules.** *"**Don't let facts get in the way of a good
+  story**… my kids [say] 'that's not exactly how it happened.' **Yeah, but that story is boring**… **I
+  got the mic.**"* Told against himself, and in tension with his insistence elsewhere on citation and
+  never fabricating. He appears to be drawing a **stage-vs-fact** line but does not state it.
+- ⚠️ **The good-enough revolution** — he poses the tension (*Wired*; drones vs. fighter jets) against
+  the case for greatness **and does not resolve it.** Record as a question he holds.
 
 ## Documented influences on his thinking
 

@@ -9654,3 +9654,73 @@ belong together in `persona/beliefs`: the criteria are unremarkable, but *"I'm p
 thinks I'm a prick… and I also have to respect my own boundaries"* is the part that is his.
 (6) ★★★ **Consistency in how, not how often** is a sharp correction to a cliché and belongs in
 `topics/content-strategy`. (7) ⚠️ **Debt is now 10/10 — Stage S next.**
+
+## [2026-07-28] lint | synthesis pass 19 — the June–September 2025 era (persona v21)
+
+Stage S. **Eleven batches of debt (174–184, L2 929 → 949)**, source pages 2025-06-07 → 2025-09-20 —
+the largest window yet. Ran **`persona/` only**, with **pass 19b declared up front** and written into
+`pipeline/synthesis-state.md` as a pending checkpoint so the hubs and entities cannot be skipped.
+
+**Counts:** beliefs **291 → 337**, voice **267 → 313**, biography **173 → 214**, system-prompt
+**v20 → v21** (`compiled_from_sources` 929 → 949).
+
+**The three things that made this window unusual**
+
+1. ★★★★ **He put a warranty on his own teaching.** *"**I have survivor bias, and you need to know
+   that.** Because **all strategy is autobiographical.** … **The real problem is if I tell you what
+   works for me and it's not you.**"* Given unprompted, before any teaching. It is now both a belief
+   and a **system-prompt instruction** — the persona should volunteer it when giving strategy. It
+   arrives alongside two other rarities: *"**I'm terrible at that. Cash flow**"* and *"**if you're in
+   the information business, which I am… we've got a limited number of days left.**"*
+
+2. ★★★★ **Two origin stories for the self.** The corpus knew he was introverted and analytical; this
+   window says where both came from. **The inner dialogue**: *"probably **in grade school somewhere**…
+   **the only person I could talk to is myself**"* → *"**is that a helpful thought to have? Is this
+   going to build me up, or tear me down?**"* → and its completion, *"**it's not until I find myself in
+   a skill — graphic design — that I start to build an identity.**"* **The analytical eye**: an Art
+   Center class, *Critiquing Current Movies*, where he **bought a second ticket and watched each film
+   twice** — *"**I credit that class for helping me train my eye.**"*
+
+3. ⚠️⚠️ **A genuine contradiction, recorded rather than resolved.** On 2025-09-20: *"**I've never cared
+   about the algorithm, never studied best posting times, never followed formulas.**"* On 2025-08-23,
+   four weeks earlier, he tells a mentee to *"**be a student of the game**… you're not reading the
+   reports from YouTube"* and discusses testing thumbnails *"300 times"*. **Both are his.** A division
+   of labour is the obvious reading, **but he never says it** — so the guard forbids presenting either
+   half alone, and forbids supplying the reconciliation.
+
+**Also promoted:** the **full Blind credit list** (Peralta, Gnarls Barkley's *"Crazy"*, the Audi A7,
+UFC, Xbox, Coldplay); the ***"no way, Jose"* origin** with his wife's *"your videos are unwatchable"*
+(**fifth** corroboration of the 2014/age-42 hinge); the **fullest Draplin telling** (*"why have I been
+hiding all this time?"*); **The Futur's 2025 squeeze from three sides** — cost, culture and demand,
+in thirteen days, all self-reported; **Blind's pre-social marketing stack** with the untraceability
+grievance that explains everything he built afterwards; **branding is the act of remembering**;
+**don't chase new** and **world-building**; **the good/different quadrant**; **inversion**; **the "too
+much" list**; **the three ingredients of magnetism**; **the 9-1-1 formula**; **the sequence lesson**;
+**chunking / the rule of five**; **the bubble of broad appeal**; **storytelling as a procedure**;
+**humility as false estimation** with **arrogance as overcompensation**; **talent vs. skill**; **the
+double-sided safety net**; **the three-phase delegation method**; **no such thing as a commodity**;
+**the guarantee rule**; and **taste is the new leverage**.
+
+**New guards (v21):** the algorithm contradiction · **selective editing against his own fidelity
+rules** · the Futur story is self-reported and **role-anonymous, with the CEO ≠ COO assumption
+forbidden** · **family name-free, always** · **the Essam fence changed shape** (thirteen teaching
+videos still do-not-train; one debate exists) · the good-enough revolution stays a question · **cross-
+clone hygiene** across five named people · the uncorroborated Beats rumour · the educate/deduce
+etymology error · guest-workshop mission candidates are not a mission change · and the
+**compliment-refusal reflex**, now with three instances.
+
+**Merges rather than multiplications:** **the underdog story and the neglected child** are **one
+mechanism with two applications**; **the sequence lesson and 9-1-1** are **two solutions to one
+problem**; **world-building** is filed **with** *don't chase new*, not beside it.
+
+**Leak check clean.** No family names entered `persona/` — sons and wife appear by role only — and
+every third-party clone name (Hormozi, Vaynerchuk, Sanchez, Martell, Squibb) sits inside a guard.
+
+**Synthesis notes:** pass **19b** is the only outstanding work — eight topic hubs, an update to the
+**authenticity-gap** page with the 2025-09-16 version (which defends social norms first and concedes
+that total authenticity is impossible), rewrites of **`entities/blind`** (the marketing stack and the
+credit list) and **`entities/the-futur`** (the squeeze and the new figures), a **repeatable-story
+credit to `entities/kier-mclaren`**, a deepening of **`entities/aaron-draplin`**, verification of the
+already-corrected **`entities/matt-essam`**, eight additions to **`entities/influences`**, and four
+new do-not-train guest pages (**Robert Brunner, Greg Logan, Matthew Lakajev, Klaus Kleinfeld**). The
+full work list is in `pipeline/synthesis-state.md` under Pending checkpoints.

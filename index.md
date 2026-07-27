@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-28 (ingest yt batch @thefutur, 1 → **949 L2** — ✅✅ **the exception**: the first episode with Chris and Matt Essam **together**, a real debate; plus the fullest Blind pre-social marketing stack and a sixth, conceded attestation of the non-violent-language thread. ⚠️ **Synthesis checkpoint due — pass 19 next.**)_
+_Last updated: 2026-07-28 (**synthesis pass 19** — persona **v20 → v21**, L2 949, an 11-batch window: ★★★★ *"**all strategy is autobiographical**"* as a standing caveat on his own teaching, **two origin stories for the self** (the grade-school inner dialogue; the Art Center film class), the **full Blind credit list**, and ⚠️ **the algorithm contradiction recorded, not resolved**. **Pass 19b (topic hubs + entities) is pending and runs next.**)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **949 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-09-20, no deferrals outstanding] + the 2026-07-21 fresh upload; synthesized through batch 173 → persona **v20**; ⚠️ pass 18b pending).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **949 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-09-20, no deferrals outstanding] + the 2026-07-21 fresh upload; synthesized through batch 184 → persona **v21**; ⚠️ pass 19b pending).
 
 ## Topics
 

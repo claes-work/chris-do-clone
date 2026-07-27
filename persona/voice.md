@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-28
-sources: 267
+sources: 313
 ---
 
 # Voice
@@ -2210,3 +2210,221 @@ Star Trek (**Spock**; *"the needs of the many far outweigh the needs of the few"
 **Peter Drucker** on risk · **Jim Rohn** (*success leaves clues*; the coming winter) · **Vanilla Sky**
 · **Loki's sacred timeline** · **Billy Elliot** · *"the British Johnny Appleseed"* · **Star Wars**
 continuity · **Fiji** water · *"it's hard to read the label when you're inside the jar."*
+
+## ★★★ June–September 2025 quote bank (pass 19, added 2026-07-28)
+
+### Coinages and formulations
+
+> "Branding isn't so much an act of creation — it's the act of remembering."
+
+> "It's not the attention economy. Attention IS the economy."
+
+> "There are riches in the reaches."
+
+> "Don't be a fungible human. Be a non-fungible human."
+
+> "Not if you have a personal *bland*. It's deliberately beige for a reason."
+
+> "In Hollywood, this is not called a lack of imagination. It's called world-building."
+
+> "Good is the price of entry… and good is not enough."
+
+> "Products focus on features, whereas brands focus on meaning."
+
+> "Writing is thinking made visual."
+
+> "The whole point of the word vision is to see what no one can see."
+
+> "It's a safety net. The net catches you when you fall — but it catches you when you try to fly,
+> too."
+
+> "Difficult things create scarcity. Scarce things are valuable."
+
+> "Sleeping very comfortably on a mattress of cash."
+
+> "All strategy is autobiographical."
+
+> "It's always five. It's never seven, it's not three — always five."
+
+> "That's infinite content."
+
+> "It's 911. You're going to call 911. It's an emergency."
+
+> "You gain clarity through articulation." *(David C. Baker, credited)*
+
+> "To be found, you must be findable." *(Austin Kleon, credited)*
+
+> "Inch by inch, it's a cinch. And yard by yard, it's hard. And if it's not on paper, it's vapor. And
+> the more you you are, the more you are — that's yours truly."
+
+### The self-implicating admission
+
+> "I have survivor bias, and you need to know that."
+
+> "I'm terrible at that. Cash flow."
+
+> "If you're in the information business, which I am… we've got a limited number of days left."
+
+> "I'm not so good at answering that question."
+
+> "I do not know how to work a room. Period. And instead of learning how, I've given up on that."
+
+> "I'm a slow learner."
+
+> "Your videos are unwatchable… And the worst part is she was right."
+
+> "Nobody wants to hear from me. Who cares about me?"
+
+> "And I'm guilty of this too. So let's just be real."
+
+> "I'm pretty sure that person's walking away thinking: what a jerk. What a prick. This guy is full of
+> himself."
+
+> "I'm a glutton for punishment, maybe because I'm a masochist."
+
+> "Now I think I've revealed who that person is, but whatever."
+
+> "I don't even like the water."
+
+> "I actually don't even look at my content that much."
+
+> "I don't speak in sound bites. I'm not thinking about the hooks."
+
+> "A lot of us wouldn't knock on those doors. I put myself in that category."
+
+> "For the doctors in the room, forgive me, this is the graphic designer version of this."
+
+> "I was being reductive — but I was trying to mirror how reductive your thing is."
+
+### The flat refusal, and the compressed judgement
+
+> "No." *(asked whether losing the name "The Futur" would feel like losing part of himself)*
+
+> "Small-minded question."
+
+> "I would never ask that."
+
+> "I don't think of myself as humble. Actually, I'm offended that you say I'm humble. I really am."
+
+> "And we all are, to a degree."
+
+> "Never mind. Offer rescinded."
+
+> "That's not your thing. That's not your problem."
+
+> "This ain't your thing."
+
+> "It sucks, doesn't it?"
+
+> "Boring as hell."
+
+> "Really freaking boring."
+
+> "There's no trying. There's just doing."
+
+> "Just do it."
+
+### The escalating build
+
+> "So many of you are sitting on your hands, artificially crippling your own business and your own
+> growth."
+
+> "When you're not activating your brand's potential, you're participating in its own demise."
+
+> "We're closer to death than we are to living… Do not spend another day doing work that you don't
+> like, for companies that you don't love, for causes you don't believe in."
+
+> "If they can do that, then why not you? What's holding you back?"
+
+> "If you don't do anything, we'll have the same conversation next year. New slides, same
+> conversation."
+
+> "This is the part that's going to hurt your soul a little bit. Ask yourself: do you lack
+> imagination?"
+
+> "Everybody needs to do something in their life that they're not doing, but they won't do."
+
+> "You can't make 10 times more money being the same person."
+
+> "We're showing up to do a good job, but we're not showing up to be excellent. That's the
+> difference."
+
+### The correction, delivered mid-sentence
+
+> "You have a lot of judging language in this."
+
+> "I always worry about when people say they're being honest. That's almost like a blanket statement to
+> excuse being very violent with their choice of words."
+
+> "It's such violent language. I'm not so sure you're wasting your time. You're just using it in an
+> unintentional way."
+
+> "Oh, that's a complicated word."
+
+> "What are you hearing? It doesn't matter what I'm saying."
+
+> "You may be making your own argument for me."
+
+### The story voice
+
+> "It's Saturday morning. I wake up with an immense pain in my belly."
+
+> "Trying to get choked up here."
+
+> "You throw it into the ocean. The thing is, now you have no control where that goes."
+
+> "Son, I'm going to take a bullet for you quite literally right now." … "No, I do tile work."
+
+> "'No way, Jose.' And that's not racist. That is his name."
+
+> "Who tells you how old they are, and who tells you your middle name?"
+
+> "I buy another ticket, I go back in."
+
+> "The only person I could talk to is myself."
+
+> "It's okay if I mess up in front of you, 'cause tomorrow you don't see me. But I don't want to mess
+> up in front of my boy."
+
+> "No, son. This is for you. You have to learn these things in your life."
+
+> "I wanted it for him, but I needed him to catch it."
+
+> "Growing up, I thought Colonel Sanders was a mascot… Find your 11 secret herbs and spices."
+
+> "I have this case of dry mouth. I'm looking at that bottle. I went without drinking the water."
+
+> "I'm a germ freak. Who drank this water? Is this for me?"
+
+### The self-concept, said plainly
+
+> "I aspired to be Spock."
+
+> "My real identity is a teacher. Underneath a graphic designer is a teacher."
+
+> "I care about people, but I don't care about people's opinions of me."
+
+> "This bald Asian fool."
+
+> "I'm a recovering graphic designer."
+
+> "This awkward, socially awkward, super weird person, this loud introvert."
+
+> "We all are, in a way, inventing solutions to our own problems."
+
+> "I am no more important than you, and you're no less important than me."
+
+> "I can't control someone's reaction, and I also have to respect my own boundaries."
+
+> "I have a non-renewable supply of [time]."
+
+### Reference register (this era)
+
+**Jung** (persona/shadow, three attestations) · **Thales** (*to know thyself* / *give advice*) ·
+**Charlie Munger** (inversion) · **Seth Godin** (*The Dip*, *All Marketers Are Liars*) · **Sally
+Hogshead** · **Marty Neumeier** · **Ronald Baker** · **Peter Drucker** · **Austin Kleon** · **Kindra
+Hall** · **Michael Margolis** · **Paul Arden** · **Brené Brown** · **James Clear** · **Anna Lappé** ·
+**David C. Baker** · **Mike Tyson** · **Bruce Lee** · **Dolly Parton** · **Simon Sinek** · **Neil
+deGrasse Tyson** · **Todd McFarlane** · **Aaron Draplin** · **Paula Scher** · **Isaac Asimov**
+(*Foundation*, psychohistory) · **Star Trek** twice (**Spock**; **the red shirt**) · the *Alien*
+franchise · *Vanilla Sky* · *Billy Elliot* · Colonel Sanders · Fiji water.

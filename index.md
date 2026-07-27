@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-27 (ingest yt batch @thefutur, 2 L2 + 1 duplicate → 879 L2 — ★★★ **the Four Agreements**, an original framework the corpus did not have; ★★★ he admits The Futur's own January-2014 content *"is a sales funnel"*; *"normal is just another word for average"*; *"you have to be a **correct** contrarian"*; and ★★★ *"being an entrepreneur is synonymous with being an educator"*)_
+_Last updated: 2026-07-27 (ingest yt batch @thefutur, 1 of 3 → 880 L2 — ★★★ **the 9-1-1 ratio** and ★★★ **"all strategies are autobiographical"**, two named frameworks the corpus did not have; **next iteration is the synthesis checkpoint (Stage S)** — debt 9/10, a fifth ★★★ source, and the 2024→2025 era boundary all reached at once)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **879 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2024-12-31; no rows deferred] + the 2026-07-21 fresh upload; synthesized through batch 133 → persona **v16**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **880 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-01-07, two rows deferred for the synthesis checkpoint] + the 2026-07-21 fresh upload; synthesized through batch 133 → persona **v16**).
 
 ## Topics
 

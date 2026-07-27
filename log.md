@@ -5343,3 +5343,79 @@ Google Ads pivot, his four-stage arc). ⚠️ **Housekeeping**: `yt-pstFSJSQyBU`
 **not a corroborating source.** Carried: the Seth Godin guest episode; the "Adrien" lead; Jasmin Alić's
 first appearance; two earlier Priestley and two earlier Tom Ross episodes; a Jasmine Star stub; and the two
 standing reconciliation tasks (Brian Collins material, the unnamed director).
+
+## [2026-07-27] ingest | yt batch (@thefutur, 1 of 3) — two more frameworks, and the checkpoint is called
+
+**Stage B (P2), `--n 3`.** **One ingested, two deliberately deferred** — because the batch triggered the
+condition I set last iteration. Ledger 879 → **880 L2**.
+
+**Three checkpoint triggers landed at once:**
+1. **Synthesis debt is 9/10** (the driver's threshold is 10).
+2. **A fifth ★★★ landmark** in nine batches — I committed last iteration to firing Stage S early rather
+   than deepening the queue, and this is that case.
+3. **The 2024 → 2025 era boundary.** The loop's own rule fires a checkpoint when *"an ingest channel/era
+   completes"* — @thefutur's 2024 is now drained.
+
+> **Decision: the next iteration is Stage S, not Stage B.** The remaining two rows of this batch
+> (`obu9QUo8jq4`, `Sb80TUwoTOE`) are returned to `L0-discovered` at P2 with transcripts cached. **Neither
+> was skimmed.** Ingesting them now would have added to a queue that already needs draining.
+
+**★★★ The one source ingested is a landmark, and it carries two named frameworks the corpus did not have.**
+
+**1. ★★★ The 9-1-1 ratio.** His answer to the fair objection *"we're going to go poor, because you're not
+allowing us to advertise ever"*: **nine pieces of pure value → one personal post → one hardcore ad.**
+The constraints matter as much as the numbers — the nine are *"all value, **do not ask for anything**, don't
+be sneaky about some offer"*; the one personal post is *"**not about your cat or your dog**, but something
+unusual about you"*; and the ad needs no apology. The rationale is the part to promote: ★★★ *"the reason we
+don't do hardcore ads is because **we haven't earned the right to ask for it.**"* And he puts himself in the
+diagnosis: ★★★ *"a lot of people, **myself included, hide behind all-value educational content** — and then
+people are like: **who the hell are you? You're putting out faceless tips.**"*
+
+**2. ★★★ "All strategies are autobiographical."** He opens the whole talk by disclaiming it: *"**I'm only
+going to tell you to do things that I've done**… but that means **you have to be aware of bias.**"* With the
+instruction for partial disagreement: ★★★ *"**don't fight the whole idea. Just understand the idea**, and
+then think: how might I tailor it for me."* Together with *"I'm borrowing concepts that I barely
+understand"* from a week earlier, that is **two independent epistemic-humility markers in eight days** — a
+stable feature of how he frames advice, not a one-off.
+
+**Also new and immediately usable:** ★★★ **niching argued three ways** — as a choice about suffering
+(*"how long do you want to suffer for?"*), as **cognitive overload on the buyer** (*"you'll short-circuit
+their brain — they won't remember anything, or they'll remember the wrong thing"*), and as an inversion of
+the competition logic (*"you've **inadvertently invited more competition, not less** — and **the goal of
+positioning and marketing is to reduce or eliminate competition**"*). ★★★ **"Low variability in process
+equals low variability in outcome"** (Blair Enns), whose point is commercial rather than operational —
+*"**you want to be safe in the eyes of the buyer.**"* ★★★ **What clients want to *avoid***, not only what
+they want (*"we spend so much time thinking about what we do that we have so little time to understand what
+the clients hate"*). And ★★★ **the quick win / "the journey before the journey."**
+
+> ⚠️ **One misattribution flagged and quarantined**: he credits *Book Yourself Solid* to *"Michael P
+> Porter"*, hedging audibly. It is **Michael Port**; Michael E. Porter is a different person. Recorded,
+> marked, and excluded from promotion.
+
+**Pipeline state:** `@thefutur` P1:0, **P2:197**, P3:44; `@TheFuturAcademy` P3:72; shorts 860; L2=**880**,
+L3=0; synthesis debt **9/10**; persona v16.
+
+> **⚠️ NEXT ITERATION: STAGE S — the synthesis checkpoint.** The queue to drain: **five ★★★ landmarks**
+> (2024-10-13 sales crash course · 2024-10-31 the personal-branding thesis · 2024-11-24 the full
+> "I'm proud of you" argument · 2024-12-31 the Four Agreements · 2025-01-07 the 9-1-1 ratio), plus the
+> ★★-tier material from ~30 other sources since pass 14.
+>
+> **Carried decisions the pass must make explicitly, not by omission:**
+> - **Re-open** the pass-14 call on character-driven content language (2024-12-31 states it independently).
+> - **Hold unmerged**: the two accounts of why he sought therapy; the abrasive self-portrait vs. *"I recede
+>   into the background"*; the educator instinct as virtue vs. commercial liability; the 2024 cold-outreach
+>   position vs. its counter; the MrBeast divergence.
+> - **Promote once, not twice**: teachability-as-mastery (attested 3×), wealth-as-freedom (2×), the
+>   conversion-problem pattern (3×).
+> - **Run verify-no-leak** with the extended Matt Essam grep list **and its two documented exceptions**.
+> - **Do not promote**: the *Think Different*/Kerouac claim; the *Book Yourself Solid* misattribution.
+> - **Reconciliation tasks**: the Brian Collins material (2nd episode?); the unnamed director; the "Adrien"
+>   lead; Jasmin Alić's first appearance.
+
+Synthesis notes: genuinely new this batch — (1) ★★★ **the 9-1-1 ratio**; (2) ★★★ **"all strategies are
+autobiographical"** + the disagree-partially instruction; (3) ★★★ **the three niching arguments**;
+(4) ★★★ **low variability → low risk → safe to buy** (Blair Enns) + **publish your process** +
+**teachability as proof**; (5) ★★★ **what clients want to avoid**, with the camera-shy example;
+(6) ★★★ **the quick win / journey before the journey**; (7) ★★★ **social media as the new résumé**;
+(8) ★★ **niche = market + passion** (Michael **Port**); (9) ★★ **David Baker's 10–50 competitors**;
+(10) ★ a **week-long Ireland tour**, ~late 2024, for the biography. ⚠️ Do not carry the Port/Porter error.

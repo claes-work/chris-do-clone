@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-27 (ingest yt batch @thefutur, **4 of 8** → 784 L2 — batch deliberately split, see log; P2 Feb 2024: how he learned brand strategy (Yo Santosa → Jose Caballer's CORE) with the Ford Aerostar story ★★, the moral-ambiguity disclosure ★★, buy-back-your-time + The Futur's own YouTube economics ★★, and the Core Four / referral script ★★)_
+_Last updated: 2026-07-27 (ingest yt batch @thefutur, 4 → 788 L2 — the four rows deferred from the previous batch, read from cached transcripts; "sales is change management" + "money measures transformation" ★★, the merged Maslow status/identity stack + "mind walking" ★★, and the blunt commercial reason for the Brand Lab pivot ⚠️)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **784 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2024-02-27, with four Feb-2024 rows deferred to the next batch] + the 2026-07-21 fresh upload; synthesized through batch 114 → persona **v14**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **788 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2024-02-27] + the 2026-07-21 fresh upload; synthesized through batch 114 → persona **v14**).
 
 ## Topics
 

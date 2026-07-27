@@ -3238,3 +3238,69 @@ gratitude timing and no-question construction — the corpus has referral *fees*
 portfolio rule**; (8) *"where's the value? In the relationships"* with the 100%-client-defection case;
 (9) the **Tango** case study as the best end-to-end brand-strategy walkthrough available. Deferred
 material is not counted here — it will appear in the next batch's notes.
+
+## [2026-07-27] ingest | yt batch (@thefutur, 4) — the deferred Feb-2024 rows, from cached transcripts
+
+Orient per Stage 0: `SUBJECT.md` unchanged; `ingest_batch.py status` → `@thefutur P1:0 P2:296 P3:44`,
+L2=784/L3=0, debt **5/10**. Stage machine → **Stage B on P2**. A `--dry-run` confirmed the four rows
+deferred from the previous iteration re-selected exactly as predicted (oldest-first): `guhfsArySxU`,
+`Qyb3R0vYgbo`, `fIZD4KHxcow`, `x6z8-ZAXfHE`.
+
+**No fetch this iteration.** Their transcripts were already filed in `raw/` by the previous batch, so I
+read them directly rather than re-running `prepare` — re-running it would have re-downloaded and
+overwritten files that are immutable once written. Ledger and index bookkeeping was done by hand
+against the same work order.
+
+**Ingested (4, all @thefutur, all → L2):**
+- `yt-guhfsArySxU` 2024-02-12 *3 Steps To Get New Customers* — ★★ a masterclass to a paying student
+  audience, and the source of two of the batch's best reframes. **"Sales is change management"** —
+  baseline → benchmark — with a pointed critique of design education attached: *"we define our own
+  benchmarks, and so we don't know how to have a conversation about it with anybody else."* And
+  **"money is a measurement for the amount of transformation you create,"** proved on the room's own
+  $27,000 tuition. Then the section that makes it distinctive: **sell to whoever writes the cheque, not
+  whoever uses the thing** — massage packages sold to spouses, Johnny Cupcakes' *"convince your
+  employer,"* and his own creative director getting *him* to buy a $3,000 course.
+- `yt-Qyb3R0vYgbo` 2024-02-14 *Noah Kagan* — guest-primary and fenced, but important for provenance:
+  **this is the conversation that produced the "what are they trying to avoid?" prompt** Chris teaches
+  twelve days later. The page says so explicitly so the credit survives synthesis.
+- `yt-fIZD4KHxcow` 2024-02-19 *How To Attract New Customers* — ★★ the middle Chris Franklin session, and
+  the most theoretically ambitious. The **merged Maslow stack** (Hormozi's health/wealth/relationships
+  plus **status** and **identity**), the needs-pay-least/wants-pay-most conclusion proved on luxury
+  goods, and **"mind walking"** — his own named exercise for inhabiting the buyer's senses. Also the
+  sharpest thing he says about his own audience: *"empathy is something a lot of creative people
+  champion but are actually really poor at… a lot of artists are tortured souls."*
+- `yt-x6z8-ZAXfHE` 2024-02-22 *Why Most Creatives Fail Online* — guest-primary (**Jule Kim's second
+  appearance**, here on SEO rather than imposter syndrome). Her keyword taxonomy and tripod are fenced.
+  Chris's contribution is one strong closing synthesis — **"rewind the tape"** — which turns out to be
+  the search-side twin of mind walking from three days earlier.
+
+**Bookkeeping:** 4 `ledger_set.py` updates; 4 rows inserted in date order; footer 784 → **788**;
+`index.md` count and status line updated (the "four rows deferred" note removed now that they are in).
+No `raw/` file modified. No persona or topic page touched.
+
+**One item flagged for the next synthesis rather than absorbed quietly.** The corpus now holds **four
+separate tellings of the Brand Lab pivot** — 2023-11-01 (philosophy and the Robin Hood funding logic),
+2024-01-06 (the numbers and the failed sales page), 2024-02-09 ("two sides of the same coin," *"I'm
+adding, not switching"*), and now 2024-02-12, which supplies the part the other three soften: **"we have
+a huge problem at The Futur. We sell to the end buyer and they're all broke. That's why we're not doing
+$10 million a year."** They should be promoted **together**, so the persona can give the honest version
+rather than only the mission-shaped one.
+
+**Pipeline state after this batch:** `@thefutur` P1:0, **P2:292**, P3:44; `@TheFuturAcademy` P3:72;
+shorts 860; L2=**788**, L3=0; synthesis debt **6/10**; persona v14.
+
+> **Next iteration: Stage B (P2).** Checkpoint is 4 batches away. 292 open P2 rows remain.
+
+Synthesis notes: genuinely new this batch — (1) **"sales is change management"** with baseline→benchmark
+as the *definition* of selling, plus the *"we define our own benchmarks"* critique of design education;
+(2) **"money is a measurement for the amount of transformation you create"** — the cleanest answer in
+the corpus to the creative's discomfort with money; (3) **sell to the payer, not the user**, with the
+generosity mechanism (*"we can be more generous for others than we can to ourselves"*) and the leapfrog
+play; (4) the **merged Maslow stack** with status and identity on top, and the needs/wants pricing
+conclusion; (5) **"mind walking"** and its search-side twin **"rewind the tape"** — two names for the
+same discipline, arrived at from psychology and from SEO respectively, and worth promoting as one idea;
+(6) the **tortured-artist empathy critique**; (7) **findability** and *"we trust people we know more than
+we trust qualified people,"* demonstrated on himself; (8) the **Dear Son** content technique with his
+*"dear mother… dear sucker"* self-mockery; (9) the **four questions every website must answer**; (10) a
+third instance of the honest-about-gaps pattern. Carried forward: the four-way Brand Lab reconciliation
+above, and the standing instruction to **credit Noah Kagan** for the avoidance prompt.

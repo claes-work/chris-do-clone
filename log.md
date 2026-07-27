@@ -8460,3 +8460,65 @@ distinction** is a Chris-made framework, invented on camera, worth capturing as 
 (8) ★★ Logged, minor: *"I'm very anti-property"*; *"I don't have a lot of love for people
 who use money to make money"*; the extended-adolescence view; and the face-reading theory
 (offered explicitly as theory, so record it as one).
+
+## [2026-07-27] ingest | yt batch (@thefutur, 2 of 3) — the Futur spin-off; a 13th Essam fence
+
+Batch 172. Prepared 3; **ingested 2, deferred 1 once.** L2 926 → **928**.
+
+**Ingested**
+
+- **2025-06-03 — "What If GREATNESS Isn't Enough For Success?" (Daily Dose: Vlog 004)**
+  (★★★). Finals day at the UPS Store Small Business Challenge in Austin, eight days after
+  Vlog 003 — and it carries the most consequential company news in the recent corpus.
+  Chris says, unprompted and in one pass, that he **spun a portion of The Futur off to his
+  CEO**: *"I came back from Taki's mastermind and I called up my CEO and I said, **'I got a
+  crazy idea. Are you open-minded to spinning off this other group that you can just run —
+  and just taking a portion of the company with you?'** He goes, 'Um, yeah.' So **he has
+  his own company now. He took the coaching portion of the coaching community with him.**"*
+  And the verdict he puts on it: *"**we're down the revenue from that. But we're lighter
+  because of the overhead**… much more aligned, happier, more energetic. I'm loving
+  everything."* Also logged: a **TV-show executive-producer credit**, and *"this year has
+  been a really good year of rebuilding… it's just financially it's not reflective of
+  momentum."* All recorded as **self-reported** and with the CEO **unnamed**, exactly as
+  the source leaves it.
+
+  The teaching half is a complete argument for **social-as-résumé**: *"social media is the
+  new resume, because resumes, people lie"*, evidenced by a speaker he recommended being
+  refused for an event over their following (*"they're not going to chase a rabbit hole…
+  they just see: oh my god, this is a big person, or this is a nothing"*), the prescription
+  (*"dedicate at least 10% of your time, your energy, **your life force**… it's not about
+  selling or building funnels"*), and the closing indictment — *"**when you're not
+  activating your brand's potential, you're participating in its own demise.**"*
+- **2025-05-27 — "What REALLY Holds You Back from Closing More Deals"** — ⚠️ **NOT CHRIS.
+  THIRTEENTH Matt Essam instance, zero Chris Do content**, fence page only, per the
+  established pattern. But this one earns its page: debriefing his sales roleplay, **Essam
+  characterises Chris's style on air for the first time** — *"this is a **very different
+  style of sales**, and **I know Chris for example is a big fan of just kind of trying to
+  get to that budget conversation as quickly as possible** — like, do I want to talk to this
+  person or not."* Recorded on the source page and on
+  `wiki/entities/matt-essam.md` as an **external cross-check on the qualify-fast material,
+  explicitly not as a citation for what Chris believes.**
+
+**Deferred (once, with reason)**
+
+- `yt-4ZS8dMwPObk` — 2025-05-29, *"Content Strategy for Business Owners (That Actually
+  Works)"*. **124,510 B**, second-largest of this run, and a guest interview with Chris
+  questioning throughout — it needs a dedicated batch and a full speaker-attribution pass.
+  **Queued first for batch 173; it will not be deferred twice.**
+
+**Synthesis notes:** (1) ★★★ **The Futur spin-off is the highest-value item in this batch**
+and currently has no other account anywhere in the corpus — it belongs on
+`wiki/entities/the-futur.md` and in `persona/biography.md`, dated 2025-06-03, marked
+**self-reported**, CEO unnamed. Note the shape of the trade he endorses: **less revenue,
+less overhead, smaller team, content-led — and he frames that as a gain.** (2) ★★★
+**Social-as-résumé** is now a complete argument with evidence and a number attached (10% of
+time/energy/"life force") and should replace the scattered versions in
+`topics/content-strategy/`. The closing line — *"you're participating in its own demise"* —
+is persona-grade. (3) ★★ **The relatability / ambition / professionalism triangle**, with
+both failure modes named, is a usable pitch-judging framework and joins the speaking
+material queued from 2025-05-13 and 2025-05-25. (4) ✅ *"Don't worry about finishing early…
+they'll remember more"* corroborates the **say-less** rule from Vlog 003 eight days
+earlier. (5) ⚠️ **Essam's characterisation of Chris's sales style** should be added to the
+`topics/sales-clients` page as an *outside* observation with its fence intact — useful, but
+never as a source for Chris's own position. (6) Caption flag: **"Taki's mastermind"** →
+likely **Taki Moore**, recorded as heard, not asserted.

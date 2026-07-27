@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-27 (ingest yt batch @thefutur, 1 → **926 L2** — the Simon Squibb interview, guest-dominated and heavily fenced; Chris-only: *"you will never go broke telling a story of the underdog"*, his interview method said out loud, gift-with-expectation = manipulation, passionate detachment challenged and not conceded, and a rare marriage-friction admission)_
+_Last updated: 2026-07-27 (ingest yt batch @thefutur, 2 → **928 L2** — ★★★ **the Futur spin-off told on camera** (the CEO took the coaching arm; *"we're down the revenue but we're lighter because of the overhead"*) and **social-as-résumé** with the 10%-of-your-life-force allocation; plus a 13th Matt Essam fence page — the first in which Essam characterises Chris's sales style on air)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **926 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-05-25, no deferrals outstanding] + the 2026-07-21 fresh upload; synthesized through batch 163 → persona **v19**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **928 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-06-03; one row deferred once — a 124 KB guest interview, queued first for next batch] + the 2026-07-21 fresh upload; synthesized through batch 163 → persona **v19**).
 
 ## Topics
 

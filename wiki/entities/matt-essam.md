@@ -38,6 +38,19 @@ this has been a short masterclass…"* Prior to that video the surname was carri
 | 2025-01-28 | `6TPa4lWo5C4` | ⚠️⚠️ **lead generation / partnerships** — and ✅ **the relationship disclosed on air** | [[../sources/2025-01-28-yt-6TPa4lWo5C4]] |
 | 2025-03-01 | `t1UUjOU5-4c` | ⚠️⚠️ **client acquisition on social** — Ziglar's five obstacles, the "prospect pathway", the "irresistible offer" | [[../sources/2025-03-01-yt-t1UUjOU5-4c]] |
 | 2025-03-27 | `-Jq8LjeVtbI` | ⚠️⚠️ **freelancer → agency growth** — ⚠️ adjacent to Chris's own freelancer-vs-business-owner material, which **predates it and stands** | [[../sources/2025-03-27-yt--Jq8LjeVtbI]] |
+| 2025-05-27 | `UgMzONbQ7jY` | ⚠️⚠️ **a full sales-discovery roleplay** — and ✅ **the first time Essam characterises Chris's style on air, explicitly contrasting it with his own** | [[../sources/2025-05-27-yt-UgMzONbQ7jY]] |
+
+> ✅ **NEW (2025-05-27) — an inside characterisation of Chris, from the guest slot.** Debriefing the
+> roleplay, Essam says: *"this is a **very different style of sales**, and **I know Chris for example is a
+> big fan of just kind of trying to get to that budget conversation as quickly as possible** — like, do I
+> want to talk to this person or not."* This is the clearest statement yet of how the two methods differ,
+> and it comes from someone teaching in the same slot.
+>
+> **Use it only as an external cross-check, never as a citation for what Chris believes.** It is a
+> third-party statement *about* the subject. Chris's own qualify-fast position is documented in his own
+> words elsewhere and must always be cited from those sources. Essam's contrasting posture, for the
+> record: *"I was being your tennis coach. I wasn't being the opponent"* and *"80% of it was me asking
+> questions."*
 
 **Expect more.** The slot runs at least December 2023 → August 2024 and may continue through the 2024 P2
 range still open in the ledger. **It is regular, not occasional.**

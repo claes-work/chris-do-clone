@@ -5081,3 +5081,96 @@ multivariate testing economics, the five-whys method, the Camino case study, the
 the two rows deferred today; the Seth Godin guest episode; two earlier Priestley and two earlier Tom Ross
 episodes; a Jasmine Star stub; and the two reconciliation tasks from batch 137 (the Brian Collins material
 and the unnamed director episode).
+
+## [2026-07-27] ingest | yt batch (@thefutur, 2 of 4 — two deferred) — why the agency became a media company
+
+**Stage B (P2), `--n 4`.** Both rows deferred from batch 138 resumed at the front and were ingested — **no
+row deferred twice**, three batches running. Ledger 874 → **876 L2**.
+
+| id | date | what it is |
+|---|---|---|
+| `yt-t7exym6wXBY` | 2024-12-05 | ★★ **Matthew Encina** — guest-primary, but heavy with Chris material |
+| `yt-29C2qGyYjzc` | 2024-12-11 | Jasmin Alić — tactics-heavy, low Chris density |
+| `yt-DCa1tziujuU` | 2024-12-17 | ⏸️ **DEFERRED** — flagged **high priority** to read properly |
+| `yt-e8S1L5o-GVc` | 2024-12-19 | ⏸️ **DEFERRED** |
+
+**1. ★★★ The corpus finally has the origin of the pivot — and it wasn't his idea.** Talking to his former
+creative director, Chris credits the company's defining strategic turn to *him*: *"you've been pretty
+instrumental in shaping a couple of big seismic changes within my own thinking… you're like: ★★★ **Chris,
+what if we just focus on doing just the Futur? No more Blind service work.** And it took me a beat. I'm
+like: okay, let's try."*
+
+And the arithmetic he ran, which is the part the corpus has never had: ★★★ *"when we book a **$600,000
+job**, you're not keeping $600,000 — **you might keep $150[K]** — but then **the rest of the year you're
+just burning that 150 down to nothing.** … **You're just keeping the machine going.**"* Against: *"an
+educational product isn't super expensive for us to produce — we could make 100 or 200,000, but **almost
+all of it would be profit.** And **it's IP** — hopefully **a perennial seller.** You're **building a
+library.**"* His verdict: *"that surprisingly **just messed my brain up in the very best ways.**"*
+
+**2. ★★★ Three more keepers from the same hour.**
+- On having given the team creative freedom: ★★★ *"**when you open the gate, the chickens run. They don't
+  want to go back in the cage.**"* — and it was unanimous, *"to the man, to the human."* Then the joke on
+  himself: *"**honey, I screwed up. I messed up the company by giving everybody so much freedom.**"*
+- On what the guest bought by earning 4× his salary in year one: ★★★ *"**the real meaning of wealth: not
+  that you have a lot of money, but the freedom to do what you want.**"* (Set up with Drucker's *all profit
+  comes from risk*.)
+- ★★★ **A rare exposed admission about alumni**: *"sometimes people leave, or are asked to leave, and **I
+  don't ever talk to them again — and it makes me wonder a lot about: was there more in the relationship
+  than I thought, or was there less?** … **Unless I betrayed you, or was disloyal, or did something
+  unethical, why shouldn't we have a relationship?**"*
+
+**3. ★★ And a clean statement of the Futur's content model — made against advice he had just praised.**
+After admiring the guest's meticulous planning (and comparing it to a well-known podcaster's A/B testing),
+he declines to adopt it: ★★★ *"**we're a volume kind of operation. I have an idea, we just make it. There's
+not a lot of planning or thinking — things go out, we adjust on the fly. That's kind of our style.**"* This
+is the **third** independent statement of the ~30K view benchmark, and it comes with the self-assessment
+*"**I always believe what we make is kind of boring**… so it's always to my surprise that we have a couple
+million subs, and **I don't even know who's here. Why are you guys here?**"*
+
+> ✅ **A name resolved.** The caption-garbled *"one of my former creative directors, Matthew and Cena"* on
+> [[2024-12-03-yt-Vu4l1CluzCU]] (the headphone recommendation) is **Matthew Encina**, confirmed here by
+> self-introduction. Noted on both pages.
+>
+> ⚠️ **A flag left open, deliberately.** This does **not** resolve the unnamed director in the 12-01
+> compilation — that clip show covered **November** episodes and this is December. The flag stands.
+
+**4. The Alić episode is tactics-heavy and thin on Chris**, and the page says so. One keeper, and it is a
+good one — his **AI position**, argued on grounds of self-development rather than output quality:
+★★★ *"**if we use AI for everything, then what do we need you for?** … **AI can make things better than
+you. But you are not better.** … **If you don't write, you're not really thinking.**"* Plus the concrete
+behaviour behind the *"fake engagement"* complaint from November: *"I just type in the word **bot** and a
+question mark. And they never reply."*
+
+**Deferrals (no silent caps).** Two rows deferred — `DCa1tziujuU` and `e8S1L5o-GVc`, both December personal-
+branding episodes whose titles suggest they pair directly with the 2024-10-31 *"98% are fake"* thesis. The
+first is flagged **high priority**: it should be read properly, not squeezed. **Calibration: batch size
+drops to 3.** Four rows has produced a two-row deferral three batches running; the binding constraint is
+per-source depth, not throughput, and a smaller batch that finishes is worth more than a larger one that
+carries debt forward.
+
+**Pipeline state after this batch:** `@thefutur` P1:0, **P2:204**, P3:44; `@TheFuturAcademy` P3:72;
+shorts 860; L2=**876**, L3=0; synthesis debt **6/10**; persona v16.
+
+> **Next iteration: Stage B (P2), `--n 3`.** 204 open P2 rows, led by the two deferred December rows.
+
+Synthesis notes: genuinely new — (1) ★★★ **the origin of the Blind→Futur pivot**, credited to a named
+employee, **with the $600K/$150K arithmetic and the IP/perennial-seller argument** — the corpus's best
+answer to *why did the agency become a media company*, for [[../entities/the-futur]] and
+[[../entities/blind]]; (2) ★★★ ***"when you open the gate, the chickens run"*** — the cost and consequence
+of giving creative freedom; (3) ★★★ **wealth as freedom, not money**; (4) ★★★ **the alumni admission**
+(*"was there more in the relationship than I thought, or was there less?"*) for `persona/voice.md` — it is
+uncharacteristically exposed and pairs with the caretaker material from 11-24; (5) ★★★ ***"we're a volume
+kind of operation"*** — a dated, explicit statement of the content model, notable because it is stated **in
+contrast to** advice he had just praised, and it is the same posture as declining Kane's format discipline;
+(6) ★★★ **the AI position** (*"AI can make things better than you, but you are not better"* / *"if you
+don't write, you're not really thinking"*) for the content hub and `persona/beliefs.md`; (7) ★★ *"there can
+be no such thing as bad news"* and *"why so long?"* as a management posture; (8) ★★ *"I always believe what
+we make is kind of boring"*; (9) ★ *"instead of chasing, you're choosing who you want to work with"* —
+inbound restated, consistent with 11-24. Fenced: **Matthew Encina** (his channel history, the 4×-salary
+year, the royalty/partnership structure, the dark-room metaphor, *"fear and excitement feel the same in
+your body"*), **Jasmin Alić** (pinned comments, the one-line hook rule, sign-posting, kill-the-niche,
+the engagement hour, and the December-2024 platform statistics). ⚠️ **Ledger leads to chase**: an episode
+with **"Adrien"** referenced on the 12-05 page; **Jasmin Alić's first appearance**; and the two standing
+reconciliation tasks (the Brian Collins material, the unnamed director). Carried: the two rows deferred
+today; the Seth Godin guest episode; two earlier Priestley and two earlier Tom Ross episodes; a Jasmine
+Star stub.

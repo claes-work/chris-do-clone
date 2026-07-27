@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-27 (ingest yt batch @thefutur, 2 of 4 — two deferred → 874 L2 — ★★★ the **full "I'm proud of you" argument** with its resolution and the therapist's correction; ★★★ **caretaker / middle child**, self-identified, and *"I recede into the background"* — which complicates the abrasive self-portrait; ⚠️ a **second, different account** of why he sought therapy, flagged not merged)_
+_Last updated: 2026-07-27 (ingest yt batch @thefutur, 2 of 4 — two deferred → 876 L2 — ★★★ **the origin of the Blind→Futur pivot**, credited to a named employee and costed; *"when you open the gate, the chickens run"*; **wealth = freedom, not money**; and the AI line: *"AI can make things better than you. But **you** are not better"*)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **874 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2024-12-03, two rows deferred] + the 2026-07-21 fresh upload; synthesized through batch 133 → persona **v16**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **876 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2024-12-11, two rows deferred] + the 2026-07-21 fresh upload; synthesized through batch 133 → persona **v16**).
 
 ## Topics
 

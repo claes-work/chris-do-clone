@@ -9004,3 +9004,99 @@ and *needy is repulsive* now has its positive inverse attached (*"how can I serv
 **Inner peace as the attractor** and the Dalai Lama theory → `topics/mindset`; note he offers it
 explicitly as *"my theory"*. (8) Carried debt updated: **a first Jasmin Alić episode is confirmed to
 exist and is still unlocated.**
+
+## [2026-07-28] ingest | yt batch (@thefutur, 2 of 3 — one deferred) — the VidCon keynote
+
+Batch 177. Prepared 3; **ingested 2, deferred 1 once.** L2 935 → **937**.
+
+- **2025-07-29 — "Why You're Still Invisible (VidCon Personal Branding Talk)"** (★★★ **LANDMARK**).
+  A solo keynote, and **the most complete statement of the personal-branding argument anywhere in the
+  corpus.** Several claims already recorded from shorter sources appear here in their fullest,
+  best-evidenced form — social-as-résumé, the water argument, the Dip, the authenticity gap, *be the
+  youest you* — so **this is the citable version from here on.**
+
+  **The diagnosis:** *"**it's not the attention economy… attention IS the economy. This is where all
+  the money is being made**"*; *"**we've moved from the age of character to the age of personality** —
+  it used to be we were judged by the things that we did… **character, the thing that we held in very
+  high regard, is seemingly disappeared**"*; and *"**there are riches in the reaches**"* against the
+  usual *riches in the niches*.
+
+  **Thesis one — don't chase new**, argued rather than asserted, with *The Fountain* (52% RT, $16M on
+  $35M — *"I watched the film. **I cannot remember the film**"*), *Cloud Atlas*, and Tom Cruise
+  (*"he's laughing all the way to the bank"*). And a genuinely new addition to the Dip material: **the
+  restart loop** — *"the joy wears off… and so what do we do? '**I have a new idea. Let's start
+  again**' — because when we start again it becomes new and fun again. **And we're stuck in the
+  dip.**"* Then the reframe the whole talk turns on: *"**new is an external infinite pursuit of what's
+  next**… **original is an internal quest to discover yourself. The root word of original is ORIGIN**"*
+  → ★★★★ *"**branding isn't so much an act of creation — it's the act of remembering.**"*
+
+  **Thesis two — don't chase better**: the brand-or-product game, *"**you've been sold a brand. I
+  promise you**"*, Godin's *All Marketers Are Liars* (*"**we're complicit in the lie. We taste the wine
+  before we drink it**"*), and ★★★★ *"**products focus on features, whereas brands focus on
+  meaning.**"* With **the good/different quadrant** and its demotion of quality to a ticket price:
+  *"**good is the price of entry. You don't get to play the game if you're not good. And good is not
+  enough.**"*
+
+  **The teaching device worth stealing:** inversion, credited to Munger — *"**how do you hide in plain
+  sight?**"* — worked through the uniform, then online (*"**don't do anything**… **copy everyone**"*),
+  then the full blend-in profile (*"**spray and pray**… **you say the most empty things. You straddle
+  the fence. You never have a point of view. Shiny happy all the time, forever**"*), and finally
+  *"**how did I show up today?** … **give yourself a score.**"*
+
+  Plus **the "too much" list** (*"Steve Jobs is too obsessive, Oprah's too emotional"* → *"**your
+  perceived flaws aren't flaws at all. The flaws are your advantage**"* → the reframe exercise as
+  *"**leaning into your shadow self and healing from inside**"*), **the repeatable story** (*"**a story
+  so powerful that someone else will do your marketing for you**"*), ✅ a **third Jung attestation**
+  carrying the best formulation of the gap so far (*"**a lot of us walk around fractured, because
+  we're not in love with all of us**"*), and a close that is unusually blunt: *"**we're closer to
+  death than we are to living**… **do not spend another day doing work that you don't like, for
+  companies that you don't love, for causes you don't believe in.**"*
+
+  ✅ **New: the origin of *"I'd rather be hated for who I am"***, from a Clubhouse post-mortem with an
+  Art Center professor who told him to tone down the edge — *"**they didn't misunderstand me at all. I
+  am edgy**… and I think they're there in that room **because I am**"* — with the structural insight
+  attached: **the academic training that rewards careful communication is the exact training that
+  fails online.** ✅ Also new: **the Glendale unlabelled-water story**, in which he lives his own
+  argument and refuses to drink.
+
+- **2025-07-13 — "How to MAKE MONEY Being You!"** (★★★). The hard answer to *"how do I detach from
+  outcomes when I need the money now?"* ★★★★ **Talent vs. skill and the move that hides between
+  them**: *"a lot of people mix these up — '**I don't have talent for it**' — but what they mean is
+  '**I haven't put enough time into learning the skill**'. **And what that is, is a self-preservation
+  mechanism. You're defending yourself against the idea that it's going to take a lot of work.**"*
+  Plus **the two-column money/love audit** with the basketball argument (*"**you found time, didn't
+  you?**"*), *"**artificially handicapping yourself**"*, ★★★★ **the double-sided safety net** (*"the
+  net catches you when you fall — **but it catches you when you try to fly, too**"*), **pay your dues**
+  via Ash Thorp's commute to Kyle Cooper's studio, and a closing prescription that does not soften:
+  *"**sell all your junk. Live like a monk**… eat ramen,"* justified by the portfolio humiliation
+  (*"**a portfolio that I thought was really good now looks like garbage**"*).
+
+  ★★ **New biography**: he **applied to exactly one school** (*"I didn't even consider schools two,
+  three or four"*), refused his uncles' pull back to San Jose because *"**the heart of advertising is
+  in LA or New York**"* and stayed *"despite it being uncomfortable for my family"* — and later **his
+  parents sold their house and moved to LA** to be near their children. ✅ And a **fifth attestation of
+  the non-violent-language thread**: he stops his co-host mid-summary — *"**it's such violent
+  language. I'm not so sure you're wasting your time. You're just using it in an unintentional
+  way.**"*
+
+**Deferred (once, with reason)**
+
+- `yt-aaBt9lSDpHY` — 2025-07-31, w/ **Klaus Kleinfeld** (ex-Siemens/Alcoa CEO). **52,304 B**, a guest
+  episode needing a full speaker-attribution pass; deferred because the VidCon landmark consumed the
+  batch. **Queued first for batch 178; it will not be deferred twice.**
+
+**Synthesis notes:** (1) ★★★★ **The VidCon keynote should become the anchor citation for
+`topics/branding`**, with the shorter sources demoted to corroboration. **Branding is the act of
+remembering** (with *original → origin*) is the single best line and currently has no home.
+(2) ★★★★ **Attention IS the economy** and **the age of character → the age of personality** are both
+new and both belong in `persona/beliefs`. (3) ★★★★ **The good/different quadrant** and **products =
+features / brands = meaning** give `topics/branding` the structure it lacks. (4) ★★★★ **Inversion —
+"how would you hide in plain sight?"** is a complete teaching device and should be written up as one,
+ending on *"give yourself a score."* (5) ★★★★ **The "too much" list** is an exercise, not an aphorism —
+promote it as a procedure with the reframe questions attached. (6) ✅ **The Dip's restart loop** is the
+missing mechanism under the existing Dip material; merge, don't duplicate. (7) ★★★★ **Talent vs. skill
++ the self-preservation move** and **the double-sided safety net** are the two strongest items from
+07-13 and belong in `topics/mindset`. (8) ★★ **Biography additions**: one school only; the San Jose
+refusal; the parents' later move. (9) ✅ **Non-violent language, fifth attestation** — now including
+correcting a colleague on air, which is a *behaviour*, not just a belief. (10) ⚠️ **Cross-clone**:
+Hormozi appears in a long third-party anecdote and Gary Vee in the "too" list; both fenced.

@@ -7939,3 +7939,94 @@ first** — *"a really bad imitation… is the biggest insult"*; (9) ★★★ *
 you don't do any of the development"**; (10) ★★ **leaky-tire syndrome** and the catchphrase; (11) ★★ **read
 *Understanding Comics* in college** and **the early public-speaking butterflies** → `persona/biography.md`.
 ⚠️ **Record the 198-vs-100 discrepancy**; ⚠️ **the Gary Vaynerchuk aside stays fenced from that clone.**
+
+## [2026-07-27] ingest | yt batch (@thefutur, 2 of 3 — one deferred) — Socratic Selling, and two buildings
+
+**Stage B (P2), `--n 3`.** Ledger 917 → **919 L2**.
+
+| id | date | what it is |
+|---|---|---|
+| `yt-NQT1lgXPPHs` | 2025-04-22 | ★★★ **LANDMARK** — *Socratic Selling*, in full |
+| `yt-QRSvh_h4iec` | 2025-04-27 | short vlog — **format launch**, and a datum confirmed |
+| `yt-yyZ-d8wWJc4` | 2025-04-25 | ⏸️ **DEFERRED** — see the reason, it's not just size |
+
+**1. ★★★ *Socratic Selling* gets the full treatment — and supplies three scripts the corpus lacked.** The
+book has been a passing citation for a while (it was the cleared source for *cost of inaction*). Here it
+gets twenty minutes, opening with an unusually plain admission: *"**early in my career I used to hate sales.
+I detested it.** ★★★ **Being an introvert made it even worse.** I thought the whole process was **super
+cringe and gave me that feeling of ick.**"*
+
+> ⚠️ **And note the direction he claims for the book**: *"it **unpacks everything I've learned in my life and
+> career**… it **helped me understand WHY what I did for the last 25 years worked.**"* **He frames it as
+> retroactive explanation of an existing practice, not as its source. Recorded that way.**
+
+**The three scripts:**
+- ★★★ **The Socratic opener**, verbatim: *"**Mr Jones, I prepared to talk to you about brand identity design,
+  which we discussed on the phone. Now if you could give me your perspective on that, we can focus the
+  meeting on what interests you.**"* It exists to defeat an order-of-operations error he names precisely:
+  presentation → company → products → *then* questions is *"**exactly the wrong way**, because **in the mind
+  of the buyer, all you've been doing is talking about yourself the entire time.**"*
+- ★★★ **Full-value listening — and a genuine heresy.** *"I know this is a slap in the face of everyone who's
+  ever thought this: ★★★ **when talking to a prospect, it's LESS important that you make eye contact and
+  MORE important that you actually take notes.**"* The reasoning matters more than the slogan — while you
+  hold eye contact they are wondering *"**is any of this being retained?**"* — and the power framing:
+  *"**people who are in charge — when they speak, people take notes.**"* With the line he pulls from the
+  book: ★★★ *"**a tape recorder remembers everything but understands nothing.**"* ★★ Plus **suitcase
+  words** — *"words that have multiple meanings; **you literally have to unpack it**."*
+  ★★★ **Told against himself**: *"**my wife will often give me very complicated instructions**, and I'm
+  listening intently… **but because I'm not [writing], she starts to wonder** — ★★★ **and she'll say: hey,
+  are you listening to me? — I'm like: of course I am.**"*
+- ★★★ **The conditional close**, with its subtle half. *"**If you SAW a proposal that solved ABC problem, on
+  XYZ timeline, for Z price — would you be willing to move forward?**"* Why *saw* and not *sent*: ★★★
+  *"**you're not putting yourself in there** — this is **third party, neutral and objective** — **versus *if
+  I sent you a proposal*, [where] the client has to think: if I say yes, it means I'm agreeing to YOU.**
+  ★★★ **We don't take the client's power away by taking away their decision-making ability. We must let
+  them make all the choices.**"*
+
+**Also**: ★★★ **all sales is about the past** — *"**somewhere in the client's past a problem existed that
+warranted this conversation today**… when it hits a boiling point they act — ★★★ **a compelling event.**
+**So before we can go to the future, we must go to the past**"* — leading to *"**put your finger on the
+pain**"* and ✅ **selling pain relief**, the same term as the March whiteboard session; ★★★ **dollarize the
+value**, with the **Costco/Gucci** analogy and **his own father** as the worked example (*"for my dad it
+could just be **convenience, or durability, or made in the USA**"*); and the reason he likes the book at
+all: *"most sales gurus [are] **really aggressive… it's about manipulation, forcing your will on another
+person.** ★★★ **And it's no wonder a lot of us hate sales.**"*
+
+⚠️ **Two things flagged.** The episode **ends with an affiliate-link disclosure**, stated plainly — **the
+recommendation is monetised and he says so**, which is recorded. And it sits **against last week's claim**
+that *Win Without Pitching* is *"the book I refer to the most, hands down, bar none"* — **different claims
+(most-referenced vs favourite-on-sales), both recorded, neither resolved.**
+
+**2. ★★★ A three-minute vlog confirms a datum I had only in passing.** Eighteen days ago he mentioned *"he's
+got two buildings"* while listing his own prerequisites. Here: ★★★ *"**I have two buildings in Santa
+Monica**… the portion we had was **9,000 ft²**… **it could accommodate 100 people for a workshop.**"*
+✅ **Confirmed and expanded — location, scale, and use.** ⚠️ **Tense recorded exactly as given** (*"I have"*
+vs *"the portion we had"*) — **no inference drawn about current tenure.**
+
+★★★ **And the best line is a self-description of the company**: *"**we don't run like a traditional office
+business. It's really a media production at this point.**"* With the April-2025 search criteria — *"**high
+ceilings. I like some character. I don't want a cookie-cutter building**… street visibility, walkability"* —
+the intended build-out (**a giant LED wall, a lighting grid, guest teachers, content**), honest utilisation
+(*"**most of the time empty when we're busy** — three or four days a month we'd be shooting"*), and the
+verdict: ★★★ *"**It's not the one. Too many challenges.**"*
+
+**Deferral (no silent caps) — and the reason is not size.** `yyZ-d8wWJc4` (*"The Real Job of a Sales
+Call"*, 15.5KB) sits **immediately adjacent to the Socratic Selling page and very likely overlaps it**.
+**It deserves a careful read AGAINST that page rather than a rushed one that would either duplicate it or
+miss where it diverges.** Cached, not skimmed; **takes the next batch first.**
+
+**Pipeline state:** `@thefutur` P1:0, **P2:158**, P3:44; `@TheFuturAcademy` P3:72; shorts 860; L2=**919**,
+L3=0; synthesis debt **3/10**; persona v19.
+
+Synthesis notes: genuinely new — (1) ★★★ **the Socratic opener**, verbatim; (2) ★★★ **full-value listening**
+and **the anti-eye-contact instruction** — ⚠️ **promote with its reasoning, not as a slogan** — plus *"a tape
+recorder remembers everything but understands nothing"* and **suitcase words**; (3) ★★★ **all sales is about
+the past** + **the compelling event** — a new sequencing rule; (4) ★★★ **the conditional close** and
+especially **the third-party framing** with *"we must let them make all the choices"*; (5) ★★★ **the
+order-of-operations error** (presentation first is *"exactly the wrong way"*); (6) ★★★ **dollarize the
+value** with **Costco/Gucci** and **his father**; (7) ★★★ *"I used to hate sales… being an introvert made it
+even worse"* → `persona/biography.md`; (8) ★★★ **two buildings in Santa Monica, ~9,000 ft², 100-person
+capacity** → biography + `entities/the-futur`; (9) ★★★ *"we don't run like a traditional office business —
+it's really a media production at this point"*; (10) ★★ **the April-2025 property search and its criteria**.
+⚠️ **Record that he frames *Socratic Selling* as retroactive explanation, not source**; ⚠️ **record the
+affiliate disclosure**; ⚠️ **hold the two "favourite book" claims apart.**

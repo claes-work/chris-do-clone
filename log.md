@@ -7535,3 +7535,82 @@ figure** (entity page done); (10) ✅✅ **the non-violent thread, all four sour
 (13) ★★★ **empathy vs the hijack**, with *"it's because I actually really care"*; (14) ★★★ **the two failure
 modes of questions**; (15) ★★★ **"who told you you can't do that?"**; (16) ★★★ **the weird-art-kid passage**
 → `persona/biography.md`. ⚠️ **Credit Sally Hogshead**; ⚠️ **hold safe-space vs unsafe-space apart.**
+
+## [2026-07-27] ingest | yt batch (@thefutur, 1) — pricing as empathy, and an outside view
+
+**Stage B (P2), `--n 3`.** The row deferred from batch 162 was taken first and proved a landmark, so it took
+the batch. Ledger 913 → **914 L2**. **No deferrals outstanding. Synthesis debt now 10/10.**
+
+| id | date | what it is |
+|---|---|---|
+| `yt-2FI0Dk44-vo` | 2025-04-02 | ★★★ **LANDMARK** — guest episode he **argues with**; ⏸️ from 162 |
+
+**1. ★★★ Pricing as empathy — the moral argument that has been missing.** He raises it himself, knowing it
+sounds odd (*"I know that's a weird angle to take with this empathy conversation"*), first concedes the
+boundary (*"**you're not going to price-gouge** — when nobody has toilet paper, ten dollars a sheet. **Okay.
+That's not what I'm talking about**"*), and then:
+
+> ★★★ *"**By having fixed pricing or hourly pricing, it's the LEAST empathetic thing that you can do.** Not
+> all customers are the same — different needs, different capacity to spend — **and the outcomes of the work
+> you do, despite it being exactly the same, will have different impacts on people.** ★★★ **The same logo
+> you designed for Walmart is going to be very different than Joe and Mary's bakery.** So if you want to be
+> empathetic, **understand the customer's needs first, and what kind of impact — and charge accordingly.**
+> ★★★ **Sometimes it's not much, so charge less. And sometimes it's a lot more — charge more.**"*
+
+**The corpus has *price the client, not the job* as a yield argument. This is the fairness argument for the
+same doctrine** — and it answers the exploitation objection head-on rather than dodging it.
+
+★★★ **Then he argues against himself, and flags that he's doing it**: *"**I'm going to argue both sides of
+this — I tend to do this a lot.**"* The counter: **publish a floor**, *"my projects start at X"*, so that
+*"**I shouldn't even bother wasting an hour of Chris's time on a discovery call if I can't even hit that
+minimum.**"* ⚠️ **Both halves are his. Recorded unresolved.**
+
+**2. ★★★ The crying theory — an admission with a worked-out position behind it.** *"**My wife is a very
+emotional person**… she'll start to cry, **and I'm sitting here listening to her and I don't cry**… ★★★ **and
+I think she would probably feel better if I just started crying. But I have this whole theory.**"* The
+theory: *"if you cry and then I cry, ★★★ **the person who needs some understanding, some empathy, is being
+ROBBED of it — because now I made it about me.** ★★ **And I have problems with this.**"* With the hedge:
+*"maybe [she has] higher mirror neurons than I have — I don't know. **I have to control myself: don't make
+it about you right now.**"* ⚠️ **Wife referenced, never named.**
+
+**3. ✅✅ An outside view on the abrasive/warm question — from a subject-matter expert.** Chris describes
+stripping the framing off an unreasonable request. **The guest — who writes about empathy for a living —
+reclassifies it for him:**
+
+> ★★★ *"**That's actually empathetic**, because **you're listening and trying to get to the root of what the
+> person's context is.** … ★★★ **Even when you respond in that sort of tough way** — *no, but let's look at
+> what the root cause is* — ★★★ **that's highly empathetic. That requires curiosity, that requires active
+> listening.**"*
+
+**Pass 16 resolved the split using his own explanation; 2025-03-05 supplied the consistency half. This is
+the third leg: an expert, unprompted, classifying the blunt register as empathy rather than its opposite.**
+
+**Also**: ★★★ **suspicion of the self-declared empath** — *"**I very rarely find that people who are
+empathetic need to tell you they're empathetic**… **the fact that you say it makes me question it.**
+★★★ **Demonstrate it. You don't need to label it**"* (with an honest hit-rate: *"nine out of ten times"*);
+★★★ **the train-at-the-station deflation** — *"**when a train comes to a stop at a station we don't say *I'm
+an empath* — we just notice a change**… **that's not being an empath, it's just noticing things**"*, ✅ which
+strips the mystique off the same skill as *the body cannot lie* the day before; ★★ **a third register of the
+Daywalker** — *"**I highly identify as a logical person, but I can speak to emotion… through the cognitive
+lens. I'm not sure**"*; and ✅ **second attestation of *secondhand woo*** (*"my wife is deep in the woo…
+**I have secondhand woo**"*), plus two coinages of the moment the guest asks to borrow — *"**woo curious**"*
+and *"**the wooverse**"*.
+
+> ⚠️ **The guest half is fenced.** Maria Ross's **empathy hijacking**, **weaponizing empathy**, **empathy in
+> joy** and **clarity-as-empathy** are hers, and **her account of surviving a ruptured brain aneurysm is
+> recorded by category only and never retold.** ⚠️ **She needs an entity page — flagged for the synthesis
+> pass alongside Andrea Sampson.**
+
+**Pipeline state:** `@thefutur` P1:0, **P2:163**, P3:44; `@TheFuturAcademy` P3:72; shorts 860; L2=**914**,
+L3=0; **synthesis debt 10/10 — CHECKPOINT DUE**; persona v18.
+
+> **Next iteration: Stage S — synthesis pass 17.**
+
+Synthesis notes: genuinely new — (1) ★★★ **pricing as empathy** — the **moral** defence of *price the
+client, not the job*, with the Walmart/bakery case and the price-gouging boundary conceded — ⚠️ **promote
+with the self-argued counter-position (publish a floor)**; (2) ★★★ **the crying theory**, with the admission
+about his wife; (3) ✅✅ **the guest's expert reclassification of his blunt manner as highly empathetic** —
+**the third leg of the abrasive/warm reconciliation, and the only one from outside**; (4) ★★★ **demonstrate
+it, don't label it** and ★★★ **the train-at-the-station deflation**; (5) ★★ **"emotion through the cognitive
+lens"** as a third register of the Daywalker; (6) ✅ **secondhand woo, twice attested — settled.**
+⚠️ **Create entity pages for Maria Ross AND Andrea Sampson.**

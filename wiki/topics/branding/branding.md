@@ -1,8 +1,8 @@
 ---
 type: hub
 domains: [branding]
-updated: 2026-07-21
-tags: [branding, personal-branding, unbland, brand-strategy, positioning, storytelling, shadow-work, two-word-brand, logo, logo-critique, identity, identity-system, timelessness, style, packaging, brand-equity, shelf-presence, private-label, brand-filter, go-to-person, sub-brand, order-taker, do-good-work, flip-the-switch, branding-vs-marketing, marketing, halo-bias, specialize-externally, generalize-internally, own-the-client-relationship, portfolio, worst-piece-rule, brand-strategy-method, discovery, show-dont-explain, seven-questions, coaching-habit, funnel-math, value-based-pricing, results-based-pricing, facilitation, unbiased-inquiry, client-advocate, everything-is-marketing, inform-or-inspire, point-of-view, brand-personality, personal-voice-vs-company-voice, brand-as-filter, authenticity, charming-razor-blade]
+updated: 2026-07-27
+tags: [branding, personal-branding, fame-is-not-a-brand, premium-test, attractive-character, self-awareness-vs-self-acceptance, vulnerability-as-transparency, pixar-rule-one, the-enemy, allan-dib, anti-crippling-student-debt, eight-mile-rule, put-it-in-front, mutual-envy, quality-vs-results, sell-status, logo-quilt, awards-negative-result, traditions-as-brand-story, memories-not-experiences, unbland, brand-strategy, positioning, storytelling, shadow-work, two-word-brand, logo, logo-critique, identity, identity-system, timelessness, style, packaging, brand-equity, shelf-presence, private-label, brand-filter, go-to-person, sub-brand, order-taker, do-good-work, flip-the-switch, branding-vs-marketing, marketing, halo-bias, specialize-externally, generalize-internally, own-the-client-relationship, portfolio, worst-piece-rule, brand-strategy-method, discovery, show-dont-explain, seven-questions, coaching-habit, funnel-math, value-based-pricing, results-based-pricing, facilitation, unbiased-inquiry, client-advocate, everything-is-marketing, inform-or-inspire, point-of-view, brand-personality, personal-voice-vs-company-voice, brand-as-filter, authenticity, charming-razor-blade]
 ---
 
 # Branding — hub
@@ -1330,6 +1330,162 @@ two-word brand) rather than establish new territory.
   Horn's *POP!*).
 
 ---
+
+### Framework 45 — ★★ The canonical personal-brand test and anatomy (2024-04-16)
+
+_The most complete single statement of his personal-brand thinking in the corpus, and the one that
+supersedes the scattered earlier versions as the **canonical** entry. Source:
+[[wiki/sources/2024-04-16-yt-VYKA7hqZeZU]]. Note he **builds it by testing it** against real people
+rather than asserting it._
+
+**The two gates.**
+
+1. ★★ **Fame is not a personal brand.** The test is an *irrational emotional connection* strong enough
+   that people go out of their way — buy the book, queue for the film, attend the workshop. He runs
+   **Seth Godin** through it (22+ books, a daily blog post for over a decade, the world's biggest stages,
+   a past guest of his own and someone he admires) and asks: is he married? Children's names? Hobbies
+   outside marketing? — *"it becomes really opaque."* Verdict: famous, respected, sought-after; by this
+   definition **not a strong personal brand**.
+2. ★★ **The premium test.** *"A person who has a personal brand **is able to take ordinary things and
+   make them extraordinary by associating themselves with this.**"* A three-pack of white tees costs
+   materials + assembly + shipping; when Gary Vaynerchuk puts his name on a $4–5 bottle of wine and sells
+   it at $55, *"the premium he adds is that $50 difference of intangible value."* Many famous actors fail
+   this — *"they can't sell a vodka line… because that's not how we see them."*
+
+**Three traits of an "attractive character."**
+
+- **High self-awareness paired with high self-acceptance.** Both halves are required: *"the problem with
+  some celebrities is they have self-awareness but they don't have self-acceptance — so they're building
+  a barrier, that wall that keeps us away from them."*
+- **Self-confidence, redefined.** *"Self-confidence is **a belief in your skills to solve a problem** —
+  you have a process and a way of looking at the world that you know you can solve most problems. **It's
+  not about having a high opinion of yourself or being arrogant or treating people poorly.**"*
+- **Vulnerability, which he equates with transparency.** *"There's another word for vulnerability: it's
+  called transparency. There are good things that happen in my life and there are bad things that happen
+  in my life, and **I'm going to dish both out to you in equal measure.**"* Justified by **Pixar's rule
+  #1 of storytelling**: *"people admire characters more for their struggles and their failures than they
+  do for their success. **This is why characters like Superman are not relatable but Bruce Wayne and
+  Peter Parker are highly relatable.**"*
+
+> **The wall is the dial.** *"Think about the wall that exists between you, your content, your beliefs,
+> your values, your ideas, your message, your story — and your audience. **How much you will let them in
+> on that stuff will determine that connection.**"*
+
+**Four components of a personal brand.**
+
+1. **Origin story** — cultural currency (where you're from, what the world reads into it), an **inciting
+   incident** that rocks the ordinary world, **crossing the threshold** (Campbell), and the ongoing
+   **relapse and resurrection**, because *"no one in the real world has a solution and never falls
+   back."*
+2. **Community and culture** — mentors, coaches, teachers, sidekicks, tribe; the people who formed your
+   beliefs and customs.
+3. **Defining attributes** — a **credo/catchphrase** (Sinek's *Start With Why* given as the example), a
+   **duality of strengths and vulnerabilities in roughly equal measure**, and a recognisable **uniform**:
+   glasses, hat, shoes, silhouette, plus voice, timbre and energy as *"Sonic branding."* His dated proof:
+   at a café that day someone recognised him **from behind**.
+4. ★★ **The enemy** (credited to **Allan Dib**, *The 1-Page Marketing Plan*). Name what you are against.
+   *"**Anger as well as love are two powerful emotional drivers to building your tribe.**"* Analysed as
+   mechanism, explicitly bracketed from endorsement: Andrew Tate's "the Matrix", Donald Trump's
+   "lamestream media" — *"he doesn't have to tell you what he believes in, he just needs to tell you that
+   we hate these things together."* And the corollary: *"when we think — you know what, I'm Mr Rogers, I
+   don't want to hurt anybody, I don't want to say anything negative — **then you don't really truly have
+   a strong personal brand**, because we're not rallying against the same things."*
+
+> ⚠️ **PROMOTION GUARD — read before using the Kanye/Trump/Tate examples.** On the source page these are
+> **analyses of a mechanism**, with the content explicitly bracketed: *"put aside all the crazy stuff he
+> said — we're not here to judge whether what he's saying is good or bad."* He also states the cost
+> factually (*"I think he's lost over a billion dollars in sponsorships and brand deals because of the
+> things he said about Jewish people; it is seen as antisemitic and so that's very very problematic"*).
+> **Carry the bracketing or drop the examples.** The framework stands without them.
+
+> ★★ **His own enemy, and a correction of a widespread misreading of him.** *"People ask me all the time:
+> 'Chris, you're anti-education.' I said **no — I'm anti-crippling student debt. I'm all for
+> education.**"* The full charge is cost, *"jobs that may or may not exist,"* and *"structures that don't
+> account for individual learning styles that are atypical."* Hence The Futur as **private art school
+> without the crippling debt** — *"and as soon as I say that, shots are fired, and I'm okay with making
+> some enemies. And you need to as well."* See [[wiki/entities/the-futur]].
+
+**See also:** the 8 Mile / B-Rabbit rule (Framework 46) is the tactical form of the vulnerability trait;
+Framework 40's six-part model and Framework 39's superhero template are earlier, narrower versions of
+the four components — this section supersedes neither but is the fuller statement.
+
+### Framework 46 — ★★ The 8 Mile rule: put the deficit in front (2024-03-21)
+
+_Source: [[wiki/sources/2024-03-21-yt-GQP3fym57aQ]]. Stated as a **courteous disagreement with a guest**
+who teaches the opposite — Jordan Rogers has workshop participants write their insecurities on a
+perforated page and **tear it out and throw it away** before turning to what they *are*._
+
+★★ *"When I teach people about personal branding, it's about **embracing the darkness that's in you and
+coming to peace with it. I don't allow them to throw it away — I want them to put it in the front.** It's
+the 8 Mile B-Rabbit rule: if you say to the world, yes, I'm white trash, I live in a trailer park, my mom
+is XYZ, my girlfriend just cheated on me — **what can the world do now to hurt you? There are no chinks
+left in the armour.** And you've owned it."*
+
+The same claim appears in [[wiki/sources/2024-03-14-yt-0wse5TRJYHE]] as the definition of the gift —
+*"your gift is not what you think it is; **it's a combination of your weaknesses and your strengths and
+where those overlap**"* — and the two should be read as one idea. Compare Framework 42 (find-your-gift)
+and the imposter-syndrome grounding move in `mindset` §66.
+
+**Related, from the same conversation** — the **mutual-envy trap**, his own framing of why people won't do
+this: *"so much of who we are is **we long for the things we don't have while we have all these gifts
+that we can't acknowledge.**"* The worked example: the brand strategist who never studied branding envies
+the academic's credentials, while the academic envies the real-world work — *"**they both want to be each
+other and nobody wants to be themselves.** … If we could just lean into who we are, we'd be happier,
+healthier, and wealthier."*
+
+### Framework 47 — Quality ≠ results; sell status instead (2024-03-10)
+
+_Source: [[wiki/sources/2024-03-10-yt-h1voCMAT9Qc]], a live workshop exchange with a participant
+(Karina) who argues that quality drives results. **Read the guard at the end of this section before
+promoting it anywhere.**_
+
+- ★★ **The claim.** *"So quality — **not equal — results.**"* Evidence offered: *"there have been a lot
+  of quality films that don't have good results; there have been a lot of crappy reality shows that have
+  tremendous results."* He teaches **correlation vs. causation** via his son's corgi argument (*"causal
+  means A equals B; **correlation is sometimes A equals B, but not always — and we're not going to bet on
+  sometimes. I'm not a gambler.**"*).
+- **Receipts.** A client whose marketing videos are *"terrible — they even tell me, we're embarrassed to
+  show you,"* to which he replies *"**I'm embarrassed to show you my profit and loss statement.**"* And
+  production teams shooting on a RED Dragon 8K then **degrading the footage** — camera shake, poor
+  exposure — because *"**the more polished it looks, the more we feel it's not real.**"*
+- ★ **So what do you sell? Status.** *"You will pay an unreasonable amount for me to do something that
+  doesn't really matter, because doing so would give you pleasure."* Told against himself via the
+  business-class argument he has with his wife, and his own workaround: *"I only fly business class now
+  [when] someone else will pay for it, **so I'm free of the guilt.**"*
+- **Status tactics, in order of how he ranked them live:** the **logo quilt** of recognisable clients
+  (acquire the logo by any legitimate means — do it free, or even pay for the project — *"because I need
+  your logo"*); **reviews and testimonials** (*"we outsource most of our thinking"*); **case studies**;
+  and **scarcity** (see `business` §44).
+  > **The honesty line, stated in the same breath:** claiming Nike because they sent you a package is
+  > *"dishonest. That's black. **That's so far out of the grey.**"* The logo quilt is for work you
+  > actually did — you simply don't have to volunteer that you did it free.
+- ★ **Awards, a dated negative result from his own experience:** *"I haven't won 100 awards but it feels
+  like 100 awards — **that strategy has not paid off that well for us.** … We've even paid for the [entry
+  fees], shipped [the trophy] to our clients, they share it once, and then that's kind of the end of it.
+  **It's a good theory.**"*
+
+> ⚠️ **GUARD — this is an answer for a specific buyer, not a replacement for results.** He says so
+> explicitly at the end of the exchange: *"after I finish this **we're going to burn this plan and go
+> back to results** — this is just for Karina."* Selling status is what you do when the buyer's purchase
+> is status-driven; the standing doctrine elsewhere in this wiki (outcomes over craft, *"what results
+> matter to you?"*) is unchanged.
+
+### Framework 48 — Brand story = traditions, quirks, and how they celebrate differently (2024-04-11)
+
+_Source: [[wiki/sources/2024-04-11-yt-1yTBIklFDxU]]. Derived live from an out-of-category guest — a
+wedding DJ who calls himself an "entertainment designer" — and **translated by Chris into the audience's
+work**, which is what makes it usable here._
+
+★★ *"When you're talking about designing the brand or identity of a company — **what are their
+traditions? What makes them unique and different? How do they celebrate differently? What are the stories
+that need to be told?** And if you can encapsulate that in a brand story, you've done the same thing."*
+
+A serviceable discovery prompt set, and a different angle from the seven questions in the Brand Strategy
+Method (Part 1): it looks for **idiosyncrasy and ritual** rather than positioning statements.
+
+Paired with it, the outcome standard he names: ★★ *"**you've created not an experience — you've created
+memories** for people. And there's no price tag you can put on that. Those memories will live with each
+guest, and it might live multiple generations."* See `business` for the commercial form of the same idea.
 
 ## Influences credited (not Chris's originations)
 

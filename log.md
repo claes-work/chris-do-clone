@@ -3575,3 +3575,68 @@ Pro Group cap caveat, the `SUBJECT.md` fence for the recurring non-Chris slot, t
 the Priestley recording-date correction, the ScoreApp disclosure, the **Enns codified-methodology vs.
 five-step attribution risk**, and the overdue entity pages — **Daniel Priestley** (3 appearances + heavy
 citation) and **Tom Ross** (3 appearances).
+
+## [2026-07-27] lint | synthesis pass 13 — P2 late-2023 → April-2024 (batches 115–123, L2 748→806) → system-prompt v15
+
+**Stage S.** The checkpoint fired at debt 9/10 with an unusually landmark-heavy queue — six ★★ sources
+across nine batches. This is the pass that v14's own changelog said was owed: v14 was a *persona* refresh
+(Stage P) that explicitly deferred topic-page promotion and **all of `biography.md`**. Both are now done.
+
+**What got promoted** (one file at a time, per the concurrency rule; full inventory in
+`pipeline/synthesis-state.md`):
+
+- **branding +4** — F45 is the one that matters: ★★ **the canonical personal-brand framework**. He builds
+  it by *testing* it, which is why it supersedes the earlier scattered versions: **Seth Godin fails the
+  test** (famous, admired, and *"opaque"*), Vaynerchuk passes, and the discriminator is the **premium
+  test**. Plus three traits, four components, and **the enemy**. F46 the **8 Mile rule**, F47 quality≠
+  results/sell-status, F48 traditions-as-brand-story.
+- **business +7** — ★★ the **one-degree pivot** with **Trojan Storage → the $13B client** as its proof;
+  the **smile curve** + AI-eats-production-first; honest scarcity; subtraction as offer design; ★★
+  **get-the-job-done-or-be-right-or-be-popular** with the $32K rep story; performance-vs-brand-building;
+  the time audit + delegation margin.
+- **sales-clients +3 / pricing +1** — ★★ the **low-ball playbook** performed end to end: proportion, the
+  walk-away, then the **uncapped risk-share** on Drucker, closed as **two options with the hybrid
+  refused**. Recorded in both hubs because it is simultaneously a sales sequence and a pricing
+  instrument, and explicitly distinguished from pricing §41's guarantee playbook so they don't blur.
+- **mindset +4** — ★★ the full **imposter-syndrome** treatment; procrastination-masks-fear + ★★ Keir's
+  *"you're hiding in your room"*; self-conscious≠self-aware; belief-precedes-experience; pick-one-master.
+- **content-strategy +2** — ★★ the **personal-story rule**; be-the-first-source-of-yourself /
+  name-it-to-own-it.
+- **persona** — biography **69 → 78** (the pre-ArtCenter arc and the rate arc promoted **as a pair**, plus
+  the Skool split, the funding stack, straight edge, the sacrifice answer); beliefs **145 → 165**; voice
+  **113 → 131**; **system-prompt v14 → v15**, compiled_from 756 → 806.
+- **entities** — created `daniel-priestley.md`; deepened `the-skool.md` and `kier-mclaren.md`.
+
+**Six new guards, and they are the point of this pass as much as the doctrines are.** A clone that gains
+the rate arc without the 10,000-hours sentence, or the origin story without the rule about when to tell
+it, gets *less* faithful, not more. All six are now in the system prompt: (1) ⚠️⚠️ the **personal-story
+rule** — the Dark Night material is told **in service of someone else**, never as opener or colour, and
+the suicidal-ideation detail is never volunteered (his own rule, from the same video, citing Sivers's
+*"pity porn"*); (2) **anti-crippling-student-debt, not anti-education** — his own correction of a
+widespread misreading; (3) quality≠results **ends by going back to results** (*"we're going to burn this
+plan"*); (4) *"every luxury brand operates under false scarcity"* carries the **it-must-be-true**
+constraint he stated four days later; (5) the **Blair Enns codified-methodology convergence** must be
+credited — deliberately **not** merged with his own five-step process; (6) **Daniel Priestley's
+frameworks are Priestley's**, with the ScoreApp affiliate disclosure and the recording-date trap recorded
+on the entity page. The East/West generalisation is filed as a **dated opinion**, flagged in beliefs and
+in the guardrails, and not adopted.
+
+**Not done — carried forward honestly.** Three items from the checkpoint scope did **not** get finished
+and are recorded as open debt rather than quietly dropped:
+
+1. **The five-way Brand Lab reconciliation.** Four tellings across Jan–Mar 2024 plus the 2024-03-14
+   numbers ($36K/12mo → $18K/6mo, workshop cut at the same price, first-10 incentive). It needs one dated
+   entry that supersedes the rest; it needs more care than the tail of a long pass allows.
+2. **The `SUBJECT.md` fence** for the recurring non-Chris @thefutur teaching slot (3 attested instances,
+   `sM5CekilqDk` / `KfKpmV9uFx4` / `w3-yw4_n_Vo`), so future batches skip it on sight.
+3. **`tom-ross.md`** (3 appearances) — the other overdue entity page.
+
+Also newly noted: Priestley references **two earlier episodes** with Chris on camera; those are ledger
+candidates to locate when the ledger reaches their dates.
+
+**State:** high-water mark advanced to **batch 123 (L2=806)**; synthesis debt reset **9 → 0**; pending
+checkpoints 0. Pipeline unchanged by this pass: `@thefutur` P1:0, P2:274, P3:44; `@TheFuturAcademy` P3:72;
+shorts 860.
+
+> **Next iteration: Stage B (P2)** — back to ingest with 274 open P2 rows. Next checkpoint after ~10
+> batches or an era boundary.

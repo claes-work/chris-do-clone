@@ -2,8 +2,8 @@
 type: hub
 domain: content-strategy
 domains: [content-strategy]
-updated: 2026-07-21
-tags: [content-strategy, audience-building, organic-growth, storytelling, attraction-marketing, permission-marketing, community, movement, give-first, karmic-equity, awareness-funnel, portfolio, show-your-work, process-not-product, youtube-strategy, thumbnails, cold-open, awareness-matrix, niching, differentiation, sell-the-problem, thesis-paper, funnel-math, reciprocity, expert-positioning, audience-vs-customers, true-fans, smallest-viable-audience, youtube-launch, polarizing, public-journaling, feed-vs-stories, earned-followers, learning-styles, teach-while-you-learn, imposter-syndrome, repurposing, lumpy-mail, aida-carousels, magic-8, case-study, capabilities-deck, storybrand, multiple-income-streams, fame-vs-price, garage-sale, audience-as-asset, rot-hook, carousel-rubric, heads-or-tails, home-stretch-slide, twelve-post-minimum, guest-post-loop, 1000-true-fans, farming-vs-hunting, riches-in-the-niches, 2x-rule, virtuous-cycle-of-confidence, strongest-tribe, chef-analogy, scarcity-mindset, share-while-you-learn, persist-and-resist, content-manifesto, done-over-perfect, golden-formula, story-formula, binary-critique, ego-free-critique, linkedin-storytelling, struggle-porn, ad-breakdown, villain-hero, paint-the-pain, micro-commitments, four-diagnostic-questions, caption-writing, emotional-writer, refinement-loop, content-iteration, velocity, live-in-the-dip, five-words, distillation, pareto-on-itself, clarity-then-musicality, youtube-scripting, thirty-second-hook, storytelling-is-delaying, soft-vs-hard-cta, native-language-repurposing, train-the-algorithm, over-delivery, curse-of-knowledge, propaganda-piece-tell, change-of-state-conflict]
+updated: 2026-07-27
+tags: [content-strategy, audience-building, personal-story-rule, in-service-of-helping, pity-porn, derek-sivers, oversharing, earn-the-right, first-source-of-yourself, name-it-to-own-it, mnemonics, sam-horn, one-idea-per-piece, cite-your-sources, organic-growth, storytelling, attraction-marketing, permission-marketing, community, movement, give-first, karmic-equity, awareness-funnel, portfolio, show-your-work, process-not-product, youtube-strategy, thumbnails, cold-open, awareness-matrix, niching, differentiation, sell-the-problem, thesis-paper, funnel-math, reciprocity, expert-positioning, audience-vs-customers, true-fans, smallest-viable-audience, youtube-launch, polarizing, public-journaling, feed-vs-stories, earned-followers, learning-styles, teach-while-you-learn, imposter-syndrome, repurposing, lumpy-mail, aida-carousels, magic-8, case-study, capabilities-deck, storybrand, multiple-income-streams, fame-vs-price, garage-sale, audience-as-asset, rot-hook, carousel-rubric, heads-or-tails, home-stretch-slide, twelve-post-minimum, guest-post-loop, 1000-true-fans, farming-vs-hunting, riches-in-the-niches, 2x-rule, virtuous-cycle-of-confidence, strongest-tribe, chef-analogy, scarcity-mindset, share-while-you-learn, persist-and-resist, content-manifesto, done-over-perfect, golden-formula, story-formula, binary-critique, ego-free-critique, linkedin-storytelling, struggle-porn, ad-breakdown, villain-hero, paint-the-pain, micro-commitments, four-diagnostic-questions, caption-writing, emotional-writer, refinement-loop, content-iteration, velocity, live-in-the-dip, five-words, distillation, pareto-on-itself, clarity-then-musicality, youtube-scripting, thirty-second-hook, storytelling-is-delaying, soft-vs-hard-cta, native-language-repurposing, train-the-algorithm, over-delivery, curse-of-knowledge, propaganda-piece-tell, change-of-state-conflict]
 ---
 
 # Content Strategy — hub
@@ -2524,6 +2524,83 @@ below do. ([[wiki/sources/2023-04-12-yt-5NUeELlfJLY]], 2023-04-12)
   the "be known for one thing" positioning thread in [[wiki/topics/branding/branding]].
 
 ---
+
+## 45. ★★ The personal-story rule — "in service of helping someone" (2024-03-29)
+
+_Source: [[wiki/sources/2024-03-29-yt-zCSjA-QoNiM]] — stated at the end of the video in which he tells
+the hardest story of his life, which is what gives it force. Credits **Derek Sivers** for "pity porn."_
+
+★★ **The rule.** *"**I'm okay with sharing just about anything about me — my life, the difficulties, the
+things I've done well, the things I've done poorly — if it's in service of helping someone.** I don't
+want to tell people stuff because it's just for the sake of gossip, like *oh my God, I can't believe he
+thought that or said that or did that.* **That would not be helpful.**"*
+
+- ★ **The named failure mode**, credited to Derek Sivers: *"it gets into what my friend Derek Sivers says
+  — it's like **pity porn.** Woe is me, how difficult is my life, the world's against me."*
+- ★ **Oversharing is a distinct failure**: *"**I don't want to be the guy who volunteers information. It's
+  called oversharing.** I don't want to share those stories with you **unless you're interested.**"*
+- ★★ **Earn the right first.** *"If you're still new in trying to create value and help people, **probably
+  just lay off on the personal story just for a beat. Give people a reason to care first** — and then
+  they're going to want to know who the person is behind the work."* Practical version for a beginner:
+  *"practise your craft, get good at something, share that openly, be very honest and direct about it —
+  and eventually people are going to say *we'd love to interview you and understand your process and your
+  story*, and **it's going to be very natural.**"* **Aaron Draplin** named as someone who integrated both
+  well from the start.
+- **The structuring exercise he gives instead of "tell your story"**: find a time you had anxiety over
+  something; identify **the call to action**, **who the mentor was who got you through the threshold**,
+  and **what you learned** having left the ordinary world. (Hero's-journey vocabulary, used deliberately;
+  cf. `branding` F45 component 1.) The insight he attaches: *"**all of us have a call to action in our
+  lives** multiple times — in a year, in a month, even in a day. And it's **your refusal of the call**,
+  your anxiety about the call, **that's the interesting part.**"*
+
+> ★★ **This is a governing rule, not a preference.** It constrains when the material in
+> `persona/biography.md` may be used at all — see the guard recorded there and in the system prompt.
+
+## 46. Be the first source of yourself; and name it to own it (2024-03-14)
+
+_Source: [[wiki/sources/2024-03-14-yt-0wse5TRJYHE]]._
+
+★★ **Be the first source of yourself.** The precondition for anyone — a team, an agency, an AI — writing
+in your voice. His own failed first attempt, told against himself: *"**I expected someone to write like me
+when I've written nothing. I wanted somebody to speak like me when I've said nothing.** You understand the
+problem." The fix: produce the source material — write the book, record the video — *"you have to give
+them something to copy and to build off of."* When The Futur hired social-media firms early on, *"they had
+nothing to work off of except for our portfolio, which does not have a voice. **It doesn't have a point of
+view. It's just work. They got nothing to say.**"*
+
+> **The humbling sequel, which he tells on himself.** A UK social-media intern (**L**) wrote The Futur's
+> Instagram posts, and **The Futur's account grew faster than his own.** *"You are borrowing from my source
+> code — how is it that the Futur's account is growing faster than me? **It bothered me deeply, because I
+> have competition issues.**"* His own answer: *"**she was consistent and she wrote posts in the way that
+> people needed to consume them, and I was not.** … I didn't spend enough time on Instagram to know how it
+> works, and she did."* Great ideas do not beat knowing the platform's rules.
+
+★★ **Name it to own it.** *"**As soon as you give it a unique name, you own it.**"* It does not matter
+whether the world has seen the idea before. Examples: Maslow's hierarchy, the Pythagorean theorem, Adidas
+naming every foam and technology, **Apple's "Retina Display"** — *"a display for eyes, duh. And then when
+you start using that language, **they own you.**"* His own instance: *"when I talk about personal branding
+I'm like — **what's your two-word brand?** That's not even super specific, but now people are like, Chris,
+I love your two-word brand."* His verdict on the whole tactic: *"**it's kind of stupid, but it works — and
+I just want to do what works.**"*
+
+- **Mnemonic mechanics** (partly via **Scott**/Eben Pagan and **Sam Horn**'s *POP!*): **hard K sounds**
+  (Coca-Cola, Kodak), **alliteration**, **threes beat twos**, **rhyme**, and **portmanteaus** (smog =
+  smoke + fog; hacktivist; Clayton Christensen's *disruption*). The limit: *"don't make it so goofy and
+  cute that people [think] — that's annoying, you're trying too hard."*
+- **Don't put your name in it.** *"Just give it a name and refer to it as that."*
+
+★ **One idea per piece.** His Instagram-era correction, and the reason it compounds: *"I made the classic
+mistake — **I tried to teach too much.** The slides were too dense… and I was going to run out of things
+to say really fast, because **I thought I had to put the best of me in every single thing.**" The
+inversion: *"instead of making one piece of content with five ideas, I was able to make **five pieces of
+content with one idea each.**"* Two gains at once — easier to consume, and 5× the output. (Compare §35's
+five-words distillation and the teaching-chunking method in `mindset`.)
+
+★ **Cite your sources — it compounds into relationships.** *"**It's the way to honour the idea and it
+builds credibility** — and what you're doing is you're borrowing from people's expertise and **you're
+building relationships with them.** … If it's a Marty Neumeier idea, I put Marty's face in it, I put his
+book, I tag him. **To this day no one's ever called me and said: you scumbag.**"* Evidence:
+**Blair Enns** started out angry at him and became a $1,000 Platinum sponsor of his book.
 
 ## Sources
 

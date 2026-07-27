@@ -3,8 +3,8 @@ type: hub
 domain: sales-clients
 domains: [sales-clients]
 created: 2026-07-14
-updated: 2026-07-21
-tags: [sales, negotiation, objection-handling, discovery, positioning, client-management, role-play, serve-dont-sell, embrace-and-pivot, qualifying, closing, client-archetypes, blair-enns, cialdini, leverage, first-client-call, business-development, ambassador, presenting, pitching, money-mindset, strategy-selling, order-taker, trusted-advisor, jobs-to-be-done, decks-are-crutches, difficult-clients, boundary-setting, know-trust-like, inbound-outbound, firing-clients, dont-convince, objection-response-deck, control-energy, diagnostic-phase, outcomes-over-craft, strategist-reframe, client-selection, three-outcomes, mirror-the-ask, build-rapport, reciprocity, time-vampires, dinner-test, sell-your-idea, foreign-idea-invader, outreach-challenge, jim-rohn, mentorship, value-exchange, scaffolding, five-sales-mistakes, two-ears-one-mouth, talk-money-early, match-and-mirror, tony-robbins, buyer-types, referral-fee, minimum-level-of-engagement, value-buyer, lead-temperature, hot-warm-cold-leads, russell-brunson, cold-outreach, dm-outreach, lumpy-mail, allan-dib, praise-first, trust-your-struggle, listen-to-understand, human-tape-recorder, presence, jonathan-stark, deposit-first, accusation-audit, chris-voss, never-split-the-difference, u-turn, say-it-first, consultative-selling, therapist-frame, lion-and-sheep, silence, stop-selling-start-closing, count-to-20, sales-acronym, if-then-close, fiduciary, kevin-daley, dream-date, robot-vs-monkey-brain, no-brainer, one-result, competitive-lock, client-retention, zig-ziglar, sales-timeline, proposal-vs-contract, signed-contract, lead-qualification, matchmaker-frame, last-chapter, honesty-raises-esteem, curse-of-knowledge, ask-small-questions, empathy-exercise, patience, honest-vs-polite, have-to-get-to, non-violent-communication, emotional-neutrality, meeting-etiquette, shadow-the-boss, ask-before-ready, junior-listen-take-notes, free-work, trade-up, marketing-expense, pro-bono, errol-gerson, dont-negotiate-against-yourself, trust-ladder, just-ask-them, consistency-principle, symmetry-of-logic, forcing-acknowledgment-question, agree-then-find-the-gap, five-options, embed-a-pm, difficult-client-repair, non-judgment, post-delivery-detachment, ownership-follows-payment, feel-it-dont-express-it, generous-check-in, graceful-tenacity, concede-by-not-objecting, principles-over-scripts, quality-vs-shareability, loaf-of-bread, design-to-strategy, position-around-you, value-add-then-charge, reluctant-buyer, deferred-final-payment, money-back-guarantee, future-pacing, sell-to-excitement, international-clients, four-obstacle-framework, escrow, certifications, small-starter-project, retreat-and-follow, three-why, what-not-why, late-night-fm-dj-voice, tone-of-voice, tonal-control, belief-first, self-fulfilling-prophecy, help-not-sell, bucket-of-trust, make-better-wishes, one-thing, striking-distance, why-not-do-nothing, cost-of-inaction, socratic-selling, goodwill-bank, five-years-of-value, unsell-yourself]
+updated: 2026-07-27
+tags: [sales, negotiation, lowball-playbook, walk-away, proportion-not-price, budget-as-importance-signal, people-spend-on-what-they-value, video-envy, risk-share, performance-deal, peter-drucker, two-option-close, refuse-the-hybrid, dollarise-the-offer, rainmaker, me-too-brand, chunking, discretionary-budget, sunk-cost-bias, objection-handling, discovery, positioning, client-management, role-play, serve-dont-sell, embrace-and-pivot, qualifying, closing, client-archetypes, blair-enns, cialdini, leverage, first-client-call, business-development, ambassador, presenting, pitching, money-mindset, strategy-selling, order-taker, trusted-advisor, jobs-to-be-done, decks-are-crutches, difficult-clients, boundary-setting, know-trust-like, inbound-outbound, firing-clients, dont-convince, objection-response-deck, control-energy, diagnostic-phase, outcomes-over-craft, strategist-reframe, client-selection, three-outcomes, mirror-the-ask, build-rapport, reciprocity, time-vampires, dinner-test, sell-your-idea, foreign-idea-invader, outreach-challenge, jim-rohn, mentorship, value-exchange, scaffolding, five-sales-mistakes, two-ears-one-mouth, talk-money-early, match-and-mirror, tony-robbins, buyer-types, referral-fee, minimum-level-of-engagement, value-buyer, lead-temperature, hot-warm-cold-leads, russell-brunson, cold-outreach, dm-outreach, lumpy-mail, allan-dib, praise-first, trust-your-struggle, listen-to-understand, human-tape-recorder, presence, jonathan-stark, deposit-first, accusation-audit, chris-voss, never-split-the-difference, u-turn, say-it-first, consultative-selling, therapist-frame, lion-and-sheep, silence, stop-selling-start-closing, count-to-20, sales-acronym, if-then-close, fiduciary, kevin-daley, dream-date, robot-vs-monkey-brain, no-brainer, one-result, competitive-lock, client-retention, zig-ziglar, sales-timeline, proposal-vs-contract, signed-contract, lead-qualification, matchmaker-frame, last-chapter, honesty-raises-esteem, curse-of-knowledge, ask-small-questions, empathy-exercise, patience, honest-vs-polite, have-to-get-to, non-violent-communication, emotional-neutrality, meeting-etiquette, shadow-the-boss, ask-before-ready, junior-listen-take-notes, free-work, trade-up, marketing-expense, pro-bono, errol-gerson, dont-negotiate-against-yourself, trust-ladder, just-ask-them, consistency-principle, symmetry-of-logic, forcing-acknowledgment-question, agree-then-find-the-gap, five-options, embed-a-pm, difficult-client-repair, non-judgment, post-delivery-detachment, ownership-follows-payment, feel-it-dont-express-it, generous-check-in, graceful-tenacity, concede-by-not-objecting, principles-over-scripts, quality-vs-shareability, loaf-of-bread, design-to-strategy, position-around-you, value-add-then-charge, reluctant-buyer, deferred-final-payment, money-back-guarantee, future-pacing, sell-to-excitement, international-clients, four-obstacle-framework, escrow, certifications, small-starter-project, retreat-and-follow, three-why, what-not-why, late-night-fm-dj-voice, tone-of-voice, tonal-control, belief-first, self-fulfilling-prophecy, help-not-sell, bucket-of-trust, make-better-wishes, one-thing, striking-distance, why-not-do-nothing, cost-of-inaction, socratic-selling, goodwill-bank, five-years-of-value, unsell-yourself]
 ---
 
 # Sales & Clients — hub
@@ -3273,6 +3273,110 @@ thinking about what *you* wanted, not the value the client would receive.
 ([[wiki/sources/2023-08-12-yt-H5yR-_pPhkQ]])
 
 ---
+
+## 71. ★★ The low-ball playbook, performed end to end — the walk-away and the risk-share (2024-04-27)
+
+_Source: [[wiki/sources/2024-04-27-yt-MC3lr_BT1Wg]] — a Pro Group roleplay in which Chris plays the
+vendor against a $1,000 video budget. **Two complete negotiations are performed**, and the second exists
+only because a member imposed a constraint: "you can't say no, you can't refer them out, you must book
+the job." That constraint is what makes this the most complete low-budget artifact in the corpus._
+
+**Round 1 — the walk-away.**
+
+- ★★ **Never counter on price. Establish proportion instead.** He asks what problem the video solves,
+  then makes the buyer do the arithmetic out loud: 2–3 extra customers a day × ~$100 average order ≈
+  $250/day × 30 = **$7,500/month of new revenue** — for $1,000. The question is not *is that too little
+  for me*: *"**spending $1,000 seems appropriate for $7,500 of revenue per month?**"*
+- **Don't over-claim in response to the guarantee trap.** Buyer: *"are you going to guarantee me $7,500 a
+  month?"* Chris: *"I'm not saying that at all. **I'm just trying to measure effort versus result.**"*
+- ★★ **Treat a small budget as evidence the problem isn't real.** *"When somebody comes to me and they say
+  I don't have a lot of money to do something, **my first instinct is to say: let's not do it. It's not
+  important.** Wouldn't that be your instinct too?"*
+- ★★ **Audit what they actually spend on.** When the buyer concedes it's important but *"not $1,000
+  important,"* Chris walks the refrigeration, the AC, the polished floors and **the M5 parked outside** to
+  land the principle: *"I find in my life and my experience that **people tend to spend money on what they
+  value.**"*
+- ★ **Name the bad reason to buy, while being paid to sell.** **Video envy**: *"businesses like yours see
+  other businesses produce video and then we create it just to create it — to say, yeah, we're keeping up
+  with the Joneses."*
+- ★ **Effort must be proportionate too.** *"In order for me to do this properly I'd have to spend quite a
+  bit of time sitting down talking to you about what the purpose of the video is… **it would seem
+  disproportionate, the length of that conversation, to talk about a $1,000 problem.**"*
+- ★ **Disqualify the project, not the person — and mean it.** *"Then you shouldn't. But I'm probably not
+  the person to do that for you then, and **I would encourage you not to spend that money with anybody.
+  Not just me.**"* (Then the deadpan Fiverr referral.)
+
+**Round 2 — the risk-share, when walking away isn't allowed.**
+
+- ★★ **Invert the deal instead of discounting.** *"I'll do the video for you for free — **if we get the
+  results that you want, I'd like a percentage of the results.** … No risk to you at all. **I take all the
+  risk, and I rely on your honesty.**"* Terms: **$50 per new customer** through the door on a $100 average
+  order.
+- ★★ **The justification.** *"You know who Peter Drucker is? **All profit comes from risk.** I'm taking
+  all the risk — **or you can just pay me what I'm worth and you keep all the profit.**"*
+- ★ **Use the objection against itself.** The buyer worries the video will work *too* well: *"let me ask
+  you something — **if I can bring in a long line of clients for you, you're saying please don't do
+  that?**"*
+- ★★ **Refuse the hybrid.** When asked for a cap on the percentage, he declines to blend the structures
+  and re-states them cleanly: **$4,000 flat and you keep all the upside**, or **free and 50% of new net
+  revenue, uncapped** (a one-year limit offered purely as comfort). The buyer, doing the maths, takes the
+  $4,000 — which is the point: **the flat fee only becomes the safe option once the alternative is
+  genuinely expensive.**
+- Closed at **$4,000, $2,000 up front.**
+
+> ★ **The mindset guard that makes any of this possible**, given when a member says $1,000 is a lot to
+> turn down: *"**You didn't have that $1,000 before they called you. You were going to make life work
+> regardless.** Don't fall into that mindset — like, now just because they called, I have to close the
+> job. **That puts you in a horrible, disadvantageous position.**"*
+
+**Member addition, recorded as context (not Chris's):** *"everything is a negotiation — **if they're not
+meeting you at your price, you don't have to meet them at their deliverable**"* (change the scope: a
+30-second video for $1,000 instead of a minute).
+
+**See also:** `pricing` §48 for the risk-share as a pricing structure; §57 (design→strategy embrace-and-
+pivot) for the other route out of a too-small brief; [[wiki/sources/2024-03-10-yt-h1voCMAT9Qc]] for
+*"it's not that they don't have money — they just don't have money for us."*
+
+## 72. Dollarise the offer — put the number in their currency (2024-03-26)
+
+_Source: [[wiki/sources/2024-03-26-yt-NwmOgc0fo8s]], credited to **Jeffrey J. Fox**, *How to Become a
+Rainmaker*._
+
+★★ Compute the client's **saving or earning in their own numbers** and lead with it. His script: *"how
+would you like to **save 14 cents on every product you make, for an annual savings or earnings of
+$267,000** — would you be interested in talking to me about that?"* The point: *"**you've already put it
+in terms the client cares about.**"*
+
+Note the non-obvious case he flags: this works even when **your product costs more** than the incumbent,
+if it lasts ten times as long. The comparison is lifetime value, not sticker price.
+
+This is the abstract form of the arithmetic he performs live in §71 — **promote them as one move**, not
+two.
+
+**From the same source, the surrounding design prompts** (adapted from Rob Fitzpatrick's *The Workshop
+Survival Guide*): who is the prospect; what problem are they solving and why should they care; **what
+level of awareness do they have about the real problem**; where will they find the solution; how will it
+benefit them and **how will it make them feel**; what makes you different. Plus two hard gates —
+*"creating content or a sales funnel out of YouTube is not going to help you if they don't go to
+YouTube"*, and *"if you can't articulate [your difference] you're going to have a big problem, because
+you're just like everybody else — **you're a 'me too' brand.**"*
+
+## 73. Chunking into the discretionary budget — how to get inside a spend you can't win (2024-03-10)
+
+_Source: [[wiki/sources/2024-03-10-yt-h1voCMAT9Qc]]._
+
+- **Chunking and scaffolding are the same move from opposite directions**: shrink the first commitment
+  until it is easy to say yes to.
+- ★★ **Ask directly about the discretionary budget.** *"In the kind of companies you're thinking of, the
+  answer is 100% yes — **whether they tell you or not is another story.**"* He learned the mechanic
+  because clients told him: *"Chris, you put in the budget for $84,000 — **if you put in for $79[,000] I
+  can approve it tomorrow**, otherwise I have to get approval."* He checked whether it was a negotiating
+  ploy: *"I made some phone calls, and it's not."*
+- **Why the first small yes matters: sunk-cost bias.** Once they've spent anything with you, restarting
+  elsewhere feels worse than continuing. Stated with an admission: *"**I teach this stuff and I still fall
+  for it every single day of my life.**"*
+- **The corollary he draws about free samples**: *"when somebody's like *free sample* — you [say] no,
+  because **the free sample is the beginning of you entering into the sunk-cost bias.**"*
 
 ## Cross-links
 

@@ -3,8 +3,8 @@ type: hub
 domain: pricing
 domains: [pricing]
 created: 2026-07-14
-updated: 2026-07-21
-tags: [pricing, value-based-pricing, price-the-client, anchoring, anchoring-reversal, verbal-upfront-pricing, discount-for-uncertainty, raising-rates, objection-handling, negotiation, price-bracketing, competitive-positioning, charge-for-discovery, embrace-and-pivot, storytelling, budget-scope-timeline, budget-first, budget-first-vs-relationship, order-taker-vs-advisor, underpricing-signal, resentment-signal, cant-lose-a-job-you-never-had, value-scale-of-questions, discovery-as-a-service, strategy-pricing, get-paid-to-think, price-as-qualifier, double-the-rate-ladder, inputs-vs-outputs, desired-future-state, train-of-thought, feeling-thought-reaction, limbic-brain, price-options, attention-ownership, price-first-scope-after, stop-hourly, socratic-hourly, value-appreciation, scope-creep, separate-service, de-scope, cost-stack, positioning-value, go-to-person, double-dont-inch-up, buyer-decides-fair, charge-more-virtuous-loop, referral-budget-qualification, self-worth-ceiling, education-not-worth, objection-by-inversion, invent-systems, royalty-vs-licensing, packaging-fees, say-it-like-a-fact, context-sets-value, horse-painter, charity-vs-clients, barter-menu, exposure-is-an-act, equity-in-lieu-of-fee, pro-bono-ratio, bid-buildup, hire-at-or-above-level, investor-mindset, compare-against-yourself, top-price-first, wine-list-reset, subjective-value, doctor-counter, envy-reframe, cost-vs-price-vs-value, seller-sets-price-buyer-sets-value, profit-from-risk, cost-plus, production-fee, padded-day-rates, statement-of-work, fixed-plus-variable, aicp-bid-form, top-sheet, karen-rainey, present-day-rate-card, retreat-and-follow, phased-discovery-bid, important-urgent-grid, budget-live-in-room, pain-threshold, facilitator-as-advocate, money-not-budget, sliding-scale-by-risk, rush-charge, pain-in-the-butt-charge, every-dollar-returns-10x, dan-mall, course-prelaunch-pricing, price-low-then-raise, verbal-commitment-against-lowball, fu-call, rom-bid, swag, scope-variation-funnel, contingency-fee, guarantee-handling, price-the-risk, prorate-guarantee, roi-return-framing, paper-the-guarantee, cogs-gross-margin, low-expenses-leverage, walk-away-power, pricing-ladder, career-stage-risk-ladder, input-output-outcome, profit-participation, licensing-usage-rights, supply-chain-margin, ten-to-hundred-markup, graduate-from-hourly, opaque-estimate, three-yeses-rule, close-rate-underpricing, design-thinking-anchors, unbundle-workshop-phases, price-as-signal, labor-theory-of-value, goldilocks-choice-architecture, irresistible-offer, ten-x-divide-by-ten-redesign, vertical-integration-offer, quality-of-questions-price-lever, diagnose-before-prescribe, passionately-detached, referral-finders-fee, switch-verticals, high-tide-all-boats, inversion-thinking-pricing, first-100k-system, minimum-level-of-engagement, close-ratio-funnel-math]
+updated: 2026-07-27
+tags: [pricing, value-based-pricing, risk-share, performance-deal, abhor-discounts, uncapped-upside, two-option-close, all-profit-comes-from-risk, spend-on-what-you-value, price-the-client, anchoring, anchoring-reversal, verbal-upfront-pricing, discount-for-uncertainty, raising-rates, objection-handling, negotiation, price-bracketing, competitive-positioning, charge-for-discovery, embrace-and-pivot, storytelling, budget-scope-timeline, budget-first, budget-first-vs-relationship, order-taker-vs-advisor, underpricing-signal, resentment-signal, cant-lose-a-job-you-never-had, value-scale-of-questions, discovery-as-a-service, strategy-pricing, get-paid-to-think, price-as-qualifier, double-the-rate-ladder, inputs-vs-outputs, desired-future-state, train-of-thought, feeling-thought-reaction, limbic-brain, price-options, attention-ownership, price-first-scope-after, stop-hourly, socratic-hourly, value-appreciation, scope-creep, separate-service, de-scope, cost-stack, positioning-value, go-to-person, double-dont-inch-up, buyer-decides-fair, charge-more-virtuous-loop, referral-budget-qualification, self-worth-ceiling, education-not-worth, objection-by-inversion, invent-systems, royalty-vs-licensing, packaging-fees, say-it-like-a-fact, context-sets-value, horse-painter, charity-vs-clients, barter-menu, exposure-is-an-act, equity-in-lieu-of-fee, pro-bono-ratio, bid-buildup, hire-at-or-above-level, investor-mindset, compare-against-yourself, top-price-first, wine-list-reset, subjective-value, doctor-counter, envy-reframe, cost-vs-price-vs-value, seller-sets-price-buyer-sets-value, profit-from-risk, cost-plus, production-fee, padded-day-rates, statement-of-work, fixed-plus-variable, aicp-bid-form, top-sheet, karen-rainey, present-day-rate-card, retreat-and-follow, phased-discovery-bid, important-urgent-grid, budget-live-in-room, pain-threshold, facilitator-as-advocate, money-not-budget, sliding-scale-by-risk, rush-charge, pain-in-the-butt-charge, every-dollar-returns-10x, dan-mall, course-prelaunch-pricing, price-low-then-raise, verbal-commitment-against-lowball, fu-call, rom-bid, swag, scope-variation-funnel, contingency-fee, guarantee-handling, price-the-risk, prorate-guarantee, roi-return-framing, paper-the-guarantee, cogs-gross-margin, low-expenses-leverage, walk-away-power, pricing-ladder, career-stage-risk-ladder, input-output-outcome, profit-participation, licensing-usage-rights, supply-chain-margin, ten-to-hundred-markup, graduate-from-hourly, opaque-estimate, three-yeses-rule, close-rate-underpricing, design-thinking-anchors, unbundle-workshop-phases, price-as-signal, labor-theory-of-value, goldilocks-choice-architecture, irresistible-offer, ten-x-divide-by-ten-redesign, vertical-integration-offer, quality-of-questions-price-lever, diagnose-before-prescribe, passionately-detached, referral-finders-fee, switch-verticals, high-tide-all-boats, inversion-thinking-pricing, first-100k-system, minimum-level-of-engagement, close-ratio-funnel-math]
 ---
 
 # Pricing — hub
@@ -2153,6 +2153,42 @@ from §44's offer-redesign mechanics._ (2023-05-24) ([[wiki/sources/2023-05-24-y
   value-calibrated.
 
 ---
+
+## 48. ★★ The risk-share / performance deal — the principled alternative to discounting (2024-04-27)
+
+_Source: [[wiki/sources/2024-04-27-yt-MC3lr_BT1Wg]] (the full negotiation is on
+`sales-clients` §71). Recorded here because it is a **pricing structure**, not just a sales tactic._
+
+**The position it answers.** Eighteen days earlier, asked whether scarcity beats discounting at launch:
+★★ *"You want to say **this group is valuable — and the reason it's valuable is because it's going to be
+very intimate.** So I prefer doing that versus giving a discount. **I abhor discounts, by the way.**"*
+([[wiki/sources/2024-04-09-yt-NfoocYAuZN0]].) The risk-share is what he offers **instead**.
+
+**The structure.** When the budget is genuinely too small and you cannot walk away: do the work **free**
+in exchange for a **share of the measured result**. In the roleplay: **$50 per new customer** through the
+door, on a stated $100 average order, with **no cap**.
+
+- ★★ **The justification is Drucker, not generosity.** *"You know who Peter Drucker is? **All profit
+  comes from risk.** I'm taking all the risk — **or you can just pay me what I'm worth and you keep all
+  the profit.**"* (This is consistent with §39's cost/price/value triad, which already credits Drucker for
+  profit-as-risk-compensation; §48 is the **operational form** of it.)
+- ★★ **Present it as a two-option choice and refuse to blend them.** Flat fee, buyer keeps all upside —
+  **or** free work, vendor takes an uncapped share. When the buyer asks for a cap on the percentage *and*
+  the free work, that is the buyer taking the upside **and** the safety. Re-state both cleanly and let
+  them pick.
+- **What the structure actually does**: it makes the flat fee legible as the *safe* option. The buyer in
+  the roleplay moves from $1,000 to **$4,000 flat** precisely because the alternative is now expensive.
+- **The dependency to name out loud**: *"I rely on your honesty."* This structure requires measurable,
+  reportable results and a client who will report them — say so rather than assuming it.
+
+> **Relationship to the guarantee playbook (§41).** §41 prices *risk you absorb on a normal engagement*
+> (never guarantee at the normal price; price the risk ~3x). §48 is the reverse: **you take 100% of the
+> risk and are compensated in upside instead of fee.** Two different instruments; don't conflate them.
+
+**The pricing principle underneath the whole exchange**, worth carrying on its own: ★★ *"I find in my
+life and my experience that **people tend to spend money on what they value**"* — auditable against what
+the client has already bought (the fridge, the floors, the car outside). A small budget is therefore
+**data about importance**, not about the wallet.
 
 ## Worked figures & self-reported claims
 

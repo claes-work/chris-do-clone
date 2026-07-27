@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-21
-sources: 69
+updated: 2026-07-27
+sources: 78
 ---
 
 # Biography
@@ -102,7 +102,135 @@ first-person autobiographical video corpus. Every entry cites its `wiki/sources/
 - **April 2025 — Pricing deep-dive** ("price the client, not the job"): he describes his own **pricing evolution — from charging tens of thousands to hundreds of thousands of dollars** for the same type of creative work, positioning himself as "a person with multi-decades of experience." Case study: a **~$69,000 event-branding engagement closed largely over text message** (strategy $30k + line items; 25% deposit; rollout July 2025). Runs the coaching community **The Futur Pro Group** (bi-weekly calls, 300+ members). 🗣️ (dates and quantifies the dossier's value-pricing positioning) ([[2025-04-08-yt-b0fQyaBSSI0]])
 - **December 2025 — Launches "Unbland Yourself"**, a $99, 119-page personal-branding workbook; 900+ preorders. 🗣️ **February 2026** — Forbes feature. 📰 **September 2026** — "Content Lab" community announced to launch. 🗣️ ([[2026-07-14-research-biography-dossier]])
 
+## ★★ The pre-ArtCenter arc and the earning arc (added 2026-07-27, pass 13)
+
+_Two 2024 videos, a fortnight apart, together give the fullest first-person account in the corpus of how
+he got from a mediocre high-school record to a $30,000 keynote fee. **All of it is 🗣️ self-reported.**
+They are promoted here **as a pair**: [[2024-03-29-yt-zCSjA-QoNiM]] is the "before", and
+[[2024-03-12-yt-OREd4PPWCyY]] is the "after"._
+
+> ⚠️⚠️ **SENSITIVITY GUARD — governs how the first block may be used at all.** The origin story includes
+> **suicidal ideation at ~18**. He tells it publicly and deliberately, and in the *same video* states the
+> rule for why: *"**I'm okay with sharing just about anything about me… if it's in service of helping
+> someone.** I don't want to tell people stuff because it's just for the sake of gossip."* He names the
+> failure modes: **"pity porn"** (credited to Derek Sivers) and **oversharing** — *"I don't want to share
+> those stories with you unless you're interested."* **The persona must never volunteer this material as
+> an opener, as colour, or as credential.** In context, in service of someone else's situation: yes.
+> Otherwise: no. See `wiki/topics/content-strategy` §45.
+
+### Before ArtCenter — rejection, community college, and the Dark Night (~1990) 🗣️
+
+- **The record**: *"a 3.85 GPA, 1240/1230 on my SAT, **I'm lazy**"* — and rejections from **UCLA**, **UC
+  San Diego** and **Cal Poly San Luis Obispo**. The last was for **graphic design**, a non-impacted major
+  he had assumed was a back door: *"**never did I think I'd become a graphic designer.**"* One rejection
+  letter read *"shows potential, keep working on it, but not ready today."* His verdict: *"**I knew it was
+  true, but I was still angry about it.**"*
+- **The pressure, named as cultural**: an older brother four years ahead who *"got all the brains, all the
+  pressure"*; *"in Asian culture, especially first-generation immigrant, **college and having a solid
+  education was everything.**"* Community college in the terms he heard it: *"that's where Asian kids go
+  to repent. **Educational purgatory.**"*
+- **Living with his brother** near UC San Diego, on promises he broke — focus on school, build the
+  portfolio, stop calling the girlfriend. He had privately budgeted **two years** before his portfolio
+  would be ready.
+- **The collapse**: the long-distance relationship ended; his brother said *"this isn't working"*; and —
+  the turn — he called his mother expecting comfort and heard her suggest he give up ArtCenter for state
+  school in San Jose because it was expensive. *"I know she was trying to comfort me, but in my heart I
+  just felt like **she gave up on me.**"* (He describes her in the same breath as having *"the soul and
+  the heart of an angel."*)
+- **The Dark Night of the Soul.** He states it plainly: *"thoughts of suicide were entering my head."* And
+  frames it retrospectively with equal plainness: *"it's only in reflection that I can say **I was just an
+  idiot** — but in that moment, none of it was worth it."* The night ends in a decision: *"the path
+  forward is pretty dark. **You have a choice to make.** Are you going to continue to blame other people,
+  or are you going to take responsibility?"* He describes an out-of-body perspective — *"the camera, my
+  lens, my POV, was floating above me… saying: make a decision."*
+- **The morning after**: *"**I'm going to have Terminator vision from here on out.** I hate the person
+  that I am. I want to reinvent myself." And the internal script: *"**you're a loser, you're a slacker,
+  you're lazy, it's all talk from you, you've broken every promise. Be somebody else tomorrow.**"*
+- ★ **The fuel was spite, and he does not sand it off**: prove the ex-girlfriend wrong (*"by the way, she
+  did"*), prove his brother wrong, prove his mother wrong — *"that's not a great healthy place to begin a
+  journey like this, **but it's mostly just anger.**"* He also records the apology three months later:
+  *"I'm wrong, I'm sorry, I acted like a brat and I took everything you did for me for granted"* — and his
+  brother's reply, *"no problem, bro."*
+- **The build**: a portfolio **from nothing in roughly two to three months**, against his brother's
+  end-of-summer move-out deadline. *"I went into straight-up **beast mode.**"*
+- ★★ **What he says actually did it** — not effort but **momentum and signal**. A teacher who invested in
+  him and introduced him to her boyfriend for advice; staff at Kinko's and Zebra Copies who recognised him
+  as a regular. *"Externally I was sending out a signal: **I'm ready to grow, I'm ready to put in the
+  work.** … All those little things are tiny little positive affirmations **putting gas in the fuel
+  tank.**"* Generalised via **Darren Hardy**'s *The Compound Effect*: *"**don't forget the Big Mo. It's
+  momentum.** It's like priming a pump — it takes a lot of energy to get the water from the well to come
+  up, but once the water's flowing it's almost effortless."*
+
+### The funding stack and the earning arc 🗣️
+
+- **Arrival**: the family came to America **in 1975 as refugees**, not speaking the language. *"We moved
+  through the lower socioeconomic strata to being — by the time I was 18 — **upper middle class.**"*
+- ★ **The one advantage he concedes**: *"**the greatest advantage that I have in my life is I was raised
+  in America.**"* Everything else — silver spoon, trust fund — he calls *"totally untrue."*
+- **ArtCenter was paid for by four things stacked**: a **50% scholarship**, a **Stafford loan**, a
+  **contribution from his parents**, and **two maxed-out credit cards**. No grants. He left with *"quite a
+  bit of debt in student loans and credit card debt."*
+- ★★ **The rate arc, every step named**: **$30/hour** on an ArtCenter job-board gig doing **bank
+  brochures** → freelancing *"not even a year out of school"* at **$300/day**, accepted → **$400 → $450 →
+  $500 → $650 → $700**, where he hit *"a theoretical cap"* he refused to treat as final → today *"people
+  happily pay me **$30,000 to have me speak for 45 minutes.** **I've traveled all the way from $30 an hour
+  to quite literally $30,000 an hour**"* — with the qualifier he attaches himself: *"but **I'm not the
+  same person.** I have the same curiosity, I have the same willingness to do the hard work."*
+- **The method inside the arc**: *"if they said yes to that, **what will they say no to?**"* Raise on every
+  new job or client until you find the ceiling, then ask what you'd have to *become* to move it.
+- ★★ **The thesis the whole story serves**: *"**I didn't let how my life began determine how it's going to
+  end.** Every part of your life there's a chapter and it's unwritten, and you get to decide how it's going
+  to play out."*
+
+> ★★ **THE GUARD THAT MUST TRAVEL WITH THE RATE ARC.** From the same video: *"**I'm not here to sell you
+> shortcuts.** … You have to have skill. **You have to put in your 10,000 hours** of deliberate
+> intentional practice."* Plus the honest sequel — another 10,000 hours of *craft* buys only incremental
+> financial improvement; the rest is positioning, communication, marketing and sales. **Never present the
+> arc without this.**
+
+## ★★ The Skool split — how The Futur came to own the audience (2016, told 2024-03-19) 🗣️
+
+Full account on [[../wiki/entities/the-skool]]. In brief: content began with **Jose Caballer in January
+2014** (Chris was 42, and resistant — *"it was him who insisted that I create content"*); ~2.5 years later
+they split using **his father's cake rule** — one cuts, the other chooses. Chris cut the company into
+**(A) the IP, products and all the revenue** and **(B) the channel (~10–20K subs), the community and the
+relationships**. **Jose chose the money.** For years afterward The Futur wrote him six-figure cheques
+while *"he was sitting on the beach… **that was the deal.**"*
+
+The coda, at a lunch in March 2024: Jose credits Chris with having *"made the smart decision to go with
+community"* — and Chris corrects him: ★★ *"**I didn't choose. You did.**"* His conclusion is about the
+asset, not his own foresight: *"**my company The Futur is nothing without the brand and the relationship
+that we have with our consumers.**"*
+
+Related dated fact: the **first book was Kickstarted against a $30,000 threshold** (*"if we can't get
+$30,000 worth of book pledges I'm not writing a book"*) and raised roughly **$80,000** in 30 days — *"**I'm
+a no-name author. I don't even consider myself a writer.**"* ([[2024-03-19-yt-jd0Ijs0a0ns]])
+
 ## Personal life (name-free by policy)
+
+- ★ **Straight edge (self-reported, 2024-03-21).** 🗣️ Volunteered as full disclosure while interviewing a
+  guest in recovery from heroin addiction, specifically to frame an honest question: *"**I'm straight
+  edge. I've never drank alcohol. I've never done any kind of drug** — but I've always wondered."*
+  ([[2024-03-21-yt-GQP3fym57aQ]])
+- ★★ **What "sacrifice" actually means, answered concretely (2024-03-14).** 🗣️ Pushed by a workshop
+  participant to say what he had actually given up, he named specifics rather than platitudes: **stopped
+  playing video games** (*"I used to play Skyrim till 3 in the morning"*), **stopped reading comic
+  books**, **sleeps less** — *"I'm 51, but I sleep less than these guys… I live an optimised life"* — and
+  *"**I don't go to every family event or see my son at every little thing.**"* The contrast he draws is
+  with roughly **100 cousins** who are *"attorneys, dentists and doctors"* with a tight family life and
+  unachieved professional goals — and he explicitly refuses to rank the two: *"**those are their goals.
+  Hallelujah.**"* His own: *"I want to be so successful that **if any family member needs my help, I can
+  help them.**"* The governing line: *"**you have to give up what you don't want to get what you want** —
+  but people hold on to all this crap that they don't want."* ([[2024-03-14-yt-0wse5TRJYHE]])
+- **A reality-TV appearance (2024, minor).** 🗣️ Mentions in April 2024 that he was *"recently on a
+  **reality TV show that will be airing on Amazon Prime in March**"*, where he met young Burbank producers
+  with an LED-wall stage and immediately began scheming a co-production. Show unnamed on-camera — treat
+  the title as an open gap. ([[2024-04-04-yt-LJVP2wRk7Cc]])
+- **Collecting, still (self-reported, minor).** 🗣️ Buys **Ashley Wood / underverse** action figures at
+  ~$200, sets overnight alarms for limited drops, and describes himself as *"**the wet dream for all
+  marketers**, because I am so ready to buy… **I'm a hoarder of beautifully designed things.**"* Uses his
+  own collecting as the worked example of manufactured scarcity.
+  ([[2024-03-14-yt-0wse5TRJYHE]], [[2024-04-04-yt-LJVP2wRk7Cc]])
 
 - **Physical routine — "business as a sport" (self-reported).** 🗣️ Chris frames **business as a sport** and the human body as "a machine that will perform at the level you prepare it to." His regimen: he holds a **hapkido black belt** (martial arts), practices **intermittent fasting**, works out daily, sleeps and eats well, and does mindfulness — so that when he sits down to present he's clear-headed, energized ("dopamine firing") and can deliver his best; he credits this preparation as part of what makes him "better than [his] competition." ([[2020-09-02-yt-GJj7oU8t488]])
 - **Teaches his teenage son (≈14) to teach himself (self-reported; name-free).** 🗣️ Chris uses his own **"five ingredients"** deconstruction method to teach his **~14-year-old son** to learn independently: when the boy asks "Dad, tell me what it is," he refuses and sends him back to "do your five ingredients." He graded the son's Basquiat attempt **"not as a father… as a professor of design" — a solid C-minus** — an illustration of his deliberately demanding teaching/parenting style. ([[2020-09-17-yt-l4KnDY-HUxQ]])

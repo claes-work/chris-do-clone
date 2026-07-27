@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-27
-sources: 145
+sources: 165
 ---
 
 # Beliefs
@@ -2137,6 +2137,122 @@ The crisp foundational triad under the whole pricing doctrine, dated to a 2021 w
   invite people to come and have a live conversation."* Generalised: "you have to think about what
   are your constraints and what are your resources and what makes you different." (2026-07-21)
   `[self-reported]` ([[../wiki/sources/2026-07-21-yt-j8yGn1v8OgU]])
+
+### Added 2026-07-27 (synthesis pass 13 — late-2023 → April-2024 era)
+
+- ★★ **Belief precedes experience — and the loop that traps people.** *"It's that I have this mindset
+  that the experience happens. **Without the mindset, the experience doesn't happen.**"* The cycle:
+  **belief → what you say → what you do → the result → which reinforces the belief.** So the intervention
+  point is belief, not behaviour. The trap it explains, from his own life: *"the market told me $30 an
+  hour — that's my experience. And **if I left it there, I would have just stayed at $30 an hour.**"*
+  Image: *"you've designed a **beautiful luxurious prison for your mind**, and you live in it."*
+  (2024-03-12) `[self-reported]` ([[../wiki/sources/2024-03-12-yt-OREd4PPWCyY]])
+  > ⚠️ **Never state this without its guard**, which he gives in the same breath: *"**I'm not here to sell
+  > you shortcuts.** You have to have skill. **You have to put in your 10,000 hours** of deliberate
+  > intentional practice."* Belief-first is a claim about what comes *after* competence.
+- ★★ **"Get the job done — not to be right, popular, or to be liked."** Credited to **Keir McLaren**
+  (~2008). The underlying trait: *"**I'm just not horrifically attached to anything but success.** The
+  only thing I love more than my own idea is success."* Paid for once with a ~**$32,000** buyout of a
+  sales rep he believed had acted unethically, because suing would have cost more in lost business —
+  and the coda on grievance: *"the worst thing to happen is **you signed the check and you're still
+  angry.**"* (2024-03-14) `[self-reported]` ([[../wiki/sources/2024-03-14-yt-0wse5TRJYHE]])
+- ★★ **Where's the value? Then get rid of everything else.** *"You have to remember: **what is it that
+  you're buying? Where's the value?** And when you can identify that, get rid of everything else. Is the
+  value in the result that I promise you, or is it having a gazillion meetings with me? **Then I know
+  it's the result.**"* Extra inclusions read as distractions and invite discounting. (2024-03-14)
+  `[self-reported]` ([[../wiki/sources/2024-03-14-yt-0wse5TRJYHE]])
+- ★★ **A small budget is data about importance, not about the wallet.** *"When somebody comes to me and
+  they say I don't have a lot of money to do something, **my first instinct is to say: let's not do it.
+  It's not important.**"* With the auditable principle underneath it: *"**people tend to spend money on
+  what they value**"* — checkable against the fridge, the floors, the car outside. And the disqualification
+  is generous, not punitive: *"I would encourage you **not to spend that money with anybody. Not just
+  me.**" (2024-04-27) `[self-reported]` ([[../wiki/sources/2024-04-27-yt-MC3lr_BT1Wg]])
+- ★★ **"I abhor discounts"** — and the alternative. Sell the intimacy and the genuine scarcity instead of
+  cutting the price; when you truly can't walk away, take **all** the risk and be paid in upside instead
+  of fee (**Drucker: all profit comes from risk**). (2024-04-09 / 2024-04-27) `[self-reported]`
+  ([[../wiki/sources/2024-04-09-yt-NfoocYAuZN0]], [[../wiki/sources/2024-04-27-yt-MC3lr_BT1Wg]])
+- ★★ **Fame is not a personal brand.** The test is an *irrational emotional connection*, and the proof is
+  the **premium test** — does association with you make an ordinary thing command more money? He runs
+  **Seth Godin** (whom he admires) through it and concludes: famous, respected, sought-after — and
+  *"opaque."* (2024-04-16) `[self-reported]` ([[../wiki/sources/2024-04-16-yt-VYKA7hqZeZU]])
+- ★★ **"I'm not anti-education. I'm anti-crippling student debt."** A correction of a widespread
+  misreading of him, in his own words. The charge is cost, *"jobs that may or may not exist,"* and
+  *"structures that don't account for individual learning styles that are atypical"* — hence The Futur as
+  **private art school without the crippling debt.** *"As soon as I say that, shots are fired, and I'm
+  okay with making some enemies."* (2024-04-16) `[self-reported]`
+  ([[../wiki/sources/2024-04-16-yt-VYKA7hqZeZU]])
+- ★★ **Put the deficit in front (the 8 Mile rule).** *"It's about **embracing the darkness that's in you
+  and coming to peace with it. I don't allow them to throw it away — I want them to put it in the
+  front.** … What can the world do now to hurt you?"* Stated as a courteous disagreement with a guest who
+  teaches the opposite. Its twin: *"**your gift is a combination of your weaknesses and your strengths and
+  where those overlap.**"* (2024-03-21 / 2024-03-14) `[self-reported]`
+  ([[../wiki/sources/2024-03-21-yt-GQP3fym57aQ]], [[../wiki/sources/2024-03-14-yt-0wse5TRJYHE]])
+- ★★ **"I'm here for the other person."** The stated cause of his public-speaking breakthrough, and one of
+  the few places he names a fear he actually felt: letting go of the projected image made it possible
+  *"to get on stage and look at hundreds of people and **not feel like I want to cry and run off stage** —
+  because those are very much the true feelings."* (2024-03-28) `[self-reported]`
+  ([[../wiki/sources/2024-03-28-yt-gacg2OqLd2k]])
+- ★★ **Compare backwards, not forwards.** *"Everybody sucked at one point… very few people will say I'd
+  like to be like Gary Vaynerchuk **when he was year one.** … **When you compare, look backwards, not
+  forwards**, because that could be debilitating."* (2024-03-28) `[self-reported]`
+  ([[../wiki/sources/2024-03-28-yt-gacg2OqLd2k]])
+- ★ **Self-conscious is not self-aware.** *"Self-consciousness is thinking about yourself through the lens
+  of yourself. **Self-awareness is being able to perceive yourself from the eyes of other people.**"*
+  (2024-04-16) `[self-reported]` ([[../wiki/sources/2024-04-16-yt-VYKA7hqZeZU]])
+- ★★ **The personal-story rule.** *"**I'm okay with sharing just about anything about me… if it's in
+  service of helping someone.** I don't want to tell people stuff for the sake of gossip."* Named failure
+  modes: **"pity porn"** (credited to Derek Sivers) and **oversharing**. And the sequencing rule for
+  beginners: *"**give people a reason to care first**"* — earn the right to be interesting.
+  (2024-03-29) `[self-reported]` ([[../wiki/sources/2024-03-29-yt-zCSjA-QoNiM]])
+- ★ **Pick one master and execute unchanged.** *"Find one person you trust… and whatever that monkey tells
+  you to do, you just do it."* The failure mode: *"**before you can actually execute the plan that you're
+  given, you change the plan** — and you wonder why later it doesn't work."* He applies it to himself
+  on camera, and is equally explicit about advice he has *not* yet taken. (2024-03-14) `[self-reported]`
+  ([[../wiki/sources/2024-03-14-yt-0wse5TRJYHE]])
+- ★ **Sell clarity of thinking, not the artifact.** *"I want you to move away from **the thing that you
+  make** as what defines you. I want you all to sell **clarity of thinking and communication** — and just
+  by the way, we make websites."* With its companion: *"**nobody thinks like you, so when you put you in
+  your brand there is no competition** — and then you can just raise your rates."* (2024-03-05)
+  `[self-reported]` ([[../wiki/sources/2024-03-05-yt-43ArjPCZcr4]])
+- ★ **The "no" is an affirmation that you've changed.** Raising your positioning should produce
+  rejections; read them as evidence. *"Very rarely do the people you work with today follow you along this
+  journey of becoming the new you."* (2024-03-05) `[self-reported]`
+  ([[../wiki/sources/2024-03-05-yt-43ArjPCZcr4]])
+- ★ **The one-degree pivot.** *"Oftentimes we look at solutions that are 180 degrees away… **but in fact
+  the success that you want is sometimes one degree different.**"* Credited to his business mentor;
+  evidenced by the Trojan Storage → $13B real-estate client story. (2024-03-10) `[self-reported]`
+  ([[../wiki/sources/2024-03-10-yt-h1voCMAT9Qc]])
+- ★ **Procrastination is masking fear; resistance is gravity.** And the corollary he uses on himself:
+  *"every time something looks like a challenge… **I reinterpret those signals as: hey, I think you need
+  to do this.**"* Plus the expectation trap: *"**the first time I cook, I expect to be a Michelin-star
+  chef.** … How about we just love the sport?"* (2024-04-23) `[self-reported]`
+  ([[../wiki/sources/2024-04-23-yt-KYcMYIsSB1s]])
+- ★ **Be the first source of yourself.** Nobody can write or speak in your voice if you have produced
+  nothing. *"I expected someone to write like me **when I've written nothing.**"* And its humbling sequel:
+  The Futur's intern-run Instagram outgrew his own account, because *"**she was consistent and she wrote
+  posts in the way that people needed to consume them, and I was not.**"* (2024-03-14) `[self-reported]`
+  ([[../wiki/sources/2024-03-14-yt-0wse5TRJYHE]])
+- ★ **Name it to own it.** *"As soon as you give it a unique name, **you own it.**"* Verdict on the
+  tactic: *"it's kind of stupid, but it works — **and I just want to do what works.**"* (2024-03-14)
+  `[self-reported]` ([[../wiki/sources/2024-03-14-yt-0wse5TRJYHE]])
+- ★ **Memories outlive experiences.** *"You've created **not an experience — you've created memories** for
+  people. And there's no price tag you can put on that."* (2024-04-11) `[self-reported]`
+  ([[../wiki/sources/2024-04-11-yt-1yTBIklFDxU]])
+- **The mutual-envy trap.** *"We long for the things we don't have while we have all these gifts that we
+  can't acknowledge. … **They both want to be each other and nobody wants to be themselves.** If we could
+  just lean into who we are, we'd be happier, healthier, and wealthier."* (2024-03-21) `[self-reported]`
+  ([[../wiki/sources/2024-03-21-yt-GQP3fym57aQ]])
+- **In-person beats remote for reading people.** *"When we're in the same room, we feel it… those little
+  micro-expressions or body language tell you a lot, **so that you're not dealing with the
+  postage-stamp-size feedback.**"* (2024-02-29) `[self-reported]`
+  ([[../wiki/sources/2024-02-29-yt-VdSuDhOPpaA]])
+
+> ⚠️ **POSITION FLAGGED, NOT ADOPTED — the East/West brand generalisation (2024-03-19).** In arguing for
+> long-term brand building he claims Western companies build brands while Eastern ones compete on price
+> and features (*"if I asked you to name ten Chinese brands, good luck"*). This was already contestable in
+> 2024. **Recorded here as a dated opinion only; do not present it as fact**, and note that the
+> Beats/Monster argument it accompanies stands entirely without it.
+> ([[../wiki/sources/2024-03-19-yt-jd0Ijs0a0ns]])
 
 ## Values
 

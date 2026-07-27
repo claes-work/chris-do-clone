@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-27 (ingest yt batch @thefutur, 6 → 806 L2 — ★★ **the canonical personal-brand framework** (fame ≠ brand; 3 traits, 4 components, the enemy) and ★★ **the low-ball sales roleplay** (walk-away + uncapped risk-share, Drucker); *"I abhor discounts"*; Keir McLaren's *"you're hiding in your room"*; ⚠️ one attribution risk flagged — Blair Enns's codified methodology vs. Chris's own 5-step process)_
+_Last updated: 2026-07-27 (**synthesis pass 13 → system-prompt v15**) — promoted 58 L2 pages (748→806) into all 7 topic hubs + biography/beliefs/voice. Landmarks: the **pre-ArtCenter origin arc** and the **rate arc** ($30/hr → $30,000/hr), the **Skool split** (the cake rule), the **canonical personal-brand framework**, the **low-ball playbook**, the **one-degree pivot** + Trojan Storage → $13B. **6 new guards**, incl. the personal-story rule and "anti-crippling-student-debt, not anti-education"._
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **806 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2024-04-27] + the 2026-07-21 fresh upload; synthesized through batch 114 → persona **v14**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **806 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2024-04-27] + the 2026-07-21 fresh upload; synthesized through batch 123 → persona **v15**).
 
 ## Topics
 
@@ -29,7 +29,8 @@ _Last updated: 2026-07-27 (ingest yt batch @thefutur, 6 → 806 L2 — ★★ **
 - [wiki/entities/cynthia-kane.md](wiki/entities/cynthia-kane.md) — CONTEXT: communication author/coach, recurring guest (budget talk, silence, EQ); does NOT train the persona.
 - [wiki/entities/blair-enns.md](wiki/entities/blair-enns.md) — INFLUENCE/CONTEXT: Win Without Pitching / Pricing Creativity author; 4+ on-camera co-host appearances; his frameworks (MLE, Blairtopia, retreat-and-follow) are HIS, do NOT train the persona.
 - [wiki/entities/thefutur-youtube.md](wiki/entities/thefutur-youtube.md) — the main channel: eras, formats, ID UC-b3c7kxa5vU-bnmaROgvog.
-- [wiki/entities/kier-mclaren.md](wiki/entities/kier-mclaren.md) — CONTEXT: Chris's longtime business consultant (~10–15 yrs); doubled Blind's revenue; MASTERMIND series host (Eps 1–10).
+- [wiki/entities/kier-mclaren.md](wiki/entities/kier-mclaren.md) — CONTEXT: Chris's longtime business consultant (~10–15 yrs); doubled Blind's revenue; MASTERMIND series host (Eps 1–10); ★★ the two causal interventions ("you're hiding in your room"; get-the-job-done).
+- [wiki/entities/daniel-priestley.md](wiki/entities/daniel-priestley.md) — INFLUENCE/CONTEXT: *Oversubscribed*/*Key Person of Influence*/*Scorecard Marketing*; 3 appearances + the most-cited external framework of the 2024 material; his frameworks are HIS — do NOT train. Records the ScoreApp affiliate disclosure and the recording-date trap.
 - [wiki/entities/kyle-cooper.md](wiki/entities/kyle-cooper.md) — INFLUENCE: title-design legend (Se7en); Chris's R/GA mentor (~late-1990s) — his first title-design exposure.
 - [wiki/entities/karin-fong.md](wiki/entities/karin-fong.md) — INFLUENCE: main-title designer (Imaginary Forces); shared Kyle Cooper / R/GA lineage with Chris.
 - [wiki/entities/danny-yount.md](wiki/entities/danny-yount.md) — INFLUENCE: title designer (Blade Runner 2049; Emmy for Six Feet Under); Digital Kitchen→Prologue→Prodigal Pictures.
@@ -38,11 +39,11 @@ _Last updated: 2026-07-27 (ingest yt batch @thefutur, 6 → 806 L2 — ★★ **
 
 ## Persona (THE PRODUCT)
 
-- [persona/biography.md](persona/biography.md) — dated life timeline, enriched across 12 synthesis passes (**69 facts**; Saigon-refugee origin, ArtCenter scholarship, R/GA under Kyle Cooper, *Pocket Full of Do* + *Create & Orchestrate*, Futur 2.02M-subs Jan-2023, Beverly-Hills Hormozi dinner, early-career Karen-Rainey turning point, 2014 Jose-Caballer process conflict).
-- [persona/voice.md](persona/voice.md) — how they talk, **pass-12** (**106 sources**; +"language is the shield", "symmetry of logic", "AI is the bear", "contrast is Queen", "theory is lonely", "don't speak unless it improves upon silence").
-- [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/opinions (**138 sources**; influences subsection; position-changes/evolution flagged incl. work-life compartmentalize→integrate + value-based-vs-historical-cost-plus + ⚠️ 2016-charge-more-arbitrage-vs-value-based).
+- [persona/biography.md](persona/biography.md) — dated life timeline, enriched across 13 synthesis passes (**78 facts**; ★★ pre-ArtCenter origin arc + the full rate arc $30/hr→$30k/hr, the Skool split cake rule, straight edge; Saigon-refugee origin, ArtCenter scholarship, R/GA under Kyle Cooper, *Pocket Full of Do* + *Create & Orchestrate*, Futur 2.02M-subs Jan-2023, Beverly-Hills Hormozi dinner, early-career Karen-Rainey turning point, 2014 Jose-Caballer process conflict).
+- [persona/voice.md](persona/voice.md) — how they talk, **pass-13** (**131 sources**; +"language is the shield", "symmetry of logic", "AI is the bear", "contrast is Queen", "theory is lonely", "don't speak unless it improves upon silence").
+- [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/opinions (**165 sources**; influences subsection; position-changes/evolution flagged incl. work-life compartmentalize→integrate + value-based-vs-historical-cost-plus + ⚠️ 2016-charge-more-arbitrage-vs-value-based).
 - [persona/appearance.md](persona/appearance.md) — how they look/present (**seeded**: 15 cited self-reported facts; watched-video visual sample still a gap).
-- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt, **v14** (2026-07-27; 756 videos, 7 hubs; +taste-as-AI-moat & 4-part AI curriculum, Professor Hulk integration, radical transparency, 4-part format definition + ROT, "information courier" correction, Brand Lab pivot; new guards: always-qualify the facts-vs-story adage, Brand Lab is unresolved-2023, energy/frequency keeps its self-policing half).
+- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt, **v15** (2026-07-27; 806 videos, 7 hubs; +belief-precedes-experience w/ the 10,000-hours guard, get-the-job-done, the low-ball playbook (risk-share/Drucker), fame≠personal-brand (3 traits/4 components/the enemy), the 8 Mile rule, the imposter toolkit, the one-degree pivot, the smile curve; 6 new guards incl. the personal-story rule and anti-crippling-student-debt; earlier v14 notes: +taste-as-AI-moat & 4-part AI curriculum, Professor Hulk integration, radical transparency, 4-part format definition + ROT, "information courier" correction, Brand Lab pivot; new guards: always-qualify the facts-vs-story adage, Brand Lab is unresolved-2023, energy/frequency keeps its self-policing half).
 
 ## Other
 

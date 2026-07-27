@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-27
-sources: 113
+sources: 131
 ---
 
 # Voice
@@ -1189,6 +1189,113 @@ mile deep." ([[../wiki/sources/2023-08-08-yt-7MB_nwvmB-E]])
 
 > "Did they or didn't they?" (the payoff question every format needs)
 ([[../wiki/sources/2026-07-21-yt-j8yGn1v8OgU]])
+
+### Added 2026-07-27 (pass 13 — late-2023 → April-2024)
+
+> "I've traveled all the way from **$30 an hour to quite literally $30,000 an hour** — but I'm not the
+same person." ([[../wiki/sources/2024-03-12-yt-OREd4PPWCyY]])
+
+> "**Calm seas don't make great sailors.**" ([[../wiki/sources/2024-03-12-yt-OREd4PPWCyY]])
+
+> "**If you think I'm expensive, wait till you get the bill from someone who doesn't know what they're
+doing.**" ([[../wiki/sources/2024-03-12-yt-OREd4PPWCyY]])
+
+> "You've designed a **beautiful luxurious prison for your mind**, and you live in it."
+([[../wiki/sources/2024-03-12-yt-OREd4PPWCyY]])
+
+> "**I didn't let how my life began determine how it's going to end.**"
+([[../wiki/sources/2024-03-12-yt-OREd4PPWCyY]])
+
+> "It has to be such a radical idea it feels like **a slap in the face**."
+([[../wiki/sources/2024-03-12-yt-OREd4PPWCyY]])
+
+> "**Terminator vision from here on out.**" · "climb out of the **Lazarus Pit**" · "**educational
+purgatory**" (on community college) ([[../wiki/sources/2024-03-29-yt-zCSjA-QoNiM]])
+
+> "**I'm just not horrifically attached to anything but success.** The only thing I love more than my own
+idea is success." ([[../wiki/sources/2024-03-14-yt-0wse5TRJYHE]])
+
+> "**The longer you stay here, the longer you will suffer.** It's really weird."
+([[../wiki/sources/2024-03-14-yt-0wse5TRJYHE]])
+
+> "It's not what I can get from people today, but **what they want to give you tomorrow** — and that's the
+game I want to play." ([[../wiki/sources/2024-03-14-yt-0wse5TRJYHE]])
+
+> "You can see those **marketer scumbags** out there doing their thing."
+([[../wiki/sources/2024-03-14-yt-0wse5TRJYHE]])
+
+> "**It's kind of stupid, but it works — and I just want to do what works.**" (on naming things)
+([[../wiki/sources/2024-03-14-yt-0wse5TRJYHE]])
+
+> "**Unignorable.**" (reaching for the word, rejecting "undeniable")
+([[../wiki/sources/2024-03-14-yt-0wse5TRJYHE]])
+
+> "I'm going to use the simplest terms that a fifth grader would understand. **It's called a plan.**"
+([[../wiki/sources/2024-03-10-yt-h1voCMAT9Qc]])
+
+> "Hi everybody, my name is Chris, **I've been client-free for five years.**" (a running AA-meeting bit;
+he dates the end of client work to 2018) ([[../wiki/sources/2024-03-10-yt-h1voCMAT9Qc]])
+
+> "**Romanticism is for movies and poetry and for Valentine's cards, not for your business** — because
+that doesn't pay the bills." ([[../wiki/sources/2024-03-10-yt-h1voCMAT9Qc]])
+
+> "They're terrible. They even tell me: we're embarrassed to show you. And I'm like — **I'm embarrassed to
+show you my profit and loss statement.**" ([[../wiki/sources/2024-03-10-yt-h1voCMAT9Qc]])
+
+> "**Hard to upgrade, impossible to downgrade.**" (on first class, as a model of how status ratchets)
+([[../wiki/sources/2024-03-10-yt-h1voCMAT9Qc]])
+
+> "**The first time I cook, I expect to be a Michelin-star chef. The first time I play golf, I want to be
+under par. How about we just love the sport?**" ([[../wiki/sources/2024-04-23-yt-KYcMYIsSB1s]])
+
+> "**It's almost like you're trying to hurt yourself.** … That doesn't work anywhere in life. **It works
+nowhere in life.**" (on hoarding your expertise) ([[../wiki/sources/2024-04-23-yt-KYcMYIsSB1s]])
+
+> "There's opportunity knocking at the door. **Our duty is to open the freaking door.**"
+([[../wiki/sources/2024-04-23-yt-KYcMYIsSB1s]])
+
+> "**The sleeper must awaken.**" (*Dune*; *"we're all just sleepwalking through life"*)
+([[../wiki/sources/2024-04-16-yt-VYKA7hqZeZU]])
+
+> "That doesn't mean that **the rest of us ugly short people** are just [out of luck]."
+([[../wiki/sources/2024-04-16-yt-VYKA7hqZeZU]])
+
+> "It's just **a lot of word salad.**" ([[../wiki/sources/2024-04-09-yt-NfoocYAuZN0]])
+
+> "**They're like cats in a room** — sometimes they behave and sometimes they don't." (on his own
+community members) ([[../wiki/sources/2024-04-09-yt-NfoocYAuZN0]])
+
+> "Can you recommend anybody? — **Yeah, I hear there's a site called F-I-V-E-R-R, could do it for five
+bucks.**" (deadpan, closing a walk-away) ([[../wiki/sources/2024-04-27-yt-MC3lr_BT1Wg]])
+
+> "**All I do is make banger videos.**" (in character during a roleplay)
+([[../wiki/sources/2024-04-27-yt-MC3lr_BT1Wg]])
+
+> "I'm the **wet dream for all marketers**, because I am so ready to buy… **I'm a hoarder of beautifully
+designed things.** Probably [get] cancelled for saying that."
+([[../wiki/sources/2024-04-04-yt-LJVP2wRk7Cc]])
+
+> "That's all I got — **diagrams and some ideas** — and I will sell you that, I will give you that,
+because that will be my gift to you." ([[../wiki/sources/2024-03-14-yt-0wse5TRJYHE]])
+
+**Delivery patterns confirmed/added this pass:**
+
+- **The self-deflating physical self-portrait**, used to make a point about grounding rather than for
+  laughs: *"I don't have to tell you I'm a five-foot Asian guy, because I am. I'm not to tell you I don't
+  have any hair, because I don't. **But in my mind I'm like — well, I'm six foot two, I'm very
+  debonair.**"* ([[../wiki/sources/2024-03-28-yt-gacg2OqLd2k]])
+- **Naming his own bias out loud before it's used against him** — *"I have competition issues"*, *"I teach
+  this stuff and I still fall for it every single day of my life"*, *"I don't know the number of backlinks
+  we have… that's how much I care about this stuff."*
+- **Reading the room's vote back to it** — he predicts the answer, calls for hands, then tells the room
+  what its own hands revealed (*"chances are everybody who raised their hand for production works in
+  production. I'm almost certain."*).
+- **The action-close, now a stated habit (April 2024).** *"I don't normally do this, but **I'm going to
+  make a habit of doing this more often.** We listen to things, we watch videos, then we're inspired —
+  **but we don't do anything.**"* Then: one takeaway, written down; the next five steps; do it within the
+  week. ([[../wiki/sources/2024-04-11-yt-1yTBIklFDxU]], [[../wiki/sources/2024-04-04-yt-LJVP2wRk7Cc]])
+- **Voicing a scepticism and then updating it in public** — *"here's another guy with a high-falutin
+  title… you're not a trash man, you're a sanitation engineer"*, followed by conceding the substance.
 
 ## Cadence & delivery
 

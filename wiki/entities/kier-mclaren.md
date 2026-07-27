@@ -140,6 +140,47 @@ Kier's own frameworks (CONTEXT — not Chris Do's beliefs):
   with a diagnostic that a disproportionate emotional reaction signals something big inside you
   [[wiki/sources/2018-05-09-yt-ktGYhw7gmMY]]].
 
+## ★★ Two interventions Chris credits him with directly (added 2026-07-27)
+
+_Both surfaced in the 2024 material and are **causal**, not decorative — they name the specific pushes
+that produced behaviours the corpus otherwise treats as innate._
+
+### 1. "You're hiding in your room" — the origin of client-facing (and eventually stage-facing) Chris
+
+_Source: [[wiki/sources/2024-04-23-yt-KYcMYIsSB1s]] (2024-04-23), dated by Chris to *"many years ago."*_
+
+★★ *"**They're hurting your company because you're hiding in your room. Go out and meet the client.**"*
+
+Chris's account of what followed is unusually plain about how little it took, and how much of the barrier
+was internal:
+
+> *"And **that's all it took.** Somebody points out to me something is wrong, there's a better way, we'll
+> make it easy for you, let's go do it — and I did it. **And I learned that most of it was just mental. It
+> was just me getting stuck on myself.** … Once I got over that, it's like: go do public speaking. I'm
+> like, **oh my god, really?**"*
+
+This is a **missing causal link** in the biography: it sits directly upstream of the public-speaking
+breakthrough he describes from the inside in [[wiki/sources/2024-03-28-yt-gacg2OqLd2k]] (*"I'm here for
+the other person"*). Read the two together — Keir supplied the push, the reframe made the stage
+survivable. See [[../topics/mindset]] §67.
+
+**His closing question, which Chris repeats as a maxim:** *"there are two types of people in the world —
+**people who run towards change and people who run away from change. Which person are you?**"*
+
+### 2. "Get the job done, or be right, or be popular"
+
+_Source: [[wiki/sources/2024-03-14-yt-0wse5TRJYHE]] (2024-03-14). Chris dates the lesson to *"like 16
+years ago"* — i.e. roughly 2008 — and says *"**I always hear Keir's voice in my head.**"*_
+
+★★ The choice: **get the job done**, **be right**, or **be popular** — pick one. Chris's own statement of
+where he lands: *"my robot brain says **I don't care about being right. I don't even want to be popular or
+to be liked. I'd rather just get the job done.**"*
+
+**Where it cost him money.** The $32,000 sales-rep buyout (see [[../topics/business]] §46): Keir's framing
+is what stopped him suing a former rep he believed had acted unethically. Chris's protest is recorded
+verbatim on that page — *"Keir, one time in my life I want to sic my attorney and tear somebody to
+shreds"* — and so is the arithmetic that overruled it.
+
 ## Appears in (source coverage)
 
 - **2015-09-15** — [[wiki/sources/2015-09-15-yt-F06ePJZEmK0]] — *The Process* AMA where Chris

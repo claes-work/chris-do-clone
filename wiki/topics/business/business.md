@@ -3,8 +3,8 @@ type: hub
 domain: business
 domains: [business]
 created: 2026-07-14
-updated: 2026-07-21
-tags: [business, entrepreneurship, scaling, agency, delegation, positioning, money, mission, reading-list, culture, design-education, cash-flow, referrals, business-development, curiosity-selling, autonomy, mentorship, pro-bono, conscious-capitalism, giving, freelancers, margins, maker-mindset, entrepreneurial-mindset, process-codification, quality-threshold, student-debt, documentation, freelance-transition, arbitrage, passive-income, runway, company-culture, promotability, bottom-up-management, innovation, white-space, royalties, licensing, feedback, creative-direction, first-hire, intern-bridge, freelancer-vetting, business-partnership, career-positioning, create-and-orchestrate, eight-core-concepts, inheritance-model, firing, no-surprise-principle, risk-profit, hourly-billing, teaching-business, true-fans, course-economics, copycat-response, execution-speed-moat, money-for-time, opportunity-cost, buy-back-time, scruples-hiring-test, values-vetting, creator-partnering]
+updated: 2026-07-27
+tags: [business, entrepreneurship, one-degree-pivot, trojan-storage, smile-curve, stan-shih, ai-eats-production, fifth-grader-language, manufactured-scarcity, scarcity-must-be-true, supreme, subtraction-offer-design, where-is-the-value, get-the-job-done, keir-mclaren, performance-vs-brand-building, runway-caveat, beats-monster, relationship-is-superior, time-audit, delegation-margin, michael-janda, scaling, agency, delegation, positioning, money, mission, reading-list, culture, design-education, cash-flow, referrals, business-development, curiosity-selling, autonomy, mentorship, pro-bono, conscious-capitalism, giving, freelancers, margins, maker-mindset, entrepreneurial-mindset, process-codification, quality-threshold, student-debt, documentation, freelance-transition, arbitrage, passive-income, runway, company-culture, promotability, bottom-up-management, innovation, white-space, royalties, licensing, feedback, creative-direction, first-hire, intern-bridge, freelancer-vetting, business-partnership, career-positioning, create-and-orchestrate, eight-core-concepts, inheritance-model, firing, no-surprise-principle, risk-profit, hourly-billing, teaching-business, true-fans, course-economics, copycat-response, execution-speed-moat, money-for-time, opportunity-cost, buy-back-time, scruples-hiring-test, values-vetting, creator-partnering]
 ---
 
 # Business — hub
@@ -1973,6 +1973,195 @@ or refer to, built proactively before you need it, rather than scrambling when w
 ([[wiki/sources/2023-08-03-yt-MHTX7OtmPEw]], 2023-08-03)
 
 ---
+
+## 42. ★★ The one-degree pivot, and the Trojan Storage proof (2024-03-10)
+
+_Source: [[wiki/sources/2024-03-10-yt-h1voCMAT9Qc]]. The framework is credited to his business mentor;
+the case study is his own and is the strongest evidence in the corpus for it._
+
+★★ **The framework.** *"Oftentimes we look at solutions that are 180 degrees away — we think we have to
+do something completely different — **but in fact the success that you want is sometimes one degree
+different.**"*
+
+★★ **The proof — how Blind won a $13B client off a $1,000 job.** They were **not** hired off the Audi or
+Xbox work. They were hired off **Trojan Storage**, a low-rent self-storage facility. The client's stated
+reasoning: *"**if you can make self-storage facilities look good, you can make our A-class buildings
+amazing.**"* Blind won it **while being the most expensive bidder**, beating every specialist real-estate
+marketing company — *"that's how we **flipped a $1,000 job into a multi-million dollar opportunity.**"*
+See [[wiki/entities/blind]].
+
+The commercial lesson he attaches: ★ *"**it's not that they don't have money — they just don't have money
+for us.**"* The same budget exists one category over.
+
+## 43. Stan Shih's smile curve — where the value actually sits, and what AI takes first (2024-03-10)
+
+_Source: [[wiki/sources/2024-03-10-yt-h1voCMAT9Qc]]. Runs directly out of §32 (codify into five steps),
+which he teaches in the same session as the **predictable proven process**._
+
+- **The exercise**: allocate $10 across your five process steps. In the room, seven people voted
+  **production** — and every one of them worked in production. *"Chances are everybody who raised their
+  hand for production works in production. **I'm almost certain.**"*
+- ★★ **The curve** (**Stan Shih**'s value curve): value concentrates at the **planning/idea** end and the
+  **distribution/marketing** end, and **dies in the middle**. Evidence: a chair is manufactured in China
+  and the manufacturer doesn't get rich; the iPod's assembly was cents while *"Apple, the marketer and
+  the distributor, makes most of the money."* Liquid Death given as the pure case — *"almost all the plan,
+  maybe a little bit of distribution; everything in the middle dies."*
+- ★★ **The AI corollary, asked as the follow-up question in the same breath**: *"where is AI going to eat
+  your lunch **first**?"* — production. *"**That's why all the artists are crying, because they just see
+  themselves as production people.**"* The defensible ends are the planning end and the distribution end.
+- **The measurement test he applies to the middle**: *"Jason's excellent at making what he makes… **but if
+  it don't make me a dollar, I don't care.** … If you do something that's soft and fluffy and you can't
+  measure it and it doesn't move the baseline for your clients, **it becomes a pure aesthetic, almost a
+  vanity play.**"*
+
+**Language discipline for the five steps** (same source): name them so a **fifth-grader** understands.
+*"I'm going to use the simplest terms that a fifth grader would understand. **It's called a plan.**"*
+Then write it up and publish it, *"so no one's guessing what's the next step."* His read on why it sells:
+*"when I ask entrepreneurs what is it you want, they almost always say: **we want to have a predictable
+proven process.**"*
+
+> ⚠️ **ATTRIBUTION NOTE — do not merge with Blair Enns.** In
+> [[wiki/sources/2024-04-14-yt-yD-6yenGhLk]] Blair Enns teaches a near-identical idea as **his** — the
+> ditch-digging parable, drawing the codified methodology, and *"little variability in process equals
+> little variability in outcome"* — with the refinement that it matters **late** in the buying cycle
+> (early on, what matters is the client seeing a beautiful future, which the portfolio does). The two
+> frameworks converge; **they are separately attributed and must stay that way.** Chris's version is the
+> five-step / fifth-grader / publish-it form; Enns's is the diagnosis→method→reassurance form.
+
+## 44. Manufactured scarcity, done honestly — and what The Futur actually did with it (2024-03-10 / 2024-03-14)
+
+_Sources: [[wiki/sources/2024-03-10-yt-h1voCMAT9Qc]] and
+[[wiki/sources/2024-03-14-yt-0wse5TRJYHE]]. The underlying sequence is **Daniel Priestley's**
+(*Oversubscribed*) — see [[wiki/entities/daniel-priestley]] — and is fenced there. What is recorded here
+is **Chris's application of it and the honesty constraint he puts on it.**_
+
+- **The mechanism, as he teaches it**: supply below demand, and **made visible**. *"If you look at every
+  luxury brand, they operate under **false scarcity**… the simple concept is: **is it difficult to buy?**
+  If it is, we want it more, for some reason."* Attack both sides: *"decrease supply and commit to it —
+  and you have to work on increasing demand. That's called marketing."*
+- **Supreme as the pure case**: one New York store, a drop every Thursday, never remade. *"Their genius
+  is they just took the collection and **released it once a week.**"* And the decline after the parent
+  company opened more stores — *"you literally can go in a store and buy it and there's no line out
+  front, [and] the entire hype thing dies."* His generalisation: ★ *"**you don't have to change what you
+  do, just change one factor of what you do**, and all of a sudden it becomes a whole new thing"* (cf.
+  §42).
+
+> ⚠️ **THE CONSTRAINT — promote it with the tactic, never without.** Four days after the "false
+> scarcity" line he draws the boundary explicitly: *"this is where it gets into **manipulation
+> marketing, which I don't like**… if you say I have two [slots] but then you take on 55 clients, **it's
+> not going to work.**"* And: *"**the other thing that makes it really believable is if it's true.**"*
+> The two statements are not a contradiction — the second is the guard on the first. **Scarcity must be
+> real.**
+
+**What The Futur did with it (dated, self-reported, and with his own caveat attached):** the **Pro Group
+capped at 1,000 members** with **30 enrolled per month** (~530 at the time; he wanted 3,000, Ben talked
+him to 1,000); waiting-room members dripped content from ~300 archived calls; result — *"Ben sent an email
+to the entire team: **we broke a sales record** in terms of community revenue in a given month."*
+
+> **Carry the caveat.** *"**Ask me in six months if it's working. I do not know.** Conceptually it
+> works… and if it doesn't work, I don't think the theory is bad — **I think our application of it is
+> bad.**"* Reporting the record month without this sentence misrepresents him.
+
+## 45. Subtraction as offer design — get rid of things until they can't complain (2024-03-14)
+
+_Source: [[wiki/sources/2024-03-14-yt-0wse5TRJYHE]]._
+
+Counter-intuitive against the standard stack-more-value advice, and he says why: ★ *"[extra inclusions]
+are distractions, because now they're like — **well I want this but I want that, therefore I want to pay
+less.**"*
+
+- **The worked example (Brand Lab).** One person said they couldn't attend the three-day workshop, so
+  **the workshop was cut — at the same price.** *"I just get rid of more stuff until they can't complain
+  anymore, and now they just buy."* Ben's counter-proposal for what to substitute: VIP access to whatever
+  Chris is doing — *"that works for me. **I don't even know what I'm doing.** That works."*
+- ★★ **The governing question.** *"You have to remember: **what is it that you're buying? Where's the
+  value?** And when you can identify that, **get rid of everything else.** It's that simple. Is the value
+  in the result that I promise you, or is it having a gazillion meetings with me? Then I know it's the
+  result."*
+- **Applied to his own delivery**: *"somebody asked me how many calls should I be on. I said **as few as
+  possible, please.**"* And the pricing logic that follows: *"**I would teach you everything you need to
+  know about personal branding for free. If you want the feedback from me, you'll pay me the 18 grand** —
+  and you'll be happy to do it."*
+- **The anti-example**: *"go to Cheesecake Factory and figure out what you want to order. **You have a
+  heart attack after and before you eat.**"*
+
+## 46. ★★ Get the job done, or be right, or be popular — pick one (2024-03-14)
+
+_Source: [[wiki/sources/2024-03-14-yt-0wse5TRJYHE]]. Credited to his mentor **Keir McLaren** (*"he taught
+me this lesson like 16 years ago"*), and paid for with a story he tells against himself._
+
+★★ *"There's a lot of ways to make money. **You just got to find the way that it makes sense to get the
+job done — not to be right, popular, or to be liked.**"*
+
+★★ The underlying trait, stated flatly: *"**I'm just not horrifically attached to anything but success.**
+That's it. **The only thing I love more than my own idea is success.**"*
+
+**The $32,000 story.** An unethical sales rep quit in October/November, then in January invoked an
+**auto-renewing contract** she knew about. His attorney (**Stuart**) talked him out of suing — *"as much
+as I want to sue her into hell, it's not good for your business; this is going to be a long drawn-out
+process and it's your word against hers."* Chris's protest is worth keeping verbatim: *"**one time in my
+life I want to sic my attorney and tear somebody to shreds down to the bone and grind the bones down
+too.**"* The arithmetic that settled it: one new project is $300–500K, and every month without a rep
+selling costs more than the buyout. He paid roughly **$32,000** — *"a painful check for me to write."*
+
+- ★ **The closing lesson on grievance**: *"**the worst thing to happen is you signed the check and you're
+  still angry.**"* And: *"she beat me like three times — first quit and lied, second got me to pay, **and
+  then got to haunt me in my dreams. I'm not going to give her number three.**"*
+- **The decision analogy he uses for hard calls**: *"every submarine movie has the exact same dilemma for
+  the captain… **who will you let die in order for everyone to live?**"*
+
+## 47. Performance marketing vs. brand building — with the runway caveat (2024-03-19)
+
+_Source: [[wiki/sources/2024-03-19-yt-jd0Ijs0a0ns]], citing a **Harvard Business Review** May/June 2023
+article. He taught the same material live nine days earlier
+([[wiki/sources/2024-03-10-yt-h1voCMAT9Qc]]) — **one framework, two tellings.**_
+
+- **The split**: performance marketing (ads, funnels, cold outreach, email) buys **short-term revenue**
+  with legible ROI; brand building buys **long-term value**. *"The world's most successful and valuable
+  companies focus on brand building."*
+- **The failure mode**: *"if you spend all of your money and effort [on] performance marketing,
+  **eventually your brand will be worth nothing**, because this drives this away. Send me ten emails —
+  I'm unfollowing you. I used to like you, now I hate you."*
+- ★★ **The caveat, stated so the advice isn't misapplied**: *"let's not misinterpret what I'm saying…
+  **if you don't have enough runway, the long-term brand-building play just won't work, because you won't
+  be able to survive.** It's a balance of these two things. You *do* need to sell from time to time."*
+  **Promote this with the framework, always.**
+- **The parable**: the grasshopper and the ant — *"if all you do is live and play in the moment you'll
+  have great fun, but when winter comes… **what will you have prepared for yourself?**"*
+- **The Beats/Monster case** for why the relationship is the asset: Monster made premium cables and
+  forgettable headphones; **Beats white-labelled Monster's hardware**, fronted it with Dr. Dre and Jimmy
+  Iovine, and sold to Apple for **$3B**. *"Did Monster get acquired by Apple for a billion dollars?
+  **Nobody even knows who Monster is.**"*
+- ★★ **The thought experiment that states his actual bet**: if the best typography teachers in the world
+  assembled a course superior to his in every way, *"they will sell — **but I'll die on the sword: nobody
+  knows who they are.** … It's not even that the product's superior; **the relationship is superior.**"*
+  Hence: *"**my company The Futur is nothing without the brand and the relationship that we have with our
+  consumers.**"*
+
+> ⚠️ **DATED OPINION — do not present as fact.** The same source contains a sweeping East/West
+> generalisation (*"if I asked you to name ten Chinese brands, good luck… they haven't fully understood
+> this concept yet"*). This was already contestable in 2024. **If used at all, date it and mark it as his
+> opinion.** The Beats/Monster argument stands entirely without it.
+
+## 48. The time audit, and the delegation-margin rule in its sharpest form (2024-04-23)
+
+_Source: [[wiki/sources/2024-04-23-yt-KYcMYIsSB1s]]. Refines §14 (delegation margin) with his own
+upgrade of **Michael Janda**'s rule from *Burn Your Portfolio*._
+
+- **The time audit**: map the week sunrise to sunset, write down every task, **review two weeks later**,
+  and ask how much time actually went to sales and marketing. Preceded by the honest prior question:
+  *"is establishing my expertise, is getting known, important to the growth of my company? **If it's not,
+  don't do it.**"* And the exemption: *"if you're hitting home runs all the time, please don't even listen
+  to me… **why change the angle of your swing?**"*
+- **Why the audit is needed**: *"we have a two-hour block of time and we fill it with stuff… **you know
+  what happened? The day is gone.**"*
+- ★★ **The delegation rule, upgraded.** Janda: if you can hire someone at minimum wage to do something,
+  hire them. Chris: *"**if you can hire somebody to do work for less than what you're charging somebody
+  else to do — hire them. 'Cause you just make the difference.**"*
+- **The premise**: do only the thing only you can do. *"There can be probably **no more important function
+  in your company than to market yourself**, because without sales and marketing there's no company —
+  and **you'll always be the best salesperson for your company. Not easy, but you'll always be the
+  best.**"*
 
 ## See also
 

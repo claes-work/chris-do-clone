@@ -2862,3 +2862,111 @@ advanced** (still batch 114) because this was a persona refresh, not a synthesis
 > **Next iteration selects Stage B (ingest, P2).** Persona is no longer stale, the synthesis
 > checkpoint is 9 batches away, every TARGET channel has ledger rows, and 324 open P2 long-form rows
 > remain on @thefutur — so the loop returns to draining P2, oldest-first.
+
+## [2026-07-27] ingest | yt batch (@thefutur, 8) — P2 Nov–Dec 2023: both Adobe MAX whiteboards
+
+Orient per Stage 0: `SUBJECT.md` unchanged; `ingest_batch.py status` → `@thefutur P1:0 P2:324 P3:44`,
+`@TheFuturAcademy P3:72`, shorts 860, L2=756/L3=0, synthesis debt **1/10** (checkpoint not due);
+`pipeline/synthesis-state.md` high-water mark still batch 114, no pending checkpoints. Stage machine:
+checkpoint not due → persona not stale (refreshed to v14 in the immediately preceding iteration) →
+every TARGET channel has ledger rows → **P1 is empty** → first match is **Stage B on P2**. Batch of 8
+prepared oldest-first; titles eyeballed before fetching (no promo trailers, no joke videos, nothing
+obviously guest-only from the titles alone). **8/8 transcripts fetched, 0 failures** — the extraction
+path remains healthy two batches after the block lifted.
+
+**Ingested (8, all @thefutur, all → L2):**
+- `yt-t7PZ6eD2lEQ` 2023-11-18 *Imposter Syndrome: 5 Types* — guest **Jule Kim** (life/executive coach;
+  captions garble her name as "Jewel" — Chris spells it J-U-L-E on air) fenced. Her five types
+  (expert / perfectionist / soloist / natural genius / superhero) are hers; what trains is Chris's
+  live **self-audit** against them and the ★ **feedback-is-data** doctrine — the fullest version in the
+  corpus, including the counter-intuitive admission that he attends *more* to negative comments
+  because praise "leaves nothing to learn." Also ★ "**I'm a terrible teacher**", ★ the **10,000 bad
+  photos** / "anti-manuals, anti-coaching" learning style, and ★ the **tiger-parenting both-halves**
+  passage with the mechanism "you download that default parent operating system" (extends the 2019
+  legacy-OS metaphor). New name: his business coach **Kier McLaren**.
+- `yt-reVhRZBS5s0` 2023-11-23 *Biggest Mistake in Pricing* — a **clip** of the Adobe MAX pricing talk;
+  every passage recurs in `6rZQPhXGOlk`. Kept as its own L2 page (separate ledger row) but explicitly
+  marked non-canonical so synthesis doesn't double-count. Content: the get-noticed exercise (the logo
+  never makes the list), serve-don't-sell as an **ethical duty** with the client still deciding, and
+  closing the **imagination gap** with mockups.
+- `yt-6rZQPhXGOlk` 2023-11-26 *How To Price YOUR Work* — ★★ **the canonical pricing source of the
+  batch**, and his first year on the Adobe MAX stage. Carries the axiom **"the buyer determines value,
+  the seller determines price"** (proved live against an audience member's counter-argument using
+  NFTs), the **two B's — Baseline and Benchmark** — plus Delta and the hypothetical-impact question,
+  **intentional listening** ("you don't inject new words"), the three-word answer **"I don't know —
+  how will *you* measure that?"**, **warp-to-the-drop** as the argument for talking money early, and a
+  refusal ethic: *"do not sign up for work that you know you cannot do — that would make you complicit
+  in something wrong."* Notable teaching move: a role-play he lets **fail on purpose** in order to
+  model polite disqualification.
+- `yt-Gd09HWwaBs0` 2023-11-29 *Build An Irresistible Personal Brand* — ★★ the philosophical statement
+  behind his personal-branding work: **Jung's persona and shadow**, the persona installed by parents
+  around age seven, and the conclusion **"it's not invention, it's memory."** Also a hedged but
+  striking position — *"I'm not sure there's such a thing as a business brand"* — and branding defined
+  as **differentiation + preference**, with preference explicitly irrational.
+- `yt-KCQ7FAsZCHM` 2023-12-03 *How to Ask Better Questions* — Hot Sauce conference, NYC. ★ Two new
+  self-disclosures: **"I hate public speaking"** and that he normally builds **278 slides for a
+  30-minute talk** (17 that day, PNGs handed over, control surrendered). The spine is the
+  questions-vs-answers **trick question** and its schooling explanation, plus **"good questions frame
+  the problem and are like 50% of the answer"**, the **PROACT** framework (via Jason Barron), and the
+  **portfolio-swap challenge**. Includes a real moment of live moderation on nonviolent-communication
+  grounds when an audience member's feedback turns harsh.
+- `yt-sM5CekilqDk` 2023-12-08 *3 Things Stopping You from Landing Your Dream Clients* — ⚠️ **NOT
+  CHRIS.** A solo guest video; Chris never appears. The speaker signs off "my name is Matt Ess…" —
+  recorded as **Matt Essam** with `attribution: uncertain` on the surname. Filed do-not-train, and
+  given an explicit **attribution guard**: his serve-don't-sell framing and his "oversubscribed"
+  citation (Daniel Priestley) are *his*, even though Chris holds close variants and credits **David C.
+  Baker** for the same capacity principle two weeks earlier.
+- `yt-naF88vS6z8o` 2023-12-09 *$6,500 Sales Script* — a clip of the day-two Adobe MAX session, but the
+  cleanest telling, so it is the better page to quote. Chris deconstructs a sales call **in which he
+  was the mark**: the $4,500 personal-trainer program, step by step — social proof, artificial scarcity
+  ("fake, 100% fake"), two commitment points, zero about the seller, then **why → scale of 1-to-10 →
+  "why isn't the score lower?"** ⚠️ Flagged inline: he reports admiringly that **the trainer lied**
+  about the program's demands and does not condemn it, which sits in tension with his own
+  serve-don't-sell ethic and the refuse-what-you-can't-deliver line from the day-one session. Recorded
+  with a do-not-generalise note rather than smoothed over.
+- `yt-Bm0nYSJikwo` 2023-12-12 *What's STOPPING You From Getting Clients* — ★★ **the canonical
+  lead-generation source**: the **backwards-designed funnel** (CTA → lead magnet → chunking → the one
+  platform where the customers are), **give away your best three tips, not three at random**, the moral
+  framing (*"we've taken their time to build a trap that gives them zero value"*), a live-invented quiz
+  lead magnet, and a detailed, **dated 2023 ChatGPT workflow** (customer profile, self-improvement
+  prompt, tone-of-voice extraction, the settings tip) bounded by *"chat doesn't decide. You decide."*
+
+**Bookkeeping:** 8 `ledger_set.py` updates (all → L2, with attribution-bearing notes); 8 rows inserted
+into `wiki/sources/youtube-index.md` in date order; footer 756 → **764**; `index.md` count and status
+line updated. No `raw/` file modified after filing. No persona or topic page touched — the ★ items are
+flagged for the next synthesis, not inline-promoted.
+
+**Two data-integrity flags raised for the next synthesis rather than silently absorbed:**
+1. **A new self-reported revenue figure that doesn't reconcile.** In `Bm0nYSJikwo` he says *"this is
+   how I grew my tiny little business from doing $30 an hour to **$6.7 million a year**."* The entity
+   is ambiguous in context (Blind or The Futur), and the corpus already holds self-reports of ~$3.1M
+   (2020) and ~$4.5M (2022). Recorded as `[self-reported]`, entity unclear, **not** to be promoted as
+   a clean fact.
+2. **Two clip/full-talk pairs in one batch.** `reVhRZBS5s0` ⊂ `6rZQPhXGOlk` and `naF88vS6z8o` ⊂
+   `Bm0nYSJikwo`. Both clips are separately published rows so both were ingested, but each page names
+   its canonical parent so synthesis promotes the material once.
+
+**Pipeline state after this batch:** `@thefutur` P1:0, **P2:316**, P3:44; `@TheFuturAcademy` P3:72;
+shorts 860; L2=**764**, L3=0; synthesis debt **2/10**; persona v14.
+
+> **Next iteration: Stage B again (P2).** Checkpoint is 8 batches away, persona is fresh, P1 is empty,
+> and 316 open P2 rows remain — the loop keeps draining P2 oldest-first.
+
+Synthesis notes: genuinely new this batch — (1) **"the buyer determines value, the seller determines
+price"**, a compact axiom that sharpens the existing cost/price/value material; (2) the **two B's
+(Baseline/Benchmark) + Delta + hypothetical-impact** discovery sequence; (3) **intentional listening**
+and the **"I don't know — how will you measure that?"** move, two small highly transferable techniques
+not recorded elsewhere; (4) **warp-to-the-drop**, which supplies the *why* behind the existing
+confirm-price-early doctrine; (5) **"it's not invention, it's memory"** with the Jung persona/shadow
+framing — the clearest statement of what he thinks personal branding *is*, complementing the
+shadow→transformer material already promoted from 2023-12-14; (6) the **backwards funnel** as an
+end-to-end system, plus **give-away-your-best-three** and the moral-obligation framing of marketing;
+(7) the **2023 ChatGPT workflow**, to be promoted **date-stamped** per the existing AI-stance guard;
+(8) **PROACT** and the questions-are-50%-of-the-answer doctrine underpinning the Socratic style already
+in `voice.md`; (9) the **feedback-is-data** doctrine including the preference for negative comments;
+(10) new self-disclosures for `voice.md`/biography — **"I hate public speaking"**, the 278-slide habit,
+**"I'm a terrible teacher"**, the **10,000 bad photos** method, one meal a day at 130 lb, and the
+Latisse and teriyaki-restaurant anecdotes; (11) **"quantify the unquantifiable"** as a direct answer to
+the recurring can't-measure-design objection; (12) new names — **Kier McLaren** (business coach) and
+**Jule Kim**. Carried forward as cautions: the $6.7M figure above, and the sales-ethics tension in
+`naF88vS6z8o`.

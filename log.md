@@ -5174,3 +5174,79 @@ with **"Adrien"** referenced on the 12-05 page; **Jasmin Alić's first appearanc
 reconciliation tasks (the Brian Collins material, the unnamed director). Carried: the two rows deferred
 today; the Seth Godin guest episode; two earlier Priestley and two earlier Tom Ross episodes; a Jasmine
 Star stub.
+
+## [2026-07-27] ingest | yt batch (@thefutur, 3 of 3 — no deferrals) — how he works with other people
+
+**Stage B (P2), `--n 3`** (recalibrated). **Both rows carried in from batch 139 resolved, and nothing was
+deferred** — the first clean batch in four. Ledger 876 → **877 L2**, because **two of the three turned out
+to be duplicates.**
+
+| id | date | outcome |
+|---|---|---|
+| `yt-DCa1tziujuU` | 2024-12-17 | ⏭️ **L1 · `dup-of:yt-U1anI0b1nvI`** — re-cut, no page |
+| `yt-e8S1L5o-GVc` | 2024-12-19 | ⏭️ **L1 · `dup-of:yt-U1anI0b1nvI`** — re-cut, no page |
+| `yt-vCXPvDF1Sfg` | 2024-12-22 | ★★ Colin & Samir — guest-primary, ingested |
+
+**1. Two of the three were re-cuts, and are marked as such rather than written up.** Both December
+"personal brand" videos I had flagged as likely high-value turned out to be **clip extractions of the
+2024-10-31 landmark**, near-verbatim, with **zero new material**. Per the duplicates rule they are **L1 with
+`dup-of:` notes and no wiki pages.** Writing two more pages restating the same thesis would have inflated
+the L2 count and given a future synthesis pass three copies of one argument to reconcile.
+
+They did contribute two small things, folded back into the source page rather than left stranded:
+- Slightly better caption renderings of the **two names flagged unresolvable** there — the Art Center friend
+  as *"patrula ranas"* (given name plausibly **Petrula**) and the blunt-contract designer as *"Carlos
+  aora/aura/Sor"*. **Still not asserted** — recorded so a future pass doesn't re-derive it.
+- ⚠️ **An age discrepancy**: Draplin's stage age is quoted as **40** in one cut and **42** in the other
+  (where Chris also says *"I don't remember how old he was"*). The source page now says **do not assert the
+  age.**
+
+**2. ★★★ The one real source gave the clearest statement in the corpus of how he works with other people.**
+Asking two long-time partners how they survive each other, he answers his own question first:
+
+> ★★★ *"I'm of the mindset — **I'm a good captain, I'm a good soldier. I'm not a good captain-soldier.**
+> I can lead, I can follow, **but one of us has to lead and one of us has to follow.** … But when it comes
+> to — and maybe because of my age — **this co-creation where everything is shared, let's hold hands
+> throughout the whole process: it doesn't work for my brain.**"*
+
+With the blunt general warning in front of it: ★★★ *"**that is one thing I always tell people: don't get
+into a partnership with anybody**, because it's just so difficult… **half the time you're explaining why
+you want to do something, versus just doing what it is that you need to do.** … **Every time I see somebody
+who's made it work, it's a miracle for me.**"* This is the same lesson as the **business prenup** advice
+from the Jose Caballer partnership, stated ~20 years later at a colder temperature — the two belong
+together, warning plus workaround.
+
+**3. Two smaller keepers.** ★★ He states a crude cultural contrast (*"everybody white American: I'm
+grateful… **Asian immigrant American: oh my God, I'm a disappointment to my family**"*), **labels it *"too
+broad of strokes"* as he says it**, and uses it to open a real question to the Indian-American guest —
+characteristic of the interviewing style the corpus already documents. And ★ a new biographical detail:
+*"**the first house I ever bought**"* was in **Venice** — the earliest of three recorded properties
+(Venice → Pacific Palisades → Pasadena). **No contradiction; a sequence.**
+
+⚠️ Also recorded, unmerged: the guests' **warmer read on MrBeast** (they know him, don't believe the
+*"evil"* framing) sits **against** Chris's colder *"I don't know who Jimmy is… I'm not shocked"* from
+2024-10-31. Both on the record, neither resolved.
+
+**Pipeline state after this batch:** `@thefutur` P1:0, **P2:201**, P3:44; `@TheFuturAcademy` P3:72;
+shorts 860; L2=**877**, L3=0; synthesis debt **7/10**; persona v16.
+
+> **Next iteration: Stage B (P2), `--n 3`.** 201 open P2 rows, none deferred. **Debt is 7/10 — the
+> checkpoint is close.** If the next two batches are ordinary, Stage S fires on schedule; if either turns
+> up another landmark, consider firing the checkpoint early rather than letting a fourth ★★★ source queue
+> up behind three others.
+
+Synthesis notes: genuinely new — (1) ★★★ **the captain-soldier self-diagnosis** (*"one of us has to lead
+and one of us has to follow… co-creation doesn't work for my brain"*) — self-implicating, and it explains
+a great deal of the existing partnership material; for `persona/beliefs.md`; (2) ★★★ **"don't get into a
+partnership with anybody"**, filed **with** the business-prenup advice so the persona carries warning and
+workaround together; (3) ★★ the **self-flagged cultural generalisation** used as a question-opener, for
+`persona/voice.md`; (4) ★ **the Venice first house** for the biography timeline; (5) ★ *"at first you suck —
+but if you keep doing it… eventually you get comfortable enough."* ⚠️ **Hold unmerged**: the MrBeast
+divergence. Fenced: **Colin & Samir** (the Lacrosse Network history, *"content *with* an audience"*, the
+two questions, the three tracked rules, juxtaposition in titles, creative-vs-Creator, the Reed Hastings
+sports-team maxim, and *"the fear of losing it is more stifling than the fear when you're building"*).
+⚠️ **Housekeeping note for the pass**: `yt-DCa1tziujuU` and `yt-e8S1L5o-GVc` are `dup-of` the 10-31 source —
+**do not treat them as corroborating sources**; they are the same recording. Carried: the Seth Godin guest
+episode; the **"Adrien"** episode lead; Jasmin Alić's first appearance; two earlier Priestley and two
+earlier Tom Ross episodes; a Jasmine Star stub; and the two standing reconciliation tasks (the Brian
+Collins material, the unnamed director).

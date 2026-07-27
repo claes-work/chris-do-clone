@@ -231,3 +231,112 @@ happy to do it."*
 economics) · [[../sources/2024-02-12-*]] (the blunt commercial reason) · plus the earlier Jan–Feb tellings
 recorded in the pass-13 log. **Jasmine Star** is credited on [[../sources/2024-09-19-yt-qQYm5i3yWJE]] as a
 recurring adviser.
+## ★★★ Added 2026-07-27 (synthesis pass 15) — self-reported
+
+### ★★★ Why the agency became a media company — the pivot origin, credited to an employee
+
+_Source: [[../sources/2024-12-05-yt-t7exym6wXBY]] (2024-12-05), told to **Matthew Encina**, the former Blind
+creative director and Futur head of content who proposed it._
+
+The corpus has always recorded *that* Blind's service work wound down and The Futur took over. This is the
+first account of **why**, and Chris credits the reframing to Encina rather than to himself:
+
+> ★★★ *"You've been pretty instrumental in shaping a couple of big seismic changes within my own thinking…
+> you're like: **Chris, what if we just focus on doing just the Futur? No more Blind service work.** And it
+> took me a beat. I'm like: **okay, let's try.**"*
+
+★★★ **The arithmetic that made it land:**
+
+| Client work | Educational product |
+|---|---|
+| *"when we book a **$600,000 job**, you're not keeping $600,000 — **you might keep $150[K]**"* | *"it isn't super expensive for us to produce — **we could make 100,000 or 200,000, but almost all of it would be profit**"* |
+| *"**the rest of the year you're just burning that 150 down to nothing**, because we're not doing another project"* | *"**it's IP.** It hopefully is **a perennial seller**, and it can generate long-term revenue"* |
+| *"**You're just keeping the machine going**… you get caught up in **the cycle of sustaining yourself**"* | *"**you're building a library of stuff**"* |
+
+His verdict on the effect: *"that **surprisingly just messed my brain up in the very best ways.**"*
+
+### ★★★ "When you open the gate, the chickens run"
+
+On having invited the team into content work: *"when we worked for someone — agencies — **there's always a
+master, there's always a client.** … I remember **slowly inviting each and every one of you into the circle
+to taste the freedom.** … ★★★ **What we realised is: when you open the gate, the chickens run. They don't
+want to go back in the cage.**"* And it was unanimous — *"despite investing almost all of your creative
+energy up until this point in developing a professional [reel] to do work for clients, **to the man, to the
+human, you're like: we don't want to go back.** Even if it means this is weird and undefined and **it's not
+as sexy, there aren't big brands attached to it.**"* Told against himself: *"**honey, I screwed up. I messed
+up the company by giving everybody so much freedom.**"*
+
+### ★★★ The ideal customer, stated in full (2024-11-18, recorded 2024-10-09)
+
+The most precise ICP definition in the corpus, given straight when a guest asked who his dream customer is
+([[../sources/2024-11-18-yt-zaU_afMOAaI]]):
+
+- **A creative entrepreneur** — *"when I say creative I don't mean you draw or you paint. **You're a
+  professionally trained service provider, you're solving a problem, and you're usually creating bespoke
+  solutions** — it's not a productized business."*
+- **US-based, or somewhere with favourable exchange** — *"because **we price via the US dollar.**"*
+- **3–5 years in business, minimum.**
+- **Team of more than one, under 10, "definitely not over 30"** — *"because **we don't solve those kinds of
+  problems.**"*
+- **Revenue $200K – $2.5M.**
+- ★★ **And the actual qualifier is the situation, not the size**: *"you found a lot of success early on, and
+  **now you're hitting that plateau and you need business help.** That's where we come in."*
+
+### ★★★ A distribution-to-revenue problem, worked in public (three admissions, Oct–Nov 2024)
+
+Recorded as **one dated pattern**, not three anecdotes. In eight weeks he accepted three different diagnoses
+of the same problem from three different guests, and resolved none of them:
+
+| Date | To whom | The admission |
+|---|---|---|
+| 2024-10-18 | Daniel Priestley | On being told the **Pro Group's $250/month** is *"expensive to the wrong person and too cheap for the right person"*: ★ *"**I can hear that.**"* Then: ★★★ *"**I really think of myself as an educator. I just want to teach**… **I'm definitely feeding them. I'm not creating hunger**… **So I'm messing up here.**"* |
+| 2024-11-13 | Brendan Kane | Accounts resharing his exact videos outperform him — and he names the fix he **won't** take (see `persona/beliefs.md`) |
+| 2024-11-18 | Michelle J Raymond | ★★★ *"**I've not been able to be very effective at converting those people into customers.**"* Reads his analytics live (**334K impressions/7 days**, 36K profile views/90 days) and concludes: *"those sound like really good numbers to me — **but this is not reflective of any sales.**"* |
+
+> ⚠️ **Held open.** Kane diagnoses format mastery; Raymond diagnoses outbound; Priestley diagnoses pricing
+> and hunger. **He accepts all three and synthesises none.** Do not manufacture a resolution.
+
+### ★★★ The January-2014 admission — the early content strategy *was* the thing he now criticises
+
+_Source: [[../sources/2024-12-31-yt-5_RMSS8Mf30]]._ Setting up his critique of advertising-as-content, he
+indicts his own company rather than an anonymous other:
+
+> ★★★ *"I say that also because **we did that at the beginning of our content strategy.** So if you're
+> there, **circa January 2014** — I'm **a babe in the woods**, I don't know what I'm doing, and I'm posting
+> content, and **almost all of it is: we tease the course material such that you would be left wondering
+> *oh, I need to learn this, therefore I must buy this from you.*** Can anybody predict what happened then?"*
+> — the room supplies the word and he confirms it: ★★★ *"**a sales funnel. It is a sales funnel. Absolutely
+> right.**"*
+
+### ★★ Content operating model and benchmarks (dated Nov–Dec 2024)
+
+- ★★★ **The model, stated in contrast to advice he had just praised**: after admiring a guest's meticulous
+  planning and A/B testing, he declines to adopt it — *"**we're a volume kind of operation. I have an idea,
+  we just make it. There's not a lot of planning or thinking — things go out, we adjust on the fly. That's
+  kind of our style.**"* ([[../sources/2024-12-05-yt-t7exym6wXBY]])
+- ★★ **The breakthrough threshold, stated three times**: *"**if we can get past 30 or 40,000 views it's
+  broken through**"* (11-13); *"for us **a good video would get like 30,000 views**"* (12-05).
+- ★★ **Profile**: *"our content is **less viral and more evergreen** — so eventually it gets to the big
+  numbers."* And the self-assessment: *"**I always believe what we make is kind of boring.** It's
+  educational content… **so it's always to my surprise that many years later we have a couple million subs,
+  and I don't even know who's here. Why are you guys here?**"*
+- ★ **Platform figures, Nov 2024**: TikTok ~**100,000** followers; LinkedIn **334K post impressions/7 days**.
+- ★ **Headcount, Oct 2024**: *"**eight employees**"*, and *"**many of my staff don't like being on social
+  media**… we have fairly low engagement for my own team."*
+
+### ★★ YouTube channel memberships (launched ~Oct 2024)
+
+*"Two options — **premier member**, a low fee of **$1 a month**… and **patron level supporter**, I believe
+it's **$10 a month** for now"*, with *"the **600 plus** people who are already there."* The strategic point:
+*"we could gate everything we do… **and we could funnel you to death. We've decided not to do that for the
+last 10 years — produced over 1,300 videos.**"* And the goal: ★★ *"**if you guys help us get there, I never
+have to launch another course. I don't have to charge for a workshop. I can just teach you all for free
+through the support of the people who can.**"* ([[../sources/2024-10-31-yt-U1anI0b1nvI]])
+
+### ★ Accelerator — a dated shift in how it is marketed
+
+Through Oct–Nov 2024 the ad read is generic (*"over 100 video lessons… weekly coaching… personalized
+feedback"*, plus a **30-day money-back guarantee** from Nov). By **2024-12-03** it leads with **named member
+outcomes** instead — a website designer who *"booked two clients in one week without relying on social
+media"*, a photographer who *"booked two photo shoots… simply from sending some emails"* — and adds
+*"**we will hold you accountable to take action on them.**"* Recorded as a **dated marketing change**.

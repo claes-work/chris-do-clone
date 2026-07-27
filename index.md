@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-27 (ingest yt batch @thefutur, 1 of 3 → 880 L2 — ★★★ **the 9-1-1 ratio** and ★★★ **"all strategies are autobiographical"**, two named frameworks the corpus did not have; **next iteration is the synthesis checkpoint (Stage S)** — debt 9/10, a fifth ★★★ source, and the 2024→2025 era boundary all reached at once)_
+_Last updated: 2026-07-27 (**synthesis pass 15 → system-prompt v17**) — persona promoted in full: beliefs 189→219, biography 92→112, voice 155→185. ★★★ **the Four Agreements**, ★★★ **the 9-1-1 ratio**, ★★★ **praise-is-a-trap** with the boat parable and its resolution, ★★★ **the 2014 Draplin hinge**, ★★★ **the Blind→Futur pivot origin** with its arithmetic. **Six tensions held unmerged**, **two attribution errors quarantined**, verify-no-leak clean. ⚠️ **Pass 15b queued**: 6 topic hubs, 8 entity pages, and the re-opened character-language decision._
 
 ## Sources
 

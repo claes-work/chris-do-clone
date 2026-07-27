@@ -5419,3 +5419,69 @@ autobiographical"** + the disagree-partially instruction; (3) ★★★ **the th
 (6) ★★★ **the quick win / journey before the journey**; (7) ★★★ **social media as the new résumé**;
 (8) ★★ **niche = market + passion** (Michael **Port**); (9) ★★ **David Baker's 10–50 competitors**;
 (10) ★ a **week-long Ireland tour**, ~late 2024, for the biography. ⚠️ Do not carry the Port/Porter error.
+
+## [2026-07-27] lint | synthesis pass 15 — P2 October-2024 → January-2025 (batches 134–142, L2 880) → system-prompt v17
+
+**Stage S.** Fired at debt **9/10** on three simultaneous triggers: the debt counter, a **fifth ★★★
+landmark**, and the **2024→2025 era boundary**. Promoted one file at a time.
+
+**PERSONA PROMOTED IN FULL.**
+- `beliefs.md` **189→219** — +14 blocks. The headline additions: ★★★ **the Four Agreements** (with the
+  *limitless ceiling* and the objection he declines); ★★★ **the 9-1-1 ratio** (*"we haven't earned the right
+  to ask for it"*, *"myself included"*); ★★★ **praise-is-a-trap / criticism-is-the-gift** with the **boat
+  parable** — and, critically, **its resolution** (*"I don't want to be proud OF them. I AM proud of them,
+  always"*) so the position is liveable rather than merely contrarian; ★★★ **selling is helping** with the
+  origin claim; ★★★ *"I don't want to describe myself as ever owning somebody"*; ★★★ **wealth = freedom**;
+  ★★★ **entrepreneur = educator**; ★★★ **the captain-soldier problem**, filed **with** the prenup;
+  ★★★ **vulnerability is not a tactic** with the **readiness warning bound to it**; ★★ **honour a bad
+  quote**, deliberately placed beside the walk-away material.
+- `biography.md` **92→112** — ★★★ **the 2014 Draplin hinge** (the corpus had the date; this is the first
+  account of what happened, and *"that was for the work, not for me"* is the pivot); ★★★ **the
+  coaching/therapy account** handled exactly as the source pages do — factual, dated, self-reported, no
+  interpretation, family unnamed; ★★★ **caretaker/middle child**; ★★★ *"we're refugees from Vietnam… never
+  felt at home until more recently"*.
+- `voice.md` **155→185** — ~40 quotes and **six delivery patterns**, including three that are now frequent
+  enough to be patterns rather than flourishes: **he disclaims his own authority before using it**, **he
+  labels his own generalisations crude in the same sentence**, and **he indicts himself as the example**.
+
+**TOPICS +8 sections.** `sales-clients` §80–82 (the compressed selling doctrine; what clients want to
+**avoid**; and **§82 "walk away early, never late"**, which reconciles the walk-away material with honouring
+a bad quote). `business` §54–58 (Four Agreements; **niching three ways**; delegation + true-cost stack +
+30% margin + EHR stewardship; wealth/money/why-not-me; lead-or-follow + prenup).
+
+**ENTITIES.** `the-futur` heavily deepened: ★★★ **the pivot origin credited to Matthew Encina** with the
+**$600K/$150K arithmetic**; ★★★ **the ICP in full**; ★★★ **the three conversion admissions recorded as one
+dated pattern and left open**; ★★★ **the January-2014 sales-funnel admission**.
+
+**Discipline applied, and worth stating plainly:**
+- **VERIFY-NO-LEAK RAN CLEAN.** Zero hits across the extended Matt Essam list. The only `pre-frame` hits are
+  the **two documented known-good exceptions** — left in place. ⚠️ And the inverse risk was handled: the 9th
+  Essam instance teaches **Chris's own** techniques, but the chronology (2024-10-03 / 2024-10-13 vs
+  2024-11-27) clears the corpus, so **Chris's material was not stripped.**
+- **SIX TENSIONS HELD UNMERGED** rather than resolved: the two therapy accounts; *"I am abrasive"* vs
+  *"I recede into the background"*; the educator instinct as virtue vs liability; the 2024 cold-outreach
+  position vs its counter; the MrBeast divergence; the aesthetics exception.
+- **THREE IDEAS PROMOTED ONCE**, not once per attestation: teachability-as-mastery (3×), wealth-as-freedom
+  (2×), the conversion pattern (3×).
+- **TWO ERRORS QUARANTINED**: the *Think Different*/Kerouac claim, and *Book Yourself Solid* → **Michael
+  Port**, not Porter. Both are now explicit v17 guards.
+- **DUP GUARD APPLIED**: the three `dup-of` re-cuts were **not** counted as independent attestations.
+
+**system-prompt v16 → v17** (compiled_from 855→880): **+14 doctrine blocks** and **6 new guards** — including
+*disclaim your own authority the way he does*, *you are publicly blunt AND privately conflict-avoidant,
+carry both* (with the documented cost), and ***the two therapy versions must not be merged***.
+
+> ⚠️ **PASS 15b IS QUEUED, AND THIS IS A REAL GAP, NOT A ROUNDING ERROR.** Not done: topic hubs `branding`,
+> `mindset`, `content-strategy`, `pricing`, `marketing`, `design-craft`; **8 new entity pages** (Brendan
+> Kane, Matthew Encina, Aaron Draplin, Stefan Sagmeister, Dan Sullivan, Raw Materials, Michelle J Raymond,
+> Colin & Samir) plus deepening `kier-mclaren`/`blind`/`brian-collins`; **the re-opened pass-14 decision on
+> character-driven content language** (still undecided, deliberately — it needs a considered call, not a
+> hurried one); and **four reconciliation tasks**. The persona product is current at v17; the *wiki* is
+> not yet fully caught up.
+
+**Pipeline state:** `@thefutur` P1:0, P2:**197**, P3:44; `@TheFuturAcademy` P3:72; shorts 860; L2=**880**;
+**synthesis debt reset 9→0**; persona **v17**.
+
+> **Next iteration: Stage S again — pass 15b**, to close the topic hubs and entities before resuming ingest.
+
+Synthesis notes: none — this was the synthesis pass.

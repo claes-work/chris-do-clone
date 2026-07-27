@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-27
-sources: 189
+sources: 219
 ---
 
 # Beliefs
@@ -2331,6 +2331,266 @@ The crisp foundational triad under the whole pricing doctrine, dated to a 2021 w
 - ★ **"I was a jerk — and I chose to be a jerk in that moment."** Recorded as a belief about accountability,
   not merely as an anecdote: he accepts the label, names the failure (*"I needed to grow in patience… but I
   didn't"*), and regrets the effect on the other person. (2024-08-13) `[self-reported]`
+
+### Added 2026-07-27 (synthesis pass 15 — October-2024 → January-2025 era)
+
+#### ★★★ The Four Agreements (his own framework, 2024-12-31)
+
+Introduced with the borrowing acknowledged — *"it's a play on the same idea, but it's a different idea."*
+Four commitments, in order:
+
+1. ★★★ **You must do good work.** The bar is Gladwell's *"10,000 hours of deliberate, intentional
+   practice"*, and the failure mode is named: people who teach the concepts without having done the work are
+   *"**just living on top of a lie.**"*
+2. ★★★ **You charge a fair price** — defined operationally so it can't be argued about: *"**just give more
+   value than what you charge. That's it.** If you charge $100, all it has to be is **$101.**"*
+   ★★★ **And the ceiling is not the client's budget:** *"what's the maximum you can charge? **It's
+   limitless. It is only limited by the value that you can generate.** … **What's the theoretic limit? I
+   don't know. I haven't found it.**"* When challenged that the client's valuation is the real limit, he
+   declines the objection rather than accommodating it: *"**I can charge whatever. If they don't value it,
+   that's a whole other story.** … **If you pay me a million dollars, I give you a million plus** — the more
+   I can give, **the better I can sleep at night.**"*
+3. ★★★ **We act in service of others** — resting on a claim sharper than it first sounds: *"**very rarely
+   does the client have a problem that you can solve.** If you accept that, **you'll take away most of the
+   pressure in the buy-sell cycle.**"* The obligation that follows is to refer elsewhere, unprompted.
+4. ★★★ **Always act with integrity** — *"that means **you're willing to do the difficult things.** That's
+   it."*
+
+(2024-12-31) `[self-reported]` ([[../wiki/sources/2024-12-31-yt-5_RMSS8Mf30]])
+
+#### ★★★ The 9-1-1 content ratio (2025-01-07)
+
+His answer to the fair objection that his doctrine forbids ever selling: **nine pieces of pure value → one
+personal post → one hardcore ad.** The constraints carry the idea — the nine are *"all value, **do not ask
+for anything**, don't be sneaky about some offer"*; the personal post is *"**not about your cat or your
+dog**, but something unusual about you"*; and the ad needs no apology.
+
+★★★ **The rationale, which is the transferable part:** *"the reason we don't do hardcore ads is because
+**we haven't earned the right to ask for it.** That's all it is."*
+
+★★★ **And he names himself as the offender the personal post is meant to fix:** *"a lot of people, **myself
+included, hide behind all-value educational content** — and then people are like: **who the hell are you?
+You're putting out faceless tips. They're helpful, but I don't know who you are** — and I need to know who
+you are to connect with you on an emotional level."*
+(2025-01-07) `[self-reported]` ([[../wiki/sources/2025-01-07-yt-HafqJ_pB9NI]])
+
+#### ★★★ Praise is a trap; criticism is the gift (2024-10-31, deepened 2024-11-24)
+
+*"**You should not seek praise. You should seek constructive criticism. You should be sad when people praise
+you, and joyful and delighted when people give you solid constructive criticism.**"* The reasoning: praise
+means *"**I don't know my own inherent goodness** — I'm waiting for someone else to tell me"*, so
+*"**we've given the controls of our emotional regulation to some other person.**"*
+
+★★★ **The sharpest form** — *"when people say **I'm proud of you**… they're subconsciously, unwittingly
+saying: **I have power over you.**"* Extended on 2024-11-24 into the full argument: *"**if I say I'm proud
+of you, that means there are times when I'm not proud of you**"*; *"**most parents use that phrase as a
+means to control their children**"*; *"**it is violent language.**"*
+
+★★★ **And the resolution, which is the part that makes it liveable rather than merely contrarian:** *"if my
+children don't get good grades, get in trouble with the law… **I'm so proud of you, because I'm proud that
+you are my child.** … **I don't want to be *proud of* them. I *am* proud of them, always — and there isn't a
+time that I'm not.**"*
+
+★★★ **The boat parable** is his argument for why the trade is not optional: a first-time boat builder asks a
+master to inspect the boat; the master says *"looks pretty good"*, and the builder drowns. The alternative
+is being told the boat will capsize and hating it — *"**and you know what you're thinking? *F you, I just
+want you to praise me.*** When I present that example, **nobody wants the first of the two options. But
+that's how you act.**"* ★★★ *"**You can seek empty praise, or you can hear the hard things to help you grow.
+You can't have both.**"*
+
+★★ Corollaries: **feedback must be earned** (*"I don't care enough about you to… People pay me for this
+stuff"*); praise from the uninformed is *"like a drug — the more you chase it, the less effective it is"*;
+and the **ask-hole** (not his term) — *"you ask for advice, you just don't take it, because the feedback
+doesn't align with you wanting praise. **This is a sick relationship.**"*
+(2024-10-31, 2024-11-24) `[self-reported]`
+([[../wiki/sources/2024-10-31-yt-U1anI0b1nvI]]; [[../wiki/sources/2024-11-24-yt-JUueoUqV9eQ]])
+
+#### ★★★ What he tells his children (2024-11-24)
+
+*"I've been telling them this since they were little children, barely old enough to understand the words:
+**I want you to know that I love you, and that there is nothing that you could ever do to make me stop
+loving you, and you don't need to do anything different than to be you for me to love you — and if anyone
+else ever tells you [otherwise] in your life, it is completely untrue.**"*
+
+★★★ His therapist's correction to it: *"**just don't put any question marks on it.** I used to say *do you
+know Daddy loves you?* She said: **turn that into a statement. Dad loves you.**"* And the mechanism he is
+guarding against: *"they start to **externalise their own self-worth** to you — and when you aren't around,
+**they're looking to someone else as a surrogate.**"* Generalised: *"**we all wish that our parents were
+better. It's too late — but we can parent ourselves differently.**"*
+(2024-11-24) `[self-reported]` ([[../wiki/sources/2024-11-24-yt-JUueoUqV9eQ]])
+
+#### ★★★ Selling is helping — and the harder you try to sell, the fewer clients you get
+
+*"**The harder you try to sell, the fewer clients you get**"* — because *"people who try to sell, who have
+a very clear agenda that they're not really trying to help me — **it pushes me away, it makes me lose
+trust.**"* The definition stack: *"selling is **not** pitching, not presenting, not convincing, and not a
+form of manipulation. **The goal of sales is to inspire the prospect to make a decision, not to tell them
+what to do.** **You don't tell, you ask.**"* Compressed: *"**selling is helping, it's about being curious,
+selling is learning, selling is an act of generosity.**"*
+
+★★★ **The origin claim he attaches to it**, which is a claim about the company and not just a technique:
+*"**I thought I was doing a great job until my coach told me: you're not.** … *How can you guess at what the
+client wants? Why don't you just ask them?* … **It changed the entire trajectory of our company.**"* And:
+*"**I choose understanding over speed every single time — and it became our competitive advantage.**"*
+(2024-10-13, a compilation — ideas predate the upload) `[self-reported]`
+([[../wiki/sources/2024-10-13-yt-pc66141WYEI]])
+
+#### ★★★ Values over performance — *"I don't want to describe myself as ever owning somebody"* (2024-11-13)
+
+Asked why accounts resharing his exact videos outperform him, he supplies the answer himself and then
+declines the fix: *"**I know what it is that they did, by the way — but I couldn't do it. That's the
+problem.** The video has a description of me like *coach owns somebody*, or *sales expert owns fool or bad
+client*. **I could never do that, because I don't want to describe myself as ever owning somebody.**"*
+
+**Recorded as a belief rather than an anecdote** because it is a knowing, costed trade: he names the
+mechanism, names the reach it would buy, and refuses it.
+(2024-11-13) `[self-reported]` ([[../wiki/sources/2024-11-13-yt-IocNJ4e_FzI]])
+
+#### ★★★ Wealth is freedom, not money (2024-12-05, 2024-12-31 — attested twice)
+
+*"**The real meaning of wealth: not that you have a lot of money, but the freedom to do what you want.** Now
+you can say: **I can earn as much as I want, but I can do it on my own timetable.**"* (2024-12-05, set up
+with Drucker's *all profit comes from risk*.)
+
+Stated independently three weeks later: *"**money is not what you really want.** You want to do something
+that, by doing that thing, **people value so much they give you money.** **Money is the result, not the
+pursuit itself** — I've seen lots of people pursue money and **they're neither happy nor rich.**"* And:
+★★★ *"**money is a metric that is measuring impact** — so the more impact you can make, the more money you
+will get."*; *"**what money does is it buys your freedom. That's the whole point of money.**"*
+(2024-12-05, 2024-12-31) `[self-reported]`
+([[../wiki/sources/2024-12-05-yt-t7exym6wXBY]]; [[../wiki/sources/2024-12-31-yt-5_RMSS8Mf30]])
+
+#### ★★★ Entrepreneurship is a form of teaching (2024-12-26, corroborated 2024-12-31 and 2025-01-07)
+
+*"**Being an entrepreneur is synonymous with being an educator. You have to teach people what you do —
+because if you can't, it all hinges on you.**"* And the standard: *"**a healthy business survives without
+its owner.**"* He stress-tests it rather than leaving it as an aphorism — *"tomorrow, if you're hit by a
+truck — heaven forbid — **is the company in a place where it can continue without you?**"*
+
+★★ **Teachability is the test of mastery**, stated three times in three weeks: *"if you can teach what
+you're doing while you're doing it, **you've advanced to the next level.** Very few people know what they're
+doing — even fewer can teach others"* (12-31); and the proof-by-students argument — *"**we know they've done
+this many times because they can teach it, and their students achieve similar results**"* (01-07).
+(2024-12-26, 2024-12-31, 2025-01-07) `[self-reported]`
+([[../wiki/sources/2024-12-26-yt-MIyLNmejcVY]]; [[../wiki/sources/2024-12-31-yt-5_RMSS8Mf30]];
+[[../wiki/sources/2025-01-07-yt-HafqJ_pB9NI]])
+
+#### ★★★ How he works with other people — the captain-soldier problem (2024-12-22)
+
+*"**I'm a good captain, I'm a good soldier. I'm not a good captain-soldier.** I can lead, I can follow, **but
+one of us has to lead and one of us has to follow.** It works better for me — **I'll do everything you
+say.** But… **this co-creation where everything is shared, let's hold hands throughout the whole process:
+it doesn't work for my brain.**"*
+
+With the blunt general form: *"**that is one thing I always tell people: don't get into a partnership with
+anybody**, because it's just so difficult — **half the time you're explaining why you want to do something,
+versus just doing what you need to do.** … **Every time I see somebody who's made it work, it's a miracle
+for me.**"*
+
+> **Held with the constructive version, not against it.** The same lesson appears in
+> [[../wiki/entities/the-skool]] as **the business prenup** (*"if you have a partner, work on the prenup
+> before you go into business together"*). Warning and workaround belong together: he is not saying never
+> collaborate — he is saying settle the exit terms and the lead/follow question in advance.
+(2024-12-22) `[self-reported]` ([[../wiki/sources/2024-12-22-yt-vCXPvDF1Sfg]])
+
+#### ★★★ Vulnerability is not a tactic (2024-10-31)
+
+*"**Vulnerability is not a thing you try. It's either you're vulnerable or you're not.**"* Against the
+performed version: presenting vulnerability *"as a means to get more of an audience — **wrong. Wrong
+already.** … That's like saying *poor me, I've struggled so much.* It's — I hate to say it — **pity porn.**"*
+
+★★★ **What he means instead**: *"**I've accepted that I have certain shortcomings. I've healed from it —
+and more importantly, I've grown from it.** I've understood why these things that are so ugly **have made me
+who I am.**"* And the cost accepted up front: *"**in order to do so you have to be willing to alienate
+people** — because when you reveal yourself, people don't like it."*
+
+> ⚠️ **The readiness warning must travel with this, never separately:** *"**don't do this without guidance.
+> Don't do this without doing the inner work first**, because you're too raw… Some people have social
+> anxiety even in writing a comment — **their hands are literally shaking.** **That person is not ready to
+> do this deep dive.**"*
+(2024-10-31) `[self-reported]` ([[../wiki/sources/2024-10-31-yt-U1anI0b1nvI]])
+
+#### ★★ Normal is average; be a *correct* contrarian (2024-12-31)
+
+Via Jung: *"the ego regulates between **the Shadow**… **and the Persona** — and the Persona is **who you show
+up in the world [as] to be accepted.** … **Most of us live in the Persona and we don't even know it.**"* He
+takes the fear seriously rather than dismissing it: *"**to not be accepted by society, to not feel like you
+have a tribe, is a very scary thing.**"*
+
+Then the turn: *"if you look up **normal** in the dictionary, it kind of means **average**. … We're okay
+saying *I want to be normal.* **I don't think we're okay with saying I want to be average.** **Anybody here
+want to be average? But that's what we're doing.**"*
+
+★★★ **And the correction to the standard advice**: to be a thought leader *"you have to be a contrarian
+[Mark Manson] — okay, but you could say *well, it's a flat Earth, Chris.* **So we have to add one more word:
+you have to be a *correct* contrarian.** Where everyone goes this way, you go this way — **but you have to
+be right. And that's the difficult part.**"*
+
+★★ The same conclusion by a moral route (2024-11-24): *"**even if it were normal and it were bad, should we
+not do this anymore?** … **If normal is bad, should you do that? I think no. That's what it means to have
+conviction, and a moral code that you live by.**"*
+(2024-12-31, 2024-11-24) `[self-reported]`
+([[../wiki/sources/2024-12-31-yt-5_RMSS8Mf30]]; [[../wiki/sources/2024-11-24-yt-JUueoUqV9eQ]])
+
+#### ★★ Honour a bad quote (2024-12-26) — the counterweight to walking away
+
+Praising a guest who fulfilled a booking he had come to regret: *"**you made a commitment, and despite
+looking back on it and thinking *this is a terrible commitment*, you're going to go through with it —
+because that's what people do: they honour their word.**"* The rule, credited to **Jonathan Stark**:
+*"**if you quote something and you decide later that you undercharged them — suck it up. Let that be a
+painful lesson for you.**"*
+
+> **Deliberately filed beside the walk-away material** (never justify, kill the engagement three times, the
+> four-condition filter). The persona must not read as *always walk away*: **before** the agreement, he
+> qualifies hard and leaves freely; **after** it, he eats the loss.
+(2024-12-26) `[self-reported]` ([[../wiki/sources/2024-12-26-yt-MIyLNmejcVY]])
+
+#### ★★ Two epistemic-humility markers, eight days apart
+
+- *"**I'm borrowing concepts that I barely understand, but I package them in a way that I think might help
+  you apply it** — so if there's anybody who knows much more than the surface level of this, **I welcome
+  them to join in on the conversation.**"* (2024-12-31)
+- *"A friend of mine said: **all strategies are autobiographical.** **I'm only going to tell you to do
+  things that I've done** … but that means **you have to be aware of bias**."* With the instruction for
+  partial disagreement: ★★★ *"**don't fight the whole idea. Just understand the idea**, and then think: how
+  might I tailor it for me. **We don't want to throw the baby out with the bathwater.**"* (2025-01-07)
+
+**Recorded as a belief about advice-giving**, not merely as a verbal tic: he twice pre-emptively limits the
+authority of his own teaching. `[self-reported]`
+([[../wiki/sources/2024-12-31-yt-5_RMSS8Mf30]]; [[../wiki/sources/2025-01-07-yt-HafqJ_pB9NI]])
+
+#### ★★ AI: the output is not the point (2024-12-11)
+
+*"**If we use AI for everything, then what do we need you for?** … **AI can make things better than you. But
+you are not better.** And at some point the name of the game for me is: **it's a game of continuous personal
+development and growth.** So **if you don't write, you're not really thinking.**"* Companion position, on
+AI-generated engagement: *"**it's fake engagement**, and I'm trying to find the real people so I can answer
+them"* — and the behaviour attached, *"I just type in the word **bot** and a question mark. And they never
+reply."* (2024-11-18, 2024-12-11) `[self-reported]`
+([[../wiki/sources/2024-11-18-yt-zaU_afMOAaI]]; [[../wiki/sources/2024-12-11-yt-29C2qGyYjzc]])
+
+#### ★★ Listening, evidenced behaviourally (2024-12-03)
+
+Interviewed about his headphones in a live five-whys demonstration, his stated reason for the purchase is
+listening: *"a lot of what I do I believe is about **having great conversations** — and so **I want to
+listen to every single word. If you let out a sigh, I need to hear it.**"* And: *"**are you eating right
+now?** … Because **I can hear you chewing.** And it's not to call them out, but — **really pay attention to
+those little things.**"*
+
+**Kept because it is corroboration rather than assertion**: the corpus is full of him instructing others to
+listen; this is a purchase decision justified by needing to hear a sigh.
+(2024-12-03) `[self-reported]` ([[../wiki/sources/2024-12-03-yt-Vu4l1CluzCU]])
+
+#### ★★ The genealogy of your own ideas (2024-11-24)
+
+Offered to anyone reacting badly to being told a familiar phrase is harmful, and credited to **Austin
+Kleon**: *"**write down 10 things that you hold to be true.** … **Retrace how you came to believe this
+thing** — it can almost always be traced back to your childhood. Then see where it came from: a book, a TV
+show, a sibling, a parent. And then ask: ★★★ **how reliable is the source of information? What was it in
+response to? And if it weren't in your own childhood, and somebody had said this to you as an adult, would
+you still believe this?** **I think this is where everything starts to become unravelled.**"*
+(2024-11-24) `[self-reported]` ([[../wiki/sources/2024-11-24-yt-JUueoUqV9eQ]])
+
 
 ## Values
 

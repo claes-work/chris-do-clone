@@ -3581,6 +3581,137 @@ people want *that* from you**"* — and the good ones have **year-long waiting l
 the time**"* — the objection to pitching is often an objection to **losing**, and those are different
 problems.
 
+## 80. ★★★ Selling is helping — the compressed doctrine (compilation published 2024-10-13)
+
+> ⚠️ **DATING.** The source is a **compilation** of workshops, roleplays and a studio lecture. **Date the
+> ideas to their original telling where the corpus can establish it**; 2024-10-13 is the publication date.
+
+**The inversion**: *"**the harder you try to sell, the fewer clients you get**"* — because *"people who try
+to sell, who have a very clear agenda that they're not really trying to help me, **it pushes me away, it
+makes me lose trust.**"* Definition by negation: *"selling is **not** pitching, not presenting, not
+convincing, and not manipulation. **The goal of sales is to inspire the prospect to make a decision, not to
+tell them what to do. You don't tell, you ask.**"*
+
+★★★ **Two skills only.** *"Serve, ask, listen, empathise and summarise… [but] **I just want you to focus on
+the two key skills. You don't need to know anything else: asking and listening.** They're **twins.**"*
+
+★★★ **The notebook, against the usual advice.** *"Instead of making and keeping eye contact — which is what
+many people are told to do — **keep a notebook and write down what they're saying.** This signals: **your
+words matter so much I must describe them in a notebook** — not leave it to chance that my memory will
+correctly recall it."*
+
+★★★ **The test of whether you listened**: *"when you ask a question and they give you an answer, **the very
+next question should be a follow-up to the answer they gave you.** That's how you know you're listening."*
+The failure he names: *"**this is how most podcasters interview people — they have 75 questions and just go
+from question to question.**"*
+
+★★★ **Play it back, and welcome being wrong**: *"we're afraid to play back what we heard because we're
+afraid we might get it wrong. **Actually, if you get something wrong, this is an opportunity for the
+prospect to correct you**, so you're not building on assumptions that are wrong."* Form: *"**what I heard
+you say was: you need X by Y, and you have a problem with Z. Is that correct?**"* — paraphrasing *"even the
+language in which they used."* And why it works: ★★★ *"**when you give voice to a feeling or frustration,
+you diminish the power of that frustration.**"*
+
+★★ **Question quality**: *"the best questions start with **what** — what opens the discussion, what remains
+neutral. **How** questions focus on tactics… **Why** questions sound accusatory if the tone isn't correct."*
+A bad question is *"leading and binary"* (*"would you like to eat spaghetti for dinner?"* assumes hunger,
+dinner and spaghetti); the repair is open and conditional. And flatly: *"**not all questions are created
+equal, despite what your third-grade teacher told you.**"*
+
+★★ **The expert compression**: *"reduce the hour-and-a-half question set down to two questions. **Why do you
+need a new logo? Why not do nothing at all? And why would you want to work with me?**"* *(He says "two" and
+gives three — recorded as spoken.)*
+
+★★★ **The three outcomes, which is the whole posture in one line**: *"**one, they hire us** — which is what
+we always think we want. **Two, they hire somebody else. Three, they do nothing.** **Our only obligation is
+to be clear and provide them with information so they can make a decision.**"*
+
+**Origin.** *"**I thought I was doing a great job until my coach told me: you're not.** … *How can you guess
+at what the client wants? Why don't you just ask them?* … **It changed the entire trajectory of our
+company.**"* And: *"**I choose understanding over speed every single time — and it became our competitive
+advantage.**"* Evidence: *"**45 minutes into a 15-minute call** we're deep into it… **the battle was won
+here**, not in the pitch deck."*
+
+★★ **Don't fight the prospect.** *"**What happens when I push [them]? They're going to push back much harder
+than I can handle.**"* Instead, surface their own priorities and concede when it isn't you: *"sounds like
+you need sales help. **Maybe I'm not the right person.** … **Are we fighting? No.**"* Principle: *"**the only
+thing clients will do is what they already want to do** — so my job is to find out what they want to do."*
+With the trade-off named — *"the problem is, **if that's all you sell, you're screwed**"* — and the upside
+of losing: *"**he might tell three other people.**"*
+
+★★ **Closing too early**, illustrated on himself: someone approached after a workshop with *"great workshop —
+when are you going to hire me?"* — *"**take me out on a date first.** I didn't even know I liked you."* The
+read: *"**it says I'm desperate and I'm self-interested.**"*
+
+★★ **Retreat and follow.** *"When you chase after a job, **their tendency is to want to run away.** … **Take
+a half step back to see if the person's interested, and they naturally will follow.** **We like to pursue
+people; we don't like to be pursued.**"* Operationalised: *"**you should try to kill an engagement at least
+three times.**"* The worked example is a coaching client told to **unsell herself** to a client she didn't
+want — who then referred her two friends, and said *"**for the first time in a really long time, I felt
+respected.**"* His diagnosis of the room: *"**you're all chasing your clients and trying to act fakely as a
+generous person, but you're acting in your own self-interest.**"*
+
+★★ **The four-condition filter** (mistake: *"anybody with a heartbeat and some money"*): **can you deliver
+value; would it give you joy; do you like this person; are the budget and timeline appropriate.** What an
+unfiltered vendor signals: *"**I have no standards, I'm not discriminating enough, and I'm probably not
+someone you can trust.**"*
+
+⚠️ **A blunt heuristic recorded with its tension flagged:** *"I know a client who cannot afford me — **because
+they're the owner and the founder.** If the owner and the founder calls me, **I know it's not going to work.
+Too small of a company.**"* **This sits against his own long-standing advocacy for small studios and solo
+creatives. Recorded as spoken; not smoothed.**
+
+([[../../sources/2024-10-13-yt-pc66141WYEI]]; [[../../sources/2024-10-03-yt-vhBqPKzArok]])
+
+## 81. ★★★ What clients want to *avoid* — and the quick win (2025-01-07)
+
+★★★ **The gap he names in his own audience**: *"the problem with most creative people: **we spend so much
+time thinking about what we do that we have so little time to understand what the clients hate.**"* The
+correction: *"there's **both** things they want **and** things they want to avoid — **sometimes we think too
+much about what they want, and not the things they want to avoid.**"* His concrete example: *"**most
+corporate people are worried… that they're not going to look good on camera.**"*
+
+★★★ **The quick win, and "the journey before the journey."** Taken from being sent a book describing the
+sights before a week-long trip: *"**he's created the journey before the journey.**"* Applied to the
+camera-shy client: make one **under-five-minute** video — *"here's how this is going to work, how you can be
+your most present, charming self on camera"* — and send it to **every** client. *"Something that takes you a
+little time to do **that you can repurpose forever.** … **You're giving me value, and you're also
+communicating: this ain't my first rodeo.**"*
+
+★★ **The training instruction**: *"**whenever you go to buy something, whenever you experience something —
+what are they doing to give you a quick win?**"* (The restaurant's *"a gift from the chef"* while you're
+still reading the menu.)
+
+★★★ **Low variability → low risk → *safe to buy*.** Credited to **Blair Enns**: *"**low variability in
+process equals low variability in outcome.** If your process is different every single time, there's a
+strong chance [the outcome] is going to be different every single time."* Why it is a **sales** argument:
+*"**predictable outcomes are valuable because it communicates low risk**… if you have consistent outcomes
+**you look less risky — that means you're safe. You want to be safe in the eyes of the buyer.**"* Hence:
+**publish the process** (*"in as many places as possible"*), and treat **teachability as the proof** —
+*"**we know they've done this many times because they can teach it, and their students achieve similar
+results.**"*
+
+([[../../sources/2025-01-07-yt-HafqJ_pB9NI]])
+
+## 82. ★★ The client's problem usually isn't yours — and a bad quote is honoured
+
+★★★ **From the Four Agreements** (2024-12-31), the claim that removes the pressure: *"**very rarely does the
+client have a problem that you can solve.** If you accept that, **you'll take away most of the pressure in
+the buy-sell cycle.**"* The obligation that follows is to refer elsewhere, unprompted: *"it's my
+recommendation, based on what I've learned from you today, that **you pursue this other option.
+Unfortunately I don't do that. I can help find you somebody.**"*
+
+★★★ **And the case where you do NOT walk away** (2024-12-26), credited to **Jonathan Stark**: *"**if you
+quote something and you decide later that you undercharged them — suck it up. Let that be a painful lesson
+for you.**"* Chris's framing of the person who honoured a regretted booking: *"**you made a commitment…
+because that's what people do: they honour their word.**"*
+
+> **Read §§79–82 together.** Before an agreement he qualifies hard, filters on four conditions, refuses to
+> justify a price, and will kill an engagement three times. **After** an agreement he eats the loss. The
+> doctrine is *walk away early, never late* — **not** *always walk away*.
+
+([[../../sources/2024-12-31-yt-5_RMSS8Mf30]]; [[../../sources/2024-12-26-yt-MIyLNmejcVY]])
+
 ## Cross-links
 
 - [[wiki/topics/pricing/pricing]] — value-based pricing, the desired-future-state → value

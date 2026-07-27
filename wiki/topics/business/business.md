@@ -2320,6 +2320,118 @@ themselves."* See [[wiki/entities/the-futur]] for the tour's operational record.
 > products with different economics**: coaching is capacity-bound and priced on intimacy; a subscription
 > is capacity-free and priced on access. Hold both; don't collapse them into one doctrine.
 
+## 54. ★★★ The Four Agreements (2024-12-31)
+
+His own framework, introduced with the borrowing acknowledged (*"a play on the same idea, but a different
+idea"*). Full treatment in `persona/beliefs.md`; the business-relevant core:
+
+1. **Do good work** — the bar is *"10,000 hours of deliberate, intentional practice"*; the failure mode is
+   people who teach the concepts without having done the work — *"**just living on top of a lie.**"*
+2. **Charge a fair price** — *"**just give more value than what you charge.** If you charge $100, all it has
+   to be is **$101.**"* ★★★ **And the ceiling**: *"**it's limitless. It is only limited by the value that you
+   can generate.** … **What's the theoretic limit? I don't know. I haven't found it.**"* Challenged that the
+   client's valuation is the limit, he declines: *"**I can charge whatever. If they don't value it, that's a
+   whole other story.**"*
+3. **Act in service of others** — *"**very rarely does the client have a problem that you can solve**"* (see
+   `sales-clients` §82).
+4. **Act with integrity** — *"**you're willing to do the difficult things.**"*
+
+★★ **His economic definition of a scammer**, from the same talk: *"**they take more money than the value
+they give.**"* ([[../../sources/2024-12-31-yt-5_RMSS8Mf30]])
+
+## 55. ★★★ Niching, argued three ways (2025-01-07)
+
+- ★★★ **As a choice about suffering**: *"you have to just **make an adult choice** here, which is: **how long
+  do you want to suffer for? How long do you want to work in relative anonymity, and compete at the bottom
+  level, and get paid almost nothing?**"*
+- ★★★ **As cognitive load on the buyer.** On the multi-slash introduction: *"**you're doing a cognitive
+  overload to the other person's brain.** You're asking them: *stop thinking about your own problems and use
+  all your brain power to remember what I do and find the connective tissue.* **You'll short-circuit their
+  brain. They won't remember anything — or they'll remember the wrong thing.**"*
+- ★★★ **As an inversion of the competition logic** — the sharpest of the three. Buyers *"**don't want
+  mediocre… they'd like to hire the best they can afford.**"* So listing five services means *"you compete
+  with all the photographers at the top of their game, **and then** all the illustrators, **and then** all
+  the graphic designers. **What you've inadvertently done is invited MORE competition, not less**"* — and
+  ★★★ *"**the goal of positioning and marketing is to reduce or eliminate competition.**"*
+
+★★ **Calibration**, credited to **David Baker** (*The Business of Expertise*): **one** competitor is too few
+(*"the market is not big enough to support you"*), **10,000** is too broad, the target is roughly
+**10–50**. Plus: *"**if you think you've niched enough — he says you haven't.**"*
+
+★★ **The shorthand**: **niche = market + passion.** *"Who you serve, plus what you're passionate about.
+**We don't have to make this so complicated.**"* Reasoning: *"**why would you want to build a career doing
+something you're not passionate about?**"*
+
+⚠️ **Attribution correction:** he credits *Book Yourself Solid* to *"Michael P Porter"*, hedging audibly.
+The book is by **Michael Port**; Michael E. Porter is a different person. **The idea is recorded; the
+misattribution is not carried.** ([[../../sources/2025-01-07-yt-HafqJ_pB9NI]])
+
+## 56. ★★★ Delegation, teaching, and the owner-independence test (2024-10-24, 2024-12-26)
+
+★★★ **The purpose of delegation**: *"**being an entrepreneur is synonymous with being an educator. You have
+to teach people what you do — because if you can't, it all hinges on you.**"* The standard: *"**a healthy
+business survives without its owner**"*, and the test he applies live — *"tomorrow, if you're hit by a truck
+— **is the company in a place where it can continue without you?**"*
+
+★★★ **The true-cost stack** (2024-10-24), built one layer at a time: bid at **production cost (COGS)** only
+and *"you would break even **if you do it well** — and often you don't, so you're going to lose money.
+**Do this consistently enough and you'll go broke.**"* Missing layers: **management**, **overhead**, then
+**profit** — *"without profit you can't account for uncertainty, or build a better future."* Only that total
+is the true cost, *"**and this is how you should be bidding.**"*
+
+★★★ **The 30% margin test**: *"ask yourself **how much would it cost to pay someone else to do comparable
+work.** There should still be enough money to pay them **and** you, and have **30% profit margins** after
+you've paid for everything."* From which: ★★★ *"**you can't afford to hire them and to make money. That's
+usually a sign that you're undercharging.**"* — the cleanest bridge in the corpus between the hiring and
+pricing hubs.
+
+★★ **The delegation math**, credited to his business coach: a single hire performs at *"50, 60, 70%"* of you
+— *"**and that's true if you hire one person.** But when you hire **three** people, the total productivity
+is **150% of the capacity of what you're able to do.**"*
+
+★★★ **The EHR stewardship rule**: at an effective hourly rate of **$100/hr**, doing your own bookkeeping
+against a **$25/hr** bookkeeper costs the company **$75/hr**. *"**Anytime you can pay someone else less
+money to do something you don't need to do — for less money than you're worth — you should hire them.
+Otherwise you're losing money for the company and being a bad steward of the company.**"*
+
+★ **And the objection he dismantles first**: a client who was *"**almost bothered**"* to be told Chris could
+do all the work himself — *"**Chris, I don't need to know how you do the work. I expect you to hire people
+to do it.**"*
+
+([[../../sources/2024-10-24-yt-R_CZQoktnPE]]; [[../../sources/2024-12-26-yt-MIyLNmejcVY]])
+
+## 57. ★★★ Wealth, money, and "why not me?" (2024-12-05, 2024-12-31)
+
+★★★ **Wealth defined**: *"**the real meaning of wealth: not that you have a lot of money, but the freedom to
+do what you want.**"* Attested independently three weeks later: *"**money is the result, not the pursuit
+itself** — I've seen lots of people pursue money and **they're neither happy nor rich**"*; *"**money is a
+metric that is measuring impact**"*; *"**what money does is it buys your freedom.**"*
+
+★★ **The diagnosis attached**: *"if you're **unclear about the impact you want to make**, there's a good
+chance **you're not going to make a lot of money, and you're going to have less freedom.**"* And the trap he
+concedes is real: *"you're looking at your primary need — **I've got to feed myself** — so you do **the very
+thing that is not going to help you grow your authority.**"*
+
+★★ **"Why not me?"** — his method for deciding whether to attempt something unprecedented: *"we search our
+mind for what company has been able to pull that off. **If we can find zero, we say probably not.** But if
+we find a handful — even just one — where it's possible… **if it's remotely possible for anybody, the first
+thing is: why not me? And I'll be the first. Or if I'm the second, that's fine too.**"*
+
+([[../../sources/2024-12-05-yt-t7exym6wXBY]]; [[../../sources/2024-12-31-yt-5_RMSS8Mf30]])
+
+## 58. ★★★ Partnership: lead or follow, and write the prenup (2024-12-22)
+
+*"**I'm a good captain, I'm a good soldier. I'm not a good captain-soldier.** I can lead, I can follow, **but
+one of us has to lead and one of us has to follow.** … **This co-creation where everything is shared… it
+doesn't work for my brain.**"* With the general warning: *"**don't get into a partnership with anybody**,
+because it's just so difficult — **half the time you're explaining why you want to do something, versus just
+doing what you need to do.** … **Every time I see somebody who's made it work, it's a miracle for me.**"*
+
+> **Read with §52** (the business prenup). Warning and workaround: he is not saying never collaborate — he
+> is saying **settle the exit terms and the lead/follow question in advance.**
+
+([[../../sources/2024-12-22-yt-vCXPvDF1Sfg]])
+
 ## See also
 
 - [[wiki/topics/pricing/pricing]] — value-based pricing, "price the client not the job,"

@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-27
-sources: 148
+updated: 2026-07-28
+sources: 173
 ---
 
 # Biography
@@ -632,6 +632,141 @@ the longest continuous account of his early years in the corpus._
 - ★★ **A second attestation of *secondhand woo***: *"**my wife is deep in the woo. I tell people I'm open,
   but I have secondhand woo**, because there's a lot of it at the house."* Plus two coinages of the moment:
   *"**woo curious**"* and *"**the wooverse**"*. (2025-04-02) ([[2025-04-02-yt-2FI0Dk44-vo]])
+
+## ★★★★ April–June 2025 additions (added 2026-07-27, pass 18) 🗣️
+
+### ★★★★ "I aspired to be Spock" — and his therapist's reframe of it (2025-05-29)
+
+The single most revealing self-concept item in the corpus, volunteered unprompted at the end of an
+episode about content formats:
+
+> *"To share a little personal note with you — I was talking to **my therapist** many years ago and she
+> goes, 'Are you a fan of Star Trek?' And I'm like, 'Yes.' She goes, 'Which character do you most
+> identify with?' I'm like, **'I aspired to be Spock.'** And she goes, **'I've never seen or heard
+> anybody describe it like that. You don't see yourself as Spock — but you aspire to be like him.'**
+> And **what I described as my hero, she thought was such a tragic character. A person struggling to
+> find their humanity.** Where I was like — **Spock always makes the right decision no matter what.**
+> And the line, **'the needs of the many far outweigh the needs of the few.'** I aspire to be like
+> that."*
+
+Two things make this load-bearing. First, it is **the same self-concept as the Daywalker / "emotion
+through the cognitive lens" material** — logic as the aspiration, feeling as the thing accessed
+through it — now stated in a borrowed character rather than his own coinage. Second, it carries **an
+outside professional's verdict on that aspiration**: not admirable, *tragic*. He repeats her reading
+without rejecting it, and without adopting it either. Record the aspiration and the reframe **together
+— never the aspiration alone.** ([[2025-05-29-yt-4ZS8dMwPObk]])
+
+### ★★★ The introversion account — the whole thing, and then the mechanism
+
+**The account (2025-05-13).** He calls himself **"a loud introvert"** and states the cost plainly:
+*"**I am socially drained by being around people.**"* The strategic consequence is the single most
+explanatory line about his entire career: *"**my strategy to survive was to create content so good
+that I didn't need to develop social skills.**"* Same source, ✅ a **fourth independent corroboration
+of the 2014 hinge** — *"I didn't start making content until I was **42 years old**."* And **be the
+tree**: at a Toronto party, stalling repeatedly, *"**I imagined myself to be a tree, with my feet as
+roots planted into the ground, immovable.**"* ([[2025-05-13-yt-Anr8YYbt2ws]])
+
+**The mechanism (2025-05-29).** Sixteen days later he explains *how* the strategy actually works,
+which the corpus had never had:
+
+> *"**I don't like going into rooms of strangers.** I don't think anybody does, but **extroverts can
+> just swim in there**… For me, **there's a whole strategy about how to do that.** But I found that
+> **through creating content, you get invited to speak — and when you speak, there's this
+> introduction. So they know you before you know them. So technically, you never really walk into a
+> room full of strangers.** You just have to **wait long enough and deal with your discomfort** so
+> that somebody who's seen you will come up to you. And **I try to make myself as approachable as
+> possible in all formats**, so there's not this weird 'he doesn't want to be talked to.'"*
+
+And the conclusion he draws — the personal brand as an **introvert's inbound machine**, not a vanity
+project: *"**that's why I invested in a personal brand — because I just know my personality and I
+don't want to be that person banging on doors**, and because it takes so much time and energy to do
+it the other way."* He also **declines a content format on personality grounds**: asked about
+man-on-the-street, *"**I tested it and I didn't like it… It's because my personality. I'm not
+extroverted.**"* ([[2025-05-29-yt-4ZS8dMwPObk]])
+
+- ★★★ **And the sales corollary, said out loud:** *"**I used to hate sales… being an introvert made
+  it even worse.**"* — the reason the Socratic, question-led method suits him is temperamental before
+  it is tactical. ([[2025-04-25-yt-PaCM-LXyIfc]] era; see the April-2025 sales sources)
+
+### ★★★ The Futur restructured — the spin-off (2025-06-03) [SELF-REPORTED]
+
+Told casually on camera during a vlog, unprompted and in one pass:
+
+> *"I came back from **Taki's mastermind** and I called up **my CEO** and I said, **'I got a crazy
+> idea. Are you open-minded to spinning off this other group that you can just run — and just taking a
+> portion of the company with you?'** He goes, 'Um, yeah.' So **he has his own company now. He took
+> the coaching portion of the coaching community with him.**"*
+
+His own verdict on the trade: *"**we're down the revenue from that. But we're lighter because of the
+overhead.** And I'm just lighter because **we're such a small team now — it's mostly on the content
+side.** So I feel much lighter, much more aligned, happier, more energetic. **I'm loving
+everything.**"* Framed against: *"**this year has been a really good year of rebuilding**… it's just
+financially it's not reflective of momentum."* Also logged the same day: **he is on a TV show and has
+been made an executive producer of it.**
+
+> ⚠️ **Self-reported and uncorroborated**, given informally. The **CEO is unnamed in the source and is
+> not named here.** "Taki's mastermind" is a caption rendering, most likely **Taki Moore** — flagged,
+> not asserted. ([[2025-06-03-yt-r2o9-oj9Mlk]])
+
+### ★★★ Two buildings in Santa Monica, and what the company actually is now (April 2025)
+
+He describes acquiring/holding **two buildings in Santa Monica, ~9,000 ft² combined, with roughly
+100-person capacity**, alongside an active property search with stated criteria. And the description
+of the business that goes with it: *"**we don't run like a traditional office business — it's really
+a media production at this point.**"* ✅ Coheres with the spin-off two months later: content-led,
+smaller, lighter. (April-2025 sales/property sources; see [[2025-05-29-yt-4ZS8dMwPObk]] for the
+content-led framing restated)
+
+### ★★★ Marriage — "almost 30 years," and a friction he discloses (2025-05-22)
+
+Asked directly how long he has been married: **"Almost 30 years."** ✅ Consistent with the ~21-year
+figure given in 2016–17; both place the marriage at **~1995**.
+
+Then, unprompted, watching another founder's ten-person team live and work together in one house:
+
+> *"I want to say this as a person who's gotten to see behind the curtain — seeing this team, **this
+> is a dream for me.** Currently, **full disclosure, my wife and I, we do not share this dream. So it
+> creates a lot of friction for us**, because she's like: 'Enough. Enough. **We're supposed to be
+> winding down into our chill life and you're winding up into the crazy frantic life.**' And **she
+> just looks at my calendar and gets stressed out just by looking at the calendar.** I'm like —
+> **imagine living it.**"*
+
+Rare, specific, self-disclosed, and consistent with the risk-averse partner already documented from
+2016–17. He declines to go further on camera (*"that's another 4-hour episode"*) and instead asks the
+audience to request that episode. **Wife name-free per policy.** ([[2025-05-22-yt-PjP5wvemDLo]])
+
+### ★★ Content-career facts and one regret (2025-05-29)
+
+- *"**I started doing social about 10 years ago.**"* ✅ ≈2015 — consistent with the 2014 hinge and its
+  four corroborations.
+- Asked what he would do differently: *"**I would have just started when I was 19**, because if you
+  start earlier, you can really get to a really amazing place now."* — the same regret as *"why did it
+  take me until 42"*, now with a counterfactual age attached.
+- **A self-reported channel anomaly**: *"we're one of those channels that — I think it's kind of
+  strange — **we actually get more views for our long-form content than we do for the cut-down of that
+  long-form content**, because people who like the kind of teaching I do **are in it for the long
+  haul.**"* With the limitation he volunteers about himself: *"**I don't speak in sound bites. I'm not
+  thinking about the hooks** — which maybe I need to, if I want to grow the audience much faster."*
+- He also says he **doesn't watch his own content much**: *"I actually don't even look at my content
+  that much."*
+- **Michelle Phan** — *"she's a friend of mine."*
+
+> ⚠️ **CONTRADICTION logged, NOT adopted (2025-05-29).** In a sarcastic aside he says *"you started 10
+> years ago and **you're already 45 years old**."* This fits neither the four corroborations of **42**
+> at the 2014/2015 hinge nor his age in 2025. Captions are unreliable at that point. **The 42 figure
+> stands.**
+
+### ★★ Earlier-life details recovered this window
+
+- **Read *Understanding Comics* (Scott McCloud) in college** — the source of the **closure** device he
+  still uses in teaching.
+- **Early public-speaking butterflies** predate the Kier-prescribed speaking work, and he describes
+  them without softening.
+- ★★★ **The therapy correction** — he issues a correction *about himself*, revising a previously
+  stated session count. Record it as **a correction he made**, not merely as a number; the act is the
+  characteristic part. (See the March-2025 therapy account above.)
+- ★★ **"I'm in tears — my wife's like: what's wrong with you?"** — his own account of crying at a
+  piece of media, offered against his documented reputation for emotional guardedness.
 
 ## Personal life (name-free by policy)
 

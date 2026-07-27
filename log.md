@@ -8617,3 +8617,67 @@ people who like the kind of teaching that I do are in it for the long haul"* —
 *"I don't speak in sound bites."* (8) ★★ *"Money, what you charge, is an extension of how
 you see yourself in terms of your value"* is his own statement of the single theme
 underneath all his viral content.
+
+## [2026-07-28] lint | synthesis pass 18 — the April–June 2025 era (persona v20)
+
+Stage S. Ten batches of debt (**164–173**, L2 914 → **929**, source pages 2025-04-06 →
+2025-06-03) — the largest checkpoint window so far. Ran **`persona/` only**, with **pass
+18b declared up front** and written into `pipeline/synthesis-state.md` as a pending
+checkpoint so the topic hubs and entities cannot be silently skipped.
+
+**Counts:** beliefs **262 → 291**, voice **238 → 267**, biography **148 → 173**,
+system-prompt **v19 → v20** (`compiled_from_sources` 914 → 929).
+
+**The three items that made this pass worth its size**
+
+1. ★★★★ **The Spock story.** *"I aspired to be Spock"* — with his therapist's answer:
+   *"you don't see yourself as Spock, you aspire to be like him,"* and her reading of that
+   hero as **a tragic character, a person struggling to find their humanity.** Recorded
+   with a hard guard that **the aspiration never appears without the reframe**, and
+   **merged into the Daywalker self-concept as a fourth register rather than added as a new
+   insight** — the same discipline pass 17 applied to the Daywalker itself.
+2. ★★★ **The introversion mechanism.** 2025-05-13 established that he is *"a loud
+   introvert"* who is *"socially drained by being around people"* and survived by making
+   *"content so good that I didn't need to develop social skills."* 2025-05-29 finally
+   explains **how**: content → speaking invitations → **an introduction** → *"you never
+   really walk into a room full of strangers."* Which reframes the personal brand as **an
+   introvert's inbound machine**, in his own words: *"that's why I invested in a personal
+   brand — I don't want to be that person banging on doors."*
+3. ★★★★ **The first self-flagged reversal in the corpus.** *"**I would have answered this
+   question differently two years ago**"* — with AI-generated video, voice and scripts,
+   putting a human in the work went from optional to necessary. This is precisely what the
+   date-opinions rule exists for, and it now **leads** the dated faces of the AI stance.
+
+**Also promoted:** the five-part sales framework as an ordered sequence; the withdrawal
+move and its one-way asymmetry; the "if" ladder; *whoever wants it more has less leverage*
+(the mechanism under *needy is repulsive*); the authenticity gap **grounded in Jung**;
+**ikigai, named**; *lean in on the gifts you have*; the water argument in full; *structure
+and creativity go together — chaos and creativity don't* / **"reinvent how it's used"**;
+Picasso and looking outside your industry; **social media is the new résumé** with the 10%
+allocation and *"you're participating in its own demise"*; the underdog story and the
+crying theory; *a gift with an expectation is manipulation*; *foresight is what people
+mistake for luck* with the Blind exit chain; and **why the 50% offer is 50%**.
+
+**New guards (v20):** the AI reversal is dated · **passionate detachment is challenged and
+not conceded** · the Futur spin-off is self-reported with the **CEO unnamed** · the
+marriage friction stays **name-free** · **"45" is not a fact — 42 stands** ·
+publish-a-floor is argued both ways, by him · **Essam's read of Chris's sales style is
+Essam's, not Chris's** · the winter metaphor does two jobs (preparation vs. foresight) ·
+bluntness is calibrated, not indiscriminate · cross-clone hygiene on the Hormozi and
+Vaynerchuk mentions.
+
+**Merges rather than multiplications** (the standing discipline): Spock **into** the
+Daywalker; *be the youest you* **into** *you to the power of you*; **be the tree** kept as
+**one image with two uses**, internal and external.
+
+**Leak check clean.** No family names entered `persona/`; the wife and the CEO are
+referenced by role only; every Hormozi/Vaynerchuk/Essam occurrence in `persona/` is either
+a pre-existing attested mention or sits inside a guard.
+
+**Synthesis notes:** pass **18b** is the only outstanding work — six topic hubs
+(`sales-clients`, `branding` incl. a **new authenticity-gap page**, `content-strategy`,
+`mindset`, `business`, `pricing`), a rewrite of `entities/blind` around the exit reasoning
+chain, `entities/the-futur` for the spin-off and the two Santa Monica buildings, a rebuild
+of `entities/influences` around the ten-book attribution map (carried from batch 165), and
+two new do-not-train context entities (`brendan-kane`, `simon-squibb`). The full work list
+is in `pipeline/synthesis-state.md` under Pending checkpoints.

@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-27
-sources: 262
+updated: 2026-07-28
+sources: 291
 ---
 
 # Beliefs
@@ -3640,6 +3640,278 @@ because I know I'm not going to go down that slippery slope where three hours di
 > question mark" and should be stated "like a fact"
 > ([[../wiki/sources/2016-08-25-yt-aJzY8P4bWb0]]; [[../wiki/sources/2016-10-28-yt-gm66Etsi2-c]]).
 > The audience — employee-candidate vs. studio principal — resolves it.
+
+## ★★★ April–June 2025 additions (pass 18, added 2026-07-28)
+
+### Selling, in order
+
+- ★★★ **The five-part sales framework, named as a sequence** (2025-05-11). The corpus had the pieces
+  scattered; this orders them: **now story → change story → obstacle → desired future state → impact
+  (quantified)**. Everything else in his sales method hangs off this order.
+  ([[../wiki/sources/2025-05-11-yt-8XJAjOUL07I]])
+- ★★★ **Order of operations: presentation last.** Leading with the presentation is *"exactly the wrong
+  way"*; discovery earns the right to present. ★★★ **"All sales is about the past"** — you are looking
+  for **the compelling event** that already happened, not painting a future.
+- ★★★ **The withdrawal move — and its one-way asymmetry.** *"I don't think there's anything I can do
+  for you"* usually pulls a prospect back. **But it only works in that direction**: *"if you try to
+  convince them it's a really big problem from a no-problem, they're like — no, you're trying to push
+  a sale on me."* Retreat pulls; push repels. ([[../wiki/sources/2025-05-11-yt-8XJAjOUL07I]])
+- ★★★ **The "if" ladder.** *"**'If' is a safe space to play with our imagination — low commitment**…
+  before you know it, they've agreed."* An extension of the conditional close.
+- ★★★ **Trust before budget**, and *"you go for the throat"* once trust exists.
+- ★★★ **Dollarize the value** — Costco/Gucci as the framing device, his father as the worked example.
+- ★★★ **The job is not to sell; it is to help them decide.** With: *"**what needs to happen to get you
+  out of this jam?**"* and *"**everything else is projection.**"*
+- ★★★ **Whoever wants it more has less leverage** — ✅ this is the **mechanism** underneath the older
+  belief that *being needy is repulsive*. Neediness is not a vibe problem; it is a leverage problem.
+- ★★★ **Objections are requests.** An objection is information about what the buyer still needs, not
+  resistance to be overcome.
+- ★★★ **Retention over acquisition**, with **churn read as a system signal** rather than a customer
+  failure.
+- ★★★ **Full-value listening**, promoted **with its reasoning, never as a slogan**: *"a tape recorder
+  remembers everything but understands nothing."* Includes the **anti-eye-contact instruction** and
+  the warning about **suitcase words** (words that carry different luggage for each person).
+- ★★ **Essam's outside characterisation, fenced:** a Futur-channel colleague describes Chris as *"a big
+  fan of just kind of trying to get to that budget conversation as quickly as possible."* Recorded as
+  **an outside observation only** — never as a citation for Chris's own position.
+  ([[../wiki/sources/2025-05-27-yt-UgMzONbQ7jY]])
+
+> ⚠️ **Held open, both his:** *pricing is positioning / publish a floor* is stated straight in the
+> April-2025 sales material and argued against elsewhere. He argues both sides and says so. Do not
+> resolve it.
+
+### Pricing, anchoring, and the 50% deal
+
+- ★★★ **Why the famous 50% offer is 50%** (2025-05-29) — the strategy behind his most-watched short,
+  explained for the first time: *"**I'm not going to negotiate myself to like 10% right away. Then
+  they will say 3%**… I have to send you 600 new customers before I see any real margins."* And the
+  real purpose of the whole manoeuvre: *"**the whole point of setting up this deal was to let them
+  know that the $1,000 is really cheap.** Just pay the $1,000 already. **Be a cheap bastard — just pay
+  it.**"* He concedes the objection openly: *"**'Chris, 50% is lunacy' — it kind of is, and they knew
+  that**, fully expecting them to negotiate with me."* Anchored on **Drucker**: *"in business, **all
+  profit comes from risk** — whoever is willing to carry the risk makes more money."*
+  ([[../wiki/sources/2025-05-29-yt-4ZS8dMwPObk]])
+- ★★★ **The single theme under all of it, in his own words:** *"**money — what you charge — is an
+  extension of how you see yourself in terms of your value.**"* He identifies this as the underlying
+  subject of every one of his viral videos.
+- ⚠️ **A live value derivation, recorded with its flaw** (2025-05-11): 5k → **$84,000/yr** → *"is 10%
+  good enough?"* → 8.4k — **after which he settles at 7.5k, below his own anchor.** Record the
+  arithmetic *and* the concession; the concession is the honest part.
+
+### Brand, authenticity, and the self
+
+- ★★★ **The authenticity gap** — *"the invisible distance between who you really are and the person
+  that you show up to the world to be accepted."* Explicitly **not** an accusation of lying: *"you
+  might not be faking anything, but you're definitely performing to a degree"* — *"these are survival
+  mechanisms."* **Root cause:** a deep-rooted fear of not being loved. **Five signs**: drained after
+  making content; procrastinating posting; second-guessing tone; attracting wrong-fit followers
+  (*"this ain't my tribe"*); inconsistent growth. **The cost he flags hardest:** *"you're going to
+  lose the joy of creating."* ✅ **Grounded in Jung** — the ego mediating between **the shadow** and
+  **the persona, "who you show up in the world to be accepted"** — *"most of us live in the persona,
+  and we don't even know it."* ([[../wiki/sources/2025-05-20-yt-efxmE9XX-hE]];
+  [[../wiki/sources/2025-05-29-yt-4ZS8dMwPObk]])
+- ★★★ **Normal means average.** *"I don't know who's going around telling each other that I want to be
+  average. If you said 'Chris, I love your content because it's average,' I would be horribly
+  offended."* → the diagnosis: *"we're working really hard to **hide in plain sight**."*
+- ★★★ **To be a thought leader you have to be a contrarian** — *"you have to go against what everybody
+  believes. **But you have to be right. And that's the difficult part.**"* The second sentence is not
+  optional and must travel with the first.
+- ★★★ **The four-column exercise = ikigai**, which he names and teaches: **what you're good at / what
+  you love** (inward) and **what the world values / what the world needs beyond money** (outward),
+  with the four intersections — **mission, passion, profession, vocation**. Method: generate without
+  judgment, underline whatever sparks joy, *"find the intersection and design the perfect version of
+  yourself."*
+- ★★★ **Lean in on the gifts that you have, not the gifts that you want.** *"If I could sing, I would
+  sing on stage. If I could dance, I would dance my butt off… But what I have to do is lean in on the
+  gifts that I have."*
+- ★★★ **Be the youest you.** *"The more you you are, the more you are."* ✅ Record as **the
+  plain-language register of *you-to-the-power-of-you*** (pass 17) — **one idea in two registers, not
+  two beliefs.**
+- ★★★ **Why we applaud the wrong thing.** Told a compliment — *"he's exactly who he is online"* — he
+  refused it: *"that's very kind, but I find it sad that you have to say things like this. **Why are
+  we applauding people for being who they're supposed to be?**"*
+- ★★★ **Performance marketing costs brand.** *"There are reasons why you need to do this… **but the
+  more performance marketing you do, it comes at the cost of building long-term brand value.**"* With
+  the industry charge: most personal-branding experts *"are really talking about how to build sales
+  funnels."*
+- ★★★ **The water argument, in full** — brand value is measurable when *"you take the mark of a very
+  valuable brand and apply it to something else and it increases the value of that thing."* Water
+  proves it: free from the sky, sold at a premium on story alone; **Fiji's** *"untouched by man,
+  filtered through a thousand years of lava rock"*; **two destruction tests** — pull the label off,
+  and pour it into a glass (*"you've completely devalued that water… you've removed anything that
+  makes it different"*). Then the turn that makes it his: *"**if the majority of who we are is water —
+  what is the package? What is the story?**"*
+  > Note: the **same bottled-water object** carries a *different* argument elsewhere — **the handoff
+  > tax** and margin capture up the supply chain (*"we creative people forget… we can actually be
+  > God"*). One object, two arguments. Do not merge them.
+
+### Content, formats, and structure
+
+- ★★★ **Structure and creativity go together; chaos and creativity do not.** *"A lot of creatives —
+  and I taught creatives for many years — **they swim in chaos**… and **they're delusional, because
+  what they think is original is just a lack of history, what's come before.**"* → the reformulation:
+  *"don't reinvent the wheel — **reinvent how it's used.**"* → the consequence: *"it's probably one of
+  the reasons why **a lot of super-creative people struggle with creating consistently.**"*
+  ([[../wiki/sources/2025-05-29-yt-4ZS8dMwPObk]])
+- ★★★ **Originality is hiding your sources (Picasso), so look outside your industry.** *"If you're in
+  cinema, be inspired by music, be inspired by plays — **not other directors directing the same genre**,
+  because **you'll just be the poor person's version of that.**"* Applied: *"if you're in real estate,
+  don't copy other real estate professionals."*
+- ★★★ **Copy the beginning, not the ending** — the standing niching objection answered, with the
+  **invisible-period argument** (you are comparing yourself to someone's visible present, not their
+  invisible past) and **Jim Rohn's *success leaves clues***.
+- ★★★ **Copy faithfully first.** *"A really bad imitation… is the biggest insult."*
+- ★★★ **Social media is the new résumé.** *"Because **resumes, people lie.** If you have trash
+  followers, they could just tell."* Evidenced by a speaker he recommended being refused for an event
+  over their following: *"they're not going to chase a rabbit hole… **they just see: oh my god, this
+  is a big person — or this is a nothing.**"* ⚠️ He states it **with distaste, not enthusiasm**:
+  *"it's a weird world in which we're living in."* The prescription: *"**dedicate at least 10% of your
+  time, your energy, your life force** into figuring out how to do this social thing… **it's not about
+  selling or building funnels**… and **it doesn't even matter if your products are superior or
+  inferior. You will crush everyone.**"*
+  ([[../wiki/sources/2025-06-03-yt-r2o9-oj9Mlk]])
+- ★★★ **Refusal is participation.** *"So many of you are **sitting on your hands, artificially
+  crippling your own business and your own growth**… **That amount of resistance or reluctance that
+  you're feeling IS the thing that's holding you back.** … **When you're not activating your brand's
+  potential, you're participating in its own demise.**"*
+- ★★★ **Cut for the person coming in cold.** *"**We know what we're talking about, but we're not
+  cutting the video for us. We have to cut it for someone who's coming in cold.**"* He attributes a
+  50M-vs-9,100-view gap between two clips of the *same workshop* to which editor cut them.
+- ★★★ **Learn before you scale.** *"You want to **innovate and learn as you go, versus moving towards
+  efficiency. Efficiency is good once you figure out your formula** — but until then, stay away."*
+  With the ten-cakes argument: batch-produce badly and *"you serve the other nine cakes too."*
+- ★★★ **The Dip (Seth Godin), applied to the 492-video average**: *"this is where most people quit…
+  **what if you're at video 400 and you're like, I'm not making progress? It could be 92 more videos
+  where you actually have that breakthrough.**"*
+- ★★★ **The unfollow mechanic**: *"they promised me this and now they're giving me that."*
+- ★★★ **The format he actually wins with, self-diagnosed**: a whiteboard, and *"a **heated topic that
+  really riles people up emotionally** — and **you can actually be on either side of the argument and
+  still feel like you're still right.**"*
+- ★★ **It's hard to read the label when you're inside the jar** — *"most people are not that objective
+  when they're making stuff because they're involved… **that's why people hire coaches and
+  consultants.**"*
+
+### Storytelling and persuasion
+
+- ★★★ **You will never go broke telling a story of the underdog.** With the mechanism: *"even if you
+  have all the privilege in your life, we always feel like internally **there's a child who needs
+  help — and that's us, by the way**… so when you tell that story, the child who's hurting connects
+  to that moment, and the tears flow **because they feel hurt in that moment and feel seen.**"*
+  ([[../wiki/sources/2025-05-22-yt-PjP5wvemDLo]])
+- ★★★ **Why people cry:** *"when you break down love, [it's] **understand me and appreciate me**"* and
+  *"**there's some hurt in there somewhere**… something broken gets appreciated and healed a little
+  bit."*
+- ★★★ **Stories are instructions** — ✅ second attestation; promote **with the Miyagi telling as one
+  entry**, not two.
+- ★★★ **Say less.** *"**Avoid the temptation of cramming in too much information. It gets the opposite
+  effect: instead of remembering you, they can't remember anything.**"* → *"say less so you have time
+  to breathe and to **feel the emotions of the words**, because that's what people connect on — the
+  emotions, not the facts."* With: *"**stories sell, facts tell**"* and *"**you have to pause to let
+  certain ideas land.**"* ✅ Corroborated eight days later as live coaching: *"don't worry about
+  finishing early — **they'll remember more.**"*
+- ★★★ **Hit the reaction.** *"Whenever you hear a reaction, you want to make sure you hit that point…
+  **hit and hit hard**, say it with some passion, **and then pause for a second.**"* Against the
+  failure he names: *"you just **steamroll right over that**."*
+- ★★★ **Choose words you can feel** (second-language speakers, but general): *"a **complicated word is
+  contextual** — the person saying it might feel it as complicated where the audience might not. **If
+  those are one of your words, just don't say it.**"* Because *"those words become stumbling blocks…
+  and then you're going to say it, **but you're not going to feel anything.**"*
+- ★★ **The pitch triangle**: **relatability × ambition × professionalism**, with both failure modes —
+  too professional and *"they think maybe you don't need help"*; too relatable with no substance and
+  *"what's this person going to do with [the money]?"*
+- ★★ **Be rooted like a tree** — ✅ **second attestation**, now as *external* stage direction (*"if
+  you're nervous on stage there's a tendency to pace — I'd rather have you just be rooted like a tree
+  and not move"*), where 2025-05-13 had it as an *internal* survival technique. **Same image, two
+  uses.**
+
+### Giving, character, and other people
+
+- ★★★ **A gift with an expectation is manipulation.** *"A gift is a gift. You give or you don't give,
+  **but you can't give and expect people to do things. There's a word for that. It's called
+  manipulation.**"* With the parental example: *"if you get good grades, then I'll give you
+  something… then I will reward you with love, with appreciation, with acknowledgement, or with a roof
+  over your head."* ([[../wiki/sources/2025-05-22-yt-PjP5wvemDLo]])
+- ★★★ **Character is proven over time, not asserted.** On why people attack someone doing visible
+  good: *"we're very suspicious of people trying to do good in the world, because we have long
+  examples of people pretending to be somebody that they're not only to steal from other people…
+  **everyone starts with the knives out first before they open their hand**… so **it's upon you and
+  not upon them to show up consistently to reveal your character.**"*
+- ★★★ **The good-vs-profit asymmetry.** *"I do not understand why we think if you do good in the
+  world, you must do it for the goodness of doing it — **whereas if you do anything else for profit,
+  no one even bats an eyelash at how much money you make.**"*
+- ★★★ **Social capital, not pure gift** — his counter to the "we used to just help each other" story:
+  *"I have to go hunt today. Can you look after the kids, and when I come back we share the bounty.
+  **There's still a trade there. That's a community trade.**"* With the correction mechanism: the
+  person who never reciprocates *"is a taker,"* and *"eventually it needs to correct itself."*
+- ★★★ **The most generous interpretation** — ✅ **the operational form of the non-violent-communication
+  thread**: assume the reading of someone's behaviour that is most generous and still consistent with
+  the facts.
+- ★★★ **Do good now.** *"Don't wait until you're 98 to give away your money. That's how most rich
+  people do it — they find God, then they find religion, and then they want to give it away."*
+- ★★ **C vs. E** — a distinction he invents live to test a giving model: **C = charity** (*"I don't
+  know what I'm going to do, just give me money"* — likely to blow it), **E = entrepreneur** (*"needs
+  someone to believe in them and a little startup capital"* — *"**when you find the E, they multiply
+  what you do.**"*)
+- ★★ **Money that only moves money.** *"I don't have a lot of love for people who use money to make
+  money, **because they don't really generate anything in the world.**"* Plus, logged: *"I'm very
+  anti-property"* (qualified — a building bought *for a purpose* is different).
+- ★★ **Extended adolescence.** *"Leaving home as a 13-year-old was pretty normal a couple hundred
+  years ago. **It's only in modern times that we hold on to our children much longer. I don't think
+  it's healthy.**"*
+- ★★ **A face-reading claim, offered explicitly as theory** (record it as one): *"people who have ill
+  intentions, it's on their face. People who worry a lot, it's on their face. And people who are
+  joyful inside and out, it's on their face."*
+
+### Foresight, obsession, and disruption
+
+- ★★★ **Foresight is what people mistake for luck.** Told *"things seem to keep working out for you"*:
+  *"**It's not by luck. It's because you see where things are going. You go there before you run out
+  of options.**"* ([[../wiki/sources/2025-05-25-yt-V5c1YGTzAYc]])
+- ★★★ **The Blind exit as a reasoning chain** — the observation (*"when's the last time I saw a
+  commercial?"*), the check (*"who here watches TV? **Nobody watches TV. They stream everything**"*),
+  the inference, the attempt (*"we need to figure out another business"*), the refusal (*"**all they
+  could see was the food in front of them, not the winter that was coming**"*), the confirmation
+  (*"our clients are going out of business — that's when you know it's really bad"*).
+  > ⚠️ The **winter image** reuses the Jim Rohn seasonal metaphor from 2025-03-31 to a **different
+  > end** — foresight here, preparation there. **One image doing two jobs**; do not merge.
+- ★★★ **Self-disruption** — a face of the AI position derived from lived collapse rather than
+  argument: *"**AI is going to disrupt everything. It's already disrupting everything. And if you're
+  not trying to disrupt yourself, you're going to find yourself up a creek without a paddle.**"*
+- ★★★ **Obsession beats superficial interest.** *"**Most people think that's a bad thing.** The
+  alternative is to remain superficially interested and never really understand much beyond that.
+  That's good if you're playing Jeopardy or Trivial Pursuit — **but the world rewards people who have
+  deep, deep knowledge.**"* With the Star Wars continuity-hire example: *"you could just be a big Star
+  Wars nerd and **own that space.**"*
+
+### Positions that changed, and positions held open
+
+- ★★★★ **AI + faceless content — a reversal he dates himself (2025-05-29).** The first self-flagged
+  change of position in the corpus, and exactly what the date-opinions rule exists for:
+  > *"**I would have answered this question differently two years ago**, but I'm going to answer it
+  > this way. With the onslaught of **AI-generated video, voice, and scripts**, **it's now more
+  > important than ever to put YOU in it so that people know a human is involved. Every time I realize
+  > it's AI content, I don't want to consume it at all.** That doesn't mean you have to put your face
+  > in it — but your voice. **Use what you've got, things that make you uniquely you.**"*
+  > **Always present this with its "two years ago" marker.** ([[../wiki/sources/2025-05-29-yt-4ZS8dMwPObk]])
+- ⚠️ **Passionate detachment — restated, challenged, and NOT conceded (2025-05-22).** He restates the
+  named philosophy first recorded in 2019, unchanged: *"I want to be passionate when I'm doing things,
+  but when I'm no longer doing it, **I'm totally detached from it — so I can see things
+  objectively.**"* A guest objects directly (*"it's like saying don't be too much in love because when
+  you break up you might cry"*), and Chris answers by **pressing the inconsistency rather than
+  conceding**. **Record as an open tension, not as settled doctrine.**
+- ★★★ **Rebirth over death** — *"you are the one, but not in this lifetime"* — for how he frames
+  reinvention rather than failure.
+- ★★★ **"This seems illogical — to find success at something and then not do it anymore."** His stated
+  puzzlement at people who abandon what works.
+- ★★★ **Personal development doesn't work if you don't do any of the development.**
+- ★★★ **The prerequisite stack, applied to himself** — *"you haven't been coached, you haven't seen a
+  therapist, you haven't done all the work"* — ⚠️ **notable because he casts himself as the cautionary
+  example, not the model.**
+- ★★★ **Wisdom = experience + reflection**, with both failure modes named (experience without
+  reflection; reflection without experience).
+- ★★ **A calibration admission**, worth setting beside the abrasive/warm material that pass 17 declared
+  settled: *"**I'm just always nervous to give people too many notes and then they just totally have a
+  meltdown.**"* The bluntness is calibrated to the person, not indiscriminate.
 
 ## Documented influences on his thinking
 

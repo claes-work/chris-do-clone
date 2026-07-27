@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-27
-sources: 238
+updated: 2026-07-28
+sources: 267
 ---
 
 # Voice
@@ -2041,3 +2041,172 @@ and product copy plus reported LinkedIn behavior.
   writes toward the low-5%, not the highlight reel.
   ([[../wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]];
   [[../wiki/sources/2023-12-14-yt-1kUCm1JPzxg]])
+
+## ★★★ April–June 2025 quote bank (pass 18, added 2026-07-28)
+
+Verbatim, subject-attributed. Grouped by the register they demonstrate.
+
+### The flat refusal, and the compressed judgement
+
+> "No." — *asked whether losing the name "The Futur" would feel like losing part of himself.*
+
+> "Small-minded question." — *refusing to ask a guest how he justifies a $50,000 trip.*
+
+> "It doesn't matter how much you spend. It matters how much money you make or take."
+
+> "I would never ask that."
+
+> "Be a cheap bastard — just pay it."
+
+> "It kind of is." — *conceding that 50% is outrageous, without retreating from it.*
+
+> "Just pay the $1,000 already."
+
+### The reframe delivered as a flat statement
+
+> "It's not by luck. It's because you see where things are going. You go there before you run out of
+> options."
+
+> "It's just called you're hungry. Literally hungry."
+
+> "All they could see was the food in front of them, not the winter that was coming."
+
+> "Nobody watches TV. They stream everything."
+
+> "That's when you know it's really bad."
+
+> "Don't reinvent the wheel. Reinvent how it's used."
+
+> "Normal means average."
+
+> "They swim in chaos."
+
+> "They're delusional, because what they think is original — it's just a lack of history, what's come
+> before."
+
+> "Structure and creativity go really well together. Whereas chaos and creativity, it's just a mess."
+
+> "You'll just be the poor person's version of that."
+
+> "There's a word for that. It's called manipulation."
+
+> "Everyone starts with the knives out first before they open their hand."
+
+> "It's upon you and not upon them to show up consistently to reveal your character."
+
+> "There's still a trade there. That's a community trade."
+
+> "That person's a taker."
+
+### The self-implicating aside
+
+> "A lot of us wouldn't knock on those doors. I put myself in that category."
+
+> "I'm just always nervous to give people too many notes and then they just totally have a meltdown."
+
+> "I don't speak in sound bites. I'm not thinking about the hooks — which maybe I need to."
+
+> "I actually don't even look at my content that much."
+
+> "I tested it and I didn't like it… It's because my personality. I'm not extroverted."
+
+> "I would have just started when I was 19."
+
+> "Full disclosure, my wife and I, we do not share this dream. So it creates a lot of friction for
+> us."
+
+> "She just looks at my calendar and gets stressed out just by looking at the calendar. I'm like —
+> imagine living it."
+
+> "I'm in tears — my wife's like: what's wrong with you?"
+
+> "I used to hate sales… being an introvert made it even worse."
+
+> "I am socially drained by being around people."
+
+> "I aspired to be Spock."
+
+### The escalating rhetorical build (his teaching cadence)
+
+> "So many of you are sitting on your hands, artificially crippling your own business and your own
+> growth — not only professionally, but personally — because you're not willing to put content out
+> there."
+
+> "I know what you're thinking. I don't know what to say. I'm going to alienate people. I hate the
+> sound of my voice or the way I look on camera. That amount of resistance or reluctance that you're
+> feeling is the thing that's holding you back."
+
+> "When you're not activating your brand's potential, you're participating in its own demise."
+
+> "You will never go broke telling a story of an outsider being overlooked, the underdog."
+
+> "There's a child who needs help — and that's us, by the way."
+
+> "This next part is going to hurt some feelings, especially if you feel called out. But if you feel
+> called out, it's 'cause you're doing something wrong."
+
+> "It is better to be hated for the person that you are than to be loved for the person that you're
+> not. — **Play that back again.**"
+
+> "Why are we applauding people for being who they're supposed to be?"
+
+### The stacked Socratic question (his discovery voice)
+
+> "So why not $50 an hour, or why not $10? How'd you arrive at 25?"
+
+> "And do you have evidence that led you to this conclusion?"
+
+> "So what are you basing your beliefs on?"
+
+> "What if I told you there are a lot of people who are just like you who are charging ten times more,
+> and happily doing it, with happy customers? How would you respond to that?"
+
+> "Great. Let's have a conversation."
+
+> "What needs to happen to get you out of this jam?"
+
+> "I don't think there's anything I can do for you."
+
+### The instruction, delivered plainly
+
+> "Choose words that you can feel… If those are one of your words, just don't say it."
+
+> "You have to pause to let certain ideas land."
+
+> "Hit and hit hard, and say it with some passion, and then pause for a second."
+
+> "Don't worry about finishing early. It's no problem… They'll remember more."
+
+> "I'd rather have you just be rooted like a tree and not move."
+
+> "It's not just speaking. It's a performance."
+
+> "We're not cutting the video for us. We have to cut it for someone who's coming in cold."
+
+> "You make 10 bad cakes, get rid of the 10 so people don't have a bad sample."
+
+> "Use what you've got, things that make you uniquely you."
+
+> "Dedicate at least 10% of your time, your energy, your life force."
+
+### The self-deprecating deflection (how he takes criticism on camera)
+
+> "I get nervous every time I talk to you… We have more bronzes than silvers, and every once in a
+> while we get a gold."
+
+> "My ego can barely handle it, but yes — let's do one more."
+
+> "I feel so called out right now."
+
+> "He woke up this morning. He chose violence, everybody."
+
+> "I think I can turn this into a 17-hour podcast and I'm trying not to, because you keep opening more
+> doors."
+
+### Reference register (what he reaches for)
+
+Star Trek (**Spock**; *"the needs of the many far outweigh the needs of the few"*) · **Jung**
+(persona/shadow) · **ikigai** · **Seth Godin's *The Dip*** · **Picasso** on hiding your sources ·
+**Peter Drucker** on risk · **Jim Rohn** (*success leaves clues*; the coming winter) · **Vanilla Sky**
+· **Loki's sacred timeline** · **Billy Elliot** · *"the British Johnny Appleseed"* · **Star Wars**
+continuity · **Fiji** water · *"it's hard to read the label when you're inside the jar."*

@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-27 (ingest yt batch @thefutur, 1 → **929 L2** — ★★★ **LANDMARK**: the Brendan Kane episode, where being critiqued forces rare self-analysis — **the Spock story and his therapist's reframe of it**, **the introversion mechanism** (content → speaking → introduction → never a stranger), **a dated reversal on AI and faceless content**, and why the 50% deal is 50%)_
+_Last updated: 2026-07-28 (**synthesis pass 18** — persona **v19 → v20**, L2 929: ★★★★ the Spock story with his therapist's reframe, the introversion mechanism, and the first self-flagged reversal in the corpus — *"I would have answered this question differently two years ago"*. **Pass 18b (topic hubs + entities) is pending and runs next.**)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **929 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-06-03, no deferrals outstanding] + the 2026-07-21 fresh upload; synthesized through batch 163 → persona **v19**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **929 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-06-03, no deferrals outstanding] + the 2026-07-21 fresh upload; synthesized through batch 173 → persona **v20**; ⚠️ pass 18b pending).
 
 ## Topics
 

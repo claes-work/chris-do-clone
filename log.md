@@ -3486,3 +3486,92 @@ Brand Lab reconciliation, the Pro Group caveat, the `SUBJECT.md` fence for the r
 the East/West dating flag, the Priestley recording-date correction, the ScoreApp disclosure, and the
 standing instruction to credit Noah Kagan for the avoidance prompt. **Entity backlog is now acute:
 Daniel Priestley (3 appearances + heavy citation) is the strongest missing entity page in the corpus.**
+
+## [2026-07-27] ingest | yt batch (@thefutur, 6) — the canonical personal-brand framework and the low-ball roleplay
+
+**Stage B (P2), batch of 6.** All six fetched cleanly (200KB) and read in full. Ledger 800 → **806 L2**.
+Three solo/Chris-primary sources and three guest-primary ones; the solo half is unusually high-yield.
+
+| id | date | what it is |
+|---|---|---|
+| `yt-NfoocYAuZN0` | 2024-04-09 | Tom Ross community masterclass — **guest-primary, fenced** (3rd appearance) |
+| `yt-1yTBIklFDxU` | 2024-04-11 | Paul / Heirloom Entertainment — **guest-primary, fenced** |
+| `yt-yD-6yenGhLk` | 2024-04-14 | Blair Enns, 7th proclamation — **guest-primary, fenced** |
+| `yt-VYKA7hqZeZU` | 2024-04-16 | ★★ **the canonical personal-brand framework** |
+| `yt-KYcMYIsSB1s` | 2024-04-23 | ★ procrastination / the time audit / Keir McLaren |
+| `yt-MC3lr_BT1Wg` | 2024-04-27 | ★★ **the low-ball sales roleplay** |
+
+**1. ★★ `yt-VYKA7hqZeZU` should become the branding hub's canonical personal-brand page.** He builds the
+framework by *testing* it rather than asserting it: **Seth Godin** — 22+ books, a daily blog for a decade,
+the biggest stages — fails the test, because *"what do we know about him outside his subject-matter
+expertise? Very little."* **Gary Vaynerchuk** passes, and the discriminator is the **premium test**: does
+association with you make an ordinary thing command more money (a $4 bottle sold at $55)? Then **three
+traits** (self-awareness *paired with* self-acceptance; self-confidence redefined as *"a belief in your
+skills to solve a problem"*; vulnerability/transparency, justified by **Pixar's rule #1**) and **four
+components** (origin story / community and culture / defining attributes / **the enemy**). Two things
+here are genuinely new to the wiki: **self-conscious vs. self-aware** (*"perceiving yourself from the eyes
+of other people"*), and —
+
+> ★★ **a correction of a widespread misreading of him, in his own words**: *"people ask me all the time,
+> 'Chris, you're anti-education.' I said **no — I'm anti-crippling student debt. I'm all for
+> education.**"* This belongs in `persona/beliefs.md` **and as a system-prompt guard**, so the persona
+> never delivers the blunt anti-education version. Promotion guard: the Kanye/Trump/Tate material on that
+> page is **analysis of mechanism, explicitly bracketed from endorsement** — carry the bracketing or drop
+> the examples.
+
+**2. ★★ `yt-MC3lr_BT1Wg` is the best performed sales artifact in the recent corpus**, and it contains a
+structure the wiki does not yet have. Round 1 is the **walk-away**: never counter on price, convert the
+job into the buyer's own arithmetic ($1,000 against $7,500/month), then treat the small budget as evidence
+the problem isn't real — *"my first instinct is to say let's not do it"* — audit what they *do* spend on
+(the fridge, the floors, the M5 outside) to land *"people tend to spend money on what they value"*, and
+disqualify the project generously: *"I'd encourage you not to spend that money with anybody. Not just
+me."* Round 2 exists only because a member boxed him in (*must close, no Fiverr referral*), and it
+produces the **risk-share**: free work for **50% of new net revenue, uncapped**, on **Drucker's "all
+profit comes from risk"** — then a **two-option close** with the hybrid explicitly refused. Buyer takes
+$4,000. Read it with **"I abhor discounts"** from `yt-NfoocYAuZN0` eighteen days earlier: this is what he
+offers *instead*.
+
+**3. ★★ A missing causal link in the biography.** `yt-KYcMYIsSB1s` gives the external trigger for the
+client-facing, stage-comfortable Chris Do: **Keir McLaren** told him *"they're hurting your company
+because **you're hiding in your room** — go out and meet the client."* His account of the aftermath is
+plain: *"and that's all it took… **I learned that most of it was just mental. It was just me getting stuck
+on myself.**"* Then *"go do public speaking. I'm like, oh my god, really?"* Pair with *"I'm here for the
+other person"* (2024-03-28), which is the same breakthrough from the inside.
+
+> ⚠️ **Attribution risk flagged, not resolved.** On `yt-yD-6yenGhLk` Blair Enns teaches the **codified
+> methodology** (the ditch-digging parable → draw the process → *"little variability in process equals
+> little variability in outcome"*). Chris teaches a near-identical **five-step predictable proven
+> process** as his own on 2024-03-10. These converge and must **not** be silently merged at synthesis —
+> note the convergence on both pages and keep the attributions separate.
+
+**Pipeline state after this batch:** `@thefutur` P1:0, **P2:274**, P3:44; `@TheFuturAcademy` P3:72;
+shorts 860; L2=**806**, L3=0; synthesis debt **9/10**; persona v14.
+
+> **Next iteration: Stage S — the synthesis checkpoint fires.** One more ingest batch would cross 10; the
+> debt is at 9 and there are now four batches' worth of ★★ landmark material queued (rate arc, Bootcamp
+> 3&4, the Skool split, the pre-ArtCenter origin, the personal-brand framework, the low-ball roleplay).
+> **Synthesize before ingesting further.**
+
+Synthesis notes: genuinely new this batch — (1) ★★ **the personal-brand framework** in full (fame ≠ brand
+via the Godin test; the premium test; three traits with Pixar rule #1; four components including **the
+enemy**), which should become the branding hub's canonical entry; (2) ★★ **self-conscious vs.
+self-aware**; (3) ★★ **"I'm not anti-education, I'm anti-crippling student debt"** — a self-stated
+correction, for beliefs **and** as a guard; (4) ★★ **the risk-share / performance deal** with Drucker, and
+the **two-option close** with the hybrid refused; (5) ★★ **"my first instinct is to say let's not do it"**
+and **"people spend money on what they value"**; (6) ★★ **"I abhor discounts"**, promoted *with* the
+risk-share as its alternative; (7) ★★ **Keir McLaren's "hiding in your room"** intervention and *"most of
+it was just mental"*; (8) ★★ **"you've created not an experience — you've created memories"** and the
+**brand-story translation** (traditions, quirks, how they celebrate differently); (9) ★ the
+**delegation-margin rule** in his sharpest phrasing (hire below what you bill, keep the difference);
+(10) ★ **procrastination masks fear**, **resistance as gravity**, **reinterpret the fear signal as an
+instruction**, and the **time audit**; (11) ★ **"you didn't have that $1,000 before they called you"** as
+the mindset guard that makes a walk-away possible; (12) ★ **video envy** as a named diagnosis; (13) the
+honest **Pro Group admission** (*"like cats in a room… we have an AI agent and they just don't do it"*)
+and the Pro Group's stated value proposition. New voice material: *"the first time I cook I expect to be
+a Michelin-star chef… how about we just love the sport?"*, *"it's almost like you're trying to hurt
+yourself"*, *"word salad"*, *"the sleeper must awaken"*, *"the rest of us ugly short people"*, and the
+deadpan Fiverr referral. Carried forward into the checkpoint: the five-way Brand Lab reconciliation, the
+Pro Group cap caveat, the `SUBJECT.md` fence for the recurring non-Chris slot, the East/West dating flag,
+the Priestley recording-date correction, the ScoreApp disclosure, the **Enns codified-methodology vs.
+five-step attribution risk**, and the overdue entity pages — **Daniel Priestley** (3 appearances + heavy
+citation) and **Tom Ross** (3 appearances).

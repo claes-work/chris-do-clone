@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-27 (ingest yt batch @thefutur, 6 → 800 L2 — two landmark biography sources: **the Skool split** (his father's cake rule; Jose Caballer chose the IP, Chris got the community) ★★ and **the pre-ArtCenter origin story** (three rejections → a portfolio in ~3 months; ⚠️ sensitive) ★★; plus **"I'm here for the other person"** and **compare backwards** ★★; the **8 Mile rule**; one row is a **disclosed affiliate promo** ⚠️)_
+_Last updated: 2026-07-27 (ingest yt batch @thefutur, 6 → 806 L2 — ★★ **the canonical personal-brand framework** (fame ≠ brand; 3 traits, 4 components, the enemy) and ★★ **the low-ball sales roleplay** (walk-away + uncapped risk-share, Drucker); *"I abhor discounts"*; Keir McLaren's *"you're hiding in your room"*; ⚠️ one attribution risk flagged — Blair Enns's codified methodology vs. Chris's own 5-step process)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **800 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2024-04-04] + the 2026-07-21 fresh upload; synthesized through batch 114 → persona **v14**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **806 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2024-04-27] + the 2026-07-21 fresh upload; synthesized through batch 114 → persona **v14**).
 
 ## Topics
 

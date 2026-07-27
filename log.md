@@ -6040,3 +6040,92 @@ self-description** (*"loud introvert, recovering graphic designer, serial entrep
 student but first-class troublemaker"*); (11) ★★ **the gratitude correction** (*"allow you?"*) and **the
 teacher's multiplier**. ✅ **Promote (1)–(6) alongside [[2025-01-25-yt-ZIF7aRNr8BA]]** — obstacle and ethics
 defence are one argument. New influences: **Erwin McManus**, **Brian Tracy**, **Joseph Campbell**.
+
+## [2026-07-27] ingest | yt batch (@thefutur, 1 of 3 — two deferred) — build a world, not a narrative
+
+**Stage B (P2), `--n 3`.** The row deferred from batch 148 resumed at the front and was ingested. Ledger
+892 → **893 L2**. **One source, but it took the batch** — two new frameworks, a new self-concept, a live
+coaching transcript, and a collision to adjudicate.
+
+| id | date | what it is |
+|---|---|---|
+| `yt--3B7cbOOis4` | 2025-02-16 | ★★★ **LANDMARK** — REFRAME Conference; ⏸️ from 148 |
+| `yt-uOWi13jSAPA` | 2025-02-18 | ⏸️ **DEFERRED** (18KB) |
+| `yt-e2zox3-QL5Q` | 2025-02-20 | ⏸️ **DEFERRED** (40KB) |
+
+**1. ★★★ The thesis, and a new framework that fixes a real gap.** ★★★ *"**A product or service or an
+organisation without a story is a commodity** — and a commodity is easily replaced, and **whatever is more
+convenient and cheapest is what is purchased.**"*
+
+Then the part the corpus's storytelling material has never had an answer for — that a story has to be
+rebuilt every time:
+
+> ★★★ *"**Each time you create a story it's a brand-new act of creation. It's very difficult to do this.**
+> **What if, instead of creating a narrative, you created a world?** … Figure out how you want to package it
+> **so that people ask you questions about it** — **that becomes the springboard for all of your ideas.**"*
+
+Note the success criterion is **questions**, not comprehension. And he **proves the thesis live** by taking
+a request from the floor to *"rebrand the word bookkeeper"* — refusing to start with the answer (*"before we
+can rebrand, we need to know what **the public perception** is"*), collecting the room's verdict (*"just data
+entry" · "anyone can do it" · "low cost" · "low skill" · "purely admin"*), and landing it: ★★★ *"**so it's a
+commodity, right?**"* With a constraint on the fix that is easy to miss: *"what would we like to move it to
+— **and we have to be truthful here, not wishful thinking.**"*
+
+**2. ★★★ The Daywalker — a self-concept that explains a pattern the corpus kept observing.** The corpus has
+repeatedly recorded him speaking to mortgage brokers, loan officers and accountants without recording *why*.
+Here he says it: *"I ran into a group of **left-brainers**… and **I started to doubt myself. What am I doing
+here?** And then I realised — **I think I'm half accountant / business person, and half crazy creative
+person.** So depending on who I'm speaking to, I tell people: ★★★ **I help left-brainers think right.**"*
+
+★★★ And the metaphor: *"do you know who **Blade** is? … *I have all the strengths of the vampire and none of
+their weaknesses.* He's called a **Daywalker**. **A hybrid. Someone who travels two worlds. And sometimes I
+think of myself like that.**"*
+
+**3. ✅ "I create unsafe space" is now twice attested in four weeks** — so it is **settled teaching doctrine,
+not an ad-lib**, and can be promoted as such. (Still held beside *"when you feel safe, your guard goes
+down"* from three days earlier — different objects.)
+
+**4. ★★★ The clearest procedural record of his coaching in the corpus.** A participant asks how to get out
+of her own way, and the sequence is fully legible: *"what's in your way?"* → *"that's a lot of self-awareness"*
+→ ★★★ *"**a more successful place is the place that you're in right now**"* → ★★★ *"are you operating **in
+feeling, or based on fact**?"* → ★★★ **he asks permission before pushing** (*"I'm going to challenge your
+thinking — is that okay?"*) → the arithmetic rebuttal (*"either half the room is rich and half is poor, or
+that cannot be true"*) → and the close, turning her own words back: ★★★ *"you said ***my problem is me*** —
+**that's pretty violent language.** … **Would you ever say that to your child?**"*
+
+Plus two portable instruments: ★★★ **thoughts on trial** (*"make a case for and against… you are the lawyer
+and the judge for both"*) and ★★★ **the dark-thought triage** (*"if I can't do anything about it, I don't
+want to think about it anymore"*). And on quitting inner work when it hurts: ★★★ *"**that's the way to do
+that kind of work. It's supposed to be uncomfortable from the beginning.**"*
+
+> ✅ **The *know your depth* guard, executed live** — *"is there a therapist in the room? Anybody, please save
+> me… **let's not go so deep, because I can get us in trouble and I won't know how to get us out of it**"* —
+> including the honest aftermath: *"**I feel like I just opened the wound and just left you there.**"* The
+> corpus had this as a principle; here it is in operation, cost included.
+
+> ⚠️⚠️ **A collision adjudicated, and it resolves in nobody's favour.** Chris's **court-of-law** exercise
+> also appears in **Matt Essam's 8th instance (2024-10-27 — *earlier*)**. **Neither is derived from the
+> other**: Chris credits *"what therapists do"* (standard CBT evidence-for/evidence-against), Essam credits
+> **Byron Katie**. **Recorded under Chris's name, explicitly NOT flagged as a leak, and explicitly not to be
+> stripped.** Worth stating plainly — a fence that produces false positives would be worse than no fence.
+
+**Deferrals (no silent caps):** two rows — `uOWi13jSAPA` (18KB) and `e2zox3-QL5Q` (40KB) — returned to
+`L0-discovered` at P2, transcripts cached, neither skimmed.
+
+**Pipeline state:** `@thefutur` P1:0, **P2:184**, P3:44; `@TheFuturAcademy` P3:72; shorts 860; L2=**893**,
+L3=0; synthesis debt **7/10**; persona v17.
+
+> **Next iteration: Stage B (P2), `--n 3`**, led by the two deferred rows.
+
+Synthesis notes: genuinely new — (1) ★★★ **build a world, not a narrative**, with *questions* as the success
+criterion; (2) ★★★ **no story = commodity**, with the **bookkeeper rebrand** as the worked proof and *"not
+wishful thinking"* as the constraint on the fix; (3) ★★★ **the Daywalker self-concept** and *"I help
+left-brainers think right"* — for `persona/biography.md`; it retroactively explains the mortgage/accountant
+audiences; (4) ★★★ **unsafe space, twice attested** → promote as doctrine, held beside the safety material;
+(5) ★★★ **thoughts on trial** and (6) ★★★ **the dark-thought triage** — two instruments, with the collision
+flag attached; (7) ★★★ **the live coaching sequence** as the corpus's clearest procedural record of his
+method, including **asking permission** and *"would you ever say that to your child?"*; (8) ★★★ **"it's
+supposed to be uncomfortable from the beginning"**; (9) ★★★ **speak their language** with *step on the gas /
+pump the brakes*; (10) ★★ **the know-your-depth guard executed live**, cost included; (11) ★★ **his wife
+handles the books**, and *"I don't care about the money at all"*. ⚠️ **Do not treat the court-of-law
+instrument as an Essam leak.**

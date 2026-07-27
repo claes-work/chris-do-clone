@@ -8847,3 +8847,78 @@ Todd McFarlane story** is the source of the bilingual self-concept merged in pas
 rather than treating it as new. (9) ★★ The **$400K-vs-$120K** comparison is a dated, concrete
 disclosure for `topics/business`. (10) ★★ *"Good ideas die in committees"* + the four-directors Blind
 evidence for why a group cannot hold a voice → `topics/branding`.
+
+## [2026-07-28] ingest | yt batch (@thefutur, 2) — the demand side of the squeeze
+
+Batch 175. Both rows deferred in batch 174 taken first, as promised; **no deferrals outstanding.**
+L2 930 → **932**. Both are guest-dominated, so both pages carry top-level attribution warnings and
+per-passage `[CHRIS]` markers.
+
+- **2025-06-07 — "The LinkedIn Strategy You're Missing" w/ Matthew Lakajev** (★★). The step-by-step
+  lead-generation system is **the guest's and is fenced**. What earns the page is ★★★★ **Chris
+  stating The Futur's own commercial problem out loud**: *"one of the technical challenges I have is
+  **we have a good-sized, really engaged audience that are incapable of buying anything that we do.**
+  They will show up to these things in droves, but **a vast majority of them are not the right
+  fit.**"* With the response disclosed — *"200–250 a month… it's not enough, so **we're actually
+  planning on raising the price every benchmark we hit**"* — and a cadence correction: *"we went to
+  once a quarter and now we're back to once a month, because once a quarter **put a lot of pressure on
+  us closing a lot of people. It was a do-or-die thing, and we weren't executing properly.**"*
+
+  ✅ **This is the third June-2025 account of the same squeeze from a different side.** 06-03 gave the
+  **cost** side (the spin-off: less revenue, less overhead), 06-15 gave the **culture** side (*"the
+  culture got sideways"*), and this gives the **demand** side. Thirteen days, three angles, all
+  self-reported.
+
+  Also his: an **articulated filter** for judging a salesperson in real time (*"you've not said
+  anything where I'm like — that's terrible… **it's very hard for you to get through my mental checks
+  like: no, that's creepy**… you're very high score right now"*); **pitch vs. invitation**, credited
+  onward to Priestley's *"with or without you energy"*; and *"you don't want to rush from content to
+  call to action — **it's too abrupt of a step. It's too much tension there.** **Are you right for me?
+  Am I right for you?**"* ✅ **Jasmin Alić is established here as a PRIOR guest**, which gives the
+  carried-debt note a concrete lead. ⚠️ **New carried debt**: he calls this *"part one of maybe
+  multiple conversations."*
+
+- **2025-06-14 — "He Designed Beats, Apple Products…" w/ Robert Brunner** (★★). Ammunition founder,
+  ex-Apple director of industrial design, ex-Pentagram partner. Guest-dominated and fenced. Chris's
+  harvest is unusually **craft-specific**: ★★★ **the perfection trap with a new argument attached** —
+  *"we want to make something perfect… and then **we never release anything**… **yet we also don't
+  want to release something prematurely, because it can create a lot of waste in the world.** Wasted
+  paper, wasted materials, and it winds up in the landfill. **That feels really irresponsible.** And
+  so there's **this very narrow window that you've got to hit — otherwise everyone would be great.**"*
+  The environmental half of that argument is new to the corpus. ★★★ **The print-it-out test**: *"the
+  first thing I'll say is — **have you printed that out yet? Can you even read that?**"* ★★★ **Two
+  Blind-era qualification heuristics**: *"we would have to **make rules for our salespeople**, because
+  otherwise **every job looked like a great opportunity**"* and *"**if they used too many buzzwords,
+  we're out.**"* And ★★★★ **the good-enough-revolution tension**, which he poses carefully (the *Wired*
+  article, drones vs. fighter jets) and **does not resolve** — recorded as a question he holds, not a
+  position he takes.
+
+**Flags and one negative result**
+
+- ⚠️ **A rumour Chris repeated was NOT corroborated.** He raised the claim that **Will.i.am** had the
+  Beats idea first; Brunner — *"not day zero, but day one"* — says he has not heard that version and
+  gives Jimmy Iovine's account instead, allowing only that *"those things, as time goes on, kind of
+  develop a life of their own."* **Recorded as an uncorroborated rumour, explicitly not confirmed by
+  the person best placed to know.** It does not enter the wiki as fact.
+- ⚠️ Attribution care on the Lakajev page: *"when people don't pay, they don't pay attention"* and the
+  *$45k/month* figure are **the guest's**, about his own memberships — **not Chris's**.
+- ⚠️ **Cross-clone**: the captions' "Alexi" alongside Sam Ovens is most likely **Alex Hormozi** —
+  third-party, **not usable for that clone**.
+- Caption garbles corrected without assertion: Robert Bruner/Dunner → **Brunner**, Paula Share →
+  **Scher**, "teasial lamp" → **Tizio**, "YouTube iPod" → **U2 iPod**, Matthew Lee → **Lakajev**,
+  Yasmin Alec → **Jasmin Alić**, "ADA" → **AIDA**.
+
+**Synthesis notes:** (1) ★★★★ **The three June-2025 disclosures should be promoted together onto
+`entities/the-futur` as one story, not three**: cost (the spin-off), culture (*"why are these people
+here?"*), and demand (*"incapable of buying anything that we do"*). Read separately they are
+anecdotes; read together they are a business in the middle of a deliberate contraction, and he frames
+the contraction as a gain. (2) ★★★ **The perfection trap with its waste argument** belongs in
+`topics/design-craft` — the corpus already has "ship it," but not the ethical objection to shipping
+badly. (3) ★★★ **The print-it-out test** is a concrete teaching move for `topics/design-craft`.
+(4) ★★★ **The two Blind-era qualification heuristics** join `topics/sales-clients`; both are about
+*disqualifying*, which is where his sales material is thinnest. (5) ★★★ **The good-enough-revolution
+tension must be recorded as an open question**, not resolved — he explicitly hands it to the guest.
+(6) ★★ **Pitch vs. invitation** and *"too abrupt of a step"* are usable, small additions to
+`topics/sales-clients`. (7) ★★ Chris's **not-creepy filter**, said out loud, is good evidence for how
+he evaluates other people's methods — worth one line in `topics/sales-clients`. (8) Carried debt
+updated: **Jasmin Alić now has a lead** (a prior episode exists); **a Lakajev part two is implied.**

@@ -9257,3 +9257,75 @@ twice.** (8) ⚠️ Note the **safe-space opening** (*"is this a safe space for 
 with each other?"*) against the standing open tension with *"I create unsafe space"* — here he is
 explicitly in coaching mode, which is evidence about *when* each mode appears. (9) ★★ New biography:
 **the Tesla**; **1,100 members**; **2.7M followers**.
+
+## [2026-07-28] ingest | yt batch (@thefutur, 2) — surviving childhood, and the marble jar
+
+Batch 180. Both rows ingested; the batch-179 deferral was taken first as promised and **no deferrals
+are outstanding.** L2 941 → **943**.
+
+- **2025-08-07 — w/ Greg Logan (Narrativity)** (★★). Guest-dominated: the quest framework, the
+  27-genre map and the banned-words list are **his and are fenced**. The page exists because of an
+  unusual feature — **Logan runs his live brand exercise on The Futur itself**, which makes Chris
+  state his own offer unrehearsed: *"**creative entrepreneurs — not just creatives, because they need
+  different kinds of help**"* → *"**I teach them to speak the language of business… I help them to
+  have a healthier mindset around money… I help them to find their worth, not just in financial means,
+  but in the goodness that they put into the world**"* → and the benefit under the benefit: *"a world
+  for themselves in which **they don't feel the financial pressure of having to be at the beck and
+  call of clients.**"*
+
+  ★★★★ Then, pushed for a sharper word, he declines the wordsmithing and goes underneath it: *"now I'm
+  going to get philosophical on you… **I have this fundamental belief that all of us are creative —
+  non-creatives as well. And somewhere along the way, the creativity was taught out of us. And the
+  artists in the world are the ones who survived childhood and didn't go along with the program.
+  They're the rebels. They're the non-conformists.**"* ✅ **This is the belief underneath *"the things
+  that have been taught out of you"*** from the VidCon keynote — stated here as a claim about **who
+  artists are**, not just about what schooling removes.
+
+  ⚠️ **Recorded with a guard**: the mission statements Logan generates in the session are **workshop
+  output Chris reacted to**, not a change to The Futur's mission, which remains *"teach a billion
+  people how to make a living doing what they love."*
+
+- **2025-08-21 — "Why Being 'Humble' Is Hurting You More Than You Think"** (★★★). Short, contrarian,
+  and — unusually — **argued with the room pushing back throughout.**
+
+  It opens on a refused compliment: *"'Chris, you know why I like you? **You're really humble.**' And
+  I said, '**I don't think of myself as humble. Actually, I'm offended that you say I'm humble. I
+  really am.**'"* ✅ **Third instance of that reflex**, after the Molly refusal (2025-05-20) and *"and
+  we all are, to a degree"* (2025-06-29) — enough attestations that it is now a documented **behaviour**
+  rather than an anecdote.
+
+  He then makes the room define humility, points out that the collected definitions contradict each
+  other (*"**when you put others above you, the inverse is you put yourself below them. And that's what
+  you all are doing all the time**"*), goes to the dictionary rather than the poster, and tests it with
+  ★★★★ **the marble-jar experiment** — 100 marbles; low estimation guesses 40, high guesses 140, best
+  is 100 → *"**when you're humble, you're giving me a false estimation. It's bad for you. It's also bad
+  for your client. It's bad for your team. It's bad for your family — because we need to know.** How
+  much fuel is in the car? How much food do we have left in the pantry?"* Then he runs the consequence
+  live on an attendee: *"'Do you do a good job?' 'Sure.' — **that's not humble.** The humble answer is
+  'no, others do better.' **Me as a consumer, should I rush out and buy from you?**"*
+
+  ★★★★ **And the move that keeps the argument from being a defence of ego**: *"people think this is
+  good because **they're afraid the opposite is arrogance.** … **It is not.** You know what arrogance
+  is? **Overcompensating for low self-esteem.** Anybody who's arrogant is **not** operating from a high
+  estimation of themselves. **It's a mask.**"* With the critique relocated rather than dismissed:
+  *"**how they treat others is where we have the critique. How they talk about themselves is where we
+  have the critique.**"* And the landing is deliberately modest: *"**let's just go for a fair
+  estimation. Not low. That's the problem.**"*
+
+  ⚠️ Two honesty notes worth keeping: he **concedes he will probably not win** (*"I don't believe I can
+  effectively persuade you to change your mind for 40 years of culture and training and society"*), and
+  when an attendee's business (drinks) doesn't fit the method, **he says so and parks it** rather than
+  forcing it.
+
+**Synthesis notes:** (1) ★★★★ ***"The artists in the world are the ones who survived childhood"*** is
+the highest-value line in this batch and belongs in `persona/beliefs` **attached to** the
+taught-out-of-you material, not filed separately — it is the premise, that is the consequence.
+(2) ★★★★ **The marble-jar experiment** should be promoted as **a procedure**, because the argument
+only works when you run it: the abstract claim (*humility is a false estimation*) is unpersuasive
+without the jar. (3) ★★★★ **Arrogance as overcompensation** is load-bearing — without it the humility
+position reads as licence, and with it the position is *fair estimation*. Promote the two together and
+**always with the relocated critique** (*how they treat others*). (4) ★★★ **His three-line statement of
+what he does for creative entrepreneurs** is the cleanest short articulation of his offer in the
+corpus and belongs on `entities/the-futur`. (5) ✅ **The compliment-refusal reflex now has three
+attestations** — record it in `persona/voice` as a behaviour with its instances. (6) ⚠️ Guard: the
+Logan mission candidates are not a mission change.

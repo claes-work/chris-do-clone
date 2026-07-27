@@ -3897,3 +3897,100 @@ McLaren: net-not-gross, actualise-jobs, stay-out-of-the-results, maybe-is-the-wo
 pain, expertise-is-your-questions. Fact guard: he overstates the Alpha Centauri distance — correct or omit.
 Carried: Brand Lab reconciliation; `tom-ross.md`; two earlier Priestley episodes; **Mo** and **Jule Kim**
 as entity candidates; **watch every batch for re-uploads.**
+
+## [2026-07-27] ingest | yt batch (@thefutur, 5) — the pre-Blind moment, and the fence pays off
+
+**Stage B (P2), batch of 5.** All five fetched cleanly (195KB) and read in full. Ledger 821 → **826 L2**.
+**Both carried-debt items cleared this iteration** (below).
+
+| id | date | what it is |
+|---|---|---|
+| `yt-DeriW0XyR_k` | 2024-06-18 | Tim Williams on pricing — **guest-primary, fenced** |
+| `yt-bjncTuOgd7A` | 2024-06-20 | ★★ **Ian Dawson — the pre-Blind moment** |
+| `yt-mVAuwv_UHlg` | 2024-06-23 | ⚠️ **NOT CHRIS** — Matt Essam, 4th instance, **surname confirmed** |
+| `yt-EekKQvQUaUM` | 2024-06-25 | ★★ the asymmetry of failure |
+| `yt-OFoklpI-ndc` | 2024-06-28 | ★★ the three traits, amended |
+
+**1. ★★ A biography landmark: what happened immediately before Blind.** Freelancing at **Novacom**
+(*"the hottest broadcast design studio probably in the world, at least in LA"*) and, by his own account,
+out of his depth — *"I'm doing square pixels when it should be non-square. **I'm just messing everything
+up.**"* Ian Dawson offers him full-time at **~$50,000**, which was *"10K more than I was making."* Chris
+counters at **$85,000**, and gives the reason plainly: **Cole & Weber had already offered him that** —
+*"you got to match my last offer."* Ian's reaction is preserved: *"his eyes opened up… **you just graduated
+from school, friend. People don't come out of school and make that kind of money.**"* Then Chris leaves
+anyway, before a counter can land: *"**things move fast, Ian. I'm starting my own company.**"* Ian says
+good luck; Chris records his own suspicious reading of it — *"I felt like he was saying: **we'll see you
+come crawling back in a few weeks.**"*
+
+This **reframes the founding**. The corpus already had Blind's origin; it did not have the fact that he
+turned down a raise and a title at the best studio in the city to do it.
+
+> ⚠️ **RECONCILIATION FLAGGED, NOT RESOLVED — two pay tracks.** The rate arc
+> ([[2024-03-12-yt-OREd4PPWCyY]]) is **freelance day rates**: $30/hr → $300/day → … → $700/day. These
+> numbers are **annual salaries**: $40K held, $50K offered, $85K countered and previously offered. Not in
+> conflict, but **not the same series** — a careless merge at synthesis would manufacture a false
+> chronology. Also new: his **poker nights** were where Ian Dawson first met **Kyle Cooper**, and Chris
+> made the follow-up introduction that led to Ian's eight years with him.
+
+**2. ★★ The strongest self-stated limit on his own personal-brand advocacy.** From `yt-EekKQvQUaUM`:
+*"**a business brand can be rehabilitated. Oftentimes a personal brand — once you f*** up, you're kind of
+done.**"* Everything else in the corpus argues *for* building one; this is the asymmetry that should sit
+beside it so the persona can give the honest version. The same page has the structural comparison (*"a
+personal brand is one touchpoint: it's you… a business has a place"*), a well-observed **Apple vs.
+Microsoft store** contrast, and the culpability distinction: *"**you can be forgiven if you have low
+self-awareness. But if you know, and you deliberately hide — that's creating a gap.**"*
+
+**3. ★★ The April framework amended, three days later.** `yt-OFoklpI-ndc` restates the three traits and
+adds three things: **"magnetic people make media"** as a stated **precondition** (publishing is not a
+consequence of magnetism, it is a prerequisite); a **second, better definition** — *"self-confidence is a
+**quiet love of oneself that creates space for other people to love themselves too**"* — which should be
+recorded **alongside** April's *"a belief in your skills to solve a problem"* rather than replacing it;
+and the **dependency chain** wiring the three traits together (*"I can only be vulnerable if I feel safe
+and confident about who I am"*). Promote as an **amendment to F45**, not a new framework.
+
+**4. ★ The fence paid for itself in one batch.** `yt-mVAuwv_UHlg` is the **fourth** instance of the
+recurring Chris-absent slot, and the `SUBJECT.md` fence added last iteration caught it immediately. Better:
+**he says the surname on air** — *"my name is **Matt Essam**"* — which **resolves an `attribution:
+uncertain` flag** that had been carried across three pages since December 2023.
+
+**Carried debt cleared (both items, after two iterations of carrying them):**
+
+- **`wiki/entities/matt-essam.md`** created — consolidates all four instances, lists the five recognition
+  tells, and records why the slot is the channel's clearest speaker-attribution hazard: the titles are
+  generic and on-topic, and his themes (outreach, planning, agency growth) **overlap areas where Chris has
+  his own documented positions**, so an accidental promotion would not look obviously wrong.
+  `SUBJECT.md` updated with the confirmed surname and a pointer to the page.
+- **`wiki/entities/tom-ross.md`** created — three appearances, his frameworks fenced, and the **convergence
+  note** that matters: Ross's *"20 slots, no discount"* and Priestley's staging-area sequence are the same
+  mechanism arrived at independently, and Chris applies both to the Pro Group in the same period. **Record
+  the convergence; don't let the combination read as his invention.** His contribution is the honesty
+  constraint.
+
+Still owed from pass 13: **the five-way Brand Lab reconciliation** — the last remaining item, and it needs
+a synthesis pass rather than an ingest iteration.
+
+**Pipeline state after this batch:** `@thefutur` P1:0, **P2:254**, P3:44; `@TheFuturAcademy` P3:72;
+shorts 860; L2=**826**, L3=0; synthesis debt **4/10**; persona v15.
+
+> **Next iteration: Stage B (P2).** 254 open P2 rows.
+
+Synthesis notes: genuinely new this batch — (1) ★★ **the Novacom offer, the $85K counter and the decision
+to leave**, for `persona/biography.md` and [[wiki/entities/blind]] — **with the two-pay-track
+reconciliation note attached**; (2) ★ the **poker nights** as a network mechanism and the **Kyle Cooper
+introduction**; (3) ★★ **the asymmetry of failure** (business brands rehabilitate, personal brands often
+don't) — promote it *with* F45, since it is the honest limit on that framework; (4) ★★ the **structural
+comparison** (one touchpoint vs. collective; name and face vs. logo and place); (5) ★★ the **culpability
+distinction** (not knowing is forgivable, knowing and hiding is not); (6) ★ the **Apple store
+observation** — hiring for range, everyone can transact, never being sold to — as a concrete brand-as-
+experience example; (7) ★★ **"magnetic people make media"** as a precondition; (8) ★★ **self-confidence as
+a quiet love of oneself that creates space for others** — record beside, not instead of, the April
+definition; (9) ★★ the **three-trait dependency chain**; (10) ★ **disprove your own idea / attack your own
+ideas with the rigour you'd give someone else's tweet**; (11) ★★ **"billing by the hour is malpractice"**
+(**co-created with Tim Williams** — flag it) and ★ the **local-proof objection-killer** (*"somebody in your
+town doing worse work is already winning with this"*) plus the identity diagnosis and the non-coercive
+close. Fenced this batch: **Tim Williams** (paradigm-precedes-practice, Lister, *"time is not a cost, time
+is a constraint"*, the ten-year prediction — **add him to `influences` with a guard**, his material is
+close enough to Chris's doctrine to be absorbed by accident); **Ian Dawson** (industry history);
+**Matt Essam** (everything). Carried: **the five-way Brand Lab reconciliation** (now the only outstanding
+pass-13 item); two earlier Priestley episodes and two earlier Tom Ross episodes as ledger candidates;
+**Mo**, **Jule Kim** and **Anneli** as entity candidates; **keep checking every batch for re-uploads.**

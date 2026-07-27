@@ -68,10 +68,11 @@ STATUS: INITIALIZED (2026-07-14)
   Greg Gunn, Melinda Livsey) may not feature Chris at all. Only Chris-attributed
   material trains the persona; recurring colleagues get wiki/entities/ context pages.
 - ⚠️ **@thefutur carries a recurring Chris-absent teaching slot (2023–2024) — fence it on sight.** A
-  solo-to-camera UK agency coach who signs off *"my name is Matt…"* (captions garble the surname;
-  **likely Matt Essam**, `attribution: uncertain`) teaches agency/productivity content under the channel
-  brand with no Chris involvement at all. Three attested instances: `sM5CekilqDk` (2023-12-08),
-  `KfKpmV9uFx4` (2024-01-19), `w3-yw4_n_Vo` (2024-03-07). **Tells:** first-person "our clients / our
+  solo-to-camera UK agency coach — **confirmed as MATT ESSAM** from his own on-air sign-off in
+  `mVAuwv_UHlg` (2024-06-23) — teaches agency/productivity/outreach content under the channel brand with
+  no Chris involvement at all. **Four** attested instances: `sM5CekilqDk` (2023-12-08),
+  `KfKpmV9uFx4` (2024-01-19), `w3-yw4_n_Vo` (2024-03-07), `mVAuwv_UHlg` (2024-06-23). Context page:
+  `wiki/entities/matt-essam.md`. **Tells:** first-person "our clients / our
   team" framing, a named planning system (*creative life planning system*, MAP acronym), a downloadable
   planner CTA, and Chris never speaking. File these **L2 do-not-train** with a fenced summary so the
   ledger stays complete — never let this material reach `persona/`. Expect more of them in the 2024 P2

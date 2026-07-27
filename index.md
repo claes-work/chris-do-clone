@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-27 (ingest yt batch @thefutur, 5 → 821 L2 — ★★ **the three exit indicators** (his pivot-timing framework, evidenced by his own two pivots) and ★★ **behind-the-camera → in-front-of-camera** with the $40k-video→phone collapse; *"one teacher, two students"* traced to Jose Caballer; ⚠️ **three republished older talks** caught and dated to the talk, one of which is Keir McLaren teaching rather than Chris)_
+_Last updated: 2026-07-27 (ingest yt batch @thefutur, 5 → 826 L2 — ★★ **the pre-Blind moment** (Novacom's offer, the $85K counter, leaving before a counter landed) and ★★ **the asymmetry of failure** (a personal brand often can't be rehabilitated); *"magnetic people make media"*. **Carried debt cleared**: `matt-essam.md` and `tom-ross.md` created, Essam surname confirmed on air and the SUBJECT.md fence updated)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **821 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2024-06-16] + the 2026-07-21 fresh upload; synthesized through batch 123 → persona **v15**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **826 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2024-06-28] + the 2026-07-21 fresh upload; synthesized through batch 123 → persona **v15**).
 
 ## Topics
 
@@ -30,6 +30,8 @@ _Last updated: 2026-07-27 (ingest yt batch @thefutur, 5 → 821 L2 — ★★ **
 - [wiki/entities/blair-enns.md](wiki/entities/blair-enns.md) — INFLUENCE/CONTEXT: Win Without Pitching / Pricing Creativity author; 4+ on-camera co-host appearances; his frameworks (MLE, Blairtopia, retreat-and-follow) are HIS, do NOT train the persona.
 - [wiki/entities/thefutur-youtube.md](wiki/entities/thefutur-youtube.md) — the main channel: eras, formats, ID UC-b3c7kxa5vU-bnmaROgvog.
 - [wiki/entities/kier-mclaren.md](wiki/entities/kier-mclaren.md) — CONTEXT: Chris's longtime business consultant (~10–15 yrs); doubled Blind's revenue; MASTERMIND series host (Eps 1–10); ★★ the two causal interventions ("you're hiding in your room"; get-the-job-done).
+- [wiki/entities/tom-ross.md](wiki/entities/tom-ross.md) — CONTEXT: Design Cuts CEO / Learn Community; 3 appearances; his community frameworks are HIS — do NOT train.
+- [wiki/entities/matt-essam.md](wiki/entities/matt-essam.md) — ⚠️ DO-NOT-TRAIN: the recurring **Chris-absent** @thefutur teaching slot (4 instances); fence by name.
 - [wiki/entities/daniel-priestley.md](wiki/entities/daniel-priestley.md) — INFLUENCE/CONTEXT: *Oversubscribed*/*Key Person of Influence*/*Scorecard Marketing*; 3 appearances + the most-cited external framework of the 2024 material; his frameworks are HIS — do NOT train. Records the ScoreApp affiliate disclosure and the recording-date trap.
 - [wiki/entities/kyle-cooper.md](wiki/entities/kyle-cooper.md) — INFLUENCE: title-design legend (Se7en); Chris's R/GA mentor (~late-1990s) — his first title-design exposure.
 - [wiki/entities/karin-fong.md](wiki/entities/karin-fong.md) — INFLUENCE: main-title designer (Imaginary Forces); shared Kyle Cooper / R/GA lineage with Chris.

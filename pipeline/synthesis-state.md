@@ -6,14 +6,59 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **P2 long-tail through ingest batch 152 (L2=898) — all L2 source pages 2014 → 2025-03-01 (@thefutur; into the February-2025 era).** Synthesis passes **16 + 16b** ran 2026-07-27 → system-prompt **v18**. ✅ **Pass 16b closed the gap pass 16 declared: all 7 topic hubs updated, 1 entity created and 4 deepened.** No synthesis work is outstanding.
+Synthesized through: **P2 long-tail through ingest batch 163 (L2=914) — all L2 source pages 2014 → 2025-04-02 (@thefutur; into the April-2025 era).** Synthesis pass **17** ran 2026-07-27 → system-prompt **v19**. ⚠️ **Pass 17 was PERSONA-ONLY by design** (beliefs, voice, biography, system-prompt). **Topic hubs and entity pages for this era are still outstanding — pass 17b.**
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
 
-_(none — passes 16 and 16b both done; **synthesis is fully caught up through batch 152 / L2 898.** Next checkpoint: after ~10 more ingest batches or an era boundary.)_
+- [ ] **pass 17b — topic hubs + entities for the March-2025 era (batches 153–163).** Pass 17 scoped itself to
+  `persona/` and declared this remainder up front. **Outstanding hubs:** `business` (sell money, the two B's,
+  the subscription pivot / pain relief / arbitrage, entrepreneurship as a disease, the black sheep + trade-
+  roles-never-merge, intentional incompetence, the tyranny of the how, franchisee, year 30 / two eight-figure
+  businesses); `sales-clients` (the "You know how…" formula, the metric-articulation condition + the Four
+  Agreements honesty clause, the client is more afraid of you, sometimes the client is right, the body cannot
+  lie, the two failure modes of questions, the Kier pitch story WITH numbers); `pricing` (pricing as empathy
+  ⚠️ **with the self-argued counter**, say-the-price-first-when-you-know, retainer vs subscription + the Ron
+  Baker credit, divide-by-ten); `branding` (you to the power of you, the infinite brand + the authenticity
+  gap, corporate vs personal / voice of many vs voice of one, turn your weakness into the asset, the three
+  stories); `content-strategy` (Pixar rule #1, the nuclear arms race on fakery, stop making ads, write first,
+  50 posts, creativity is one small tweak + Apple, cultural currency, tension architecture); `mindset`
+  (feedback = detailed instructions + the reply template + the 99-to-1 problem, Jim Rohn's winter season,
+  opportunities are distractions, empathy defined against the error + the crying theory, demonstrate-don't-
+  label + the train deflation, who told you you can't do that, the non-violent thread as ONE entry);
+  `design-craft` (the portfolio as a system was done in 16b — check for anything new). **Entity pages:**
+  create **Maria Ross** and **Andrea Sampson**; deepen **kier-mclaren** (done in-batch: $250K, seek progress
+  over perfection, the non-violent half, the pitch numbers), **the-futur** (2.6M followers), **blind**
+  ($2.1M/yr, 20%→75%+ win rate, year 30).
 
 ## Done checkpoints
+
+- [x] **2026-07-27 · pass 17 · → system-prompt v19** — **P2 March-2025 era (batches 153–163, L2 898 → 914).
+  PERSONA-ONLY BY DESIGN; hubs and entities deferred to 17b and declared up front.**
+  **`beliefs.md` 240 → 262 sources**, +20 blocks: **sell money + the two B's**; **pricing as empathy**
+  ⚠️ with the counter he argues himself; **the "You know how…" formula**; **feedback = detailed instructions
+  on how to succeed** + the reply template + the 99-to-1 problem; **you to the power of you** + **the
+  authenticity gap as a measure**; **Pixar rule #1**; **the black sheep and the five family roles**;
+  **entrepreneurship as a disease** (both halves); **Jim Rohn's winter season**; **opportunities are
+  distractions**; **the subscription pivot**; **the client is more afraid of you / sometimes the client is
+  right**; **say the price first when you know**; **a cluster of sharp small rules**; **empathy defined
+  against the error + the crying theory**; ✅✅ **the non-violent thread across four sources as ONE entry**;
+  **turn your weakness into the asset**; **creativity is one small tweak**; **stop making ads / write first /
+  50 posts**; **corporate vs personal + the three stories**; ⚠️ **retainer vs subscription with the Ron Baker
+  credit**; **innovation/efficiency + the franchisee exception**.
+  **`voice.md` 210 → 238 sources**: ✅✅ **the abrasive/warm question settled on THREE legs** (his
+  explanation, his consistency argument, and **an empathy author's unprompted reclassification**);
+  ✅✅ **the Daywalker / bilingual / cognitive-lens framings MERGED into one self-concept in three
+  registers**; **how he interviews**, with external corroboration; **arguing both sides recorded as a
+  habit**; and **~90 new quotes**.
+  **`biography.md` 130 → 148 sources**: **the weird-art-kid passage**; ★★★ **why he does this work**
+  (*"and it hurts me"*); **the $250,000 coaching figure**; **the pitch story with numbers** ($2.1M/yr,
+  20%→75%+, doubled in under a year, and *"at least we were considered"*); **the risk asymmetry with his
+  wife**; ✅✅ **the cost ledger for bias-toward-action**; **the self-sabotage confession**; ⚠️ **the vacation
+  disclosure incl. the romantic-relationship extension**; dated markers; ⚠️ **the 52-vs-53 discrepancy**.
+  **`system-prompt.md` 898 → 914 sources, v18 → v19**: full doctrine block + **8 new guards**.
+  ⚠️ **Decisions honoured**: the age discrepancy recorded not resolved; **safe-space vs unsafe-space held
+  apart**; **Sally Hogshead credited**; **arguing both sides framed as characteristic, not confusion**.
 
 - [x] **2026-07-27 · pass 16b · (no version bump — v18 stands)** — **closed the gap pass 16 declared up front.**
   **TOPIC HUBS (all 7 now current):** `business` **§59–64** (innovation-vs-efficiency with *t-boned on the

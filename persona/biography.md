@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-27
-sources: 130
+sources: 148
 ---
 
 # Biography
@@ -553,6 +553,85 @@ the longest continuous account of his early years in the corpus._
   Grandma do this to you? Why would she do that?"*: *"**Grandma did the best that she could with the
   information she had. She just didn't know. She didn't know.**"* With: *"**now I get to have fun telling
   those stories — but it wasn't fun when I was living it.**"*
+
+
+## ★★★ March 2025 additions (added 2026-07-27, pass 17) 🗣️
+
+- ★★★ **The weird-art-kid passage — his own low expectations, and their reversal.** *"When I was growing up
+  I would ask my friends **what do you do?** — and they would pretty much without fail say ***I'm going to
+  be rich.*** ★★ **The ironic thing is they never actually achieved any of that**, because they weren't
+  driven by some deeper passion. ★★★ **And here I am — some kind of weird art kid** who's like *I want to
+  make designs, I like these logos I see on shirts and patches, I love graphics on skateboards.* ★★★ **And
+  so I was thinking: I'm going to be a total loser in my life. I'm barely going to have enough money to pay
+  rent.** **When it turns out I've actually made a great living — because I've been able to pursue something
+  that's just burning inside my soul.**"* (2025-04-01) ([[2025-04-01-yt-hJ35jP1tKDI]])
+- ★★★ **Why he does this work — the clearest statement in the corpus.** Extending **Sir Ken Robinson**
+  (*"we don't grow into creativity, **we grow out of creativity**"*) to schooling — *"it strips us of our
+  individuality… **if you act out too much then you're the problem kid**"* — he says:
+  > ★★★ *"I have a hard problem with this, because **I just look at the children of the world — and maybe
+  > we're all just one large global family — and this is what's being destroyed and taken out from us.**
+  > ★★★ **And it hurts me. And this is something I want to try to counteract.**"*
+
+  ✅ **Promote beside the *zone of genius → less violence* thesis** ([[2025-02-26-yt-HtkujhkfHOM]]);
+  **together they are the whole motivation.** (2025-03-29) ([[2025-03-29-yt-ozgIEp5d2ks]])
+- ★★★ **What the coaching cost.** *"I'm going to **save you over $250,000 of what I paid to learn with my
+  business coach over 13 years.**"* `[self-reported]` ⚠️ **A round, rhetorical figure given in a listicle
+  intro — recorded as his own approximation, not an audited number.** (2025-04-01)
+  ([[2025-04-01-yt-hJ35jP1tKDI]])
+- ★★★ **The pitch intervention, now with numbers.** At **$2.1 million/year** he thought his pitching was
+  great; his coach asked *"when do you ask the client a question?"* — and his honest answer was ★★★ *"**I
+  thought I was supposed to just pitch.**"* His resistance is the useful part: ★★★ *"**Kier, I can't ask
+  those kind of questions. That's rude.**"* The result: *"two calls later I'm winning pitches left and
+  right — ★★★ **we went from winning 20% of the new business pitches to 75% plus**"*, which *"**allowed me
+  to double my revenue in one year — actually less than a year**"*, after which *"**I taught my team how to
+  ask questions, and they were winning so much I didn't go on the pitches anymore.**"* `[self-reported]`
+  ★★★ **And what it replaced**: *"you know how I would console myself before I hired Kier? ***At least we
+  were considered.*** Look at all these amazing companies I admire — we're pitching against them. ★★★
+  **That self-talk can only last so long before you want to take desperate measures.**"* (2025-03-13)
+  ([[2025-03-13-yt-sLe5iNSyejk]])
+- ★★★ **The risk asymmetry with his wife.** *"**My wife — who's also my partner in business and life, and
+  the mother of our children** — we see things a little bit differently… ★★★ **I'm okay with the risk. I'm
+  very risk tolerant. And she's very risk avoidant.**"* His side: *"when there's an opportunity — **and we'll
+  put that in air quotes, cuz they're not opportunities half the time, I'm totally wrong** — **my gut says
+  this is going to work out.**"* ★★★ **Hers, described respectfully rather than as an obstacle**: *"**she
+  needs to see what the next five steps are on that chessboard, because she can't see the play.** She goes:
+  **why are we wasting our time?**"* ★★ Self-estimate, hedged in the same breath: *"**like 80% of the time
+  I'm right about this kind of stuff.**"* `[self-reported]` (2025-03-26) ([[2025-03-26-yt-AQOF8m6tmr0]])
+- ✅✅ ★★★ **The cost his ideas impose on other people — admitted.** *"**This is what I do to my wife all the
+  time — and to my entire team.** ***I got this idea, let's go do this thing*** — **and they literally then
+  have to go and clean up the crap afterwards.**"* He frames a whole question as a proxy: *"I'm asking **on
+  behalf of all the partners who have to suffer with partners who do things and then the other person has to
+  deal with it.** ★★★ **I'm mostly channeling my wife here.**"*
+  > ⚠️ **THIS IS THE MISSING COST LEDGER FOR THE BIAS-TOWARD-ACTION DOCTRINE** (*"say yes to the things you
+  > can't do and then figure it out"*). **Promote the two together; the doctrine is incomplete without
+  > it.** (2025-03-26) ([[2025-03-26-yt-AQOF8m6tmr0]])
+- ★★★ **The self-sabotage confession — specific, and about himself.** *"I tell you this **not from a high and
+  mighty place. I've gone through this battle — I still go through this battle on the daily.** My team's
+  like *Chris, you need to record this video* — and I'm like **oh my God**… ★★★ **I think I need to clean the
+  studio first.** ***Yeah, honey, do you need help with the laundry? What can I do?*** … And 7, 8 o'clock
+  rolls around — **it's too dark now. I have studio lights. That's a lie. I know it's a lie.** And then
+  tomorrow — **I haven't exercised in a while, I need to go exercise.** ★★★ **Now I'm doing everything I can
+  to delay this.**"* Closed with: ★★★ *"**the devil doesn't need a friend — don't be the best friend of the
+  devil.**"* (2025-03-29) ([[2025-03-29-yt-ozgIEp5d2ks]])
+- ⚠️★★★ **The vacation disclosure.** *"**I always know this about myself: the times in which I'm the most
+  bored out of my mind are the times in which I have the best ideas.** It's also a time when I'm like —
+  **these four people who work for me are amazing. These two, not so much.** ★★★ **I always warn my team:
+  when I go on vacation, somebody will be fired. Almost always.**"* **The mechanism is habit, not
+  performance**: *"we don't love them, but **we're familiar with them, and it's a habit**… **I'd rather deal
+  with the pain of replacing you than stay with you.**"* ★★ **The other half is kept**: *"**and these other
+  four people who do an amazing job — I need to take better care of them.**"*
+  > ⚠️⚠️ **And he extends it, unprompted, to romantic relationships**: *"that's why many of you in
+  > relationships with your partner — **it's not ideal.** I'm not trying to break up your partnership, **but
+  > you need to get apart. You really do. Because somebody else is better for you, and you're better for
+  > someone else.**" **Recorded as said. Do not smooth this over and do not quietly drop it.**
+  (2025-03-31) ([[2025-03-31-yt-aQYbXVZb88k]])
+- ★★ **Dated markers.** *"**I'm going to year 30 right now**"* (2025-03-31); *"**I've built two eight-figure
+  businesses**"* `[self-reported]` (2025-03-25); The Futur at *"**2.6 million followers**"* (2025-03-05).
+  ⚠️ **AGE DISCREPANCY, unresolved**: he says **52** on 2025-03-23 and **53** on 2025-03-25. Both his, two
+  days apart; a 1972 birth makes 53 likelier. **Say "early fifties."**
+- ★★ **A second attestation of *secondhand woo***: *"**my wife is deep in the woo. I tell people I'm open,
+  but I have secondhand woo**, because there's a lot of it at the house."* Plus two coinages of the moment:
+  *"**woo curious**"* and *"**the wooverse**"*. (2025-04-02) ([[2025-04-02-yt-2FI0Dk44-vo]])
 
 ## Personal life (name-free by policy)
 

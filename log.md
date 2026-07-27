@@ -7614,3 +7614,90 @@ about his wife; (3) ✅✅ **the guest's expert reclassification of his blunt ma
 it, don't label it** and ★★★ **the train-at-the-station deflation**; (5) ★★ **"emotion through the cognitive
 lens"** as a third register of the Daywalker; (6) ✅ **secondhand woo, twice attested — settled.**
 ⚠️ **Create entity pages for Maria Ross AND Andrea Sampson.**
+
+## [2026-07-27] lint | synthesis pass 17 — March-2025 era (batches 153–163, L2 914) → system-prompt v19
+
+**Stage S.** Debt 10/10. **Scope declared up front and honoured: `persona/` only.** Topic hubs and entity
+pages are **pass 17b**, written into the state file as a pending checkpoint.
+
+### ✅✅ Three things closed, all of them long-running
+
+**1. The abrasive/warm question is settled — on three independent legs, and the third is from outside.**
+Pass 16 resolved it with **his own explanation** (*"cold water, or electricity… **until they get past the
+first couple of layers**"*). Then came **his consistency argument** (*"sometimes me on camera is not
+somebody you like… **well, I was a prick on camera too. So there you go**"*). Now an **author who writes
+about empathy for a living** hears him strip the framing off an unreasonable request and reclassifies it,
+unprompted:
+
+> ★★★ *"**Even when you respond in that sort of tough way — that's highly empathetic. That requires
+> curiosity, that requires active listening.**"*
+
+**Inside view, self-consistency, and an expert outside view all agree.** The v19 guard now says plainly:
+**the bluntness IS the attention, not a lapse from it** — *do not apologise for it, and do not perform
+softness you don't have.*
+
+**2. One self-concept, three registers — merged rather than multiplied.** The **Daywalker** (*"I help
+left-brainers think right"*), **bilingual** (*"I speak the language of art and the language of business"*,
+credited to Todd McFarlane), and **emotion via the cognitive lens** (*"I highly identify as a logical
+person… I'm not sure"*) **are the same idea in different words.** The guard forbids presenting them as
+separate insights.
+
+**3. The non-violent-communication thread is complete across four sources**, and the fourth **defines the
+word**: *"I don't mean *I hate you* — **but violent in that we're PREJUDGING, we're PRE-DIAGNOSING, and
+we're making a lot of assumptions**"* → *"**strip out all the opinions and talk about things for the way
+they are**"* — **especially under pressure, because that's when it's hardest.** This is Kier McLaren's
+*"say what you think"* with the half he flagged as unfinished finally supplied.
+
+### What changed
+
+- **`beliefs.md` 240 → 262 sources**, +20 blocks: **sell money + the two B's**; **pricing as empathy**
+  ⚠️ with the counter he argues himself; **the "You know how…" formula**; **feedback = detailed instructions
+  on how to succeed** with the reply template and the 99-to-1 problem; **you to the power of you** and **the
+  authenticity gap as a measure**; **Pixar rule #1**; **the black sheep and the five family roles**;
+  **entrepreneurship as a disease**; **Jim Rohn's winter season**; **opportunities are distractions**; **the
+  subscription pivot**; **the client is more afraid of you**; **say the price first when you know**; a
+  cluster of **sharp small rules**; **empathy defined against the error** and **the crying theory**;
+  ✅✅ **the non-violent thread as one entry**; **turn your weakness into the asset**; **creativity is one
+  small tweak**; **stop making ads / write first / 50 posts**; **corporate vs personal** and **the three
+  stories**; ⚠️ **retainer vs subscription with the Ron Baker credit**; **the franchisee exception**.
+- **`voice.md` 210 → 238 sources**: the three-leg reconciliation, the merged self-concept, **how he
+  interviews** with external corroboration, **arguing both sides recorded as a habit**, and **~90 quotes**.
+- **`biography.md` 130 → 148 sources**: **the weird-art-kid passage**; **why he does this work**; **the
+  $250,000 coaching figure**; **the pitch story with numbers**; **the risk asymmetry with his wife**;
+  ✅✅ **the cost ledger for bias-toward-action**; **the self-sabotage confession**; ⚠️ **the vacation
+  disclosure**.
+- **`system-prompt.md` 898 → 914 sources, v18 → v19**: the full doctrine block plus **8 new guards**.
+
+### Judgement calls worth naming
+
+- ⚠️ **Two things were kept whole rather than tidied.** *Entrepreneurship is a disease* carries **both**
+  the competitive candour (*"I don't want so much competition"*) and the kind half (*"it's okay if you
+  quit"*). **The vacation disclosure** carries its mechanism, its care-for-the-good-ones half, **and the
+  unprompted extension to romantic relationships** — with a guard that says: **own it as said, don't soften
+  it retroactively, and don't volunteer it as advice.**
+- ⚠️ **Arguing both sides is now framed as characteristic, not confusion** — in his own words: *"I'm going
+  to argue both sides of this — **I tend to do this a lot.**"* On pricing the persona holds *charge
+  according to impact* **and** *publish a floor*.
+- ⚠️ **The 52-vs-53 age discrepancy is recorded, not resolved** — two days apart, both self-reported. The
+  guard says *"early fifties."*
+- ⚠️ **"Create safe space" (coaching a report) is explicitly NOT a retraction of "I create unsafe space"
+  (teaching a room).** Different objects; both kept.
+- ✅ **Sally Hogshead is credited** for *different is better than better*, correcting an uncredited use a
+  week earlier — and **his admission that he cites Sun Tzu without having read him is preserved**.
+- ★ **The clearest motivation statement in the corpus is now in the biography**: *"I just look at the
+  children of the world… **and it hurts me. And this is something I want to try to counteract.**"* — filed
+  beside *zone of genius → less violence*.
+
+### ✅ verify-no-leak
+
+*"irresistible offer"*, *"prospect pathway"*, *"clarity call"*, *"logical next step"*, *"control the
+frame"* → **zero hits** across `persona/` and `wiki/topics/`. The three documented known-good exceptions
+(*pre-frame* ×2, *cost of inaction*) stand.
+
+**State:** L2 **914**; high-water mark **batch 163**; persona **v19**; debt reset to **0/10**.
+⚠️ `pass 17b` is queued as a pending checkpoint.
+
+> **Next iteration: Stage S again — pass 17b** (hubs + entities, including new pages for **Maria Ross** and
+> **Andrea Sampson**), then back to Stage B.
+
+Synthesis notes: none — this was the synthesis pass.

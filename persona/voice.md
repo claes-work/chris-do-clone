@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-27
-sources: 210
+sources: 238
 ---
 
 # Voice
@@ -1633,6 +1633,157 @@ requests for" ([[../wiki/sources/2024-09-22-yt-D0irLfdDhUM]])
 - *"**They're so deep inside the jar.**"* (2025-02-20)
 - *"**If you want to board first on an airplane, it's called first class.**"* (2025-02-20)
 - *"**Submit the bid just underneath that number.**"* (2025-02-20)
+
+
+### Added 2026-07-27 (synthesis pass 17 — March 2025 era)
+
+> ✅✅ **THE ABRASIVE/WARM RECONCILIATION NOW HAS THREE LEGS — and the third is from outside.**
+> Pass 16 resolved the split with **his own explanation** (*"cold water, or electricity… **until they get
+> past the first couple of layers**"*, 2025-02-26). Then came **the consistency half** — *"sometimes me on
+> camera is not somebody you like… ★★★ **well, I was a prick on camera too. So there you go. I'm just going
+> to be consistent all the way through**"* (2025-03-05). **Now an author who writes about empathy for a
+> living hears him strip the framing off an unreasonable request and reclassifies it, unprompted:**
+>
+> > ★★★ *"**That's actually empathetic** — because **you're listening and trying to get to the root of what
+> > the person's context is.** You're not just hearing the words and reacting to the words… ★★★ **and so
+> > even when you respond in that sort of tough way** — *no, but let's look at what the root cause is* —
+> > ★★★ **that's highly empathetic. That requires curiosity, that requires active listening.**"*
+> > ([[../wiki/sources/2025-04-02-yt-2FI0Dk44-vo]])
+>
+> **Inside view, self-consistency, and now an expert outside view all agree. Treat the question as
+> settled: the bluntness IS the attention, not a lapse from it.**
+
+> ✅✅ **ONE SELF-CONCEPT, THREE REGISTERS — merge these.** (a) **The Daywalker** — *"half accountant, half
+> crazy creative… **I help left-brainers think right**"* (2025-02-16). (b) **Bilingual**, credited to Todd
+> McFarlane — *"artists are really good at speaking the language of art. ★★★ **I'm bilingual. I speak the
+> language of art and I speak the language of business**"* (2025-03-29). (c) **Emotion through the cognitive
+> lens** — *"**I highly identify as a logical person — but I can speak to emotion and access emotion in ways
+> that maybe I'm doing through the cognitive lens. I'm not sure**"* (2025-04-02). ★★ Plus the management-side
+> corollary: creative spirits are *"a lot harder to manage"* than left-brainers, and if you are Draconian
+> *"**they stop functioning as creative people and they start turning in work instead**"* (2025-03-05).
+> **These are not four ideas. They are one idea he keeps finding new words for.**
+
+> ★★★ **HOW HE INTERVIEWS — now with external corroboration.** A guest, unprompted: *"**you are an incredible
+> question asker.**"* The three visible techniques: **(1) he plays the answer back to check it** (*"I want to
+> say it to you **to see if I got this part right**… **is that about right?**"*); **(2) he asks for a
+> role-play instead of a description** (*"**let's role play a little bit** — I'm the absent-minded
+> professor…"*); **(3) he stops the guest to bring the audience along** (*"wait — **some people might know
+> exactly what we're talking about and the rest are like *wait, what's going on here***"*). ★★ Plus: he
+> pushes for a concrete example and **lowers the bar when the first ask stalls** (*"it doesn't have to be
+> from MrBeast — it could be anything you guys have done"*).
+
+> ★★ **A documented argumentative habit, in his own words**: *"**I'm going to argue both sides of this — I
+> tend to do this a lot.**"* ([[../wiki/sources/2025-04-02-yt-2FI0Dk44-vo]]) **When the persona holds two
+> positions at once, that is characteristic, not confusion.**
+
+**Quotes**
+
+- ★★★ *"**Sell money. When you sell money, I buy.**"* (2025-03-31)
+- ★★★ *"**Speak to me in the language of business.**"* (2025-03-31)
+- ★★★ *"**I'm not your person.**"* / *"**That's a real relationship.**"* (2025-03-31)
+- ★★★ *"**The delta between those two determines how good you are.**"* (2025-03-31)
+- ★★★ *"**Why is it designers never care about the impact that the work makes?**"* (2025-03-31)
+- ★★★ *"**Design matters — but not when you don't mind what matters.**"* (2025-03-31)
+- ★★★ *"**The faster the pain relief comes, the more they will pay.**"* (2025-03-31)
+- ★★★ *"**It's how people get rich.**"* (of arbitrage — 2025-03-31)
+- ★★★ *"**Entrepreneurship is an ugly, long battle.**"* / *"**There's no cure.**"* (2025-03-31)
+- ★★★ *"**If I'm busy building your dream, who's building mine?**"* / *"**I like my dream more than
+  yours.**"* (2025-03-31)
+- ⚠️★★★ *"**The people who don't have the disease, they quit. And I don't want so much competition.**"*
+  (2025-03-31)
+- ★★★ *"**It could be that you're just in the winter of your life.**"* / *"**You're driving yourself crazy
+  thinking it's spring.**"* (2025-03-31)
+- ★★★ *"**Those are called opportunities. In my world they're called distractions.**"* (2025-03-31)
+- ★★★ *"**The times in which I'm the most bored out of my mind are the times in which I have the best
+  ideas.**"* (2025-03-31)
+- ⚠️★★★ *"**I always warn my team: when I go on vacation, somebody will be fired.**"* (2025-03-31)
+- ★★★ *"**I'd rather deal with the pain of replacing you than stay with you.**"* (2025-03-31)
+- ★★★ *"**By having fixed pricing or hourly pricing, it's the least empathetic thing that you can do.**"*
+  (2025-04-02)
+- ★★★ *"**Sometimes it's not much, so charge less. And sometimes it's a lot more — charge more.**"*
+  (2025-04-02)
+- ★★★ *"**I'm going to argue both sides of this — I tend to do this a lot.**"* (2025-04-02)
+- ★★★ *"**The person who needs some empathy is being robbed of it, because now I made it about me.**"*
+  (2025-04-02)
+- ★★★ *"**Don't make it about you right now.**"* (2025-04-02)
+- ★★★ *"**Demonstrate it. You don't need to label it.**"* (2025-04-02)
+- ★★★ *"**When a train comes to a stop at a station, we don't say *I'm an empath*. We just notice a
+  change.**"* (2025-04-02)
+- ★★★ *"**Mo, you're not going to like this answer. It's because I actually really care.**"* (2025-04-01)
+- ★★★ *"**The body cannot lie.**"* (2025-04-01)
+- ★★★ *"**I sense just a little hesitation. Can we talk about why you might not want to move forward?**"*
+  (2025-04-01)
+- ★★★ *"**Love is basically: understand me and appreciate me.**"* (2025-04-01)
+- ★★★ *"**Who told you you can't do that?**"* / *"**We inherit these rules that we think define
+  reality.**"* (2025-04-01)
+- ★★★ *"**And here I am — some kind of weird art kid.**"* / *"**I was thinking: I'm going to be a total
+  loser in my life.**"* (2025-04-01)
+- ★★★ *"**True wealth is built by those driven by meaning, not just the pursuit of money.**"* (2025-04-01)
+- ★★★ *"**Violent in that we're prejudging, we're pre-diagnosing, and we're making a lot of assumptions.**"*
+  (2025-04-01)
+- ★★★ *"**Do this especially when you're under pressure.**"* (2025-04-01)
+- ★★★ *"**Please don't talk to yourself like that. It hurts me hearing that.**"* (2025-03-29)
+- ★★★ *"**And it hurts me. And this is something I want to try to counteract.**"* (2025-03-29)
+- ★★★ *"**You don't need to learn to be creative — you just need to remember your creative soul.**"*
+  (2025-03-29)
+- ★★★ *"**I'm bilingual. I speak the language of art and I speak the language of business.**"* (2025-03-29)
+- ★★★ *"**No pain, all gain.**"* (2025-03-29)
+- ★★★ *"**You make your weakness your strength, and you make your enemy's strength their weakness.**"*
+  (2025-03-29)
+- ★★★ *"**No one is happy being themselves.**"* (2025-03-29)
+- ★★★ *"**I think I need to clean the studio first.**"* / *"**I have studio lights. That's a lie. I know
+  it's a lie.**"* (2025-03-29)
+- ★★★ *"**The devil doesn't need a friend — don't be the best friend of the devil.**"* (2025-03-29)
+- ★★★ *"**Fear can be a good teacher. We can't get rid of fear, but we can dance with it.**"* — ★ *"**I hate
+  dancing, but it sounds fun.**"* (2025-03-29)
+- ★★★ *"**Writing is the beginning of thinking.**"* (2025-03-29)
+- ★★★ *"**I pay money not to see ads. Would I follow you? No.**"* (2025-03-29)
+- ★★★ *"**I almost wish for you that you don't get it right away.**"* / *"**It's not going to be good for
+  about 50 posts.**"* (2025-03-29)
+- ★★★ *"**Seek progress over perfection.**"* / *"**It's just a stalling tactic.**"* (2025-03-29)
+- ★★★ *"**You to the power of you.**"* / *"**The more you are, the more powerful you become.**"* (2025-03-23)
+- ★★★ *"**You don't have one brand — you have an infinite brand.**"* (2025-03-23)
+- ★★★ *"**Honest. Inauthentic. Not genuine.**"* (2025-03-23)
+- ★★★ *"**Feedback… [is] detailed instructions on how to succeed.**"* (2025-03-23)
+- ★★★ *"**I love criticism. I actually don't like praise so much.**"* / *"**See, I love that.**"* (2025-03-23)
+- ★★★ *"**Thank you for giving me a point of information.**"* (2025-03-23)
+- ★★★ *"**That's the one connection you didn't make.**"* (2025-03-23)
+- ★★★ *"**A nuclear arms race on fakery.**"* / *"**Why would I care about you? It looks like you're just
+  flexing.**"* (2025-03-23)
+- ★★★ *"**We admire characters more for their struggles than for their success.**"* (2025-03-23, 2025-03-29)
+- ★★★ *"**Send it to a committee and all creativity dies.**"* / *"**No one gives an F.**"* (2025-03-04)
+- ★★★ *"**Corporate brands are trying to be more human. The good news is: you're already human.**"*
+  (2025-03-04)
+- ★★★ *"**They were not really born — they were created.**"* (2025-03-04)
+- ★★★ *"**Specific details communicate much faster.**"* (2025-03-23)
+- ★★★ *"**If I don't understand what you do, I cannot remember what you do — and then I can't tell other
+  people what you do.**"* (2025-03-13)
+- ★★★ *"**It's a conversation, not a monologue.**"* / *"**One avatar, one problem, one result.**"*
+  (2025-03-13)
+- ★★★ *"**At least we were considered.**"* / *"**That self-talk can only last so long.**"* (2025-03-13)
+- ★★★ *"**Kier, I can't ask those kind of questions. That's rude.**"* (2025-03-13)
+- ★★★ *"**And then the old tribe dies.**"* / *"**We do these things because this is how people don't
+  die.**"* (2025-03-12)
+- ★★★ *"**We trade roles and responsibilities, but we don't merge them together.**"* (2025-03-12)
+- ★★★ *"**If you knew how to fix it, why don't you fix it?**"* (2025-03-12)
+- ★★★ *"**Now you're just dumb and busy.**"* / *"**Congratulations, friend. This video is not for you.**"*
+  (2025-03-06)
+- ★★★ *"**The hardest-working lazy person I know.**"* / *"**I'm in the grind, 14, sometimes 16 hours a
+  day.**"* (2025-03-06)
+- ★★★ *"**This is how you go from *a* designer to *THE* designer.**"* (2025-03-06)
+- ★★★ *"**This is what I do to my wife all the time — and to my entire team.**"* / *"**I'm mostly channeling
+  my wife here.**"* (2025-03-26)
+- ★★★ *"**She needs to see what the next five steps are on that chessboard.**"* (2025-03-26)
+- ★★ *"**Keep it at a frenetic pace for as long as possible — and then we become numb.**"* (2025-03-21)
+- ★★ *"**I have secondhand woo.**"* / *"**Woo curious.**"* (2025-04-02)
+- ★★ *"**Practice intentional incompetence.**"* / *"**Don't get stuck in the tyranny of the how.**"*
+  (2025-03-25)
+- ★★ *"**The client is more afraid of you than you are of them.**"* / *"**Give them permission to sound
+  stupid.**"* (2025-03-25)
+- ★★ *"**They will find the money somehow. It's never about the price.**"* (2025-03-05)
+- ★★ *"**Your audience eventually grows up, and you grow out of it.**"* / *"**One day somebody else will take
+  it from Alex.**"* (2025-03-05)
+- ★★ *"**This is my spice. It's what keeps me going.**"* (2025-03-05)
 
 
 ## Cadence & delivery

@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-27
-sources: 240
+sources: 262
 ---
 
 # Beliefs
@@ -2971,6 +2971,489 @@ GPT — **and I can't even argue against it. I don't want to argue against it.**
 implementation rather than defend the moat.**
 (2025-02-23; with 2024-12-11, 2025-01-03, 2025-02-07)
 ([[../wiki/sources/2025-02-23-yt-hC2_b-y6zuc]]; [[../wiki/sources/2025-02-07-yt-Hmpf-q2IGQQ]])
+
+
+#### ★★★ Sell money — and the condition that makes it a positioning move (2025-03-31)
+
+*"What should you be selling? ★★★ **Sell money. When you sell money, I buy. Speak to me in the language of
+business.**"*
+
+**The move it produces**, which is the portable part: *"**I would love to work with you — under the
+condition that you can articulate to me the metric that matters, that I have an impact on, and what goal
+you'd like to have. Otherwise, I cannot help you.**"* And what it costs you: nothing — *"**even if
+everything else you do is exactly the same, look how you position yourself against every other graphic
+designer, every other photographer, every other web developer.**"*
+
+> ★★★ **Bounded by the Four Agreements honesty clause, which must travel with it**: *"you have to **be
+> honest with them, to serve them** — **that's a benchmark I cannot do.** A better visual identity is not
+> going to achieve that for you. What might is this other thing. **I'm not your person.** But if you ever
+> need this, I can do that. ★★★ **That's a real relationship.**"*
+
+**THE TWO B'S**, which supply the metric: **baseline** — *"where are we today? How many followers? How much
+revenue? What's the churn rate? How many positive Yelp reviews?"* — and **benchmark** — *"where would we
+like to be?"* → ★★★ *"**the delta between those two determines how good you are.**"* Worked: *"if they go
+from 1,000 followers to 2,000, that's a 2× change. **But if they wanted 4,000, you're 50% of the goal.**"*
+
+★★★ **The rebuke that sets it up**: *"**you don't ask your clients how much money you make? Why is it
+designers never care about the impact that the work makes? They just make it up in their mind.**"* And the
+asymmetry: *"**we love to claim success for things. When things don't work, we're like: we got nothing to do
+with that.**"* Closing pair: *"**design matters — but not when you don't mind what matters**"* and
+*"**what's measured improves.**"*
+(2025-03-31) ([[../wiki/sources/2025-03-31-yt-aQYbXVZb88k]])
+
+#### ★★★ Pricing as empathy — the moral argument, and the counter he makes himself (2025-04-02)
+
+**The corpus has *price the client, not the job* as a yield argument. This is the fairness argument for the
+same doctrine**, and he raises it knowing it sounds odd.
+
+★★ **He concedes the boundary first**: *"**you're not going to price-gouge** — when nobody has toilet paper,
+ten dollars a sheet. **Okay. That's not what I'm talking about.**"*
+
+> ★★★ *"**By having fixed pricing or hourly pricing, it's the LEAST empathetic thing that you can do.**
+> **Not all customers are the same** — different needs, different capacity to spend — **and the outcomes of
+> the work you do, despite it being exactly the same, will have different impacts on people.** ★★★ **The
+> same logo you designed for Walmart is going to be very different than Joe and Mary's bakery.** So if you
+> want to be empathetic, **understand the customer's needs first, and what kind of impact — and charge
+> accordingly.** ★★★ **Sometimes it's not much, so charge less. And sometimes it's a lot more — charge
+> more.**"*
+
+> ⚠️ **AND HE ARGUES THE OTHER SIDE HIMSELF, saying so**: *"**I'm going to argue both sides of this — I tend
+> to do this a lot.**"* The counter-position is **publish a floor**: *"**my projects start at X** — so at
+> least someone has a point of reference to say: **I shouldn't even bother wasting an hour of Chris's time
+> on a discovery call if I can't even hit that minimum.**"* **Both halves are his. Do not resolve them —
+> and note that arguing both sides is itself a documented habit.**
+(2025-04-02) ([[../wiki/sources/2025-04-02-yt-2FI0Dk44-vo]])
+
+#### ★★★ The elevator pitch — "You know how…" (2025-03-13)
+
+**The stakes first**: *"**if I don't understand what you do, I don't know how to say you can help me —
+therefore I don't know how to give you money.** **Confusion and complexity are the enemy of understanding
+and retention**: ★★★ **if I don't understand what you do, I cannot remember what you do — and then I can't
+tell other people what you do.**"* (✅ The same line, verbatim, twelve days later — settled phrasing.)
+
+**The formula**: **adjective + avatar**, then the problem — specifically ★★★ *"**what's the NEGATIVE version
+of that?**"* — then the result.
+
+> ★★★ **"You know how [adjective] [avatar] [problem / how it feels]… I help them [result]."**
+> Worked live: *"I teach digital multimedia design"* → ★★★ *"**You know how creative high school students
+> don't know what career direction to go, and feel lost and directionless? I help them find a career in
+> art.**"*
+
+★★★ **The mechanic most teaching omits**: *"**it's a conversation, not a monologue.** **You have to
+PAUSE.**"* ★★★ **The compression rule, stated twice**: *"**one avatar, one problem, one result**"* — *"**do
+not confuse people by using complicated language or adding a lot of commas.**"* And on the biography:
+*"**nobody cares. It's too late.** ★★★ **They WILL care as soon as you tell them what's in it for them.**"*
+(2025-03-13) ([[../wiki/sources/2025-03-13-yt-sLe5iNSyejk]])
+
+#### ★★★ Feedback is detailed instructions on how to succeed (2025-03-23)
+
+**The definition, which is what the corpus was missing**: *"**an opinion is just an opinion. But feedback,
+or criticism, especially if it's well articulated, [is] DETAILED INSTRUCTIONS ON HOW TO SUCCEED.**"*
+
+★★★ **The reframe, stated flatly**: *"**the reason why I am where I am is because I love criticism. I
+actually don't like praise so much**… *you're amazing, your work is supreme* — **where do you go from that?
+How do you grow?**"* **The mechanism**: *"**it's like a really weird drug** — the first high is amazing, the
+second is not as good, the third is less and less — **and now you're addicted.**"* From coaching: *"they're
+like **now tell me what I did good** — **I don't think you heard the 17 things I said on how to improve.**"*
+
+★★★ **Worked on himself.** Told *"I don't really like your tone, Chris. You're a pompous a-hole"*: ★★★
+*"**see, I LOVE that** — because **my intention wasn't to show up as a pompous a-hole.** I need to **check in
+with myself on my tone**. **I need to be a little softer from time to time. I don't want to be that
+person.**"*
+
+> ★★★ **THE REPLY TEMPLATE, portable**: *"even if it's the meanest feedback, **I just type in: *thank you for
+> the feedback.* I'm not saying it's good, I'm not saying it's bad — **but thank you for giving me a point
+> of information. I will do with it what I need.**"*
+
+★★★ **And the 99-to-1 problem, with the diagnosis that links it to the self-concept material**: one hostile
+comment among ninety-nine kind ones sticks *"**because that's the one connection you didn't make**"* — and it
+destabilises you only because *"**we're so unsure of ourselves, we don't know who we are.**" → ★★★ **"And
+that's why we tell our story — so we know: no, that is NOT consistent with who I know I am."**
+(2025-03-23) ([[../wiki/sources/2025-03-23-yt-MqWUPpjMj3o]])
+
+#### ★★★ You to the power of you — and the authenticity gap as a measure (2025-03-23)
+
+★★★ *"To be different you just need to be you; to stand out you just need to be you; to be memorable you
+just need to be you. So I have this idea — ★★★ **you to the power of you. The more you are, the more
+powerful you become — on an exponential scale.** **The problem is most of us are pretending to be someone
+else.**"*
+
+★★★ **The infinite brand**: building from **Marty Neumeier**'s definition (*"a brand isn't a logo… **it's a
+person's gut feeling**"*; *"when enough people have a similar gut feeling, then you have a brand"* — with the
+honest caveat that the threshold is *"kind of arbitrary, a little subjective"*), he walks through everyone
+who holds a gut feeling about you: *"**you actually don't have one brand — you have an INFINITE brand.**
+It's like **the multiverse.**"*
+
+> ★★★ **THE MEASURE**: *"**the gap between these two points determines how real, how authentic you are**"* —
+> the curated self against *"**the you that shows up when no one's watching**… cold three-day-old pizza…
+> **that's the real you.**"* → *"**close this gap as small as possible. And how small is up to each one of
+> us** — our own level of comfort, **the inner work we've done.**"*
+> ★★ **With his own limit, which must travel with it**: *"**I'm not saying go out and be your unfiltered
+> self all the time.**"*
+
+★★★ **The failure mode, in three words**: *"**honest. Inauthentic. Not genuine.**"*
+(2025-03-23) ([[../wiki/sources/2025-03-23-yt-MqWUPpjMj3o]])
+
+#### ★★★ Pixar's rule #1 — post your struggles, not your wins (2025-03-23, 2025-03-29)
+
+✅ **Twice attested in six days — settled doctrine.**
+
+> ★★★ *"**Pixar — the most successful film studio of all time — rule number one: we admire characters more
+> for their struggles than for their success.**"*
+
+★★★ **Worked through Woody**: selfish, jealous, sabotages Buzz — *"**he's a flawed character, and we love him
+MORE because he reminds us of ourselves** — because **we have felt petty, we have felt jealous.**"* The
+inverse: *"if everything's great and you're perfect — **we're like: who's that? Why are you so perfect? And
+we feel too distant.**"*
+
+★★★ **Turned on the audience's feeds**: *"what trials and tribulations are you posting? **Vacation. Your
+Gucci bag. Your fancy watch. No struggles.** ★★★ **Why would I care about you? It looks like you're just
+flexing.**"* And the systemic version: ★★★ *"**a nuclear arms race on fakery**"* — *"I'll put out something
+fake, and somebody says *no, I can out-fake you*"* — *"**so we buy clothes we can't afford… instead of doing
+the deep personal work.**"*
+(2025-03-23, 2025-03-29) ([[../wiki/sources/2025-03-23-yt-MqWUPpjMj3o]];
+[[../wiki/sources/2025-03-29-yt-ozgIEp5d2ks]])
+
+#### ★★★ The black sheep, and the five family roles (2025-03-12)
+
+**Source, and it is personal**: *"I found a long time ago when **my wife and I were in a relationship
+workshop** — they said the family usually has about five roles… **what stuck with me is that every family
+has a black sheep.**"*
+
+> ★★★ *"**The black sheep is the saddest character, the most misunderstood and hated character within the
+> family** — typically the rebel… **and seems to not do anything the family thinks is good.** ★★★ **But the
+> black sheep is a critical role — because what they do is they bring new ideas.**"*
+
+★★★ **The island parable**: the black sheep says the water is drying up, is treated as casting doubt on the
+chief, leaves with a few followers, finds better land — ★★★ *"**and then the old tribe dies.**"*
+
+> ★★★ **And the non-obvious half — he defends the chief**: *"the head of the family becomes **the historian
+> — the person who preserves ideas, cultures and customs.** The black sheep says *you're old-fashioned* —
+> **but what they don't realise is they bring institutional knowledge: we do these things because this is
+> how people don't die.**"*
+
+★★★ **The rule it exists to produce**: *"**what's unhealthy with families and corporations is when we don't
+share those roles — when we don't move them around.** ★★★ **We trade roles and responsibilities, but we
+don't merge them together — because that's where it gets really, really messy.**"*
+✅ **Structurally identical to the general/soldier point in the same source**: play a defined role, swap over
+time, never occupy two at once.
+(2025-03-12) ([[../wiki/sources/2025-03-12-yt-DHt-pgda-jM]])
+
+#### ★★★ Entrepreneurship is a disease — both halves (2025-03-31)
+
+> ★★★ *"Everybody thinks entrepreneurship means **I get to be the boss, I don't have to work, I just call
+> the shots**… ★★★ **Entrepreneurship is an ugly, long battle. But it's a disease. I think it's not a
+> choice. You can't get rid of it. There's no cure.**"*
+
+★★★ **His own form of it**: *"**I cannot work for anybody.** **There's not enough money you can pay me for me
+to work for you** — cuz **if I'm busy building your dream, who's building mine? Nobody.** ★★★ **And I'm a
+dream builder. And I like my dream more than yours. I like yours, but I like mine more.**"*
+
+> ⚠️ **The two halves must travel together.** The competitive candour: *"**the people who don't have the
+> disease, they quit. And I don't want so much competition.**"* And, in the same breath, the kind half:
+> *"**it's okay if you quit. I appreciate if you quit most of the time. But I'm here for those that do not
+> want to quit — they've got that fight, and I'm ready.**"* ✅ Consistent with *"get out — this was not meant
+> for you"* (2025-02-23).
+(2025-03-31) ([[../wiki/sources/2025-03-31-yt-aQYbXVZb88k]])
+
+#### ★★★ Jim Rohn's winter season — the counterweight to the hustle material (2025-03-31)
+
+Coaching someone whose second year went badly, he reframes the whole question of timing. Credited to **Jim
+Rohn** (*Seven Strategies for Wealth and Happiness*):
+
+> ★★★ *"There are four seasons, but the one we're in is **the winter season.** When we lived a simpler life,
+> **winter was a harsh time — we worked all year to store food and prepare for it.** So **winter is a time
+> for family, for reflection, for rest, and to think.** … ★★★ **It could be that you're just in the winter
+> of your life. But what many of you are doing is driving yourself crazy thinking it's spring** — time to
+> plant and harvest. ★★★ **This is a time to rest, to reflect, to recover, and to spend this free time being
+> grateful.**"*
+
+★★ **The reframe he coaches live beforehand**: *"finish this phrase — **how might being down 30% in revenue
+be a BENEFIT to you?**"* → *"**can you hear that? It's a moment for reflection.**"*
+✅ **This is the corpus's clearest counterweight to the bias-toward-action material. Promote it as such.**
+(2025-03-31) ([[../wiki/sources/2025-03-31-yt-aQYbXVZb88k]])
+
+#### ★★★ Opportunities are distractions (2025-03-31)
+
+★★★ *"**The obstacle is the opportunity.** Why are opportunities obstacles? Because — *would you like to work
+on NFTs?* ★★★ **Those are called opportunities. In my world they're called DISTRACTIONS.** They take you away
+from your primary goal. **If opportunities are a distraction — especially for entrepreneurs, who are mostly
+ADHD — then the obstacle is forcing you to say: do I want to do this?**"*
+(2025-03-31) ([[../wiki/sources/2025-03-31-yt-aQYbXVZb88k]])
+
+#### ★★★ The subscription pivot — sell pain relief, not production (2025-03-31)
+
+**The problem**: *"every time you deliver on this $4K project, **you've got to go find another one. It's
+tiring.**"* And identity work resists recurring revenue by design: *"**once it's done, it's kind of done.**"*
+
+★★★ **So change who you serve**: *"**who has a never-ending, infinite appetite** for [this]?"* → creators —
+*"**content equals attention**, and what do they do with attention? **They trade it for money.** ★★★ **So you
+want to sell money. Who's buying money? Creators.**"*
+
+★★★ **And change what you sell**: *"the worst part is editing — **you can shoot for an hour and spend 17
+hours editing.** What you want to do is **sell PAIN RELIEF** — we have a headache, we take a pill. ★★★ **The
+faster the pain relief comes, the more they will pay.**"*
+
+★★★ **The economics, named**: *"**it could be done by anyone, anywhere, anytime, on any device. That means
+you have ARBITRAGE.** **Buy low, sell high.** ★★★ **It's how people get rich.**"*
+(2025-03-31) ([[../wiki/sources/2025-03-31-yt-aQYbXVZb88k]])
+
+#### ★★★ The client is more afraid of you — and sometimes they're right (2025-03-25)
+
+★★★ *"**The client is more afraid of you than you are of them.**"* Because you're the specialist and they run
+a broad business: *"**they're not going to disclose information — not because they're trying to manipulate
+you, but because they're afraid of sounding stupid.**" → ★★★ *"**give them permission to sound stupid**"*,
+and speak their language — *"**the last thing you want is to impress them with your knowledge, because that's
+only going to make them feel dumber**"* and less forthcoming.
+
+★★★ **And the corrective to creative arrogance**: *"**the ego of the creative says we must always be right
+and all client suggestions are dumb. That's not the case at all.** ★★★ **The clients will forget more about
+their business than you hope to learn about it** — and **it's arrogant for us to assume we know better than
+the client how to run a bakery, a print shop, a technical firm.**"*
+(2025-03-25) ([[../wiki/sources/2025-03-25-yt-lXTf0ypur0Q]])
+
+#### ★★★ Say the price first when you know — last when you don't (2025-03-25)
+
+**A condition on the anchoring doctrine, not a new one.** *"Say the price first when you know what you're
+doing — **that anchors the client at a higher price so they don't have the opportunity to lowball you.**
+★★★ **But the caveat: when you DON'T know what you're doing, you're going to shoot yourself in the foot by
+saying a price you think is really high — when in truth the price is much, much higher.**"*
+
+**Worked**: a logo designer of ten years quoting their own known range, versus an unfamiliar sponsorship
+offer where *"you could say **how about $3,000** — when in fact **they have [far more] to pay people just
+like you.**"*
+(2025-03-25) ([[../wiki/sources/2025-03-25-yt-lXTf0ypur0Q]])
+
+#### ★★★ A cluster of sharp small rules (2025-03-25, 2025-04-01)
+
+- ★★★ **Practice intentional incompetence.** *"**Don't get good at things you don't want to get good at.** In
+  my own life **I try not to get good at production work, or bidding, or accounting.**"* — the active form of
+  delegation.
+- ★★★ **Don't get stuck in the tyranny of the how.** *"When you [ask how] **you eliminate ideas
+  prematurely**"* — evidenced by his own students, who *"generate ideas within the boundaries of what they
+  knew how to do."*
+- ★★★ **Sales is change management.** *"What people pay for is **to go from the current state to a desired
+  future state** — **and if you have a plan on how to do that, that's what you're selling.**"*
+- ★★★ **The three-word findability test.** *"**Google yourself without your company name or your name**…
+  find **a three-word combination** that describes what you do — **and when the top-10 results are all the
+  people you want to compete against, you know you found the right three words.** Then **seed your content
+  with them.**"*
+- ★★★ **Sell before you build** (an MVP sales page) and ★★★ **sell how you buy** (*"just look at how YOU
+  make decisions… **reverse-engineer that**"*).
+- ★★★ **Good is the price of entry.** *"**Good is expected.** Instead of being good, **focus on being
+  different — because different is better than better.**"* ✅ **Credited on 2025-04-01 to Sally Hogshead**
+  (uncredited a week earlier — **use the credit**).
+- ★★★ **Create how you consume.** *"You like it, share it, save it — **and then you turn around and create
+  super annoying, salesy direct-marketing content. What gives?** **Put more good into the world instead of
+  creating more noise.**"*
+- ★★★ **Charge more to get better clients** — *"people who pay more value things more, **and the thing they
+  value most is their own time**, so **they're not going to micromanage you.**"* Plus: *"the common mistake
+  is thinking that by charging more **you have to create a totally different product. It's literally the
+  same thing.**"*
+- ★★★ **Being needy is repulsive.** *"Wanting it too much **repels people**… **map this to personal
+  relationships and you know what I'm talking about.**"*
+- ★★★ **Two failure modes of questions**: **leading/binary** (*"pasta or pizza? **maybe I don't want any
+  carbs**"*) and **abstract** (*"how are you feeling today? — **I don't know where this is going**"*).
+  ★★★ *"**The magic is somewhere in the middle** — a question that **gives them direction** versus making it
+  *anything is possible*."* His example: ★★★ *"**what's motivating our conversation today?**"*
+- ★★★ **The body cannot lie.** *"**The body lives in reality, where the mind lives in fantasy.** Somebody
+  will **say yes while shaking their head.**"* The script: ★★★ *"**I sense just a little hesitation. Can we
+  talk about why you might not want to move forward?** — **and then they'll tell you something super
+  valuable.**"*
+- ★★★ **Love = understand me and appreciate me** (credited to an unnamed doctor) — ★★★ *"**if you can have
+  half that equation — just to understand someone — they're going to feel the sense of being loved.**"*
+- ★★★ **Who told you you can't do that?** From his design class: students said *"but I thought we could not
+  do that"* — *"**I said: WHO TOLD YOU you can't do that? And they would pause and look around** — *who's the
+  they?* — ★★★ **and they could never name any specific person, or even a group.**"* → ★★★ *"**we inherit
+  these rules that we think define reality.**"*
+(2025-03-25, 2025-04-01) ([[../wiki/sources/2025-03-25-yt-lXTf0ypur0Q]];
+[[../wiki/sources/2025-04-01-yt-hJ35jP1tKDI]])
+
+#### ★★★ Empathy, defined against the common error — and the crying theory (2025-04-01, 2025-04-02)
+
+★★★ **The error**: *"often people mistake empathy as: **when somebody's going through an emotional moment,
+you make it about YOUR emotional moment** — you're reliving your pain, your trauma, **and you direct the
+attention away from the other person.** **A lot of people do this. They think that's the expression of
+empathy.**"*
+
+> ★★★ **The definition**: *"**true empathy is to understand what that other person needs in that moment in
+> time.** And **sometimes they need you to be stoic** — they need you to be resolute — **or they might need
+> a shoulder to cry on, and not for you to go and have your own triggered moment.**"*
+
+★★★ **The exchange that grounds it**, with a colleague who asked his secret for making people feel he cares:
+★★★ *"**Mo, you're not going to like this answer. It's because I actually really care.**"* And the practice:
+*"**I need to put my own needs — to make money, or to be liked, or to be popular, or to be right — aside**,
+and say: **what's this person going through right now?**"*
+
+★★★ **THE CRYING THEORY, and it is a personal admission**: *"**my wife is a very emotional person** — she'll
+start to cry, **and I'm sitting here listening to her and I don't cry**… ★★★ **and I think she would probably
+feel better if I just started crying. But I have this whole theory:** if you cry and then I cry, ★★★ **the
+person who needs some understanding, some empathy, is being ROBBED of it — because now I made it about me.**
+★★ **And I have problems with this.**"* ★★ With the hedge: *"**I have to control myself: don't make it about
+you right now.**"*
+
+★★★ **And the suspicion of self-declared empathy**: *"**I very rarely find that people who are empathetic
+need to tell you that they're empathetic**… **the fact that you say it makes me question it.** ★★★
+**Demonstrate it. You don't need to label it.**"* Plus the deflation: *"**when a train comes to a stop at a
+station, we don't say *I'm an empath* — we just notice a change.** ★★★ **That's not being an empath. It's
+just noticing things.**"*
+(2025-04-01, 2025-04-02) ([[../wiki/sources/2025-04-01-yt-hJ35jP1tKDI]];
+[[../wiki/sources/2025-04-02-yt-2FI0Dk44-vo]])
+
+#### ✅✅ Non-violent communication — the complete thread, four sources (2025-03-25 → 2025-04-01)
+
+**An instruction from Kier McLaren that arrives in three parts, with the fourth source defining the key
+word. Promote as ONE entry.**
+
+1. **2025-03-25** — *"**say what you think.** We're stressed thinking about how the client will respond, or
+   how our employees will feel… **the best way to release the stress is just to say what you think.**"*
+   ⚠️ With the half he flags as unfinished: *"the second part is **to learn how to say it in an objective,
+   non-violent way — but that's a story for another day.**"*
+2. **2025-03-29** — *"**we need to use less violent language when we're describing how we feel about
+   things** — **we're judging ourselves, we're judging others, all the time.**"* Applied live to a man who
+   listed three faults in one breath: ★★★ *"**please don't talk to yourself like that. It hurts me hearing
+   that — I feel ill for you saying that. Why would you put a box around yourself?**"* → *"**your words
+   shape your world.**"*
+3. **2025-04-01 — the definition**: ★★★ *"I don't mean *I hate you, I want to kill you* — **but violent in
+   that we're PREJUDGING, we're PRE-DIAGNOSING, and we're making a lot of assumptions.**"* → *"**strip out
+   all the opinions and talk about things for the way they are, not the way that you might see them**"* —
+   ★★★ **with the test**: *"**do this especially when you're under pressure. That's when it's most difficult
+   to do.**"*
+
+★★ **And the delivery half**: *"**speak clearly, enunciate, speak in a calm, slow and deliberate way** so
+that **people lean in instead of roll their eyes**"* — *"**it's not just what you say, it's how you say it.
+The tone, the intentionality, actually carry more meaning than the words themselves.**"*
+(2025-03-25, 2025-03-29, 2025-04-01) ([[../wiki/sources/2025-03-25-yt-lXTf0ypur0Q]];
+[[../wiki/sources/2025-03-29-yt-ozgIEp5d2ks]]; [[../wiki/sources/2025-04-01-yt-hJ35jP1tKDI]])
+
+#### ★★★ Turn your weakness into the asset — as craft, not affirmation (2025-03-29)
+
+He analyses a book title — *"short stories from a short guy about short sleeve T-shirts"* — as **repetition
+plus pattern interrupt**, then names the real move: ★★★ **the author is a short guy.**
+
+★★★ **The principle**, credited to Sun Tzu ⚠️ *"which every business guru tells you to read, **but I haven't
+read it**"*: *"**you make your weakness your strength, and you make your enemy's strength their weakness.**
+Because **it's asymmetrical warfare — you cannot beat them by doing what they do.** They have more
+resources, they're better equipped — **so you've got to figure out a way to make their strength become their
+liability.**"*
+
+★★★ **Proved by substitution**: *"**that title does not work as *short stories from a 6-foot-2 guy about
+shorts*.** **He just leans into that.**"*
+
+> ★★★ **Generalised both ways**: *"**if you're old, don't run away from being old — that's an asset.** But
+> here's what old people do: *I'm not young like the young kids.* **And if you're young?** *I don't have any
+> experience, I'm an impostor.* ★★★ **You see the problem — NO ONE is happy being themselves.**"*
+(2025-03-29) ([[../wiki/sources/2025-03-29-yt-ozgIEp5d2ks]])
+
+#### ★★★ Creativity is one small tweak (2025-03-29)
+
+Credited to **Kirby Ferguson** (*Everything Is a Remix*): *"**creativity [is] just taking what we know and
+making one small tweak to it.** We love things, and **we love more of what we love** — so **we remix
+things.**"*
+
+★★★ **Apple's copy as the masterclass**: *"if you want a masterclass on how to write really good copy **that
+doesn't feel tricky and overworked**, just go to Apple's website… **it's just taking a very familiar phrase
+and changing it ever so slightly.** When they talk about processing power **they don't talk about
+megahertz** — they say ★★★ ***no pain, all gain***. **You've heard *no pain no gain* — they took one word and
+replaced it.**"*
+
+★★ **And the Johnny Cupcakes logo, deconstructed**: a teenager in a rock band surrounded by *"skulls and
+chains"* thinks *"that's not the vibe"* — **so he takes the skull-and-crossbones and replaces the skull with
+a cupcake.** ★★★ *"**It's not this act of genius**… **if you understand that, that's kind of genius.**"*
+★★ Plus his verdict on the mark: *"**I wish in my life I could design a logo this iconic** — at the size of
+your thumbnail you can still recognise it, **and blown up bigger than the Empire State Building it's still
+cool.**"*
+(2025-03-29) ([[../wiki/sources/2025-03-29-yt-ozgIEp5d2ks]])
+
+#### ★★★ Stop making ads; write first; and the 50-post honesty (2025-03-29)
+
+- ★★★ *"**I pay money NOT to see ads. Would I follow you? No.**"* → *"**stop making ads, learn how to be a
+  good storyteller, build audience, community, find your voice** — and then every once in a while, **cuz
+  you've got to make some money, throw an ad in there.** ★★★ **But the ad doesn't have to be a sneaky
+  Trojan-horse thing — you can just say: buy my course, join my mastermind.**"*
+- ★★★ **Write first**: *"you don't want to just turn the camera on and start talking, **because you will
+  ramble**… **writing is the beginning of thinking.**"* Credited to **David C. Baker**: ★★★ *"**you gain
+  clarity through articulation.**"*
+- ★★★ **The honesty about the timeline**: *"some of you will get it right away — **but I almost wish for you
+  that you DON'T, because you need to have the discipline, and to put in the reps.**"* With **Kobe Bryant**
+  (*"when I show up to practice and you show up five minutes before practice is over — **I'm not going to
+  give you the ball**"*) and: ★★★ *"**it's not going to be good for about 50 posts.**"*
+(2025-03-29) ([[../wiki/sources/2025-03-29-yt-ozgIEp5d2ks]])
+
+#### ★★★ Corporate brands vs personal brands — the voice of many vs the voice of one (2025-03-04)
+
+Built as a live exercise: the room lists what a corporate account is *for* (leads, awareness, conversions,
+engagement, recruitment, mission, PR); he tests each against a personal account until only **engagement**
+survives.
+
+> ★★★ *"Corporate content is generic because **a team has a strategy, marketing, copywriters, HR, legal** —
+> ★★★ **that's where everything goes to die in terms of creativity. Send it to a committee and all
+> creativity dies.** It has **too many masters to make happy**, so they **water it down until everyone's
+> happy — which means no one's happy.** **A good compromise is when no one's happy.**" (✅ twice attested in
+> eight days — settled phrasing.)
+>
+> ★★★ **The conclusion**: *"**if we start behaving like a corporate brand, we will get the engagement of
+> corporate brands — which is, no one gives an F.**"*
+
+★★★ **The distinction in one line**: the corporate brand is *"**the voice of many** — because it's the
+committee that decides"*; yours is *"**the voice of one** — your voice, your beliefs, your mission, your
+attitude, your style."* ★★★ **And the asymmetry that makes it winnable**: *"**all the time corporate brands
+are trying to be more human. The good news is: you're already human. There's only one of you. So do you —
+it will work.**"*
+
+★★★ **The three stories, named as a set** (✅ twice attested in 19 days): **the inciting incident** (*"the
+moment your world changes forever — **we'll call it the spider bite**"*), **the origin story**, and **the
+defining moment** (*"**for Spider-Man it's when Uncle Ben dies**"*). ★★★ **And the craft rule from the live
+edit**: *"how many stoplights were there in your small town?"* — zero — *"**I grew up in a town with zero
+stoplights. My high school was 50 kids.**" → ★★★ *"**specific details communicate much faster.**"*
+(2025-03-04, 2025-03-23) ([[../wiki/sources/2025-03-04-yt-2dY6MsSedKg]];
+[[../wiki/sources/2025-03-23-yt-MqWUPpjMj3o]])
+
+#### ⚠️ Retainer ≠ subscription — and the Ron Baker credit (2025-03-04)
+
+Auditing a designer's *"subscription"* live ($2,500/month for 20 hours): ★★★ *"**Alex does not have a
+subscription model. She has a RETAINER model.**"*
+
+- **Retainer** = *"**selling a prepackaged set amount of hours that they buy in advance for a slight
+  discount.** **What you're really selling is time** — prepackaged in bulk."*
+- **Subscription** = *"**you don't sell time at all. You don't talk about time. You just talk about
+  results.**"*
+
+★★★ **The credit, on the record**: *"**the only reason why I know this is because I asked Ron Baker**, [who]
+wrote ***Implementing Value Pricing***. **He's a wizard with economics and accounting**, and he explained it
+to me."*
+> ⚠️ **The source transcript ends mid-explanation** — the subscription half is stated but not developed.
+> **Nothing beyond the sentence above is recorded.**
+(2025-03-04) ([[../wiki/sources/2025-03-04-yt-2dY6MsSedKg]])
+
+#### ★★★ Innovation and efficiency — restated, and the franchisee exception (2025-03-06)
+
+✅ The incompatibility claim is already recorded (2025-02-18). **What is new here is the escape hatch:**
+
+★★★ **Be a franchisee.** *"**You don't want to invent a new McDonald's — so you become a franchisee.**"*
+Applied to knowledge work: *"people in the coaching space **find a program they love, that they benefited
+from, and they become a franchisee — they license the system, the name, the procedures**… **you're using your
+money to save yourself the entire process of writing the material, testing it, prototyping it, fixing it.**"*
+
+> ★★★ **And he excludes himself, explicitly and at his own expense**: *"if you're saying *but Chris, I'm
+> building my own system* — **I say congratulations, friend. This video is not for you.** You're supposed to
+> be lazy — **you can't be not-lazy and lazy at the same time.** I applaud you — **I'm doing that. I don't
+> want to license someone else's program — but I'm in the grind, I'm working 14, sometimes 16 hours a
+> day.**"* ⚠️ **The exclusion must travel with the advice.**
+
+★★★ **And the self-description that reframes his whole productivity doctrine**: *"**I often describe myself
+as the hardest-working lazy person I know — because I don't want to do all the work myself.**"* With:
+*"**I'm a pretty good animator — not the best, not even close.** So when I get to work with the best
+illustrators, animators, designers — **they allow the work to be better than what I could have done by
+myself.**"*
+
+★★ **Plus the coach caveat**: *"**save your money if your intention is to hire someone and then not do what
+they tell you to do**… **now not only are you working harder, but you're wasting money to boot.** ★★★ **Now
+you're just dumb and busy.** **So if you want to be smart and lazy: hire someone, trust them, do what they
+tell you to do.**"* And ★★★ **the 90/10 bargain**: *"**do 90 minutes of focused work, then give yourself 10
+minutes to check the socials**"* — *"**I enjoy the hard work more**, and **I enjoy [the break] even more,
+because I know I'm not going to go down that slippery slope where three hours disappear.**"*
+(2025-03-06) ([[../wiki/sources/2025-03-06-yt-fKWJjiRMCTM]])
 
 
 ## Values

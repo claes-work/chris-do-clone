@@ -3076,3 +3076,87 @@ the childhood-poverty thread concrete texture; (11) **"we love the miserable sta
 detail — 2–3 six-figure new-business calls a week during the coaching era, a brother who is a
 Stanford-trained software engineer, his wife's upbringing, sons aged 17 in Jan 2024, and a rare mention
 of buying and developing property. Carried forward as cautions: the Neumeier and ICE attributions above.
+
+## [2026-07-27] ingest | yt batch (@thefutur, 8) — P2 Jan–Feb 2024: ikigai, the reversed price bracket, anchoring
+
+Orient per Stage 0: `SUBJECT.md` unchanged; `ingest_batch.py status` → `@thefutur P1:0 P2:308 P3:44`,
+`@TheFuturAcademy P3:72`, shorts 860, L2=772/L3=0, synthesis debt **3/10**. Stage machine: checkpoint
+not due → persona fresh (v14) → all TARGET channels have rows → P1 empty → **Stage B on P2**. Titles
+eyeballed; nothing skippable on title alone. **8/8 transcripts fetched, 0 failures.**
+
+**Ingested (8, all @thefutur, all → L2):**
+- `yt-KfKpmV9uFx4` 2024-01-19 *How to Pick a Profitable Niche* — ⚠️ **NOT CHRIS**, solo guest video and
+  — by voice, UK statistics, "my bestselling book" and the closing software pitch — **the same speaker
+  as `sM5CekilqDk`** from two batches ago. Filed do-not-train with two attribution guards: "zone of
+  genius" is Gay Hendricks's term, used here uncredited, and the whole niche-selection framework sits
+  uncomfortably close to Chris's own offer × market / avatar teaching in `aSzZiCp9GWg`.
+- `yt-IXIOW9bFQo0` 2024-01-20 *Find Your Purpose — Ikigai* — ★★ Chris solo. The four-circle model **with
+  the world-needs circle restored** (he notes most versions in circulation drop it), and the most
+  compact Blind→Futur account in the corpus: 23+ years at a company he loved, was good at, and was paid
+  well for — *"and I don't know why, but I felt like there was a hole missing inside of me."* Crucially,
+  it credits the trigger: **his wife** asked whether reaching eight or ten students a semester was
+  *"a good exchange of your time,"* which set off a three-to-six-month search.
+- `yt-xfHU3Yd8mBM` 2024-01-25 / `yt-uzZK4-_Nx50` 2024-01-29 — **Vitaly Friedman** (Smashing Magazine),
+  a clip and its parent. Guest-primary UX-research and accessibility material; Chris hosts and states
+  no positions — indeed says so: *"I don't know enough to even form an opinion to keep awake at night."*
+  Both filed do-not-train, retained as craft/entity context.
+- `yt-IjyGTunAhRk` 2024-01-27 *Master Pricing, Attract Clients & Creative Blocks* — guest-primary
+  (**Radim Malinic**). Chris contributes a good creative-block diagnostic (*"if you're not enjoying your
+  creative work, it's because something outside the process is making you not enjoy it"*), the
+  mini-art-director story about his son, and an articulation of the guest's **breadcrumbs** parenting
+  idea that is cleaner than the version already in the corpus.
+- `yt-7XCeHBnVIik` 2024-02-01 *How to Negotiate a Lowball Offer* — ★ a two-minute clip that is more
+  valuable than its length: **the anchoring story where Chris loses.** A client's disarming "I don't
+  think we can afford you" planted the number 10; Chris then carried that anchor into his own team and
+  argued *against* **Ben Burns**, who had said ask for 15. He caught it only at home — *"he just dropped
+  an anchor on my face and I fell for it"* — waited for the effect to wear off, re-anchored at 30, and
+  genuinely moved on, at which point the client came back.
+- `yt-NJ53pSoxnFQ` 2024-02-05 *Price Bracketing* — ★★ and it carries a **dated change of practice**: he
+  now states the **bigger number first**. An audience member notices the reversal against his older
+  teaching and he confirms it and explains it via anchoring. Also the re-scope move that replaces
+  discounting — *"maybe I overthought this… maybe I'm building you something you don't need."*
+- `yt-iiuPtiPSjVU` 2024-02-08 *Liz Mosley Rejection Therapy* — guest-primary, but premised on **Chris's
+  own rejection of her**, which makes his explanation of it unusually direct: the billion-person mission
+  used as an operational filter (*"am I going to reach a billion people 42 people at a time?"*), the
+  benchmark *"if you've done the work, then I'll do the work with you,"* and an honest admission that
+  the gate leaks. Plus a sustained Matrix/Neo riff.
+
+**Bookkeeping:** 8 `ledger_set.py` updates; 8 rows inserted in date order; footer 772 → **780**;
+`index.md` count and status line updated. No `raw/` file modified after filing. No persona or topic page
+touched.
+
+**Balance note worth recording:** five of eight items this batch are guest-primary or Chris-absent —
+the highest proportion so far. That is a property of the channel's Jan-2024 programming, not a selection
+error; the pages separate the voices cleanly and the ledger notes flag each one. But it means the
+batch's *persona* yield sits in three sources rather than eight, and the synthesis notes below reflect
+that honestly rather than padding.
+
+**Two items flagged rather than smoothed:**
+1. **The reversed price bracket is a supersession, not an addition.** The corpus already holds price
+   bracketing from the 2017-era material with the smaller number first. He has explicitly changed it and
+   said so on air. Promote as a **dated update** so the persona teaches the current form.
+2. **A minor biographical compression.** In `IjyGTunAhRk` he says *"when I was 18 I knew I wanted to be a
+   designer."* Other sources place the skateboard-graphics "glowing room" epiphany at ~17 and the
+   ArtCenter decision at 18–19 after being rejected everywhere. Consistent in substance, looser in
+   detail — the fuller accounts stay canonical; noted so a later pass doesn't read it as a competing date.
+
+**Pipeline state after this batch:** `@thefutur` P1:0, **P2:300**, P3:44; `@TheFuturAcademy` P3:72;
+shorts 860; L2=**780**, L3=0; synthesis debt **4/10**; persona v14.
+
+> **Next iteration: Stage B again (P2).** Checkpoint is 6 batches away, persona is fresh, 300 open P2
+> rows remain — keep draining P2 oldest-first.
+
+Synthesis notes: genuinely new this batch — (1) **his own ikigai**, with the fourth circle as the named
+missing piece, giving the most economical statement of the Blind→Futur pivot in the corpus; (2) **his
+wife's question as the documented trigger** for that pivot ("is this a good exchange of your time?") and
+the three-to-six-month search that followed — a specific, creditable turning point not currently
+recorded; (3) **the reversed price bracket** (bigger number first), to be promoted as a supersession of
+the existing bracketing material; (4) the **re-scope-instead-of-discount** move; (5) **the anchoring
+story where he loses**, including carrying a client's anchor into his own team against Ben Burns's
+better read — a rare dated account of being outplayed at something he teaches; (6) the **podcast-
+gatekeeping rationale** with its "42 people at a time" arithmetic and the "if you've done the work"
+benchmark; (7) the **owner-and-founder-calls-me** disqualification heuristic; (8) the **karma boomerang**
+/ reciprocity argument for helping people you can't serve; (9) small voice additions — the Matrix/Neo
+riff, "a multiverse of events," the mini-art-director story, and a third instance of the honest-about-
+gaps pattern ("I don't know enough to even form an opinion"). Carried forward as cautions: the two
+flagged items above, plus the guest-attribution guards on `KfKpmV9uFx4`.

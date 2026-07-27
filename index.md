@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-27 (ingest yt batch @thefutur, 5 → 851 L2 — ★★ **"brand is preference and willingness to pay a premium"** with its equity arithmetic, and a ★★ **biography landmark** (outsider in his own family; *"A is just kind of average"*; *"oh, I won't be broke"*); ⚠️ the Pro Group intake **changed** 30/mo → 60/quarter; ⚠️ Matt Essam's 6th instance is a **second consecutive core-domain** drift)_
+_Last updated: 2026-07-27 (ingest yt batch @thefutur, 4 of 5 — one deferred, 406KB batch — → 855 L2 — ★★ the Skool personas were *"crafted and engineered… but authentically us, just hyper versions of us"*, **"the Wolf"** role at Blind, and **the business prenup**; ★★ a **guard on the accusation audit** — use it then pitch and *"you just lied"*)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **851 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2024-09-06] + the 2026-07-21 fresh upload; synthesized through batch 123 → persona **v15**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **855 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2024-09-22, one row deferred] + the 2026-07-21 fresh upload; synthesized through batch 123 → persona **v15**).
 
 ## Topics
 

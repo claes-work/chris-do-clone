@@ -4428,3 +4428,83 @@ closed "ask me in six months" loop**; (d) **do not re-add character/want/obstacl
 add only the *cardboard characters* specificity bar. Carried: `jule-kim.md` (4 appearances);
 `anneli-hansen.md`; Part 2 of the listening workshop; the Seth Godin guest episode; earlier
 Priestley/Tom Ross episodes; **keep checking every batch for re-uploads and for Essam.**
+
+## [2026-07-27] ingest | yt batch (@thefutur, 4 of 5 — one deferred) — the personas were cast, and a guard on my own tactic
+
+**Stage B (P2).** The prepared batch was **406KB with all five transcripts large**. Rather than skim five,
+I **ingested four properly and deferred one** — the precedent set in batch 120 after the 511KB lesson.
+Ledger 851 → **855 L2**.
+
+| id | date | what it is |
+|---|---|---|
+| `yt-HtZDQ9xoyeE` | 2024-09-12 | ⏸️ **DEFERRED** — Neel Dhingra interview; transcript cached, row back to `L0-discovered` |
+| `yt-XhxS8c_8-SQ` | 2024-09-15 | ★★ **biography landmark** — Chris as guest on the 505 podcast |
+| `yt-JAvb2jpyv5Q` | 2024-09-17 | design-summit founders — guest-primary |
+| `yt-qQYm5i3yWJE` | 2024-09-19 | Jasmine Star — guest-primary, 2nd attestation |
+| `yt-D0irLfdDhUM` | 2024-09-22 | ★★ **a guard on the accusation audit** |
+
+**1. ★★ The Skool personas were cast — and he says so.** *"I said okay, **we need to figure out our
+personas** — and so **it was crafted and engineered, very much so.** If you watch the old episodes you'll
+see: **oh, he is showing up as somebody.**"* The logic was television: *"in TV, chemistry is really
+important — **we don't want two of the same people.**"* Hence the INTJ/ENFP contrast, the *Odd Couple*
+casting, and his own choice — *"**I need an excuse to wear suits**… so I'll show up as a suit."*
+
+> ★★ **The qualifier is what makes this promotable rather than damaging**: *"**they are authentically us —
+> just hyper versions of us.** And it was a thought, **but that's as far as the thought went.**"*
+> **This must be promoted alongside the authenticity-gap material** from
+> [[2024-08-13-yt-i10g2BVfWVI]], or the persona ends up holding a flat contradiction (authenticity is the
+> gap between unobserved and presented self — *and* the presented self was deliberately cast). His own
+> resolution: exaggerate along true lines, and don't over-engineer it.
+
+Two more from the same source: ★★ **"the Wolf"** — his actual role at Blind in the crossover years, called
+in when *"this $600,000 job might go bye-bye"*, then out again — and ★★ **the business prenup**: *"if you
+have a partner, **work on the prenup before you go into business together**… so you don't have any fights
+later on."* He credits it directly for the clean split, **and credits Jose for honouring it** *"even though
+that's not what he wanted."* Plus a year of audience hostility afterwards, told without self-justification:
+*"**Mom and Dad had a fight and now we the children have to be the survivors of a divorced parenting.**"*
+
+**2. ★★ He puts a guard on a tactic he himself popularised.** Sellers open with an accusation audit
+(Voss) — *"you might think I'm about to pitch the heck out of you, and that's not going to happen"* — and
+then pitch. His verdict: *"**you go beyond burning goodwill — you just lied.**"* The calibration is precise
+(*late to pick you up* = burnt goodwill; *going to Disneyland instead* = a lie), and the reason it
+disqualifies is the strongest line: ★★ *"**this is the best our relationship is ever going to be.** We're
+still in the courtship — **and if you're going to lie to me during the courtship, what happens when I give
+you money and I have no more leverage over you?**"* His resolution removes the premise entirely: the
+**implicit agreement** between buyer and seller means *"to say *I'm not going to sell you* is a strange
+thing — **you don't even need to.**"*
+
+**This attaches to an existing hub entry rather than becoming a new one** — the accusation audit is already
+promoted, and it now needs its guard.
+
+**3. Two guest pages, filed for one thing each.** The summit founders' page is worth keeping for Chris's
+**survivorship caveat** (*"we wouldn't be talking today if the first one was a failure"*) and for the
+**contrast** between their open-funnel model and his cap-for-intimacy model — two valid approaches at
+different scales, recorded as such rather than merged. The Jasmine Star page is her second attestation;
+her advice has already materially changed one of Chris's products, so correct attribution matters, and an
+entity stub is warranted on a third appearance.
+
+**Pipeline state after this batch:** `@thefutur` P1:0, **P2:225** (incl. the deferred row), P3:44;
+`@TheFuturAcademy` P3:72; shorts 860; L2=**855**, L3=0; synthesis debt **9/10**; persona v15.
+
+> **Next iteration: Stage S — the checkpoint fires.** Debt is 9/10 and the queue is heavy: two biography
+> landmarks (the origin interview and this one), the brand definition + equity arithmetic, the
+> pushback triage, the authenticity/personas reconciliation, and **four reconciliations owed**. Ingest the
+> deferred Dhingra row *after* the synthesis pass.
+
+Synthesis notes: genuinely new this batch — (1) ★★ **the personas were "crafted and engineered… but
+authentically us, just hyper versions of us"** — promote **with** the authenticity-gap material as one
+reconciled entry; (2) ★★ **"the Wolf"** as his real Blind role in 2014–2016, with the $600K example, for
+[[wiki/entities/blind]]; (3) ★★ **the business prenup** for the business hub and biography — the hub
+currently records *why he has no partner*, not *how to structure one*; (4) ★★ **two and a half years to
+traction** and *"client work is fine, but it's not freeing"* as the stated motive for the pivot; (5) ★★ the
+**year of audience hostility** and the divorce metaphor for [[wiki/entities/the-skool]]; (6) ★ *"no one
+that's professional makes YouTube content"* as a dated record of his own initial judgement; (7) ★★ **the
+accusation-audit guard** — attach to the existing entry, do not file separately; (8) ★★ **the courtship
+argument** and (9) ★★ **the implicit agreement** between buyer and seller; (10) ★★ **"how you do anything is
+how you do everything"** — record **both** directions (self-applied 08-13, counterparty-applied here);
+(11) ★ the **survivorship caveat**; (12) ★ the **open-funnel vs. cap-for-intimacy contrast** as two valid
+models. **Now five reconciliations owed at the checkpoint**: Brand Lab (five-way); subscription-volume vs.
+scarcity; the Pro Group intake change (30/mo → 60/qtr, and the closed *"ask me in six months"* loop);
+character/want/obstacle (**do not re-add**, add only the *cardboard characters* bar); and **authenticity vs.
+cast personas**. Carried: `jule-kim.md`; `anneli-hansen.md`; Jasmine Star stub on a 3rd appearance; Part 2
+of the listening workshop; the Seth Godin guest episode; **the deferred Dhingra row.**

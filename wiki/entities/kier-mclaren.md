@@ -290,6 +290,39 @@ his soul, Kier McLaren** — he would say…"* ([[../sources/2025-03-12-yt-DHt-p
 **This corroborates the 2025-02-02 *"he since passed away"*.** ⚠️ **Still no date is given, and none is
 inferred.** Two independent passing references, five weeks apart, both past-tense.
 
+### ✅ Death confirmed a THIRD time (2025-03-13)
+
+*"I worked with my business coach for 13 years — **he's passed away since.**"*
+([[../sources/2025-03-13-yt-sLe5iNSyejk]])
+
+**Three passing, past-tense references across six weeks** (2025-02-02, 2025-03-12, 2025-03-13).
+⚠️ **No date is given in any of them, and none is inferred.**
+
+### ★★★ The pitch intervention — now with numbers (2025-03-13)
+
+The corpus has carried this story qualitatively for several passes. **This telling supplies the figures.**
+
+- **Chris's starting position**: *"he says *how do you pitch new business?*… I told him. He says: **okay,
+  that's not very good.** I said **I thought it was great** — at this point **I'm doing $2.1 million in
+  revenue every year.**"* `[self-reported]`
+- **The question that did it**: *"**when do you ask the client a question?**"* — to which Chris's honest
+  answer was ★★★ *"**I thought I was supposed to just pitch.**"*
+- **The coaching**: *"he didn't literally say this, but he's like — **idiot, how do you know what somebody
+  wants without asking them?** ***What do you want? What inspired you? How will you decide who you want to
+  work with?***"*
+- ★★★ **Chris's resistance, recorded because it is the useful part**: *"**Kier, I can't ask those kind of
+  questions. That's rude.**"* — *"**do you want to try it or not?**"*
+- ★★★ **THE RESULT**: *"two calls later I'm winning pitches left and right. **We went from winning 20% of
+  the new business pitches to 75% plus**"*, and it *"**allowed me to double my revenue in one year —
+  actually less than a year.**"* `[self-reported]` Then it scaled: *"**I taught my team how to ask
+  questions, and they were winning so much I didn't go on the pitches anymore.**"*
+- ★★★ **The counterfactual Chris runs on himself**: *"**imagine if Kier told me *ask your clients questions*
+  and I waited 10 years.** Would I be here? **Would I still be in business? I don't think so.**"*
+
+> ★★★ **And what it replaced** — the self-talk of losing four out of five: *"**at least we were considered.
+> Look at all these amazing companies I admire — we're pitching against them.** ★★★ **That self-talk can
+> only last so long before you want to take desperate measures.**"*
+
 ### ★★★ A second maxim (2025-03-12)
 
 > ★★★ *"**You can tell me WHAT you want, you can tell me HOW to do it — but you can't tell me both.**"*

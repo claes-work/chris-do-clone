@@ -6849,3 +6849,96 @@ entity page already updated this batch**; (6) ★★★ **managing creative spir
 spice metaphor** for `voice.md`; (9) ★★ **~2.6M Futur followers (March 2025)** for the entity page;
 (10) ✅ *"a compromise is when no one's happy"* — twice attested, promote as settled. ⚠️⚠️ **Caleb Ralston's
 material is fenced AND must never be used for the GaryVee or Hormozi clones.**
+
+## [2026-07-27] ingest | yt batch (@thefutur, 1 of 3 — two deferred) — the pitch story, finally with numbers
+
+**Stage B (P2), `--n 3`.** The row deferred from batch 154 was taken first and turned out to be a landmark.
+Ledger 902 → **903 L2**.
+
+| id | date | what it is |
+|---|---|---|
+| `yt-sLe5iNSyejk` | 2025-03-13 | ★★★ **LANDMARK** — live pitch workshop; ⏸️ from 154 |
+| `yt-4OpUb4Iux8I` | 2025-03-18 | ⏸️ **DEFERRED** (42KB parenting episode) |
+| `yt-PQPybDWoC2A` | 2025-03-19 | ⏸️ **DEFERRED** (65KB guest episode) |
+
+**1. ★★★ The Kier McLaren pitch story, which the corpus has carried qualitatively for passes, finally
+arrives with numbers.**
+
+> *"He says *how do you pitch new business?*… I told him. He says: **okay, that's not very good.** I said
+> **I thought it was great** — at this point **I'm doing $2.1 million in revenue every year.** He goes:
+> **when do you ask the client a question?**"* — and Chris's honest answer: ★★★ *"**I thought I was supposed
+> to just pitch.**"*
+
+★★★ **His own resistance is the useful part**: *"he's like — **idiot, how do you know what somebody wants
+without asking them?** … **And I said to him: Kier, I can't ask those kind of questions. That's rude.**"*
+
+> ★★★ **THE RESULT, new to the corpus**: *"two calls later I'm winning pitches left and right. **We went
+> from winning 20% of the new business pitches to 75% plus**"* — which *"**allowed me to double my revenue
+> in one year, actually less than a year.**"* `[self-reported]` Then it scaled: *"I taught my team how to
+> ask questions, and **they were winning so much I didn't go on the pitches anymore.**"*
+
+★★★ **And the passage that makes it more than a case study** — what losing four out of five actually felt
+like: *"it sucks to pitch after work you really want, for budgets you can only dream of, and for four out of
+five to say *no, not today, not you, someone else*… **you know how I would console myself before I hired
+Kier? At least we were considered. Look at all these amazing companies I admire — we're pitching against
+them.** ★★★ **That self-talk can only last so long before you want to take desperate measures.**"* With the
+counterfactual: *"**imagine if Kier told me *ask your clients questions* and I waited 10 years. Would I still
+be in business? I don't think so.**"*
+
+**2. ★★★ The "You know how…" formula, taught in full with a live rebuild.** Diagnosis first: he polls job
+titles and takes each apart — *"what's the problem with **multimedia designer**?"* — *"**Everything. That's
+the problem.**"* The stakes: ★★★ *"**if I don't understand what you do, I don't know how to say you can help
+me — therefore I don't know how to give you money**"*, and the referral chain that follows: ★★★ *"**if I
+don't understand what you do, I cannot remember what you do — and then I can't tell other people what you
+do.**"*
+
+The formula: **adjective + avatar**, then the problem — and specifically ★★★ *"**what's the NEGATIVE version
+of that?**"* — then the result. **Before**: *"I teach digital multimedia design."* **After**: *"**You know
+how creative high school students don't know what career direction to go, and feel lost and directionless?
+I help them find a career in art.**"* Plus the mechanic most teaching omits: ★★★ *"**it's a conversation,
+not a monologue… you have to PAUSE.**"* And the compression rule, stated twice: ★★★ *"**one avatar, one
+problem, one result.**"*
+
+**3. ⚠️✅ A third confirmation of Kier McLaren's death.** *"I worked with my business coach for 13 years —
+**he's passed away since.**"* That is now **three passing, past-tense references across six weeks**
+(2025-02-02, 2025-03-12, 2025-03-13). **No date is given in any of them, and none is inferred.** Entity page
+updated with both the death note and the pitch numbers.
+
+**4. ⚠️⚠️ Fourth strike on the same misattribution.** *"There's a book — **I think his name is Michael
+Porter** — it's called *Book Yourself Solid*."* **It is MICHAEL PORT.** The corpus has now caught this
+error **four times on record.** Corrected here, not propagated, and the v18 guard already covers it.
+
+**Also**: ★★ *"**they like to just struggle and be poor**"* on why creatives refuse formulas, with a
+second-hand Hormozi anecdote as corroboration (recorded as **relayed**, not verified); ★★ **you cannot see
+your own problem** — *"that's why consultants and coaches and preachers, ministers, therapists, friends,
+instructors help you see what you cannot see"* — with the commercially candid coda *"**which is good news
+for people like me — I can see it almost instantly.**"*
+
+> ⚠️ **The closing ~40 seconds are spoken by someone else** — a colleague reflecting on Chris's method in
+> the third person (*"if you come here and Chris gives you a straight-shot answer…"*). **Fenced and marked;
+> the good line *"just because your problem is not special, it doesn't mean that you're not special"* is NOT
+> Chris's and must not be attributed to him**, even though it rhymes with his own *"a business problem is a
+> business problem."*
+
+**Deferrals (no silent caps):** two rows — `4OpUb4Iux8I` (42KB parenting episode, **flagged as needing
+careful handling under the SUBJECT.md family-privacy rule**) and `PQPybDWoC2A` (65KB guest episode needing a
+full speaker-attribution pass) — both returned to `L0-discovered` at P2, transcripts cached, neither
+skimmed. **Neither has been deferred before; both lead the next batch.**
+
+**Pipeline state:** `@thefutur` P1:0, **P2:174**, P3:44; `@TheFuturAcademy` P3:72; shorts 860; L2=**903**,
+L3=0; synthesis debt **3/10**; persona v18.
+
+> **Next iteration: Stage B (P2), `--n 3`**, led by the two deferred rows.
+
+Synthesis notes: genuinely new — (1) ★★★ **the Kier McLaren pitch story WITH NUMBERS** — **$2.1M/yr at the
+time, 20% → 75%+ win rate, revenue doubled in under a year** — **supersedes the qualitative tellings**, and
+belongs in `business`, `entities/kier-mclaren` (already updated) and `entities/blind`; (2) ★★★ **the
+emotional cost of losing pitches** (*"at least we were considered"* → *"that self-talk can only last so long
+before you want to take desperate measures"*) — unusually unguarded, for `voice.md`; (3) ★★★ **the "You know
+how…" formula in full** — the adjective step, **the negative version of the outcome**, *one avatar / one
+problem / one result*, and **the pause** — with the before/after rebuild; (4) ★★★ **confusion and complexity
+are the enemy of retention**, with the referral chain; (5) ★★★ **his own resistance** — *"Kier, I can't ask
+those kind of questions. That's rude"* — which makes the whole ask-don't-pitch doctrine credible;
+(6) ★★ **you cannot see your own problem**, plus *"good news for people like me"*; (7) ★★ **creatives won't
+follow formulas** — *"they like to just struggle and be poor."* ⚠️ **Do NOT attribute the closing
+*"your problem is not special"* line to Chris**; ⚠️ **Michael Port, fourth strike — the v18 guard stands.**

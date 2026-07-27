@@ -4891,3 +4891,87 @@ cautionary tale), and the **Raw Materials/Priestley/Essam** fences already stand
 **Aaron Draplin**, **Stefan Sagmeister**, **Joan Lightfoot**, **Michelle J Raymond**, **Avital**, and the
 interviewer **"Mo"**. Carried: the deferred 2024-11-13 row; Part 2 of the Jule Kim listening workshop; the
 Seth Godin guest episode; two earlier Priestley and two earlier Tom Ross episodes; a Jasmine Star stub.
+
+## [2026-07-27] ingest | yt batch (@thefutur, 3 of 5 — two deferred) — a values trade, and the fence's first technique collision
+
+**Stage B (P2).** Five rows prepared (276KB); **three ingested, two deferred.** The deferred Brendan Kane
+row from batch 136 resumed at the front of the queue and was ingested — no row is deferred twice. Ledger
+869 → **872 L2**.
+
+| id | date | what it is |
+|---|---|---|
+| `yt-IocNJ4e_FzI` | 2024-11-13 | Brendan Kane — guest-primary; ⏸️ deferred from 136, now done |
+| `yt-BIrQvP_-6yQ` | 2024-11-27 | ⚠️⚠️⚠️ **NOT CHRIS** — Matt Essam **9th**, and a **technique collision** |
+| `yt-vpMLh3kMpaQ` | 2024-12-01 | compilation / clip-show — kept as a provenance map |
+| `yt-JUueoUqV9eQ` | 2024-11-24 | ⏸️ **DEFERRED** (80KB, Jule Kim) |
+| `yt-Vu4l1CluzCU` | 2024-12-03 | ⏸️ **DEFERRED** (57KB) |
+
+**1. ★★★ He diagnoses his own underperformance and refuses the fix.** In the Kane episode he raises a real
+puzzle — accounts resharing his exact videos outperform him. Kane offers algorithmic explanations. Then
+Chris supplies the actual answer himself:
+
+> ★★★ *"**I know what it is that they did, by the way — but I couldn't do it. That's the problem.** The
+> video has a description of me like *coach owns somebody*, or *sales expert owns fool or bad client*.
+> **I could never do that, because I don't want to describe myself as ever owning somebody.**"*
+
+That is a **knowing, named trade of reach for values** — not ignorance of the mechanism. It is the single
+strongest new `persona/beliefs.md` item in this batch, and it sits directly beside his standing objection
+to manipulation marketing. The same episode gave dated internal benchmarks worth keeping: ★★ *"**if we can
+get past 30 or 40,000 views it's broken through**"*, *"our content is **less viral and more evergreen**"*,
+TikTok at ~**100,000** followers, and the thumbnail doctrine — ★★ *"**your frame shouldn't be a replication
+of what you say in the title** — it's like a little mini story, there's a little tension."* Plus a small
+integrity marker: he interrupts an example to say ★ *"**this is not an endorsement of Graham Stephan.**"*
+
+**2. ⚠️⚠️⚠️ The Matt Essam fence takes its fifth consecutive strike — and its first TECHNIQUE collision.**
+The 9th instance is on **account growth and retainers**. Every prior instance reached *similar conclusions*;
+this one **teaches two of Chris's most distinctive documented techniques in nearly the same words**:
+*"summarise it in **their words** — use **their language** as much as possible"*, and *"**take notes**, so
+you can reference back what they said **in their exact language**."*
+
+> ✅ **The chronology clears the corpus, and I recorded it rather than just noting the alarm.** Chris taught
+> *use-their-exact-language* on **2024-10-03** and the **notebook** on **2024-10-13** — both **before**
+> 2024-11-27, both from Chris-attributed sources, both already promoted under his name. Essam credits the
+> playback move to **NLP**, not to Chris. **So those ideas in `topics/sales-clients` are not leaks and must
+> not be removed by a future pass.** What must never enter is this video's phrasing, its examples, and the
+> term *"realignment process"*. The entity page carries the extended grep list **plus two documented
+> known-good exceptions** (the pre-existing "pre-frame" hits, one credited to Russell Brunson) so the check
+> does not produce false positives. `matt-essam.md` and `SUBJECT.md` updated to nine.
+
+**3. A compilation kept for its flags, not its content.** `vpMLh3kMpaQ` is a monthly clip show and is
+largely duplicate. It is kept at L2 as a **provenance map** because it surfaces two things: substantial
+**Brian Collins** material that is **not on the 2024-10-06 Collins page** (*"design is not what it looks
+like — design is what it does"*; *"brand is not visuality… **brand is differentiation**"*; *"**words create
+worlds**"*; *"what's more important than imagination? **Craft**"*), and an **unidentified director segment**
+with no source episode. Both are flagged for the next pass. Chris's own new contribution in it is worth
+promoting: ★★ **brands buying creator videos are buying distribution, not just production** — *"they're
+getting a huge bargain… **so more brands should support artists.**"*
+
+**Deferrals (no silent caps).** Two rows deferred: `JUueoUqV9eQ` (80KB) and `Vu4l1CluzCU` (57KB), both
+returned to `L0-discovered` at P2 with transcripts cached. Neither was skimmed. **Calibration note:** three
+of the last four batches have contained landmark-density or fence-critical material, and 5-row batches have
+now produced a deferral three times running. **Next batch drops to `--n 4`.**
+
+**Pipeline state after this batch:** `@thefutur` P1:0, **P2:208**, P3:44; `@TheFuturAcademy` P3:72;
+shorts 860; L2=**872**, L3=0; synthesis debt **4/10**; persona v16.
+
+> **Next iteration: Stage B (P2), `--n 4`.** 208 open P2 rows, led by the two deferred rows.
+
+Synthesis notes: genuinely new — (1) ★★★ ***"I don't want to describe myself as ever owning somebody"***
+with its full context (he knows the mechanism, names the cost, declines) — for `persona/beliefs.md`, beside
+the manipulation-marketing line; (2) ★★ **the Futur's dated content benchmarks** (30–40K = broken through;
+evergreen not viral; TikTok ~100K) for `entities/the-futur`; (3) ★★ **thumbnail as a mini-story with
+tension**, plus his claimed predictive instinct on thumbnail A/B tests; (4) ★★ **his best-performing format
+is live + studio audience + paper and marker**, paired with Kane's **"perspective shift"** diagnosis of his
+virality (credited to Kane); (5) ★★ **brands buy distribution, not just production** — the media-buy
+argument, for the content and business hubs; (6) ★ the **public non-endorsement** as an integrity marker
+for `persona/voice.md`. ⚠️ **A third instance of the conversion pattern**: Kane diagnoses format mastery,
+Michelle J Raymond diagnoses outbound, Priestley diagnoses pricing and hunger — **Chris accepts all three
+and resolves none.** Record it as an open, dated pattern; do not synthesise a single answer. Fenced:
+**Matt Essam** (everything — and run the extended grep list with its two exceptions), **Brendan Kane** (the
+generalist principle, format-vs-trend, the 220-format library, gold/silver/bronze, hook-before-question,
+one-to-one-not-one-to-many, all case studies and pricing). ⚠️ **Two reconciliation tasks for the next
+pass**: check whether the Brian Collins material in the compilation belongs to the 2024-10-06 episode or a
+**second, un-ingested Collins episode**; and identify the **unnamed director** episode. New entity
+candidates: **Brendan Kane**. Carried: the two rows deferred today; Part 2 of the Jule Kim listening
+workshop; the Seth Godin guest episode; two earlier Priestley and two earlier Tom Ross episodes; a Jasmine
+Star stub.

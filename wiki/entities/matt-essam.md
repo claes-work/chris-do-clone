@@ -34,6 +34,7 @@ this has been a short masterclass…"* Prior to that video the surname was carri
 | 2024-08-27 | `vBTGeNr4ZZ0` | ⚠️ **client acquisition** — landing six-figure design projects | [[../sources/2024-08-27-yt-vBTGeNr4ZZ0]] |
 | 2024-09-27 | `TSU29CCLKrE` | ⚠️⚠️ **the sales process** — a four-part "clarity call" framework | [[../sources/2024-09-27-yt-TSU29CCLKrE]] |
 | 2024-10-27 | `-wh61BGjNNs` | ⚠️⚠️ **mindset + positioning + cash flow** — "recession proof your agency" | [[../sources/2024-10-27-yt--wh61BGjNNs]] |
+| 2024-11-27 | `BIrQvP_-6yQ` | ⚠️⚠️⚠️ **account growth / retainers** — and the **first direct technique collision** | [[../sources/2024-11-27-yt-BIrQvP_-6yQ]] |
 
 **Expect more.** The slot runs at least December 2023 → August 2024 and may continue through the 2024 P2
 range still open in the ledger. **It is regular, not occasional.**

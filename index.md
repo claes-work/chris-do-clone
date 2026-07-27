@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-27 (ingest yt batch @thefutur, 4 of 5 — one deferred → 869 L2 — ★★★ **"98% of Personal Branding Experts are Wrong"**, the highest-value persona source of the session: the complete personal-branding thesis, the 2014 Draplin origin moment, the praise-vs-criticism inversion, and sensitive biography handled with care; plus the **Futur ICP stated in full** and a **second conversion admission in three weeks**)_
+_Last updated: 2026-07-27 (ingest yt batch @thefutur, 3 of 5 — two deferred → 872 L2 — ★★★ he identifies exactly why a reshare outperforms him and **declines to fix it** (*"I don't want to describe myself as ever owning somebody"*); ⚠️⚠️ the Matt Essam fence takes its **fifth consecutive** strike and its **first direct technique collision** — chronology clears the corpus)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **869 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2024-11-20, one row deferred] + the 2026-07-21 fresh upload; synthesized through batch 133 → persona **v16**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **872 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2024-12-01, two rows deferred] + the 2026-07-21 fresh upload; synthesized through batch 133 → persona **v16**).
 
 ## Topics
 

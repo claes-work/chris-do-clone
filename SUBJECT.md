@@ -70,14 +70,16 @@ STATUS: INITIALIZED (2026-07-14)
 - ⚠️ **@thefutur carries a recurring Chris-absent teaching slot (2023–2024) — fence it on sight.** A
   solo-to-camera UK agency coach — **confirmed as MATT ESSAM** from his own on-air sign-off in
   `mVAuwv_UHlg` (2024-06-23) — teaches agency/productivity/outreach content under the channel brand with
-  no Chris involvement at all. **Eight** attested instances: `sM5CekilqDk` (2023-12-08),
+  no Chris involvement at all. **Nine** attested instances: `sM5CekilqDk` (2023-12-08),
   `KfKpmV9uFx4` (2024-01-19), `w3-yw4_n_Vo` (2024-03-07), `mVAuwv_UHlg` (2024-06-23),
   `eBrwd2FZCEE` (2024-07-27), `vBTGeNr4ZZ0` (2024-08-27), `TSU29CCLKrE` (2024-09-27),
-  `-wh61BGjNNs` (2024-10-27). Context page: `wiki/entities/matt-essam.md`.
+  `-wh61BGjNNs` (2024-10-27), `BIrQvP_-6yQ` (2024-11-27). Context page: `wiki/entities/matt-essam.md`.
   ⚠️⚠️ **He now teaches CORE Chris topics — 2024-07-27 is a full PRICING lecture, 2024-08-27 is CLIENT
   ACQUISITION, 2024-09-27 is THE SALES PROCESS, 2024-10-27 is MINDSET + POSITIONING + CASH FLOW — and he may cite
-  Chris by name to borrow authority. FOUR consecutive instances on core domains: treat the drift as
-  permanent. The entity page carries a standing verify-no-leak grep list; run it every synthesis pass. Topic overlap is the hazard, not evidence of authorship.** **Tells:** first-person "our clients / our
+  Chris by name to borrow authority. 2024-11-27 is ACCOUNT GROWTH / RETAINERS. FIVE consecutive instances on core domains: treat the drift as
+  permanent. The 9th instance is the first to teach Chris's OWN techniques (use-their-exact-language,
+  note-taking) — Chris taught both EARLIER (2024-10-03, 2024-10-13), so the chronology clears the corpus;
+  see the entity page. Run its verify-no-leak grep list every synthesis pass. Topic overlap is the hazard, not evidence of authorship.** **Tells:** first-person "our clients / our
   team" framing, a named planning system (*creative life planning system*, MAP acronym), a downloadable
   planner CTA, and Chris never speaking. File these **L2 do-not-train** with a fenced summary so the
   ledger stays complete — never let this material reach `persona/`. Expect more of them in the 2024 P2

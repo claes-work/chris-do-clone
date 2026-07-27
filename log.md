@@ -5784,3 +5784,83 @@ for `persona/voice.md`. ✅ **Promote (1)–(6) alongside** the 2024-10-24 *"you
 relationship"* material — one idea, two tellings. Fenced: **Finn McKenty** (the visibility argument he
 credits onward, his persuasion sequence, the career switch, the P&G lesson, the attribution problem that
 pushed him to YouTube). New entity candidates: **Finn McKenty**, **Pat Flynn**.
+
+## [2026-07-27] ingest | yt batch (@thefutur, 2 of 3 — one deferred) — the fence explained, and how to measure listening
+
+**Stage B (P2), `--n 3`.** The row deferred from batch 145 resumed at the front and was ingested. Ledger
+886 → **888 L2**.
+
+| id | date | what it is |
+|---|---|---|
+| `yt-6TPa4lWo5C4` | 2025-01-28 | ⚠️⚠️ **NOT CHRIS** — Matt Essam **10th**, ⏸️ deferred from 145 |
+| `yt-cMv8_cK6Om8` | 2025-02-04 | ★★ Chris solo — listening / ghosting, very short |
+| `yt-mw_0Hy1-tic` | 2025-02-02 | ⏸️ **DEFERRED** (62KB, Daniel Priestley fireside) |
+
+**1. ✅ The Matt Essam fence finally has its explanation — and it is a disclosure, not a discovery.** The
+tenth instance describes the arrangement out loud, unprompted, **while using it as his own worked example**:
+
+> ★★★ *"Right now, **the video that you're watching is a distribution partnership. I don't own this
+> channel.** … **This is Chris's audience.**"* — itemised as **distribution** (his content on this channel)
+> + **delivery** (*"**I am actually a coach within the Futur Pro Group and I run sessions**"*) + **brand
+> association** (*"I'm being associated with Chris and the Futur"*).
+
+**What this changes:** ten instances across six consecutive core domains are **not** an editorial drift or
+an accident, which is how the entity page had been framing them. They are a **disclosed, deliberate,
+three-part commercial partnership**, and he is a **paid coach inside the Pro Group**.
+
+**What it does not change:** the fence. It has never alleged concealment — it exists because **material by
+another practitioner, on the subject's own channel, in the subject's own domains, is an attribution hazard
+to the persona.** A disclosed partnership carries exactly the same absorption risk.
+
+> ⚠️ **I added an explicit fairness instruction to `matt-essam.md`: do NOT describe this relationship as
+> hidden, covert or undisclosed.** It is stated plainly on air by him. **Describe it as disclosed — and
+> fence it anyway.** Getting that distinction wrong would be unfair to a real person, and the corpus should
+> not carry an insinuation it cannot support.
+
+Entity page and `SUBJECT.md` updated to **ten**; the verify-no-leak list gains `partnership playbook`,
+`distribution partnership`, `delivery partnership`, `price cage`, `one-to-many`. **All four new terms grep
+clean** across `wiki/topics` and `persona`.
+
+**2. ★★ A 3.8KB solo episode with three things the corpus didn't have.**
+
+- ★★★ **A measurement for the listening doctrine** — the first one: *"we have a rough **80/20 rule**… and do
+  yourself a favour: **after your next sales conversation, look at the transcript and analyse for how much
+  you were talking versus the client. If it's not anywhere near the 20/80, you're doing something wrong.**"*
+  The corpus has taught listening for years without a way to check it.
+- ★★★ **The ghosting diagnosis**: *"most people, especially in America, are quite polite — they'll go along
+  with you… but what they're really thinking is **I can't wait for this conversation to be over.** So they'll
+  say: ***send me a proposal.* That is the kiss of death.**"*
+- ★★★ **"You could smell their agenda"** — *"you can smell the book sell coming"* — with the cost stated as
+  a loss of something already granted: *"**you already got us in the room, we're already listening to you,
+  we're looking up to you — and by doing these things you undermine your own goodwill and authority.**"*
+  Plus the **exploded car** example for evidence-based questions (*"my car blew up, and then I need a new
+  website"* — and you go straight to the website).
+
+> ✅ **Promote with [[2025-01-30-yt-GnEPJ87pIHI]].** That source names **the false yes** (they *go along with
+> it* rather than agreeing); this one names **"send me a proposal"**. **Same politeness failing at two points
+> in the cycle — one phenomenon, two stages.**
+
+★★ Also worth keeping: he grounds the doctrine in himself — *"especially coming from the point of view of
+**an introvert, one who likes to listen more than speak** — ultimately **that became my secret weapon to
+selling more.**"* That links the *loud introvert* biography to the sales material rather than leaving them
+as unrelated facts.
+
+**Deferral (no silent caps):** `mw_0Hy1-tic` (62KB, **Daniel Priestley fireside**) returned to
+`L0-discovered` at P2, transcript cached, not skimmed. **Flagged to be read properly** — Priestley is a
+recurring major figure.
+
+**Pipeline state:** `@thefutur` P1:0, **P2:189**, P3:44; `@TheFuturAcademy` P3:72; shorts 860; L2=**888**,
+L3=0; synthesis debt **4/10**; persona v17.
+
+> **Next iteration: Stage B (P2), `--n 3`**, led by the deferred Priestley row.
+
+Synthesis notes: genuinely new — (1) ★★★ **the transcript audit** as the first *measurement* of the 80/20
+listening rule; (2) ★★★ **"send me a proposal is the kiss of death"** — the ghosting diagnosis, to be
+promoted **with** the false yes as one phenomenon at two stages; (3) ★★★ **"you could smell their agenda"**
++ the goodwill-already-granted argument; (4) ★★★ **evidence-based questions** with the **exploded car**;
+(5) ★★ **introvert-as-secret-weapon**, linking biography to doctrine; (6) ★★ *"to be interesting, be
+interested."* ⚠️ **Entity work required**: `matt-essam` now records the **disclosed three-part partnership**
+(with the fairness instruction), and `entities/the-futur` should record neutrally that **Essam is a Pro
+Group coach** — a fact about the company's delivery model. Fenced: **Matt Essam** (the partnership playbook,
+the three partnership types — which he credits to **Daniel Priestley** — and the referral *"price cage"*
+critique).

@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-27 (ingest yt batch @thefutur, 3 of 3 — 1 L2 + 2 duplicates → 877 L2 — ★★★ **the captain-soldier self-diagnosis**: *"one of us has to lead and one of us has to follow… co-creation doesn't work for my brain"*, plus *"don't get into a partnership with anybody"*; two December videos identified as **re-cuts** of the 10-31 landmark and marked `dup-of` rather than given redundant pages)_
+_Last updated: 2026-07-27 (ingest yt batch @thefutur, 2 L2 + 1 duplicate → 879 L2 — ★★★ **the Four Agreements**, an original framework the corpus did not have; ★★★ he admits The Futur's own January-2014 content *"is a sales funnel"*; *"normal is just another word for average"*; *"you have to be a **correct** contrarian"*; and ★★★ *"being an entrepreneur is synonymous with being an educator"*)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **877 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2024-12-22; no rows deferred] + the 2026-07-21 fresh upload; synthesized through batch 133 → persona **v16**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **879 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2024-12-31; no rows deferred] + the 2026-07-21 fresh upload; synthesized through batch 133 → persona **v16**).
 
 ## Topics
 

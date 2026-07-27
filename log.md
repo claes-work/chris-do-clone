@@ -5250,3 +5250,96 @@ sports-team maxim, and *"the fear of losing it is more stifling than the fear wh
 episode; the **"Adrien"** episode lead; Jasmin Alić's first appearance; two earlier Priestley and two
 earlier Tom Ross episodes; a Jasmine Star stub; and the two standing reconciliation tasks (the Brian
 Collins material, the unnamed director).
+
+## [2026-07-27] ingest | yt batch (@thefutur, 2 L2 + 1 duplicate) — the Four Agreements
+
+**Stage B (P2), `--n 3`.** Second clean batch running — **nothing deferred.** Ledger 877 → **879 L2**;
+one of the three was another re-cut.
+
+| id | date | outcome |
+|---|---|---|
+| `yt-MIyLNmejcVY` | 2024-12-26 | Michelangelo — guest-primary coaching interview |
+| `yt-pstFSJSQyBU` | 2024-12-28 | ⏭️ **L1 · `dup-of:yt-IocNJ4e_FzI`** — re-cut, zero Chris content |
+| `yt-5_RMSS8Mf30` | 2024-12-31 | ★★★ **LANDMARK** — live meetup, Chris solo |
+
+**1. ★★★ An original framework the corpus did not have.** The 12-31 meetup talk contains **the Four
+Agreements**, which he introduces as his own with the borrowing acknowledged (*"it's a play on the same
+idea, but it's a different idea"*):
+
+1. **You must do good work** — *"a lot of people… haven't put in the energy and effort to do good work, and
+   so **they're just living on top of a lie.**"*
+2. **You charge a fair price** — defined operationally: *"**just give more value than what you charge. That's
+   it.** If you charge $100, all it has to be is **$101.**"* And then the ceiling exchange, which is the best
+   pricing moment in the batch: ★★★ *"**it's limitless. It is only limited by the value that you can
+   generate.** … **What's the theoretic limit? I don't know. I haven't found it.**"* Someone objects that
+   the client's valuation is the limit; he declines it — *"**if you pay me a million dollars, I give you a
+   million plus.**"*
+3. **We act in service of others** — resting on a claim sharper than it first sounds: ★★★ *"**very rarely
+   does the client have a problem that you can solve.** If you accept that, **you'll take away most of the
+   pressure in the buy-sell cycle.**"* With the duty to refer elsewhere attached.
+4. **Always act with integrity** — *"that means **you're willing to do the difficult things.** That's it."*
+
+**2. ★★★ And the most self-implicating admission he has made about The Futur.** Setting up the critique of
+advertising-as-content, he indicts his own company rather than an anonymous other: *"**we did that at the
+beginning of our content strategy.** Circa **January 2014** — I'm **a babe in the woods**… almost all of it
+is: **we tease the course material such that you would be left wondering *oh, I need to learn this,
+therefore I must buy this from you.***"* The room supplies the word and he confirms it: ★★★ *"**a sales
+funnel. It is a sales funnel. Absolutely right.**"*
+
+**3. ★★★ Three new framings of positions the corpus already holds.** ★★★ **Jung's Shadow/Persona** — *"the
+ego regulates between the Shadow… and **the Persona, [which] is who you show up in the world to be
+accepted**"*, and *"**most of us live in the Persona and we don't even know it.**"* Then the turn:
+★★★ *"if you look up **normal** in the dictionary, it kind of means **average**… **we're okay saying I want
+to be normal. I don't think we're okay saying I want to be average.**"* And the correction to the standard
+advice: ★★★ *"you have to be a contrarian [Mark Manson] — okay, but you could say *well, it's a flat Earth,
+Chris.* **So we have to add one more word: you have to be a *correct* contrarian.**"*
+
+Also ★★★ **money as a metric measuring impact** and *"**what money does is it buys your freedom**"* — which
+**independently corroborates** the *"real meaning of wealth"* line from the Encina episode three weeks
+earlier. Two separate statements, same position; promote as one.
+
+> ⚠️ **A decision to re-open, not to make silently.** He diagnoses why people run out of content as
+> *"you don't know what defines your character… **standalone episodes that don't tie back to this universe
+> you're building around you**"*, concluding *"**as the main character in your universe you have to have a
+> pretty clearly defined character.**"* This is **character-driven content language of the kind pass 14
+> deliberately did not re-add.** Stated here independently, in his own words, live. **The next pass should
+> revisit that call with this source in hand and decide explicitly** — confirm it or change it, but not by
+> omission.
+
+**4. From the coaching interview**, two principles that complete existing material: ★★★ *"**being an
+entrepreneur is synonymous with being an educator** — you have to teach people what you do, because **if
+you can't, it all hinges on you**"*, and ★★★ *"**a healthy business survives without its owner**"*, which he
+immediately stress-tests (*"tomorrow, if you're hit by a truck… is the company in a place where it can
+continue without you?"* — the guest says 20%, and Chris takes the number rather than softening it). Plus a
+**needed counterweight** to the walk-away doctrine: ★★★ **honour a bad quote**, credited to **Jonathan
+Stark** — *"if you quote something and later decide you undercharged, **suck it up. Let that be a painful
+lesson.**"* The persona should not read as *always walk away*.
+
+**Pipeline state after this batch:** `@thefutur` P1:0, **P2:198**, P3:44; `@TheFuturAcademy` P3:72;
+shorts 860; L2=**879**, L3=0; synthesis debt **8/10**; persona v16.
+
+> **Next iteration: ⚠️ consider Stage S.** Debt is **8/10** and the queue of ★★★ material is now four deep
+> (10-13 sales crash course, 10-31 thesis, 11-24 the full proud-of-you argument, 12-31 the Four Agreements)
+> plus a **standing decision to re-open** (character language) and **three reconciliation tasks**. Per the
+> loop's own rule the checkpoint fires at 10, but the *purpose* of the rule is to stop landmark material
+> queueing. **If the next batch turns up another landmark, fire Stage S early rather than deepening the
+> debt.**
+
+Synthesis notes: genuinely new — (1) ★★★ **the Four Agreements**, in full, as a named original framework;
+(2) ★★★ **the pricing pair** — *fair = give more than you charge* and *the ceiling is limitless, bounded
+only by value generated* — including the objection he refuses; (3) ★★★ *"very rarely does the client have a
+problem that you can solve"* — the philosophical root of the walk-away material; (4) ★★★ **the January-2014
+sales-funnel admission** for `entities/the-futur` and `persona/biography.md`; (5) ★★★ **Jung's
+Shadow/Persona**, **normal = average**, and the **correct contrarian** — three linked new framings;
+(6) ★★★ **money as a metric of impact / money buys freedom**, now doubly attested with 12-05;
+(7) ★★★ **"entrepreneur = educator"** and **"a healthy business survives without its owner"** + the
+hit-by-a-truck test; (8) ★★★ **honour a bad quote** (Jonathan Stark) as the counterweight to walking away;
+(9) ★★ *"I'm borrowing concepts that I barely understand, but I package them in a way that might help you
+apply it"* for `persona/voice.md` — an honesty marker; (10) ★★ **teaching as a development stage**, stated
+twice in one week (12-26 and 12-31) — promote once; (11) ★★ **why not me?**; (12) ★★ **personal brand
+outperforms company brand** (Cook/Apple, Musk/Tesla, Branson/Virgin). ⚠️ **Re-open explicitly**: the pass-14
+decision on character-driven content language. Fenced: **Michelangelo** (Thumbtack unit economics, the
+Google Ads pivot, his four-stage arc). ⚠️ **Housekeeping**: `yt-pstFSJSQyBU` is `dup-of` the Kane episode —
+**not a corroborating source.** Carried: the Seth Godin guest episode; the "Adrien" lead; Jasmin Alić's
+first appearance; two earlier Priestley and two earlier Tom Ross episodes; a Jasmine Star stub; and the two
+standing reconciliation tasks (Brian Collins material, the unnamed director).

@@ -6236,3 +6236,107 @@ want**; (11) ★★★ **portfolio: fewer, deeper, extended**, and **verticalize
 **record the 3-year / 3-to-5-year variance without picking one**; **promote the BOUNDED Mini Cooper
 spec-work telling** (this course omits the *"just don't lie"* rule); **leave the right-answer/wrong-question
 quote unattributed**; and **decide the family-name policy question above.**
+
+## [2026-07-27] ingest | yt batch (@thefutur, 1 of 3 — two deferred) — "the Futur is down a million dollars"
+
+**Stage B (P2), `--n 3`.** The row deferred from batch 150 was taken first — and it turned out to be the
+**densest single source of this era**, so it took the whole batch. Ledger 895 → **896 L2**.
+
+| id | date | what it is |
+|---|---|---|
+| `yt-hC2_b-y6zuc` | 2025-02-23 | ★★★ **TOP LANDMARK** — Creative Pulse fireside; ⏸️ from 150 |
+| `yt-HtkujhkfHOM` | 2025-02-26 | ⏸️ **DEFERRED** (88KB, Melanie Whitney guest) |
+| `yt-t1UUjOU5-4c` | 2025-03-01 | ⏸️ **DEFERRED** (33KB) |
+
+**1. ★★★ He discloses his own company's decline, on stage, unprompted.** *"**The Futur as a company is down
+a million dollars in revenue from 2022 to 2023, and we're not doing great right now either.** Everybody's
+like *are you stressed?* **No — because I'll figure it out.**"* `[self-reported]` — recorded as his own
+account with his own years. ★★★ **And he names the cause**, which is the more important claim: *"**information
+is cheap, and it got a whole lot cheaper** as more and more people use GPT — **and I can't even argue
+against it. I don't want to argue against it.**"* Worked live: a $200–300/month personal-training plan
+versus a prompt costing *"**$21 a month.**"*
+
+**2. ✅ The fourth face of the AI position — and it closes an open guard.** The corpus flagged that
+*AI-stance-is-2023* needed revising because three dated faces existed (labour markets, personal development,
+workflow). **This is the fourth and the most concrete: implementation** — *"**we fight AI with AI**… we're
+working on creating **an army of robots specifically trained to solve one problem**"*, e.g. a sales-call
+analyser scoring *"the eight metrics"* line by line, *"**and if it cost $20, maybe you'll do it**"* against
+*"half a day and a couple hundred bucks"* for a human. **Notably it is aimed at his own product line** —
+he says out loud that AI is undercutting the education business he runs. **Rewrite the guard around all
+four faces.**
+
+**3. ★★★ Three frameworks new to the corpus.** **Pi-shape over T-shape** (*"two verticals with a
+crossbar… usually when you're a little bit older"*) with ★★★ *"**drills before skills**"* and the food-court
+argument against breadth — *"**you've unwittingly invited all the people in those other categories to compete
+with you too.**" **Read it to teach it**: most people *"read a book to finish the book"*, level two is to
+apply it, ★★★ *"**read the book on level three, which is read it to teach it**"* — provoked by giving his
+management team *Win Without Pitching* and finding **none of them could say anything about it a week later**.
+And ★★★ **character + want + obstacle**, both as a question formula (*"**a well-constructed question is at
+least 50% of the answer**"*; *"the answer will be evident to almost everybody except the person asking it"*)
+and as a content formula, with the step he says everyone omits — **end on a reflective question**.
+
+**4. ★★★ The superhuman parable — the strongest new mindset material in months.** Raised by human parents
+who taught you human limitations, *"**you're socialised to be normal**"* — and *"**normal just means
+average.**" The proof he offers is from the critique room: *"the deepest insult… was for me to say **your
+work is average. That would cut a hole through your soul.** ★★★ **To say it's bad would be better than to
+say it's average. To say I don't understand it would be better than average. To say it's weird would be
+better than average — yet somehow we want to be average.**"*
+
+**5. ★★★ The fullest origin story in the corpus**, told at length and with unusual candour: Art Center and
+the class gap (*"**everybody was richer than me. I found two people poorer than me**"* → *"they had every
+advantage, but they didn't have one: **I would just outwork you**"*), the **Cole & Weber** timesheet
+escalation ending in Kevin Jones's ruling *"**if there're not more than 24 hours in a day he's writing, pay
+him**"*, leaving **Epitaph** over fit rather than money (*"**it's the wrong fit. I already knew it's the
+wrong fit**"*), the **K2 Skis** commercial he was underqualified for (*"**I just worked really slowly to let
+him do all the work**"*), the **Adobe/CoSA CD-ROM** that produced his first clients from work he *"didn't
+even want to put on the reel"* → ★★★ *"**you are the worst judge of your own work and its value**"*, the
+**three-employee milestone**, and the **Venice house years** as *"the best time in our company's history."*
+
+> ✅ *"**Why did it take me until 42 years old to figure that stuff out?**"* — born 1972 → **~2014**.
+> **Independent corroboration of the 2014 hinge from a completely different angle.**
+
+**6. ★★★ Two limits he places on his own doctrine**, both worth more than most of the advice: ★★★ *"**you
+don't need value-based pricing**"* — he talks a man out of it and into a **flat $100K** (*"take out all the
+variability… some jobs I'll make less than I'm supposed to, but I'll make a lot more than the jobs I'm
+getting"*) — and ★★★ *"**not everybody who wants to be an entrepreneur is an entrepreneur**… **so be an
+employee. It's totally okay.**"*
+
+> ⚠️ **This is the abrasive register, at length** — the live question workshop includes *"that's a generic
+> question, bro"*, *"what the heck is wrong with you guys"*, and *"**there's a reason why I only do these
+> talks once a year. You guys test my patience here.**" **Pair it with the receding-into-the-background
+> material rather than resolving the tension.**
+
+**Recorded but NOT promoted:** ⚠️ an **anonymous second-hand claim** about Western vs Eastern European work
+attitudes — he declines to name the source, it is unverified, and it is **reported speech only**;
+⚠️ an **off-colour analogy about his wife's appearance** in the pricing section, marked **do-not-reproduce**;
+⚠️ **Michael Port misattributed as "Porter"** for *Book Yourself Solid* — **third instance**, corrected
+again; ⚠️ *"I met her **11** times"* vs `persona/biography.md`'s *"we met all of **10** times"* — both his,
+both hedged, **neither hardened**.
+
+**Deferrals (no silent caps):** two rows — `HtkujhkfHOM` (88KB guest episode needing a full
+speaker-attribution pass) and `t1UUjOU5-4c` (33KB) — returned to `L0-discovered` at P2, transcripts cached,
+neither skimmed. **Both lead the next batch and must not be deferred twice.**
+
+**Pipeline state:** `@thefutur` P1:0, **P2:181**, P3:44; `@TheFuturAcademy` P3:72; shorts 860; L2=**896**,
+L3=0; synthesis debt **9/10 — checkpoint next iteration**; persona v17.
+
+> **Next iteration: Stage S — synthesis checkpoint** (debt hits 10), then back to Stage B led by the two
+> deferred rows.
+
+Synthesis notes: genuinely new, and this is the heaviest single-source haul in many batches — (1) ★★★ **the
+revenue disclosure** with ***information is cheap*** as its cause, a dated self-reported fact that reframes
+the 2025 output; (2) ✅ **the FOURTH face of the AI position** (implementation, robots fighting robots,
+aimed at his own moat) — **rewrite the AI-stance-is-2023 guard around all four**; (3) ★★★ **pi-shape**,
+**drills before skills**, **the food court**; (4) ★★★ **read to teach**, the three levels, five books, and
+the management-team story; (5) ★★★ **character + want + obstacle** as question AND content formula, plus
+**the reflective question**; (6) ★★★ **the superhuman parable** and **average as the deepest insult**;
+(7) ★★★ **the origin story at depth** for `persona/biography.md`, ✅ including the **"until I was 42"**
+corroboration of the 2014 hinge; (8) ★★★ **value-based pricing is optional**; (9) ★★★ **entrepreneurship is
+not for everyone / be an employee**; (10) ★★★ **the mentorship doctrine** (*"do everything I tell you to
+do"*, Miyagi and Pai Mei as *"messages from the future"*) **with his own compliance record as its defence**;
+(11) ★★★ **freelancer vs independent business owner**, ending in *"**you bent yourself over backwards.
+Nobody bent you**"*; (12) ★★★ **the flaky-client grace-period script** and **permission to change your
+mind** (Tony Robbins on consistency); (13) ★★★ **money is a vote**, **the work is evidence of a
+philosophy**, **a portfolio is only as good as the person looking at it**; (14) ★★★ **attachment to identity
+is the real obstacle** — *"no, I like my misery"*; (15) ★★★ the mission **with the *without losing their
+soul* clause restored**, which he corrects the host about live.

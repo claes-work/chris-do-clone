@@ -8390,3 +8390,73 @@ a *different* end (foresight, not preparation) — record as one image doing two
 speaking material already queued from 2025-05-13. (9) ★★ *"I'm just always nervous to give
 people too many notes and then they just totally have a meltdown"* — a calibration
 admission worth setting beside the abrasive/warm material, which pass 17 declared settled.
+
+## [2026-07-27] ingest | yt batch (@thefutur, 1) — the Simon Squibb interview, fenced
+
+Batch 171. One source, taken first as promised — the row deferred in batch 170 is now
+cleared and **no deferrals are outstanding**. L2 925 → **926**.
+
+- **2025-05-22 — "Your Dream Doesn't Need Money, It Needs This" w/ Simon Squibb** (★★
+  selective). 146 KB, the largest transcript of this ingest run, and **guest-dominated**:
+  the bulk is Squibb's own story (kicked out at 15, eight weeks homeless, a gardening
+  business built by knocking on doors, Fluid sold to PwC at 40, the $1M prize at the Dubai
+  1 Billion Followers Summit, and his "business of giving" model). All of it is fenced as
+  **context, not persona data**, and the page carries a top-level attribution warning plus
+  per-passage `[CHRIS]` markers so nothing leaks by accident.
+
+  **What is Chris's, and worth keeping:** his **interview method stated out loud** —
+  *"I like to get into the early parts of people's lives because **they leave clues as to
+  who we're going to become**"* and *"what I'm trying to do is **push against this, because
+  that's what's going to happen in the comments** and then it'll be too late"* (Squibb
+  independently compliments exactly this: *"you're thinking what the audience are going to
+  ask"*). ★★★ *"**You will never go broke telling a story of an outsider being overlooked,
+  the underdog** — because even if you have all the privilege in your life, we always feel
+  like internally there's a child who needs help, **and that's us**."* ★★★ *"A gift is a
+  gift… **you can't give and expect people to do things. There's a word for that. It's
+  called manipulation.**"* His **counter-theory** to Squibb's tribalism explanation of
+  online hate (*"I don't know if I agree with that"* → *"we're very suspicious of people
+  trying to do good… **everyone starts with the knives out first before they open their
+  hand**… **it's upon you and not upon them to show up consistently to reveal your
+  character**"*). The **C-vs-E** distinction invented live to test the giving model. And
+  the refusal — *"how do you justify spending $50,000?"* → *"**small-minded question.** It
+  doesn't matter how much you spend, it matters how much you make or take."*
+
+**Corroborations and flags**
+
+- ✅ **Passionate detachment, second attestation** — a named personal philosophy last seen
+  on 2019-09-25, restated unchanged nearly six years later. ⚠️ But **Squibb challenges it
+  directly** (*"it's like saying don't be too much in love because when you break up you
+  might cry"*) and **Chris does not concede**. Recorded as an **open tension**, not
+  resolved.
+- ✅ **"Almost 30 years"** married — consistent with the ~21-year figure from 2016–17; both
+  place the marriage at ~1995. Wife referenced by role only, per the standing rule.
+- ⚠️ **Cross-clone**: Squibb mentions **Alex Hormozi** in passing. Flagged on the page as a
+  third-party anecdote that must never be used as source material for the Hormozi clone.
+- Caption garbles flagged not asserted: "Calin" → **Robert Cialdini** (the recurring
+  Cialdini pattern), "Alex Hoszi" → Hormozi, "weiworks" → WeWork. One garble Chris fixed
+  himself on camera — "Eric Silva" → **Jason Silva** — with the correction left in the cut,
+  so the corrected name is recorded.
+- ⚠️ One attribution left **unresolved rather than guessed**: the *"you're speaking to
+  another capitalist here"* / *"I'm a capitalist socialist these days"* exchange has no
+  reliable speaker marking. Chris self-identifying as a capitalist is plausible but is
+  **not** recorded as a position.
+
+**Synthesis notes:** (1) ★★★ **The underdog belief** — *"you will never go broke telling a
+story of an outsider being overlooked"* — is a first-class storytelling belief with a
+stated mechanism (the hurt child who feels seen), and it pairs directly with the
+crying/love theory from the same episode (*"love is understand me and appreciate me"*).
+(2) ★★★ **His interview method is now documented in his own words** and deserves a page —
+early life leaves clues; voice the audience's objection before the comments do; declare the
+thread before pulling it. (3) ★★★ **Gift-with-expectation = manipulation**, with the
+parental example attached. (4) ⚠️ **Passionate detachment must be recorded WITH its
+challenge** — the corpus now has the philosophy (2019) and a serious live objection to it
+(2025) that he answers by pressing, not by conceding. Do not present it as settled.
+(5) ★★★ **The marriage-friction admission** — *"my wife and I, we do not share this dream…
+she just looks at my calendar and gets stressed out"* — is rare self-disclosure and belongs
+in `persona/biography.md` next to the "almost 30 years" figure. (6) ★★ **Social capital as
+his counter to pure-gift tribalism** (*"there's still a trade there — that's a community
+trade"*) is a real economic position and should join the business hub. (7) ★★ The **C-vs-E
+distinction** is a Chris-made framework, invented on camera, worth capturing as such.
+(8) ★★ Logged, minor: *"I'm very anti-property"*; *"I don't have a lot of love for people
+who use money to make money"*; the extended-adolescence view; and the face-reading theory
+(offered explicitly as theory, so record it as one).

@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-27 (ingest yt batch @thefutur, 2 → **925 L2** — ★★★ **the authenticity gap as a named framework** with five signs + the four-column exercise, and ★★★ **the Blind commercial-exit reasoning chain** ending in the AI self-disruption parallel: *"all they could see was the food in front of them, not the winter that was coming"*)_
+_Last updated: 2026-07-27 (ingest yt batch @thefutur, 1 → **926 L2** — the Simon Squibb interview, guest-dominated and heavily fenced; Chris-only: *"you will never go broke telling a story of the underdog"*, his interview method said out loud, gift-with-expectation = manipulation, passionate detachment challenged and not conceded, and a rare marriage-friction admission)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **925 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-05-25; one row deferred once — the 146 KB @SimonSquibb guest episode, queued first for next batch] + the 2026-07-21 fresh upload; synthesized through batch 163 → persona **v19**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **926 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-05-25, no deferrals outstanding] + the 2026-07-21 fresh upload; synthesized through batch 163 → persona **v19**).
 
 ## Topics
 

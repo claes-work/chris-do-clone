@@ -6554,3 +6554,90 @@ reset to **0/10**. ⚠️ `pass 16b` is queued as a pending checkpoint.
 > **Next iteration: Stage S again — pass 16b** (hubs + entities), then back to Stage B.
 
 Synthesis notes: none — this was the synthesis pass.
+
+## [2026-07-27] lint | synthesis pass 16b — closing the gap (all 7 hubs, 1 entity created, 4 deepened)
+
+**Stage S.** Pass 16 scoped itself to `persona/` and **wrote this remainder into the state file as a pending
+checkpoint rather than leaving it to be discovered missing.** This closes it. **No version bump — v18
+stands**, because nothing here changed the persona files.
+
+### Topic hubs — all 7 now current through 2025-03-01
+
+- **`business` §59–64** — **innovation and efficiency cannot coexist** (*t-boned on the freeway of
+  innovation*; small bets; ⚠️ the 3-year/3-to-5-year variance held open); **pi-shape / drills before
+  skills** with the food-court argument, joined to the **verticalization** case from two days later
+  (*"they're so deep inside the jar"* — the specialist wins on **rapport and industry knowledge**, not
+  craft); **freelancer vs independent business owner**, ending in *"**you bent yourself over backwards.
+  Nobody bent you**"*; **a business problem is a business problem**; ⚠️ **the dated Futur revenue
+  disclosure**; and **entrepreneurship is not for everyone** — filed with a note that it is
+  **anti-self-serving**, since he sells business education and here tells part of the audience not to buy
+  the premise.
+- **`sales-clients` §83–88** — ⚠️ **problem-seeker WITH the Brian Collins credit**, and an explicit list of
+  what remains Chris's (self-diagnosed/self-prescribed, the order-taker image, the two-move logo dialogue,
+  the money line); **the three whys with the tone layer taught as a separate skill** (Stark's questions,
+  **Enns's retreat-and-follow** under *why now*, **Voss's late-night FM DJ voice** on delivery, and *"it's
+  not a statement"*); **do you care about your client's real success** + the fake-strategist callout; **the
+  flaky-client grace-period script** and **permission to change your mind** with its reciprocity (*"you do
+  this, which means your clients can do this"*); **whoever is closest to the client**; and the **recap
+  email + capabilities deck**, ⚠️ with the low-variance attribution marked as **reconstructed, not
+  certain**.
+- **`pricing` §54–58** — ★★★ **value-based pricing is OPTIONAL**, flagged **do-not-soften** (he tells a
+  competent operator to skip his signature framework and blesses the outcome), with the off-colour analogy
+  marked **do-not-reproduce**; **speed commands a premium**; **the discretionary-budget threshold** and
+  **phased engagement**; **money is a vote** (*"we take it for granted that money is easy to get. It's
+  not."*); and **perceived value is manufactured** — $100 → $100,000 — **including the reverse effect**,
+  where showing too much prices you out before price is ever mentioned.
+- **`branding` F54–F57** — **no story equals a commodity**, with the **bookkeeper rebrand** as the worked
+  proof and *"not wishful thinking"* as the constraint on the fix; ★★★ **build a world, not a narrative**,
+  **filed as the SENIOR framework with the existing story material running inside it**, because it answers
+  the objection the corpus never had an answer for; ★★★ **the Daywalker**; and **the portfolio as an
+  argument, not an archive** (*"the work is evidence of a philosophy"*).
+- **`content-strategy` §53–55** — **character + want + obstacle** as both formulas, with the
+  **reflective-question** step and the follow-up habit (*"that sounds like a warm lead, or at least a future
+  friend"*); **show up for people before they show up for you**, the **archive rebuttal**, and his own
+  explanation of the asymmetry (students ask personal questions; the algorithm's audience doesn't); and
+  **the mission with the *without losing their soul* clause restored** alongside **the gossip boundary**.
+- **`mindset` §78–82** — ★★★ **the superhuman parable** with average-as-deepest-insult; **thoughts on
+  trial** ⚠️ carrying the adjudicated Essam collision **as NOT a leak**, and **the dark-thought triage** in
+  its fullest form, **explicitly marked as superseding the earlier partial versions**; **read it to teach
+  it** with *seek out the highest authority within your grasp*; **radical accountability**, **emotions
+  distort — with the love exemption AND the objection kept**, **attachment to identity is what's actually
+  hard**, **confidence precedes demonstration**; and **the mentorship doctrine** with his own compliance
+  record as its defence.
+- **`design-craft` §39–40** — **the portfolio as a system** (extend into systems, break the finished thing
+  into parts, presentation-craft-as-signal, Draplin's Illustrator palettes); and **over-deliver
+  deliberately and trade up**, ⚠️ **with the instruction to always promote the BOUNDED Mini Cooper telling**,
+  since this source omits the *"you can present anything — just don't lie"* rule the 2024 version carries.
+
+### Entities
+
+- ✅ **Created `wiki/entities/melanie-whitney.md`** — the item pass 16 explicitly deferred rather than
+  dropped. **Fenced**: PEACE, core wounds, judgment-vs-discernment and her citation of Eckhart Tolle are
+  **hers**; her personal disclosures are recorded minimally and marked **never to be elaborated or
+  repurposed**; the **friendly-by-construction** framing is noted (she is a Pro Group member and was on the
+  fishing trip, so her characterisations of Chris are warm-insider testimony, not arm's-length assessment).
+  ⚠️ **The specific hazard is recorded**: in her episode **she is the subject-matter expert and Chris is
+  largely the interviewer** — the inverse of the usual pattern on his channel, and exactly the shape that
+  invites mis-attribution. ✅ One exchange recorded as genuinely shared: **his words, her business.**
+- **Deepened `brian-collins.md`** — problem-seeker is his, with the standing instruction and the reasoning
+  for reading the uncredited version as format compression.
+- **Deepened `kier-mclaren.md`** — the **~2014 end date** (third 2014-hinge corroboration), the **therapy
+  honesty gate**, the origin of *whoever is closest to the client*, and two more one-lesson instances.
+  ⚠️ **Death note carried forward; still no date inferred.**
+- **Deepened `the-futur.md`** — the dated revenue disclosure **with handling rules attached**, the
+  robot-army direction, the restored mission clause, and the *less violence* thesis.
+- **Deepened `blind.md`** — the **three-employee milestone**, the **Venice house years** (named as the
+  company's best period, not its most successful), and **hiring above himself from the start**.
+
+### ✅ verify-no-leak, re-run after the hub edits
+
+*"irresistible offer"*, *"prospect pathway"*, *"clarity call"*, *"logical next step"*, *"control the
+frame"* → **zero hits** across `persona/` and `wiki/topics/`. The *"pre-frame"* and *"cost of inaction"*
+hits remain the three documented known-good exceptions.
+
+**State:** L2 **898**; high-water mark **batch 152**; persona **v18**; **synthesis fully caught up, debt
+0/10.**
+
+> **Next iteration: back to Stage B (P2), `--n 3`**, led by the deferred `yt-2dY6MsSedKg`. 179 P2 rows open.
+
+Synthesis notes: none — this was the synthesis pass.

@@ -6,26 +6,57 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **P2 long-tail through ingest batch 152 (L2=898) — all L2 source pages 2014 → 2025-03-01 (@thefutur; into the February-2025 era).** Synthesis pass **16** ran 2026-07-27 → system-prompt **v18**. ⚠️ **Pass 16 was PERSONA-ONLY by design** (beliefs, voice, biography, system-prompt, plus three policy decisions). **Topic hubs and entity pages for this era are still outstanding — pass 16b.**
+Synthesized through: **P2 long-tail through ingest batch 152 (L2=898) — all L2 source pages 2014 → 2025-03-01 (@thefutur; into the February-2025 era).** Synthesis passes **16 + 16b** ran 2026-07-27 → system-prompt **v18**. ✅ **Pass 16b closed the gap pass 16 declared: all 7 topic hubs updated, 1 entity created and 4 deepened.** No synthesis work is outstanding.
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
 
-- [ ] **pass 16b — topic hubs + entities for the February-2025 era (batches 143–152).** Pass 16 deliberately
-  scoped itself to `persona/` and declared this remainder up front. **Outstanding:** promote into
-  `business` (innovation-vs-efficiency, pi-shape, small bets, freelancer-vs-owner, a-business-problem-is-a-
-  business-problem, the Futur revenue disclosure), `sales-clients` (problem-seeker **with the Brian Collins
-  credit**, the three whys + tone, do-you-care-about-real-success, the flaky-client script, whoever-is-
-  closest-to-the-client), `pricing` (value-based-pricing-is-optional, discretionary-budget threshold, phased
-  engagement, speed commands a premium), `branding` (build-a-world-not-a-narrative, no-story-equals-
-  commodity), `content-strategy` (character+want+obstacle, show-up-for-people-first, the archive argument),
-  `mindset` (the superhuman parable, the dark-thought triage, radical accountability, read-to-teach),
-  `design-craft` (portfolio: three-to-five, show process, extend into systems). **Entity pages:** create
-  **Melanie Whitney**; deepen **brian-collins** (problem-seeker is his), **kier-mclaren** (the therapy gate,
-  the 2014 end date), **the-futur** (the revenue disclosure, the robot-army direction), **blind** (the
-  three-employee milestone, the Venice house).
+_(none — passes 16 and 16b both done; **synthesis is fully caught up through batch 152 / L2 898.** Next checkpoint: after ~10 more ingest batches or an era boundary.)_
 
 ## Done checkpoints
+
+- [x] **2026-07-27 · pass 16b · (no version bump — v18 stands)** — **closed the gap pass 16 declared up front.**
+  **TOPIC HUBS (all 7 now current):** `business` **§59–64** (innovation-vs-efficiency with *t-boned on the
+  freeway of innovation* and small bets; **pi-shape / drills before skills** with the food-court argument and
+  the deep-inside-the-jar verticalization case; **freelancer vs independent business owner** ending in
+  *"nobody bent you"*; **a business problem is a business problem**; ⚠️ **the dated Futur revenue
+  disclosure**; **entrepreneurship is not for everyone**, noted as anti-self-serving);
+  `sales-clients` **§83–88** (⚠️ **problem-seeker WITH the Brian Collins credit** plus what remains Chris's;
+  **the three whys with the tone layer** — Stark's questions, Enns's retreat-and-follow, Voss's late-night-FM-DJ
+  voice; **do you care about your client's real success** + the fake-strategist callout; **the flaky-client
+  grace-period script** and **permission to change your mind** with its reciprocity; **whoever is closest to
+  the client**; **the recap email + capabilities deck**, ⚠️ low-variance attribution marked as reconstructed);
+  `pricing` **§54–58** (★★★ **value-based pricing is OPTIONAL** — flagged do-not-soften, with the off-colour
+  analogy marked do-not-reproduce; **speed commands a premium**; **the discretionary-budget threshold** and
+  **phased engagement**; **money is a vote**; **perceived value is manufactured**, $100 → $100,000, including
+  the reverse effect where showing too much prices you out);
+  `branding` **F54–F57** (**no story equals a commodity** with the bookkeeper rebrand as the worked proof and
+  *"not wishful thinking"* as the constraint; ★★★ **build a world, not a narrative** — filed as the SENIOR
+  framework with the story material running inside it; ★★★ **the Daywalker**; **the portfolio as an argument**
+  with *the work is evidence of a philosophy*);
+  `content-strategy` **§53–55** (**character + want + obstacle** as question AND content formula with the
+  reflective-question step and the follow-up habit; **show up for people before they show up for you** plus
+  the archive rebuttal and his own asymmetry explanation; **the mission with the *without losing their soul*
+  clause restored** and **the gossip boundary**);
+  `mindset` **§78–82** (★★★ **the superhuman parable** with average-as-deepest-insult; **thoughts on trial**
+  ⚠️ carrying the adjudicated Essam collision as NOT-a-leak, and **the dark-thought triage** in its fullest
+  form marked as superseding the partials; **read it to teach it** + *seek out the highest authority within
+  your grasp*; **radical accountability**, **emotions distort with the love exemption and the objection
+  kept**, **attachment to identity is what's actually hard**, **confidence precedes demonstration**;
+  **the mentorship doctrine** with his own compliance record as its defence);
+  `design-craft` **§39–40** (**the portfolio as a system** — extend into systems, break the finished thing
+  into parts, presentation-craft-as-signal, Draplin's Illustrator palettes; **over-deliver deliberately and
+  trade up**, ⚠️ **with the instruction to always promote the BOUNDED Mini Cooper telling** since this source
+  omits *"just don't lie"*).
+  **ENTITIES:** created **`melanie-whitney.md`** (fenced: PEACE, core wounds, judgment-vs-discernment are
+  hers; her personal disclosures recorded minimally and marked never-to-be-repurposed; the friendly-by-
+  construction framing noted; the shared elevator-pitch exchange recorded as *his words, her business*).
+  Deepened **`brian-collins.md`** (⚠️ problem-seeker is his, with the standing instruction),
+  **`kier-mclaren.md`** (the ~2014 end date as the third 2014-hinge corroboration, the therapy honesty gate,
+  the origin of *whoever is closest to the client*, two more one-lesson instances — ⚠️ death note carried
+  forward, no date inferred), **`the-futur.md`** (the dated revenue disclosure with handling rules, the
+  robot-army direction, the mission clause, the *less violence* thesis), and **`blind.md`** (the
+  three-employee milestone, the Venice house years, hiring above himself).
 
 - [x] **2026-07-27 · pass 16 · → system-prompt v18** — **P2 February-2025 era (batches 143–152, L2 880 → 898).
   PERSONA-ONLY BY DESIGN; hubs and entities deferred to 16b and declared up front, not discovered missing.**

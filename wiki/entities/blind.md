@@ -231,3 +231,38 @@ a counter could land. **He did not start Blind out of necessity.** Full account 
 - Two decades of observing designers with *"a very narrow window of things that they'll try"*, for fear
   that trying something else would expose them as a fraud.
   ([[../sources/2024-07-16-yt-eENQx3vWRHE]])
+
+---
+
+## Early-years additions (added 2026-07-27, synthesis pass 16b)
+
+_All from the 2025-02-23 Creative Pulse fireside, the longest continuous account of the early years in the
+corpus. `[self-reported]`._
+
+- ★★★ **How he decided the company had "made it" — an arbitrary number he invented.** *"I told my
+  girlfriend, later my wife: **how do we know we've made it?** She goes *I don't know* — and **I just made
+  up an arbitrary number in my mind: if we can afford to pay three people full-time salaries with insurance
+  and dental and eye coverage, I think we made it.** **So my obsession was: get to three employees. It
+  didn't matter who they were, I just wanted three.** And when we got to three: **three feels pretty good —
+  how about four?**"*
+- ★★★ **The Venice house years — which he names as the company's best period, not its most successful
+  one.** *"**The best time in our company's history ever was when we ran our production company out of our
+  house** — a **three-storey postmodern house in Venice, a block and a half from the beach**, in the
+  weirdest part of Venice. They'd walk past the second floor, which is all the bedrooms, to the third floor
+  and just start working."* With the house rule: *"**do not come here before 9 a.m., because I'm still ugly
+  at 9 a.m.** So some of them would just park outside and wait. **I'm a bastard, I know.**"* And: *"we would
+  eat together, we'd watch TV, we'd go skateboarding. **It was just awesome.**"*
+- ★★ **The billings figure restated, with a recession framing**: *"when running my former agency **Blind**
+  we **survived multiple recessions** and ultimately achieved **over $80 million in billings**."*
+  `[self-reported]` ([[../sources/2025-02-20-yt-e2zox3-QL5Q]])
+- ★★ **The stated mechanism behind the longevity**: *"this is exactly how I was able to **reinvent our
+  creative agency every 3 to 5 years** to stay relevant and top of mind."* ⚠️ **He states the interval as
+  *"every three years or so"* elsewhere — say "every few years"; do not harden it.**
+- ★★ **Hiring above himself, early and deliberately**: *"I was able to hire people and — surprise surprise —
+  **they knew more, they were more capable**… eventually I hire designers who **care more about the design
+  than I do**, so **I rest really easy at night.**"* With the rebuttal to the obvious objection: *"people
+  wonder *easy for you to say, you're successful now* — **I'm successful and I have the resources BECAUSE I
+  made this decision at the beginning and not after the fact.**"*
+  ([[../sources/2025-02-18-yt-uOWi13jSAPA]])
+
+([[../sources/2025-02-23-yt-hC2_b-y6zuc]])

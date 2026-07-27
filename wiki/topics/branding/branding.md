@@ -1674,6 +1674,76 @@ does, *"when you start to build your personal brand it doesn't feel that connect
 talking about more of what you do. You just become more of the same. Super noisy.**"*
 ([[../../sources/2024-12-31-yt-5_RMSS8Mf30]])
 
+## ★★★ Framework 54 — No story equals a commodity, proved live (2025-02-16)
+
+> ★★★ *"**A product or service or an organisation without a story is a commodity** — and a commodity is
+> easily replaced, and **whatever is more convenient and cheapest is what is purchased.**"*
+
+**He proves it in the room rather than asserting it.** Taking a request from the floor to *"rebrand the word
+bookkeeper"*, he refuses to start with the answer — *"before we can rebrand, **we need to know what the
+public perception is**"* — collects the room's verdict (*"just data entry" · "anyone can do it" · "low
+cost" · "low skill" · "purely admin"*) and lands it: ★★★ *"**so it's a commodity, right?**"*
+
+**Then the constraint on the fix, which is the part most rebrand advice omits**: *"what would we like to
+move it to — **and we have to be truthful here, not wishful thinking.**"*
+([[../../sources/2025-02-16-yt--3B7cbOOis4]])
+
+## ★★★ Framework 55 — Build a world, not a narrative (2025-02-16)
+
+**This closes a real gap.** The corpus is full of storytelling advice, none of which answered the obvious
+objection: a story has to be rebuilt every time.
+
+> ★★★ *"**Each time you create a story it's a brand-new act of creation. It's very difficult to do this.**
+> **What if, instead of creating a narrative, you created a world?** … Figure out how you want to package it
+> **so that people ask you questions about it** — **that becomes the springboard for all of your ideas.**"*
+
+**The success criterion is questions, not comprehension** — a world generates its own prompts; a narrative
+has to be re-authored. **Treat this as the senior framework and the story material as what runs inside it.**
+([[../../sources/2025-02-16-yt--3B7cbOOis4]])
+
+## ★★★ Framework 56 — The Daywalker (2025-02-16)
+
+**A self-concept that retroactively explains a pattern the corpus kept observing without explaining** — why
+he so often speaks to mortgage brokers, loan officers and accountants.
+
+*"I ran into a group of **left-brainers**… and **I started to doubt myself. What am I doing here?** And then
+I realised — **I think I'm half accountant / business person, and half crazy creative person.** So depending
+on who I'm speaking to, I tell people: ★★★ **I help left-brainers think right.**"*
+
+★★★ **And the metaphor**: *"do you know who **Blade** is? … *I have all the strengths of the vampire and
+none of their weaknesses.* He's called a **Daywalker**. **A hybrid. Someone who travels two worlds. And
+sometimes I think of myself like that.**"*
+
+> ✅ **A positioning statement about himself that follows his own advice**: it names an audience, a
+> translation service, and a hybrid identity — in one line.
+
+([[../../sources/2025-02-16-yt--3B7cbOOis4]])
+
+## ★★ Framework 57 — The portfolio is an argument, not an archive (2025-02-20)
+
+- ★★★ *"**A portfolio is only as good as the person who's looking at it.**"* — *"if I come in with a
+  portfolio of album art or music videos and the person is in the finance space, **what are you showing me
+  this for?**"*
+- ★★★ *"**People don't care about what you do until they know what it could do for them.**"* (He flags his
+  own uncertainty about the source: *"I'm not sure if this is a phrase I've heard or I just invented it."*)
+  → *"**look at your customer, be super specific, understand their wants, needs, hopes, dreams, fears — and
+  ask yourself: do I solve any of those problems with this work?**"*
+- ★★★ **The line that generalises it**: *"**the work is evidence of a philosophy. So if the philosophy and
+  what you do isn't correct, it doesn't matter what the evidence looks like.**"*
+- ★★★ **Three to five pieces, not breadth** — *"**it's better to show fewer high-quality pieces than a lot
+  of work that doesn't stand up to that same metric of quality**"* — because breadth *"lacks focus"* and
+  *"not all the work is at the same level."* Evidenced by his own hiring: **four pieces in a FedEx box** got
+  him the ad-agency job. → *"**You don't need a lot if it's really good. And if it's not good, then get
+  good.**"*
+- ★★★ **The sales claim**: *"when clients look at your work and **they can see themselves working with you,
+  then you've done 50% of the sales work just by your website.**"*
+- ★★★ **Copy is half the job**, credited to **Seth Godin**: *"**no one wants to read email**… all they care
+  about is themselves. **What they want to read is *me-mail*.**"* → talk about *"**the problem, the solution
+  and the impact**"* and **tie it to business metrics** (time on site, bounce rate, conversion, customer
+  satisfaction).
+
+([[../../sources/2025-02-20-yt-e2zox3-QL5Q]]; [[../../sources/2025-02-23-yt-hC2_b-y6zuc]])
+
 ## Influences credited (not Chris's originations)
 
 - **Marty Neumeier** (*The Brand Gap*, *Zag*) — the brand-as-gut-feeling definition and

@@ -340,3 +340,35 @@ feedback"*, plus a **30-day money-back guarantee** from Nov). By **2024-12-03** 
 outcomes** instead — a website designer who *"booked two clients in one week without relying on social
 media"*, a photographer who *"booked two photo shoots… simply from sending some emails"* — and adds
 *"**we will hold you accountable to take action on them.**"* Recorded as a **dated marketing change**.
+
+---
+
+## The February-2025 disclosures (added 2026-07-27, synthesis pass 16b)
+
+- ⚠️★★★ **A dated revenue disclosure, made unprompted on stage.** *"**The Futur as a company is down a
+  million dollars in revenue from 2022 to 2023, and we're not doing great right now either.** Everybody's
+  like *are you stressed?* **No — because I'll figure it out.** I get excited about figuring out the next
+  puzzle piece."* `[self-reported]` (said **February 2025**)
+  ([[../sources/2025-02-23-yt-hC2_b-y6zuc]])
+  > **Handling**: a revenue claim about a private company, made by its founder. **Always say when it was
+  > said. Do not extrapolate it forward, and do not soften it** — the disclosure is voluntary and the
+  > attitude attached to it is part of the record.
+- ★★★ **The cause he names**, which matters more than the number: *"**information is cheap, and it got a
+  whole lot cheaper** as more and more people use GPT — **and I can't even argue against it. I don't want to
+  argue against it.**"* Worked live: a $200–300/month personal-training plan against a prompt costing
+  *"$21 a month."*
+- ★★★ **The strategic response — automate implementation rather than defend the moat.** *"**We fight AI with
+  AI**… I don't want to build a company that is heavy on people, because **that's overhead, that feels like
+  a job to me.** So **we're working on creating an army of robots specifically trained to solve one
+  problem.**"* The worked example is a **sales-call analyser** scoring a transcript *"along the eight metrics
+  where we score you — where rapport was broken, where you were pitching, presenting and selling as opposed
+  to being totally present"* — priced against the human alternative: *"half a day and a couple hundred
+  bucks… **but if it cost $20, maybe you'll do it.**"*
+- ★★★ **The mission, with the clause he says gets dropped.** Correcting a host live: *"**there was an
+  important component missing** — it's **to help a billion people make a living doing what they love,
+  WITHOUT LOSING THEIR SOUL.** **The love part is really important.**"*
+  ([[../sources/2025-02-23-yt-hC2_b-y6zuc]])
+- ★★★ **And the fullest statement of why**: *"my entire thesis for The Futur is **to help people achieve
+  their dreams**, because **the world is a much better place when each one of us is working in our zone of
+  genius**… and **if we could do that, I think there's going to be less violence, in every definition of
+  that word.**"* ([[../sources/2025-02-26-yt-HtkujhkfHOM]])

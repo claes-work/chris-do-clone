@@ -3712,6 +3712,131 @@ because that's what people do: they honour their word.**"*
 
 ([[../../sources/2024-12-31-yt-5_RMSS8Mf30]]; [[../../sources/2024-12-26-yt-MIyLNmejcVY]])
 
+## 83. ⚠️★★★ Problem solver → problem seeker — and the credit belongs to Brian Collins (2025-02-18, 2025-02-20)
+
+**An attribution the corpus came within one batch of getting wrong.** On **2025-02-18** he teaches it as one
+of his own seven habits, uncredited: *"**we need to shift away from being a problem solver to a problem
+seeker.**"* On **2025-02-20**, two days later:
+
+> *"When I was having a conversation with **Brian Collins**, he says **designers need to move from being
+> problem solvers to problem seekers** — and there's a big difference there."*
+
+> ⚠️ **Always carry the credit.** The uncredited version is format compression in a listicle, not a claim of
+> authorship — **the credit is in his own mouth in the same week.** See [[../../entities/brian-collins]].
+
+**What IS his**, and what the persona should use: the clinical framing — *"they will come **self-diagnosed
+and self-prescribed**"*; the **order-taker** image (*"do you want fries with that?"*); and the money line —
+*"**the reason people pay me so much money for my time is because I help them get clarity on what their
+problem is by asking better questions.**"*
+
+**The two-move logo dialogue** that operationalises it: (1) *"I would love to make you an incredible logo,
+**but before we do this, what is driving this request?**"* → (2) *"**will changing your logo impact the
+business, and how?**"* — and what the pair is actually doing: *"you're **contrasting the positive points**…
+**and looking at the negative outcomes in terms of getting it wrong.** **What's at stake if we do it well,
+if we do it poorly — and between that balance is where you come in and thread that needle.**"*
+([[../../sources/2025-02-18-yt-uOWi13jSAPA]]; [[../../sources/2025-02-20-yt-e2zox3-QL5Q]])
+
+## 84. ★★★ The three whys — with tone taught as a separate skill (2025-02-20)
+
+Credited to **Jonathan Stark**, and notable because he insists the script is only half of it: *"first I'll
+tell you what the questions are, **then I want to talk about tone and delivery, because that matters a
+lot.**"*
+
+1. **Why this** — *"why is it you want to do this, **and why not do something else?**"* When the answer is
+   *"I don't know, that's a darn good question"*, that is *"**an invitation for you to contribute.**"*
+2. **Why now** — *"**why not do nothing? Why not just stop and wait six months? Because if we can save you
+   money by not doing anything, why proceed?**"* ★★★ The mechanism, credited to **Blair Enns** (*Win Without
+   Pitching Manifesto*): *"in a buy cycle **we want to retreat and see if the client will follow us.**"*
+   Result: *"**you no longer have to convince them they need to move forward — now they convince
+   themselves.**"*
+3. **Why me** — *"**the hardest question to ask, but as important as the others, maybe more.**"* *"Of all
+   the people you could work with, **why did you choose today to give up your very valuable time to speak to
+   me?**"* → *"**this saves you from them asking *why should I hire you?* — well, they just told you. So you
+   no longer have to play defensive.**"*
+
+> ★★★ **The tone layer, credited to Chris Voss** (*Never Split the Difference*): the **late-night FM DJ
+> voice** — *"just remember **cool jazz, coasting as you're driving. Slow, deep, methodical.**"* Plus the
+> grammatical tell most teaching omits: *"**end it on an up note, to insert a question. It's not a
+> statement.** *Why me?* — see the difference?"* Said aggressively instead: *"*why would you ever hire me?*
+> — they're like **well, really good question, I have no idea. Hang up the phone.**"*
+
+**The composite is his; the parts are theirs.**
+([[../../sources/2025-02-20-yt-e2zox3-QL5Q]])
+
+## 85. ★★★ Do you care about your client's real success? (2025-02-23)
+
+*"I'm going to ask you this question and **you have to be really honest with yourself: do you care about
+your client's real success?**"* If they say *I need a new logo*: *"**what will that do for your business —
+because as much as I'd like to take your money, how will it impact anything?** ★★★ **And if they can't
+[answer], you should not take their money.**"*
+
+**The fake-strategist callout**: *"you say *we're strategists* because **you think you can charge more when
+you don't understand strategy**, and **you actually don't care if their business succeeds or not**… **you
+just like that term because it sounds better than the term you're using.**"*
+
+**And the advice for juniors, which refuses the upsell**: *"be happy to work with clients who love what you
+do, and **just charge enough money that you feel really excited to do the work.**"* Worked live: *"*I hate
+my client.* **Twice as much?** *Mildly annoying.* **Four times?** *I'd like the work.* ★★★ **Is it them, or
+is it you? Because you were afraid to ask for the amount of money that would bring joy to you.**"*
+([[../../sources/2025-02-23-yt-hC2_b-y6zuc]])
+
+## 86. ★★★ Flaky clients, and permission to change your mind (2025-02-23)
+
+*"Number one: **charge more.** Number two: **have penalties for missing deadlines.** Those are just
+**healthy boundaries** to have."* Then the grace-period script: *"*as we previously talked about, you have
+this much time and we're over that time. **This is a grace period now**, and if you go beyond that: **I'm
+going to kill the job, send you an invoice for the work done**, and we'll pick it up — **but it won't be the
+same price, because we're starting up again** — **or you'll have to pay this amount, because I can't have my
+team idling by.*** ★★★ **It's like leaving the car running. We're not going nowhere.**"* And the exit line:
+*"**it feels like this is no longer a priority to you. Let me know if that changes** — and move on with your
+life."*
+
+> ★★★ **The symmetry that makes it fair**, via **Tony Robbins** on consistency (*"the number one thing that
+> drives human decisions is the need to be consistent with ourselves — **and I'm stuck here just like you
+> are**"*): *"**when doing what you said you're going to do hurts more people than it helps, change your
+> mind**"* — **therefore "you do this, [which] means your clients can do this."**
+
+([[../../sources/2025-02-23-yt-hC2_b-y6zuc]])
+
+## 87. ★★★ Whoever is closest to the client makes the most money (2025-02-18)
+
+From **Kier McLaren**'s question — *"**who is the relationship with — is it with you, the creatives, or the
+producer?**"* — to which Chris knew the answer was *"definitely not with me."* The rule:
+**"whoever is closest to the client makes the most amount of money."** The consequence: *"everybody takes a
+little bit of the money away from the budget as it moves down the chain — **this is why the people who
+actually do the work have the least amount of money and the lowest profit.**"*
+
+**The practice he offers is deliberately small, from someone who says he was bad at this** (*"when clients
+came by **I would just hide in my room**… *I don't want to go, you go*"*): at a café with a confusing menu
+he began helping strangers order — *"**I became an unofficial, unpaid ambassador for this cafe.**"* It
+produced an introduction to a CMO about a rebrand, and **he refuses to inflate the ending**: *"**it didn't
+go beyond that.**"* The instruction: *"**go talk to somebody you've never met with no other agenda except to
+help them**"* — and the word he refuses: *"**I don't even want to use the word networking.**"*
+([[../../sources/2025-02-18-yt-uOWi13jSAPA]]; [[../../entities/kier-mclaren]])
+
+## 88. ★★ Two closing mechanics: the recap email and the capabilities deck (2025-02-20)
+
+- ★★★ **The recap email**: *"follow up with an email to summarise the key points… **this seems so obvious
+  and so simple, yet so few people do it that when you do it it's going to be like a breath of fresh
+  air.**"* The selfish half: *"if you're talking to five or ten clients a month **you're going to forget
+  what's important.**"* And the one line to add: *"**did I miss anything, or would you like to clarify
+  anything?** — **that opens up the invitation.**"* With the signal underneath: *"**the fact that you took
+  notes shows that you value their time** — and **the more time they invest in you, the more likely they are
+  to proceed.**"*
+- ★★ **The capabilities deck**, for the *"let me review it with my team"* moment instead of *"a Dropbox link
+  with a bunch of loose files."* His own is a **master deck curated down** — *"I'll probably pick three"* —
+  containing work as **problem / solution / impact**, team bios, services, sometimes broad price ranges,
+  a handful of testimonials and a **logo quilt**. Refreshed *"every three to six months"*, and built
+  *"**especially when it's slow and you have nothing to do.**"*
+- ★★★ **Anticipating the post-delivery problem as a sales move** — telling a website client up front that
+  *"what they don't often think about is what happens afterwards… **therefore I've anticipated this and
+  built in an affordable maintenance program**"*, which signals *"**this is obviously not your first
+  rodeo.**"* Underneath it, credited: *"**when there's low variance in process, there's low variance in
+  outcome. The greater the variance in outcome, the higher the risk you seem to be.**"*
+  ⚠️ *(The attribution is reconstructed from a caption garble as **Blair Enns** — marked, not certain.)*
+
+([[../../sources/2025-02-20-yt-e2zox3-QL5Q]])
+
 ## Cross-links
 
 - [[wiki/topics/pricing/pricing]] — value-based pricing, the desired-future-state → value

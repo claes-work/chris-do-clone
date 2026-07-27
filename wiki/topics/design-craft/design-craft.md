@@ -1586,6 +1586,53 @@ no process**, they're approaching every problem as a brand new thing — **and t
 you.**"*
 ([[../../sources/2024-11-20-yt-NW3Hob026xI]])
 
+## 39. ★★★ The portfolio as a system, not a gallery (2025-02-20)
+
+**The craft half of the portfolio argument** (the positioning half lives in `branding` F57).
+
+- ★★★ **Extend a mark into a system**: take a logo and add *"a texture and a colour palette, and start to
+  build out a system"* — *"**this will help you transform from being a logo designer to an identity designer
+  to a brand designer.**"* Concretely: *"**take a logo, apply it to a uniform, apply it as signage on a
+  building**, put it on appropriate collateral."* ★★ **With the guard against faking it**: *"**I don't mean
+  just take the logo and slap it on a bunch of different applications — that's not showing that you know how
+  to design systems.** **Crop the logo, put it on a shopping bag, turn it into a pattern**, do different
+  creative things."*
+- ★★★ **Break the finished thing into parts** — *"clients look at something really finished and think *this
+  is wonderful*, **but they have no insight into how you created this work.** So show it **broken down in
+  parts and pieces: this is the logo, these are the colours, this is the typography.**"*
+- ★★★ **Presentation craft is not vanity, it's a signal**: *"we make a snap judgement as to whether somebody
+  is worth it… **and the way we do that is we make decisions visually.** Whatever you can do to package your
+  work in the highest possible way — **the best mockups, the best lighting** — **it communicates on an
+  emotional level that this is expensive and this person knows what they're doing.**"*
+- ★★ **Three to five pieces, deeply made**, rather than breadth — *"put all your energy and love into making
+  those amazing case studies, **multiple angles, different applications**, and **write about your creative
+  process.**"*
+- ★★ **A workflow tip he credits to [[../../entities/aaron-draplin]]**: *"anytime you watch Aaron work
+  you'll see **he has mockups ready to go built into his palettes in Illustrator** — a t-shirt, a cap, an
+  apron… **he's not searching on his hard drive for the file.**"* The general principle: *"**systematize as
+  much as you can so that you're spending more of your creative thinking power in the work itself.**"*
+
+([[../../sources/2025-02-20-yt-e2zox3-QL5Q]]; [[../../entities/aaron-draplin]])
+
+## 40. ★★ Early-career: over-deliver deliberately, and trade up (2025-02-20)
+
+*"**I want to say this with some caution** — in the very early parts of developing your career **it is okay
+to over-deliver and over-produce, as long as you meet the client's business objectives.** … **You can take a
+small project and trade up — but the only way you can trade up is if you put all of your heart and soul and
+energy into building the very best that you're capable of.**"*
+
+**Evidenced by his own spec work**: wanting car commercials his portfolio couldn't demonstrate, *"I thought
+**foolishly** I could ask the clients to take that risk… **and guess what — no one ever did and no one ever
+believed we could do it.**"* So Blind self-financed a full 30-second **Mini Cooper** spot using *"the exact
+same process we would for any client"* and **sweat equity** — *"**that one TV spot got us a whole bunch of
+other jobs that looked just like it**, and it even won awards."*
+
+> ⚠️ **This course version omits the ethical bound that the fuller 2024 telling carries** — *"**you can
+> present anything — just don't lie.** … So if anybody asked: **spec project, spec project.**"*
+> **Always promote the bounded version.** ([[../../sources/2024-02-09-yt-QH6b8mMEP2g]])
+
+([[../../sources/2025-02-20-yt-e2zox3-QL5Q]])
+
 ## Sources
 
 - [[wiki/sources/2015-07-10-yt-hqYIe5Y76oY]] — My (First) Design Portfolio (portfolio framework, T-shaped, matching mirror). (2015-07-10)

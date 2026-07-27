@@ -2432,6 +2432,114 @@ doing what you need to do.** … **Every time I see somebody who's made it work,
 
 ([[../../sources/2024-12-22-yt-vCXPvDF1Sfg]])
 
+## 59. ★★★ Innovation and efficiency cannot coexist (2025-02-18)
+
+A hard incompatibility claim, not a preference. *"Everybody says of course we want to be innovative…
+**conversely they say we need to be really efficient. Those are two opposing ideas. They don't live in the
+same universe.** **You cannot be simultaneously innovative and efficient.**"*
+
+**The failure mode**: companies *"prematurely decide they're in an efficiency-building mode — cut cost,
+systematize everything, create processes"* and then *"**get t-boned on the freeway of innovation**, and
+their business is no longer viable."*
+
+**The mitigation** (credited to *Rework*): **small bets over one big gamble** — chop one large project into
+ten; a $100,000 budget becomes *"what is one idea we can try this month that we can spend $10,000 on?"*
+The waste is the mechanism, not a side-effect: *"**by the time you hit mistake seven or eight you've learned
+a ton**, so it informs each new initiative."*
+
+> ⚠️ **Interval variance, held open.** *"Reinvent our creative agency **every 3 to 5 years**"* here vs
+> *"**every three years or so**"* eleven days earlier ([[../../sources/2025-02-07-yt-Hmpf-q2IGQQ]]).
+> **Same doctrine, different stated period — say "every few years."**
+
+([[../../sources/2025-02-18-yt-uOWi13jSAPA]])
+
+## 60. ★★★ Pi-shaped, not T-shaped — and the food court (2025-02-23)
+
+*"Get that **T-skill** first — really deep on one vertical. And you know what builds confidence? **Doing the
+same thing over and over again. It's called drills. Drills before skills.**"* Then: *"instead of the T-shape
+you can have the **pi-shape — two verticals with a crossbar** — so you can go deep on two things, **usually
+when you're a little bit older.**"*
+
+**The food-court argument against breadth** — the sharpest version in the corpus: bad pizza, so you add
+tacos, then chicken wings. *"**Now you compete with the chicken wing place, the taqueria, AND the places
+that make pizza better than you.**"* → *"**You've unwittingly invited all the people in those other
+categories to compete with you too.**"*
+
+✅ **The vertical-depth argument from three days earlier completes it** — the two-designers thought
+experiment, where the specialist wins mostly on **rapport and industry knowledge**, not craft: *"when two
+strangers get together **we're looking for points of commonality**… *oh my gosh, you worked with that
+company* — **instantly rapport is built.**"* Plus: *"**you understand things about their industry that they
+might not even yet know, because they're so deep inside the jar.**"*
+([[../../sources/2025-02-23-yt-hC2_b-y6zuc]]; [[../../sources/2025-02-20-yt-e2zox3-QL5Q]])
+
+## 61. ★★★ Freelancer vs. independent business owner (2025-02-23)
+
+He stops a question to define terms: *"**are we using the same terminology when you describe a freelancer?
+I'm afraid we're not.**"* A **freelancer** *"sells time, usually for a boss, cannot hire other people to do
+the work, often has to show up on site… **they say when, where and how much, and then you get booked.**"*
+Polled live, almost nobody qualified: *"**you guys are independent business owners who just happen to have
+one employee: you.**"* (Etymology credited to **Jonathan Stark**: *"a lancer who sold his services — **you're
+a sellsword.**"*)
+
+> **The reframe, answering *"clients hire us to bend over backwards"***: *"**when you're an independent
+> business owner you get to dictate the terms.** When you accept terms you're not happy with, **you bent
+> yourself over backwards. Nobody bent you** — because **you don't have boundaries, you don't have clear
+> definition of scope, and you accepted it because you're afraid of some tension.**"*
+
+**And the counter-intuitive claim attached**: *"**if you're brave enough to have that tension, people
+respect you more. It's really weird.**"* With the positive case: hearing *"here's how most clients work with
+us"* makes a buyer *"**feel relieved. You've done this before.**"*
+([[../../sources/2025-02-23-yt-hC2_b-y6zuc]])
+
+## 62. ★★★ A business problem is a business problem (2025-02-26)
+
+*"**I don't care if you bake cakes or you walk dogs** — you still have the same problems: **marketing,
+sales, customer service, delivery of product, and making sure everyone has a beautiful customer
+experience.** Different scales, different audiences, different language and tools — **but the core
+principles are the same.** **This is why I can answer questions I'm not prepared to answer — because you see
+patterns.**"*
+
+With the concession that stops it being dismissive: *"if we're out by the campfire and there's 10 of us,
+**I do want to know your story**… **but when it comes to coaching — I'll listen to that, you just have to
+pay for it. At the end of the day the answer will be exactly the same.**"*
+([[../../sources/2025-02-26-yt-HtkujhkfHOM]])
+
+## 63. ★★★ The Futur's own numbers, disclosed on stage (2025-02-23)
+
+*"**The Futur as a company is down a million dollars in revenue from 2022 to 2023, and we're not doing great
+right now either.** Everybody's like *are you stressed?* **No — because I'll figure it out.**"*
+`[self-reported]`
+
+**The cause he names** is the more important claim: *"**information is cheap, and it got a whole lot
+cheaper** as more and more people use GPT — **and I can't even argue against it. I don't want to argue
+against it.**"* Worked live on the room's personal trainers: a $200–300/month coaching plan against a prompt
+costing *"**$21 a month.**"*
+
+**The response is not to defend the moat but to automate implementation** — *"**we fight AI with AI**… an
+**army of robots specifically trained to solve one problem**"*, e.g. a sales-call analyser scoring a
+transcript *"along the eight metrics"*, priced at *"$20"* against *"half a day and a couple hundred bucks"*
+for a human. And the constraint behind it: *"**I don't want to build a company that is heavy on people,
+because that's overhead — that feels like a job to me.**"*
+
+> ⚠️ **Dated, self-reported, and about a private company.** Always say when it was said.
+
+([[../../sources/2025-02-23-yt-hC2_b-y6zuc]])
+
+## 64. ★★★ Entrepreneurship is not for everyone (2025-02-23)
+
+*"**Not a popular answer: not everybody who wants to be an entrepreneur IS an entrepreneur.** Entrepreneurs
+like risk… **entrepreneurs just figure the s— out.** And if you're not that person — **I know it's sexy on
+Instagram to talk about your entrepreneurial journey — but you're not made for it.** … **So be an employee.
+It's totally okay. Nothing wrong with that.**"*
+
+**The test**: *"**does not knowing where the next job comes from bring me excitement?**"* **The spending
+pattern he attributes to the real ones**: *"if I spend $10,000 or $50,000 for a mastermind, **they KNOW
+they'll get $51,000 back** — and then they can execute."*
+
+✅ **Notable because it is anti-self-serving**: he sells business education, and here he tells part of the
+audience not to buy the premise.
+([[../../sources/2025-02-23-yt-hC2_b-y6zuc]])
+
 ## See also
 
 - [[wiki/topics/pricing/pricing]] — value-based pricing, "price the client not the job,"

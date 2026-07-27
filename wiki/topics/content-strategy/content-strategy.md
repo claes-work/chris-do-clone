@@ -2783,6 +2783,65 @@ What's the story I'm trying to tell?**"*
   there's the media buy** — so they're getting a huge bargain, because they're buying **not only your
   production services but your distribution.** … **So more brands should support artists.**"* (2024-12-01)
 
+## 53. ★★★ Character, want, obstacle — the question formula and the content formula (2025-02-23)
+
+> ★★★ *"There's this formula for story: **a character wants something, and there's an obstacle.** That's all
+> stories. … **So YOU are the character.** Just say **I'm this, I want this, and this is what's standing in
+> my way** — **if you can just say this, 99% of the problems [are] baked into your question.**"*
+
+★★★ *"**A well-constructed question is at least 50% of the answer.**"* And: *"once we were able to get the
+question on the board, **the answer will be evident to almost everybody except for the person asking it.**"*
+
+**The content version**: *"if you write your next LinkedIn post or Instagram story with **I wanted this, but
+I couldn't do it because this happened, but what I learned was this** — **your story will be 10× better than
+it is today.**"* Plus the step he says almost everyone omits: ★★★ *"**add at the end a reflective question**
+— *tell me about a time when you experienced this* — and **they start answering. This is the beginning of
+dialogue, and the algorithm loves engagement.**"* And then **follow up with the people who answer**: *"some
+of those people ask such good questions that I feel like I have to follow them and keep in touch — **that
+sounds like a warm lead, or at least a future friend.**"*
+
+**For personal stories**: *"if you read a lot of my posts on LinkedIn **it's actually not business related
+at all, it's a very personal story** — but **you build a bridge to the business lesson.** ★★ **That's the
+gift of creativity: you bend the story to this thing and you make it work.**"*
+([[../../sources/2025-02-23-yt-hC2_b-y6zuc]])
+
+## 54. ★★★ Show up for people before they show up for you (2025-02-26)
+
+On when to lead with personal story: *"**unless you're really about healing from trauma and dealing with
+your emotional wounds, you may not want to lead with that.** **You need to show up for people before they
+show up for you. Show me you care so I can care about you.**"*
+
+**The archive rebuttal**, offered against *"you've never shared this before"*: *"if you watch some of the
+earliest videos, when students from Otis or Art Center came by my studio, they'd ask *how'd you get started,
+what did you struggle with* — **and I would tell them.** It's just **those videos don't go viral and nobody's
+going into the archive.** **I have video proof that I have. The story's been there. It's just no one wants
+to know it.**"* ★★ **His explanation of the asymmetry**: students *"know you as a professor, they know your
+body of work, so of course they ask for more personal things"*, whereas *"if you're just bumping into our
+content as the algorithm sends it to you, **that may not be your first question.**"*
+
+★★★ **And the story he says he tells himself** — offered live as an example of a belief governing behaviour:
+*"**I'm showing up to teach. Nobody wants to know anything about me.** **That's the story I tell myself.**"*
+([[../../sources/2025-02-26-yt-HtkujhkfHOM]])
+
+## 55. ★★★ The mission, in its fullest form — and the gossip boundary (2025-02-23, 2025-02-26)
+
+★★★ **He corrects a host on The Futur's own mission, live**: *"when you told everybody our mission, **there
+was an important component missing** — it's **to help a billion people make a living doing what they love,
+WITHOUT LOSING THEIR SOUL.** ★★★ **The love part is really important.**"*
+
+★★★ **And the fuller thesis behind it**: *"**I do care a lot about people.** My entire thesis for The Futur
+is **to help people achieve their dreams**, because **the world is a much better place when each one of us
+is working in our zone of genius**, fulfilling our highest desires and passions and doing purposeful,
+meaningful work — and **if we could do that, I think there's going to be less violence, in every definition
+of that word.**"*
+
+★★★ **The one boundary on *ask me anything***: *"**ask me anything, whatever you want to know. If you're
+brave enough to ask it, I will do my best to answer it.** And **only on one occasion** was I not comfortable
+answering — the reason wasn't that I didn't want to, it was because **they're fishing for gossip.** **Since
+you're not involved in this story, I don't feel compelled to tell you this.**"* With the caveat that keeps
+it honest: *"**I like gossip as much as the next person — but you've got to be in it.**"*
+([[../../sources/2025-02-23-yt-hC2_b-y6zuc]]; [[../../sources/2025-02-26-yt-HtkujhkfHOM]])
+
 ## Sources
 
 - [[wiki/sources/2015-11-29-yt-z7Y9TKfgstE]] — "Is Your Design Resume Still Relevant?" —

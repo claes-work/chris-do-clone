@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-27 (**synthesis pass 16** — persona-only by design, L2 898 → **system-prompt v18**. ✅✅ **The abrasive/warm split is resolved in his own words**; ⚠️ **the AI guard rewritten from a 2023 snapshot into four dated faces**; ⚠️ **problem-seeker credited to Brian Collins**; ✅ **the family-name policy re-grounded and its one genuine breach redacted**. Topic hubs + entities are pass 16b.)_
+_Last updated: 2026-07-27 (**synthesis pass 16b** — closed the gap pass 16 declared: **all 7 topic hubs current**, **1 entity created** (Melanie Whitney, fenced) and **4 deepened**. Persona **v18** stands; L2 **898**; synthesis fully caught up through batch 152.)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **898 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-03-01, one row deferred] + the 2026-07-21 fresh upload; synthesized through batch 152 → persona **v18** ⚠️ *hubs/entities pending pass 16b*).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **898 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-03-01, one row deferred] + the 2026-07-21 fresh upload; synthesized through batch 152 → persona **v18**).
 
 ## Topics
 
@@ -26,6 +26,7 @@ _Last updated: 2026-07-27 (**synthesis pass 16** — persona-only by design, L2 
 - [wiki/entities/the-skool.md](wiki/entities/the-skool.md) — predecessor venture 2013/14–2016 (≠ Sam Ovens' Skool.com).
 - [wiki/entities/jose-caballer.md](wiki/entities/jose-caballer.md) — CONTEXT: early co-host/co-founder of The Skool, departed 2016.
 - [wiki/entities/futur-instructors.md](wiki/entities/futur-instructors.md) — CONTEXT: recurring non-Chris instructors (Encina, Burns, Gunn, Livsey, Owens, Ben Stroh) for speaker attribution.
+- [wiki/entities/melanie-whitney.md](wiki/entities/melanie-whitney.md) — CONTEXT: communication professor, mindful-communication coach, Pro Group member and fishing-trip participant. ⚠️ **The subject-matter expert in her own episodes** — PEACE, core wounds and judgment-vs-discernment are **hers, fenced**.
 - [wiki/entities/cynthia-kane.md](wiki/entities/cynthia-kane.md) — CONTEXT: communication author/coach, recurring guest (budget talk, silence, EQ); does NOT train the persona.
 - [wiki/entities/blair-enns.md](wiki/entities/blair-enns.md) — INFLUENCE/CONTEXT: Win Without Pitching / Pricing Creativity author; 4+ on-camera co-host appearances; his frameworks (MLE, Blairtopia, retreat-and-follow) are HIS, do NOT train the persona.
 - [wiki/entities/thefutur-youtube.md](wiki/entities/thefutur-youtube.md) — the main channel: eras, formats, ID UC-b3c7kxa5vU-bnmaROgvog.

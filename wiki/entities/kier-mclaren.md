@@ -249,3 +249,35 @@ paused. **I'm really good at detecting pauses.**"*
 *"**My wife was always super extra happy every Tuesday** — because **that's the day that Kier would come
 into the office and he would just kick my butt.** So she was just happy somebody was doing it to me for a
 change. **She loves me dearly, but it's fun to see me suffer.**"*
+
+---
+
+## Additions from the February-2025 era (added 2026-07-27, synthesis pass 16b)
+
+- ★★★ **The relationship ended around 2014.** *"I've been **coach-free** for a long time. My mentor, my
+  coach, my business coach **Kier McLaren and I stopped working together right around the time of The Futur
+  — so that's 2014.**"* ([[../sources/2025-02-26-yt-HtkujhkfHOM]])
+  > ✅ **This is now the THIRD independent corroboration of the 2014 hinge**, alongside the Draplin moment
+  > and *"why did it take me until 42 years old"* ([[../sources/2025-02-23-yt-hC2_b-y6zuc]] — born 1972).
+  > ⚠️ A **13-year** relationship ending in 2014 would imply a start around **2001**. **Recorded as
+  > implication, NOT asserted** — the 13-year figure is itself approximate.
+- ★★★ **His gate on therapy**, new and characteristic of his manner: *"something Kier told me when I was
+  thinking about going to a therapist — he said **if you're not willing to be honest, don't go. Just save
+  your money. It's silly. You're just going to make them work through all this, and they already know
+  you're lying or not telling the full truth, and you just drag it out.**"*
+  ([[../sources/2025-02-26-yt-HtkujhkfHOM]])
+- ★★★ **The origin of *"whoever is closest to the client makes the most money."*** Confronting Chris's
+  avoidance of client dinners, McLaren asked: *"**who is the relationship with — is it with you, the
+  creatives, or the producer?**"* Chris: *"I know the answer to that. **It's definitely not with me.**"*
+  ([[../sources/2025-02-18-yt-uOWi13jSAPA]])
+- ★★★ **Two more one-lesson instances** Chris cites as proof that he takes his own advice about following a
+  mentor: *"*stop selling on your calls, ask them what they want*… *just ask what the budget is* — **and I
+  did, and it just opened up my world**"*; and, after public speaking went badly, *"**let's find something
+  you like. You like making images, don't you?** … *just make a bunch of images together and make up a story
+  between them.* **I could do that — and that's what I did.**"* → *"**I didn't need two lessons. I'm a
+  one-lesson kind of guy. I'm cheap like that.**"* ([[../sources/2025-02-23-yt-hC2_b-y6zuc]])
+- ★★★ *"**My mentor who I worked with for 13 years. I'm not here without him.**"*
+  ([[../sources/2025-02-23-yt-hC2_b-y6zuc]])
+
+> ⚠️ **Reminder carried forward**: this page records that **he has died**, as stated on air, **with no date
+> inferred.** All references above are narrated by Chris in the past tense.

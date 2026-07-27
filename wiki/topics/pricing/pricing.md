@@ -2322,6 +2322,95 @@ had come to regret: *"**you made a commitment… because that's what people do: 
 > **After** an agreement he eats the loss. See `sales-clients` §82 — *walk away early, never late.*
 ([[../../sources/2024-12-26-yt-MIyLNmejcVY]])
 
+## 54. ★★★ Value-based pricing is OPTIONAL — a limit on his own doctrine (2025-02-23)
+
+**The most important pricing entry of this era, because it bounds the thing he is most associated with.**
+
+Asked for help with value-based pricing: *"**Okay, I'll help you right now: you don't need to do it.** You
+just don't need to do it."* The substitute is a **flat price**. Given a stated range of *"50 to 150 grand"*
+skewed to the low end: *"**why don't you just tell every client it's $100,000? If all your clients paid you
+100 grand, would you be happy with that?**"* — *"really happy"* — *"**you don't need value-based
+pricing.**"*
+
+**The reasoning**: *"**take out all the variability** and just say it's a thousand bucks — if you're poor,
+if you're rich, it's a thousand bucks. **Some jobs I'll make less than I'm supposed to, but I'll make a lot
+more than the jobs I'm getting.**"* And the second-order effect: *"they'll have a new problem — **now they
+want to do value-based pricing, but they've made so much money in the meantime**… **they reduce all the
+stress on their landing page: it's 100 grand, there's no mystery about it** … **and they may never want to
+go to the next level, and it's totally okay.**"*
+
+> ⚠️ **Do NOT let this be softened into "value-based pricing but simpler."** He is telling a competent
+> operator to skip his signature framework entirely, and blessing the outcome.
+>
+> ⚠️ **Handling note**: the passage contains an off-colour analogy about his wife's appearance, used to argue
+> that you needn't chase a status marker you don't want. **Recorded as existing; do-not-reproduce.**
+
+([[../../sources/2025-02-23-yt-hC2_b-y6zuc]])
+
+## 55. ★★★ Speed commands a premium — against the effort heuristic (2025-02-20)
+
+*"**Most creatives falsely assume that clients want you to spend more time working on something** and are
+therefore working harder and earning your money — **when in fact what they care about is saving time.**
+First and foremost they want the outcome — **but if they can get it delivered quicker it's worth more to
+them. They will actually pay more to get something done in less time.**"*
+
+**The everyday proof**: *"if you want to avoid the line at Disney there's a special pass… if you want
+premium seating at a game you can pay for that… **if you want to board first on an airplane, it's called
+first class.**"* And an example from the room he is sitting in: *"**I want drapery so I can control the
+light in this room** — if the vendor could deliver faster it would be worth more to me, **and even if I
+didn't pay more I would be a happier customer.**"*
+
+**The conclusion is operational**: *"**this is why it's important to develop systems and protocols to be as
+efficient as possible while maintaining the quality of your work.**"*
+([[../../sources/2025-02-20-yt-e2zox3-QL5Q]])
+
+## 56. ★★★ Two insider mechanics: the discretionary threshold and phased engagement (2025-02-20)
+
+- ★★★ **The discretionary-budget threshold**: *"some clients have a **discretionary budget** where **if they
+  spend less than this amount, no one else has to approve it.** So **if you know this amount** — and you
+  have that kind of rapport — **you probably want to submit the bid just underneath that number.**"* He
+  flags who it's for: *"**if you haven't been in business long enough, this can be critical for you.**"*
+- ★★★ **Phased engagement, for sticker shock**: *"**everybody agrees the value is there, but they look at
+  the price and *we can't do this now*.**"* The fix: *"**break up one big number into multiple payments
+  across time**, which makes it more palatable… if a client works with a quarterly budget you can break it
+  across a three-month cycle. **You're still going to get paid — you're just giving the clients more
+  flexible payment terms**, and therefore making it easier for them to say yes."*
+
+([[../../sources/2025-02-20-yt-e2zox3-QL5Q]])
+
+## 57. ★★★ Money is a vote (2025-02-23)
+
+His answer to the charge that charging well is mercenary: *"you're like **that's so capitalistic** — **it's
+really not**, because **somebody worked really hard to make that money**, and they know they have a boring
+job to give you… *I apologise for such a boring job, I'm a pain-in-the-ass client, we're disorganised — but
+we're going to pay you the money to help some of the pain go away. Maybe that'll help with your kids' college
+fund.* **That means a lot to me.**"*
+
+> ★★★ *"**We take it for granted that money is easy to get. It's not.** You know how hard it is to get? So
+> **when someone gives you that amount of money, that's a vote for you.**"*
+
+With the consequence he draws for himself: *"**I've done exciting projects, I've done not-exciting projects
+— but I loved all my clients because they paid me a lot.**"* And the long-run proof: *"clients I worked with
+**20, 30 years ago** will call me out of the blue… **how many of your clients would call you 30 years
+later?**"*
+([[../../sources/2025-02-23-yt-hC2_b-y6zuc]])
+
+## 58. ★★ Perceived value is manufactured, and it has a price tag (2025-02-20)
+
+- ★★★ **The portfolio multiplier**: take a logo, add *"a texture and a colour palette, start to build out a
+  system"* — *"**this will help you transform from being a logo designer to an identity designer to a brand
+  designer**"* — and *"**you can make a project go from $100 to $100,000 in its perceived value.**"* With
+  the guard against faking it: *"**I don't mean just take the logo and slap it on a bunch of applications —
+  that's not showing that you know how to design systems.**"*
+- ★★★ **Showing process raises the number**: *"clients look at something really finished and think *this is
+  wonderful*, **but they have no insight into how you created this work**… **in doing so you make a small
+  project look more comprehensive, more thought out**, and therefore increase the perceived value."*
+- ★★ **And the reverse — showing too much can price you out before price is mentioned**: *"they'd literally
+  say **we don't want all that, that's too much for what we have** — **we're not even telling you the
+  price**, they just look at it like **we can't afford that.**"*
+
+([[../../sources/2025-02-20-yt-e2zox3-QL5Q]])
+
 ## Worked figures & self-reported claims
 
 Concrete numbers Chris cites for his own business or in case studies. Studio rates and the

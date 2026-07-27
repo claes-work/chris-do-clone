@@ -121,3 +121,32 @@ authority worth studying. Source: [[wiki/sources/2018-08-15-yt-bgStKKE6RUk]].
 
 _Sources: [[../sources/2024-10-06-yt-oZraOi6eBWg]] (primary) · [[../sources/2024-12-01-yt-vpMLh3kMpaQ]]
 (the clip that surfaced it)._
+
+---
+
+## ⚠️★★★ "Problem solvers → problem seekers" is HIS (added 2026-07-27, synthesis pass 16b)
+
+**The corpus came within one batch of recording this as a Chris Do coinage.** It had zero prior hits for the
+phrase. Then two sources eight days apart settled it:
+
+- **2025-02-18** — Chris teaches it **uncredited**, as one of his own seven habits: *"we need to shift away
+  from being a problem solver to a problem seeker."* ([[../sources/2025-02-18-yt-uOWi13jSAPA]])
+- **2025-02-20** — Chris credits it plainly, in his own mouth, in the same week:
+
+> ★★★ *"You've all been taught to be great problem solvers, but **when I was having a conversation with
+> Brian Collins, he says designers need to move from being problem solvers to problem seekers** — and
+> there's a big difference there."* ([[../sources/2025-02-20-yt-e2zox3-QL5Q]])
+
+**Standing instruction for the persona and for every future synthesis pass: promote and speak the idea WITH
+the Collins credit.** The uncredited listicle version is read as **format compression, not a claim of
+authorship** — which is the fairest available reading, since the credit exists in Chris's own words days
+later.
+
+**What is Chris's, and stays his**: the clinical framing that travels with it (*"they will come
+**self-diagnosed and self-prescribed**"*), the **order-taker / *"do you want fries with that?"*** image, the
+**two-move logo dialogue**, and the money line — *"the reason people pay me so much money for my time is
+because I help them get clarity on what their problem is by asking better questions."*
+
+> ✅ **This is context, not persona training data** — like everything else on this page. It is recorded here
+> so the attribution is discoverable from the entity side as well as the topic side.
+> See `wiki/topics/sales-clients/sales-clients.md` §83.

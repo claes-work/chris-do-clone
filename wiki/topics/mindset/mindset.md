@@ -3647,6 +3647,140 @@ Notable because it is said in response to an account of **his own** bad day — 
 wrote publicly that meeting him was a disappointment. **He does not dispute it.**
 ([[../../sources/2024-10-29-yt-mn8SUUGZKdo]])
 
+## 78. ★★★ The superhuman parable — average is the deepest insult (2025-02-23)
+
+*"Imagine you're the byproduct of **some super alien species**, sent to Earth **as the last of your kind**,
+**raised by human parents who taught you about human limitations** — but **your parents knew that being on
+Earth would give you an advantage**, and you had all these gifts. And then, because you're raised by humans
+with human limitations, **you're socialised to believe certain things — and the thing that kills you the
+most: you're socialised to be normal.**"*
+
+**The turn**: *"**normal just means average. The norm is average.** Who here grew up thinking *I'm going to
+be average*? **So somehow we've made being average good.**"*
+
+> ★★★ **The proof, and it comes from the critique room rather than from philosophy**: *"the deepest insult
+> you can have for a creative — especially if I was your teacher — was for me to say **your work is average.
+> That would cut a hole through your soul.** **To say it's bad would be better than to say it's average. To
+> say I don't understand it would be better than average. To say it's weird would be better than average —
+> yet somehow we want to be average.**"*
+
+**The close**: *"**all those gifts are waiting for you to unearth — but you have to remember: you're not a
+human, you're superhuman.**"*
+
+✅ **Continuous with §75's Jung/normal=average material**, but this is the fully-built version with its own
+evidence.
+([[../../sources/2025-02-23-yt-hC2_b-y6zuc]])
+
+## 79. ★★★ Two instruments for your own mind (2025-02-16, 2025-02-26)
+
+- ★★★ **Thoughts on trial** — *"make a case for and against… **you are the lawyer and the judge for
+  both.**"*
+  > ⚠️ **An adjudicated collision, resolved in nobody's favour.** The same court-of-law exercise appears in
+  > **Matt Essam's 8th instance (2024-10-27 — *earlier*)**. **Neither derives from the other**: Chris credits
+  > *"what therapists do"* (standard CBT evidence-for/evidence-against), Essam credits Byron Katie.
+  > **Recorded under Chris's name and explicitly NOT a leak. Do not strip it.**
+  > See [[../../entities/matt-essam]].
+- ★★★ **The dark-thought triage** — the 2025-02-26 telling **supersedes the earlier partial versions**:
+  *"When I have a negative emotion about myself — of not being worthy, or I'm letting my ego drive — **I want
+  to sit in that pain. And in fact I want to amplify it to its nth degree, so I create a mini-catastrophe in
+  my mind — but it's guided.** It's not out of control. **What is the next step, and the next — what is the
+  bottom of this pit? Because I want to go there NOW, and sit in that emptiness.** **So then I can zoom back
+  up and say: I know how this ends. Why don't I just make the decision now, instead of having to go to the
+  bottom to make that decision?**"* The short form: *"**if I can't do anything about it, I don't want to
+  think about it anymore.**"*
+  ★★ **The theory it sits inside**: *"we have to hit rock bottom sometimes to force us to make different
+  decisions"* — and the failure mode it prevents: *"people experience a setback and **they get fuzzy about
+  it and avoid the feeling of how bad it feels, so they gloss over it — so they're bound to repeat this over
+  and over again.**"*
+
+([[../../sources/2025-02-16-yt--3B7cbOOis4]]; [[../../sources/2025-02-26-yt-HtkujhkfHOM]])
+
+## 80. ★★★ Read it to teach it — and the highest authority within your grasp (2025-02-23, 2025-02-26)
+
+*"Whatever your favourite book was — **could you teach it today without any preparation?** Some of you can.
+**Most of you cannot.**"* **The levels**: most people *"**read a book to finish the book, not to actually
+learn**"*; level two is reading to apply; ★★★ *"**read the book on level three, which is read it to teach
+it. Your intentionality affects how you read the book.**"*
+
+★★★ **The story, at his own team's expense**: he bought copies of Blair Enns's *Win Without Pitching
+Manifesto* for his management team and gave them a week. *"Okay — what's it about? …Give me a summary, tell
+me a big idea. **None of them in the room could tell me anything about the book.**"*
+
+★★★ **The compounding version, which he flags as too simple to be adopted**: *"the hack is **so
+dumb-stupid simple that most of you will not do it**… **read a book over and over again until you know it
+like it's your book — then read four more versions of that book.** By the time you read five books on one
+topic from five different people… **if you synthesise those five ideas and add your own stories on top,
+you'd be up here instead of me.**"* ★★ Supported by an etymology he'd just read: *"**well read** today means
+reading a ton of books — **but it used to mean reading a handful of books really, really well.**"*
+
+> ★★★ **The operational form, stated as a life formula**: *"**when you realise you have a problem, seek out
+> the highest authority that's within your grasp, and just pay them whatever they need to get paid so that
+> you could learn from them. I've done this consistently through my life and it's worked time and time
+> again.**"* — *"**I'm a forever student. I've mastered some things, but there are masters who are beyond
+> me.**"*
+
+([[../../sources/2025-02-23-yt-hC2_b-y6zuc]]; [[../../sources/2025-02-26-yt-HtkujhkfHOM]];
+[[../../sources/2025-02-18-yt-uOWi13jSAPA]])
+
+## 81. ★★★ Radical accountability, emotions as distortion, and what is actually hard (2025-02-23, 2025-02-26)
+
+- ★★★ **Radical accountability, and the fog that defeats it**: *"**I'm a person about radical
+  accountability, to take responsibility for things.**"* But *"there's a tendency to **make something that's
+  very simple and clear, unclear** — and **it's that kind of fogginess of the mind that [means] we don't have
+  to be accountable for a whole lot.**"* → *"**well, it's not clear what I should do, so I'll do nothing.**"*
+- ★★★ **Emotions distort — with an exemption that must travel with the claim**: *"**emotions cloud
+  judgment**… **emotions are good when you're expressing things of love, admiration — when you connect with
+  a real human, let all those emotions go.** But when you're **looking at life**, the **emotional goggles
+  you look through skew or distort reality.**"* → *"**I'm just trying to see things for what they are, not
+  what I want them to be.**"* ⚠️ **He records the objection rather than winning it**: someone argued *"who am
+  I without my emotions?"* — his note being that they were *"reacting emotionally to the comment about
+  wanting to get distance from it."*
+- ★★★ **What is actually hard** — his diagnosis after a live niching exercise: *"**you know what's really
+  hard? Your attachment to your identity, and your resistance to change and commit. That's all it is.** You
+  get past that, everything's super easy."* And: *"**I coach lots of people at scale and individually, and
+  people just don't want to change. That's the bottom line.**"* With the image: *"as broke and frustrated as
+  they are — **if I say just walk through that door and there's a pot of gold, everything will be solved:
+  *no, I like my misery.*** **That's how it feels for me. I just don't understand it.**"*
+- ★★★ **Where confidence comes from**: *"**the confidence comes from this belief that you can solve
+  problems** — **then the confidence precedes your ability to demonstrate it.** Because **when you can
+  demonstrate it, what is confidence for?**"* → *"**faith is acting despite having evidence** [i.e. without
+  it]… **do you have faith in you? Do you believe in you? Because if you don't believe in you, I don't
+  believe in you.**"*
+
+([[../../sources/2025-02-23-yt-hC2_b-y6zuc]]; [[../../sources/2025-02-26-yt-HtkujhkfHOM]])
+
+## 82. ★★★ The mentorship doctrine — "do everything I tell you to do" (2025-02-23)
+
+> ★★★ *"**I love to mentor people who just want to do what the hell I tell them to do**, cuz **all of it is
+> a waste of energy** [otherwise]. I'll teach you how to be rich, successful, happy — **just follow the
+> steps. Trust and believe: trust in your teacher, believe in yourself. Trust that I picked you and you
+> picked me, and I have good things designed for you.**"*
+
+★★★ **He grounds it in film, and says why**: *"there are **allegories in pop culture** trying to tell you
+the story over and over again — **you go to the box office, you watch the movie, you feel great, and you
+forget the lesson.**"* → *"**I think they're messages from the future**, trying to tell you you need to know
+this lesson today. But we consume it and we're like *haha, that was entertaining*, **and we don't do what it
+tells us to do.**"* Worked through **The Karate Kid** (*"**I only have one rule: do everything I tell you to
+do.** ★ **Go watch it again, see if I'm lying**"*) and **Kill Bill**.
+
+★★★ **And he pre-empts the hypocrisy charge with his own record**: *"they're like *well you don't do that,
+Chris* — **well, I did do that**: from my typography teachers, to my advertising teachers, to **my mentor
+who I worked with for 13 years. I'm not here without him.** ★★★ **I don't know why anybody pays someone money
+and time to get advice and then not do the advice.**"* → *"**I didn't need two lessons. I'm a one-lesson
+kind of guy. I'm cheap like that.**"*
+
+★★ **The empirical test he offers** — the fishing lodge teaches one specific method, then *"everybody hits
+the water like *we'll do it our own creative way*… **they just get creative with the instructions.** **So how
+do you know the instruction was bad, or it's you? When you don't follow the instructions, you just don't
+know.**"* Outcome: everyone who followed them caught a fish.
+
+★★★ **And the diagnosis of why people don't**, supplied by the room (*"waiting for permission"*) and turned
+back on them: *"**who would you like permission from?** … **you just need permission from yourself.**"* —
+with himself included: *"**I don't know why I didn't ask the clients what they wanted before my business
+coach told me to.** I had all these stories, and **I couldn't find the source of them — so it must be I told
+myself those stories.**"*
+([[../../sources/2025-02-23-yt-hC2_b-y6zuc]])
+
 ## Cross-cutting patterns
 
 - **Language is the lever.** War Jitsu (§3), "share" not "teach" (§7), defining words like

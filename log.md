@@ -2634,3 +2634,129 @@ v13, not stale).
 Synthesis notes: none (0 videos ingested this batch — pure tooling blocker, no content debt; the
 only new information this iteration is the escalated failure signature, which is an operational/
 tooling fact, not persona-relevant content).
+
+## [2026-07-27] ingest | yt batch (@thefutur, 8) — BLOCK LIFTED after 15 aborts; P1 fully drained
+
+**The YouTube extraction block is gone.** Orient per Stage 0: `SUBJECT.md` unchanged;
+`grep "^## \[" log.md` showed fifteen consecutive ABORTED iterations (2026-07-21 → 2026-07-22), the
+last one recording an escalation from a PO-token subtitle warning to a full "Sign in to confirm
+you're not a bot" extraction failure on both the stuck P1 row and the fresh upload.
+`ingest_batch.py status` was unchanged from that standing state (`@thefutur P1:2 P2:330 P3:44`,
+`@TheFuturAcademy P3:72`, shorts:860, L2=748/L3=0, synthesis debt 0/10 — checkpoint NOT due, persona
+not stale). Stage-machine selection: first matching rule was again **Stage B** (open P1 rows exist).
+
+Before re-dispatching a batch, re-probed the previously-stuck P1 row `LZtM7wyqe7w` with the same
+non-mutating command used in prior iterations (`yt-dlp --write-auto-subs --write-subs --sub-langs
+"en.*" --skip-download`). **It succeeded.** The run reported `Extracted 3303 cookies from chrome`
+and solved the JS challenge via deno (`[youtube] [jsc:deno]`), then downloaded both `en-orig` and
+`en` subtitle tracks. yt-dlp version unchanged (`2026.07.04`); the difference is environmental —
+browser cookies are now reachable and the player challenge is being solved locally, which is
+precisely the unblock path the prior fifteen entries identified as requiring repo-owner action. No
+repo change was needed or made to achieve this. Probe artifacts were deleted from the scratchpad
+before the real batch ran.
+
+`ingest_batch.py prepare --channel @thefutur --n 8` then fetched **8 of 8 transcripts with zero
+failures** (0 marked, 0 retry/error) — the first clean batch since 2026-07-21. All eight source pages
+were written **directly by the coordinator** (no per-video subagents): this session is a top-level
+`/loop /ingest-loop`, but the loop's "when in doubt, write directly" rule applies and avoids
+multiplying subagent usage.
+
+**Ingested (8, all @thefutur, all → L2):**
+- `yt-BV-2cMw6QlY` 2017-11-19 *What Business Advice Has Worked For You? (Ep.4 finale)* — coaching
+  finale with two unnamed women coachees (fenced). Chris trains: the client pyramid / "big-game
+  hunting", dropping small clients as a **capacity** move, explicit permission for the ramp to take
+  time, the "peak performance partner" debrief habit, community-as-antidote-to-isolation as the
+  stated design rationale for The Futur's offerings, and his two coaching modes. ★ Two dated
+  anchors: **Blind's first modern-era website at $5,000, the very next at ~$20,000**, and the compact
+  "I've learned to love making a difference more than making things."
+- `yt-r2N4qePR0h4` 2019-01-07 *Career Advice: Follow Passion or Money?* — live audience Q&A, Chris
+  the sole teaching voice. ★ **Operational definition of passion** ("when somebody doesn't pay you
+  and you have all the free time in the world, what the heck do you do?"), ★ the reality-is-relative
+  reframe ("what Rebecca sees as reality is not even reality"), the Asian-immigrant-parenting frame
+  spoken as an insider, and the self-description "whatever I get into, I really get into."
+- `yt-LZtM7wyqe7w` 2019-07-10 *Building A Client Website From Scratch — Building A Brand Ep. 8* —
+  ⚠️ **NOT CHRIS**, do-not-train (Ben Burns, Matthew Encina, intern Jun/Ji-eun; clients Josh &
+  Kristen). Carried P1 purely on view count (~429k) and was the row every aborted iteration had been
+  stuck on; persona value is nil. Retained as Blind context: the 5-phase web process, **no in-house
+  developers in 2019**, the Webflow adoption story (Ben saw the founder speak → intern with no coding
+  experience shipped in 3 days), and client-maintainability treated as a deliverable standard.
+  Handled consistently with Eps. 9–11 already in the corpus.
+- `yt-xiNHfB8FVwY` 2023-11-01 *Narrative Branding: Stories That Sell* — ★★ guest Michael Margolis
+  (Storied, *Story 10x*) fenced, but the back half is a **live workshop on Chris's own business**,
+  making this the batch's richest business source: the **Brand Lab pivot** stated in his own words
+  (creatives→business people; "helping left-brainers think right — the art of business and the
+  business of art"; targeting mortgage brokers, lawyers, realtors), the community resistance he's
+  facing, the **Robin Hood** corporate-subsidy funding model, the creatives↔business bridge and its
+  marketplace implication, the fullest **Professor Hulk / Bruce Banner integration metaphor** in the
+  corpus, what the name "The Futur" means to him, and the taste-as-AI-moat thesis.
+- `yt-QCmLf1Go-Uw` 2023-11-05 *Beat AI with This ONE Skill* — short clip; **guest never identified**,
+  so guest material is fenced with `attribution: uncertain`. ★ Chris **admits he had bad taste**
+  ("two of my favorite colors used to be purple and teal"; "a kid with Valley taste" as a
+  first-generation immigrant in Silicon Valley) and uses it as the argument that taste is teachable;
+  ★ his 4-part AI-era curriculum (history taught alive → precise prompting, rhetoric, critical
+  analysis, craft exposure) and "otherwise the machine is leading the artist." New parenting detail:
+  he trains his children's eye on outings. Corroborates the taste thesis from four days earlier.
+- `yt-AqnS_hrVZVQ` 2023-11-07 *Storytelling Secrets That Captivate ANY Crowd* — ★★ guest Karen Eber
+  (*The Perfect Story*) fenced. Contains the **most explicit account of his refugee childhood in the
+  corpus**, elicited live by the guest's constrained-prompt technique: "as a refugee fleeing
+  Vietnam… I was the subject of a lot of ridicule… I internalized this negative external talk into
+  negative internal talk. So for a period of time, up until about 17 or 18, I was ashamed to be who
+  I was." Also ★ the mung bean / Lunar New Year red-envelope sense memory, ★ the radical-transparency
+  arc, ★ polish-repels/real-attracts (Netflix vs. YouTube; MrBeast's deliberate roughness), and the
+  Europe workshop stomach story. Notable that he and the guest **openly disagree** on "don't let
+  facts get in the way of a good story" and negotiate to a real resolution.
+- `yt-mUoyOZH1R4I` 2023-11-11 *The Human Side of Business: Pepsi's Secret Ingredient* — guest Mauro
+  Porcini (SVP & Chief Design Officer, PepsiCo) fenced; his multi-layer design-ROI model is the
+  best-articulated in the corpus but is his, not Chris's. Chris trains: ★ **"a passionate
+  pragmatist"** (his coinage for the guest, and a statement of his own standard), ★ joy-first /
+  money-as-byproduct, ★ the energy-frequency passage — which carries a **new dated family detail**
+  (his wife recently became a born-again Christian and is interested in new-age mysticism; recorded
+  name-free per SUBJECT.md) — plus the highly characteristic "we're so not hippies" self-policing
+  move. Speaking-circuit datum: met the guest backstage in Geneva, then again at the **AIGA National
+  Design Conference** in Pasadena.
+- `yt-j8yGn1v8OgU` 2026-07-21 *She Cracked the YouTube Code* — ★★ **the newest source in the
+  corpus** (the fresh-upload P1 the autopilot discovered on 2026-07-22 and that fifteen iterations
+  failed to fetch). Guest April Lynn fenced; live studio audience. Chris contributes his ★ **4-part
+  definition of a format** (constant / variable / where tension can be expanded / payoff, taught via
+  *Kitchen Nightmares*), ★ the **ROT headline formula** (results/objections/timeline), ★ the
+  **"no one cares about you at all — you're an information courier"** realization explicitly dated to
+  "the last couple of years", ★ his stated differentiator ("I'm a conversationalist, I'm not a big
+  prep guy") with the reasoning behind moving from Zoom podcasts to the LA studio, and a candid
+  unresolved admission that his best-performing episodes are the ones where he talks most. Also the
+  origin story of The Futur's most-viewed video's thumbnail (a designer's fan-made visual note,
+  licensed via a Twitter DM).
+
+**Bookkeeping:** 8 `ledger_set.py` updates (all → L2 with domains + attribution-bearing notes);
+8 rows inserted into `wiki/sources/youtube-index.md` in date order; footer 748 → **756** and its
+`updated:` bumped to 2026-07-27; `index.md` count and status line updated. No `raw/` file was
+modified after filing. No persona or topic page was touched — per the loop's tiering rules, the
+★ items above are flagged for the next synthesis pass, not inline-promoted.
+
+**Pipeline state after this batch:** `@thefutur` **P1:0** (was 2 — *fully drained*), P2:324, P3:44;
+`@TheFuturAcademy` P3:72; shorts 860; L2=**756**, L3=0; synthesis debt **1/10**.
+
+> **Next iteration selects Stage P (persona refinement).** The loop's stale-persona rule fires on
+> "P1 just fully drained", which is now true for the first time since the P1 tier was defined. The
+> synthesis checkpoint is NOT due (debt 1/10), so Stage P — not Stage S — is the correct next unit
+> of work: a single delegated agent refreshing `persona/beliefs.md`, `persona/voice.md` and
+> recompiling `persona/system-prompt.md` (v13 → v14) from everything ingested since pass 12.
+
+Synthesis notes: genuinely new this batch, and unusually dense after a 5-day stall — (1) **the Brand
+Lab pivot**, a 2023 strategic chapter in Chris's own words including its rationale, the resistance
+from his creative community, and the Robin Hood subsidy logic → `persona/biography.md` + business
+topic; (2) **the refugee-childhood/shame passage**, the clearest first-person account in the corpus
+with a specific age marker (~17–18) and a stated mechanism (external ridicule internalized as
+self-talk) → `persona/biography.md`, underpinning existing self-worth material; (3) **"I had bad
+taste"** with the Silicon-Valley-immigrant → ArtCenter arc, plus the 4-part AI-era curriculum →
+`persona/biography.md` + `voice.md` + design-craft; (4) **the Professor Hulk integration metaphor**
+(his self-declared favorite character, fullest version) → `beliefs.md` + `voice.md`; (5) **the 4-part
+format definition** and **ROT headline formula**, two named frameworks appearing nowhere else in the
+corpus → content-strategy; (6) **the "information courier" realization** and the Zoom→studio shift,
+a dated change in how he thinks about his own content → `beliefs.md`; (7) **"a passionate
+pragmatist"** and joy-first/money-as-byproduct → `beliefs.md`; (8) two new dated family details, both
+name-free per SUBJECT.md — his wife's recent turn to born-again Christianity and new-age mysticism,
+and his practice of training his children's eye on outings; (9) the **$5,000 → $20,000 website
+pricing anchor** for Blind's early history; (10) **the operational definition of passion**. One soft
+contradiction flagged on the 2026 page: Chris still uses "don't let facts get in the way of a good
+story" after being challenged on it in 2023, but attaches the same fabrication caveat both times —
+the position is stable, only the phrasing is provocative.

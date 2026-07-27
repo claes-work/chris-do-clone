@@ -1,6 +1,6 @@
 ---
 type: source-subindex
-updated: 2026-07-21
+updated: 2026-07-27
 ---
 
 # YouTube Sources Sub-Index
@@ -172,6 +172,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2017-11-11 | ★ [How To Talk About Money With Clients (Ep.2/4)](2017-11-11-yt-OBCuDSxl_A8.md) | pricing; sales-clients; mindset | budget/scope/timeline "pick two of three", "you can't lose a job you never had", budget-first qualifying; workshop=context; L3-candidate |
 | 2017-11-13 | ★ [Stop Overthinking — Take Action (Ep.3)](2017-11-13-yt-yCFGKzFHnOc.md) | mindset | "too-dumb-to-fail" action model, kayak-vs-ship metaphor; Melinda/guest=context; L3-candidate |
 | 2017-11-15 | ★ [17yr Old Designer Sean Campbell](2017-11-15-yt-xRmqvnKepN4.md) | mindset; design-craft; content-strategy | interview (Campbell = context); logo-critique method; L3-candidate |
+| 2017-11-19 | ★ [What Business Advice Has Worked For You? (Ep.4 Finale)](2017-11-19-yt-BV-2cMw6QlY.md) | business; sales-clients; mindset | coaching finale, 2 unnamed coachees=context; client-pyramid/"big-game hunting", drop-small-clients-for-capacity; Blind's first modern-era site $5k → next ~$20k; "make a difference more than making things"; L3-candidate |
 | 2017-11-23 | ★ [The Best Logos Are Simple, Not Overworked](2017-11-23-yt-TH-jqZ4xueI.md) | design-craft; branding | restraint=timelessness, judge mark separate from application, Dieter Rams; Molly=context; L3-candidate |
 | 2017-12-04 | ★ [What Not To Do With A Design Layout](2017-12-04-yt-atS36kzr8zg.md) | design-craft | layout/craft critique; Chris-led (co-host Molly); L3-candidate |
 | 2017-12-07 | ★ [Self-Doubt & Imposter Syndrome — Tips To Overcome](2017-12-07-yt-EIW1Xt5l2T8.md) | mindset | self-confidence-vs-self-esteem, caregiver-imprint, empty-chair; therapist=context; rich Chris biography; L3-candidate |
@@ -325,6 +326,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-12-31 | [Top 10 Tips for Designers 2018 — Best of The Futur](2018-12-31-yt-8HRoeBG6YiE.md) | design-craft; mindset; sales-clients | CONTEXT-mixed compilation; Chris tips (retreat-and-follow, value=quality-of-questions) + many instructors/guests fenced |
 | 2019-01-04 | [Unorthodox Marketing by Johnny Cupcakes](2019-01-04-yt-Xxq7c0wGGeA.md) | branding; content-strategy | CONTEXT: ~95% Johnny Cupcakes (limited-drops, experiential giveaways, rent-free pop-ups via barter); Chris close only |
 | 2019-01-06 | [Creative Block is a Myth — Seth Godin in One Minute](2019-01-06-yt-VRdFjL_uNoo.md) | mindset; design-craft | CONTEXT: 100% Seth Godin (permission-to-write-badly); Chris absent; entity material |
+| 2019-01-07 | ★ [Career Advice: Follow Passion or Money? Listen To Your Heart](2019-01-07-yt-r2N4qePR0h4.md) | mindset; business; design-craft | live Q&A, Chris sole voice; passion defined operationally ("when nobody pays you and you have all the free time, what do you do?"); reality-is-relative reframe; Asian-immigrant parenting frame; L3-candidate |
 | 2019-01-08 | [Atomic Design — Make Web & UI Design Easier](2019-01-08-yt-W3A33dmp17E.md) | design-craft | CONTEXT: unattributed Futur instructor (Brad Frost concept); Chris absent |
 | 2019-01-14 | ★ [5 Things You Should NEVER Do on a Sales Call](2019-01-14-yt-eoNH6ol9bmM.md) | sales-clients | (1)don't-be-desperate (2)don't-interrupt (3)don't-assume/ask (4)don't-go-past-the-sale (5)don't-fixate-on-script/listen (10/90, two-ears-one-mouth); Chris solo; L3-candidate |
 | 2019-01-15 | ★ [How to Transition From a Full-Time Job to Freelance?](2019-01-15-yt-LWqmRvWvXec.md) | business; sales-clients; pricing; mindset | "build a bridge" transition + freelance-arbitrage/brokering model; keep-the-job=leverage; pre-qualify-on-price script; L3-candidate |
@@ -375,6 +377,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2019-06-24 | ★ [Book Cover Design Challenge – Young Guns Season 2 Episode 8](2019-06-24-yt-MITy9UGnKt8.md) | design-craft; branding | Chris frames+judges: 4-criterion book-cover rubric (concept/"aha"/image-within-image > theme > shelf-presence > cohesion); "design's job = draw curiosity"; reduce story to a core conflict; study the framework not the execution; students=context; L3-candidate |
 | 2019-07-01 | ★ [Book Cover Design Concepts – Critique Young Guns S.2 Ep. 9](2019-07-01-yt-2HY_vl9a6JA.md) | design-craft; mindset | Chris sole critic: semiotics "A+B=C / 1+1=3", find the idea first, layered reads, "the cover is the hero", ideas from true understanding ("your truth"), "free yourself of physical reality", hand-crafted humanity; Olly Moss/Magritte; "best designers are self-taught"; students=context; L3-candidate |
 | 2019-07-04 | [Respect The Hustle — Motivation Video For Creatives](2019-07-04-yt-SMri3o96ppI.md) | mindset | produced spoken-word motivation montage (persistence/resilience); ⚠️ uncredited narrator, attribution uncertain — does NOT train persona |
+| 2019-07-10 | [Building A Client Website From Scratch – Building A Brand, Ep. 8](2019-07-10-yt-LZtM7wyqe7w.md) | design-craft; branding; business | ⚠️ NOT Chris (Ben Burns, Matthew Encina, intern Jun; clients Josh/Kristen) — Blind-process context only; 5-phase web process, no in-house devs, the Webflow adoption story (3-day intern build) |
 | 2019-07-11 | [Top 4 Webflow Tips – Building A Brand, Website Tutorial](2019-07-11-yt-8FMb2DETdgw.md) | design-craft; content-strategy | Webflow tutorial (Flexbox/CMS/symbols/hover); ⚠️ unnamed Blind/Futur team member, NOT Chris — context only; org-note: Futur adopted Webflow ~2019 |
 | 2019-07-16 | ★ [How To Get A Promotion](2019-07-16-yt-fAkRgRHRRms.md) | business; mindset; sales-clients | Chris coaches his own team: promotability model — do your homework (educated guesses), be self-directed, alignment gates self-direction, "anticipate steps = value", generate ideas (bottom-up management); team=context; L3-candidate |
 | 2019-07-17 | [Designing A Beautiful Beer Can – Building A Brand, Ep. 9](2019-07-17-yt-KcnslNdyFI0.md) | design-craft; branding | Blind's packaging phase (Hamilton Family Brewery); ⚠️ Ben Burns + Matthew Encina + intern Jun, NOT Chris — Blind-process context only; QA "check 3x", packaging-as-sales |
@@ -749,6 +752,10 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-09-10 | [Convert clicks into customers!](2023-09-10-yt-b-y51Li7Bgs.md) | branding; content-strategy | Amanda Webb (spiderworking.com) guest interview; guest fenced; paradox-of-choice + Adobe MAX/Atomicon bio beats |
 | 2023-10-19 | ★ [Don't Justify Your Prices. Do This Instead.](2023-10-19-yt-Abi8kwkfZbA.md) | pricing; sales-clients; business | have-to-have vs nice-to-have; never cede higher ground; L3-candidate |
 | 2023-10-29 | ★ [Entrepreneurship and ADHD = SUPERPOWERS](2023-10-29-yt-m4OB_5wyWa8.md) | mindset; business | Abby Lemon ADHD-coach guest interview, guest fenced; Jose Caballer 2014 board-of-directors story + FOCUS acronym + silence belief; L3-candidate |
+| 2023-11-01 | ★★ [Narrative Branding: Stories That Sell](2023-11-01-yt-xiNHfB8FVwY.md) | branding; business; mindset; content-strategy | Michael Margolis (Storied) fenced; back half = live workshop ON Chris's own business → **Brand Lab pivot** ("helping left-brainers think right", Robin Hood funding), Professor Hulk integration metaphor, meaning of "The Futur", taste-as-AI-moat; L3-candidate |
+| 2023-11-05 | ★ [Beat AI with This ONE Skill](2023-11-05-yt-QCmLf1Go-Uw.md) | design-craft; mindset; business | clip, guest UNNAMED (attribution uncertain, fenced); Chris admits he had bad taste ("kid with Valley taste") as proof taste is teachable; 4-part AI-era curriculum; L3-candidate |
+| 2023-11-07 | ★★ [Storytelling Secrets That Captivate ANY Crowd](2023-11-07-yt-AqnS_hrVZVQ.md) | content-strategy; mindset; business | Karen Eber (*The Perfect Story*) fenced; **richest refugee-childhood/shame passage in the corpus** (ridicule → internalized self-talk, ashamed until ~17–18); mung bean/Lunar New Year memory; radical transparency; polish-repels/real-attracts; L3-candidate |
+| 2023-11-11 | ★ [The Human Side of Business: Pepsi's Secret Ingredient](2023-11-11-yt-mUoyOZH1R4I.md) | business; mindset; branding; design-craft | Mauro Porcini (CDO PepsiCo) fenced — design-ROI model; Chris: "a passionate pragmatist", joy-first/money-as-byproduct, energy-frequency passage (new dated family detail); L3-candidate |
 | 2023-12-14 | ★ [How To Build A Successful Personal Brand (Masterclass)](2023-12-14-yt-1kUCm1JPzxg.md) | branding; content-strategy; mindset | two-word-brand, shadow→transformer; Chris-taught; L3-candidate |
 | 2023-12-19 | ★ [Personal Branding — AdobeMAX 2023 keynote](2023-12-19-yt-MVz9mm0Z-7g.md) | branding; content-strategy; mindset | Unbland-core keynote + biography; L3-candidate |
 | 2023-12-23 | ★ [Selling Without Being Salesy](2023-12-23-yt-B-NxAZiDkKo.md) | sales-clients; mindset; business | serve-don't-sell + SALES framework; L3-candidate |
@@ -760,6 +767,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2025-04-08 | ★ [$500 to $100,000 For A Logo (Pricing Deep Dive)](2025-04-08-yt-b0fQyaBSSI0.md) | pricing; business; sales-clients | charge-more evolution + biography; L3-candidate |
 | 2025-05-31 | ★ [0 to 5M Followers — 10 Personal Branding Rules](2025-05-31-yt-RCocxOMQD3M.md) | content-strategy; branding; mindset | personal-branding playbook + mission; L3-candidate |
 | 2025-11-25 | ★ [The Scene Every Salesman Needs to See](2025-11-25-yt-DmKgsjbWw8o.md) | sales-clients; business; mindset | Better Call Saul positioning analysis; L3-candidate |
+| 2026-07-21 | ★★ [She Cracked the YouTube Code. Here's Everything She Knows](2026-07-21-yt-j8yGn1v8OgU.md) | content-strategy; branding; business | **newest source in the corpus**; April Lynn fenced; live studio audience; Chris's 4-part FORMAT definition (constant/variable/tension/payoff), ROT headline formula, "no one cares about you at all / information courier" realization, Zoom→LA-studio podcast shift; L3-candidate |
 
 ## @ChrisDo
 
@@ -768,4 +776,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_748 videos ingested (L2) so far._
+_756 videos ingested (L2) so far._

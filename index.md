@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-21 (ingest yt batch @thefutur, 1 → 748 L2; P2 Oct-2023: Abby Lemon ADHD-coach guest interview, guest fenced, Jose Caballer 2014 board-of-directors story + FOCUS acronym + silence belief ★L3-candidate; 7 no-captions)_
+_Last updated: 2026-07-27 (ingest yt batch @thefutur, 8 → 756 L2; extraction block LIFTED after 15 aborted iterations; **P1 fully drained**; 2 landmark sources: Karen Eber interview w/ the corpus's richest refugee-childhood/shame passage ★★, and Michael Margolis interview capturing the **Brand Lab pivot** ★★; plus the newest source in the corpus, the 2026-07-21 April Lynn YouTube masterclass ★★)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **748 videos L2** (@thefutur 2014–2025 + @ChrisDo; P1 done, draining P2 [through 2023-10-29]; synthesized through batch 114 → persona v13).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **756 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2023-11-11] + the 2026-07-21 fresh upload; synthesized through batch 114 → persona v13).
 
 ## Topics
 

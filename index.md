@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-27 (ingest yt batch @thefutur, 5 → 846 L2 — ★★ **authenticity as the measurable gap**, the Toronto *"I was a jerk"* incident, and **"go to therapy"** with its full worked case (⚠️ sensitive); ★★ the **European tour** documented and **undersell the event** with its buyer-side reason; the promised clickbait follow-up is found, so that pair is complete)_
+_Last updated: 2026-07-27 (ingest yt batch @thefutur, 5 → 851 L2 — ★★ **"brand is preference and willingness to pay a premium"** with its equity arithmetic, and a ★★ **biography landmark** (outsider in his own family; *"A is just kind of average"*; *"oh, I won't be broke"*); ⚠️ the Pro Group intake **changed** 30/mo → 60/quarter; ⚠️ Matt Essam's 6th instance is a **second consecutive core-domain** drift)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **846 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2024-08-22] + the 2026-07-21 fresh upload; synthesized through batch 123 → persona **v15**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **851 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2024-09-06] + the 2026-07-21 fresh upload; synthesized through batch 123 → persona **v15**).
 
 ## Topics
 

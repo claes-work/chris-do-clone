@@ -4345,3 +4345,86 @@ the **Seth Godin guest episode** referenced on 08-11; **`anneli-hansen.md`** is 
 attestations + surname). Carried: the five-way Brand Lab reconciliation; the subscription-vs-scarcity
 reconciliation; **`jule-kim.md`** (4 appearances); Part 2 of the Jule Kim listening workshop; earlier
 Priestley/Tom Ross episodes; **keep checking every batch for re-uploads.**
+
+## [2026-07-27] ingest | yt batch (@thefutur, 5) — the definition of brand, and a number that changed
+
+**Stage B (P2), batch of 5.** All five fetched cleanly (206KB); the three Chris-primary sources read in
+full, the two others to the depth they justified. Ledger 846 → **851 L2**.
+
+| id | date | what it is |
+|---|---|---|
+| `yt-4vrxXUBRbgs` | 2024-08-25 | the double cap — ⚠️ **and a changed number** |
+| `yt-vBTGeNr4ZZ0` | 2024-08-27 | ⚠️⚠️ **NOT CHRIS** — Matt Essam **6th instance**, core domain again |
+| `yt-C2ExnL0vALo` | 2024-08-29 | ★★ **biography landmark** — Chris as the guest |
+| `yt-Ed9OqOQAfBs` | 2024-09-01 | ★★ **the definition of brand** |
+| `yt-0zmIAhEI09A` | 2024-09-06 | the equity arithmetic — pairs with the above |
+
+**1. ★★ The cleanest definition of "brand" in the corpus**, and he flags its simplicity himself: *"**almost
+the definition of brand is preference and willingness to pay a premium. That's it. It doesn't have to be
+more complicated than that.**"* With the diagnostic that makes it usable — *"**when you're competing on
+price you have no brand** — unless your brand is *we're cheap*. That's Walmart's brand"* — and the
+**bento-box** model of category memory (one or two slots per category; *"who's the second person to walk on
+the moon?"*). Plus a claim the branding hub doesn't have: ★★ *"**when you get the culture wrong, the brand
+dies**"*, with the asymmetry that one employee out of tens of thousands can do it.
+
+Five days later he supplies the **measurement**: ★★ *"two bottles of water, one sells for a dollar, one for
+$5 — **the one that sells for $5 has $4 of equity.**"* **Definition and arithmetic should be promoted as
+one entry**, not two.
+
+**2. ★★ A biography landmark, and it fills in connective tissue.** `yt-C2ExnL0vALo` has Chris as the
+*guest*, telling his origin continuously: *"I felt most of my life as **an outsider — sometimes an outsider
+in my own family**"*; the middle-child structural account (*"I don't inherit the name rights… I'm not the
+baby, the darling who gets away with murder. **I'm just the person who's usually forgotten about**"*); the
+academic standard (*"***A* is just kind of average — that's the joke inside the Asian community**"*) and
+his own diagnosis that he was disengaged rather than incapable; and **senior year of high school** as the
+point the creative identity was accepted — yearbook cover, juried museum awards.
+
+Best of all, the reflex that came *first*: ★★ *"as my classmates and my instructor would say — have you
+considered a career in graphic design? — I'm like: **oh, I won't be broke.**"* **That is the earliest
+attested instance of the money-fear he has spent his career arguing against.**
+
+> ★★ **Promote with [[2024-08-13-yt-i10g2BVfWVI]].** Sixteen days apart, he gives the caretaker/middle-child
+> material twice — there via his therapist with the cost located **in the company**, here plainly with the
+> cost located **in previous relationships**. Two independent attestations, one entry.
+
+**3. ⚠️ A number changed, and it answers an open question.** The Pro Group intake was **30 per month** in
+March; here it is **60 per quarter** — i.e. **20/month, a third tighter** — under the same 1,000 hard cap.
+**Record both with their dates; do not overwrite.** And note what it resolves: in March he said *"ask me in
+six months if it's working. **I do not know.**"* Five months on, they have kept the cap and tightened the
+rate. **That closes a loop the corpus deliberately left open** — worth stating at synthesis rather than
+silently updating a figure.
+
+Also new there: the **resale mechanic** — when a waitlister offers a premium to jump the queue, he offers
+the existing members the chance to sell their spot, **taking none of the margin**, because *"even though
+they literally didn't pay more, **they feel like they got more.**"*
+
+**4. ⚠️⚠️ The Essam drift is now a confirmed pattern, not an escalation.** The sixth instance is **client
+acquisition for six-figure design projects** — squarely inside `wiki/topics/sales-clients`, and the
+**second consecutive instance on a core Chris domain** (pricing, then this). This one has **zero mentions
+of Chris**, so the fence caught it on the tells alone. Entity page and `SUBJECT.md` updated to six
+instances, and the verify-no-leak instruction now covers **`sales-clients` as well as `pricing`**.
+
+**Pipeline state after this batch:** `@thefutur` P1:0, **P2:229**, P3:44; `@TheFuturAcademy` P3:72;
+shorts 860; L2=**851**, L3=0; synthesis debt **8/10**; persona v15.
+
+> **Next iteration: Stage B (P2).** 229 open P2 rows. **Checkpoint in 2 batches** — and the queue is heavy:
+> two biography landmarks, the brand definition, and four reconciliations now owed.
+
+Synthesis notes: genuinely new this batch — (1) ★★ **"brand = preference + willingness to pay a premium"**
+and *"competing on price means you have no brand"* — this should become the **opening line of the branding
+hub**; (2) ★★ the **brand-equity arithmetic** ($5 − $1 = $4), promoted **with** the definition; (3) ★★ the
+**bento-box** model of category memory; (4) ★★ **"when you get the culture wrong, the brand dies"**;
+(5) ★★ the **outsider / middle-child origin account**, promoted **as one entry** with
+[[2024-08-13-yt-i10g2BVfWVI]]; (6) ★★ **"A is just kind of average"** and the 50%-attention disengagement;
+(7) ★★ **senior year as the acceptance point** and ★★ ***"oh, I won't be broke"*** — the earliest attested
+form of the fear he now argues against; (8) ★ **"every company is a media company"** and *"I can see the
+writing on the wall"*; (9) ★★ the **double cap** and the **resale mechanic**; (10) ★★ *"a product without a
+story is a commodity"* (Margolis, credited) and **facts-and-bullet-points** as the named cause of dead
+social accounts; (11) ★ **Campbell mentored Lucas** as the provenance argument for structure; (12) ★ the
+**self-test** for brand equity (*what do you pay more for and can't explain?*) and **"selling invisible"**.
+**Reconciliations now owed at the checkpoint** — (a) the five-way Brand Lab telling; (b)
+subscription-volume vs. Pro Group scarcity; (c) **the Pro Group intake change (30/mo → 60/qtr) and the
+closed "ask me in six months" loop**; (d) **do not re-add character/want/obstacle** — it is already F41;
+add only the *cardboard characters* specificity bar. Carried: `jule-kim.md` (4 appearances);
+`anneli-hansen.md`; Part 2 of the listening workshop; the Seth Godin guest episode; earlier
+Priestley/Tom Ross episodes; **keep checking every batch for re-uploads and for Essam.**

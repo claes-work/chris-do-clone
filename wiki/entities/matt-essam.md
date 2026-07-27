@@ -31,9 +31,10 @@ this has been a short masterclass…"* Prior to that video the surname was carri
 | 2024-03-07 | `w3-yw4_n_Vo` | the weekly planner / creative life planning system | [[../sources/2024-03-07-yt-w3-yw4_n_Vo]] |
 | 2024-06-23 | `mVAuwv_UHlg` | 5-step LinkedIn DM process | [[../sources/2024-06-23-yt-mVAuwv_UHlg]] |
 | 2024-07-27 | `eBrwd2FZCEE` | ⚠️ **pricing** — hourly billing, undercharging, discounting | [[../sources/2024-07-27-yt-eBrwd2FZCEE]] |
+| 2024-08-27 | `vBTGeNr4ZZ0` | ⚠️ **client acquisition** — landing six-figure design projects | [[../sources/2024-08-27-yt-vBTGeNr4ZZ0]] |
 
-**Expect more.** The slot runs at least December 2023 → July 2024 and may continue through the 2024 P2
-range still open in the ledger.
+**Expect more.** The slot runs at least December 2023 → August 2024 and may continue through the 2024 P2
+range still open in the ledger. **It is regular, not occasional.**
 
 > ⚠️⚠️ **ESCALATION (2024-07-27) — the slot moved onto Chris's core territory.** The first four instances
 > covered planning, productivity, agency growth and outreach. The fifth is **a full pricing lecture**
@@ -42,6 +43,12 @@ range still open in the ledger.
 > channel; in fact I think it's one of his most popular videos."* Worse, **his conclusions broadly agree
 > with Chris's**, so an accidental promotion would not look wrong on the page. **Any synthesis pass that
 > touches `wiki/topics/pricing` must verify nothing from `eBrwd2FZCEE` has leaked in.**
+>
+> ⚠️ **CONFIRMED AS A PATTERN (2024-08-27).** The very next instance is **client acquisition for six-figure
+> design projects** — squarely inside `wiki/topics/sales-clients`. **Two consecutive instances on core
+> Chris domains.** Treat the drift as permanent, not incidental: from here on, assume any Essam video may
+> sit directly on top of a topic where Chris has documented positions. The same verify-no-leak instruction
+> now applies to **`wiki/topics/sales-clients`** as well as pricing.
 
 ## How to recognise one (the tells)
 

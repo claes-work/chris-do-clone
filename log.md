@@ -3391,3 +3391,98 @@ prison for your mind,"* *"marketer scumbags,"* *"the longer you stay here, the l
 *"hi everybody, my name is Chris, I've been client-free for five years."* Carried forward: the now
 **five-way Brand Lab reconciliation**, the Pro Group caveat, the `SUBJECT.md` fence for the recurring
 non-Chris slot, and the standing instruction to credit Noah Kagan for the avoidance prompt.
+
+## [2026-07-27] ingest | yt batch (@thefutur, 6) — two landmark biography sources: the Skool split and the pre-ArtCenter origin
+
+**Stage B (P2), batch of 6.** All six fetched cleanly (228KB total) and read in full. Ledger 794 → **800
+L2**. This is the richest biography batch since the rate arc — two of the six are origin-level sources.
+
+| id | date | what it is |
+|---|---|---|
+| `yt-jd0Ijs0a0ns` | 2024-03-19 | ★★ **The Skool split**, told in full — with Beats/Monster as the frame |
+| `yt-GQP3fym57aQ` | 2024-03-21 | Jordan Rogers (ex-Nike) — **guest-primary, fenced**; ★★ the 8 Mile rule |
+| `yt-NwmOgc0fo8s` | 2024-03-26 | lead-gen workshop excerpt — **dollarise the value** |
+| `yt-gacg2OqLd2k` | 2024-03-28 | ★★ *How To Deal With Imposter Syndrome* |
+| `yt-zCSjA-QoNiM` | 2024-03-29 | ★★ **the pre-ArtCenter origin story** — ⚠️ sensitive |
+| `yt-LJVP2wRk7Cc` | 2024-04-04 | Daniel Priestley masterclass — **guest-primary; ⚠️ disclosed affiliate promo** |
+
+**1. ★★ The Skool split is now on the record with its mechanism.** We had the *fact* of the 2016 split;
+this is the first source that gives the *decision procedure*. Chris cut the company in two using a rule
+from his father — *"if there's a piece of cake, one person cuts it, the other person decides which half
+they want"* — into (a) the IP, products, services and **all** the revenue, and (b) the channel (~10–20K
+subs), the community and the relationships. **Jose Caballer chose the money.** The Futur then wrote him
+six-figure cheques for years while he *"was sitting on the beach… that was the deal."* The payoff, told
+against a lunch days before recording: the Kickstarter where Chris set a **$30,000** threshold (*"if we
+can't get $30,000 worth of pledges I'm not writing a book"*) and raised ~**$80,000**, and Jose's *"you
+made the smart decision to go with community"* — answered with *"**I didn't choose. You did.**"* This
+belongs on [[wiki/entities/the-skool]] and [[wiki/entities/jose-caballer]], both of which currently lack
+the mechanism.
+
+**2. ★★ The pre-ArtCenter origin story — landmark, and sensitive.** `yt-zCSjA-QoNiM` is the missing first
+half of [[2024-03-12-yt-OREd4PPWCyY]]: rejected by UCLA, UC San Diego and Cal Poly SLO (the last for
+graphic design, intended as a back door); community college as *"educational purgatory"*; a night he calls
+the Dark Night of the Soul that **includes suicidal ideation at ~18**; then a portfolio built from nothing
+in roughly **three months** against his brother's move-out deadline, after he had budgeted two years.
+
+> ⚠️ **Handling rule recorded on the page, and it comes from the source itself.** In the same video he
+> states his policy for personal stories: he will share anything *"**if it's in service of helping
+> someone**"* and not *"for the sake of gossip"* — citing Derek Sivers's *"pity porn."* That rule is not
+> decoration; **it must be promoted into the system prompt as a guardrail alongside the story**, so the
+> persona never volunteers this material as an opener or as colour. Also worth preserving unsanded: he
+> names the fuel as **spite** and says so plainly — do not smooth it into a redemption arc.
+
+**3. Two ★★ mindset items that are new, not restatements.** From the imposter-syndrome piece: *"one of my
+biggest breakthroughs in public speaking was just to say **I'm here for the other person**… once I let go
+of that projected image it became a lot easier to get on stage and not feel like I want to cry and run off
+stage — **because those are very much the true feelings**"*; and **compare backwards, not forwards**
+(*"very few people will say I'd like to be like Gary Vaynerchuk **when he was year one**"*). From the Nike
+interview: the **8 Mile / B-Rabbit rule**, delivered as a courteous disagreement with the guest, who
+teaches the opposite — *"I don't allow them to throw it away. **I want them to put it in the front.** …
+What can the world do now to hurt you?"*
+
+**Two things flagged rather than resolved.**
+
+> ⚠️ **Dating trap on `yt-LJVP2wRk7Cc`.** Published 2024-04-04, but Bootcamp Part 4 (published 03-14) has
+> Chris describing this exact conversation as already recorded and the Pro Group cap as already
+> implemented and producing a record month. **The recording precedes 2024-03-14.** Date the ideas to the
+> boot-camp telling; do not present the Priestley episode as the later development.
+
+> ⚠️ **Commercial disclosure.** The same episode closes with Chris asking the audience to sign up to
+> Priestley's **ScoreApp** through his link, saying on air that they'll be tracking it. Disclosed, but it
+> makes the episode a promotional collaboration, and the note must travel with any promoted material.
+
+Also flagged: `yt-jd0Ijs0a0ns` contains a **sweeping East/West brand generalisation** (*"name ten Chinese
+brands — good luck"*) that was already contestable in 2024. If promoted at all it must be dated and marked
+as opinion; the Beats/Monster argument stands without it.
+
+**Pipeline state after this batch:** `@thefutur` P1:0, **P2:280**, P3:44; `@TheFuturAcademy` P3:72;
+shorts 860; L2=**800**, L3=0; synthesis debt **8/10**; persona v14.
+
+> **Next iteration: Stage B (P2).** Checkpoint is **2 batches away**. 280 open P2 rows remain.
+
+Synthesis notes: genuinely new this batch — (1) ★★ **the Skool split mechanism** (cake rule, the two
+halves, Jose's choice, the years of cheques, *"I didn't choose, you did"*) for
+[[wiki/entities/the-skool]], [[wiki/entities/jose-caballer]] and `persona/biography.md`, self-reported;
+(2) ★★ the **Kickstarter $30K → ~$80K** as the dated proof of the community thesis, with *"I'm a no-name
+author, I don't even consider myself a writer"*; (3) ★★ **"the relationship is superior"** — the
+typography-course thought experiment (*"they will sell, but nobody knows who they are"*); (4) ★★ the
+**pre-ArtCenter origin arc**, promoted **as a pair** with the rate arc, plus the **personal-story rule**
+as a system-prompt guardrail; (5) ★★ **"I'm here for the other person"**; (6) ★★ **compare backwards, not
+forwards** / *"everybody sucked at one point"*; (7) ★★ the **8 Mile / B-Rabbit rule** — pair it with the
+2024-03-14 gift-as-strengths-and-weaknesses line, same argument; (8) ★ the **mutual-envy** observation
+(*"they both want to be each other and nobody wants to be themselves"*); (9) ★ **violent vs.
+observational language about your own work** (Marshall Rosenberg) and **work-as-timestamp**; (10) ★ the
+**taste/skill oscillation** as why imposter syndrome recurs at every level; (11) ★★ **dollarise the
+value** (*"save 14 cents per product = $267,000 a year"*) — not yet on the sales-clients hub; (12) ★
+**"sell the assessment" literally** — *"the X-ray doesn't come for free"* — plus the two side-benefits
+(signals you're not rushing; filters out clients who won't reflect); (13) ★ **fear and love as the two
+emotions** (credited to his wife); (14) ★ **momentum / the Big Mo** and **visible effort recruits
+helpers**. New biography facts: **straight edge** (never drunk alcohol, never used drugs); an **Amazon
+Prime reality show** airing March 2024; **Beats/Monster** as a teaching case. New voice material:
+*"educational purgatory,"* *"Terminator vision,"* *"climb out of the Lazarus Pit,"* *"I'm a hoarder of
+beautifully designed things,"* *"who the hell invited me? Somebody made a mistake,"* and the five-foot /
+no-hair / *"in my mind I'm six foot two, very debonair"* self-portrait. Carried forward: the five-way
+Brand Lab reconciliation, the Pro Group caveat, the `SUBJECT.md` fence for the recurring non-Chris slot,
+the East/West dating flag, the Priestley recording-date correction, the ScoreApp disclosure, and the
+standing instruction to credit Noah Kagan for the avoidance prompt. **Entity backlog is now acute:
+Daniel Priestley (3 appearances + heavy citation) is the strongest missing entity page in the corpus.**

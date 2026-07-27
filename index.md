@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-27 (ingest yt batch @thefutur, 2 of 3 → **919 L2** — the full treatment of ***Socratic Selling***, supplying three sales scripts the corpus lacked (the Socratic opener, the conditional close, full-value listening); plus a vlog that **confirms the "two buildings in Santa Monica"** and gives the company's shape: *"it's really a media production at this point"*)_
+_Last updated: 2026-07-27 (ingest yt batch @thefutur, 1 → **920 L2** — the corpus crosses 920. ★★★ **the ant exercise** (*"you've never been the ant"*), **the four rules of a sales call**, the **$10,000-a-day** story, and ★★★ **the most generous interpretation** — the operational form of the non-violent-communication thread)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **919 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-04-27, one row deferred] + the 2026-07-21 fresh upload; synthesized through batch 163 → persona **v19**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **920 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-04-27, no deferrals outstanding] + the 2026-07-21 fresh upload; synthesized through batch 163 → persona **v19**).
 
 ## Topics
 

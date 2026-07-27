@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-27 (ingest yt batch @thefutur, 1 → **920 L2** — the corpus crosses 920. ★★★ **the ant exercise** (*"you've never been the ant"*), **the four rules of a sales call**, the **$10,000-a-day** story, and ★★★ **the most generous interpretation** — the operational form of the non-violent-communication thread)_
+_Last updated: 2026-07-27 (ingest yt batch @thefutur, 2 of 3 → **922 L2** — **the whole introversion account, deliberately told**, incl. ★★★ *"create content so good that I didn't need to develop social skills"* and a **fourth corroboration of the 2014 hinge**; plus ★★★ **record in HD** and a therapy telling in which **he corrects a public misperception about himself**)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **920 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-04-27, no deferrals outstanding] + the 2026-07-21 fresh upload; synthesized through batch 163 → persona **v19**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **922 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-05-13, one row deferred] + the 2026-07-21 fresh upload; synthesized through batch 163 → persona **v19**).
 
 ## Topics
 

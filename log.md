@@ -8127,3 +8127,107 @@ Synthesis notes: genuinely new — (1) ★★★ **the ant exercise**, ★ **inv
 against vendors he was ready to pay; (9) ★★ **the AI talk-time audit**; (10) ★★ *"the truth is very
 simple"*. ⚠️ **Record that *pricing is positioning / publish a floor* is stated straight here and argued
 against elsewhere — both his.**
+
+## [2026-07-27] ingest | yt batch (@thefutur, 2 of 3 — one deferred) — "create content so good that I didn't need social skills"
+
+**Stage B (P2), `--n 3`.** Two landmarks in one batch. Ledger 920 → **922 L2**.
+
+| id | date | what it is |
+|---|---|---|
+| `yt-5EeBq6KtC34` | 2025-05-04 | ★★★ **LANDMARK** — Daily Dose vlog 002 |
+| `yt-Anr8YYbt2ws` | 2025-05-13 | ★★★ **TOP-TIER BIOGRAPHY LANDMARK** — introversion, whole |
+| `yt-8XJAjOUL07I` | 2025-05-11 | ⏸️ **DEFERRED** (12.6KB pricing episode) |
+
+**1. ★★★ The corpus has had his introversion in fragments for a year. This is the deliberate telling.**
+*"I would just hide in my room"*, *"my introverted self was freaking out"*, *"being an introvert made
+[sales] even worse"* — all of it now has a spine.
+
+> ★★★ *"**As a LOUD INTROVERT who's built an eight-figure business**"*… *"**I am just socially drained by
+> being around people, and I dread social gatherings**"*… *"**I don't have social skills. I'm super socially
+> awkward.**"*
+
+★★★ **And then the line that explains his entire career strategy**: *"**my strategy to survive — and to play
+with people on a much bigger scale — was to CREATE CONTENT SO GOOD THAT I DIDN'T NEED TO DEVELOP SOCIAL
+SKILLS.**"* With the mechanism: *"**you speak once, but a thousand people can be listening** — so when I
+enter a room, **people already have a sense of who I am**… **they don't feel like such scary strangers.**"*
+
+> ✅✅ **FOURTH corroboration of the 2014 hinge**: *"**I didn't start making content until I was 42 years
+> old.**"* Born 1972 → ~2014, joining the Draplin moment, *"why did it take me until 42"*, and the end of
+> the McLaren coaching relationship. **Four independent framings, one date.**
+
+**2. ★★★ The fullest Kier McLaren speaking origin — with the part the corpus was missing.** *"★★★ **Why are
+you so busy being the world's best-kept secret?**… **I think you're brilliant… but you're so reluctant to go
+out there, even to meet your clients who are here at the company.**"* → *"**volunteer to speak.**"* Then the
+failure, stated plainly: ★★★ *"**I bombed horribly the first couple of talks — I didn't give up**"*, and the
+present tense: ★★★ *"**it is, and still is, scary to me.**"*
+
+★★★ **And the technical fix, which the corpus has only had in compressed form**: *"he goes — **you can
+present to lots of people if there's an image, right? Like in front of clients?** I'm like: **yeah, I do
+that all day long.** So he says: ★★★ **turn your whole presentation into a series of slides that you could
+just talk about.**"* ✅ **This is the operational twin of *"you like making images — make a bunch and make up
+a story between them"*** (2025-02-26). **Same intervention, told twice.**
+
+**3. ★★★ "Be the tree" — the most detailed anxiety narrative in the corpus**, and he tells it as a sequence
+of stalls: get dressed *"cuz I know I can't go anywhere if I don't get dressed"* → sit in the lobby →
+★★★ *"**just lying to myself: *oh, you could be fashionably late.* But what I was really doing was
+procrastinating**"* → **walk instead of taking an Uber**, *"**as if it's like my death march**"* → the
+friend who promised to come isn't there (*"and that rat, he was not there"*) → ★★★ **the commitment**: *"**I
+was not going to leave this bar until they kicked us out**"* → standing **between the bathroom and the bar**
+as high-traffic zones → and finally ★★★ *"**I imagined myself to be a tree, with my feet as roots planted
+into the ground, immovable.**"* **The rule: take very small steps, and *"do everything in your power to not
+run away."***
+
+**Also from that source**: ★★★ **the cobra passage** — at a table of *"very powerful, successful people"*
+where *"★★★ **I think I'm the least successful, the least accomplished, and the poorest person at the
+table**"*, everyone talks over each other, *"the introverted me starts to recoil"* — and then ★★★ *"**like
+the cobra coiled in the basket… I struck**"*, leaving the room to conclude *"**there's been this sleeper
+here.**"*; ★★★ *"**confidence isn't a personality trait — it's a byproduct of putting in the necessary reps.
+You don't become fearless. It just becomes familiar**"*; ★★★ **introversion as a different operating
+system** — *"**stop looking at it as a bug**… **it runs better in long games, not quick wins**"*;
+★★★ **objections as requests** (*"when they say *this is expensive*, we don't hear *I can't afford you* —
+**we ask: what is expensive about this?**"*); and ★★★ *"**if you want to be the most interesting person — be
+interested.**"*
+
+**4. ★★★ And the vlog supplies the best answer in the corpus to *"how do I notice more?"*** — the **record
+in HD** metaphor: *"**if you were to experience life recording on a low-fidelity instrument — a Super 8
+camera, Hi8 tape** — very low colour bit depth, low resolution, **on a format that's not very durable** —
+★★★ **what do you expect to be able to extract from your experiences?**"* → *"**we want to live life
+recording in HD.**"* With the precision that makes it usable: ★★★ *"**when I say vivid detail, I don't mean
+factually accurate — but SENSORY-accurate.**"*
+
+★★★ **Its seed is a Seth Godin exchange**, and it recovers a piece of an interview the corpus has carried as
+debt: *"I said — *Seth, what do you do for a living?* And he said: ★★★ ***I notice things.*** **I thought
+that was really beautiful.**"* Plus **Jim Rohn's *wisdom = experience + reflection***, with **both failure
+modes** named — *"**we put a big container on that: that's not for me**"*, and skipping reflection.
+
+> ⚠️★★★ **A fourth therapy telling — and this time he corrects a public misperception about himself.** A
+> colleague credits his insight to *"years of going to see a therapist"*; he interrupts: ★★★ *"**I hate to
+> break it to you — I've only seen my therapist less than 10 times.** ★★★ **A lot of people think I've gone
+> to therapy for years, or that I'm still going.**"* ✅ **The count holds at "about ten"**, and the
+> instructions he cites (*"ask your wife this question, talk to your children this way"*) **corroborate the
+> children branch.** ⚠️ **The employees branch is neither repeated nor contradicted. Both still stand.**
+
+**Two variants recorded rather than merged**: *"two types of people: those who run towards **change** and
+those who run away"* — **credited to Kier here**, against the uncredited *"run towards **fear**"* of
+2025-03-25. And the *be interested* anecdote is prefaced *"I forget who tells this story"* — **the source is
+not asserted.**
+
+**Deferral (no silent caps):** one row — `8XJAjOUL07I` (12.6KB pricing episode) — **the batch was genuinely
+consumed by two landmarks**; cached, not skimmed, **takes the next batch first.**
+
+**Pipeline state:** `@thefutur` P1:0, **P2:155**, P3:44; `@TheFuturAcademy` P3:72; shorts 860; L2=**922**,
+L3=0; synthesis debt **5/10**; persona v19.
+
+Synthesis notes: genuinely new — (1) ★★★ **the introversion account as a whole** → `persona/biography.md`,
+**top priority**; (2) ★★★ **"create content so good that I didn't need to develop social skills"** — the
+single most explanatory line about his career strategy; (3) ✅✅ **the 2014 hinge, FOURTH corroboration**;
+(4) ★★★ **the fullest Kier speaking origin** incl. **the slides fix**, *"I bombed horribly"*, *"it still is
+scary to me"*; (5) ★★★ **be the tree** and the Design Thinkers sequence — for `voice.md` as much as
+biography; (6) ★★★ **confidence is reps** / *"you don't become fearless, it just becomes familiar"*;
+(7) ★★★ **introversion as a different operating system**; (8) ★★★ **objections as requests**;
+(9) ★★★ **record in HD**, with **sensory-accurate vs factually accurate**; (10) ★★★ **Seth Godin's *"I
+notice things"*** — recovers carried debt; (11) ★★★ **wisdom = experience + reflection**, both failure
+modes; (12) ★★★ **the two definitions of art**; (13) ⚠️★★★ **the therapy correction** — promote as **a
+correction he issues about himself**, not just a count; (14) ★★★ **the cobra/sleeper** passage.
+⚠️ **Record *run towards change* (Kier) vs *run towards fear* (uncredited) without merging**, and ⚠️ **flag
+the unsourced *be interested* anecdote.**

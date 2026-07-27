@@ -3729,3 +3729,86 @@ triangle** (verify Frances Frei), Allan Dib's **Spice Girls not Vanilla Ice** an
 checklist (add *Lean Marketing* to his `influences` entry), Brené Brown's *"choose discomfort over
 resentment"*. Carried: the five-way Brand Lab reconciliation; `tom-ross.md`; two earlier Priestley
 episodes as ledger candidates; **Mo** as a context-page candidate on recurrence grounds.
+
+## [2026-07-27] ingest | yt batch (@thefutur, 5) — objection handling, and a dating trap caught
+
+**Stage B (P2), batch of 5.** All five fetched cleanly (220KB) and read in full. Ledger 811 → **816 L2**.
+
+| id | date | what it is |
+|---|---|---|
+| `yt-wg4YEYHKMs0` | 2024-05-16 | Robert Katai on in-house creators — **guest presentation**, Chris thin |
+| `yt-DezEGlIXywE` | 2024-05-19 | Sam Brown on LinkedIn — **guest-primary, fenced** |
+| `yt-ZSnGe9bUIuc` | 2024-05-21 | ★ the Dan Sullivan question — **Sullivan's, credited** |
+| `yt-4kmc253GZWs` | 2024-05-28 | ★ *the art of the argument* — ⚠️ **older talk, republished** |
+| `yt-mUOgHjCQKJ4` | 2024-05-30 | ★ Jule Kim, 3rd appearance |
+
+**1. ⚠️ A dating trap caught, and it matters.** `yt-4kmc253GZWs` publishes as 2024-05-28 but is plainly an
+**older lecture** — he describes himself in the present tense as *"we have for the past 20 years made
+commercials [and] music videos"* and is speaking to students about their *first* client. That places it in
+the **Blind era (~2015–2017)**, and it **directly contradicts** the 2024 *"I've been client-free for five
+years."* Not a contradiction in the man — a contradiction in the timestamp. The page is filed with the
+ideas dated to the talk and the upload date marked as publication only. **This is the second dating trap
+in three batches** (the Priestley episode published after it was recorded); worth watching for as the
+ledger moves through re-uploads.
+
+**2. ★★ The best objection-handling material in the corpus, whenever it was recorded.** The framing is
+**judo, not karate**: *"karate is about power, breaking boards, bricks, heads. **Judo is leverage — you use
+the other person's momentum against them.** They charge in, and we embrace them, and you pivot, and you
+throw them to the side."* The reason the instinct fails: *"when clients raise an objection **it's like red
+meat to a dog** — the problem is inside your head. They're trying to invalidate you… **we're eager to prove
+them wrong**"*, compounded by the consistency principle, which means pushing only hardens them. And the
+**rock-paper-scissors trap** explains why the mid-sized player can't win head-on at all: the big firm wins
+*"we're worth it"* and *"less risky"*, the one-person shop wins on price, *"and the middle is a hard place
+to win."* The verbatim carrier for retreat-and-follow is the sharpest in the wiki: to a million-dollar
+company, *"**I'm not sure a company of your size can afford us**"* — *"they're already thinking that
+anyway, **so now they have to tell you why they think they can afford you.**"*
+
+**3. ★★ Two qualification insights that upgrade existing hub material rather than repeating it.**
+
+- From `yt-ZSnGe9bUIuc`, the **humility argument** — the missing *why* under diagnose-before-prescribe:
+  *"**I can never learn more about you, your life and your business than you** — so for me to come in and
+  say *you must do this* is **really pompous and arrogant, especially because I don't have to live with the
+  decisions that you make.**"* Hence *"all you have to do is ask the right question. **That's the
+  skill.**"*
+- From `yt-mUOgHjCQKJ4`, **not listening in the pitch predicts not listening in the project.** A
+  YouTube-growth agency kept selling him revenue after he'd said three times that he cared about
+  subscribers and watch time — *"**I know that most people are concerned about money. But I'm not most
+  people.**"* The generalisation is what makes it a qualification criterion rather than a complaint:
+  *"I don't care if you're a plumber, a tile person, do roof repairs — **when you say something that is
+  not what I'm saying, I have great concern that this is how the whole relationship is going to be.** …
+  **I might have gone for this thing had you addressed what I wanted.**"*
+
+**Attribution discipline this batch was heavy and is worth noting.** Three of the five carry borrowed
+frameworks that are credited on the page and **must not be absorbed**: the **Dan Sullivan question** and
+**user/confuser/refuser** (Dan Sullivan), **retreat-and-follow** and *"kill the opportunity"* (Blair Enns,
+credited on camera), and Sam Brown's LinkedIn post types. `yt-wg4YEYHKMs0` is barely a Chris source at
+all — it opens with a long solo guest presentation — and is filed accordingly.
+
+**Pipeline state after this batch:** `@thefutur` P1:0, **P2:264**, P3:44; `@TheFuturAcademy` P3:72;
+shorts 860; L2=**816**, L3=0; synthesis debt **2/10**; persona v15.
+
+> **Next iteration: Stage B (P2).** 264 open P2 rows. **Carried debt unchanged**: the five-way Brand Lab
+> reconciliation and `tom-ross.md` — neither was touched this iteration; both remain owed at the next
+> checkpoint.
+
+Synthesis notes: genuinely new this batch — (1) ★★ **judo not karate** as the objection-handling frame,
+with *"you're the bull, and you're not the bullfighter"* and *"red meat to a dog"*; (2) ★★ the
+**rock-paper-scissors trap** (the middle cannot win any single argument head-on) and its corollary that
+**reducing scope is conceding on price**; (3) ★★ *"**I'm not sure a company of your size can afford
+us**"* — the sharpest verbatim carrier for retreat-and-follow, plus **whisper vs. shout**; (4) ★ **the
+buyer's personal risk** (they get fired for a bad vendor choice), which explains why "less risky" beats
+"better"; (5) ★★ **the humility argument** — *"I don't have to live with the decisions that you make"* —
+for `persona/beliefs.md` and as the justification under diagnose-before-prescribe; (6) ★ **gap-framing
+questions** (*who would you like more of, and why aren't you getting them?*); (7) ★★ **not listening in
+the pitch predicts not listening in the project**, with the plumber/tiler generalisation, as a
+qualification criterion; (8) ★★ **"I'm not most people"** and the **river-and-estuaries** metaphor for
+salespeople dragging every topic back to their strongest offer; (9) ★ **monkey/robot brain applied to the
+seller** (running the script the robot says should work); (10) ★ the **8-to-1 posting ratio** with the
+authority/inspiration/sales split — a concrete number the content-strategy hub currently lacks; (11) ★ the
+**in-house-creator selection profile**. Dated facts: The Futur channel's stated metric priority is
+**subscribers → watch time → AdSense**, with AdSense *"the third priority"* and never significant relative
+to operating capital; the in-house-creator model was **new to him as of May 2024**. Borrowed and fenced:
+the Dan Sullivan question + user/confuser/refuser (**Dan Sullivan** — add to `influences` with a guard),
+retreat-and-follow (**Blair Enns**), Sam Brown's post types, Robert Katai's in-house-creator programme.
+Carried: the five-way Brand Lab reconciliation; `tom-ross.md`; two earlier Priestley episodes as ledger
+candidates; **Mo** and **Jule Kim** (now 3 appearances each) as entity candidates.

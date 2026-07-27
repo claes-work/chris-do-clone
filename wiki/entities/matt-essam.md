@@ -14,7 +14,8 @@ tags: [matt-essam, do-not-train, chris-absent, thefutur-guest-slot, agency-coach
 >
 > ## ✅ EXCEPTION FOUND (2025-09-14) — READ THIS BEFORE USING THE PAGE
 >
-> On **2025-09-14** the two appear **together** for the first time, in
+> On **2025-09-14** the two appear **together** for the first time — and **it is now a series** (Ep. 2 on
+> **2025-10-16**, [[../sources/2025-10-16-yt-PZgRQpu61k4]]). The first is
 > [[../sources/2025-09-14-yt-TE8qfhD4b8I]] — a genuine two-way conversation Chris frames as *"we're
 > going to hopefully persuade him or nudge him towards why he would want to develop a personal brand.
 > **I have a different take on it**"*, and calls the start of *"an ongoing series."* It originates in a
@@ -66,6 +67,7 @@ this has been a short masterclass…"* Prior to that video the surname was carri
 | 2025-03-27 | `-Jq8LjeVtbI` | ⚠️⚠️ **freelancer → agency growth** — ⚠️ adjacent to Chris's own freelancer-vs-business-owner material, which **predates it and stands** | [[../sources/2025-03-27-yt--Jq8LjeVtbI]] |
 | 2025-05-27 | `UgMzONbQ7jY` | ⚠️⚠️ **a full sales-discovery roleplay** — and ✅ **the first time Essam characterises Chris's style on air, explicitly contrasting it with his own** | [[../sources/2025-05-27-yt-UgMzONbQ7jY]] |
 | **2025-09-14** | `TE8qfhD4b8I` | ✅✅ **THE EXCEPTION — Chris and Essam TOGETHER**, debating whether a personal brand is worth building. **Not a fence page**: see [[../sources/2025-09-14-yt-TE8qfhD4b8I]] | [[../sources/2025-09-14-yt-TE8qfhD4b8I]] |
+| **2025-10-16** | `PZgRQpu61k4` | ✅✅ **EP. 2 of the joint series** — *reputation vs. brand*, the four-criteria test, the frozen-rice experiment. **Not a fence page** | [[../sources/2025-10-16-yt-PZgRQpu61k4]] |
 
 > ✅ **NEW (2025-05-27) — an inside characterisation of Chris, from the guest slot.** Debriefing the
 > roleplay, Essam says: *"this is a **very different style of sales**, and **I know Chris for example is a

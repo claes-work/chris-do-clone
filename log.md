@@ -9909,3 +9909,70 @@ power-asymmetry lesson** is a new Kier item and should be added to `entities/kie
 **"invite the no"** is the cleanest statement of why his discovery method front-loads permission.
 (6) ★★★ **The three yeses** join `topics/sales-clients`, ⚠️ **with his own manipulation caveat
 attached.** (7) ★★ **Brian Collins** — *"designers are futurists"* — for that entity page.
+
+## [2026-07-28] ingest | yt batch (@thefutur, 1) — Essam Ep. 2, and the reputation-vs-brand test
+
+Batch 186. One source, taken first as promised; **no deferrals outstanding.** L2 951 → **952**.
+
+- **2025-10-16 — "Reluctant Coach Wants To Build Personal Brand" Ep. 2 w/ Matt Essam** (★★★
+  **LANDMARK**).
+
+  ✅✅ **The exception is now a series.** This is the **second** episode in which Chris and Essam appear
+  together — *"episode two of this ongoing dialogue"* — and `wiki/entities/matt-essam.md` has been
+  updated again: the thirteen teaching-slot videos remain Chris-absent and do-not-train; the joint
+  series is a **debate**, and Essam's lines are the skeptic's side of it.
+
+  Where Ep. 1 argued *why* a personal brand is worth building, Ep. 2 answers the harder question Essam
+  actually asks: **what even is one, and how would I know if I had it?** The answer is ★★★★ **a
+  four-criteria test — the first in the corpus** — premised on a decoupling: *"**you could be the
+  poorest person, broke, living hand-to-mouth, and have an amazing personal brand.** Conversely, **you
+  could be the richest person in the world and have no personal brand. They're not connected concepts,
+  and we have to decouple these ideas.**"* With **Marty Neumeier** borrowed and named: *"**when enough
+  people come to a similar gut feeling about who you are, then you have a brand** — and **that's
+  deliberately vague** … **what is enough people? We don't know. But we know it when we know it.**"*
+
+  The four: ① **reach beyond your vertical**; ② **your name adds value to a thing, outside what you
+  already do** — evidenced by Cleon Peterson's ~$800 sculpture at ~240 pre-orders and Twenty One
+  Pilots' $30 shirts on a $5 cost, and sharpened by the counter-example *"**1:1 coaching is not
+  printing money. He's literally working for it**"*; ③ **you stand at the top of your vertical**
+  (*"you're not just another graphic design person who's speaking — **you're THE graphic designer**"*);
+  ④ **you can jump verticals** — Ryan Reynolds and The Rock, *"**they're not selling acting**… **they
+  can sell anything at this point.** … **That's what a brand is.**"*
+
+  Also ★★★★ the cleanest statement of the brand/marketing split — *"**branding isn't about
+  marketing**… it's **a long-term thing without clear definitions of return on investment**… **it's
+  like the digital campfire, and you're the storyteller.** … **It's relational. It's not
+  transactional.**"* — and his answer to the fear that started the episode. Essam: *"**I don't know if
+  I can reverse it… you can't put the genie back in the bottle.**"* Chris: *"**that's the risk of doing
+  anything of consequence. Period. If you want to be an anonymous person and not be consequential, then
+  you don't run that risk.**"* — and then he disputes the premise: *"there are **a bunch of OG YouTubers
+  nobody talks about any more**… **so you CAN put the genie back in the bottle — and it's not even by
+  their choice.**"*
+
+  ★★★★ **The frozen-rice experiment**, heard from Erwin McManus: three jars of cooked rice — criticised,
+  affirmed, and **ignored**. The affirmed ferments; the criticised moulds; **the ignored control has
+  twice the mould.** → *"**it's best to receive positive energy — but it's WORSE to receive nothing. To
+  be ignored. To know that everything you do does not matter at all.**"* ⚠️ **He labels it pseudoscience
+  himself** (*"a Japanese quote-unquote physicist… pseudoscience stuff"*), and the page records the flag
+  with the story — the position it illustrates is his; the experiment is not evidence.
+
+  ✅ **And a behaviour worth recording as much as any claim: he repeatedly gives the skeptic an out.**
+  *"If you were able to run a great lifestyle business and be content with that — **we don't need to
+  work on personal brand. You just need to get your business in order**"*; *"**you're like a fish who
+  doesn't want to go to the boat. And I'm the fisherman**"*; and the concession that *"**there are a
+  lot more people out there listening that are more like you**"* than are ready to sign up.
+  ⚠️ He also states the **privileged preconditions explicitly** before his *$100K–$1M is not as
+  difficult as it used to be* claim, and flags in advance that it will sound disconnected.
+
+**Synthesis notes:** (1) ★★★★ **The four-criteria test belongs on `topics/branding` as a named
+framework** — it is the first thing in the corpus that lets someone *check* whether they have a brand
+rather than aspire to one, and **the decoupling from wealth is its premise, not a footnote.**
+(2) ★★★★ **The frozen-rice experiment** → `topics/mindset`, **with the pseudoscience flag attached** —
+it explains a good deal of his content philosophy (*being ignored is worse than being criticised*)
+without the story needing to be true. (3) ★★★★ **"That's the risk of doing anything of consequence"**
+and **"you can put the genie back in the bottle"** are a matched pair and should travel together.
+(4) ★★★ **"The digital campfire"** is a strong image for `topics/branding` and `persona/voice`.
+(5) ★★★ **The give-the-skeptic-an-out behaviour** (fisherman, *"we don't need to work on personal
+brand"*, *"send your hate letters to Matt"*) should be recorded in `persona/voice` as a **debating
+posture**, alongside the compliment-refusal reflex. (6) ★★ **Shawn Stussy** and **Cleon Peterson** are
+new case studies; **Erwin McManus** joins `entities/influences`.

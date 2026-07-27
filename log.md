@@ -7429,3 +7429,109 @@ and the non-Trojan-horse rule; (9) ★★★ **write first / clarity through art
 and *"I almost wish you don't get it right away"*; (11) ★★★ **the therapy recommendation** with the
 dry-paint metaphor; (12) ★★★ **relatability beats polish**. ✅ **Pixar rule #1 and ZMOT 7-11-4 → promote as
 settled.**
+
+## [2026-07-27] ingest | yt batch (@thefutur, 2 of 3 — one deferred) — "sell money", and what the coaching cost
+
+**Stage B (P2), `--n 3`.** Ledger 911 → **913 L2**.
+
+| id | date | what it is |
+|---|---|---|
+| `yt-aQYbXVZb88k` | 2025-03-31 | ★★★ **LANDMARK** — whiteboard session |
+| `yt-hJ35jP1tKDI` | 2025-04-01 | ★★★ solo listicle that **teaches** rather than restates |
+| `yt-2FI0Dk44-vo` | 2025-04-02 | ⏸️ **DEFERRED** (60KB guest episode) |
+
+**1. ★★★ A whole business model built on a whiteboard in eighteen minutes.** From a stranger's stated goal:
+**$120,000 ÷ 10 = $12,000/month** — ★★★ **ten, not twelve**, *"**because I want to give you two months off.
+It's important. We have to design our business to be long-term sustainable**"* (and, drily, *"also because
+it's designer math"*) — **÷ 3 clients = $4,000/month each.** Then the point of the whole exercise:
+
+> ★★★ *"What should you be selling? **Sell money. When you sell money, I buy. Speak to me in the language of
+> business.**"*
+
+★★★ **And the positioning move built from it**: *"**I would love to work with you — under the condition that
+you can articulate to me the metric that matters, that I have an impact on. Otherwise, I cannot help
+you.**"* ★★★ **Bounded by the Four Agreements honesty clause**: *"be honest with them, to serve them —
+**that's a benchmark I cannot do.** A better visual identity **is not going to achieve that for you**…
+**I'm not your person.** ★★★ **That's a real relationship.**"*
+
+★★★ **The two B's, taught in full**: **baseline** (*"where are we today?"* — followers, revenue, churn,
+reviews) and **benchmark** (*"where would we like to be?"*) — ★★★ *"**the delta between those two determines
+how good you are.**"* With the rebuke that sets it up: *"**you don't ask your clients how much money you
+make? Why is it designers never care about the impact that the work makes?**"* and the asymmetry he names:
+*"**we love to claim success for things. When things don't work, we're like: we got nothing to do with
+that.**"*
+
+★★★ **The subscription pivot** — identity work is *"done-once by design"*, so change **who** you serve
+(*"who has a **never-ending, infinite appetite**?"* → creators) and **what** you sell (*"**sell pain relief**
+— we have a headache, we take a pill. ★★★ **The faster the pain relief comes, the more they will pay**"*).
+Ending on the economics: *"**it could be done by anyone, anywhere, anytime, on any device. That means you
+have arbitrage.** … **It's how people get rich.**"*
+
+**Also from that session**: ★★★ **entrepreneurship as a disease** (*"**there's no cure**… **if I'm busy
+building your dream, who's building mine?** ★★★ **I like my dream more than yours**"*) ⚠️ **with the
+competitive candour and the kind half kept together** — *"the people who don't have the disease, they quit,
+**and I don't want so much competition**"* alongside *"**it's okay if you quit. I appreciate if you quit
+most of the time.**"* And ★★★ **Jim Rohn's winter season**, which is the gentlest thing in the source and the
+counterweight to the hustle material: *"**it could be that you're just in the winter of your life** — **but
+what many of you are doing is driving yourself crazy thinking it's spring.**"*
+
+> ⚠️★★★ **The vacation disclosure, recorded as said.** *"**I always warn my team: when I go on vacation,
+> somebody will be fired. Almost always.**"* The mechanism is **habit, not performance**: *"we don't love
+> them, but **we're familiar with them, and it's a habit**… **I'd rather deal with the pain of replacing you
+> than stay with you.**"* ★★ **The other half is kept**: *"and these other four people who do an amazing job
+> — **I need to take better care of them.**"* ⚠️ **And he extends it, unprompted, to romantic
+> relationships** — *"you need to get apart. You really do."* **Recorded, not smoothed over.**
+
+**2. ★★★ A new figure for what the coaching cost.** *"I'm going to **save you over $250,000 of what I paid
+to learn with my business coach over 13 years.**"* `[self-reported]` The relationship has been recorded as
+13+ years and as decisive; **its price has never been stated before.** ⚠️ Recorded on the entity page **as
+his own round approximation, not an audited number.**
+
+**3. ✅✅ The non-violent-communication thread is now complete — across four sources.** 03-25 gave Kier's
+*"say what you think"* and flagged the missing half; 03-29 supplied *"use less violent language"*; **this
+defines the word**:
+
+> ★★★ *"I don't mean *I hate you, I want to kill you* — but **violent in that we're PREJUDGING, we're
+> PRE-DIAGNOSING, and we're making a lot of assumptions.**"* → *"**strip out all the opinions and talk about
+> things for the way they are, not the way that you might see them** — ★★★ **especially when you're under
+> pressure. That's when it's most difficult to do.**"*
+
+**Promote all four as one entry.** Entity page updated with the thread joined.
+
+**Also**: ★★★ **the body cannot lie** — *"somebody will **say yes while shaking their head**"* — with a
+usable script (*"**I sense just a little hesitation. Can we talk about why you might not want to move
+forward?**"*); ★★★ **love = *understand me and appreciate me***, and **half of it is enough**;
+★★★ **empathy defined against the hijack error** (making someone else's moment about your own) — *"**true
+empathy is to understand what that other person needs in that moment** — and **sometimes they need you to be
+stoic**"* — with the exchange that grounds it: *"**Mo, you're not going to like this answer. It's because I
+actually really care.**"*; ★★★ **the two failure modes of questions** (leading/binary vs abstract) and the
+target between them; ★★★ *"**who told you you can't do that?**"* — the design-class story where **students
+could never name the *they*** — *"**we inherit these rules that we think define reality.**"*; and ★★★ **the
+weird-art-kid passage**: *"my friends would say **I'm going to be rich** — **the ironic thing is they never
+achieved any of that**… **and here I am, some kind of weird art kid**… ★★★ **I was thinking: I'm going to be
+a total loser in my life. I'm barely going to have enough money to pay rent.**"*
+
+> ✅ **An attribution improves**: *"different is better than better"* appeared **uncredited** on 03-25;
+> **here he credits Sally Hogshead.** Recorded.
+> ⚠️ **A tension to hold, not merge**: *"create safe space"* (coaching a report) vs *"I like to create
+> **unsafe** space"* (teaching a room). **Different objects, both his.**
+
+**Deferral (no silent caps):** one row — `2FI0Dk44-vo` (60KB guest episode on empathy) — cached, not
+skimmed, **takes the next batch first.**
+
+**Pipeline state:** `@thefutur` P1:0, **P2:164**, P3:44; `@TheFuturAcademy` P3:72; shorts 860; L2=**913**,
+L3=0; synthesis debt **9/10**; persona v18.
+
+> **Next iteration: one more ingest batch, then the Stage S checkpoint.**
+
+Synthesis notes: genuinely new — (1) ★★★ **"sell money"** + **the metric-articulation condition** + **the
+Four Agreements honesty clause** (*"I'm not your person"*); (2) ★★★ **the two B's**, taught in full;
+(3) ★★★ **divide-by-ten with two months off designed in**; (4) ★★★ **the subscription pivot** — infinite
+appetite → **pain relief, not production** → **arbitrage**; (5) ★★★ **entrepreneurship as a disease**,
+⚠️ **both halves**; (6) ★★★ **Jim Rohn's winter season**; (7) ★★★ **opportunities are distractions**;
+(8) ⚠️★★★ **the vacation disclosure**, incl. the romantic-relationship extension; (9) ★★★ **the $250,000
+figure** (entity page done); (10) ✅✅ **the non-violent thread, all four sources, as ONE entry**;
+(11) ★★★ **the body cannot lie** + the hesitation script; (12) ★★★ **love = understand + appreciate**;
+(13) ★★★ **empathy vs the hijack**, with *"it's because I actually really care"*; (14) ★★★ **the two failure
+modes of questions**; (15) ★★★ **"who told you you can't do that?"**; (16) ★★★ **the weird-art-kid passage**
+→ `persona/biography.md`. ⚠️ **Credit Sally Hogshead**; ⚠️ **hold safe-space vs unsafe-space apart.**

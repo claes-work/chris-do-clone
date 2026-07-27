@@ -323,6 +323,32 @@ The corpus has carried this story qualitatively for several passes. **This telli
 > Look at all these amazing companies I admire — we're pitching against them.** ★★★ **That self-talk can
 > only last so long before you want to take desperate measures.**"*
 
+### ★★★ What the coaching cost (2025-04-01)
+
+> ★★★ *"I'm going to **save you over $250,000 of what I paid to learn with my business coach over 13
+> years** — these exact high-income skills."* `[self-reported]`
+> ([[../sources/2025-04-01-yt-hJ35jP1tKDI]])
+
+**New to the corpus.** The relationship has been recorded as **13+ years** and as decisive (*"I'm not here
+without him"*); **this is the first time its price is stated.** ⚠️ It is a round, rhetorical figure given in
+a listicle intro — **recorded as his own approximation, not as an audited number.**
+
+### ✅ The non-violent thread, completed across four sources
+
+The instruction he attributes to McLaren arrives in three parts across three weeks, and the fourth source
+defines the key word:
+
+1. **2025-03-25** — *"**say what you think**"*, with the half he flags as unfinished: *"learn how to say it
+   in an objective, **non-violent** way — **but that's a story for another day.**"*
+2. **2025-03-29** — *"**we need to use less violent language when we're describing how we feel about
+   things.**"*
+3. **2025-04-01** — ★★★ **what *violent* means**: *"I don't mean *I hate you, I want to kill you* — but
+   **violent in that we're PREJUDGING, we're PRE-DIAGNOSING, and we're making a lot of assumptions.**"*
+   → *"**strip out all the opinions and talk about things for the way they are, not the way that you might
+   see them** — ★★★ **especially when you're under pressure. That's when it's most difficult to do.**"*
+
+**Promote all of it as one entry.** ([[../sources/2025-04-01-yt-hJ35jP1tKDI]])
+
 ### ★★★ Two more maxims, and a half-finished one completed (2025-03-25, 2025-03-29)
 
 - ★★★ **"Say what you think."** *"**Biggest lesson I learned from my business mentor.** We're stressed

@@ -3640,3 +3640,92 @@ shorts 860.
 
 > **Next iteration: Stage B (P2)** — back to ingest with 274 open P2 rows. Next checkpoint after ~10
 > batches or an era boundary.
+
+## [2026-07-27] ingest | yt batch (@thefutur, 5) — the whiteboard economics, and two conversations with Mo
+
+**Stage B (P2), batch of 5**, first batch after synthesis pass 13. All five fetched cleanly (314KB) and
+read in full. Ledger 806 → **811 L2**. Also cleared one carried-debt item (below).
+
+| id | date | what it is |
+|---|---|---|
+| `yt-zgKlskDc39k` | 2024-04-28 | Allan Dib marketing masterclass — **guest-primary, fenced** |
+| `yt-ZdzDmPon19o` | 2024-05-02 | the **trust triangle** — ⚠️ borrowed framework |
+| `yt-1qHDrx9CO_M` | 2024-05-07 | ★★ **with Mo, pt 1** — presence and "missing" |
+| `yt-GoX94-uZhb4` | 2024-05-09 | ★★ **the whiteboard** behind the low-ball roleplay |
+| `yt-KCzE-wc0qC0` | 2024-05-14 | ★★ **with Mo, pt 2** — tonal range and knowing your depth |
+
+**1. ★★ `yt-GoX94-uZhb4` completes last batch's roleplay.** Two weeks after performing the low-ball
+negotiation he goes to a whiteboard and defends it against the comment section, which turns out to be
+where the economics live: **LTV → net margin → cost per acquisition**, with the governing rule that *"as
+long as you can spend less to acquire a new customer than what your net margins are, you should be happy
+to do that deal all day long."* Plus **the two B's** (baseline and benchmark) with its failure modes
+worked honestly — a bad month can leave the vendor unpaid for real results, and a good month can pay them
+for none. And the answer to *"the vendor takes no risk"*: **Joe the sales rep doesn't eat until you eat**,
+and can be burned twice — wasted opportunities and reputational damage. New self-reported operational
+facts for [[wiki/entities/blind]]: **~$5M average annual revenue**, **five sales reps** (West Coast,
+Midwest, East Coast, Europe, Asia) at **7–12% of gross**. Also ★★ **guarantees are priced, not given** —
+the car-warranty analogy, which sharpens pricing §41.
+
+He is also franker here than in the roleplay itself: the 50%-in-perpetuity opening was *"a negotiation
+point"*, the realistic landing zone is a **collapsing tier**, and the whole structure exists to make one
+argument — *"the whole point was to let them know that **$1,000 is really cheap. Just pay the $1,000
+already.**"*
+
+**2. ★★ The two Mo conversations are the most personal material in months**, and both earn their stars.
+Part 1 is the **presence doctrine**, arrived at by interrogating a compliment: *"**I don't really miss
+you, and I don't really miss my kids, and I don't really miss my wife.** It's not that I don't care — but
+what *is* this idea of missing?"* His model — missing is holding a past or future reference point and
+comparing the present against it unfavourably — plus the observation that **recalling a memory changes
+it**, and the mechanism he credits for his own throughput: *"I can get more stuff done than most people
+because in that moment, that's all I'm doing."*
+
+Part 2 is how he calibrates: ★★ **"not a lot of crayons in the box"** (tonal range as a trainable skill,
+Gary Oldman as the model), **directness requires permission** (which is why clips misread as cruelty), and
+the entry posture — *"I'm going to show up as **nothing and as everything at the same time.**"*
+
+> ★★ **New guard identified, and it should go into the system prompt at the next persona touch.**
+> **Know your depth.** *"I also know when I'm out of my depth — if somebody's borderline suicidal or
+> something else, I'm not going to come in there like *well, you could do this*, **because I'm not armed
+> with those tools. I'm not trained, and I'm not going to be there to see you through the darkness.**"*
+> He names the failure mode too: people *"have an outsized measure of their experience… they speak on
+> things they should not be speaking on,"* and fear looking ignorant more than they fear negligence. The
+> persona must refuse to counsel genuine crisis and point to professional help — **exactly as he does.**
+> This pairs with the personal-story guard added in pass 13.
+
+**3. ⚠️ A borrowed framework recorded as borrowed.** The **trust triangle** (authenticity / logic /
+empathy) is *not his* — he was taught it by "Dr Christine [surname unrecoverable from captions]", and it
+is a framework widely associated with **Frances Frei**. Filed `attribution: uncertain` with a
+verify-before-promoting note. What **is** Chris's on that page is valuable and new: his own explanation of
+why the blunt register reads as care rather than cruelty — *"my way of showing that I care is to tell
+people the truth."*
+
+**Carried debt cleared:** `SUBJECT.md` now carries the **fence for the recurring Chris-absent @thefutur
+teaching slot** (three attested instances, with the tells listed) so future batches skip it on sight
+instead of rediscovering it. Two items remain from pass 13: the **five-way Brand Lab reconciliation** and
+**`tom-ross.md`**.
+
+**Pipeline state after this batch:** `@thefutur` P1:0, **P2:269**, P3:44; `@TheFuturAcademy` P3:72;
+shorts 860; L2=**811**, L3=0; synthesis debt **1/10**; persona v15.
+
+> **Next iteration: Stage B (P2).** 269 open P2 rows.
+
+Synthesis notes: genuinely new this batch — (1) ★★ the **LTV → net margin → CPA chain** and *"spend up to
+your net margin to acquire a customer"*, the missing economic layer under the risk-share; (2) ★★ **the two
+B's** (baseline/benchmark) with its honest failure modes; (3) ★★ **who actually takes the risk** (Joe the
+sales rep) as the standing answer to the vendor-takes-no-risk objection; (4) ★★ **guarantees are priced,
+not given** (car warranty → insurance → peace of mind); (5) ★★ **Blind ~$5M/yr with five reps at 7–12% of
+gross** for the entity page; (6) ★ **Olympic scoring** and the *"if you had to replace yourself"* salary
+test for computing real net; (7) ★ the **collapsing tier** as the realistic landing zone for a performance
+deal; (8) ★★ the **presence doctrine** — *"when I'm here, I want to be here"*, "missing" as a comparison
+habit, **recalling a memory changes it**, and **single-tasking as the source of his output**; (9) ★ the
+**check-in-call insight** (*"this wasn't about her, it was about me"*) and **asynchronous communication as
+respect**; (10) ★ the **don't-interrupt-a-thinking-person agreement** (name-free) for biography;
+(11) ★★ **"not a lot of crayons in the box"**; (12) ★★ **directness requires permission**; (13) ★★ **know
+your depth** — **as a system-prompt guard**, not merely a belief; (14) ★★ **"nothing and everything at the
+same time"**; (15) ★ **"I can't take them from three to 300"**; (16) ★ the **anti-macho positioning**
+(*"I'm going to compete on the inner space"*) as dated biography; (17) ★★ Chris's *"I desperately want to
+give you money — just give me a reason"* framing of differentiation. Borrowed and fenced: the **trust
+triangle** (verify Frances Frei), Allan Dib's **Spice Girls not Vanilla Ice** and the irresistible-offer
+checklist (add *Lean Marketing* to his `influences` entry), Brené Brown's *"choose discomfort over
+resentment"*. Carried: the five-way Brand Lab reconciliation; `tom-ross.md`; two earlier Priestley
+episodes as ledger candidates; **Mo** as a context-page candidate on recurrence grounds.

@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-27 (**synthesis pass 13 → system-prompt v15**) — promoted 58 L2 pages (748→806) into all 7 topic hubs + biography/beliefs/voice. Landmarks: the **pre-ArtCenter origin arc** and the **rate arc** ($30/hr → $30,000/hr), the **Skool split** (the cake rule), the **canonical personal-brand framework**, the **low-ball playbook**, the **one-degree pivot** + Trojan Storage → $13B. **6 new guards**, incl. the personal-story rule and "anti-crippling-student-debt, not anti-education"._
+_Last updated: 2026-07-27 (ingest yt batch @thefutur, 5 → 811 L2 — ★★ the **whiteboard economics** behind the low-ball roleplay (LTV → CPA, who takes the risk, guarantees are priced; **Blind ~$5M/yr, five reps at 7–12%**) and the two-part **Mo conversations** (presence and "missing"; tonal range and **know your depth**, flagged as a new guard); the **trust triangle** recorded as borrowed. SUBJECT.md now fences the recurring non-Chris @thefutur slot._
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **806 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2024-04-27] + the 2026-07-21 fresh upload; synthesized through batch 123 → persona **v15**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **811 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2024-05-14] + the 2026-07-21 fresh upload; synthesized through batch 123 → persona **v15**).
 
 ## Topics
 

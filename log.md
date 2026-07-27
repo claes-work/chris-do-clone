@@ -4166,3 +4166,87 @@ explicit note not to absorb it), **Paul Rand** correctly credited, **Matthew S�
 Carried: the five-way Brand Lab reconciliation; the subscription-vs-scarcity reconciliation; the promised
 clickbait follow-up; earlier Priestley/Tom Ross episodes; **Mo**, **Jule Kim**, **Anneli**, **Amy** as
 entity candidates; **keep checking every batch for re-uploads.**
+
+## [2026-07-27] ingest | yt batch (@thefutur, 5) — the pushback triage, and the fence escalates onto pricing
+
+**Stage B (P2), batch of 5.** All five fetched cleanly (310KB) — the two Chris-primary sources read in
+full, the three large guest-primary interviews read to the depth their yield justified. Ledger 836 →
+**841 L2**.
+
+| id | date | what it is |
+|---|---|---|
+| `yt-vvqV-sN1xRc` | 2024-07-25 | Jule Kim listening workshop, **Pt 1 of 2** — guest-led |
+| `yt-eBrwd2FZCEE` | 2024-07-27 | ⚠️⚠️ **NOT CHRIS** — Matt Essam **5th instance, on PRICING** |
+| `yt-34Q53iT7zZ4` | 2024-08-01 | Erwin McManus — guest-primary, thin on Chris |
+| `yt-l1obZ-wNhe0` | 2024-08-04 | ★★ **the client-pushback triage** |
+| `yt-Xvqwa8q_j5w` | 2024-08-06 | Joel Pilger — guest-primary, one strong Chris argument |
+
+**1. ⚠️⚠️ THE FENCE ESCALATED, AND THIS IS THE MOST IMPORTANT THING IN THE BATCH.** The Matt Essam slot has
+now produced a **fifth** instance — and it is **a full pricing lecture** (hourly billing → undercharging →
+discounting). Pricing is **the single most central domain in this clone**. Worse, the video **cites Chris
+by name to borrow authority**: *"you've probably seen Chris talk about this a lot on this channel; in fact
+I think it's one of his most popular videos."* And worst of all, **his conclusions broadly agree with
+Chris's** — so an accidental promotion would not look wrong on the page and would be very hard to detect
+afterwards.
+
+> Actions taken this iteration: the fifth instance and an **escalation callout** added to
+> [[wiki/entities/matt-essam]]; a **new recognition tell** added (*"may teach a core Chris topic —
+> including pricing — and may name-drop Chris to borrow authority; **topic overlap is the hazard, not
+> evidence of authorship**"*); and `SUBJECT.md` updated to five instances with the same warning.
+> **Standing instruction recorded: any synthesis pass touching `wiki/topics/pricing` must verify nothing
+> from `eBrwd2FZCEE` has leaked in.**
+
+**2. ★★ The best practical page of the batch is `yt-l1obZ-wNhe0`**, and it gives a decision procedure, a
+script, and an honest limit. The reframe: *"**they're not interfering with your art — you're interfering
+with their money.**"* The triage, to run before reacting: **is it reasonable and in scope** (say yes) →
+**is it technically going to fail** (stop and explain the consequence) → **is it purely subjective**
+(*"poll 10 designers and you won't get the same answer"* — let it go). The script, offered as the phrase
+that gets you your way and thanked for it:
+
+> *"You're the boss. At the end of the day I will do exactly what you asked me to do — **but hear me out on
+> this one thing. I'm concerned about X because it would lead to Y. Having given you that information, I'm
+> relinquishing my responsibility.** You need to make the decision that's best for you."*
+
+Backed by a dated Blind production story: the **Audi A7** European debut shot on a jib because the budget
+wouldn't stretch to a techno-crane, footage *"kind of unusable"*, rescued by **photogrammetry** — and the
+rule they wrote from it. Crucially he then **bounds his own rule**: *"there aren't that many cases when you
+know that in fact this is not going to work… **most of the time you want to die on the hill for an
+aesthetic thing.** Aesthetics are subjective."*
+
+**3. ★★ The tattoo-artist test, and why the self-objection matters.** In the Pilger interview Chris hunts
+for *"one industry where [spec work] is common, accepted, ethical and required"*, lands on tattooing, and
+answers it as a top-tier artist would: *"I don't care who you are, **because it takes six months to book a
+thing with me.**"* Then — and this is the part worth promoting **with** the argument — he immediately
+argues against himself on the audience's behalf: *"there's probably an army of tattoo artists saying:
+**yeah, Chris, I wish**… **I'm not there yet, I'm just trying to get my next project.**"* The honest form
+of the position is therefore: **refusing spec work is a function of demand, not of virtue.**
+
+**4. Two guest pages filed with explicit "don't absorb this" notes.** The McManus interview is an hour in
+the *energy/frequency* register from a guest with a proprietary assessment — the **existing system-prompt
+guard on that register applies with force**, and the page says so. The Jule Kim workshop is **her**
+framework; what it does surface is that **she now has four attested appearances**, past this repo's
+recurrence threshold — **`wiki/entities/jule-kim.md` is overdue** and is added to the debt list.
+
+**Pipeline state after this batch:** `@thefutur` P1:0, **P2:239**, P3:44; `@TheFuturAcademy` P3:72;
+shorts 860; L2=**841**, L3=0; synthesis debt **6/10**; persona v15.
+
+> **Next iteration: Stage B (P2).** 239 open P2 rows. Checkpoint ~4 batches out.
+
+Synthesis notes: genuinely new this batch — (1) ★★ **the three-question pushback triage** (reasonable →
+technical → subjective) and ★★ **the "you're the boss" script** verbatim, the single most transferable
+sentence in weeks; (2) ★★ *"**they're not interfering with your art — you're interfering with their
+money**"* for `persona/beliefs.md`; (3) ★★ **aesthetics are subjective, technical consequences are not** —
+the distinction that makes pushback principled rather than merely compliant; (4) ★ **be bamboo**, *"eating
+it in the shorts"*, and the **Audi A7 photogrammetry** story for [[wiki/entities/blind]]; (5) ★ **vendor →
+collaborator** (*"a vendor has no power"*) and the **referral-reputation** point; (6) ★★ the
+**tattoo-artist test** for spec work, promoted **together with** the self-objection and the
+demand-not-virtue caveat; (7) ★ *"maybe pitching doesn't suck as much when you're winning"* — the
+objection-to-pitching is often an objection to losing; (8) ★ Chris's **live compression of his own
+meaning** in the listening drill, and the outside observation that **his face is legible** (*"he can't
+hide"*) for `persona/voice.md`. Fenced this batch: **Matt Essam** (everything — and see the escalation),
+**Jule Kim** (the listening drill and scorecard), **Erwin McManus** (Seven Frequencies — plus the
+energy/frequency guard), **Joel Pilger** (pitching methodology). **New debt**: create
+`wiki/entities/jule-kim.md` (4 appearances); locate **Part 2** of the listening workshop; locate the
+promised clickbait follow-up. Carried: the five-way Brand Lab reconciliation; the subscription-vs-scarcity
+reconciliation; earlier Priestley/Tom Ross episodes; **Mo**, **Anneli**, **Amy** as entity candidates;
+**keep checking every batch for re-uploads.**

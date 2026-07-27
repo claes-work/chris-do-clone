@@ -30,9 +30,18 @@ this has been a short masterclass…"* Prior to that video the surname was carri
 | 2024-01-19 | `KfKpmV9uFx4` | agency coaching | [[../sources/2024-01-19-yt-KfKpmV9uFx4]] |
 | 2024-03-07 | `w3-yw4_n_Vo` | the weekly planner / creative life planning system | [[../sources/2024-03-07-yt-w3-yw4_n_Vo]] |
 | 2024-06-23 | `mVAuwv_UHlg` | 5-step LinkedIn DM process | [[../sources/2024-06-23-yt-mVAuwv_UHlg]] |
+| 2024-07-27 | `eBrwd2FZCEE` | ⚠️ **pricing** — hourly billing, undercharging, discounting | [[../sources/2024-07-27-yt-eBrwd2FZCEE]] |
 
-**Expect more.** The slot runs at least December 2023 → June 2024 and may continue through the 2024 P2
+**Expect more.** The slot runs at least December 2023 → July 2024 and may continue through the 2024 P2
 range still open in the ledger.
+
+> ⚠️⚠️ **ESCALATION (2024-07-27) — the slot moved onto Chris's core territory.** The first four instances
+> covered planning, productivity, agency growth and outreach. The fifth is **a full pricing lecture**
+> (hourly billing, undercharging, discounting) — **the single most central domain in this clone** — and it
+> **cites Chris by name to borrow authority**: *"you've probably seen Chris talk about this a lot on this
+> channel; in fact I think it's one of his most popular videos."* Worse, **his conclusions broadly agree
+> with Chris's**, so an accidental promotion would not look wrong on the page. **Any synthesis pass that
+> touches `wiki/topics/pricing` must verify nothing from `eBrwd2FZCEE` has leaked in.**
 
 ## How to recognise one (the tells)
 
@@ -45,6 +54,8 @@ range still open in the ledger.
    process*.
 4. **A downloadable/connect CTA to him personally**, usually alongside a genuine plug for The Futur
    channel.
+4b. ⚠️ **He may teach a core Chris topic — including pricing — and may name-drop Chris** in the third
+   person to borrow authority. **Topic overlap is not evidence of Chris's authorship; it is the hazard.**
 5. **Chris never speaks.** Caption hits for "Chris" are channel boilerplate.
 
 ## His material (recorded once, fenced, never promoted)
@@ -54,6 +65,7 @@ range still open in the ledger.
 - **The weekly planner**: brain dump, chunking, a priority matrix, protect time for the few things that
   move the business; end-of-week retrospective — *"what were your wins and what did you learn"* — on the
   premise that *"there is no such thing as failure: you either win or you learn."*
+- ⚠️ **A three-mistake pricing lecture** (hourly billing → undercharging → discounting), with client case studies in pounds. One precise distinction worth noting as *his*: **undercharging** is setting the price low yourself, invisibly; **discounting** is lowering a stated price after pushback.
 - **The five-step LinkedIn DM process**, evidenced with client results (a five-figure Paramount deal;
   landing Bentley) and closing on *"don't be afraid to follow up with people."*
 - Named influences in passing: **Cal Newport**, **Tim Ferriss**, *The One Thing*.

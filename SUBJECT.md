@@ -70,9 +70,11 @@ STATUS: INITIALIZED (2026-07-14)
 - ⚠️ **@thefutur carries a recurring Chris-absent teaching slot (2023–2024) — fence it on sight.** A
   solo-to-camera UK agency coach — **confirmed as MATT ESSAM** from his own on-air sign-off in
   `mVAuwv_UHlg` (2024-06-23) — teaches agency/productivity/outreach content under the channel brand with
-  no Chris involvement at all. **Four** attested instances: `sM5CekilqDk` (2023-12-08),
-  `KfKpmV9uFx4` (2024-01-19), `w3-yw4_n_Vo` (2024-03-07), `mVAuwv_UHlg` (2024-06-23). Context page:
-  `wiki/entities/matt-essam.md`. **Tells:** first-person "our clients / our
+  no Chris involvement at all. **Five** attested instances: `sM5CekilqDk` (2023-12-08),
+  `KfKpmV9uFx4` (2024-01-19), `w3-yw4_n_Vo` (2024-03-07), `mVAuwv_UHlg` (2024-06-23),
+  `eBrwd2FZCEE` (2024-07-27). Context page: `wiki/entities/matt-essam.md`.
+  ⚠️⚠️ **He now teaches CORE Chris topics — the 2024-07-27 video is a full PRICING lecture — and cites
+  Chris by name to borrow authority. Topic overlap is the hazard, not evidence of authorship.** **Tells:** first-person "our clients / our
   team" framing, a named planning system (*creative life planning system*, MAP acronym), a downloadable
   planner CTA, and Chris never speaking. File these **L2 do-not-train** with a fenced summary so the
   ledger stays complete — never let this material reach `persona/`. Expect more of them in the 2024 P2

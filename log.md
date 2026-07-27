@@ -3994,3 +3994,93 @@ close enough to Chris's doctrine to be absorbed by accident); **Ian Dawson** (in
 **Matt Essam** (everything). Carried: **the five-way Brand Lab reconciliation** (now the only outstanding
 pass-13 item); two earlier Priestley episodes and two earlier Tom Ross episodes as ledger candidates;
 **Mo**, **Jule Kim** and **Anneli** as entity candidates; **keep checking every batch for re-uploads.**
+
+## [2026-07-27] ingest | yt batch (@thefutur, 5) — content = client acquisition, and the business-model pivot
+
+**Stage B (P2), batch of 5.** All five fetched cleanly (250KB) and read in full. Ledger 826 → **831 L2**.
+
+| id | date | what it is |
+|---|---|---|
+| `yt-BwrXv5n5eFI` | 2024-06-30 | Daniel Priestley, **4th appearance** — guest-primary, fenced |
+| `yt-q3tF4h1IawI` | 2024-07-02 | John Driscoll / naked development — guest-primary, fenced |
+| `yt-93LTb6AjqZ8` | 2024-07-05 | ★★ **content = client acquisition** |
+| `yt-YKoyhr-rqrs` | 2024-07-09 | Matt Bretz on job loss — guest-primary |
+| `yt-7Gi-lHLgTeI` | 2024-07-10 | ★★ **the business-model announcement** |
+
+**1. ★★ The best reframe on the content-strategy hub, and it takes one sentence.** *"Let's just **take the
+label of content creation away** from this. **We'll just call it client acquisition.** Do you have a
+client-acquisition strategy?"* Everything follows from that: networking and cold calls don't scale, content
+does; client loss is an **inevitability** to prepare for, not a risk (*"and this always happens. **It
+always happens.**"*); and the honest diagnosis for people already grinding — *"**it's not that content
+doesn't work — it's that your content doesn't work.**"* He flags his own remedy as self-serving before
+giving it (learn storytelling, learn to write, niche down) and names the hardest part as a commitment
+problem: *"**most of us can't make that commitment, so we broadcast generic messages to generic people.**"*
+
+Two things there are new to the wiki: the ★★ **dread loop** (resentment → partial effort → predictable
+failure → confirmation that content doesn't work), and ★★ *"**the best way to say no is to raise your
+price**, so only the ones who can afford you will say yes"* — the cleanest statement of price-as-qualifier
+in the corpus. Also recorded: the **July 2024 solo-episode format experiment**, announced on-air with
+feedback solicited.
+
+**2. ★★ A business-model announcement, and it is unusually candid.** `yt-7Gi-lHLgTeI` states the dilemma
+he has been circling for years: *"I want to release it all for free… **but it's in direct opposition to me
+as an entrepreneur** and my ability to pay my team a livable wage."* The pivot he wants is **courses →
+subscription**, and the stated motive is not margin: *"so that **we don't have to market and create
+funnels, we don't have to create courses — we can just teach.** That is me in my zone of genius."* The
+metric he proposes to be judged on is the sharpest idea in it: ★★ *"**the real metric that matters is the
+value per fan.** … We don't really have two and a half million fans — **and I want to test if this model
+is true.**"*
+
+It also carries a lot of dated operational fact — $1/$15 tiers, a 48-hour free window, 2.5M subs growing
+~20K/month, the full revenue-line list **including one-on-one consulting** (*"I'm rather reluctant to talk
+about it"*), the named team (Diego, Mo, Amy, Rich) — and one good self-deprecating story: the **2019
+office-to-event-space conversion** whose first and only event was a **Marty Neumeier** brand-strategy
+workshop, after which the pandemic left it *"gathering dust and cobwebs."*
+
+> ⚠️ **Framing recorded on the page**: this is a **fundraising ask** — he says so himself (*"I'm going to
+> do something very rare: I'm going to ask you for something"*) — not a neutral teach, and the numbers are
+> self-reported. Also worth reconciling at synthesis: this is a **volume play** running in the same year
+> as the Pro Group **scarcity cap**. Not a contradiction (different products), but they should be recorded
+> side by side rather than merged into one doctrine.
+
+**3. Karmic equity, finally observed from the receiving end.** The Bretz interview is guest-primary, but
+Chris does two things worth keeping: he **corrects the guest's own explanation** of why so many people
+offered help (*"you say it's a more natural thing for an extrovert… **but the real part of it is you've
+been a genuinely good human being**"*), and he supplies the **counter-example from his own client
+history** — bullying clients who were later laid off, and *"everybody's dancing on their grave."* The
+give-first material on the hub argues what to do; this is the first source showing **what it pays out, when,
+and from whom** (a junior copywriter from years earlier).
+
+**4. Priestley's fourth appearance.** His four-bucket sales structure and *"take it away from me"* are
+fenced to his entity page. Chris's contributions: the premise — *"to do the work that we love, **we have to
+win the work that we love**… there is no such thing as a super successful creative who isn't also good at
+selling their work"* — and a good failure diagnosis from running live role plays: creatives ask questions
+**with no structure to organise the answers**, which erodes trust instead of building it.
+
+**Pipeline state after this batch:** `@thefutur` P1:0, **P2:249**, P3:44; `@TheFuturAcademy` P3:72;
+shorts 860; L2=**831**, L3=0; synthesis debt **5/10**; persona v15.
+
+> **Next iteration: Stage B (P2).** 249 open P2 rows. Checkpoint in ~5 batches; the only outstanding
+> pass-13 item remains the **five-way Brand Lab reconciliation**, which is now joined by a **second
+> reconciliation** (subscription volume play vs. Pro Group scarcity cap).
+
+Synthesis notes: genuinely new this batch — (1) ★★ **content creation = client acquisition**, which should
+head the content-strategy hub; (2) ★★ *"it's not that content doesn't work — **it's that your content
+doesn't work**"* with the storytelling/writing/niche-down remedy; (3) ★★ **the dread loop**; (4) ★★
+*"**the best way to say no is to raise your price**"* for the pricing hub; (5) ★ **client churn as an
+inevitability**, with the one-big-automotive-client agency as the cautionary case, and the
+**hot-streak playbook** (find who you are, build systems, hire the best, raise until the ceiling); (6) ★★
+**value per fan over follower count**; (7) ★★ **the courses → subscription pivot** and its motive
+(*"we can just teach"*), for [[wiki/entities/the-futur]] and biography; (8) ★★ the **2019 studio
+conversion + Neumeier workshop** as a dated story about timing; (9) ★ *"**I hate marketing and sales and
+I'm not very good at it**"* — a striking self-assessment from someone who teaches selling; (10) ★ the
+**friction-with-a-student editorial claim** (that format outperforms monologue on his own channel);
+(11) ★★ **the humility precondition** for asking for help, the **give-first-as-cause** correction, and the
+**bully-client counter-example**; (12) ★★ *"we have to win the work that we love"* + the
+**dead-end-questions** diagnosis; (13) ★★ the **"naked and unashamed"** synthesis as a specimen of how he
+adds value in interviews. Fenced this batch: **Daniel Priestley** (4-bucket structure, minimum effective
+dose, take-it-away-from-me), **John Driscoll** (provocative-name-as-filter, *"I don't care if you like
+me"*, the full stop as restraint), **Matt Bretz** (*"open every door"*). Carried: the five-way Brand Lab
+reconciliation; the **new** subscription-vs-scarcity reconciliation; earlier Priestley and Tom Ross
+episodes as ledger candidates; **Mo**, **Jule Kim**, **Anneli** as entity candidates; **keep checking every
+batch for re-uploads.**

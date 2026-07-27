@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-27 (ingest yt batch @thefutur, 5 → 826 L2 — ★★ **the pre-Blind moment** (Novacom's offer, the $85K counter, leaving before a counter landed) and ★★ **the asymmetry of failure** (a personal brand often can't be rehabilitated); *"magnetic people make media"*. **Carried debt cleared**: `matt-essam.md` and `tom-ross.md` created, Essam surname confirmed on air and the SUBJECT.md fence updated)_
+_Last updated: 2026-07-27 (ingest yt batch @thefutur, 5 → 831 L2 — ★★ **content creation = client acquisition** and *"the best way to say no is to raise your price"*; ★★ the **courses → subscription** business-model announcement (value per fan; the 2019 studio that sat empty; the Pasadena plan) — recorded as a fundraising ask; Priestley's 4th appearance)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **826 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2024-06-28] + the 2026-07-21 fresh upload; synthesized through batch 123 → persona **v15**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **831 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2024-07-10] + the 2026-07-21 fresh upload; synthesized through batch 123 → persona **v15**).
 
 ## Topics
 

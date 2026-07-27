@@ -70,10 +70,10 @@ STATUS: INITIALIZED (2026-07-14)
 - ⚠️ **@thefutur carries a recurring Chris-absent teaching slot (2023–2024) — fence it on sight.** A
   solo-to-camera UK agency coach — **confirmed as MATT ESSAM** from his own on-air sign-off in
   `mVAuwv_UHlg` (2024-06-23) — teaches agency/productivity/outreach content under the channel brand with
-  no Chris involvement at all. **Eleven** attested instances: `sM5CekilqDk` (2023-12-08),
+  no Chris involvement at all. **Twelve** attested instances: `sM5CekilqDk` (2023-12-08),
   `KfKpmV9uFx4` (2024-01-19), `w3-yw4_n_Vo` (2024-03-07), `mVAuwv_UHlg` (2024-06-23),
   `eBrwd2FZCEE` (2024-07-27), `vBTGeNr4ZZ0` (2024-08-27), `TSU29CCLKrE` (2024-09-27),
-  `-wh61BGjNNs` (2024-10-27), `BIrQvP_-6yQ` (2024-11-27), `6TPa4lWo5C4` (2025-01-28), `t1UUjOU5-4c` (2025-03-01). Context page: `wiki/entities/matt-essam.md`.
+  `-wh61BGjNNs` (2024-10-27), `BIrQvP_-6yQ` (2024-11-27), `6TPa4lWo5C4` (2025-01-28), `t1UUjOU5-4c` (2025-03-01), `-Jq8LjeVtbI` (2025-03-27). Context page: `wiki/entities/matt-essam.md`.
   ⚠️⚠️ **He now teaches CORE Chris topics — 2024-07-27 is a full PRICING lecture, 2024-08-27 is CLIENT
   ACQUISITION, 2024-09-27 is THE SALES PROCESS, 2024-10-27 is MINDSET + POSITIONING + CASH FLOW — and he may cite
   Chris by name to borrow authority. 2024-11-27 is ACCOUNT GROWTH / RETAINERS. FIVE consecutive instances on core domains: treat the drift as

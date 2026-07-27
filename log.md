@@ -7277,3 +7277,66 @@ story**; (6) ★★★ **Pixar rule #1** and the **Woody** argument; (7) ★★�
 ★★★ **"specific details communicate much faster"**; (9) ★★★ **Vinh Giang's *stories remind us who we are***;
 (10) ★★ **Marty Neumeier's gut-feeling definition** with the **arbitrary-threshold honesty**.
 ⚠️ **Record the 52-vs-53 discrepancy without resolving it.**
+
+## [2026-07-27] ingest | yt batch (@thefutur, 2 of 3 — one deferred) — the cost ledger for bias-toward-action
+
+**Stage B (P2), `--n 3`.** Ledger 908 → **910 L2**.
+
+| id | date | what it is |
+|---|---|---|
+| `yt-AQOF8m6tmr0` | 2025-03-26 | ⚠️ guest-dominant — Mike & Cass Lazerow |
+| `yt--Jq8LjeVtbI` | 2025-03-27 | ⛔ **DO-NOT-TRAIN** — 12th Matt Essam instance |
+| `yt-ozgIEp5d2ks` | 2025-03-29 | ⏸️ **DEFERRED** (39KB fireside) |
+
+**1. ⚠️ A title that needed checking before anything else.** *"Husband & Wife CEOs"* — **the couple are the
+GUESTS, not Chris's family.** Mike and Cass Lazerow (golf.com, Buddy Media → Salesforce). **Verified from
+the transcript before writing a word**, since a mis-read there would have dragged the family-privacy rule
+into a page that doesn't need it.
+
+**2. ✅✅ The Chris half is small but it closes a real gap in the doctrine.** Prefacing a question to the
+guests, he volunteers something distinctly unflattering:
+
+> ★★★ *"**This is what I do to my wife all the time — and to my entire team.** ***I got this idea, let's go
+> do this thing*** — **and they literally then have to go and clean up the crap afterwards.**"* And he
+> frames a whole question as a proxy: *"I'm asking **on behalf of all the partners who have to suffer with
+> partners who do things and then the other person has to deal with it.** ★★★ **I'm mostly channeling my
+> wife here.**"*
+
+**The corpus teaches *bias toward action* and *say yes to the things you can't do and then figure it out*
+with no ledger of who absorbs the consequences. This supplies it — from him.** ⚠️ **Promote the two
+together; the doctrine is incomplete without this.**
+
+**3. ★★★ And his most direct account of how he and his wife differ on risk.** *"**My wife — who's also my
+partner in business and life, and the mother of our children** — we see things a little bit differently…
+★★★ **I'm okay with the risk. I'm very risk tolerant. And she's very risk avoidant.**"* His side: *"when
+there's an opportunity — **and we'll put that in air quotes, cuz they're not opportunities half the time,
+I'm totally wrong** — **I don't know what the next move is, but my gut says this is going to work out.**"*
+★★★ **Hers, described respectfully rather than as an obstacle**: *"**she needs to see what the next five
+steps are on that chessboard, because she can't see the play.** She goes: **why are we wasting our
+time?**"* ★★ With a hedged self-estimate: *"**like 80% of the time I'm right about this kind of stuff.**"*
+`[self-reported]` — and note he hedges it himself in the same breath.
+
+⚠️ **His wife is referenced repeatedly and never named; no family name is recorded on the page.**
+
+**4. ⛔ Twelfth Matt Essam instance — and this one needed the fence pointed in both directions.** Zero Chris
+Do content; ingested for ledger completeness and the fence only. **But it sits on freelancer→agency growth**,
+adjacent to Chris's own **freelancer vs. independent business owner** material (*"you bent yourself over
+backwards. Nobody bent you"*). **Chris's version is dated a month earlier and is independently his** — the
+page says so explicitly, so a future pass does not strip it on the strength of the overlap. SUBJECT.md count
+**11 → 12**; entity table extended.
+
+**Deferral (no silent caps):** one row — `ozgIEp5d2ks` (39KB fireside) — returned to `L0-discovered` at P2,
+transcript cached, not skimmed. **Takes the next batch first.**
+
+**Pipeline state:** `@thefutur` P1:0, **P2:167**, P3:44; `@TheFuturAcademy` P3:72; shorts 860; L2=**910**,
+L3=0; synthesis debt **7/10**; persona v18.
+
+Synthesis notes: genuinely new — (1) ✅✅ ★★★ **the cost of his own idea-generation, admitted** — *"they
+literally then have to go and clean up the crap afterwards"* — ⚠️ **promote it ATTACHED to the
+bias-toward-action / say-yes doctrine, which is incomplete without it**; (2) ★★★ **the risk asymmetry in his
+marriage and business** (*"very risk tolerant"* vs *"very risk avoidant"*, *"she needs to see the next five
+steps on that chessboard"*) → `persona/biography.md`, **roles only, no names**; (3) ★★ **the 80% hit-rate
+self-estimate**, promoted **with his own hedge** (*"they're not opportunities half the time — I'm totally
+wrong"*); (4) ★★ **his interview habit of naming a reaction he saw and asking the guest to explain it**.
+⚠️ **The Lazerows' material is fenced, and their Gary Vaynerchuk anecdote must never be used for that
+clone.** ⚠️ **Essam instance 12 changes nothing in `persona/`.**

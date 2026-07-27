@@ -5954,3 +5954,89 @@ the music-industry frame; (9) ★★★ **social capital is capital** + *"you ar
 the documented pivots; (11) ★★★ **the AI workflow position** as the third face; (12) ★★ **the Emmy
 deflation**; (13) ★★ **the reciprocate-10× network** with his own *"kumbaya"* hedge; (14) ★★ **validate by
 finding the expensive-but-unloved step**.
+
+## [2026-07-27] ingest | yt batch (@thefutur, 2 of 3 — one deferred) — why under-pricing happens, mechanically
+
+**Stage B (P2), `--n 3`.** The row deferred from batch 147 resumed at the front and was ingested — **nine
+batches running with no row deferred twice.** Ledger 890 → **892 L2**.
+
+| id | date | what it is |
+|---|---|---|
+| `yt-b0drEg4TqC0` | 2025-02-11 | ★★★ **LANDMARK** — premium pricing / mindset; ⏸️ from 147 |
+| `yt-W68Dd44GLKc` | 2025-02-13 | ★★ Chris solo — the fishing trip, and **7-11-4** |
+| `yt--3B7cbOOis4` | 2025-02-16 | ⏸️ **DEFERRED** (64KB, REFRAME Conference) |
+
+**1. ★★★ The corpus has had the pricing *tactics* for a long time. This is the first source that explains
+why they're hard to execute.** Three linked frameworks, in order:
+
+- ★★★ **Erwin McManus's two types** (credited, met on the speaking circuit): *"**one type of person runs
+  from pain, and one type runs towards life and living. So you have to decide which type of person you
+  are.**"* Chris then names three patterns that reveal the first: money as a self-worth marker, seeking
+  affirmation, seeking attention — converging on *"**a state of fear, a state of lack and neediness — that
+  is the very thing that will push away great relationships, and therefore great clients.**"*
+- ★★★ **Brian Tracy's self-concept, with a mechanism**: *"**give or take about 10 or 15%, we move to
+  whatever belief we hold to be true.**"* Hit your number and *"**you shift into cruise control** — your
+  calendar is all of a sudden booked up with other things"*; miss it and *"**you'll burn the midnight oil…
+  until you get closer to that 85 to 100 mark, and then you'll chill out.**"*
+- ★★★ **The guilt analogy, and it is about himself**: *"if you asked **how much do I have to pay you** to
+  read comics, watch MMA, play video games — **that's the strangest concept. Why would anyone pay me for
+  that?** … **I would feel embarrassment and guilt — because I actively and happily *pay* to be able to do
+  this.** So when we reverse that and say someone will pay us to do something we love — **it feels really
+  wrong.**"*
+
+★★★ **Then the failure sequence, in the present tense about himself**: *"this **happens to me to this day**
+— I think *$5,000*, and then *God, that sounds like a lot… why don't I charge 2,500, it'll be an easy
+yes*"* → *"they don't say yes, **because business people know you're not supposed to take the offer**"* →
+★★★ *"**you've pre-negotiated against yourself, and now the other person, rightfully so, is negotiating
+against you.**"* And the cost isn't the money: *"**if there's bitterness in your heart, you're going to do
+the work and it's going to affect it**… *you know what, I'm tired of working on this* — **when if you worked
+on it a little bit more you could get it just right.**"*
+
+Plus ★★★ **whole vs. hole** (*"a whole human, 100% complete, devoid of gaps — **not a human that has a hole
+that needs to be filled**"*) and the fix: move the spotlight — *what are you trying to achieve* → *what will
+that do for your business* → ★★★ *"**so what are you willing to spend to achieve that result?**"*
+
+> ✅ **Promote with [[2025-01-25-yt-ZIF7aRNr8BA]].** That source gives the **ethics defence** for charging
+> more; this one gives the **psychological obstacle** to it. Two halves of one argument. Two new named
+> influences also arrive: **Erwin McManus** and **Brian Tracy**.
+
+**2. ★★ A short, warm one that carries a framework — and models good epistemics.** ★★★ **7-11-4 / ZMOT**:
+*"somebody needs to spend **at least 7 hours** getting to know you, across **11 touch points**, across **4
+different places**… **that's where we stop becoming strangers.**"* What makes it worth promoting is that he
+**doesn't just recite it**: *"**is this a theory? Is there something more to this?** … at every opportunity
+I've tried my best to **change the location three more times.** And **something does happen.**"*
+
+New biography: **the Canadian fishing trips.** A call to adventure two years ago answered by **exactly one
+person**; repeated a year later with **19 creatives** (September 2024), attended ★★★ **as host, not
+participant** — *"my goal was to make sure each person experienced the adventure that I got to experience."*
+And his own verdict: *"**one of the worst fishing trips on a *how much fish did you catch* level — [and] one
+of the best fishing trips I've ever had in my life.**"*
+
+> ⚠️ **A tension to hold, not merge.** Here: *"**when you feel safe and you feel really connected, your
+> guard goes down and you let a little bit more of yourself out**"* — many participants had talents they'd
+> never dared show. Four weeks earlier: *"**I like to create *unsafe* space — in the friction is where the
+> real learning happens**"* ([[2025-01-16-yt-SsuiKyAwDhM]]). **Different objects — intellectual friction in
+> a teaching room vs. relational safety on a trip.** Both his; recorded with the distinction stated.
+
+**Deferral (no silent caps):** `-3B7cbOOis4` (64KB, **REFRAME Conference** talk on brand and story) returned
+to `L0-discovered` at P2, transcript cached, not skimmed. **Flagged as likely high value.**
+
+**Pipeline state:** `@thefutur` P1:0, **P2:185**, P3:44; `@TheFuturAcademy` P3:72; shorts 860; L2=**892**,
+L3=0; synthesis debt **6/10**; persona v17.
+
+> **Next iteration: Stage B (P2), `--n 3`**, led by the deferred REFRAME row.
+
+Synthesis notes: genuinely new — (1) ★★★ **the self-concept ±10–15% band** (Brian Tracy) — mechanical and
+memorable, and it explains income plateaus better than anything in the hubs; (2) ★★★ **the comics/MMA guilt
+analogy** — the clearest account of *why charging feels wrong*, told about himself; (3) ★★★
+**pre-negotiating against yourself** and its downstream cost, **with *"this happens to me to this day"*
+kept** — the admission is what makes it usable; (4) ★★★ **whole vs. hole**; (5) ★★★ **McManus's
+run-from-pain / run-toward-life** plus Chris's three patterns; (6) ★★★ **the spotlight fix** ending in
+*"what are you willing to spend to achieve that result?"*; (7) ★★★ **7-11-4 / ZMOT**, promoted **with** his
+experimental framing — the testing is what makes it his rather than borrowed; (8) ★★★ **safety produces
+disclosure**, filed **beside** the unsafe-space doctrine, **not merged**; (9) ★★ **the Canadian fishing
+trips** and **hosting rather than participating** for the biography; (10) ★★ **the four-part
+self-description** (*"loud introvert, recovering graphic designer, serial entrepreneur, above-average
+student but first-class troublemaker"*); (11) ★★ **the gratitude correction** (*"allow you?"*) and **the
+teacher's multiplier**. ✅ **Promote (1)–(6) alongside [[2025-01-25-yt-ZIF7aRNr8BA]]** — obstacle and ethics
+defence are one argument. New influences: **Erwin McManus**, **Brian Tracy**, **Joseph Campbell**.

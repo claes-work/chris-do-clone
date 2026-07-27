@@ -8231,3 +8231,85 @@ modes; (12) ★★★ **the two definitions of art**; (13) ⚠️★★★ **the
 correction he issues about himself**, not just a count; (14) ★★★ **the cobra/sleeper** passage.
 ⚠️ **Record *run towards change* (Kier) vs *run towards fear* (uncredited) without merging**, and ⚠️ **flag
 the unsourced *be interested* anecdote.**
+
+## [2026-07-27] ingest | yt batch (@thefutur, 1) — the framework, and the arithmetic
+
+**Stage B (P2), `--n 3`.** The row deferred from batch 168 was taken first and proved a landmark. Ledger
+922 → **923 L2**. **No deferrals outstanding.**
+
+| id | date | what it is |
+|---|---|---|
+| `yt-8XJAjOUL07I` | 2025-05-11 | ★★★ **LANDMARK** — Dubai workshop; ⏸️ from 168 |
+
+**1. ★★★ The five-part sales framework, named and ordered.** The corpus has had these pieces scattered
+across a dozen sources. **Here he names them as a sequence**: **now story** (*"where are you in your
+business right now?"*) → **change story** (*"something has interrupted you to create a problem"*) →
+**obstacle** (*"why haven't you been able to achieve this before?"*) → **desired future state** →
+**impact**, quantified.
+
+★★ **The change story gets a test that is instantly clear**: *"**if nothing changes, everything's cool. If
+you're happy in your marriage, no problem. If you're having some friction — something interrupted here.**"*
+→ ★★★ *"**the more pain they feel, the more urgent they seek a solution.**"*
+
+**2. ★★★ The withdrawal move — and the asymmetry that makes it a rule rather than a trick.** *"**If there's
+no pain… we say: I don't think there's anything I can do for you. Seems like if you do nothing, you'll be
+all right. You don't need a new website.**"* What usually follows: *"**and the funny thing is, most of the
+time they say: no, I really want the website.**"*
+
+> ★★★ **But it only works in one direction**: *"**if you try to convince them that it's a really big problem
+> FROM a no-problem, they're like: *no, you're trying to push a sale on me.*"***
+
+✅ **This is Blair Enns's *retreat and follow* operationalised, and stated as a one-way door: you can
+withdraw and be pulled back, but you cannot manufacture urgency that isn't there.**
+
+**3. ★★★ The "if" ladder — the conditional close, extended.** After testing a narrowing with a hypothetical,
+he explains the move: *"**see how easy that was? His fear was losing revenue. So if you just remove it.**
+★★★ ***If* is a safe space to play with our imagination — low commitment.** And **momentum is a good thing:
+I take a little half baby step in the *if*, then realise it's not that scary, so I take another half step.**
+★★★ **Before you know it, they've agreed.**"* ✅ **April's conditional close was a single move; this is the
+same word used as an escalator.**
+
+**4. ★★★ A complete value derivation, performed live — and the ending is the interesting part.** Asked what
+a plan would be worth: *"5k."* — ★★★ *"**that sounds a little off**"* — then he does the arithmetic **with**
+him: doubled revenue → +10k/month → ~70% margin → 7k/month → ×12 → ★★★ **$84,000 a year** → *"**and you just
+want to spend how much? Is 10% good enough?**"* → **$8,400** → yes.
+
+> ★★★ **Then he goes under his own anchor**: *"**I could probably come up with a plan for you for less than
+> that.**… **Maybe 7,500.**"*
+> ⚠️ **The number rose from 5k to 8.4k by arithmetic the client did himself, and then Chris voluntarily
+> settled below it. The sequence is recorded exactly; no claim is made about reciprocity, because he doesn't
+> make one.**
+
+**5. ★★★ And he pre-empts the objection before the room can raise it.** *"**You're going to come back and
+say: what a jip. This never works in real life.**"* The answer: *"**at any point here there could have been
+friction — and there wasn't, because it's a conversational thing that we escalated, or scaffolded, towards
+the things we needed to know.** ★★★ **I didn't just go into: *what can you spend, bro? What's your budget?*
+— and that's how you guys ask that question. THAT's the problem. You haven't built trust. You haven't
+demonstrated that you understand how businesses work. So why would I give you any of that information?**"*
+★★★ With the failure mode named: *"**most of you fake this conversation only to find out this number — and
+then you go for the throat. And they feel it too.**"*
+
+**Also**: ★★★ **the abstraction argument, which is a management insight as much as a sales one** — *"*I want
+my designers to be better* — is that abstract or quantifiable? **Super abstract.** ★★★ **And if you tell
+your designer *I just need you to be better*, they're going to feel really bad, they're going to be afraid
+they're going to lose their job — and YOU'RE going to feel frustrated that they never achieved the goal**"*
+— with the question that hands the measuring back: *"**how will we know when we get there? How do we measure
+it? Help me out.**"*; ★★★ **retention over acquisition** (*"it's much harder to get a new client than to keep
+a client"*) and ★★★ **churn as a system signal** (*"the creators who disappear — **something is not working
+in your system**"*); and ★★ **the reframe that reversed the brief** — the stated problem was *"I can't
+generate leads"*, the real one was serving the wrong segment.
+
+★★ **The close refuses to overpromise**: *"**I taught you how to dribble, how to pass, and how to shoot.
+That doesn't mean you're going to be an NBA player — but it does mean you know the foundational things.**"*
+
+**Pipeline state:** `@thefutur` P1:0, **P2:154**, P3:44; `@TheFuturAcademy` P3:72; shorts 860; L2=**923**,
+L3=0; synthesis debt **6/10**; persona v19.
+
+Synthesis notes: genuinely new — (1) ★★★ **the five-part framework named as a sequence** — the corpus has
+the pieces scattered; **this orders them**; (2) ★★★ **the withdrawal move** and ★★★ **its one-way
+asymmetry** — ✅ retreat-and-follow, operationalised; (3) ★★★ **the "if" ladder**, extending the conditional
+close; (4) ★★★ **the abstraction argument** (*"I just need you to be better"*) → **`business` as much as
+`sales-clients`**; (5) ★★★ **the live value arithmetic**, ⚠️ **including that he settles below his own
+anchor**; (6) ★★★ **trust before budget** and *"you go for the throat"*; (7) ★★★ **retention over
+acquisition** and **churn as a system signal**; (8) ★★ **the basketball close**, for what it refuses to
+promise.

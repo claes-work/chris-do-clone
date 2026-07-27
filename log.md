@@ -9170,3 +9170,90 @@ making an invisible pattern visible and then telling you that you'll now see it 
 stereotypes and does not defend a corrected generalisation — **not** the generalisation itself.
 (6) ★★ The **1,000+ members** figure joins the June-2025 pricing and cadence disclosures on
 `entities/the-futur`.
+
+## [2026-07-28] ingest | yt batch (@thefutur, 2 of 3 — one deferred) — the story he normally never tells
+
+Batch 179. Prepared 3; **ingested 2, deferred 1 once.** L2 939 → **941**.
+
+- **2025-08-12 — "STOP Blanding In!"** (★★★ **LANDMARK**, and the most biographically rich talk in the
+  corpus). A live keynote that is a longer, warmer cousin of the VidCon talk — but it opens with
+  something VidCon didn't have, because he breaks his own habit: *"I'm going to ask for your
+  indulgence… **I'm going to tell my story, which I normally never do.**"*
+
+  ★★★★ **The full credit list**, first-person and in one place for the first time: **Stacy Peralta**
+  main titles (*Dogtown and Z-Boys*, *Riding Giants*, *Made in America* — *"people I consider **my
+  childhood hero**"*), **Gnarls Barkley's "Crazy"** (*"it won an MTV Video Music Award"*), the **Audi
+  A7** launch, **UFC / Spike TV / FX**, **Xbox**, and **Coldplay** (*"Chris Martin's a cool guy"*) —
+  plus an award received with visible discomfort.
+
+  ★★★★ **The fullest "no way, Jose" telling**: *"**I'm behind-the-scenes talent. I'm not
+  in-front-of-camera talent**"* → *"'No way, Jose.' **And that's not racist. That is his name**"* →
+  *"in **2014** we made our first video. **I'm 42 years old**"* (✅ **fifth corroboration of the
+  hinge**) → *"and now we're going to be YouTube famous. Or so I thought. **And then nobody shows up.
+  Nobody watches.**"*
+
+  ★★★★ **And his wife's verdict, which he keeps against himself**: *"'**Your videos are unwatchable.**'
+  … **And the worst part is she was right** — because Jose and I, we didn't really prepare. **We just
+  showed up.**"* The lesson he draws is the useful part: *"**if you don't make that effort and you
+  just barely show up, why would anyone give you their time and attention — their most valuable thing
+  that they have?**"* With the numbers: **25 views → 300 views**, *"about a year in — **I'm a slow
+  learner**."*
+
+  ★★★★ **On speaking at his son's school**: *"**I've never been more nervous in my life** — because
+  **it's okay if I mess up in front of you, 'cause tomorrow you don't see me. But I don't want to mess
+  up in front of my boy.**"* And ★★★★ the arrival: *"**we came to the United States when I was three,
+  in 1975. Fall of Saigon.** … This awkward, socially awkward, super weird person, **this loud
+  introvert**, gets to do all these amazing things."*
+
+  **Two things the VidCon version does not have.** ★★★★ **World-building** as the *positive* form of
+  *don't chase new*, argued through the *Alien* franchise (*Alien* → *Aliens* → *Alien 3* →
+  *Resurrection* → *Prometheus*): *"**in Hollywood this is not called a lack of imagination. It's
+  called world-building**… **when you create more and more of the same of what people like, you get to
+  expand the universe.**"* And ★★★★ **"personal *bland*"** — *"a lot of you, that's what you're
+  building right now. **It's deliberately beige for a reason.**"*
+
+  ⚠️ **New biographical fact, self-reported and dated:** *"**even though I own a Tesla**, there's a lot
+  of hate out there because of what he's saying."* ⚠️ **Family privacy applied**: both sons appear in
+  the talk and are recorded **by role only**; no names, and identifying detail kept to the minimum the
+  stories require.
+
+- **2025-08-14 — "How to Beat the Competition Without Lowering Your Prices"** (★★★). Eight minutes,
+  one argument, cleanly built. The death spiral first (*"**before you know it, you pay the client to
+  do the work.** How long can you run a company when you pay the client to do the work?"*), then
+  **Ronald Baker's** *"**there is no such thing as a commodity. You just lack imagination**"* walked up
+  a ladder — **lettuce → bagged and triple-rinsed → salad kit → licensed name** — and then the two
+  cases that make the point stick: *"**can anything be more of a commodity than money?**"* and a
+  company selling **blue-chip stock above market price because grandparents want to frame the
+  certificate.** Turned on the room: *"this is the part that's going to hurt your soul a little bit.
+  **Ask yourself: do you lack imagination?**"*
+
+  ★★★★ Then the mechanism the pricing hub has been missing: **two variables — time delay and certainty
+  of outcome** (meditation vs. Prozac: *"the time to result is short **and it's guaranteed**"*) →
+  *"**reduce the time to satisfaction and completion, and increase the certainty of the outcome
+  happening.**"* And ★★★★ **the guarantee rule with a self-report attached**: *"the last thing I do is
+  I throw in the guarantee. **And every time I've done that — I've done it twice — they close.** … Use
+  it for the right moment — **not to get the job, but to secure it. And there's a difference.**"*
+  ✅ Also worth keeping: an explicit **pay-the-authors** norm — *"I'm not trying to take money from
+  people. Please buy the books and support them."*
+
+**Deferred (once, with reason)**
+
+- `yt-Wjyut4PVTKg` — 2025-08-07, a **61,011 B guest storytelling episode**; needs a full
+  speaker-attribution pass, and the 08-12 keynote consumed this batch. **Queued first for batch 180;
+  it will not be deferred twice.**
+
+**Synthesis notes:** (1) ★★★★ **The biography half of 08-12 is the priority** — the credit list belongs
+on `entities/blind`, and the *"no way, Jose"* / *"your videos are unwatchable"* / 25→300 sequence
+belongs in `persona/biography` as **one continuous origin narrative**, because the humiliation is what
+makes the lesson land. (2) ★★★★ **World-building** should be promoted **as the positive face of *don't
+chase new*** and filed with it, not separately — it converts a prohibition into a strategy.
+(3) ★★★★ **"Personal bland"** is a coinage worth `persona/voice`. (4) ★★★★ **"Never assume anyone knows
+who you are"**, and the VidCon *who-are-you?* wound behind it, belong together. (5) ★★★★ **The two
+pricing variables** give `topics/pricing` a causal mechanism it lacks; **the guarantee rule** is
+specific, self-reported and operational — *not to get the job, but to secure it.* (6) ★★★ **"There is
+no such thing as a commodity"** with the full ladder is the best anti-commoditisation argument in the
+corpus. (7) ⚠️ The argument half of 08-12 otherwise **duplicates VidCon and must be merged, not filed
+twice.** (8) ⚠️ Note the **safe-space opening** (*"is this a safe space for us to be honest and direct
+with each other?"*) against the standing open tension with *"I create unsafe space"* — here he is
+explicitly in coaching mode, which is evidence about *when* each mode appears. (9) ★★ New biography:
+**the Tesla**; **1,100 members**; **2.7M followers**.

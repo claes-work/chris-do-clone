@@ -80,3 +80,44 @@ authority worth studying. Source: [[wiki/sources/2018-08-15-yt-bgStKKE6RUk]].
 ## Sources
 
 - [[wiki/sources/2018-08-15-yt-bgStKKE6RUk]] — "3 Minutes Of Pure Branding Gold By Brian Collins" (The Futur, 2018-08-15)
+
+## ★★ Added 2026-07-27 (synthesis pass 15b) — the COLLINS business-model reset
+
+> ✅ **Reconciliation closed.** A December clip show surfaced substantial Collins material that was **not**
+> on [[../sources/2024-10-06-yt-oZraOi6eBWg]], raising the question of a second, un-ingested episode.
+> **Verified against the 10-06 transcript: it is all there.** There is **no second episode** — the source
+> page simply under-recorded it. Recorded here now, **credited to Collins**.
+
+- **Origin**: *"we started out with **two laptops, four desks**, and an idea that **design wouldn't be what we
+  make — design is what we would make possible**"* — putting the emphasis *"not on the artifacts but on the
+  outcome."*
+- ★★ *"**Designers are wizards — we're able to rehearse the future before it arrives.** … There's really no
+  such thing as *the* future; **there are many futures, all in competition with each other, and your job is
+  to fight for the one future you believe in** — and design is the bridge that helps you get there."*
+- **The three things they doubled down on** after *"we stuck dynamite in our old business model"*, derived
+  from reviewing 16 years of work:
+  1. *"**Design is not what it looks like. Design is what it does and how it behaves** — and what it looks
+     like is a **result** of that."*
+  2. *"**Brand is not visuality.** Brand is not the typeface, not the colour, not the logo, not the design
+     system, not the interface. **Brand is differentiation — and differentiation is about making sure you do
+     not become a commodity.**"*
+  3. Companies *"not a step ahead of the culture are going to be behind the culture"*, therefore must
+     transform — *"**the business we were actually in was the transformation business.**"*
+  With the fourth realisation: *"our most successful case studies **in terms of design** were also our most
+  successful case studies **in terms of business**"* (Spotify as the example).
+- ★★ **On language**: *"**words create worlds.**"* His three-part test for articulating a company's future —
+  *"language that identifies **what is**, **what must be**, and **what could be**… it opens up enormous wells
+  of trust, because people say: **you've listened to me, and you've given me a map I never thought I would
+  be able to get.**"*
+- ★★ **Against the Einstein platitude**: *"people in design say Einstein said *imagination is more important
+  than knowledge* — but then you have to ask: **what's more important than imagination? Craft.** Can you make
+  it, can you ship it, can you write it… **It's not about the big idea, it's about the big craft.**"* And:
+  *"**I've seen it make a CEO cry**, and I go: I didn't think that was possible. **That's the power of real
+  language.**"* Against the alternative: *"if I see these **interchangeable brand decks** — everyone has
+  *bold, relevant, innovative*… **kill me now.**"*
+
+★ **Chris's set-up line** in that exchange, which is his and is good voice material: *"as a younger person
+**I underestimated the power of language and words. I'm not that stupid anymore.**"*
+
+_Sources: [[../sources/2024-10-06-yt-oZraOi6eBWg]] (primary) · [[../sources/2024-12-01-yt-vpMLh3kMpaQ]]
+(the clip that surfaced it)._

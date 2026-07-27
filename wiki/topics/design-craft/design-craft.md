@@ -1514,6 +1514,78 @@ then pattern-recognition into reusable "formulas" (he estimates "seven or eight"
 
 ---
 
+## 37. ★★ Judging a logo — the tests he actually applies (2024-11-20)
+
+⚠️ **A deliberate exception to his own position.** He opens: *"whenever there's a new logo or rebrand the
+internet goes crazy, especially designers who talk about the aesthetics of it — **you know how I feel about
+that. But I'm actually going to talk about aesthetics on this episode.**"* **Record the exception as an
+exception**; it does not supersede his standing objection that designers over-index on aesthetics.
+
+★★ **The failure mode he diagnoses is the pitch room, not the eye**: on a mark built from overlapping
+letterforms, *"I can imagine being in the board of directors… **there's a U, there's an A, and there's an X
+in it — isn't that cool.** And everybody applauds. **This is one of those moments where the idea could be so
+strong that you approve it beyond the aesthetics.**"*
+
+★★ **The battery of tests**:
+- **Mock it everywhere first** — *"a uniform, a truck, a plane, wrapping paper or tape for a box."*
+- Then check **recognisability**, **iconicity**, and **scale** — *"some things look really good small but
+  scaled up look terrible, so sometimes you have to design a **more responsive logo** with multiple
+  configurations."*
+- ★ **The fatigue test**, rarely asked: *"**does it feel like it's going to get tiring to look at?** Are you
+  going to get **visual fatigue** from it?"*
+- ★★ **The taste test**, with an admission about taste: *"does someone who has a good sense of taste and
+  aesthetic — **which we're not all born with, and some of us never can find** — … **you need to bring in the
+  people who have good taste.**"*
+- ★★★ **The mood-board test** — the most portable idea here: *"build a mood board with all the brands you
+  love **that have withstood the test of time** — nothing younger than 10 years old, **preferably 30, 50**…
+  Put your logo next to that board. **If it looks like it belongs there, you've done a great job.**"*
+- ★ **Disagreement among tastemakers is itself the signal**: *"if you're **not getting consistent feedback
+  across the board**, you're running the risk — and **unless you're a bleeding-edge company, it's not a risk
+  you want to take.**"*
+
+★★ **On changing a mark at all**: *"ideally when you create a logo **it begins a story that you don't want to
+change.** It can evolve, but changing it means **all the brand equity, all the recognition… you're going to
+have to start over.**"* The F1 rebrand as the worked example, with the honest ending: the backlash was real,
+*"**but five, six years later it's quieted down massively and now no one complains.**"*
+
+★★★ **Trend vs. fad**: *"**when people use the word trend, they misuse it. What they mean is fad.**"* Trends
+are things like *"equality, inclusion"*; fads are *"certain elliptical shapes that were on trend for a hot
+minute"*, frozen yogurt, bell-bottoms.
+
+★★★ **And the rule worth keeping**: *"the masters, in **Switzerland and Germany**, figured out what works…
+**golden principles of ratios, harmonies, certain geometric shapes.** Everybody's trying to reinvent the
+rules. **I don't think you need to reinvent them — you just have to find the right application.** So rather
+than be weird and unique in **breaking** all the rules, ★★★ **be weird and unique in your application of the
+rules.**"* With the identity argument behind it: *"**the whole point of identity is to be unique, and to be
+different, and to be slightly weird if anything else.**"*
+([[../../sources/2024-11-20-yt-NW3Hob026xI]])
+
+## 38. ★★★ What the fee actually buys — the answer to "AI can make a logo" (2024-11-20)
+
+*"If you're thinking about using ChatGPT or one of these generative AI engines to make you a logo, **I would
+ask you to reconsider what you're getting.** … ★★★ **You're not just buying the mark.** If you showed me an
+award-winning logo and asked any capable designer *can you draw this* — **of course they can. That's not the
+point.**"*
+
+★★★ **What is being bought instead**: *"large agencies and design firms will go and do **research,
+competitive analysis**, they'll go into **the history of your company**… **unless you can prompt an engine to
+do this, it's not going to happen.** So ★★★ **it's not about the formal qualities — what it looks like — it's
+all the research they do to arrive at a conclusion**, so that you can feel confident it's worthwhile to now
+spend hundreds of thousands, if not millions, replicating this across multiple touchpoints."*
+
+★★ **Reading a portfolio as a prediction, not a capability list** — and he names his own mistake: *"look at
+their body of work **to see if you see your future in there.** We tend to think that **if you can design
+something, you can design me anything — and that's the problem. I've made this mistake before**: to look at
+gaps in the portfolio and think *of course they can figure this out.* But **what I usually wind up getting is
+more of what they've already done.**"*
+
+★★ **The one interview question he recommends to a buyer**: *"**tell me what the ideal client working
+relationship looks like to you. What happens, where does it go wrong, and how does this work in your
+mind?**"* — then *"**just let them talk themselves in or out of the job.** Often they reveal that **they have
+no process**, they're approaching every problem as a brand new thing — **and that's not a good thing for
+you.**"*
+([[../../sources/2024-11-20-yt-NW3Hob026xI]])
+
 ## Sources
 
 - [[wiki/sources/2015-07-10-yt-hqYIe5Y76oY]] — My (First) Design Portfolio (portfolio framework, T-shaped, matching mirror). (2015-07-10)

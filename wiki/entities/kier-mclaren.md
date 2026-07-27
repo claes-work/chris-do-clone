@@ -200,3 +200,23 @@ shreds"* — and so is the arithmetic that overruled it.
 
 - [[jose-caballer]] · [[futur-instructors]] — other CONTEXT people (speaker-attribution)
 - [[blind]] · [[the-futur]]
+
+## ★★★ Added 2026-07-27 (synthesis pass 15b) — thirteen-plus years, and what it was actually for
+
+_Source: [[../sources/2024-10-31-yt-U1anI0b1nvI]] (2024-10-31). **Self-reported.**_
+
+★★★ **The duration, restated and extended**: *"I've worked with a business coach, a professional development
+person named **Kier McLaren for over 13 years.**"* (Consistent with the ~10-year and *"probably 13 years"*
+figures already recorded; this is the latest and longest statement.)
+
+★★★ **And the scope — which is not business**: *"I learned a lot about business, **but the things I usually
+don't talk about are what he taught me about how to be a man, how to be a father, and how to be a husband —
+and a good boss and a good communicator.**"*
+
+★★★ **The referral that mattered most.** *"A couple of years into our business coaching relationship **I
+asked him for a family therapist**"* — which produced the **Joan Lightfoot** sessions recorded in
+`persona/biography.md`, and, by Chris's own account, *"a lot of the things I use in sales and negotiations,
+and how I look at myself and think about the world, come from those sessions."*
+
+> ⚠️ **Two different reasons are on record for seeking that referral** (children, 2024-10-31; employees,
+> 2024-11-24). **Both are recorded in `persona/biography.md` and deliberately not merged.**

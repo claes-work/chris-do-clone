@@ -2251,6 +2251,77 @@ Williams's own formulations — *"**time is not a cost, time is a constraint**"*
 paradigm-precedes-practice argument — **stay his.**
 ([[wiki/sources/2024-06-18-yt-DeriW0XyR_k]])
 
+## 51. ★★★ A fair price, and the ceiling that isn't there (2024-12-31)
+
+From **the Four Agreements** (full framework in `persona/beliefs.md` and `business` §54):
+
+★★★ **"Fair" defined so it can't be argued about**: *"people are like: well, what is fair? That's a
+complicated word. So what you have to do is **just give more value than what you charge. That's it.** If you
+charge $100, all it has to be is **$101.**"*
+
+★★★ **And the ceiling**: *"what's the maximum that you can charge? **It's limitless, everybody. It is only
+limited by the value that you can generate.** … If you do good work, if you're really good at what you do —
+**what's the theoretic limit? I don't know. I haven't found it.**"*
+
+★★★ **The objection he declines**, which is the part worth keeping — someone says the client's valuation is
+the real limit: *"**no, no — I can charge whatever. If they don't value it, that's a whole other story.** I'm
+just saying: **if you pay me a million dollars, I give you a million plus.** The more I can give, **the
+better I can sleep at night.**"*
+
+★★ **His economic definition of a scammer**, from the same talk: *"**they take more money than the value they
+give.**"* ([[../../sources/2024-12-31-yt-5_RMSS8Mf30]])
+
+## 52. ★★★ Anchoring, bracketing, and never justifying (compilation published 2024-10-13)
+
+> ⚠️ **DATING** — the source is a compilation; date the ideas to their original telling.
+
+★★★ **Anchoring, demonstrated live on a participant**: *"I do business coaching one-on-one — **I charge
+$1,000 an hour.** But I'm going to help you out: **how much can you afford, realistically?**"* Her own
+account of the trap is the useful part: *"if I know you're charging a thousand, that means you're worth…
+**he must be worth a thousand, and I'm worth more than that** — that's why I can't say it, **because I don't
+want to go lower than a thousand.**"*
+
+★★★ **And how he got out of one himself** — a prospect opened with *"I don't think we can afford you"* and
+*"10 is what he's got"*; a colleague advised asking for 15. *"And then I went home… and I'm like — **damn it,
+he just dropped an anchor on my face and I fell for it.** So I let it chill out, **the effects of the anchor
+wore off**, and I sent him an email: **I can help you find it for 10, but if you want me to do it, I can do
+it for 30.** See — **I ignore the anchor, I chop that thing off, I drop a new anchor: 30.**"* The client came
+back: *"**we'll make the money work.**"*
+
+★★★ **Price bracketing**: *"use **big round numbers**… **it could be 10,000, it could be 50, it could be
+200. I don't know — let's get into this.** And **you're listening for the reaction. It's like sonar: you
+bounce the sound out, you see how far the wall is.** When they don't fall out of their chair at 200, **you
+know where your budget's coming in.**"*
+
+★★★ **Never justify the price**: *"**justification is a sign of conceding the higher ground to your
+prospect.**"* Tested by the **symmetry of logic**: *"go to a supermarket and ask why a can of beans costs 78
+cents… **If it's uncomfortable for you to ask, why do you think it's good for you to answer?**"* And it
+doubles as a filter: *"any prospect who immediately challenges me on the price and asks me to justify — **I
+already know it's going to be a long day.**"*
+
+★★ **Raise prices on new clients, not existing ones**: *"it's difficult to raise your prices on repeat
+customers… **every time a new client comes in, you must raise your prices.** … **This time next year you're
+charging double, triple, quadruple what you charge today.**"*
+
+★★ **Selling time — the reframe that sounds like a contradiction**: *"here's the answer, and it's going to
+seem strangely hypocritical — **you should be selling time.** … **You've been measuring time in the wrong
+way. You're measuring the time in which you work on it, not the time for the client.**"* (The electrician
+before a dinner party.) Against which: *"**charging by the hour punishes me for being good.**"*
+
+★ **Dated figures**: a stated coaching rate of **$1,000/hour**; a **$2,500/month minimum engagement**, *"up
+to 12,000 — **I have a client that pays me $12,000 a month**"*.
+([[../../sources/2024-10-13-yt-pc66141WYEI]])
+
+## 53. ★★ Honour a bad quote — the one case where you don't walk away (2024-12-26)
+
+Credited to **Jonathan Stark**: *"**if you quote something and you decide later that you undercharged them —
+suck it up. Let that be a painful lesson for you.**"* Chris's framing of someone who fulfilled a booking he
+had come to regret: *"**you made a commitment… because that's what people do: they honour their word.**"*
+
+> **Deliberately filed against §52.** Before an agreement he refuses to justify, brackets hard and will walk.
+> **After** an agreement he eats the loss. See `sales-clients` §82 — *walk away early, never late.*
+([[../../sources/2024-12-26-yt-MIyLNmejcVY]])
+
 ## Worked figures & self-reported claims
 
 Concrete numbers Chris cites for his own business or in case studies. Studio rates and the

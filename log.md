@@ -5485,3 +5485,61 @@ carry both* (with the documented cost), and ***the two therapy versions must not
 > **Next iteration: Stage S again — pass 15b**, to close the topic hubs and entities before resuming ingest.
 
 Synthesis notes: none — this was the synthesis pass.
+
+## [2026-07-27] lint | synthesis pass 15b — closing the gap (all 7 hubs, 8 entities, 4 reconciliations)
+
+**Stage S (continuation).** Pass 15 declared an honest gap; **15b closes it.** No version bump — **v17
+stands**, because 15b added wiki depth and attribution, not new persona doctrine.
+
+**All seven topic hubs are now current (+10 more sections, 18 across both passes).**
+- `branding` **F52–F53** — ★★★ **the personal-branding thesis stated whole** (the Church framing, *branding
+  = self-discovery + healing from trauma*, *"not to get clients — at all"*, the **negative definition**,
+  ***98% are fake***, and the **soul-of-the-creator disagreement held on record** rather than smoothed).
+- `mindset` **§75–77** — ★★★ **Jung's Persona/Shadow → normal = average → the *correct* contrarian**;
+  ★★★ **children in adult suits**, **bullies inverted**, and **the wound → shield reframe**. §77 records
+  **grace with a limit** — notable because he applies it to an account of **his own** bad day and does not
+  dispute it.
+- `content-strategy` **§50–52** — **generosity marketing** with the **January-2014 self-indictment**; the
+  operating model, AI position, and **social media as the new résumé**.
+- `pricing` **§51–53** — the **limitless ceiling with the objection he declines**; **anchoring both
+  directions**; **price bracketing as sonar**; **never justify**; and §53 **honour a bad quote**, filed
+  deliberately *against* §52 so the hub reads *walk away early, never late* rather than *always walk*.
+- `design-craft` **§37–38** — the **logo testing battery** incl. the **mood-board test**, **trend vs fad**,
+  *"be weird in your **application** of the rules"*, and ★★★ **what the fee actually buys — the research,
+  not the mark**. ⚠️ The **aesthetics exception is recorded AS an exception**, not as a reversal.
+
+> ⚠️ **A correction to my own pass-15 scope note:** there is **no `marketing` hub in this repo** — that
+> material lives in `content-strategy`/`branding`. The pass-15 checklist naming it was wrong.
+
+**Entities: 8 created, 3 deepened.** `matthew-encina` (the **pivot proposer**, plus the alumni material —
+and it ✅ **resolves the "Matthew and Cena" caption garble**), `brendan-kane`, `aaron-draplin` (**the 2014
+hinge**), `stefan-sagmeister`, `dan-sullivan`, `michelle-j-raymond`, `colin-and-samir` (with the **MrBeast
+divergence** recorded, not merged), `raw-materials` (⚠️ founder's name **not asserted**). Deepened:
+`brian-collins`, `kier-mclaren`, and `the-futur` (in pass 15).
+
+**⚠️→✅ The re-opened decision is closed, with its reasoning on the record** (`content-strategy` §51):
+**promote the diagnosis** (*why you run out of things to say*) **but do not re-add the
+character/want/obstacle framework to `persona/`** — the apparatus is borrowed teaching (McKee, Stan Lee),
+and pass 14's concern was that it read as his own doctrine. **Not to be re-opened without a source in which
+he teaches it as his own.** I would rather write the reasoning down once than have a future pass re-litigate
+it from scratch.
+
+**All four reconciliation tasks resolved — and two of them were my own false alarms:**
+1. The Brian Collins material is **not a second episode**. Verified present in the 2024-10-06 transcript —
+   **the source page had simply under-recorded it.** Now on `entities/brian-collins`, credited to him.
+2. The **"unnamed director" is Adrian Per**, from the **already-ingested** 2024-11-06 episode — whose page
+   already carried the $140K figure and the paper-edit method. I had failed to recognise the clip.
+3. That **also closes the separate "Adrien" lead** — same person, same episode, no gap.
+4. Jasmin Alić's first appearance remains a **ledger lead**, but is not a reconciliation risk.
+
+**Bonus fix:** ✅ Avital's surname (**Eusgeld**) resolved from the ledger; the `attribution: uncertain` flag
+on her source page is cleared.
+
+**Pipeline state:** `@thefutur` P1:0, P2:**197**, P3:44; `@TheFuturAcademy` P3:72; shorts 860; L2=**880**;
+synthesis debt **0**; persona **v17**. **No synthesis work is outstanding** — the wiki is now caught up to
+the persona.
+
+> **Next iteration: Stage B (P2), `--n 3`.** 197 open P2 rows, led by the two 2025 rows deferred for the
+> checkpoint (`obu9QUo8jq4`, `Sb80TUwoTOE`).
+
+Synthesis notes: none — this was the synthesis pass.

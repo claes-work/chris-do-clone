@@ -2700,6 +2700,89 @@ knew.** … **It's not until someone extracts it from you that you're like — o
 thinking from me. I'll get back to you.**"* (Consistent with the **know-your-depth** guard in `mindset`
 §71.)
 
+## 50. ★★★ Generosity marketing, and the Trojan-horse problem (2024-10-31, 2024-12-31)
+
+★★★ **The objection to the standard playbook**: *"almost everybody I know posts content on social media as
+**a thinly disguised advertisement** for their business… and it makes us all cringe. **Even if you lead with
+80% value and at that last little 20% you ask me for something, you kind of burn all the goodwill.**"* The
+replacement: *"**generosity marketing** — you just give lots and lots of value, and **when you're ready to
+ask, just ask.** You don't have to worry about hiding it in something. **We don't have to use this Trojan
+Horse concept.**"*
+
+★★★ **The self-indictment that makes it credible** (2024-12-31): *"I say that also because **we did that at
+the beginning of our content strategy.** **Circa January 2014** — I'm **a babe in the woods** — almost all of
+it is: **we tease the course material such that you would be left wondering *oh, I need to learn this,
+therefore I must buy this from you.***"* The room supplies the word: ★★★ *"**a sales funnel. It is a sales
+funnel. Absolutely right.**"*
+
+★★ **The test he gives an audience**: *"**how much of that content is selling and positioning you as an
+expert? How much of it is you promoting something where you're going to extract more value than what you're
+giving into the world?**"*
+
+> **The operational form of all of this is the 9-1-1 ratio** (`persona/beliefs.md`) — nine pure-value posts,
+> one personal post, one unapologetic ad, on the principle *"we haven't earned the right to ask for it."*
+([[../../sources/2024-10-31-yt-U1anI0b1nvI]]; [[../../sources/2024-12-31-yt-5_RMSS8Mf30]])
+
+## 51. ★★ Why you run out of things to say — ⚠️ AND A DECISION RE-OPENED (2024-12-31)
+
+★★ **The diagnosis**: *"How many of you have been struggling to write consistently good posts and stories?
+Probably everybody in the room — **because you don't know what defines your character.**"* What people do
+instead: *"you follow some social influencer [who] says *use this headline, use this hack, 10 content ideas*
+— so **you're creating pieces of content that [aren't] tied into the larger version of who you are.** They're
+like **standalone episodes that don't tie back to this universe that you're building around you.**"* The
+failure mode: *"you get a hit, you get a hit, and you get a dud, and you're like: **who am I writing for?
+What's the story I'm trying to tell?**"*
+
+> ### ⚠️ DECISION RECORDED (pass 15b, 2026-07-27) — the character-language question, resolved
+>
+> **Pass 14 deliberately did not re-add character/want/obstacle language to the persona**, keeping only the
+> *"cardboard characters"* bar. This source **states the character framing independently, live, in his own
+> words**, which re-opened the question.
+>
+> **Decision: promote the DIAGNOSIS to this hub; do NOT re-add the character/want/obstacle FRAMEWORK to
+> `persona/`.** Reasoning, recorded so a future pass need not re-litigate it:
+> 1. What he says here is **an explanation of a symptom** (*why you run dry*) and a **prescription to know
+>    your own material** — it is not the screenwriting apparatus pass 14 excluded.
+> 2. The apparatus itself (want / obstacle / arc) appears in the corpus mainly as **borrowed teaching**
+>    (McKee, Stan Lee), and pass 14's concern was that it read as **his own doctrine** when it is not.
+> 3. Keeping the diagnosis here and the borrowed framework credited in `beliefs.md` §influences satisfies
+>    both: the persona can explain *why* someone runs out of content **without** performing a story-structure
+>    framework as though it were his.
+>
+> **Status: closed.** Do not re-open without a source in which he teaches want/obstacle/arc as his own.
+
+([[../../sources/2024-12-31-yt-5_RMSS8Mf30]])
+
+## 52. ★★ Operating model, benchmarks, and AI (Nov 2024 – Jan 2025)
+
+- ★★★ **The model, stated in contrast to advice he had just praised**: *"**we're a volume kind of operation.
+  I have an idea, we just make it. There's not a lot of planning or thinking — things go out, we adjust on
+  the fly. That's kind of our style.**"* (2024-12-05)
+- ★★ **His own best-performing format**: *"**our best content is almost always with me live, with some level
+  of studio audience** — they bring a little more spice out of me… and **if I have a piece of paper and a
+  marker with the live audience**, those videos tend to do really well — **not millions of views, but
+  hundreds of thousands.**"* (2024-11-13)
+- ★★ **Thumbnails**: *"**your frame shouldn't be a replication or repeat of what you say in the title** —
+  it's like **a little mini story.** There's a little tension and storytelling happening within that."* Plus
+  a claimed trained instinct: *"over time there is a certain predictability… **I can almost, without running
+  the test, tell you this one will do better.**"* (2024-11-13)
+- ★★ **Don't post and ghost**: *"**not everything you do is going to be fire. But if there's fire — fires
+  need things. They need fuel and they need oxygen.**"* A lot of creators *"**hit and run**"*; instead, *"an
+  hour after you post, go in and check, give feedback, answer questions, **so people know that a real person
+  is addressing whatever their concerns are.**"* (2024-10-29)
+- ★★★ **AI**: *"**if we use AI for everything, then what do we need you for?** … **AI can make things better
+  than you. But you are not better.** … **If you don't write, you're not really thinking.**"* And on
+  AI-generated comments: *"**it's fake engagement**"* — *"I just type in the word **bot** and a question mark.
+  And they never reply."* (2024-11-18, 2024-12-11)
+- ★★★ **Social media as the new résumé**: *"**when was the last time you looked at someone's résumé and
+  believed it?**"* Whereas *"**it's harder to fake a highly engaged social media account with pieces of
+  thought leadership… in the voice that's yours.**"* The tell for the fakes: *"people **regurgitate other
+  people's content**… **it sounds generic. They never put their voice or their signature on it.**"* And the
+  challenge that follows: *"**what are your ideas? Why should I follow you?**"* (2025-01-07, 2024-11-18)
+- ★★ **Brands buy distribution, not just production**: *"there's the budget to produce the video **and then
+  there's the media buy** — so they're getting a huge bargain, because they're buying **not only your
+  production services but your distribution.** … **So more brands should support artists.**"* (2024-12-01)
+
 ## Sources
 
 - [[wiki/sources/2015-11-29-yt-z7Y9TKfgstE]] — "Is Your Design Resume Still Relevant?" —

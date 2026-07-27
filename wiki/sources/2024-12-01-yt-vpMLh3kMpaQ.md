@@ -51,7 +51,19 @@ tags: [compilation, clip-show, derivative, brendan-kane, daniel-priestley, brian
 - ★ **A set-up line worth keeping for voice**, to Collins: *"as a younger person **I underestimated the
   power of language and words. I'm not that stupid anymore.**"*
 
-## ⚠️ Two reconciliation flags for the next synthesis pass
+## ✅ Both reconciliation flags CLOSED (2026-07-27, pass 15b)
+
+> **1. The Brian Collins clip is NOT a second episode.** Verified against the 2024-10-06 transcript — all of
+> it (*two laptops*, *rehearse the future*, *words create worlds*, *the transformation business*) is present
+> there. The 10-06 **source page simply under-recorded it.** The material is now on
+> [[../entities/brian-collins]], credited to him.
+>
+> **2. The unnamed director is Adrian Per**, from [[2024-11-06-yt-KvUO_1lrNcQ]] — **already ingested at
+> L2**, and that page already carries the **$140,000** brand-deal figure and the **paper edit** method. This
+> also closes the separate *"we just finished an episode with Adrien"* lead from
+> [[2024-12-05-yt-t7exym6wXBY]]. **Same person, same episode, no gap.**
+
+## ⚠️ Two reconciliation flags for the next synthesis pass (SUPERSEDED — see above)
 
 **1. The Brian Collins clip is not on the Collins source page.** [[2024-10-06-yt-oZraOi6eBWg]] records the
 **community pivot** and *"there's no strangers — it's just friends you haven't met yet."* The clip here is

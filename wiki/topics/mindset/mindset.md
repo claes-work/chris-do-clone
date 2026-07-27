@@ -3570,6 +3570,83 @@ mistakes — and that I'm not making one giant gamble?"*
 > commitment device for a *buyer or beginner*, and a procrastination licence for an *operator avoiding a
 > big bet*. Hold the distinction rather than picking a side.
 
+## 75. ★★★ The Persona, the Shadow, and why "normal" is the trap (2024-12-31)
+
+Via **Carl Jung**, offered with an explicit humility marker (*"I'm borrowing concepts that I barely
+understand"*): *"the ego regulates between **the Shadow** — the things you have anxiety about, that make you
+feel shame or guilt — **and the Persona**, and **the Persona is who you show up in the world [as] to be
+accepted.**"*
+
+★★★ *"**Most of us live in the Persona and we don't even know it.** We dress a certain way, we speak a
+certain way, we pursue a professional career **because someone told us that's what you do to be
+accepted.**"* He takes the fear seriously rather than dismissing it: *"**to not be accepted by society, to
+not feel like you have a tribe, is a very scary thing** — you feel really isolated and alone, and **as social
+creatures we need to feel connected.**"*
+
+★★★ **The turn**: *"if you look up **normal** in the dictionary, it kind of means **average**… We're okay
+saying *I want to be normal.* **I don't think we're okay with saying I want to be average. Anybody here want
+to be average? But that's what we're doing — we're showing up to blend into being average.**"*
+
+★★★ **And the correction to the standard advice**: to be a thought leader *"you have to be a contrarian
+[Mark Manson] — okay, but you could say *well, it's a flat Earth, Chris.* **So we have to add one more word:
+you have to be a *correct* contrarian.** Where everyone goes this way, you go this way — **but you have to be
+right. And that's the difficult part.**"*
+
+★★ **The same conclusion by a moral route** (2024-11-24): *"**how do we even know what normal is?** You have
+finite experience… **And even if it were normal and it were bad, should we not do this anymore?** … **If
+normal is bad, should you do that? I think no. That's what it means to have conviction, and a moral code
+that you live by.**"*
+([[../../sources/2024-12-31-yt-5_RMSS8Mf30]]; [[../../sources/2024-11-24-yt-JUueoUqV9eQ]])
+
+## 76. ★★★ Children in adult suits; bullies; and the wound that becomes a shield (2024-09-29 / 2024-10-31)
+
+★★ **The thesis he opens a keynote with**: *"it's a very **heart-centred** approach to what I'm doing —
+because **I think we're all children in adult suits, and there's a lot of unresolved trauma. And the result
+of it is we're afraid to do things**, from business to content creation and everything in between."* Restated
+a month later through *The Sixth Sense*: *"*I see dead people.* So I'm looking around the world and I'm like:
+**I just see fake people. I see children who are trapped in adult bodies who've never had the kind of
+emotional healing that they need.**"*
+
+★★ **Bullies, inverted**: *"they always say bullies are very confident — **they're not at all. They're
+insecure, broken human beings, and the way they heal themselves is to put other people down.** … Most people
+get pissed off when they see a bully. **I just feel really bad for them**, because somebody they look up to
+**needs to just give them a freaking hug** and say: *you're okay. I accept you. **You don't have to be
+anymore to be loved by me.***"* With the extrapolation: *"if they did that there'd probably be **less
+violence in the world**, there'd be **fewer wars**, and people wouldn't go around self-medicating with more
+props, more jets, more bank accounts — **because that is a bottomless pit.**"*
+
+★★★ **The reframe of the wound**, which closes the argument: *"the wound we're revealing to the world is:
+**I care about your freaking opinion. My emotional wellbeing rises and crashes on your opinion of me.** …
+**We paint a giant target on our head and say: please attack me here** — and when they hit us we're like
+*why does it hurt so much?* **Because you told them.**"* Versus: ★★★ *"once you heal from that enemy within —
+**that's not a wound, that's a shield. It's callous. The scab has turned into a scar. How can you hurt
+me?**"* He cites *"an African proverb: **if there is no enemy within, the enemy outside can do us no
+harm.**"*
+
+★★ **And what actually repels him** — not the flaw: *"**it's not the ugliness that drives me away** — we're
+all ugly in a way, and **who the hell am I to say my ugliness is better than your ugliness.** **What really
+kills me is them pretending that no one can see it, and trying to fool me.**"* Preceded by: *"**you're not
+that good at hiding it, because I can already see it** — and despite seeing it, **I accept you and you don't
+need to change. But I'm irritated that you keep trying to pretend.**"*
+
+★★ **On the crowd**: *"**the world conspires to tear each other apart.** We're so unhappy with our own lives
+that **when somebody else finds inner peace, success or joy, we have to create a new narrative that
+something is wrong with them** — because it allows us to continue living in the lie we tell ourselves."*
+([[../../sources/2024-09-29-yt-rl69VQbs3gA]]; [[../../sources/2024-10-31-yt-U1anI0b1nvI]])
+
+## 77. ★★ Bumps into gold; and giving grace (2024-10-29)
+
+★★ *"**The difference between successful people and struggling people is: successful people take life's
+bumps and they turn them into gold**, and the struggling people look at the bumps and **keep tripping over
+the same bump over and over again.**"*
+
+★★ **Grace, argued with a limit**: *"**we all have bad days, we're not always perfect, and we still believe
+in the goodness of people.** This could be the one time in which they effed up, and that's okay. **We're not
+letting them off the hook, but we don't need to burn their whole house down because of one instance.**"*
+Notable because it is said in response to an account of **his own** bad day — a fan he treated poorly who
+wrote publicly that meeting him was a disappointment. **He does not dispute it.**
+([[../../sources/2024-10-29-yt-mn8SUUGZKdo]])
+
 ## Cross-cutting patterns
 
 - **Language is the lever.** War Jitsu (§3), "share" not "teach" (§7), defining words like

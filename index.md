@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-27 (**synthesis pass 15 → system-prompt v17**) — persona promoted in full: beliefs 189→219, biography 92→112, voice 155→185. ★★★ **the Four Agreements**, ★★★ **the 9-1-1 ratio**, ★★★ **praise-is-a-trap** with the boat parable and its resolution, ★★★ **the 2014 Draplin hinge**, ★★★ **the Blind→Futur pivot origin** with its arithmetic. **Six tensions held unmerged**, **two attribution errors quarantined**, verify-no-leak clean. ⚠️ **Pass 15b queued**: 6 topic hubs, 8 entity pages, and the re-opened character-language decision._
+_Last updated: 2026-07-27 (**synthesis pass 15 + 15b → system-prompt v17**) — persona promoted in full (beliefs 189→219, biography 92→112, voice 155→185); **all 7 topic hubs** updated (+18 sections); **8 new entity pages** created and 3 deepened; the **character-language decision closed on the record**; and **all four reconciliation tasks resolved**. Verify-no-leak clean; six tensions held unmerged; two attribution errors quarantined._
 
 ## Sources
 

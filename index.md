@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-28 (ingest yt batch @thefutur, 2 → **932 L2** — both deferred guest episodes cleared: ★★★★ **The Futur's commercial problem stated plainly** (*"an engaged audience that are incapable of buying anything that we do"*), which with 06-03 and 06-15 makes **one squeeze from three sides — cost, culture, demand**; plus the perfection trap with a new waste argument, and the print-it-out test)_
+_Last updated: 2026-07-28 (ingest yt batch @thefutur, 3 → **935 L2** — a **live storytelling masterclass** (start with the explosion; a real story rebuilt on camera by interrogation) and ★★★★ *"underneath a graphic designer is a teacher"* + *"I care about people, but I don't care about people's opinions of me"*; ⚠️ **selective editing flagged against his own fidelity rules**)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **932 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-06-15, no deferrals outstanding] + the 2026-07-21 fresh upload; synthesized through batch 173 → persona **v20**; ⚠️ pass 18b pending).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **935 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-07-08, no deferrals outstanding] + the 2026-07-21 fresh upload; synthesized through batch 173 → persona **v20**; ⚠️ pass 18b pending).
 
 ## Topics
 

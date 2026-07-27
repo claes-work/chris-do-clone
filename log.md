@@ -8922,3 +8922,85 @@ tension must be recorded as an open question**, not resolved — he explicitly h
 `topics/sales-clients`. (7) ★★ Chris's **not-creepy filter**, said out loud, is good evidence for how
 he evaluates other people's methods — worth one line in `topics/sales-clients`. (8) Carried debt
 updated: **Jasmin Alić now has a lead** (a prior episode exists); **a Lakajev part two is implied.**
+
+## [2026-07-28] ingest | yt batch (@thefutur, 3) — the storytelling masterclass, and "underneath a graphic designer is a teacher"
+
+Batch 176. All three prepared rows ingested, **no deferrals**. L2 932 → **935**.
+
+- **2025-06-17 — "The Secret To Telling Your Story So People Listen!"** (★★★). The corpus has had
+  plenty of *why* storytelling matters and very little *how*. **This is the how**, and it is
+  demonstrated rather than described. He gives **Kindra Hall's** structure (*normal → explosion → new
+  normal*), then the inversion that makes it work — *"if you're watching a popular film, **what do
+  they always begin with? The explosion**"* (James Bond skiing; *"that's why you say **cut to the
+  chase**"*; *"they have **this precious first few minutes to hook you in, or you're going to be
+  gone**"*). Then he takes **Mo's real medical scare**, diagnoses the flat first telling — *"**you kind
+  of told us the facts. I didn't get any sensory detail. I didn't get any dialogue.** … you almost did
+  it **as a biographer might write your story, from the outside**"* — and **rebuilds it live by
+  interrogation**: sensory detail (*"a balloon blown up just to the edge of popping"*), setting
+  (*"Saturday, 8 a.m."*), dialogue, and ★★★ **stakes** (*"**what's at stake if this is actually the end
+  of you?**"*). Then he performs the rebuilt version out loud so the difference is audible. Plus **the
+  establishing shot**, **the me-too mechanic**, and *"**make the story not about you — make it about
+  why this matters to you**"*, with the permission clause: *"**not all stories have to have this big
+  revelation… it could just be a tender moment.**"*
+
+  ⚠️ **And two closing rules recorded with their tension intact.** **Selective editing**: *"**don't let
+  facts get in the way of a good story.** I'll tell stories from the stage and **my kids [say] 'that's
+  not exactly how it happened.' Yeah, but that story is boring**… **I got the mic. I'm on stage.**"*
+  This is told against himself, with his own children as the fact-checkers — and it **rubs against his
+  documented insistence on citation, dating and never fabricating.** Both are his. He appears to be
+  drawing a line between *stage storytelling* and *claims of fact*, **but he does not state that
+  boundary, and the page does not supply it for him.** Same for **the teenager rule** (*"it's the most
+  of the most"*; the best-taco-of-your-life; *"I felt like a forklift had lifted me up… **Is that
+  real? No. But it's a much better story**"*).
+
+- **2025-06-29 — "I Grew 5 Million Followers DOING THIS ONE THING"** (★★★). Eight minutes, unusually
+  high signal. ★★★★ **Lead with generosity**, grounded rather than asserted: *"**your guard's up all
+  the time** — you're trying to steal my time, my attention, my money, my status… the thing that is
+  really disarming is to lead with generosity. **Not because it's a scheme. It's not a Trojan horse —
+  but because it's generally how you operate. It's part of your operating system.**"* With **a
+  complete worked script** for approaching a stranger at a conference in which — the detail worth
+  keeping — **his name lands last**, after the offer of help: *"who would you like to meet?… **well,
+  let's go find them together. By the way, my name is Chris.**"*
+
+  ★★★★ Two of the strongest self-concept statements in the corpus: *"**my real identity is a teacher.
+  Underneath a graphic designer is a teacher, and I'm here to teach. I'm not really thinking about the
+  business** — the irony is **the more that I don't think about the business, the more business
+  opportunities appear**"*; and *"**I've stopped caring about what people think. I care about people,
+  but I don't care about people's opinions of me.**"* Plus **inner peace as the real meaning of
+  *attractive*** (*"I assume the Dalai Lama is very attractive because **there's just inner peace
+  emanating from their pores.** That's my theory"*), **the thirds**, the paradox principle, and the
+  close: *"**if you want to be an impressive person, stop trying to impress people. No one who's
+  impressive is ever really trying to impress you.**"*
+
+  ✅ **Second attestation of the neglected-child mechanism** — *"no matter how much love you got, it
+  was never enough"* — first recorded 2025-05-22 powering **the underdog story**, here powering
+  **generosity**. One mechanism, two applications. ✅ And **another compliment refused**: told he
+  arrives with truth rather than performance, he answers *"**and we all are, to a degree.**"* — the
+  same reflex as the Molly refusal.
+
+- **2025-07-08 — "How @thejasminalic GREW to 300K Followers"** (⚠️ low harvest, recorded honestly).
+  **Guest-dominated and almost entirely tactical**; Alić's LinkedIn writing system is his and is
+  fenced. Chris's material amounts to a framing (*"what are the **common mistakes**? Let's correct for
+  those"*), one good probe (*"**why three? Why not two? Why not one?**"*), and one segment he drives
+  from his own observation: *"**people don't ask really good questions** — give us bad, medium and
+  great."* ✅ **It does confirm that a FIRST Alić episode exists** (*"watch the first video with
+  Chris"*) — which closes the identification half of that carried-debt note and leaves the location
+  half open.
+
+**Synthesis notes:** (1) ★★★ **The storytelling method should be promoted as a procedure**, not a set
+of maxims: explosion first → establishing shot → sensory detail → dialogue → stakes → the me-too beat.
+It is the missing *how* under the underdog/crying material from 2025-05-22. (2) ⚠️⚠️ **Selective
+editing must be promoted WITH its tension flagged and NOT reconciled.** *"Don't let facts get in the
+way of a good story"* is genuinely his, is told against himself, and sits against his own fidelity
+rules; a guard should say so plainly rather than inventing a stage-vs-fact boundary he never states.
+(3) ★★★★ *"**Underneath a graphic designer is a teacher**"* belongs in `persona/biography` **and** at
+the top of any identity section — it is the cleanest statement of self-concept in the corpus, and its
+irony clause (*"the more I don't think about the business…"*) travels with it. (4) ★★★★ *"I care about
+people, but I don't care about people's opinions of me"* → `persona/voice` and `topics/mindset`.
+(5) ★★★ **The conference script** is a concrete, teachable sequence for `topics/sales-clients`, and
+**the name-last detail is the whole point** — do not summarise it away. (6) ✅ **Merge, don't
+multiply**: the neglected child is one mechanism with two applications (underdog story; generosity),
+and *needy is repulsive* now has its positive inverse attached (*"how can I serve you?"*). (7) ★★
+**Inner peace as the attractor** and the Dalai Lama theory → `topics/mindset`; note he offers it
+explicitly as *"my theory"*. (8) Carried debt updated: **a first Jasmin Alić episode is confirmed to
+exist and is still unlocated.**

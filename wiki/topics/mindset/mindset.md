@@ -3781,6 +3781,171 @@ coach told me to.** I had all these stories, and **I couldn't find the source of
 myself those stories.**"*
 ([[../../sources/2025-02-23-yt-hC2_b-y6zuc]])
 
+## 83. ★★★ Feedback is detailed instructions on how to succeed (2025-03-23)
+
+**The definition the corpus was missing.** *"**Feedback is a response to something I've put out and you're
+opining about it — that's just an opinion.** ★★★ **But feedback, or criticism, especially if it's well
+articulated, [is] DETAILED INSTRUCTIONS ON HOW TO SUCCEED.**"*
+
+★★★ **The reframe, stated flatly**: *"**the reason why I am where I am is because I love criticism. I
+actually don't like praise so much**… *you're amazing, your work is supreme* — ★★★ **where do you go from
+that? How do you grow?**"* **The mechanism**: *"**it's like a really weird drug** — the first high is
+amazing, the second is not as good, the third is less and less — **and now you're addicted and you need it
+so bad.**"* From his coaching: *"I'll go through critical feedback and they're like ***now tell me what I did
+good*** — ★★★ **I don't think you heard the 17 things I said on how to improve. Why would you ask for a
+compliment right now? Does it help you?**"*
+
+★★★ **Worked on himself.** He separates noise (*"don't trust anybody who wears a baseball cap — **sure. I
+don't know what to do with that. That's not instructions on how to succeed**"*) from usable criticism:
+*"**I don't really like your tone, Chris. You're a pompous a-hole** — is that criticism? ★★★ **See, I LOVE
+that** — because **my intention wasn't to show up as a pompous a-hole.** I need to **check in with myself on
+my tone.** **I need to be a little softer from time to time. I don't want to be that person.**"*
+
+> ★★★ **THE REPLY TEMPLATE, portable**: *"even if it's the meanest feedback, ★★★ **I just type in: *thank you
+> for the feedback.* I'm not saying it's good, I'm not saying it's bad — but **thank you for giving me a
+> point of information. I will do with it what I need.**"*
+
+★★★ **And the 99-to-1 problem — the link between the storytelling material and the self-concept material.**
+One hostile comment among ninety-nine kind ones sticks *"★★★ **because that's the one connection you didn't
+make** — and that was what you were trying to do."* It destabilises you only because *"**we're so unsure of
+ourselves, we don't know who we are**"* → ★★★ *"**And that's why we tell our story — so we know: no, that is
+NOT consistent with who I know I am.**"* ★★ With the boundary: *"somebody will say **Chris, this is not in
+alignment with your mission** — **bro, I wrote my mission. I know what my mission is. Who are you to tell me
+that?**"*
+([[../../sources/2025-03-23-yt-MqWUPpjMj3o]])
+
+## 84. ★★★ Jim Rohn's winter season — the counterweight to the hustle material (2025-03-31)
+
+Coaching someone whose second year went badly, he reframes the whole question of timing rather than
+prescribing more effort. Credited to **Jim Rohn** (*Seven Strategies for Wealth and Happiness*):
+
+> ★★★ *"There are four seasons, but the one we're in is **the winter season.** When we lived a simpler life,
+> **winter was a harsh time — we worked all year to store food and prepare for it.** So **winter is a time
+> for family, for reflection, for rest, and to think.** And then spring comes and we do it again. ★★★ **It
+> could be that you're just in the winter of your life. You're in this season.** **But what many of you are
+> doing is driving yourself crazy thinking it's spring** — time to plant and harvest. ★★★ **This is a time
+> to rest, to reflect, to recover, and to spend this free time being grateful.**"*
+
+★★ **The reframe he coaches live beforehand**: *"finish this phrase for me — **how might being down 30% in
+revenue be a BENEFIT to you?**"* → *"reassess your clientele… reassess your overall strategy"* → *"**can you
+hear that? It's a moment for reflection.**"*
+
+> ✅ **This is the corpus's clearest counterweight to the bias-toward-action and grind material. Promote it
+> as such** — it is the same person, in the same session, who says *"entrepreneurship is an ugly, long
+> battle."*
+([[../../sources/2025-03-31-yt-aQYbXVZb88k]])
+
+## 85. ★★★ Opportunities are distractions; boredom is a diagnostic (2025-03-31)
+
+★★★ **The inversion**: *"**the obstacle is the opportunity.** Why are opportunities obstacles? Because —
+*would you like to work on NFTs?* ★★★ **Those are called opportunities. In my world they're called
+DISTRACTIONS.** They take you away from your primary goal. **If opportunities are a distraction — especially
+for entrepreneurs, who are mostly ADHD — then the obstacle is forcing you to say: do I want to do this?**"*
+
+★★★ **Boredom as a diagnostic**: *"**I always know this about myself: the times in which I'm the most bored
+out of my mind are the times in which I have the best ideas.** It's also a time when I'm like — **these four
+people who work for me are amazing. These two, not so much.**"*
+
+> ⚠️★★★ **The disclosure it produces**: *"**I always warn my team: when I go on vacation, somebody will be
+> fired. Almost always.**"* The mechanism is **habit, not performance**: *"we don't love them, but **we're
+> familiar with them, and it's a habit**… *if I fire this person I've got to find someone to replace them —
+> what a pain* — **so you stick with them for a really long time.** ★★★ **What happens on vacation is I'm
+> thinking about it much more objectively: I could replace you right now — and I'd rather deal with the pain
+> of replacing you than stay with you.**"* ★★ **The other half is part of it**: *"**and these other four who
+> do an amazing job — I need to take better care of them.**"*
+> ⚠️⚠️ **He extends it, unprompted, to romantic relationships** — *"you need to get apart. You really do."*
+> **Recorded as said; not smoothed over and not dropped.**
+([[../../sources/2025-03-31-yt-aQYbXVZb88k]])
+
+## 86. ★★★ Empathy, the crying theory, and demonstrate-don't-label (2025-04-01, 2025-04-02)
+
+★★★ **Empathy defined against the common error**: *"often people mistake empathy as: **when somebody's going
+through an emotional moment, you make it about YOUR emotional moment**… **A lot of people do this. They
+think that's the expression of empathy.**"* → ★★★ *"**True empathy is to understand what that other person
+needs in that moment in time** — and **sometimes they need you to be stoic**, or **they might need a shoulder
+to cry on, and not for you to go and have your own triggered moment.**"*
+
+> ★★★ **THE CRYING THEORY — a personal admission with a worked-out position behind it**: *"**my wife is a
+> very emotional person** — she'll start to cry, **and I'm sitting here listening to her and I don't cry**…
+> ★★★ **and I think she would probably feel better if I just started crying. But I have this whole
+> theory:** if you cry and then I cry, ★★★ **the person who needs some understanding, some empathy, is being
+> ROBBED of it — because now I made it about me.** ★★ **And I have problems with this.**"* ★★ With the
+> hedge: *"maybe [she has] higher mirror neurons than I have — I don't know. ★★★ **I have to control myself:
+> don't make it about you right now.**"*
+
+★★★ **Demonstrate it, don't label it**: *"**I very rarely find that people who are empathetic need to tell
+you that they're empathetic** — [it's] just like *I'm a really honest, trustworthy person*. ★★★ **The fact
+that you say it makes me question it**, and **announcing it ahead of time makes me really suspicious.**
+★★★ **Demonstrate it. You don't need to label it.**"* ★★ Honest rate: *"**nine out of ten times**… maybe one
+out of ten, I'm surprised."*
+
+★★★ **And the deflation of the party trick** — the room that goes quiet: *"**I don't think you're an empath
+when you see that something's halted. Like when a train comes to a stop at a station, we don't say *I'm an
+empath* — we just notice a change.**"* Then: *"the change is **their body language has suddenly changed** —
+**and we ASSUME, based on experience and history**… ★★★ **But that's not being an empath. It's just noticing
+things.**"*
+✅ **Consistent with *the body cannot lie* — the same observational skill, stripped of mystique.**
+([[../../sources/2025-04-01-yt-hJ35jP1tKDI]]; [[../../sources/2025-04-02-yt-2FI0Dk44-vo]])
+
+## 87. ✅✅ Non-violent communication — the complete thread, four sources (2025-03-25 → 2025-04-01)
+
+**An instruction from [[../../entities/kier-mclaren]] that arrives in three parts, with the fourth source
+defining the key word. Promote as ONE entry.**
+
+1. **2025-03-25** — *"**say what you think.** We're stressed thinking about how the client will respond, or
+   how our employees will feel… **the best way to release the stress is just to say what you think.**"*
+   ⚠️ With the half he flags as unfinished: *"the second part is **to learn how to say it in an objective,
+   non-violent way — but that's a story for another day.**"*
+2. **2025-03-29** — *"★★★ **we need to use less violent language when we're describing how we feel about
+   things** — and we do it all the time. **We're judging ourselves, we're judging others, all the time.**"*
+   Applied live to a man who listed three faults in one breath: ★★★ *"**John, please don't talk to yourself
+   like that. It hurts me hearing that — I feel ill for you saying that. Why would you put a box around
+   yourself?**"* → *"if somebody told you *you can't be successful in this industry* you'd say **screw you**
+   — **but then you go around and say *I can't write content, I'm not funny*.** ★★★ **Well guess what — that
+   will become your reality. Your words shape your world.**"*
+3. **2025-04-01 — THE DEFINITION**: ★★★ *"I don't mean *I hate you, I want to kill you* — **but violent in
+   that we're PREJUDGING, we're PRE-DIAGNOSING, and we're making a lot of assumptions.**"* → *"**strip out
+   all the opinions and talk about things for the way they are, not the way that you might see them**"* —
+   ★★★ **with the test**: *"**do this especially when you're under pressure. That's when it's most difficult
+   to do.**"*
+
+★★ **And the delivery half**: *"**speak clearly, enunciate, speak in a calm, slow and deliberate way** so
+that **people lean in instead of roll their eyes**"* — *"**it's not just what you say, it's how you say it.
+The tone, the intentionality, actually carry more meaning than the words themselves.**"*
+([[../../sources/2025-03-25-yt-lXTf0ypur0Q]]; [[../../sources/2025-03-29-yt-ozgIEp5d2ks]];
+[[../../sources/2025-04-01-yt-hJ35jP1tKDI]])
+
+## 88. ★★★ Who told you you can't do that? — and the self-sabotage confession (2025-03-29, 2025-04-01)
+
+★★★ **The classroom story.** *"I used to teach a design class and my students would fall into the same trap.
+I'd show them: **but you could do this** — and their minds would be blown. And they'd say: ***but I thought
+we could not do that.*** ★★★ **I said: WHO TOLD YOU you can't do that?** **And they would pause and look
+around** — *who's the they?* — ★★★ **and they could never name any specific person, or even a group.**"*
+→ ★★★ *"**We inherit these rules that we think define reality.**"*
+
+> ★★★ **THE SELF-SABOTAGE CONFESSION — specific, and about himself.** *"I tell you this **not from a high and
+> mighty place. I've gone through this battle — I still go through this battle on the daily.** My team's
+> like *Chris, you need to record this video* — and I'm like **oh my God, I have to record this video. Okay,
+> what am I going to do? ★★★ I think I need to clean the studio first.** ***Yeah, honey, do you need help
+> with the laundry? What can I do?*** It's like: **I don't want to do this.** And 7, 8 o'clock rolls around
+> — **it's too dark now. I have studio lights. That's a lie. I know it's a lie.** And then tomorrow — **I
+> haven't exercised in a while, I need to go exercise.** ★★★ **Now I'm doing everything I can to delay
+> this.**"*
+>
+> ★★★ **The line he closes it with**: *"**the devil doesn't need a friend — don't be the best friend of the
+> devil. Stop telling yourself these things.**"*
+
+★★ **The mechanism he describes just before it**: *"you self-sabotage — *this is stupid, my face is stupid,
+I hate my voice* — and **when you go to the camera your jaw's all locked up**… ★★★ **people can feel it right
+through that lens. What you're saying to them is: I'm not comfortable, please do not watch this.** So they
+don't watch it. **And then you go: see, I told you this doesn't work.**"*
+
+★★★ **And the answer, via Seth Godin**: *"**it's probably not realistic to not be afraid — but what we have
+to do as creative people is learn to DANCE WITH FEAR.**"* His gloss: *"**maybe being afraid makes me rehearse
+a little more**… ★★★ **fear can be a good teacher. We can't get rid of fear, but we can dance with it.**"*
+★ *"**I hate dancing, but it sounds fun.**"*
+([[../../sources/2025-03-29-yt-ozgIEp5d2ks]]; [[../../sources/2025-04-01-yt-hJ35jP1tKDI]])
+
 ## Cross-cutting patterns
 
 - **Language is the lever.** War Jitsu (§3), "share" not "teach" (§7), defining words like

@@ -6,32 +6,54 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **P2 long-tail through ingest batch 163 (L2=914) — all L2 source pages 2014 → 2025-04-02 (@thefutur; into the April-2025 era).** Synthesis pass **17** ran 2026-07-27 → system-prompt **v19**. ⚠️ **Pass 17 was PERSONA-ONLY by design** (beliefs, voice, biography, system-prompt). **Topic hubs and entity pages for this era are still outstanding — pass 17b.**
+Synthesized through: **P2 long-tail through ingest batch 163 (L2=914) — all L2 source pages 2014 → 2025-04-02 (@thefutur; into the April-2025 era).** Synthesis passes **17 + 17b** ran 2026-07-27 → system-prompt **v19**. ✅ **Pass 17b closed the gap pass 17 declared: all 6 active topic hubs updated, 2 entities created and 3 deepened.** No synthesis work is outstanding.
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
 
-- [ ] **pass 17b — topic hubs + entities for the March-2025 era (batches 153–163).** Pass 17 scoped itself to
-  `persona/` and declared this remainder up front. **Outstanding hubs:** `business` (sell money, the two B's,
-  the subscription pivot / pain relief / arbitrage, entrepreneurship as a disease, the black sheep + trade-
-  roles-never-merge, intentional incompetence, the tyranny of the how, franchisee, year 30 / two eight-figure
-  businesses); `sales-clients` (the "You know how…" formula, the metric-articulation condition + the Four
-  Agreements honesty clause, the client is more afraid of you, sometimes the client is right, the body cannot
-  lie, the two failure modes of questions, the Kier pitch story WITH numbers); `pricing` (pricing as empathy
-  ⚠️ **with the self-argued counter**, say-the-price-first-when-you-know, retainer vs subscription + the Ron
-  Baker credit, divide-by-ten); `branding` (you to the power of you, the infinite brand + the authenticity
-  gap, corporate vs personal / voice of many vs voice of one, turn your weakness into the asset, the three
-  stories); `content-strategy` (Pixar rule #1, the nuclear arms race on fakery, stop making ads, write first,
-  50 posts, creativity is one small tweak + Apple, cultural currency, tension architecture); `mindset`
-  (feedback = detailed instructions + the reply template + the 99-to-1 problem, Jim Rohn's winter season,
-  opportunities are distractions, empathy defined against the error + the crying theory, demonstrate-don't-
-  label + the train deflation, who told you you can't do that, the non-violent thread as ONE entry);
-  `design-craft` (the portfolio as a system was done in 16b — check for anything new). **Entity pages:**
-  create **Maria Ross** and **Andrea Sampson**; deepen **kier-mclaren** (done in-batch: $250K, seek progress
-  over perfection, the non-violent half, the pitch numbers), **the-futur** (2.6M followers), **blind**
-  ($2.1M/yr, 20%→75%+ win rate, year 30).
+_(none — passes 17 and 17b both done; **synthesis is fully caught up through batch 163 / L2 914.** Next checkpoint: after ~10 more ingest batches or an era boundary.)_
 
 ## Done checkpoints
+
+- [x] **2026-07-27 · pass 17b · (no version bump — v19 stands)** — **closed the gap pass 17 declared up front.**
+  **TOPIC HUBS:** `business` **§65–69** (**sell money + the two B's** with the metric-articulation condition
+  and the *I'm not your person* honesty clause; **the subscription pivot** — infinite appetite → **pain
+  relief, not production** → **arbitrage**; **entrepreneurship as a disease**, ⚠️ **both halves**; **the
+  black sheep and the five family roles** with the island parable **and the chief-as-historian defence**;
+  a cluster of **small rules with teeth** incl. intentional incompetence, the tyranny of the how, the
+  franchisee exception ⚠️ **with his self-exclusion**, and *now you're just dumb and busy*);
+  `sales-clients` **§89–93** (**the "You know how…" formula** with the **negative-version** step and *it's a
+  conversation, not a monologue*; ★★★ **the pitch intervention WITH NUMBERS** — $2.1M/yr, **20% → 75%+**,
+  doubled in under a year, and *"at least we were considered"*; **the client is more afraid of you** →
+  *give them permission to sound stupid*; **sometimes the client is right**; **the body cannot lie** + the
+  hesitation script + **the two failure modes of questions**; **empathy defined against the error**, ✅✅
+  **carrying the guest's outside verdict on his blunt manner**);
+  `pricing` **§59–62** (★★★ **pricing as empathy** — the **moral** argument, with the price-gouging boundary
+  conceded and ⚠️ **the counter he argues himself**; **say the price first when you know, last when you
+  don't** as a CONDITION on anchoring; **the divide-by-ten arithmetic** with **two months off designed in**;
+  ⚠️ **retainer vs subscription with the Ron Baker credit** and the truncation flagged);
+  `branding` **F58–F61** (★★★ **you to the power of you** + **the infinite brand** + ★★★ **the authenticity
+  gap as a MEASURE**, ⚠️ with his own limit attached; **the voice of many vs the voice of one**; **the three
+  stories** with the Spider-Man mapping and *specific details communicate much faster*; **turn your weakness
+  into the asset** with the substitution proof and *no one is happy being themselves*);
+  `content-strategy` **§56–59** (**Pixar rule #1** and the Woody argument + **the nuclear arms race on
+  fakery**; **stop making ads / write first / 50 posts** + ✅ ZMOT third attestation; **creativity is one
+  small tweak** with Apple's *no pain, all gain*; **cultural currency in full** + **tension architecture**);
+  `mindset` **§83–88** (**feedback = detailed instructions on how to succeed** + **the reply template** +
+  **the 99-to-1 problem** and its link to the self-concept material; ★★★ **Jim Rohn's winter season**, filed
+  explicitly as **the counterweight to the hustle material**; **opportunities are distractions** and
+  ⚠️ **the vacation disclosure** incl. the romantic-relationship extension; **the crying theory** and
+  **demonstrate-don't-label** + the train deflation; ✅✅ **the non-violent thread as ONE entry across four
+  sources**; **who told you you can't do that?** + **the self-sabotage confession** + *dance with fear*).
+  ⚠️ **`design-craft` needed nothing new this era** — the portfolio material was completed in 16b; **checked
+  and deliberately left alone rather than padded.**
+  **ENTITIES:** created **`maria-ross.md`** (fenced; ⚠️ her aneurysm account by category only; ✅ recorded as
+  **the source of the only OUTSIDE verdict on his blunt manner**) and **`andrea-sampson.md`** (fenced;
+  ⚠️ **her clients' personal tragedies by category only, never retold**). Deepened **`the-futur.md`**
+  (2.6M followers, the 51%-unsubscribed datum, the succession theory ⚠️ with its criticism framing),
+  **`blind.md`** (the **$2.1M/yr → 20%-to-75%+ → doubled-in-a-year** turnaround, and *year 30*), and
+  **`kier-mclaren.md`** (done in-batch: the **$250,000** figure, *seek progress over perfection*, the
+  non-violent half, and the pitch numbers).
 
 - [x] **2026-07-27 · pass 17 · → system-prompt v19** — **P2 March-2025 era (batches 153–163, L2 898 → 914).
   PERSONA-ONLY BY DESIGN; hubs and entities deferred to 17b and declared up front.**

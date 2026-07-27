@@ -266,3 +266,23 @@ corpus. `[self-reported]`._
   ([[../sources/2025-02-18-yt-uOWi13jSAPA]])
 
 ([[../sources/2025-02-23-yt-hC2_b-y6zuc]])
+
+
+---
+
+## The pitch-win-rate turnaround (added 2026-07-27, pass 17b)
+
+_All `[self-reported]`, from [[../sources/2025-03-13-yt-sLe5iNSyejk]]._
+
+- ★★ **Revenue at the time his business coach intervened**: *"at this point **I'm doing $2.1 million in
+  revenue every year**"* — and he thought the agency's pitching was already good (*"**I thought it was
+  great**"*).
+- ★★★ **The turnaround**: *"**we went from winning 20% of the new business pitches to 75% plus**"*, which
+  *"**allowed me to double my revenue in one year — actually less than a year.**"*
+- ★★★ **And it scaled past him**: *"**I taught my team how to ask questions, and they were winning so much I
+  didn't go on the pitches anymore.**"*
+- ★★ **What it replaced** — the self-talk of losing four out of five: *"**at least we were considered. Look
+  at all these amazing companies I admire — we're pitching against them.** ★★★ **That self-talk can only
+  last so long before you want to take desperate measures.**"*
+- ★★ **A dated marker (2025-03-31)**: *"**I'm going to year 30 right now.** And we've had ups and downs."*
+  ([[../sources/2025-03-31-yt-aQYbXVZb88k]])

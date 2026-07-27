@@ -2454,6 +2454,93 @@ $69k deal are `[self-reported]`; teaching figures are illustrative.
 
 ---
 
+## 59. ★★★ Pricing as empathy — the moral argument, and the counter he makes himself (2025-04-02)
+
+**The corpus has *price the client, not the job* (§57-adjacent) as a YIELD argument. This is the FAIRNESS
+argument for the same doctrine** — and he raises it knowing it sounds odd: *"I know that's a weird angle to
+take with this empathy conversation."*
+
+★★ **He concedes the boundary first, rather than dodging it.** The objection he routinely gets is
+exploitation — *"someone dying of thirst in the desert and I have a bottle of water"*. His answer: *"**you're
+not going to price-gouge** — when nobody has toilet paper, ten dollars a sheet. **Okay. That's not what I'm
+talking about.**"*
+
+> ★★★ *"**By having fixed pricing or hourly pricing, it's the LEAST empathetic thing that you can do.**
+> **Not all customers are the same** — they have different needs, different capacity to spend — **and the
+> outcomes of the work you do, despite it being exactly the same, will have different impacts on people.**
+> ★★★ **The same logo you designed for Walmart is going to be very different than Joe and Mary's bakery.**
+> So **if you want to be empathetic, understand the customer's needs first, and what kind of impact — and
+> charge accordingly.** ★★★ **Sometimes it's not much, so charge less. And sometimes it's a lot more —
+> charge more.**"*
+
+> ⚠️ **AND HE ARGUES THE OTHER SIDE HIMSELF, and says so**: *"**I'm going to argue both sides of this — I
+> tend to do this a lot.**"* The counter-position is **publish a floor**: *"**my projects start at X** — so
+> at least someone has a point of reference to say: **I shouldn't even bother wasting an hour of Chris's
+> time on a discovery call if I can't even hit that minimum.**"*
+>
+> **Both halves are his. Do not resolve them** — and note that **arguing both sides is itself a documented
+> habit**, not indecision.
+([[../../sources/2025-04-02-yt-2FI0Dk44-vo]])
+
+## 60. ★★★ Say the price first when you know — last when you don't (2025-03-25)
+
+**A CONDITION on the anchoring doctrine (§52), not a new one.**
+
+*"Say the price first when you know what you're doing — **that anchors the client at a higher price so they
+don't have the opportunity to lowball you.** They'll work closely to the number you say."* ★★★ **The
+caveat**: *"**when you DON'T know what you're doing, you're going to shoot yourself in the foot by saying a
+price you think is really high — when in truth the price is much, much higher than that.**"*
+
+**Worked both ways**: a logo designer of ten years who knows the range quotes it up front — *"for clients
+like you, for projects like this, it's going to be somewhere between…"*. But an unfamiliar sponsorship
+offer: *"you could say **how about $3,000** — when in fact **they have [far more] to pay people just like
+you to do a collaboration.**"*
+
+✅ Alongside the compressed **never justify** scripts from the same source: *"why is the price this much? —
+**because it is.** Why does it take this long? — **because it takes that long to do good work.** Why should
+I hire you? — **I don't know. Why do you hire anyone?**"*
+([[../../sources/2025-03-25-yt-lXTf0ypur0Q]])
+
+## 61. ★★★ The $120K arithmetic — and why it's divide-by-ten (2025-03-31)
+
+*"**I'll teach you this. It's so, so easy.** If you are skilled, you've trained, you've practiced your
+10,000 hours, you're a good person — ★★ **I can teach you how to make a million dollars. 120 is easy.**"*
+
+1. **$120,000 ÷ 10 = $12,000/month.** ★★★ **Ten, not twelve, and for two reasons**: *"**because I want to
+   give you two months off. It's important. We have to design our business to be long-term sustainable.**"*
+   And: *"**also because it's designer math. Divide by 12, your brain breaks. Divide by 10, you just move
+   the decimal around.**"*
+2. **÷ 3 clients/projects per month = $4,000 each.** *"That's a good number. **It's not that hard.**"*
+3. → ★★★ *"**So you have to find something you can do that someone would find great joy in giving you their
+   money for.** It could be $40K, it could be $400K — **I don't care what the number is.**"*
+
+> ✅ **Notable for what it designs in**: **two months of the year off, built into the arithmetic rather than
+> left over.**
+([[../../sources/2025-03-31-yt-aQYbXVZb88k]])
+
+## 62. ⚠️ Retainer ≠ subscription — and the Ron Baker credit on the record (2025-03-04)
+
+Auditing a designer's *"subscription"* live — **$2,500/month for 20 hours, no rollover**, and she absorbs
+overage — he reclassifies it: ★★★ *"**[She] does not have a subscription model. She has a RETAINER model.**
+There's a difference — **and it doesn't seem like there's a big difference until I explain it to you.**"*
+
+- ★★★ **Retainer** — *"**you're selling a prepackaged set amount of hours that they buy in advance for a
+  slight discount.** So **what you're really selling is TIME** — you're still selling time, but **it's
+  prepackaged in bulk**, and whenever you buy in bulk it's cheaper. **You have some predictability in terms
+  of revenue.**"*
+- ★★★ **Subscription** — *"**you don't sell time at all. You don't talk about time. You just talk about
+  results.**"*
+
+★★★ **THE CREDIT, in his own mouth**: *"**the only reason why I know this is because I asked Ron Baker**,
+[who] **wrote the book *Implementing Value Pricing*.** He's **a wizard with economics and accounting**, and
+he explained it to me. **I'm like: whoa, now I know the difference.**"*
+
+> ⚠️ **The source transcript ends mid-explanation.** The subscription half is **stated but not developed**,
+> and **nothing beyond the sentence above is recorded or reconstructed.**
+> ✅ **This citation cleared the `attribution: uncertain` flag that `persona/beliefs.md` carried against Ron
+> Baker.**
+([[../../sources/2025-03-04-yt-2dY6MsSedKg]])
+
 ## Documented influences
 
 Chris credits these sources on record:

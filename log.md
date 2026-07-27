@@ -7701,3 +7701,75 @@ frame"* → **zero hits** across `persona/` and `wiki/topics/`. The three docume
 > **Andrea Sampson**), then back to Stage B.
 
 Synthesis notes: none — this was the synthesis pass.
+
+## [2026-07-27] lint | synthesis pass 17b — closing the gap (6 hubs, 2 entities created, 3 deepened)
+
+**Stage S.** Pass 17 scoped itself to `persona/` and **wrote this remainder into the state file as a
+pending checkpoint.** This closes it. **No version bump — v19 stands**, because nothing here touched the
+persona files.
+
+### Topic hubs
+
+- **`business` §65–69** — **sell money + the two B's**, with the metric-articulation condition and the
+  *"I'm not your person"* honesty clause that bounds it; **the subscription pivot** (infinite appetite →
+  **pain relief, not production** → **arbitrage**); **entrepreneurship as a disease**, ⚠️ **both halves
+  kept together**; **the black sheep and the five family roles**, including **the chief-as-historian
+  defence** that is the non-obvious part; and a cluster of **small rules with teeth** — intentional
+  incompetence, the tyranny of the how, the franchisee exception ⚠️ **with his own self-exclusion**, and
+  *"now you're just dumb and busy."*
+- **`sales-clients` §89–93** — **the "You know how…" formula** with the **negative-version** step and
+  *"it's a conversation, not a monologue"*; ★★★ **the pitch intervention with numbers at last** ($2.1M/yr,
+  **20% → 75%+**, doubled in under a year), filed as **the corpus's best single piece of evidence for
+  ask-don't-pitch**; **the client is more afraid of you** → *give them permission to sound stupid*;
+  **sometimes the client is right**; **the body cannot lie** with its hesitation script and **the two
+  failure modes of questions**; and **empathy defined against the error**, ✅✅ carrying **the guest's
+  outside verdict** on his blunt manner.
+- **`pricing` §59–62** — ★★★ **pricing as empathy**, the **moral** argument for *price the client, not the
+  job*, with the price-gouging boundary conceded **and ⚠️ the counter-position he argues himself**;
+  **say the price first when you know, last when you don't**, filed as a **condition on anchoring rather
+  than a new rule**; **the divide-by-ten arithmetic** with **two months off designed in, not left over**;
+  and ⚠️ **retainer vs subscription with the Ron Baker credit**, the source truncation flagged.
+- **`branding` F58–F61** — ★★★ **you to the power of you**, **the infinite brand**, and ★★★ **the
+  authenticity gap as a MEASURE** (⚠️ with his own limit attached); **the voice of many vs the voice of
+  one**; **the three stories** with the Spider-Man mapping and *"specific details communicate much
+  faster"*; and **turn your weakness into the asset**, with the substitution proof and *"no one is happy
+  being themselves."*
+- **`content-strategy` §56–59** — **Pixar rule #1** and the Woody argument, plus **the nuclear arms race on
+  fakery**; **stop making ads / write first / 50 posts** (✅ ZMOT third attestation); **creativity is one
+  small tweak** with Apple's *"no pain, all gain"*; and **cultural currency in full** alongside **tension
+  architecture**.
+- **`mindset` §83–88** — **feedback = detailed instructions on how to succeed**, with **the reply template**
+  and **the 99-to-1 problem** and its link back to the self-concept material; ★★★ **Jim Rohn's winter
+  season**, filed explicitly as **the counterweight to the hustle material** (same person, same session, as
+  *"entrepreneurship is an ugly, long battle"*); **opportunities are distractions** and ⚠️ **the vacation
+  disclosure**; **the crying theory** and **demonstrate-don't-label**; ✅✅ **the non-violent thread as ONE
+  entry across four sources**; and **who told you you can't do that?** with **the self-sabotage
+  confession**.
+
+> ⚠️ **`design-craft` needed nothing new this era.** The portfolio material was completed in 16b. **Checked
+> and deliberately left alone rather than padded** — a hub with nothing new is a real outcome, not a gap.
+
+### Entities
+
+- ✅ **Created `maria-ross.md`** — fenced, ⚠️ **her ruptured-aneurysm account recorded by category only and
+  never retold**, and ✅ recorded as **the source of the only OUTSIDE verdict on Chris's blunt manner.**
+- ✅ **Created `andrea-sampson.md`** — fenced, with a stronger warning than usual: ⚠️⚠️ **her clients'
+  personal tragedies** (a bereavement, childhood homelessness, witnessing violence under apartheid) are
+  **third parties' material related by her — by category only, never retold.**
+- **Deepened `the-futur.md`** (2.6M followers, the 51%-unsubscribed datum, the succession theory ⚠️ with its
+  criticism framing intact), **`blind.md`** (the **$2.1M/yr → 20%-to-75%+ → doubled-in-a-year** turnaround,
+  and *year 30*), and **`kier-mclaren.md`** (updated in-batch earlier: the **$250,000** figure, *seek
+  progress over perfection*, the non-violent half, and the pitch numbers).
+
+### ✅ verify-no-leak, re-run after the hub edits
+
+*"irresistible offer"*, *"prospect pathway"*, *"clarity call"*, *"logical next step"*, *"control the
+frame"* → **zero hits** across `persona/` and `wiki/topics/`. The three documented known-good exceptions
+(*pre-frame* ×2, *cost of inaction*) stand.
+
+**State:** L2 **914**; high-water mark **batch 163**; persona **v19**; **synthesis fully caught up, debt
+0/10.**
+
+> **Next iteration: back to Stage B (P2), `--n 3`.** 163 P2 rows open.
+
+Synthesis notes: none — this was the synthesis pass.

@@ -2842,6 +2842,108 @@ you're not involved in this story, I don't feel compelled to tell you this.**"* 
 it honest: *"**I like gossip as much as the next person — but you've got to be in it.**"*
 ([[../../sources/2025-02-23-yt-hC2_b-y6zuc]]; [[../../sources/2025-02-26-yt-HtkujhkfHOM]])
 
+## 56. ★★★ Pixar's rule #1 — post your struggles, not your wins (2025-03-23, 2025-03-29)
+
+✅ **Twice attested in six days — settled doctrine, and the sharpest available answer to *"what do I
+post?"***
+
+> ★★★ *"**Pixar — the most successful film studio of all time** — they know a thing or two about making
+> stories. ★★★ **Rule number one: we admire characters more for their struggles than for their success.**
+> **If you need to write that down** — we admire characters more for their struggles than for their
+> success."*
+
+★★★ **Worked through *Toy Story***: Woody is *"**selfish, jealous** — he was number one on Andy's playlist,
+then Buzz Lightyear comes in… **and so he tries to sabotage Buzz.** ★★★ **He's a flawed character, and we
+love him MORE because he reminds us of ourselves** — because **we have felt petty, we have felt jealous.**"*
+The inverse: *"if we're all *yes, everything's great, I know how to accept new friends* — **we're like: who's
+that? Why are you so perfect? …And we feel too distant.**"*
+
+★★★ **Then turned on the room's feeds**: *"when you post on social, **what trials and tribulations are you
+talking about? Vacation. Good stuff. Your Gucci bag. Your fancy watch. No struggles.** ★★★ **Why would I
+care about you? It looks like you're just flexing.**"*
+
+> ★★★ **The systemic version, and the best phrase in it**: *"we emulate those we think are successful — so
+> there's this **weird echo chamber of fakeness.** They put out something fake, and it's a ★★★ **nuclear
+> arms race on fakery**: *I'll put out something fake*, and somebody says *no, I can out-fake you*. **So we
+> spiral out of control — we buy clothes we can't afford, drive cars we shouldn't be driving, stretching
+> our budgets to the maximum — instead of doing the deep personal work.**"*
+
+★★ **The second charge**: *"**the other sin is that almost all of your content is advertising.** You're
+marketing, you're selling your services all the time — **it gets really boring.**"*
+([[../../sources/2025-03-23-yt-MqWUPpjMj3o]]; [[../../sources/2025-03-29-yt-ozgIEp5d2ks]])
+
+## 57. ★★★ Stop making ads; write first; and the 50-post honesty (2025-03-29)
+
+- ★★★ *"**I pay money NOT to see ads. Would I follow you? No.**"* → *"**stop making ads, learn how to be a
+  good storyteller, build audience, community, find your voice** — that's a valuable thing… **and then every
+  once in a while, cuz you've got to make some money, throw an ad in there.** ★★★ **But the ad doesn't have
+  to be a sneaky Trojan-horse thing — you can just say: hey, buy my course, join my mastermind.**"*
+  ✅ Consistent with the generosity-marketing material and the Trojan-horse rejection in §50.
+- ★★★ **Write first**: *"you don't want to just turn the camera on and start talking, **because you will
+  ramble, you won't have a point, it'll go all over the place** — and then it's a **self-fulfilling
+  prophecy**: *I'm not good at this.* **So you do need to write. ★★★ Writing is the beginning of
+  thinking.**"* Credited to **David C. Baker**: ★★★ *"**you gain clarity through articulation.**"*
+- ★★★ **The honest timeline, and the wish against his own audience's interest**: *"some of you will get it
+  right away — **but I almost wish for you that you DON'T get it right away, because you need to have the
+  discipline, and to put in the reps.**"* With **Kobe Bryant** on being called a ball hog (*"**when I show
+  up to practice and you show up five minutes before practice is over — I'm not going to give you the
+  ball**"*), and: ★★★ *"**it's not going to be good for about 50 posts.**"*
+- ✅ **ZMOT / 7-11-4, third attestation**: *"you've spent **seven hours with them across eleven touch points,
+  maybe four places**."* **Settled.**
+([[../../sources/2025-03-29-yt-ozgIEp5d2ks]])
+
+## 58. ★★★ Creativity is one small tweak (2025-03-29)
+
+★★★ **The definition**, credited to **Kirby Ferguson** (*Everything Is a Remix*): *"**creativity [is] just
+taking what we know and making one small tweak to it.** We love things, and **we love more of what we love**
+— so **we remix things.**"*
+
+★★★ **Apple's copy as the masterclass**: *"if you want a masterclass on how to write really good copy **that
+doesn't feel tricky and overworked**, just go to Apple's website… **they have the world's best advertising
+agency**, so **the bar is going to be really high.** ★★★ **It's just taking a very familiar phrase and
+changing it ever so slightly.** When they talk about the processing power of a computer **they don't talk
+about megahertz** — they say ★★★ ***no pain, all gain***. **You've heard *no pain no gain* — they took one
+word and replaced it.**"* → *"**that's what creativity is: take one little thing and tweak it.**"*
+
+★★ **Other worked examples**: **Waterworld** pitched as *"like Road Warrior, but on the water"* → *"green-lit
+— **one of the biggest Hollywood flops**"*; **Danger Mouse** combining two albums into **the Grey Album**;
+and ★★ **the Johnny Cupcakes logo** — a teenager in a rock band surrounded by *"skulls and chains"* thinks
+*"that's not the vibe"*, **so he replaces the skull with a cupcake**. ★★★ *"**It's not this act of genius**…
+**if you understand that, that's kind of genius.**"*
+
+★★★ **And the premise underneath it all**, credited to **Sir Ken Robinson**: *"**we don't grow into
+creativity — we grow out of creativity**"* → ★★★ *"**you don't need to LEARN to be creative — you just need
+to REMEMBER your creative soul, and let that part shine.**"*
+([[../../sources/2025-03-29-yt-ozgIEp5d2ks]])
+
+## 59. ★★★ Cultural currency, and tension architecture (2025-03-04, 2025-03-21)
+
+✅ **Cultural currency taught in full** (deepening Framework 11 in `branding`): *"why do people tell stories
+about where they're born? ★★★ **It's called cultural currency**… **where you're from is a shorthand for you
+to connect with people** — your language, your customs, the food that you eat."* Demonstrated live: *"who's
+here from New York? — **then they all go *we're from New York, we know each other already*.**"*
+
+★★★ **The line to keep**: *"**we all don't think our immigrant story or our origin story matters — until you
+tell it.**"* ★★★ **And why a company structurally cannot compete here**: *"**corporate brands can't do this.
+They were not really born — they were created.** They don't have that same cultural currency **because there
+is none.**"* (Nearest substitutes he names: *"Wozniak and Jobs in a garage in Palo Alto — **that's as close
+as they get**"*, plus Colonel Sanders and Dave Thomas.)
+
+★★★ **The instruction for people who say they have nothing to post**: *"**start there. Tell your origin
+story** — where you were born, how many brothers and sisters, only child, firstborn; **your parents' story —
+the first one to go to college.** ★★★ **Everybody who shares that idea or that emotion — even if they don't
+share your exact story — is going to feel like they're with you.**"*
+
+★★★ **Tension architecture** — his own contribution inside an otherwise guest-dominant clip: *"**some people
+are Michael Bay fans, some are Quentin Tarantino fans.** Michael Bay's style, coming from music videos, is
+**to keep it at a frenetic pace for as long as possible — ★★★ and then we become numb.** Whereas **Quentin
+will build and build, and you can't handle any more — he'll let you off the hook for a little bit** — and
+then build again… ★★★ **and I feel emotionally drained and satisfied, and I experienced all the highs and
+lows.**"*
+> ✅ **The guests describe *disproportionate* rise and fall; he names the failure mode on the other side —
+> sustained intensity produces numbness, not engagement.**
+([[../../sources/2025-03-04-yt-2dY6MsSedKg]]; [[../../sources/2025-03-21-yt-odAro9miDOE]])
+
 ## Sources
 
 - [[wiki/sources/2015-11-29-yt-z7Y9TKfgstE]] — "Is Your Design Resume Still Relevant?" —

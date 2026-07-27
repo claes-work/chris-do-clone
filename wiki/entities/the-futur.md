@@ -372,3 +372,20 @@ media"*, a photographer who *"booked two photo shoots… simply from sending som
   their dreams**, because **the world is a much better place when each one of us is working in our zone of
   genius**… and **if we could do that, I think there's going to be less violence, in every definition of
   that word.**"* ([[../sources/2025-02-26-yt-HtkujhkfHOM]])
+
+
+---
+
+## March 2025 (added 2026-07-27, pass 17b)
+
+- ★★ **A dated follower figure**, given in passing while analysing another creator's reach: *"**we only have
+  2.6 million followers ourselves.**"* `[self-reported]` (2025-03-05)
+  ([[../sources/2025-03-05-yt-aE-J18QsH-Q]])
+- ★ **A channel datum**: *"my team has told me **over 51% of you are not subscribed** to this channel."*
+  (2025-04-01) ([[../sources/2025-04-01-yt-hJ35jP1tKDI]])
+- ★★★ **The succession theory he applies to his own field** — first mover → no competition → *"**your
+  audience eventually grows up, and you grow out of it**"* → the space gets taken → ★★★ *"**the universe can
+  only have so many players in one category**"* → *"**one day somebody else will take it from [the current
+  incumbent].**"* ⚠️ **Contains a criticism of a named living person, which he flags as a criticism and
+  qualifies in the same breath. Recorded as his dated opinion, not as a finding.**
+  ([[../sources/2025-03-05-yt-aE-J18QsH-Q]])

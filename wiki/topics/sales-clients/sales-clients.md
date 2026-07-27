@@ -3837,6 +3837,137 @@ help them**"* — and the word he refuses: *"**I don't even want to use the word
 
 ([[../../sources/2025-02-20-yt-e2zox3-QL5Q]])
 
+## 89. ★★★ The elevator pitch — "You know how…" (2025-03-13)
+
+**The stakes**: *"**if I don't understand what you do, I don't know how to say you can help me — therefore I
+don't know how to give you money.**"* And the referral chain that follows: ★★★ *"**if I don't understand
+what you do, I cannot remember what you do — and then I can't tell other people what you do.**"*
+(✅ *"confusion and complexity are the enemy of understanding and retention"* — **verbatim again twelve days
+later; settled phrasing.**)
+
+★★ **The diagnosis first.** He polls job titles and takes each apart — *"what's the problem with **multimedia
+designer**?"* — *"**Everything. That's the problem.**"* The charge: *"we're asking the other person **to do a
+lot of thinking on our behalf** — **you guys love abstraction.**"*
+
+### The formula
+
+1. **Who do you help?** → then ★★★ **add an adjective**: not *"high school students"* but *"**creative**
+   high school students."*
+2. **What problem do they have that you solve?** → and crucially, ★★★ *"**what's the NEGATIVE version of
+   that?**"* (*"give them purpose"* → *"**feel lost and directionless**"*).
+3. **What result do you produce?**
+
+> ★★★ **"You know how [adjective] [avatar] [problem / how it feels]… I help them [result]."**
+> **Before**: *"I teach digital multimedia design."* **After**: ★★★ *"**You know how creative high school
+> students don't know what career direction to go, and feel lost and directionless? I help them find a
+> career in art and help them get into the university of their choice.**"* → *"Oh, how do you do that?"* →
+> *"**Well, I teach digital media design.**"*
+
+★★★ **The mechanic most teaching omits**: *"**you see, it's a conversation, not a monologue**… **you have to
+PAUSE.**"* ★★★ **The compression rule, stated twice**: *"**one avatar, one problem, one result**"* — *"**do
+not confuse people by using complicated language or adding a lot of commas.**"* ★★ **And on the biography**:
+*"*I was born on a cold winter night…* — **nobody cares. It's too late.** ★★★ **They WILL care as soon as you
+tell them what's in it for them.**"* ★★ Memory constraint: *"**we only listen to like six or seven
+pitches.**"*
+([[../../sources/2025-03-13-yt-sLe5iNSyejk]])
+
+## 90. ★★★ The pitch intervention — with numbers at last (2025-03-13)
+
+The corpus has carried this qualitatively for passes. **This telling supplies the figures.**
+
+- **His starting position**: *"he says *how do you pitch new business?*… He says **okay, that's not very
+  good.** I said **I thought it was great** — at this point **I'm doing $2.1 million in revenue every
+  year.**"* `[self-reported]`
+- **The question**: *"**when do you ask the client a question?**"* — to which his honest answer was
+  ★★★ *"**I thought I was supposed to just pitch.**"*
+- ★★★ **His resistance, which is the useful part**: *"he's like — **idiot, how do you know what somebody
+  wants without asking them?** … **And I said to him: Kier, I can't ask those kind of questions. That's
+  rude.**"*
+- ★★★ **THE RESULT**: *"two calls later I'm winning pitches left and right. ★★★ **We went from winning 20%
+  of the new business pitches to 75% plus**"* — which *"**allowed me to double my revenue in one year,
+  actually less than a year.**"* Then it scaled: *"**I taught my team how to ask questions, and they were
+  winning so much I didn't go on the pitches anymore.**"*
+- ★★★ **What it replaced** — the self-talk of losing four out of five: *"**at least we were considered. Look
+  at all these amazing companies I admire — we're pitching against them.** ★★★ **That self-talk can only
+  last so long before you want to take desperate measures.**"*
+
+**This is the corpus's single best piece of evidence for the ask-don't-pitch doctrine. Promote it wherever
+that doctrine appears.**
+([[../../sources/2025-03-13-yt-sLe5iNSyejk]]; [[../../entities/kier-mclaren]])
+
+## 91. ★★★ The client is more afraid of you — and sometimes they're right (2025-03-25)
+
+> ★★★ *"**The client is more afraid of you than you are of them.**"*
+
+**Why**: you are the specialist on a narrow thing; they run a broad business. *"When they get on the phone
+**they're not going to disclose information — not because they're trying to manipulate you, but because
+they're afraid of sounding stupid.**"* → ★★★ *"**What you need to do is give them permission to sound
+stupid**"*, and **speak the client's language, not industry jargon** — *"**the last thing you want is to
+impress them with your knowledge, because that's only going to make them feel dumber**"* and less
+forthcoming.
+
+★★★ **And the corrective to creative arrogance**: *"**the ego of the creative says we must always be right
+and all client suggestions are dumb. That's not the case at all.** The clients can see things you're not
+privy to. ★★★ **The clients will forget more about their business than you hope to learn about it** — and
+**it's arrogant for us to assume we know better than the client how to run a bakery, a print shop, a
+technical firm.**"*
+([[../../sources/2025-03-25-yt-lXTf0ypur0Q]])
+
+## 92. ★★★ The body cannot lie — and the two failure modes of questions (2025-04-01)
+
+★★★ **Reading the subtext**: *"**the body lives in reality, where the mind lives in fantasy.** ★★★ **The body
+cannot lie.** So somebody will **say yes — while shaking their head**… **the body is saying: I don't want to
+do this, something about this doesn't sit right** — but because they feel they need to be polite, they say
+yes."*
+
+> ★★★ **The script**: *"pause just for a minute and say — ***I sense just a little hesitation. Can we talk
+> about why you might not want to move forward?*** — **and then they'll tell you something super
+> valuable**, and you can address their concerns right then and there."*
+
+★★★ **Two failure modes of questions**, and the target between them:
+- **Leading / binary** — *"the answer seems to be yes or no, or **motivated by some agenda you have**:
+  *would you like pasta or pizza?* **Well, you're not giving me a lot of options — and maybe I don't want
+  any carbs.**"*
+- **Abstract** — *"**how are you feeling today?** — **well, I don't know how I'm feeling, and I don't know
+  where this is going.**"*
+- ★★★ *"**The magic is somewhere in the middle**… you're trying to ask a question that **gives them
+  direction**, versus just making it *anything is possible*."* His example: ★★★ *"**what's motivating our
+  conversation today?**"*
+
+★★★ **And the definition of love he attaches to listening** (credited to an unnamed doctor): *"**love is
+basically: understand me and appreciate me.** ★★★ **So if you can have half that equation — just to
+understand someone — they're going to feel the sense of being loved.**"*
+([[../../sources/2025-04-01-yt-hJ35jP1tKDI]])
+
+## 93. ★★★ Empathy, defined against the common error (2025-04-01, 2025-04-02)
+
+★★★ **The error**: *"often people mistake empathy as: **when somebody's going through an emotional moment,
+you make it about YOUR emotional moment** — you're reliving your pain, your trauma, **and you direct the
+attention away from the other person.** **A lot of people do this. They think that's the expression of
+empathy.**"*
+
+> ★★★ **The definition**: *"**true empathy is to understand what that other person needs in that moment in
+> time** — and **sometimes they need you to be stoic**, they need you to be resolute, **or they might need a
+> shoulder to cry on, and not for you to go and have your own triggered moment.**"* → *"**empathy turns
+> emotional intelligence into influence.**"*
+
+★★★ **The exchange that grounds it**, with a colleague who asked his secret for making clients feel he
+cares: ★★★ *"**Mo, you're not going to like this answer. It's because I actually really care.**"* And the
+practice: *"**I need to put my own needs — to make money, or to be liked, or to be popular, or to be right —
+aside**, and say: **what's this person going through right now?**"* ★★ On stage: *"I don't just fire back an
+answer — **I ask: what would be helpful for you right now? What are you going through?**"*
+
+★★★ **And the suspicion of the self-declared**: *"**I very rarely find that people who are empathetic need to
+tell you that they're empathetic**… **the fact that you say it makes me question it.** ★★★ **Demonstrate it.
+You don't need to label it.**"*
+
+> ✅✅ **An expert's outside verdict on his own manner.** Describing how he strips the framing off an
+> unreasonable request, the guest — **an author on empathy** — reclassifies it: ★★★ *"**that's actually
+> empathetic**, because you're **listening and trying to get to the root of what the person's context is**…
+> ★★★ **even when you respond in that sort of tough way — that's highly empathetic.**"*
+> **This is the third leg of the abrasive/warm reconciliation, and the only one from outside.**
+([[../../sources/2025-04-01-yt-hJ35jP1tKDI]]; [[../../sources/2025-04-02-yt-2FI0Dk44-vo]])
+
 ## Cross-links
 
 - [[wiki/topics/pricing/pricing]] — value-based pricing, the desired-future-state → value

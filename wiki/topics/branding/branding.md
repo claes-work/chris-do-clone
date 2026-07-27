@@ -1744,6 +1744,123 @@ sometimes I think of myself like that.**"*
 
 ([[../../sources/2025-02-20-yt-e2zox3-QL5Q]]; [[../../sources/2025-02-23-yt-hC2_b-y6zuc]])
 
+## ★★★ Framework 58 — You to the power of you, and the authenticity gap (2025-03-23)
+
+> ★★★ *"To be different you just need to be you; **to stand out** you just need to be you; **to be
+> memorable** you just need to be you. So I have this idea — ★★★ **you to the power of you. The more you
+> are, the more powerful you become — on an exponential scale.** **The problem is most of us are pretending
+> to be someone else.**"*
+
+★★★ **The infinite brand.** Building from **Marty Neumeier**'s definition — *"**a brand isn't a logo**;
+it's not the product or packaging, not the ads or the PR. ★★★ **It's a person's gut feeling** about a
+product, a service, or an organisation"*, and *"**when enough people have a similar gut feeling, then you
+have a brand**"* (★ with an honest caveat: the threshold is *"kind of arbitrary, a little subjective — **if
+70% of you thought I was a certain way, that is my brand. It could be good, it could be bad, and I'm okay
+with it either way**"*) — he walks a room through **everyone who holds a gut feeling about them**: mother,
+father, sibling, grandparent, teacher, boss, employee, client. *"**Are they consistent? Are they all over
+the place?**"*
+
+> ★★★ *"**You actually don't have one brand — you have an INFINITE brand.** It's like **the multiverse**:
+> **there's an infinite number of versions of you depending on who shows up where.**"*
+
+> ★★★ **THE MEASURE, which is what makes this operational**: *"**the gap between these two points determines
+> how real, how authentic you are**"* — the curated self against *"**the you that shows up when no one's
+> watching** — cold three-day-old pizza, you haven't washed your hair… **that's the real you**"* —
+> ★★★ *"**close this gap as small as possible. And how small is up to each one of us** — our own level of
+> comfort, **the inner work we've done.**"*
+> ★★ **With his own limit, which must travel with it**: *"**I'm not saying go out and be your unfiltered
+> self all the time** — I'm not even suggesting it's possible."*
+
+★★★ **The failure mode, in three words**: most people post *"to build a genuine, meaningful connection with
+a bunch of strangers — **it's how we build trust at scale**"* — but what they put out is ★★★ *"**honest.
+Inauthentic. Not genuine.**"* (*"We're living this Photoshop life… I'm on vacation, happy marriage, perfect
+kids — **that ain't real.**"*)
+([[../../sources/2025-03-23-yt-MqWUPpjMj3o]])
+
+## ★★★ Framework 59 — The voice of many vs the voice of one (2025-03-04)
+
+**Built as a live exercise, not asserted.** The room lists what a corporate account is *for* — leads,
+awareness, conversions, engagement, recruitment, mission, PR — and he tests each against a personal account
+(*"are you posting on your personal account to recruit people? …to do PR? **You shouldn't. You can if you
+want, but I advise you not to**"*) until only **engagement** survives.
+
+> ★★★ *"**Corporate brands do not get a lot of engagement.** It's like a team has a strategy, marketing
+> department, copywriters, HR, legal — ★★★ **that's where everything goes to die in terms of creativity.
+> Send it to a committee and all creativity dies.** It has **too many masters to make happy**, so they
+> **water it down until everyone's happy — which means no one's happy.** ★★ **A good compromise is when no
+> one's happy.**"* (✅ twice attested in eight days — **settled phrasing**.)
+>
+> ★★★ **The conclusion, which is the whole argument**: *"**the problem is: if we start behaving like a
+> corporate brand, we will get the engagement of corporate brands — which is, no one gives an F. No one
+> cares.**"*
+
+★★★ **The distinction in one line**: the corporate brand is *"**the voice of many** — because it's the
+committee that decides"*; the personal brand is *"**the voice of one. It's your voice, your beliefs, your
+mission, your attitude, your style.**"*
+
+★★★ **And the asymmetry that makes it winnable**: *"**all the time corporate brands are trying to be more
+human.** The good news is: ★★★ **you're already human. There's only one of you. So do you — it will
+work.**"*
+
+★★ **The differentiation rule underneath**: *"**in creative culture we tend to emulate what other people
+do** — somebody uses a colour, we all use the same colour. **What we should be doing is doing the
+opposite** — **and it's very easy to stand out, because you just have to be more of yourself.**"*
+
+★★ **The name as the carrier**: *"**a name is the most portable, efficient delivery vehicle for a brand** —
+all the goodness, the feelings, the sentiment, the gut. **That's why people trademark their brand name.**"*
+([[../../sources/2025-03-04-yt-2dY6MsSedKg]])
+
+## ★★★ Framework 60 — The three stories, named as a set (2025-03-04, 2025-03-23)
+
+✅ **Twice attested in 19 days.** The set:
+
+1. ★★★ **The inciting incident** — *"the moment your world changes forever. ★★★ **We'll call it the spider
+   bite.**"* Via **Loki**: *"whatever the **sacred timeline** was — that was you. **Something happened, it
+   forked, you picked one new path.** **Your life is never the same again.**"* The test: *"when did you
+   discover you wanted to be a photographer? ★★★ **The first time you figured it out — not *I think I
+   might*, but when you KNOW.**"*
+2. ★★★ **The origin story** — parents, birthplace, birth order, siblings, their education. *"If I say **both
+   my parents are professors who taught philosophy**, you know something. If I say **my parents escaped from
+   Vietnam and started over in the United States** — **that's a different story.**"*
+3. ★★★ **The defining moment** — *"**now you know who you're going to be for the rest of your life**…
+   **for Spider-Man it's when Uncle Ben dies.**"* ★★ Age note: *"if you're above 30 or 40 you probably have
+   that already."*
+
+★★★ **The craft rule from the live edit** — pushing a participant past *"I grew up on a small farm in
+Eastern Washington"*: *"**how many stoplights were there in your small town?**"* — zero — *"**I grew up in a
+town with zero stoplights. My high school was 50 kids.**"* → ★★★ *"**Specific details communicate much
+faster.**"* And on the cold: *"**give us a really weird fact** — *so cold that you do not want to put your
+tongue on anything metal outside.*"*
+
+★★ **He also corrects story SHAPE**: told a participant's inciting incident and defining moment were
+*"within months"*, he says *"**usually these things are pretty far apart** — **we want you to be lost in the
+desert for a while**, to suffer through trials and tribulations, and then the answer is revealed.
+[Otherwise] **it's not a very interesting story.**"* ⚠️ **A craft judgement applied bluntly to someone's real
+life. Recorded as said.**
+([[../../sources/2025-03-04-yt-2dY6MsSedKg]]; [[../../sources/2025-03-23-yt-MqWUPpjMj3o]])
+
+## ★★★ Framework 61 — Turn your weakness into the asset (2025-03-29)
+
+**Taught as craft, not affirmation.** He analyses a book title — *"**short stories from a short guy about
+short sleeve T-shirts**"* — as **repetition** (*"short, short, short"*) plus **pattern interrupt** (*"the
+third short is a SURPRISE… and that pattern interrupt makes us smile"*) — then names the real move:
+★★★ **the author is a short guy.**
+
+★★★ **The principle**, credited to Sun Tzu ⚠️ *"which every business guru tells you to read, **but I haven't
+read it**"*: *"★★★ **you make your weakness your strength, and you make your enemy's strength their
+weakness.** Because **it's asymmetrical warfare — you cannot beat them by doing what they do.** They have
+more resources, they're better equipped, better trained — **so you've got to figure out a way to make their
+strength become their liability.**"*
+
+★★★ **Proved by substitution**: *"**that title does not work as *short stories from a 6-foot-2 guy about
+shorts*.** See how it doesn't work? **He just leans into that.**"*
+
+> ★★★ **Generalised both ways**: *"**if you're old, don't run away from being old — that's an asset.** You're
+> *seasoned*, as the kids say. **But here's what old people do: *I'm not young like the young kids.*** And
+> if you're young? ***I don't have any experience, I'm an impostor.*** ★★★ **You see the problem — NO ONE is
+> happy being themselves.**"*
+([[../../sources/2025-03-29-yt-ozgIEp5d2ks]])
+
 ## Influences credited (not Chris's originations)
 
 - **Marty Neumeier** (*The Brand Gap*, *Zag*) — the brand-as-gut-feeling definition and

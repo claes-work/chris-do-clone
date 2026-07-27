@@ -2540,6 +2540,137 @@ they'll get $51,000 back** — and then they can execute."*
 audience not to buy the premise.
 ([[../../sources/2025-02-23-yt-hC2_b-y6zuc]])
 
+## 65. ★★★ Sell money — and the two B's (2025-03-31)
+
+> ★★★ *"What should you be selling? **Sell money. When you sell money, I buy.** ★★★ **Speak to me in the
+> language of business.**"*
+
+★★★ **The positioning move it produces**: *"**I would love to work with you — under the condition that you
+can articulate to me the metric that matters, that I have an impact on, and what goal you'd like to have.
+Otherwise, I cannot help you.**"* And the observation: *"**even if everything else you do is exactly the
+same, look how you position yourself against every other graphic designer, every other photographer, every
+other web developer.**"*
+
+> ★★★ **Bounded by the Four Agreements honesty clause — which must travel with it**: *"**be honest with
+> them, to serve them** — **that's a benchmark I cannot do.** A better visual identity is not going to
+> achieve that for you… **I'm not your person.** But if you ever need this, I can do that. ★★★ **That's a
+> real relationship.**"*
+
+★★★ **THE TWO B'S**, which supply the metric:
+- **Baseline** — *"where are we today? How many followers? How much revenue? How many customers? What's the
+  churn rate? How many positive Yelp reviews?"*
+- **Benchmark** — *"where would we like to be?"*
+- ★★★ *"**The delta between those two determines how good you are.**"* Worked: *"1,000 → 2,000 followers is
+  a 2× change. **But if they wanted 4,000, you're 50% of the goal.**"*
+
+★★★ **The rebuke that sets it up**, to a designer who didn't know his client's revenue: *"**you don't ask
+your clients how much money you make? Why is it designers never care about the impact that the work makes?
+They just make it up in their mind.**"* ★★★ **And the asymmetry he names**: *"**we love to claim success for
+things. When things don't work, we're like: we got nothing to do with that.**"*
+
+**Closing pair**: *"**design matters — but not when you don't mind what matters**"* and *"**what's measured
+improves. You didn't measure it, it doesn't improve.**"*
+([[../../sources/2025-03-31-yt-aQYbXVZb88k]])
+
+## 66. ★★★ The subscription pivot — sell pain relief, not production (2025-03-31)
+
+**The problem with project work**: *"every time you deliver on this $4K project, **you've got to go find
+another one. It's tiring.**"* And identity work resists recurring revenue **by design**: *"**once it's done,
+it's kind of done** — by design it's supposed to be done for years."*
+
+★★★ **Change WHO you serve**: *"**who has a never-ending, infinite appetite** for this?"* → **creators** —
+*"**content equals attention**, and what do they do with attention? **They trade it for money.** ★★★ **So you
+want to sell money. Who's buying money? Creators.**"*
+
+★★★ **Change WHAT you sell**: *"the worst part is editing — **you can shoot for an hour and spend 17 hours
+editing.** What you want is to **sell PAIN RELIEF** — we have a headache, we take a pill. ★★★ **The faster
+the pain relief comes, the more they will pay.**"* The offer becomes *"editing, thumbnail, title, uploading,
+optimisation, analytics"* — **and the analytics close the loop back to the two B's.**
+
+★★★ **The economics, named**: *"**it could be done by anyone, anywhere, anytime, on any device. That means
+you have ARBITRAGE. Buy low, sell high.** ★★★ **It's how people get rich.**"*
+
+★★ **Why production resists this**: clients *"look at this as **an expense**"* (*"why do we have to pay for
+all these people? **Just use your phone**"*) **and it is genuinely expensive to make** (*"lug your gear
+around, hire additional hands, cameras break, memory cards get lost"*).
+([[../../sources/2025-03-31-yt-aQYbXVZb88k]])
+
+## 67. ★★★ Entrepreneurship is a disease — both halves (2025-03-31)
+
+> ★★★ *"Everybody thinks entrepreneurship means **I get to be the boss, I don't have to work, I just call the
+> shots**… ★★★ **Entrepreneurship is an ugly, long battle. But it's a disease. I think it's not a choice.
+> You can't get rid of it. There's no cure.**"*
+
+★★★ **His own form of it**: *"**I cannot work for anybody.** **There's not enough money you can pay me for
+me to work for you** — cuz **if I'm busy building your dream, who's building mine? Nobody.** ★★★ **And I'm a
+dream builder. And I like my dream more than yours. I like yours, but I like mine more.**"*
+
+> ⚠️ **BOTH HALVES ALWAYS.** The competitive candour: *"**the people who don't have the disease, they quit.
+> And I don't want so much competition.**"* And, in the same breath: *"**it's okay if you quit. I appreciate
+> if you quit most of the time. But I'm here for those that do not want to quit — they've got that fight,
+> and I'm ready.**"* ✅ Consistent with *"get out — this was not meant for you"* (§64 / 2025-02-23).
+
+★★ **A dated marker**: *"**I'm going to year 30 right now.** And we've had ups and downs."* ★★ Plus, from
+six days earlier: *"I've been in business over 30 years and **I've built two eight-figure businesses**"*
+`[self-reported]` ([[../../sources/2025-03-25-yt-lXTf0ypur0Q]]).
+([[../../sources/2025-03-31-yt-aQYbXVZb88k]])
+
+## 68. ★★★ The black sheep, and the five family roles (2025-03-12)
+
+**From a relationship workshop he and his wife attended**: every family has about five roles, *"**and what
+stuck with me is that every family has a black sheep.**"*
+
+> ★★★ *"**The black sheep is the saddest character, the most misunderstood and hated character within the
+> family** — typically the rebel… and **seems to not do anything the family thinks is good.** ★★★ **But the
+> black sheep is a critical role — because what they do is they bring new ideas.**"*
+
+★★★ **The island parable**: the black sheep says the water is drying up, is treated as casting doubt on the
+chief, leaves with a few followers, finds better land — ★★★ *"**and then the old tribe dies.**"*
+
+> ★★★ **And the non-obvious half — he defends the conservative role as hard as the disruptive one**: *"the
+> head of the family becomes **the historian — the person who preserves ideas, cultures and customs.** The
+> black sheep says *you're old-fashioned, you're out of touch* — **but what they don't realise is they bring
+> institutional knowledge: we do these things because this is how people don't die.**"*
+
+★★★ **The rule it exists to produce**: *"**what's unhealthy with families and with corporations is when we
+don't share those roles — when we don't move them around.** ★★★ **We trade roles and responsibilities, but
+we don't merge them together — because that's where it gets really, really messy.**"*
+
+✅ **Structurally identical to the general/soldier point in the same source** (§61-adjacent): **play a
+defined role, swap over time, never occupy two at once.**
+([[../../sources/2025-03-12-yt-DHt-pgda-jM]])
+
+## 69. ★★ Small rules with teeth (2025-03-06, 2025-03-25, 2025-04-01)
+
+- ★★★ **Practice intentional incompetence.** *"**Don't get good at things you don't want to get good at.**
+  In my own life **I try not to get good at production work, or bidding, or accounting**, because that's not
+  what I want to get good at."* — **the active form of delegation: not merely delegate, but refuse to
+  acquire the skill.**
+- ★★★ **Don't get stuck in the tyranny of the how.** *"Don't ask **how can we afford this, how will we
+  figure out the technical challenge** — because **when you do that you eliminate ideas prematurely.**"*
+  Evidenced by his own students, who *"generate ideas within the boundaries of what they knew how to do,
+  therefore limiting the potential growth."*
+- ★★★ **Be a franchisee** — *"**you don't want to invent a new McDonald's, so you become a franchisee**…
+  **they license the system, the name, the procedures**"* — ⚠️ **with his own exclusion attached**:
+  *"**congratulations, friend. This video is not for you.** … **I'm doing that. I don't want to license
+  someone else's program — but I'm in the grind, I'm working 14, sometimes 16 hours a day.**"*
+- ★★★ **The hardest-working lazy person.** *"**I often describe myself as the hardest-working lazy person I
+  know — because I don't want to do all the work myself.**"* With: *"**I'm a pretty good animator — not the
+  best, not even close**"* — so working with better specialists *"**allows the work to be better than what I
+  could have done by myself.**"*
+- ★★★ **The coach caveat**: *"**save your money if your intention is to hire someone and then not do what
+  they tell you** — now **not only are you working harder, but you're wasting money to boot.** ★★★ **Now
+  you're just dumb and busy.**"*
+- ★★ **Don't manage time — manage outcomes.** *"**Time is not a good measurement of productivity,
+  efficiency, creativity or innovation.** **If you promote people for working longer, guess what: they'll
+  just work longer.**"*
+- ★★ **Sales is change management** — *"what people pay for is **to go from the current state to a desired
+  future state** — **and if you have a plan on how to do that, that's what you're selling.**"*
+- ★★ **Don't let the fear of firing block hiring** — *"**I did this myself for years**… **I was really
+  afraid of looking at another human being and saying: I control your livelihood.**"*
+([[../../sources/2025-03-06-yt-fKWJjiRMCTM]]; [[../../sources/2025-03-25-yt-lXTf0ypur0Q]];
+[[../../sources/2025-04-01-yt-hJ35jP1tKDI]])
+
 ## See also
 
 - [[wiki/topics/pricing/pricing]] — value-based pricing, "price the client not the job,"

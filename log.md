@@ -5543,3 +5543,86 @@ the persona.
 > checkpoint (`obu9QUo8jq4`, `Sb80TUwoTOE`).
 
 Synthesis notes: none — this was the synthesis pass.
+
+## [2026-07-27] ingest | yt batch (@thefutur, 2 of 3 — one deferred) — unsafe space, and an AI stance that moved
+
+**Stage B (P2), `--n 3`** — first ingest batch after the pass 15/15b checkpoint. Ledger 880 → **882 L2**.
+
+| id | date | what it is |
+|---|---|---|
+| `yt-obu9QUo8jq4` | 2025-01-03 | guest-primary (AI/faceless) — but a **dated AI stance update** |
+| `yt-SsuiKyAwDhM` | 2025-01-16 | ★★★ **LANDMARK** — Adobe MAX live whiteboard, Chris solo |
+| `yt-Sb80TUwoTOE` | 2025-01-09 | ⏸️ **DEFERRED** (77KB, Jodie Cook) |
+
+**1. ★★★ The Adobe MAX whiteboard session carries two frameworks the corpus did not have.**
+
+- ★★★ **Radical responsibility**, credited to a business coach: *"**being 100% accountable for everything
+  that happens in your life. Even things that are not your fault are your fault** — because we have to make
+  a decision: **how do we get ourselves in that position such that those things happen to us?**"*
+- ★★★ **The Belief → Action → Result reset**, whose insight is the **direction of travel**: *"what people
+  try to do is ask you to **change your belief** — [and he says] *bro, three years, man, it's not going to
+  happen.* **If we fast forward to the result that he wants, it's much easier to create a road map.**"* And
+  the mechanism: *"**the action will change our belief system**, which then reinforces [the belief]."*
+  *"**We always start with the result.**"*
+
+**And his stated teaching philosophy, which explains the whole roleplay/confrontation format** the corpus
+has documented for years without a rationale: ★★★ *"everybody talks about creating **safe space** to learn.
+**I like to create unsafe space — because in the friction is where the real learning happens.** … I think we
+get to some maybe **more informed truth. I'm not saying absolute truth** — but more informed."*
+
+Also from the same hour: ★★★ **"you are the prize"** in full, credited to Blair Enns *who credited someone
+else* (*"the client has fewer options to do what you do than you have for sources of money"*; *"they can get
+something similar, **but they can't get you**"*; *"**you're one in eight billion**"*); ★★★ **guarantees as
+priced risk transfer**, with the fullest version of the script — *"**happy to give you a guarantee. It's
+just going to cost four times as much.** … **I see you get out of it**"*; the **friendship-vs-business
+airport test**; and the **"I am good"** correction, where he intervenes on one word (*"my **work** is
+good"*) and treats it as the actual problem.
+
+★★★ **Plus a self-implicating financial admission that is new**: *"have you ever been in a project where
+**you paid for the project**? **I have — and I think I'm pretty smart.** … **I bought the project.**"* And
+the category: *"**if you ever do music videos, you pay for the project.** So all those music videos on our
+demo reel? **Lost money. Lost money. Lost money.**"* That goes to `entities/blind` at the next pass.
+
+**2. ★★★ His AI position has moved, and the standing guard no longer covers it.**
+
+The persona carries a guard marking the AI stance as **2023**. This is **January 2025**, and it is
+**two-sided by design**: ★★★ *"**I'm an AI optimist**"* — and, in the same breath, *"there's going to be
+**massive job displacement**. **I love it from a creator point of view. I don't love it from an industry
+human-creator point of view.**"* He names his own stake: *"**I have an 18-year-old son. He's studying
+entertainment design, concept art. And I'm telling him: Midjourney already does what you do, better,
+faster. So what are we learning?**"*
+
+His structural argument is the **desktop-publishing precedent**: typesetters went out of business, the
+market flooded, and *"once the dust settles, **the people who understand design who can use the technology —
+and that's the critical part — have a competitive advantage.**"* With the honest caveat attached: *"**most
+designers would say it has been a net positive** — but if you're one of those people who were displaced and
+weren't able to get back into the field, **it was probably very problematic.**"*
+
+> ⚠️ **Flagged for the next synthesis pass: revise the "AI-stance-is-2023" guard.** It is now **dated 2025**
+> and must carry **both halves**. And hold it beside the 2024-12-11 line (*"AI can make things better than
+> you, but **you** are not better"*) — that one is about **personal development**, this one is about
+> **labour markets.** Not in conflict; neither is the whole position.
+
+> ⚠️ **Biography follow-on, recorded name-free**: the son *"(≈17 in 2024) considering art school"* whom he
+> steered toward a gap year is now **18 and studying concept art**. A sequence with a known outcome, not a
+> contradiction.
+
+**Deferral (no silent caps):** `Sb80TUwoTOE` (77KB, Jodie Cook) returned to `L0-discovered` at P2 with its
+transcript cached; not skimmed.
+
+**Pipeline state:** `@thefutur` P1:0, **P2:195**, P3:44; `@TheFuturAcademy` P3:72; shorts 860; L2=**882**,
+L3=0; synthesis debt **1/10**; persona v17.
+
+> **Next iteration: Stage B (P2), `--n 3`**, led by the deferred Jodie Cook row.
+
+Synthesis notes: genuinely new — (1) ★★★ **radical responsibility**; (2) ★★★ **the Belief→Action→Result
+reset** (start from the result; the action changes the belief) plus **desired future state**; (3) ★★★
+***"I like to create unsafe space"*** — his stated teaching philosophy, for `persona/voice.md` and the
+mindset hub; (4) ★★★ **"you are the prize"** in full, with the double credit preserved; (5) ★★★ **guarantees
+as priced risk transfer** with the **4× script** — supersedes the thinner pass-14 telling; (6) ★★★ ***"I
+bought the project"*** and the music-video losses for `entities/blind`; (7) ★★★ **friendship vs. business**
+and the airport test; (8) ★★ the **"I am good"** one-word correction; (9) ★★ **communication as a durable
+skill** in the AI era; (10) ★★ the **generalist exception** (they hire people); (11) ★★★ **the
+January-2025 AI position** with the **desktop-publishing precedent** — ⚠️ **and revise the AI-stance-is-2023
+guard**; (12) ★★ **art-direct the machine**; (13) ★ the **son's course of study**. Fenced: **Austin**
+(faceless-content formats, tools, view claims, platform theory).

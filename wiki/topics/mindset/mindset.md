@@ -3390,6 +3390,186 @@ _Source: [[wiki/sources/2024-03-14-yt-0wse5TRJYHE]]._
 - **On asking**: *"this is the difficulty of anybody who asks a question: **are you willing to hear the
   answer** — or do you only want to hear the answer that aligns with what you already want to know?"*
 
+## 70. ★★ The presence doctrine — and what "missing" actually is (2024-05-07)
+
+_Source: [[wiki/sources/2024-05-07-yt-1qHDrx9CO_M]]. The most personal mindset material in the corpus._
+
+★★ **"Missing" is a comparison habit.** Prompted by a friend saying they'd missed talking to him, he
+interrogated it rather than accepting it — and landed somewhere uncomfortable: *"**I don't really miss you,
+and I don't really miss my kids, and I don't really miss my wife.** It's not that I don't think about them,
+it's not that I don't care — **but what *is* this idea of missing?**"* His model: you hold a memory or an
+expectation and compare the present against it, so *"**the meal you're eating right now doesn't taste so
+good** — everything's being compared to something else except for right now."*
+
+★ **And memory is not a fixed reference**: *"**by recalling the memory you change the memory.** We
+romanticise ideas and we catastrophise negative things… **that's why we always pine for the good old days.
+Things are never the way they were** — it's just your memory of it makes it even better."*
+
+★★ **The discipline**: *"when I'm here, I want to be here."* Applied to work: *"if I'm watching a movie
+with you I'm not thinking about my work, and at work I'm not thinking about binging the Netflix series."*
+And offered as the mechanism behind his output, not as a boast: ★★ *"**I can get more stuff done than most
+people because in that moment, that's all I'm doing.** I've optimised my mind, my work environment, my
+tools, the palettes in my software toolset **for the singular purpose of doing this thing.**"*
+
+★ **The conference observation** that generalises it: everyone at a multi-day event is on the phone to a
+partner — *"and I'm like, **what about us in this room right now?** We're sitting here waiting for you to
+rejoin the conversation."* His diagnosis: *"**it's reverse connection.** We're not connecting to the people
+in front of us."*
+
+★ **Asynchronous communication as respect.** The check-in call is often for you: *"I've done **two wrong
+things** — the first is to leave, so she's carrying the household by herself… number two is **now I'm
+interrupting whatever she was doing so that *I* can feel connected. So this wasn't about her — it was about
+me.**"* The practice: photos, DMs and texts, *"which allows the other person to interact with it **when
+they feel it's appropriate.**"*
+
+## 71. ★★ Communication: crayons in the box — and knowing your depth (2024-05-14)
+
+_Source: [[wiki/sources/2024-05-14-yt-KCzE-wc0qC0]]._
+
+**The definition first**: *"it's about **intention**. When you speak, you send out a signal — **you are the
+transmitter**, and I need to make sure **the intentionality between the transmission and the reception is
+the same.**"* Then check it landed and *"readjust what I say until the desired message is sent and received
+properly."*
+
+★★ **"Not a lot of crayons in the box."** *"When they speak to somebody, they have **one voice, one tone,
+one style.** That can work if you don't have to deal with a lot of people — but if you aspire to be a
+public speaker, or want more **range**…"* The analogy is casting: some actors are always the henchman;
+*"and then some people like **Gary Oldman** can play every role in the book, and **you don't even know Gary
+Oldman's in the movie.**"*
+
+★★ **Directness requires permission** — which is why clipped excerpts misread as cruelty. With someone who
+has asked for growth he'll say *"stop that childish behaviour, you're not being true to yourself"*; to
+outsiders that reads as arrogance, *"what they don't understand is **there's a bond, a relationship where
+we explicitly give each other permission**: I'm interested in personal growth, **please don't sugarcoat
+it.**"* With someone in distress he switches to the **FM-DJ voice** and lowers the target: *"**I can't take
+them from three to 300.** It doesn't work."*
+
+> ★★ **KNOW YOUR DEPTH — a guard, not a preference.** *"**I also know when I'm out of my depth** — if
+> somebody's borderline suicidal or something else, I'm not going to come in there like *well, you could do
+> this*, **because I'm not armed with those tools. I'm not trained, and I'm not going to be there to see
+> you through the darkness.**"* His script: *"I want to be helpful, **but I'm nervous that I'm not going to
+> give you what you need** — if there's somebody who's a professional, can we get some help and support?"*
+> Illustrated with a comedy show interrupted by a seizure: *"I'm not going to be like *step back everybody,
+> I got this.* **I would say — is there a doctor in the house?**"*
+>
+> **The failure mode he names**: people *"have **an outsized measure of their experience, their
+> intelligence, and what they're capable of doing. They speak on things they should not be speaking on**"*
+> — and *"they're **more afraid of [looking ignorant] than practising some form of malpractice and being
+> negligent.**"* **This is now a system-prompt guard.**
+
+★★ **The entry posture**: *"I'm going to show up as **nothing and as everything at the same time.** I'm
+going to vacillate between those two points really quickly, because I don't want to come in thinking I'm
+superior to you or you're inferior to me."* The practical reason: from a pedestal *"**you can't then reach
+down and say — you know what, I don't know what I'm doing.**"*
+
+★ **On pretence**: *"everyone is walking around pretending to be someone and we can feel that. **That's why
+it's called pretentious — because you're pretending.**"*
+
+## 72. ★★ The internal compass, the accountability flip, and running the triangle backwards (2024-07-14/16)
+
+_Sources: [[wiki/sources/2024-07-14-yt-JcStdLbdN_U]] and [[wiki/sources/2024-07-16-yt-eENQx3vWRHE]]._
+
+★★ **The precondition on everything in §51's feedback toolkit**: *"many of us **do not have an internal
+compass or north star** telling us that the work is good — so we're constantly seeking the opinions of
+other people, and therefore we **put our emotional well-being, our happiness, our joy and our sadness in
+the hands of strangers**, or people who don't actually really care about us at all."* Hence: ★★ *"**the
+feedback that you get can wreck you if you have no internal sense of what is good and what is bad.**"*
+
+★★ **The accountability flip** — a management move, from a Blind-era story. An executive producer implied
+the team wasn't trying after a lost pitch. Rather than being pulled back into the work (which *"would
+undermine what they're trying to do and **would be a blow to her self-confidence and self-esteem**"*),
+Chris asked whether he had a view on the work *before* submission — and then made that his job:
+*"**he knew then that I kind of boxed him into a corner**, because now he would have to take
+responsibility for determining, **prior to someone else telling him**, that the work is good or not."*
+Both outcomes now carry ownership.
+
+★★ **Run the belief→action→result triangle backwards.** (The bidirectional reading is credited to a
+**Matthew** from a Clubhouse conversation; the triangle itself is already in §51.) You cannot argue
+yourself out of a belief — so **start from the result you want**, derive the smallest action, and let the
+belief follow. Demonstrated live on a team member whose belief was *"no one cares"*: belief → action
+(nothing) → result (nothing) → confirmation. ★★ *"**That's the wonderful thing about nothing: it gets
+nothing. It's safe.**"* And the self-defence structure underneath it: *"**I don't say anything, so no one
+can care; so I don't have to say anything, so no one will care.**"*
+
+★★ **The narrow-window observation**, from two decades of hiring: *"designers that have come through our
+office for over two decades **have a very narrow window of things that they'll try.** If it's a style or a
+typeface they're not comfortable with, **they won't do it — because they're afraid: if I do this,
+everybody's going to realise I'm a fraud and I only know how to do one thing. So I'm just going to stick to
+that one thing.** **Which then says you only know how to do one thing. It perpetuates itself.**"*
+
+★ **Two smaller tools**: the **fear-rating drill** — rate the fear 1–10, then name *the number at which you
+stop acting* — and the observation that **most perceived criticism is amplified neutral feedback**, usually
+traceable to someone who held power over you *"probably from the ages of three to nine."*
+
+## 73. ★★ Authenticity as a measurable gap — and what awareness buys (2024-08-13)
+
+_Source: [[wiki/sources/2024-08-13-yt-i10g2BVfWVI]]. ⚠️ **Sensitive**; see the personal-story rule in
+`content-strategy` §45 and the system-prompt guard._
+
+★★ **The definition, which is a measurement rather than a virtue**: *"who are you when no one's watching?…
+And then we all, to be accepted in society, show up slightly different — a **persona**. **And the
+difference between who you are when no one's watching and how you show up: that gap is how inauthentic you
+are.** That's my belief. **I'm guilty of this myself. Everyone is.**"*
+
+> **See the reconciliation in `branding` F51** — this coexists with the fact that his own on-camera
+> personas were deliberately **cast**. His rule: *"authentically us, **just hyper versions of us**"* —
+> amplify along true lines.
+
+★★ **"How you do one thing is how you do everything"** — tested against a trivial case and found to hold
+(eating a wrongly-made restaurant order rather than making a fuss). Note this appears in **both
+directions** in the corpus: self-applied here, and applied to a **counterparty** in `sales-clients` §75
+(*"how you do anything is how you do everything"* — if they'll lie in the courtship…).
+
+★★ **Awareness converts a reflex into a choice**: *"once you become aware of where your patterns of
+behaviour come from, **you now have a choice.** Every time you exhibit this reaction you ask yourself: **is
+this truly who I am, or am I repeating the sins of the past?**"*
+
+★ **"Go to therapy"** as his answer to a personal-branding question — *"if we're talking about
+self-awareness and self-acceptance, **who better to have this conversation with than a trained
+professional?**"* His account of what it does: *"all of us walk around having certain thoughts, assumptions
+and beliefs that **we never even check**"*, and a therapist asks *"where does that thought come from…
+**how far back can we trace it?**"* — which he likens to meditation, *"to be able to **witness yourself from
+a neutral observer point of view.**"* The full worked case is in `persona/biography.md`.
+
+★ **Difference is the advantage** in an equal-access media environment: *"the people who cut through the
+noise are **the people who are different** — no hair or lots of hair, great eyebrows or no eyebrows at all,
+a deep voice or a high-pitched voice — **and they just learn to embrace this.**"* And the charisma
+correction: the room-dominating extrovert is *"exhausting"*; *"the ones I'm drawn to **create space for
+others** — they're **filled in such a way that they don't need more people to fill them up.**"*
+
+## 74. Failure, timing and the tension in chunking (2024-06-13 / 2024-08-11 / 2024-08-22)
+
+★★ **The three exit indicators** — see `business` §49 for the full framework; recorded here because the
+underlying disposition is a mindset one: *"comfort is a slow death"* (credited to **Noreen Moroka**), and
+*"if you could make a lot of money and seize new opportunities **without taking any risk, everybody would
+do it — and that thing wouldn't be very valuable at all.**"*
+
+★★ **Light from dead stars** — his model of why chasing proven opportunities fails: *"when we look up at
+the night sky we see the sparkle of a star, **but we don't know if those stars are still even around** —
+the information is old. … Once you see what's working, **you have to imagine a lot of people have seen
+it.** So **they go running to where the gold *was*, not where it *is*.**"* Resolved with Gretzky: skate to
+where the puck is going. *"**You're not chasing the trend, you're predicting the trend.**"*
+([[wiki/sources/2024-06-13-yt-Tzb7LmtSF3c]])
+
+★★ **The gold-bars parable for detachment**: your hands are full of current opportunities and habits; you
+walk into a room of gold bars; *"**you have to let go of something so you can get something else** — but
+you can't let go of what you're holding, so the window closes… **we have to practise a form of detachment:
+this is cool, but I'm not so in love with this thing that I can't see the next best thing.**"*
+
+★ **Ten small gambles, not one large one** (via *Rework*), with *"whoever fails the most wins"* credited to
+**Seth Godin** and glossed by Chris as *playing the game the longest*. The design question he leaves the
+room with: *"**am I designing my company to fail in small iterative ways** so that I can learn from my
+mistakes — and that I'm not making one giant gamble?"*
+([[wiki/sources/2024-08-11-yt-zAP6FfTGHXA]])
+
+> ⚠️ **TENSION — chunking cuts both ways (recorded, not resolved).** The hub's **chunking** material (§-era,
+> and `sales-clients` §73) argues for breaking things down so a commitment becomes achievable. Guests on
+> [[wiki/sources/2024-08-22-yt-zr2tbUwqKnY]] argue the opposite: small steps *"give you an excuse to
+> procrastinate on all the things that are important and impactful, because you believe **right now you
+> don't need to be doing those big things.**"* **Both are true under different conditions** — chunking is a
+> commitment device for a *buyer or beginner*, and a procrastination licence for an *operator avoiding a
+> big bet*. Hold the distinction rather than picking a side.
+
 ## Cross-cutting patterns
 
 - **Language is the lever.** War Jitsu (§3), "share" not "teach" (§7), defining words like

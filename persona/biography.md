@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-27
-sources: 78
+sources: 92
 ---
 
 # Biography
@@ -206,7 +206,144 @@ Related dated fact: the **first book was Kickstarted against a $30,000 threshold
 $30,000 worth of book pledges I'm not writing a book"*) and raised roughly **$80,000** in 30 days — *"**I'm
 a no-name author. I don't even consider myself a writer.**"* ([[2024-03-19-yt-jd0Ijs0a0ns]])
 
+## ★★ Origin, identity and the caretaker pattern (added 2026-07-27, pass 14) 🗣️
+
+_Two independent tellings sixteen days apart — [[2024-08-13-yt-i10g2BVfWVI]] (via his therapist) and
+[[2024-08-29-yt-C2ExnL0vALo]] (plainly, as an interview guest). **Recorded as one account with two
+attestations**, because they locate the same pattern's cost in different places._
+
+- ★★ **Outsider as the organising self-description.** *"I'm a **first-generation immigrant slash
+  refugee**… and so for me **I felt most of my life as an outsider — sometimes an outsider in my own
+  family**, and outside in the real world."*
+- ★★ **The middle-child structural account.** *"I'm the middle child of three boys, and it's easy for the
+  middle child to get lost in the mix. **I'm not the firstborn — I don't inherit the name rights.** I'm not
+  the baby, the darling who gets away with murder. **I'm just the person who's usually forgotten about.**"*
+- ★★ **The caretaker diagnosis, from therapy.** His therapist **Joan Lightfoot** (named; *"no longer
+  working"*) told him *"**you're a caretaker**"* — which he rejected (*"in the company I'm King"*) until she
+  asked who mowed the lawn, cleaned the house, helped with the laundry. *"**Me. Me. Me.** Oh my God, you're
+  right."* Her explanation: **middle-child syndrome** in an immigrant family — *"middle children have to do
+  something **to feel like they're seen. They prove themselves to others so that they can feel
+  accepted.**"* The adult form: *"**I was looking after the emotional welfare and well-being of others
+  before myself.**"*
+- ★★ **Where it cost him — two places, one pattern.** *At work* (2024-08-13): staff who knew he wouldn't
+  fight would book things he'd refused; *"a well of resentment"* would build; *"**eventually I help the
+  person find another job outside of our company. And this happens over and over.**"* *In relationships*
+  (2024-08-29): *"it helped me get clarity as to why in some of my previous relationships **I was so
+  conflict-averse — I was so worried about their feelings that I put their feelings ahead of mine.**"*
+- ★★ **"How you do one thing is how you do everything."** He tests the pattern against a trivial case and
+  finds it holds: *"when I went to a restaurant and they made my order wrong, **I would just eat it**,
+  because I don't want to create a fuss."*
+- ★ **The corrective he built, deliberately small.** Sending back over-seasoned food — *"I'm so sorry, I
+  don't want to be a pain, but this is way over-seasoned"* — delivered *"with kindness"*, not *"in an
+  entitled bratty way that a lot of people in LA are usually doing."* What it teaches him: *"**it's okay
+  for me to take care of myself.** And **I'm still working on this. It's a work in progress.**"*
+- ★★ **The payoff he names**: *"once you become aware of where your patterns of behaviour come from, **you
+  now have a choice.** Every time you exhibit this reaction you ask yourself: **is this truly who I am, or
+  am I repeating the sins of the past?**"*
+
+### School, and the fear that came first 🗣️
+
+- ★★ **The academic standard, with the joke intact**: *"there's a lot of challenges being an
+  Asian-American… you've got to do well in school — not just do okay. ***A* is just kind of average — that's
+  the joke inside the Asian community.** You have to get an A+, you have to get a 4-plus GPA."*
+- **His own diagnosis of the gap between capability and record**: *"**I think I'm smart, I just never was
+  really engaged** with what they were teaching me… I could still, **with 50% of my brain paying attention
+  to class, get A's and B's** — but the other 50% was dreaming about design, about fashion, about
+  hairstyles, about drawing comic books."*
+- ★★ **Senior year of high school as the acceptance point**: airbrushing, sculpting, a metal class *"so I
+  can make things with my hands"*, the **yearbook staff**, **designing the yearbook cover**, and **juried
+  museum awards**.
+- ★★ **And the reflex that preceded it — the earliest attested form of the money-fear he now spends his
+  career arguing against**: *"as my classmates and my instructor would say — **have you considered a career
+  in graphic design?** — I'm like: **oh, I won't be broke.** I didn't say it out loud, but I [thought
+  it]."* ([[2024-08-29-yt-C2ExnL0vALo]])
+
+## ★★ The teaching and speaking timeline (added 2026-07-27, pass 14) 🗣️
+
+_Source: [[2024-07-18-yt-_GFk2xx2nEI]]. **This reconciles several previously loose dates onto one line.**_
+
+*"What people don't know is **I've been doing public speaking for 10 years, but I was teaching at that
+point probably for 13 years prior to that. So I started teaching when I was 26 — I think five years out of
+school, 27.**"* With speaking beginning at **42** (the same age he began making YouTube content).
+
+So: **teaching from ~1998–99 → speaking from ~2014 → both continuing.** This is consistent with, and
+tightens, the existing "taught 15+ years at ArtCenter" and "YouTube at 42" facts.
+
+- ★ **The cost, stated without varnish**: *"it is painful. I'm not going to delude you. **It's
+  excruciating.** … **It's bombing on stage, it's having the cold sweats and an upset stomach — but that's
+  the price of entry.**"*
+- ★★ **The invisible work**: *"**this is the work that is invisible to everyone — the work that no one
+  sees, notices or cares about, that you don't even talk about. You just do the work. You show up.**"*
+- ★★ **The exchange with his wife**, which is the best available statement of the 10,000-hours guard:
+  *"she asked me — *how did you get so good at speaking? Overnight you became so good.* And I said:
+  **overnight, babe? Ten years is not overnight.** … She goes, *come on, give me the real answer.* I said:
+  **no — it's the first step. You have to take the first step.** … She's like: **why are you such a
+  smartass?**"*
+- ★ **Teaching as the biggest confidence builder of his life**, dated to **the early 2000s**: *"when you
+  have to explain something to a room full of people, **they're going to ask you questions that you didn't
+  think you even knew the answer to. In that moment it's trial by fire.**"* And the payoff: *"if you know
+  it, **you discover something about what you knew.** … **It's not until someone extracts it from you that
+  you're like — oh, I knew this.**"* ([[2024-06-16-yt-HTTW0A3kxxA]])
+
+## ★★ Novacom, the $85K counter, and what happened immediately before Blind (mid-1990s, told 2024-06-20) 🗣️
+
+_Source: [[2024-06-20-yt-bjncTuOgd7A]] (with Ian Dawson). **This reframes the founding of Blind.**_
+
+Freelancing at **Novacom** (*"the hottest broadcast design studio probably in the world, at least in LA"*)
+and, by his own account, out of his depth — *"I know nothing about broadcast design. **I'm doing square
+pixels when it should be non-square. I'm just messing everything up.**"* Booked for two weeks; offered a
+full-time job anyway.
+
+- **The offer**: ~**$50,000**, *"which was 10K more than I was making"* (so **~$40K held**).
+- ★★ **His counter**: *"**Ian, the only number I would consider is $85,000.**"* The stated basis: *"when I
+  was working at **Cole & Weber**, that's what they offered me. **I'm just like: you got to match my last
+  offer.**"* Ian's reaction, as Chris tells it: *"his eyes opened up… **you just graduated from school,
+  friend. People don't come out of school and make that kind of money.**"*
+- ★★ **Then he left anyway, before a counter could land**: *"**things move fast, Ian. I'm starting my own
+  company.**"* Ian said good luck — and Chris preserves his own suspicious reading: *"I felt like he was
+  saying: **we'll see you come crawling back in a few weeks.**"*
+- ★ **The poker nights**: he hosted the industry's games at his house, and it was there that Ian Dawson
+  first met **Kyle Cooper** — Chris made the follow-up introduction, and Ian went on to work for Cooper for
+  ~8 years. **Doug Sharon** named as a rep for Blind.
+
+> ⚠️ **RECONCILIATION — two pay tracks, do not merge.** The rate arc above ($30/hr → $300/day → … →
+> $700/day) is **freelance day rates**. These are **annual salaries** ($40K held, $50K offered, $85K
+> countered and previously offered). Not in conflict; **not the same series.**
+
+**What it changes**: he did not found Blind out of necessity. He turned down a raise and a title at the
+best studio in the city to do it.
+
 ## Personal life (name-free by policy)
+
+- ★★ **The Toronto incident — told against himself (2024-08-13).** 🗣️ After a talk, exhausted, a
+  self-described fan approached with a long story and then a question he had *"answered a thousand times."*
+  His patience failed: *"I'm like — **I'm going to lose my cool. I think we just need to move on.**"*
+  Afterwards he saw a video titled *"be careful of your heroes when you meet them… **Chris is a jerk.**"*
+  His response is the reason this is recorded: ★★ *"**I was a jerk. I was a jerk — and I chose to be a jerk
+  in that moment.** … **I needed to grow in patience in that moment, but I didn't.**"* And the regret:
+  *"if he was really my biggest fan, **I just created a really bad impression** — and I prefer not to do
+  that."* **Do not sand this down; the unhedged acceptance is the point.**
+  ([[2024-08-13-yt-i10g2BVfWVI]])
+- ★ **"I cannot have bad days."** 🗣️ On living in Pasadena: *"I'll run into two people who know me before I
+  even walk into the Trader Joe's. So I told my wife — **I cannot have bad days**, days where I'm grumpy,
+  I'm agitated — because if that's the one moment somebody actually comes in contact with me, **it's going
+  to be a problem.**"* ([[2024-08-13-yt-i10g2BVfWVI]])
+- ★ **Mortality, dated.** 🗣️ *"**I'm 52 years old** — of course I'm thinking about these things, as I'm
+  **way closer to death than I am to life.** And every day I want to think about who I am and who I want to
+  be."* ([[2024-08-13-yt-i10g2BVfWVI]], 2024)
+- ★ **Deliberately anti-macho, and misunderstood for it (self-reported).** 🗣️ *"growing up with a bunch of
+  macho guys, it was a big turn-off and I didn't want to be that person, **so I deliberately went the
+  opposite direction. For a long time very misunderstood.**"* The games he refused — *"who's got a faster
+  car, who's got a hotter girlfriend"* — and his alternative: *"**rather than compete on that space, I'm
+  going to compete on the inner space.**"* ([[2024-05-14-yt-KCzE-wc0qC0]])
+- **The don't-interrupt agreement (name-free).** 🗣️ *"An agreement that I have with my wife… **when the
+  other person's deep in thought, don't interrupt them.**"* It runs both ways — he moonwalks out of the
+  bedroom when she's meditating, and the children are told *"don't talk to Mom right now."*
+  ([[2024-05-07-yt-1qHDrx9CO_M]])
+- **The 2016 two-person workshop.** 🗣️ Very early, *"the Futur's not even a real concept yet"*, two people
+  paid. He offered to cancel; both wanted it. *"I spent hours with each of them… **and you know how the
+  rest of the story goes with Rodrigo. He's been to my house, we've travelled the world together.**"*
+  ([[2024-08-20-yt-ufQErCvUQnc]])
 
 - ★ **Straight edge (self-reported, 2024-03-21).** 🗣️ Volunteered as full disclosure while interviewing a
   guest in recovery from heroin addiction, specifically to frame an honest question: *"**I'm straight

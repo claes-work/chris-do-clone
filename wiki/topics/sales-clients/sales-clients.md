@@ -3378,6 +3378,209 @@ _Source: [[wiki/sources/2024-03-10-yt-h1voCMAT9Qc]]._
 - **The corollary he draws about free samples**: *"when somebody's like *free sample* — you [say] no,
   because **the free sample is the beginning of you entering into the sunk-cost bias.**"*
 
+## 74. ★★ Client pushback: the three-question triage and the "you're the boss" script (2024-08-04)
+
+_Source: [[wiki/sources/2024-08-04-yt-l1obZ-wNhe0]]. **The most directly usable page on this hub.**_
+
+**The reframe first**: *"you're in the service business… **they're not interfering with your art — you're
+interfering with their money.** They afford you the life that you have."* And the invisible cost of an
+emotional reaction: *"they just say to themselves when they get in the car: **never again.** And whoever
+recommended [you] — **they're dead to me.** So not only have you burned that relationship, **you burned the
+person who introduced you.**"*
+
+★★ **The triage — run it before reacting:**
+
+1. **Is the request reasonable and in scope?** → *"you should just say yes."*
+2. **Is it something you know technically leads to a bad result?** → *"stop, we have to have a serious
+   conversation… **it's not about subjectively me wanting X versus Y — here's the problem, here's what's
+   going to happen.**"*
+3. **Is it purely subjective?** The test: *"if you poll 10 creatives, 10 designers, 10 directors, 10
+   editors and ask which one's best, **you're not going to get the same answer**"* → *"**maybe you just
+   need to let that one go.**"*
+
+★★ **The script** — *"this phrase usually gets you out of a lot of trouble and gets you to have your way,
+and them thanking you for it"*:
+
+> *"**You're the boss. At the end of the day I will do exactly what you asked me to do — but hear me out on
+> this one thing. I'm concerned about X, because it would lead to Y. Having given you that information, I'm
+> relinquishing my responsibility. You need to make the decision that's best for you.**"*
+
+His gloss: *"you have the power, I respect your authority — **but I have to voice something that I know is
+not going to work.**"* Connected by him to **the Challenger Sale**: the aim is *"not to close a sale but
+**to get the clients to think: huh, I never thought of it that way before** — and to make them part of the
+decision-making process."*
+
+★★ **The boundary he puts on his own rule**, which is what makes it principled: *"**there aren't that many
+cases** when you know that in fact this is not going to work. It's **a technical thing**… **Most of the
+time you want to die on the hill for an aesthetic thing** and you believe your taste is superior.
+**Aesthetics are subjective. No one has the ability to say this is always the best solution.**"*
+
+**When to bend**: clients with good taste who push you — *"how far can we push it?"* — are *"**dream
+relationships**… they gave you room to sort of hang yourself."*
+
+- ★ **Vendor → collaborator.** *"**A vendor has no power in the relationship.** We need to shift our
+  mindset from being a vendor to a **collaborator or a consultant**, in which case they're paying you good
+  money for your opinions and ideas and recommendations."*
+- **The evidence case**: the **Audi A7** shoot rescued by photogrammetry — see
+  [[wiki/entities/blind]] and the source page.
+
+## 75. ★★ The accusation-audit GUARD, the courtship argument, and the implicit agreement (2024-09-22)
+
+_Source: [[wiki/sources/2024-09-22-yt-D0irLfdDhUM]]. ⚠️ **This is a guard on material already promoted on
+this hub** (§45-era: the accusation audit / say-it-first, via Chris Voss). **Attach it there; do not read
+the audit without it.**_
+
+**The failure**: sellers open with the disarm — *"you might think I'm about to pitch the heck out of you,
+and **that's not going to happen**"* — which does buy goodwill, *"**but then what happened? You pitched
+them. You burn all of that goodwill.**"*
+
+★★ **And his escalation**: *"I think **you go beyond burning goodwill — you just lied.**"* The calibration:
+*"saying *I'll pick you up* and showing up late — that's burning some goodwill. **Saying *I'll pick you up*
+and going to Disneyland and totally spacing out on you — you just lied. You made a promise and you broke it
+immediately.**"*
+
+★★ **The courtship argument — why it disqualifies rather than merely irritates**: *"**how you do anything is
+how you do everything.** So when you lied to me on the call — **theoretically this is the best our
+relationship is ever going to be.** We're still in the pre-honeymoon phase; **it's courtship right now. And
+if you're going to lie to me during the courtship, what's going to happen when I give you money and I have
+no more leverage over you?**"*
+
+★★ **And the compounding**: *"**don't begin the relationship on a lie, because the lie compounds itself —
+you have to keep lying to maintain the original lie.**"*
+
+★★ **The resolution — the implicit agreement.** Rather than performing the disarm better, remove the
+premise: *"there is **an implicit agreement between buyer and seller** to get on a call. **The buyer has a
+problem and has money to spend; the seller has a solution and wants to receive the money.** This is
+implicit. **So to say *I'm not going to sell you* is a strange thing — you don't even need to.**"*
+
+★ **The motive he identifies**, generous and damning at once: *"**people are so intent on appearing not
+salesy that they become deceptive** — and then… **I no longer feel like you care about me.** Of course I
+know you want to sell me something — **that was kind of the premise of this call.**"* Related: evasiveness
+reads as dishonesty whether or not it is, and the disguised version has a name — *"those **coffee chats**
+that I get like a million requests for."*
+
+## 76. Qualification: the humility argument, and listening as a criterion (2024-05-21 / 2024-05-30)
+
+★★ **Why you ask instead of prescribe** — the missing *why* under §70 (diagnose-before-prescribe):
+*"as quick a learner as I am, **I can never learn more about you, your life and your business than you** —
+you'll forget more than I hope to learn. So for me to come in and say *you must do this* — **it's really
+pompous and arrogant of me, especially because I don't have to live with the decisions that you make. I
+don't have to live with the advice that I'm about to give you.**"* Hence: *"**all I want to do is ask you
+the right question. That's the skill.**"* And why an open-ended scope doesn't frighten him: *"either I know
+somebody who can help, **or the client already has the answer.**"*
+([[wiki/sources/2024-05-21-yt-ZSnGe9bUIuc]])
+
+★ **Frame questions to expose a gap**: *"if you say *who are your customers?* — that's an okay question.
+**But if you ask: who are the customers you'd like to have more of, and why aren't you getting them?** —
+the frame of that question **highlights a problem immediately.**"*
+
+> **Credited, not absorbed:** the **Dan Sullivan question** (*"if we were having this discussion three
+> years from today, looking back — what has to have happened, both personally and professionally, for you
+> to feel happy with your progress?"*) and the **user / confuser / refuser** triage are **Dan Sullivan's**.
+> Chris's contribution is the dissection of *why* each element works — the assumed future relationship, the
+> three-year horizon, and *"personally and professionally"* opening the scope past what a designer can do.
+
+★★ **Not listening in the pitch predicts not listening in the project.** A YouTube-growth agency kept
+selling him revenue after he had said three times that he cared about subscribers and watch time —
+*"**I know that most people are concerned about money. But I'm not most people.**"* The generalisation is
+what makes it a **qualification criterion** rather than a complaint: *"I don't care if you're a plumber, a
+tile person, do roof repairs — **when you say something that is not what I'm saying, I have great concern
+that this is how the whole relationship is going to be.** … **I might have gone for this thing had you
+addressed what I wanted.**"* The mechanism: salespeople dig *"a ditch to bring that path of water back into
+the main river"* — every topic dragged back to their strongest offer.
+([[wiki/sources/2024-05-30-yt-mUOgHjCQKJ4]])
+
+## 77. Objection handling: judo, not karate (talk ~2015–17, published 2024-05-28)
+
+_Source: [[wiki/sources/2024-05-28-yt-4kmc253GZWs]]. ⚠️ **Date the ideas to the talk, not the upload** —
+he describes himself as still making commercials, which places it in the Blind era._
+
+★★ **Why charging in fails.** *"When clients raise an objection **it's like red meat to a dog** — the
+problem is inside your head. They're trying to invalidate you, and **you feel invalidated, so it's a stab
+at your own ego. We're eager to prove them wrong.**"* Compounded by the **consistency principle**: people
+defend positions they know are wrong rather than concede, so pushing hardens them.
+
+★★ **The rock-paper-scissors trap** — why the mid-sized firm can't win any argument head-on: the big firm
+wins *"we're worth it"* and **less risky** (500 people, researchers, global offices); the one-person shop
+wins on price. *"**So we're in the middle, and the middle is a hard place to win.**"* And: *"anytime you
+reduce scope **you actually give in to the price** — and you cannot go as low as a low-cost bidder."*
+
+★★ **Judo instead**: *"karate is a hard martial art — it's about power, breaking boards, bricks, heads.
+**Judo is leverage — you use the other person's momentum against them.** They charge in, and **we embrace
+them, and you pivot, and you throw them to the side.**"* Operationally: **own the objection, then pivot** —
+*"**I just own it.** You're right, we are too expensive… **the trick is how do you pivot out of that.**"*
+With the sequencing warning: changing the subject *without* acknowledging first makes you *"slippery,
+distrustful."*
+
+★★ **The verbatim carrier for retreat-and-follow** (Blair Enns's technique, credited on air) — to a
+million-dollar company: *"**I'm not sure a company of your size can afford us.**"* Why it works:
+*"they're already thinking that anyway. **So now they have to tell you why they think they can afford you —
+they're proving themselves to you. It changes the entire client dynamic.**"*
+
+- ★ **Whisper, don't shout**: *"**if I whisper, they lean in to hear me. If you shout, you push people
+  away.** Selling, convincing — that's shouting."*
+- ★ **The buyer's real risk is personal**: *"somebody who hires you is usually not the owner. **They make
+  the wrong decision — what happens to them? They get fired.**"* Which is why *"less risky"* beats
+  *"better"* so often.
+
+## 78. Referrals and networking, reconciled (talk ~Blind era, published 2024-06-04)
+
+_Source: [[wiki/sources/2024-06-04-yt-C1HsTeIAfoo]]. ⚠️ Another re-published older talk._
+**This is the third referral method in the wiki** — see also the *ask-at-the-moment-of-gratitude* script
+(2024-02-26) and the **finder's fee** (`pricing` §46). **They are one practice at three levels of
+formality**, not three competing methods:
+
+- **The ask** (2024-02-26): frame it as a no-question at the moment of gratitude.
+- ★★ **The scaffold** (here, credited to his business coach): **satisfaction → need → ask for a specific
+  name.** *"**I don't want to just go in for the hard ask.** … *Do you want to give me $10,000, do you want
+  to sleep with me* — **that's too abrasive. You have to scaffold.**"* His script: confirm they're happy →
+  *"I'm expanding my practice, I've recently added another designer"* → ★ *"**is there somebody you know
+  that I could reach out to?**"* — and the phrasing is the trick: *"you don't want to just say *would you
+  mind recommending me* — they get in their car, they have dinner, **and you're out.**"*
+- **The fee** (`pricing` §46): 6–15% when it becomes a standing arrangement.
+- ★ **Timing**: *"the best time to do this is **before the job is over**"* — *"when you're out of sight
+  you're out of mind."* And the uncomfortable reason some clients never refer you: *"**some people are very
+  competitive and somewhat insecure about referring [you], because they want to keep you in their back
+  pocket.**"*
+
+★★ **Networking-as-helping** — his alternative to a construct he dislikes (*"it seems kind of contrived"*):
+*"it feels like I have a hidden agenda… **so what kind of real interaction am I going to have?**"* Instead:
+*"I just want to have a genuine, real conversation and ask about her challenges at work and in life — and
+**while I'm talking to her, I'm thinking: is there anything I can do to help? Do I know somebody who can
+help?**"* Non-commercial example: referring his chiropractor — *"**I don't profit from that, but I'm going
+to connect them. So I'm building a real relationship.**"*
+
+★ **The two silent qualifiers** he runs during that conversation: *"**can they afford me, and do I like
+them?** If I don't like them I don't want to work with them — **I'm not going to ask them for the sale.**"*
+
+> **The payoff, years later**: see [[wiki/sources/2024-07-09-yt-YKoyhr-rqrs]], where the same doctrine is
+> observed from the **receiving** end — *"the real part of it is **you've been a genuinely good human
+> being**, so when things happen to you, you reap the seeds that you've planted"* — with the
+> counter-example of bullying clients later laid off, *"everybody dancing on their grave."*
+
+## 79. The tattoo test: refusing spec work is a function of demand (2024-08-06)
+
+_Source: [[wiki/sources/2024-08-06-yt-Xvqwa8q_j5w]]._
+
+★★ **The test**: find *"one industry where [spec work] is **common, accepted, ethical and required.**"* He
+lands on tattooing — permanent, expensive, high-stakes — and answers as a top-tier artist would: *"**you
+can take a long walk off a short pier, my friend. I don't care who you are, because it takes six months to
+book a thing with me.**"*
+
+★★ **And then he argues against himself, on the audience's behalf** — which is what makes the position
+honest rather than smug: *"there's probably an army of tattoo artists saying: **yeah, Chris, I wish**…
+There's all kinds of artists, animators, designers saying: **sure, when I get there, Chris. I'm not there
+yet — I'm just trying to get my next project**, and they're asking *can you show me what it's going to look
+like?* — **so in a way I'm being asked to pitch.**"*
+
+**The honest form of the position**: ★★ **refusing spec work is a function of demand, not of virtue.** What
+creates the demand is specialisation — *"when you've developed your name, **you have a distinctive style,
+people want *that* from you**"* — and the good ones have **year-long waiting lists**.
+
+★ **The reframe of the whole complaint**: *"maybe **pitching doesn't suck as much when you're winning all
+the time**"* — the objection to pitching is often an objection to **losing**, and those are different
+problems.
+
 ## Cross-links
 
 - [[wiki/topics/pricing/pricing]] — value-based pricing, the desired-future-state → value

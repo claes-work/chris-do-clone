@@ -2163,6 +2163,163 @@ upgrade of **Michael Janda**'s rule from *Burn Your Portfolio*._
   and **you'll always be the best salesperson for your company. Not easy, but you'll always be the
   best.**"*
 
+## 49. ★★ When to leave a category: the trajectory test and the three exit indicators (2024-06-13)
+
+_Source: [[wiki/sources/2024-06-13-yt-Tzb7LmtSF3c]]. **The most concrete career/category-timing framework
+in the corpus**, and both of his own pivots are dated and reasoned by it. Merge with the hub's existing
+**canary-in-the-coal-mine** note — that is the same instinct without a method._
+
+★★ **The trajectory test.** *"If you can map your life out in the next 5 to 10 years **on the trajectory
+you're on right now** — and the way we do that is **we look at the last three years of billings,
+opportunities, profile jobs, awards, anything that matters to you** — and see: **is it trending upward,
+downward, or flat?**"* Then the rule: *"**if it's skyrocketing, don't change anything.** That would be the
+craziest thing to do."*
+
+★ **Evaluate the gain first**, because the mind won't: *"**we're more afraid of losing what we have than the
+potential gain of something we don't have** — that's a **loss-aversion bias.**"* And a warning about the
+standard tool: pros-and-cons lists are structurally biased against change, because *"the human mind is
+wired to reinforce what we already believe — **a form of confirmation bias.** So the pros will be a few
+things and the cons will be really deep, and you get stuck in **paralysis by analysis.**"*
+
+★★ **The three exit indicators**, which he says he has used repeatedly: *"**the size of the opportunity is
+getting smaller, the frequency of the opportunity is getting smaller, and yet the competition continues to
+grow.** Those are three pretty strong indicators that this is going to come to an end — at least for us.
+**At that point I'm looking for the exit door.**"*
+
+**Both pivots, dated by it**: motion design → **brand strategy / brand design / client-direct** (*"that
+buys us a couple of years of time"*) → **content, teaching at scale, social platforms** — *"I can put
+everything into that wagon and take that for the next 20, 30 years."*
+
+★ **And he pre-announces the next one**: *"I'm getting more speaking opportunities at higher-profile
+engagements… **I feel like I'm on the ascent towards an apex that I have yet to meet. But once I hit the
+apex and I go towards the downside, I'm going to change — and you'll know it, because I'll move. And I've
+done this multiple times before.**"*
+
+**A worked example, two days later** ([[wiki/sources/2024-06-11-yt-Xn5EEDAxCGI]]): real-estate video.
+*"We used to do real-estate videos and I would say it's **$40,000** and they would pay us — and now
+**they're not going to pay you $4,000.** The agent will take a few clips with their phone."* All three
+indicators at once.
+
+## 50. ★★ Behind the camera → in front of it (2024-06-11)
+
+_Source: [[wiki/sources/2024-06-11-yt-Xn5EEDAxCGI]]. **The sharpest statement of his 2024 position for
+service providers**, and the practitioner-seat version of §43's smile curve._
+
+★★ *"The big shift here, and this is what you need to hear from me: **you have to be less of
+behind-the-camera talent and more in front-of-camera talent.** There's only one of you in the world, and
+**when you hide that, you're holding back the value.**"*
+
+★★ **The supply argument**: *"there are lots of people who can move the camera, edit, do colour grading, add
+visual effects — **actually there's a whole lineup of them, because they're in my DMs all the time.** But
+**there are very few people who could talk about things in a way that captures your imagination.**"*
+
+★ **Geography follows distinctiveness**: *"I bet they're not flying you across the world to New York, LA,
+Dubai, France, Turkey to talk about the property, **because you ain't that person. They'll just hire a
+local person to do it for much less.**"*
+
+★ **The craft underneath it** (from the Enes Yilmazer contrast): **name things precisely** — Calacatta,
+book-matched, chamfered edge, quarter-sawn, pickled finish — and **place the viewer in the scene**
+(*"imagine you sitting there having breakfast with your family"*). Both presenters are experienced; *"they
+tell a totally different story."*
+
+★ **The playbook decays**: *"to even use the playbook from five years ago **makes you feel really ancient
+and out of touch.**"* Opens with the scolding that gives it its edge: *"**everybody, stop window
+shopping.**"*
+
+## 51. ★★ Operational excellence is table stakes: refinement ≠ innovation (2024-08-15)
+
+_Source: [[wiki/sources/2024-08-15-yt-rDtHxDFdrPw]]. **The frame is Marty Neumeier's** (*The Designful
+Company*) and is credited throughout; **Herbert Simon**'s definition of design is also credited. This
+supplies the **reason** underneath the hub's existing *innovate-don't-iterate* material._
+
+He explains **Six Sigma** properly rather than gesturing at it — Bill Smith at Motorola, championed by GE;
+**DMAIC**; the defect target made tangible (*"in a small library there would be like one misspelled
+word"*); and its stated purpose, *"to make the customers happy."* Plus the **Honda andon-cord** story: every
+employee could stop the line, they pulled it constantly for months — *"and the CEO was like: **oh my God,
+this is the worst idea I've ever employed**"* — until the defects were rooted out and Honda became *"one of
+the world's leading manufacturers known for quality."*
+
+★★ **Then the turn**: *"Six Sigma has become the default standard of how to run a company… **but here's the
+thing: we cannot innovate by making small refinements. We cannot innovate by streamlining products.**"*
+
+★★ **And the historical argument for why that changed**: *"**in the age where there were barriers to
+production — from factories and distribution and customer ignorance — making a higher-quality product was
+all you needed for a competitive advantage. But today** we have to give consumers **something radically
+different.**"*
+
+★ **The broadened definition** (Herbert Simon, credited): design is *"everyone who takes a course of action
+**to change an existing condition to an improved one**"* — so *"**design is how it functions**"*, and it is
+*"not just for people in the visual arts."*
+
+## 52. ★★ Partnership: write the prenup first; and "the Wolf" (2014–2016, told 2024-09-15)
+
+_Source: [[wiki/sources/2024-09-15-yt-XhxS8c_8-SQ]]. The hub records **why he has no partner**; this
+records **how to structure one.**_
+
+★★ **The business prenup, given as standing advice**: *"I always tell young people this — or anybody going
+into business: **if you have a partner, work on the prenup before you go into business together.** What
+does this look like if we were to separate, **so you don't have any fights later on?**"* And the payoff he
+credits it with: *"thankfully we did that — because **when things got tense between the two of us, I had
+something to lean back on.** … And **to his word, he's like: I'm cool** — even though that's not what he
+wanted, **he did agree to it.**"*
+
+★★ **"The Wolf" — what he actually did at Blind during the crossover years.** *"The Blind side was really
+confused as to what I was doing, because they wanted me involved in running the company, writing pitches,
+doing bids… **but my team is very competent.** So I would be pulled in **only as needed.**"* The
+self-description: *"my role was kind of like **the Wolf from *Pulp Fiction*** — you've got to call the
+Wolf… **I don't mean to be curt — we've got to get stuff done. You want me here or not?**"* The trigger,
+concretely: *"the executive producer would say — **I feel like this $600,000 job might go bye-bye. It's
+time to call in Chris.** And I would step in… **okay, we got it back on the right path. You guys keep going.
+I'm out.**"*
+
+★ **Two and a half years to traction**, and the motive for the pivot stated plainly: *"**doing client work
+is fine, but it's not freeing. It's not this thing of self-expression.**"*
+
+## 53. Scarcity for unlimited-supply products: the double cap (2024-08-20 / 2024-08-25)
+
+_Extends §44. Sources: [[wiki/sources/2024-08-20-yt-ufQErCvUQnc]] (events) and
+[[wiki/sources/2024-08-25-yt-4vrxXUBRbgs]] (products). The sequence remains **Daniel Priestley's**._
+
+★★ **The double cap** — how scarcity works for something with infinite supply: a **hard ceiling** *and* a
+**per-period intake**. Applied to the Pro Group: *"in no time will we ever take more than **a thousand
+members**… but the second cap is **each quarter we set aside a finite number.**"*
+
+> ⚠️ **RECONCILIATION — the intake rate changed, and it answers an open question.**
+> **March 2024** ([[wiki/sources/2024-03-14-yt-0wse5TRJYHE]]): **30 per month**, with his own caveat —
+> *"**ask me in six months if it's working. I do not know.**"*
+> **August 2024** ([[wiki/sources/2024-08-25-yt-4vrxXUBRbgs]]): **60 per quarter** — i.e. **20/month, a
+> third tighter** — under the same 1,000 hard cap.
+> **Both are recorded with their dates.** Five months on they kept the cap and tightened the rate, which
+> is the practical answer to the caveat he left open. **Do not overwrite the March figure.**
+
+★★ **Undersell deliberately** — and note the **buyer-side** justification, which is what makes it
+persuasive rather than manipulative: *"if you think you can do 40, **sell 20.** If you think you can do 20,
+**sell 10.** … If someone thinks **10 people get to show up — I'm going to be one of 10, so the odds of you
+addressing my individual needs is going to be 10 times better.** That's more valuable for me as an
+attendee."*
+
+★ **The resale mechanic**, run at **zero margin on purpose**: when a waitlister offers a premium to jump
+the queue, offer the existing cohort the chance to sell their spot — *"they get their money back **and an
+additional $1,000. You don't even need to keep the profit.**"* Why: *"**even though they literally didn't
+pay more, they feel like they got more.**"*
+
+★ **Commit to the number** (Priestley's rule): *"**the number is not important — the commitment to the
+number is important.** … **Do not get greedy.**"*
+
+★★ **Design *with* people, not *for* them.** The European tour was **polled into existence** rather than
+booked — *"until they speak up, **it's all speculative**… you book the venue, make the travel arrangements,
+and then no one shows up. **It's a blood bath.**"* The principle: *"**we're going to design and plan the
+event *with* people, not *for* them.** … **You exist to serve the community — and if the community is never
+asked their opinion, you're just making a wild guess.**"* With the commitment mechanism attached: someone
+who publicly says *"if you come to Paris, I will be there"* has *"the need to be consistent with
+themselves."* See [[wiki/entities/the-futur]] for the tour's operational record.
+
+> ⚠️ **TENSION — volume vs. scarcity, both running in 2024 (recorded, not resolved).** The Pro Group is
+> **capped**; the [[wiki/sources/2024-07-10-yt-7Gi-lHLgTeI]] membership push is an explicit **volume play**
+> (*"if we got less than 5% of you… let's say 100,000 people"*). **Not a contradiction — different
+> products with different economics**: coaching is capacity-bound and priced on intimacy; a subscription
+> is capacity-free and priced on access. Hold both; don't collapse them into one doctrine.
+
 ## See also
 
 - [[wiki/topics/pricing/pricing]] — value-based pricing, "price the client not the job,"

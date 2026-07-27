@@ -4,7 +4,7 @@ domain: pricing
 domains: [pricing]
 created: 2026-07-14
 updated: 2026-07-27
-tags: [pricing, value-based-pricing, risk-share, performance-deal, abhor-discounts, uncapped-upside, two-option-close, all-profit-comes-from-risk, spend-on-what-you-value, price-the-client, anchoring, anchoring-reversal, verbal-upfront-pricing, discount-for-uncertainty, raising-rates, objection-handling, negotiation, price-bracketing, competitive-positioning, charge-for-discovery, embrace-and-pivot, storytelling, budget-scope-timeline, budget-first, budget-first-vs-relationship, order-taker-vs-advisor, underpricing-signal, resentment-signal, cant-lose-a-job-you-never-had, value-scale-of-questions, discovery-as-a-service, strategy-pricing, get-paid-to-think, price-as-qualifier, double-the-rate-ladder, inputs-vs-outputs, desired-future-state, train-of-thought, feeling-thought-reaction, limbic-brain, price-options, attention-ownership, price-first-scope-after, stop-hourly, socratic-hourly, value-appreciation, scope-creep, separate-service, de-scope, cost-stack, positioning-value, go-to-person, double-dont-inch-up, buyer-decides-fair, charge-more-virtuous-loop, referral-budget-qualification, self-worth-ceiling, education-not-worth, objection-by-inversion, invent-systems, royalty-vs-licensing, packaging-fees, say-it-like-a-fact, context-sets-value, horse-painter, charity-vs-clients, barter-menu, exposure-is-an-act, equity-in-lieu-of-fee, pro-bono-ratio, bid-buildup, hire-at-or-above-level, investor-mindset, compare-against-yourself, top-price-first, wine-list-reset, subjective-value, doctor-counter, envy-reframe, cost-vs-price-vs-value, seller-sets-price-buyer-sets-value, profit-from-risk, cost-plus, production-fee, padded-day-rates, statement-of-work, fixed-plus-variable, aicp-bid-form, top-sheet, karen-rainey, present-day-rate-card, retreat-and-follow, phased-discovery-bid, important-urgent-grid, budget-live-in-room, pain-threshold, facilitator-as-advocate, money-not-budget, sliding-scale-by-risk, rush-charge, pain-in-the-butt-charge, every-dollar-returns-10x, dan-mall, course-prelaunch-pricing, price-low-then-raise, verbal-commitment-against-lowball, fu-call, rom-bid, swag, scope-variation-funnel, contingency-fee, guarantee-handling, price-the-risk, prorate-guarantee, roi-return-framing, paper-the-guarantee, cogs-gross-margin, low-expenses-leverage, walk-away-power, pricing-ladder, career-stage-risk-ladder, input-output-outcome, profit-participation, licensing-usage-rights, supply-chain-margin, ten-to-hundred-markup, graduate-from-hourly, opaque-estimate, three-yeses-rule, close-rate-underpricing, design-thinking-anchors, unbundle-workshop-phases, price-as-signal, labor-theory-of-value, goldilocks-choice-architecture, irresistible-offer, ten-x-divide-by-ten-redesign, vertical-integration-offer, quality-of-questions-price-lever, diagnose-before-prescribe, passionately-detached, referral-finders-fee, switch-verticals, high-tide-all-boats, inversion-thinking-pricing, first-100k-system, minimum-level-of-engagement, close-ratio-funnel-math]
+tags: [pricing, value-based-pricing, two-bs, baseline-benchmark, lifetime-customer-value, olympic-scoring, cost-per-acquisition, who-takes-the-risk, sales-rep-percentage, guarantees-are-priced, collapsing-tier, price-as-qualifier, billing-by-the-hour-is-malpractice, tim-williams, risk-share, performance-deal, abhor-discounts, uncapped-upside, two-option-close, all-profit-comes-from-risk, spend-on-what-you-value, price-the-client, anchoring, anchoring-reversal, verbal-upfront-pricing, discount-for-uncertainty, raising-rates, objection-handling, negotiation, price-bracketing, competitive-positioning, charge-for-discovery, embrace-and-pivot, storytelling, budget-scope-timeline, budget-first, budget-first-vs-relationship, order-taker-vs-advisor, underpricing-signal, resentment-signal, cant-lose-a-job-you-never-had, value-scale-of-questions, discovery-as-a-service, strategy-pricing, get-paid-to-think, price-as-qualifier, double-the-rate-ladder, inputs-vs-outputs, desired-future-state, train-of-thought, feeling-thought-reaction, limbic-brain, price-options, attention-ownership, price-first-scope-after, stop-hourly, socratic-hourly, value-appreciation, scope-creep, separate-service, de-scope, cost-stack, positioning-value, go-to-person, double-dont-inch-up, buyer-decides-fair, charge-more-virtuous-loop, referral-budget-qualification, self-worth-ceiling, education-not-worth, objection-by-inversion, invent-systems, royalty-vs-licensing, packaging-fees, say-it-like-a-fact, context-sets-value, horse-painter, charity-vs-clients, barter-menu, exposure-is-an-act, equity-in-lieu-of-fee, pro-bono-ratio, bid-buildup, hire-at-or-above-level, investor-mindset, compare-against-yourself, top-price-first, wine-list-reset, subjective-value, doctor-counter, envy-reframe, cost-vs-price-vs-value, seller-sets-price-buyer-sets-value, profit-from-risk, cost-plus, production-fee, padded-day-rates, statement-of-work, fixed-plus-variable, aicp-bid-form, top-sheet, karen-rainey, present-day-rate-card, retreat-and-follow, phased-discovery-bid, important-urgent-grid, budget-live-in-room, pain-threshold, facilitator-as-advocate, money-not-budget, sliding-scale-by-risk, rush-charge, pain-in-the-butt-charge, every-dollar-returns-10x, dan-mall, course-prelaunch-pricing, price-low-then-raise, verbal-commitment-against-lowball, fu-call, rom-bid, swag, scope-variation-funnel, contingency-fee, guarantee-handling, price-the-risk, prorate-guarantee, roi-return-framing, paper-the-guarantee, cogs-gross-margin, low-expenses-leverage, walk-away-power, pricing-ladder, career-stage-risk-ladder, input-output-outcome, profit-participation, licensing-usage-rights, supply-chain-margin, ten-to-hundred-markup, graduate-from-hourly, opaque-estimate, three-yeses-rule, close-rate-underpricing, design-thinking-anchors, unbundle-workshop-phases, price-as-signal, labor-theory-of-value, goldilocks-choice-architecture, irresistible-offer, ten-x-divide-by-ten-redesign, vertical-integration-offer, quality-of-questions-price-lever, diagnose-before-prescribe, passionately-detached, referral-finders-fee, switch-verticals, high-tide-all-boats, inversion-thinking-pricing, first-100k-system, minimum-level-of-engagement, close-ratio-funnel-math]
 ---
 
 # Pricing — hub
@@ -2189,6 +2189,67 @@ door, on a stated $100 average order, with **no cap**.
 life and my experience that **people tend to spend money on what they value**"* — auditable against what
 the client has already bought (the fridge, the floors, the car outside). A small budget is therefore
 **data about importance**, not about the wallet.
+
+## 49. ★★ The economics under a performance deal: LTV → net margin → CPA (2024-05-09)
+
+_Source: [[wiki/sources/2024-05-09-yt-GoX94-uZhb4]] — the whiteboard companion to the low-ball roleplay
+(`sales-clients` §71). **This is where §48's risk-share gets its justification.**_
+
+★★ **The two B's — baseline and benchmark** (his coinage). *"We have to know **where you are and where
+you'd like to be.**"* Current state → desired future state. And he works the **failure modes** honestly: if
+the baseline is 30 and a bad month brings 27, the video's three new customers earn the vendor **nothing**;
+if 33 of the client's *existing* customers show up and the video sends none, **the vendor gets paid
+anyway.** *"You see how complicated this is."*
+
+★★ **The chain**: **lifetime customer value** (gross ÷ customers, with **"Olympic scoring"** — drop the top
+and bottom two) → **net, not gross** (after vendors, after **paying yourself a fair salary for someone
+doing your work**, after overhead) → **cost per acquisition.** The governing rule: *"**as long as you can
+spend less to acquire a new customer than what your net margins are, you should be happy to do that deal all
+day long.**"* His own past error, admitted: *"I thought this at one point too — **250,000 is how much I
+profit. It's not.**"*
+
+★★ **Who actually takes the risk** — his answer to the comment section. "Joe the sales rep" **doesn't eat
+until you eat**, and eats the smallest slice; he can be burned twice, once on wasted opportunities and once
+on reputation — *"that client comes back and says *your people are not good* — **what does that do to my
+reputation?**"* Hence: *"**to work for free in hopes that you will get a new client — that is risk.**"*
+
+★★ **Sales-rep economics, from his own company**: *"we were doing anywhere between **7 to 12% of gross
+revenue** to pay them… **and we built a multi-million dollar business using this exact model.**"* Five reps
+(West Coast, Midwest, East Coast, Europe, Asia). Comparison: **Amazon pays affiliates ~4%**, rising with
+volume. Blind's revenue, self-reported: *"**about $5 million a year.**"*
+
+★★ **Guarantees are priced, not given.** The car analogy: a five-year warranty covers **manufacturer
+defects only** — a pothole that destroys a rim ($5,000, 24 hours after purchase) is yours. That is what
+insurance and extended warranties are for: *"**you're buying peace of mind.**"* So: *"if you want a
+guarantee, what should we charge? **A lot more money — and it can go up exponentially.**"*
+**This is distinct from §41** (which prices risk you absorb on a normal engagement) and from §48 (where you
+take 100% of the risk and are paid in upside).
+
+★ **The honest framing of the whole exercise**: the 50%-in-perpetuity opening was *"a negotiation point"*;
+the realistic landing zone is a **collapsing tier** (50% on the first $5K, 40% on the next, stepping down);
+and the point of the structure was always *"**to let them know that $1,000 is really cheap. Just pay the
+$1,000 already.**"* Plus: *"**if you don't pay upfront, you'll pay some way.**"*
+
+★ **Protection if you do the deal**: an attorney-drafted contract, a right to **audit the books**, and an
+agreed dispute path — with the caveat that matters more: *"**if we have a funny feeling, I don't care how
+good the contract is — it's not going to save you.**"*
+
+## 50. Price as the qualifier — "the best way to say no" (2024-07-05)
+
+★★ *"When we're hot… **you can continue to raise your rate until you find whatever theoretical ceiling**
+you're going to find. **And you can only do that because you get to say no to everybody — and the best way
+to say no is to raise your price**, so only the ones who can afford you will say yes. **You put the decision
+in their court.**"* ([[wiki/sources/2024-07-05-yt-93LTb6AjqZ8]])
+
+The cleanest statement of price-as-qualifier in the corpus; it belongs with the charge-more canon (§45) and
+the double-don't-inch-up rule.
+
+★ **And the co-created compression** of §47's hourly-billing argument, from the Tim Williams conversation:
+★★ *"**in a way, billing by the hour is malpractice.**"* ⚠️ **Flag as co-created** — **Tim Williams** sets
+it up (*"if a doctor refuses to understand the paradigm, that's malpractice"*) and Chris completes it.
+Williams's own formulations — *"**time is not a cost, time is a constraint**"* and the
+paradigm-precedes-practice argument — **stay his.**
+([[wiki/sources/2024-06-18-yt-DeriW0XyR_k]])
 
 ## Worked figures & self-reported claims
 

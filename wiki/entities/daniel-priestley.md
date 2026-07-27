@@ -29,6 +29,7 @@ repeatedly.
 | 2024-03-10 | [[../sources/2024-03-10-yt-h1voCMAT9Qc]] | Chris teaches *Oversubscribed* to the boot camp; points the room at the book and the earlier podcast |
 | 2024-03-14 | [[../sources/2024-03-14-yt-0wse5TRJYHE]] | The full staging-area sequence taught live, and applied to the Pro Group on camera |
 | 2024-04-04 | [[../sources/2024-04-04-yt-LJVP2wRk7Cc]] | The source interview — a full lead-generation masterclass with a live ScoreApp demo |
+| 2024-06-30 | [[../sources/2024-06-30-yt-BwrXv5n5eFI]] | **Fourth appearance** — the sales process: current situation → desired situation → obstacle → criteria |
 
 Two earlier videos are referenced by Priestley himself on the 2024-04-04 page (*"you and I, we've done two
 videos prior to this one"* — a Key Person of Influence episode and an *Oversubscribed* episode). **Those
@@ -58,6 +59,16 @@ are ledger candidates**; locate and ingest them when the ledger reaches their da
   own Key Person of Influence scorecard has run seven years and ~**120,000** completions.
 - **The surplus-demand move**: when it sells out, **do not increase capacity** — offer existing buyers
   **2×** to sell their ticket back, taking no margin.
+- ★★ **The four-bucket sales structure** (2024-06-30): organise everything a prospect says into **current
+  situation → desired situation → obstacle → criteria** — *"sometimes I'm jumping around, but **I'm always
+  organising it in my mind.**"* With ★ **the minimum effective dose**: *"you only need a **minimum effective
+  dose** of information."* Sometimes three minutes; sometimes thirty and still digging.
+- ★★ **"Take it away from me"** — rather than arguing your own value, hand the case to the prospect:
+  *"you're a super smart guy, you've got a 30-year background and amazing people — **why haven't you been
+  able to do this on your own?**"* — *"and **they start making the case that actually it's really hard for
+  us to do this on our own.** I love to take it away from me."*
+- ★ **Say when you're lost**: *"I know this is frustrating, I'm asking all these questions and **I'm still
+  not getting it**"* — which is what unlocks the distinction.
 - ★ **The expert's blind spot**: *"they've been in their business so long that **they can't empathise with
   people who don't know what it's like to not know**… even when you think you're dumbing it down, you
   don't dumb it down anywhere near enough."*

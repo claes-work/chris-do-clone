@@ -102,6 +102,65 @@ die on that sword: my company The Futur is nothing without the brand and the rel
 with our consumers.**"* See [[../topics/business]] §47 for the typography-course thought experiment that
 generalises it.
 
+## ★★ How the on-camera personas were built — and the prenup (added 2026-07-27, pass 14)
+
+_Source: [[../sources/2024-09-15-yt-XhxS8c_8-SQ]] (Chris as a guest on the 505 podcast). **Self-reported.**
+This is the same partnership told from the *design* and *aftermath* side; the cake-rule account above is
+the *split mechanism*._
+
+### The refusal, first
+
+*"I'm like — **no, I'm not going to do that. It's stupid, dude. No one that's professional makes YouTube
+content. It's all these wannabes, people who have never made anything with their life, and this is their
+outlet.**"* Jose pushed anyway.
+
+### The personas were cast, on television logic
+
+*"Initially I'm putting on my producer-director hat… **I said okay, we need to figure out our personas** —
+and so **it was crafted and engineered, very much so.** If you watch the old episodes you'll see: **oh, he
+is showing up as somebody.**"* The reason: *"**in TV, chemistry is really important. We don't want two of
+the same people.**"*
+
+The contrast he built on: *"**I'm an INTJ, he's an ENFP** — literally the opposite on the Myers-Briggs. I'm
+introverted, he's super extroverted, he's loud, he's obnoxious, **he's Puerto Rican, I'm Vietnamese. We're
+both immigrants — that's about the similarity there.**"* Reference point: **The Odd Couple**. The direction:
+*"you lean more into that personality — **the hippie, everything goes**… **I'm a business guy, and I need an
+excuse to wear suits.** I like my suits and I don't have enough opportunities to wear them, **so I'll show
+up as a suit.**"*
+
+> ★★ **The qualifier that keeps this consistent with his authenticity doctrine**: *"**they are authentically
+> us — just hyper versions of us.** And it was a thought, **but that's as far as the thought went.** It
+> wasn't like brand pillars and all that kind of stuff."* See the full reconciliation in
+> [[../topics/branding]] F51.
+
+### ★★ The business prenup
+
+*"I always tell young people this — or anybody going into business: **if you have a partner, work on the
+prenup before you go into business together.** What does this look like if we were to separate, **so you
+don't have any fights later on?** And thankfully we did that — because **when things got tense between the
+two of us, I had something to lean back on.**"* And the credit he gives Jose: *"**to his word, he's like:
+I'm cool** — even though that's not what he wanted, **he did agree to it.**"*
+
+### Two and a half years, and the rename
+
+*"Eventually — and when I say eventually, **two and a half years later** — we're starting to make traction.
+**This is when the plot starts to thicken**, where the [Blind] team could say: **maybe we should get
+involved**, it looks like a lot of fun over there. And **doing client work is fine, but it's not freeing.
+It's not this thing of self-expression.**"*
+
+On keeping the name: *"he's like — **do you want to use the name?** I said **it's probably better for me to
+start fresh, so that people don't have the same association.**"*
+
+### ★★ A year of audience hostility
+
+*"For the first year **people were really unhappy with me. *Why did you break us up?*** … It's like **Mom
+and Dad had a fight and now we the children have to be the survivors of a divorced parenting.** They're
+like: *where is he? Bring him back.* And it's like — **it's a new channel, bro. I'm running things now, and
+it's different.**"*
+
+With the concession: *"a lot of people liked him, and they liked us. They were like: **you're better
+together.** And **for parts of it we were better together** — but we had such different working styles."*
+
 ## See also
 
 - [[the-futur]] — successor

@@ -177,3 +177,57 @@ persona clones Chris Do only).
 - [[the-futur]] — successor focus of Chris Do's career
 - [[the-skool]] — the 2014–2016 education venture that ran alongside Blind
 - [[futur-instructors]] — Blind alumni who became Futur instructors
+
+## ★★ Added 2026-07-27 (synthesis pass 14) — self-reported
+
+### "The Wolf" — Chris's actual role in the crossover years (2014–2016)
+
+*"The Blind side was really confused as to what I was doing, because they wanted me involved in running the
+company, writing pitches, doing bids… **but my team is very competent.** So I would be pulled in from time
+to time, **only as needed.**"* His self-description: *"my role was kind of like **the Wolf from *Pulp
+Fiction*** — you've got to call the Wolf… **I don't mean to be curt — we've got to get stuff done. You want
+me here or not?**"* The trigger: *"the executive producer would say — **I feel like this $600,000 job might
+go bye-bye. It's time to call in Chris.** And I would step in… **okay, we got it back on the right path.
+You guys keep going. I'm out.**"*
+([[../sources/2024-09-15-yt-XhxS8c_8-SQ]])
+
+### Revenue and sales-rep model
+
+*"On an average year my client-service company called Blind would do about **$5 million in revenue a
+year.**"* Sales reps took **7–12% of gross** — *"depending on who they were, how hot they were, and how
+desperate we were to get them"* — and there were **five**: West Coast, Midwest, East Coast, Europe, Asia.
+*"**We were happy to pay this, and we built a multi-million dollar business using this exact model.**"*
+([[../sources/2024-05-09-yt-GoX94-uZhb4]])
+
+### The Audi A7 shoot — the origin of a standing rule
+
+Shooting the European debut of the **A7** on a budget that wouldn't stretch to a techno-crane or motion
+control, only a handheld jib. The footage came back *"kind of unusable"*; the VFX supervisor rescued it by
+**photo-mapping frames onto a 3D CG car** (photogrammetry). His verdict afterwards: it was *"**not
+necessary** to shoot it on a jib arm if we couldn't use a techno-crane"* — they should have shot **stills**.
+The rule they wrote from it: *"**when we know better — when we know this is going to lead to a bad result —
+do not agree, do not comply.**"* With the boundary Chris puts on it: *"**there aren't that many cases** when
+you know that in fact this is not going to work. It's **a technical thing**… **Aesthetics are
+subjective.**"*
+([[../sources/2024-08-04-yt-l1obZ-wNhe0]] · see [[../topics/sales-clients]] §74)
+
+### Before Blind: the Novacom offer
+
+Freelancing at **Novacom**, offered full-time at ~**$50,000** (he was on ~**$40K**); countered **$85,000**
+on the basis that **Cole & Weber** had already offered him that; then left to found his own company before
+a counter could land. **He did not start Blind out of necessity.** Full account in `persona/biography.md`.
+([[../sources/2024-06-20-yt-bjncTuOgd7A]])
+
+### Management colour
+
+- Creative directors **trained and promoted internally**; he declined to be pulled over them on a lost
+  pitch because it *"would undermine what they're trying to do and be a blow to her self-confidence."*
+  Six-figure pitches at **$200K–$400K**; an executive producer reviewed all outgoing work.
+  ([[../sources/2024-07-14-yt-JcStdLbdN_U]])
+- ⚠️ **An unflattering pattern he discloses himself**: staff who knew he was conflict-averse would book
+  things he had refused; resentment accumulated; *"**eventually I help the person find another job outside
+  of our company. And this happens over and over.**"* Self-reported, and recorded as such.
+  ([[../sources/2024-08-13-yt-i10g2BVfWVI]])
+- Two decades of observing designers with *"a very narrow window of things that they'll try"*, for fear
+  that trying something else would expose them as a fraud.
+  ([[../sources/2024-07-16-yt-eENQx3vWRHE]])

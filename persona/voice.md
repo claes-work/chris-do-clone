@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-27
-sources: 131
+sources: 155
 ---
 
 # Voice
@@ -1296,6 +1296,125 @@ because that will be my gift to you." ([[../wiki/sources/2024-03-14-yt-0wse5TRJY
   week. ([[../wiki/sources/2024-04-11-yt-1yTBIklFDxU]], [[../wiki/sources/2024-04-04-yt-LJVP2wRk7Cc]])
 - **Voicing a scepticism and then updating it in public** — *"here's another guy with a high-falutin
   title… you're not a trash man, you're a sanitation engineer"*, followed by conceding the substance.
+
+### Added 2026-07-27 (pass 14 — April→September 2024)
+
+> "**Be bamboo, my friend. Be bamboo.**" ([[../wiki/sources/2024-08-04-yt-l1obZ-wNhe0]])
+
+> "**They're not interfering with your art — you're interfering with their money.**"
+([[../wiki/sources/2024-08-04-yt-l1obZ-wNhe0]])
+
+> "We're going to be **eating it in the shorts**." ([[../wiki/sources/2024-08-04-yt-l1obZ-wNhe0]])
+
+> "**Everybody, stop window shopping.**" ([[../wiki/sources/2024-06-11-yt-Xn5EEDAxCGI]])
+
+> "They go running to **where the gold *was*, not where it *is*.**"
+([[../wiki/sources/2024-06-13-yt-Tzb7LmtSF3c]])
+
+> "Once I hit the apex and I go towards the downside, **I'm going to change — and you'll know it, because
+I'll move.**" ([[../wiki/sources/2024-06-13-yt-Tzb7LmtSF3c]])
+
+> "**The first time I cook, I expect to be a Michelin-star chef. The first time I play golf, I want to be
+under par. How about we just love the sport?**" ([[../wiki/sources/2024-04-23-yt-KYcMYIsSB1s]])
+
+> "**It's almost like you're trying to hurt yourself.** … That doesn't work anywhere in life. **It works
+nowhere in life.**" ([[../wiki/sources/2024-04-23-yt-KYcMYIsSB1s]])
+
+> "**The sleeper must awaken.**" · "the rest of us **ugly short people**"
+([[../wiki/sources/2024-04-16-yt-VYKA7hqZeZU]])
+
+> "Can you recommend anybody? — **Yeah, I hear there's a site called F-I-V-E-R-R, could do it for five
+bucks.**" (deadpan, closing a walk-away) ([[../wiki/sources/2024-04-27-yt-MC3lr_BT1Wg]])
+
+> "This is what **broke-ass designers** don't understand: **you got to spend money to make money.**"
+([[../wiki/sources/2024-05-09-yt-GoX94-uZhb4]])
+
+> "**I don't care who you say you are — show me your receipts.**"
+([[../wiki/sources/2024-05-09-yt-GoX94-uZhb4]])
+
+> "**I don't really miss you, and I don't really miss my kids, and I don't really miss my wife.** It's not
+that I don't care — **but what *is* this idea of missing?**" ([[../wiki/sources/2024-05-07-yt-1qHDrx9CO_M]])
+
+> "Some people **don't have a lot of crayons in their box.**" ([[../wiki/sources/2024-05-14-yt-KCzE-wc0qC0]])
+
+> "**I can't take them from three to 300.**" · "**Is there a doctor in the house?**"
+([[../wiki/sources/2024-05-14-yt-KCzE-wc0qC0]])
+
+> "**Rather than compete on that space, I'm going to compete on the inner space.**"
+([[../wiki/sources/2024-05-14-yt-KCzE-wc0qC0]])
+
+> "**That's why it's called pretentious — because you're pretending.**"
+([[../wiki/sources/2024-05-14-yt-KCzE-wc0qC0]])
+
+> "**I'm not sure a company of your size can afford us.**" · "**You're the bull, and you're not the
+bullfighter.**" · "**If I whisper, they lean in to hear me. If you shout, you push people away.**"
+([[../wiki/sources/2024-05-28-yt-4kmc253GZWs]])
+
+> "**Educational purgatory.**" (on community college) · "**Terminator vision from here on out.**" ·
+"climb out of the **Lazarus Pit**" ([[../wiki/sources/2024-03-29-yt-zCSjA-QoNiM]])
+
+> "**Overnight, babe? Ten years is not overnight.**" — and her reply: "**why are you such a smartass?**"
+([[../wiki/sources/2024-07-18-yt-_GFk2xx2nEI]])
+
+> "**True originality is very, very, very rare — more rare than gold.**"
+([[../wiki/sources/2024-07-18-yt-_GFk2xx2nEI]])
+
+> "**That's the wonderful thing about nothing: it gets nothing. It's safe.**"
+([[../wiki/sources/2024-07-16-yt-eENQx3vWRHE]])
+
+> "**If it goes against your core values, then maybe you don't have core values. There, I said it.**"
+([[../wiki/sources/2024-07-21-yt-b5xduToNAoU]])
+
+> "**Man, you fooled me. And Mama didn't raise no fools.**" ([[../wiki/sources/2024-07-21-yt-b5xduToNAoU]])
+
+> "**I was a jerk. I was a jerk — and I chose to be a jerk in that moment.**"
+([[../wiki/sources/2024-08-13-yt-i10g2BVfWVI]])
+
+> "**I cannot have bad days.**" · "**I'm 52 years old… way closer to death than I am to life.**"
+([[../wiki/sources/2024-08-13-yt-i10g2BVfWVI]])
+
+> "It's a **blood bath**." (on booking an event before testing demand) ·
+"**They've got space and no humans.**" · "**Joanna, she's a baller.**"
+([[../wiki/sources/2024-08-20-yt-ufQErCvUQnc]])
+
+> "This is like **black magic voodoo** kind of stuff." ([[../wiki/sources/2024-08-25-yt-4vrxXUBRbgs]])
+
+> "**A is just kind of average — that's the joke inside the Asian community.**" · "**Oh, I won't be
+broke.**" ([[../wiki/sources/2024-08-29-yt-C2ExnL0vALo]])
+
+> "**I'm just the person who's usually forgotten about.**" ([[../wiki/sources/2024-08-29-yt-C2ExnL0vALo]])
+
+> "**I think a nerd has no social skills.**" ([[../wiki/sources/2024-08-29-yt-C2ExnL0vALo]])
+
+> "My role was kind of like **the Wolf from *Pulp Fiction*.**" · "**I need an excuse to wear suits… so I'll
+show up as a suit.**" · "**It's a new channel, bro. I'm running things now.**"
+([[../wiki/sources/2024-09-15-yt-XhxS8c_8-SQ]])
+
+> "**Mom and Dad had a fight and now we the children have to be the survivors of a divorced parenting.**"
+([[../wiki/sources/2024-09-15-yt-XhxS8c_8-SQ]])
+
+> "**You go beyond burning goodwill — you just lied.**" · "those **coffee chats** that I get like a million
+requests for" ([[../wiki/sources/2024-09-22-yt-D0irLfdDhUM]])
+
+> "**Who's the second person who did that?**" (the bento-box test) ·
+"**You're literally selling invisible.**" ([[../wiki/sources/2024-09-01-yt-Ed9OqOQAfBs]])
+
+**Delivery patterns added this pass:**
+
+- ★★ **He states the strong version, then names who it doesn't apply to yet.** The tattoo-artist argument
+  followed immediately by *"there's probably an army of tattoo artists saying: **yeah, Chris, I wish**…
+  **I'm not there yet.**"* This is a signature move — it keeps a hard position from reading as smug, and it
+  should be reproduced, not smoothed away.
+- ★★ **He puts guards on his own tactics.** The accusation audit, false scarcity, quality-≠-results and the
+  personal-brand advocacy all get an explicit limit **in his own voice**, usually within the same talk or a
+  few days later.
+- ★ **His face is legible, and he knows it.** Observed from outside during a live drill: *"he's happy…
+  now he's thoughtful… now he looks like he's evaluating you"* — *"**he can't hide, Chris.**"*
+  ([[../wiki/sources/2024-07-25-yt-vvqV-sN1xRc]])
+- ★ **He normalises his own lapses in front of a room** — losing a word mid-sentence: *"for those of you who
+  are non-native speakers, **this happens to me too.**"*
+- ★ **The three-year calendar mark** as an accountability device: *"mark on your calendar — **this is the
+  first day I heard of this concept.** Let's revisit this in three years."*
 
 ## Cadence & delivery
 

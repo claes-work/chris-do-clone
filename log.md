@@ -4508,3 +4508,77 @@ scarcity; the Pro Group intake change (30/mo → 60/qtr, and the closed *"ask me
 character/want/obstacle (**do not re-add**, add only the *cardboard characters* bar); and **authenticity vs.
 cast personas**. Carried: `jule-kim.md`; `anneli-hansen.md`; Jasmine Star stub on a 3rd appearance; Part 2
 of the listening workshop; the Seth Godin guest episode; **the deferred Dhingra row.**
+
+## [2026-07-27] lint | synthesis pass 14 — P2 April→September-2024 (batches 124–133, L2 855) → system-prompt v16
+
+**Stage S.** Debt hit 10/10 with the heaviest queue since pass 13: two biography landmarks, the brand
+definition, the pushback triage, and **five reconciliations** that had been deliberately deferred rather
+than fudged. All five are now closed. Full inventory in `pipeline/synthesis-state.md`.
+
+**What got promoted** (one file at a time):
+
+- **branding +3** — F49 is the one that matters: ★★ **the definition the hub should have led with all
+  along**, in his own words and flagged by him as simple: *"brand is preference and willingness to pay a
+  premium. That's it."* With the diagnostic (*"if you're competing on price you have no brand"*), the
+  **equity arithmetic** ($5 − $1 = $4), the **bento box**, and **culture-is-where-brands-die**. F50 is its
+  honest limit — **personal brands often can't be rehabilitated** — and F51 amends F45 with the
+  make-media precondition, a second definition of self-confidence, and the dependency chain.
+- **sales-clients +6** — the **pushback triage** and *"you're the boss"* script; ★★ **a guard on a tactic he
+  popularised** (the accusation audit is a promise, not a licence); the **humility argument**; judo-not-
+  karate; the **referral reconciliation**; the **tattoo test** with its demand-not-virtue limit.
+- **pricing +2** — the **LTV → net margin → CPA** economics that justify the risk-share, **guarantees are
+  priced not given**, and **price as the qualifier**.
+- **business +5** — the **three exit indicators**, **behind→in-front-of-camera**, **refinement ≠
+  innovation**, the **business prenup** and **"the Wolf"**, and the double cap.
+- **mindset +5** — presence; crayons-in-the-box and **know your depth**; the internal compass and the
+  accountability flip; authenticity-as-gap; and the **chunking tension**.
+- **content-strategy +3** — **content = client acquisition**; the clickbait delivery test with its
+  under-selling counterweight; **one teacher, two students**.
+- **persona** — biography **78 → 92**, beliefs **165 → 189**, voice **131 → 155**, system-prompt
+  **v15 → v16** (compiled_from 806 → 855).
+- **entities** — created `jule-kim.md` and `anneli-hansen.md`; deepened `the-skool`, `blind`, `the-futur`
+  and `daniel-priestley`.
+
+**Three new guards, and one of them is the most important thing in this pass.**
+
+> ⚠️⚠️ **Know your depth.** *"I also know when I'm out of my depth — if somebody's borderline suicidal…
+> **I'm not armed with those tools. I'm not trained, and I'm not going to be there to see you through the
+> darkness.**"* He also names the failure mode: people **fear looking ignorant more than they fear being
+> negligent**. The persona must refuse to counsel a crisis and point to a professional — in his own words,
+> because they are better than anything I would write.
+
+The other two: **the accusation audit is a promise, not a licence** (use it then pitch and *"you just
+lied"*), and **designed presentation is not inauthenticity** — the personas were *"crafted and
+engineered"* **and** *"authentically us, just hyper versions of us."*
+
+**Five reconciliations closed** — all of them by holding both sides rather than picking one:
+
+1. **Brand Lab** (five tellings, carried through two passes) → one dated entry on `the-futur`, with the
+   $1.8M/$3.6M figures marked as **projections he stated aloud**, the blunt commercial reason preserved
+   (*"we sell to the end buyer and they're all broke"*), and the unresolved-pivot guard intact.
+2. **Subscription volume vs. Pro Group scarcity** → not a contradiction; **different products with
+   different economics**. Both held.
+3. **The Pro Group intake change** (30/month → 60/quarter) → **both dated, neither overwritten** — and
+   noted as the practical answer to his own *"ask me in six months if it's working. I do not know."*
+4. **Character/want/obstacle** → **not re-added**; only the *cardboard characters* specificity bar was
+   appended to the existing F41.
+5. **Authenticity vs. cast personas** → resolved in his own words: **amplify along true lines**; the gap
+   that matters is between who you are and who you *pretend* to be, not between your ordinary and
+   performing registers.
+
+**Verify-no-leak ran clean.** Nothing from the Matt Essam videos (`eBrwd2FZCEE` pricing, `vBTGeNr4ZZ0`
+client acquisition) appears in `topics/pricing` or `topics/sales-clients`. That check now runs every pass.
+
+**The biography gained the most.** The **Novacom $85K counter** reframes the founding of Blind — he turned
+down a raise and a title at the best studio in the city rather than starting out of necessity. The
+**teaching/speaking timeline** (teaching from ~26–27, speaking from 42) puts several previously loose dates
+on one line. The **outsider/middle-child/caretaker** account is recorded as **one entry with two
+attestations** — therapy-sourced, cost located at work; and plain, cost located in relationships. And
+***"oh, I won't be broke"*** is now on file as the earliest attested form of the money-fear he has spent a
+career arguing against.
+
+**State:** high-water mark advanced to **batch 133 (L2=855)**; debt reset **10 → 0**; pending checkpoints 0.
+
+> **Next iteration: Stage B (P2)** — 225 open P2 rows, starting with the **deferred 2024-09-12 Dhingra
+> row**. Carried debt: Part 2 of the Jule Kim listening workshop; the Seth Godin guest episode; two earlier
+> Priestley and two earlier Tom Ross episodes; a Jasmine Star stub on a third appearance.

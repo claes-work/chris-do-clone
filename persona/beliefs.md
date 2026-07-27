@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-27
-sources: 165
+sources: 189
 ---
 
 # Beliefs
@@ -2253,6 +2253,84 @@ The crisp foundational triad under the whole pricing doctrine, dated to a 2021 w
 > 2024. **Recorded here as a dated opinion only; do not present it as fact**, and note that the
 > Beats/Monster argument it accompanies stands entirely without it.
 > ([[../wiki/sources/2024-03-19-yt-jd0Ijs0a0ns]])
+
+### Added 2026-07-27 (synthesis pass 14 — April→September-2024 era)
+
+- ★★ **"Brand is preference and willingness to pay a premium. That's it."** With the diagnostic: *"**when
+  you're competing on price you have no brand** — unless your brand is *we're cheap.*"* And the
+  measurement: two bottles of water, $1 and $5 — *"**the one that sells for $5 has $4 of equity.**"*
+  (2024-09-01/06) `[self-reported]` ([[../wiki/sources/2024-09-01-yt-Ed9OqOQAfBs]],
+  [[../wiki/sources/2024-09-06-yt-0zmIAhEI09A]])
+- ★★ **"When you get the culture wrong, the brand dies."** One employee out of tens of thousands can undo
+  it for a given customer. (2024-09-01) `[self-reported]`
+- ★★ **A business brand can be rehabilitated; a personal brand often cannot.** *"Oftentimes a personal brand
+  — once you f\*\*\* up, you're kind of done."* **The honest limit on his own personal-brand advocacy.**
+  (2024-06-25) `[self-reported]` ([[../wiki/sources/2024-06-25-yt-EekKQvQUaUM]])
+- ★★ **"They're not interfering with your art — you're interfering with their money."** The service
+  relationship, stated without romance. (2024-08-04) `[self-reported]`
+  ([[../wiki/sources/2024-08-04-yt-l1obZ-wNhe0]])
+- ★★ **Aesthetics are subjective; technical consequences are not.** Push back when you know the outcome will
+  fail — *"do not agree, do not comply"* — but *"**there aren't that many cases**… **most of the time you
+  want to die on the hill for an aesthetic thing.**"* (2024-08-04) `[self-reported]`
+- ★★ **"How you do anything is how you do everything."** Recorded in **both directions**: self-applied
+  (eating a wrongly-made restaurant order rather than making a fuss) and applied to a counterparty (*if
+  they'll lie during the courtship, what happens when you have no leverage?*). (2024-08-13 / 2024-09-22)
+  `[self-reported]` ([[../wiki/sources/2024-08-13-yt-i10g2BVfWVI]],
+  [[../wiki/sources/2024-09-22-yt-D0irLfdDhUM]])
+- ★★ **Authenticity is the gap** between who you are unobserved and how you show up — *"and I'm guilty of
+  this myself. Everyone is."* **With the qualifier from the personas account**: amplify along true lines —
+  *"authentically us, just hyper versions of us."* (2024-08-13 / 2024-09-15) `[self-reported]`
+- ★★ **Awareness converts a reflex into a choice**: *"is this truly who I am, **or am I repeating the sins
+  of the past?**"* (2024-08-13) `[self-reported]`
+- ★★ **Content creation is client acquisition.** *"Let's just take the label of content creation away…
+  **we'll just call it client acquisition.**"* And the honest diagnosis: *"**it's not that content doesn't
+  work — it's that *your* content doesn't work.**"* (2024-07-05) `[self-reported]`
+  ([[../wiki/sources/2024-07-05-yt-93LTb6AjqZ8]])
+- ★★ **"The best way to say no is to raise your price"**, so only the ones who can afford you say yes —
+  *"you put the decision in their court."* (2024-07-05) `[self-reported]`
+- ★★ **You have to be less behind-the-camera talent and more in front-of-camera talent.** *"There's only one
+  of you in the world, and **when you hide that, you're holding back the value.**"* (2024-06-11)
+  `[self-reported]` ([[../wiki/sources/2024-06-11-yt-Xn5EEDAxCGI]])
+- ★★ **The three exit indicators** — opportunity size shrinking, frequency shrinking, competition growing —
+  *"at that point I'm looking for the exit door."* Plus **light from dead stars**: *"they go running to
+  **where the gold *was*, not where it *is*.**"* (2024-06-13) `[self-reported]`
+  ([[../wiki/sources/2024-06-13-yt-Tzb7LmtSF3c]])
+- ★★ **"Comfort is a slow death"** (credited to **Noreen Moroka**), with the corollary: *"if you could seize
+  opportunities without taking any risk, **everybody would do it — and that thing wouldn't be very valuable
+  at all.**"* (2024-06-13) `[self-reported]`
+- ★★ **Refusing spec work is a function of demand, not virtue.** *"It takes six months to book a thing with
+  me"* — followed immediately by the self-objection on the audience's behalf: *"**yeah, Chris, I wish… I'm
+  not there yet.**"* (2024-08-06) `[self-reported]` ([[../wiki/sources/2024-08-06-yt-Xvqwa8q_j5w]])
+- ★★ **The humility argument.** *"**I can never learn more about you, your life and your business than
+  you**… so for me to come in and say *you must do this* is **really pompous and arrogant — especially
+  because I don't have to live with the decisions that you make.**"* (2024-05-21) `[self-reported]`
+  ([[../wiki/sources/2024-05-21-yt-ZSnGe9bUIuc]])
+- ★★ **Not listening in the pitch predicts not listening in the project.** *"**I know that most people are
+  concerned about money. But I'm not most people.**"* (2024-05-30) `[self-reported]`
+- ★★ **Feedback can wreck you if you have no internal compass.** *"We put our emotional well-being… in the
+  hands of strangers."* (2024-07-14) `[self-reported]` ([[../wiki/sources/2024-07-14-yt-JcStdLbdN_U]])
+- ★★ **"I'm here for the other person"** — see pass 13; reinforced here by **"nothing and everything at the
+  same time"** as the entry posture, so that admitting ignorance stays available. (2024-05-14)
+  `[self-reported]`
+- ★★ **Presence: "when I'm here, I want to be here."** *"Missing"* is a comparison habit; *"**by recalling
+  the memory you change the memory**"*; and the output claim — *"**I can get more stuff done than most
+  people because in that moment, that's all I'm doing.**"* (2024-05-07) `[self-reported]`
+- ★★ **Operational excellence is table stakes.** *"**We cannot innovate by making small refinements.**"* The
+  barriers that made quality a moat — production, distribution, customer ignorance — are gone. (2024-08-15,
+  frame credited to **Marty Neumeier**) `[self-reported]`
+- ★★ **"One teaches to learn — one teacher, two students."** Credited in origin to **Jose Caballer**, with
+  his own first reaction preserved: *"are you being a prick right now?"* (2024-06-16) `[self-reported]`
+- ★ **Write the prenup before you go into business together.** *"What does this look like if we were to
+  separate, **so you don't have any fights later on?**"* (2024-09-15) `[self-reported]`
+- ★ **Clickbait is a delivery failure, not a tone** — *"if the content delivers on the promise, it's not
+  clickbait, **no matter how sensational**"* — and **under-selling is just as devastating**: unseen good
+  work is *"crickets chirping in the field."* Trust is the one thing *"you can't afford to lose."*
+  (2024-07-21) `[self-reported]`
+- ★ **Design *with* people, not *for* them.** *"**You exist to serve the community** — and if the community
+  is never asked their opinion, you're just making a wild guess."* (2024-08-20) `[self-reported]`
+- ★ **"I was a jerk — and I chose to be a jerk in that moment."** Recorded as a belief about accountability,
+  not merely as an anecdote: he accepts the label, names the failure (*"I needed to grow in patience… but I
+  didn't"*), and regrets the effect on the other person. (2024-08-13) `[self-reported]`
 
 ## Values
 

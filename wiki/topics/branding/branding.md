@@ -1487,6 +1487,130 @@ Paired with it, the outcome standard he names: ★★ *"**you've created not an 
 memories** for people. And there's no price tag you can put on that. Those memories will live with each
 guest, and it might live multiple generations."* See `business` for the commercial form of the same idea.
 
+### Framework 49 — ★★ THE definition: brand = preference + willingness to pay a premium (2024-09-01/06)
+
+_Sources: [[wiki/sources/2024-09-01-yt-Ed9OqOQAfBs]] (the definition) and
+[[wiki/sources/2024-09-06-yt-0zmIAhEI09A]] (the arithmetic). **This should be read as the hub's opening
+definition** — everything else on this page is downstream of it._
+
+★★ *"**Almost the definition of brand is preference and willingness to pay a premium. That's it. It
+doesn't have to be more complicated than that.**"*
+
+★★ **The diagnostic that follows**: *"**when you're competing on price you have no brand** — unless your
+brand is *we're cheap.* **That's Walmart's brand**, and for some people they love that. But in most
+places, **if you're competing on price, you have no brand.**"*
+
+★★ **And the measurement, five days later**: *"two bottles of water — one sells for a dollar, one sells for
+$5. **The one that sells for $5 has $4 of equity**, because you're willing to pay that much more."* The
+commodity is the other end: *"a commodity is something that is **easily replaced and usually sold at the
+lowest price** — and most of us do not want to think of what we do as a commodity."* Via **Michael
+Margolis**: *"**a product without a story is a commodity; a product with a story is a brand.**"*
+
+★★ **The bento box — why third place is nowhere.** *"Think of your brain like a **Japanese bento box**:
+there's a compartment for rice, cucumber, protein, potato salad. **Our brain works that way too.** So in
+every category there exists **maybe number one or number two, sometimes three or four — but not that
+many**, because it's a complicated world and **we can't be sitting here remembering every single thing.**"*
+The test: you know who first broke the four-minute mile and who first walked on the moon — *"**but who's
+the second person who did that?**"*
+
+★ **The self-test he gives instead of an argument**: *"**think about the products and services you consume
+that you have a preference for that you can't explain, that you're willing to pay more money for.**"* It
+converts an abstraction into personal evidence in ten seconds.
+
+★★ **Culture is where brands die.** A single employee behaving badly reaches a customer who is
+*"reconsidering booking with you — **that is one employee out of thousands or tens of thousands.**"* Hence:
+★★ *"**when you get the culture wrong, the brand dies.**"* A brand risk, not an HR concern.
+
+**See also:** F45's **premium test** asks this same question of a *person*; this is the general case.
+
+### Framework 50 — ★★ The asymmetry of failure: personal brands don't rehabilitate (2024-06-25)
+
+_Source: [[wiki/sources/2024-06-25-yt-EekKQvQUaUM]]. **The honest limit on everything else on this page**,
+and it is his own._
+
+★★ *"**A business brand can be rehabilitated. Oftentimes a personal brand — once you f\*\*\* up, you're
+kind of done.**"*
+
+★★ **The structural comparison that explains why**: *"most business brands are **scaled back** — their
+personality is tamped down, because it's collective and it's a lot of touchpoints. **A personal brand is
+one touchpoint: it's you.** A business brand has a logo; **you have a name — and your name is the most
+powerful part — and you have a face. A business has a place.**"*
+
+- ★ **Everything on the body is signal**: *"tattoos, earrings, glasses, jewellery, cap, hairstyle, hair
+  colour — **they all say something about you and the choices that you make.**"*
+- ★ **Consistency beats polish** — the Steve Jobs aside: *"as much as I admire and respect Steve Jobs,
+  **his fashion sense is terrible. The guy wore ill-fitting mom jeans.** … **But who am I** — he's a
+  revolutionary changing industries. **He's got no time to wear proper jeans.**"*
+- ★★ **The culpability distinction**, which is the sharpest thing here: *"**you can be forgiven if you have
+  low self-awareness** — *I don't even know who I am, so I just show up whatever.* **But if you know, and
+  you deliberately hide — that's creating a gap between you and the audience, the community and the clients
+  you hope to connect with.**"*
+- **The fronting test**: *"how many people can you spot from a mile away that aren't being themselves?…
+  And then we're shocked to discover they're getting a divorce — *I thought you had the picture-perfect
+  marriage.* **It's perfect until you find out.** … So we can spot it. **The much harder question is: how
+  many of you are guilty of it?**"*
+
+★ **The Apple/Microsoft store observation**, as a worked example of brand-as-experience: he visits Apple
+stores *"once every two and a half weeks"* and mostly buys nothing — *"**I've never been sold anything ever
+at an Apple store.**"* What he notices: they hire for range (*"like they were hired from a United Colors of
+Benetton ad campaign"*), **everyone is a "Genius"**, and **everyone can transact** — *"the register is in
+their pocket"* — versus a Microsoft store with four customers and one till. *"That's how they can make so
+much money per square foot."*
+
+> **Promote F49 and F50 together.** F49 argues *for* brand; F50 is the risk that comes with putting it on
+> a person. A persona that has one without the other gives incomplete advice.
+
+### Framework 51 — ★★ Amendment to F45: the precondition, the better definition, and the dependency chain (2024-06-28)
+
+_Source: [[wiki/sources/2024-06-28-yt-OFoklpI-ndc]]. **An amendment to Framework 45, not a separate
+framework** — he restates the three traits three months later and adds three things._
+
+★★ **1. The precondition, stated before the traits: "magnetic people make media."** He calls it **the
+3M**. *"This could be written articles, writing books, taking photographs, doing podcasts, making videos —
+and that might be **the first clue as to whether or not you're going to be a magnetic person.** You have to
+commit to **publishing your thoughts in any form possible**… **share your story, how you frame the world,
+your opinion, your criticism. Whatever it is, you must publish content.**"* Publishing is **not a
+consequence** of magnetism; it is a prerequisite.
+
+★★ **2. A second, better definition of self-confidence** — record it **alongside** F45's, not instead of
+it. F45 (April): *"a belief in your skills to solve a problem."* Here (June): ★★ *"**self-confidence to me
+is a quiet love of oneself that creates space for other people to love themselves too.**"* The first is
+about **capability**, the second about **posture**; both are his. He spends most of his time on the
+negative space: not neediness (*"they suck up all the energy in the room"*), and explicitly not swagger —
+*"to act in a way in which you think you're better than everyone **is the opposite of
+self-confidence.**"*
+
+★★ **3. The dependency chain**, which is the genuinely new structural contribution: *"there's **a direct
+link** between self-confidence, self-awareness and vulnerability — **they're kind of necessary
+ingredients.** If I am aware of what I like about myself **and my shadow self**, and I'm able to show you
+it, **it's an act of courage.** … And **I can only be vulnerable if I feel safe and confident about who I
+am.**"* So: **self-awareness → self-confidence → the safety that permits vulnerability.**
+
+His summary: *"people who show up **100% who they are**, create space for others, **knowing and choosing
+when to be what parts to whom — and being okay with all of it.**"*
+
+Also here: **self-awareness includes choosing to be disagreeable** — deliberately, knowing the effect —
+and both traits are **trainable**: *"these are not things where I have to tell you: you have to grow
+taller."*
+
+> ⚠️ **RECONCILIATION — authenticity vs. cast personas (resolved 2026-07-27).** Three sources look like
+> they conflict and do not:
+> 1. [[wiki/sources/2024-08-13-yt-i10g2BVfWVI]]: *"**the difference between who you are when no one's
+>    watching and how you show up — that gap is how inauthentic you are.**"*
+> 2. [[wiki/sources/2024-09-15-yt-XhxS8c_8-SQ]]: The Skool's on-camera personas were *"**crafted and
+>    engineered, very much so**"* — cast for TV chemistry against Jose Caballer's opposite type.
+> 3. This framework: authenticity as one of three traits of magnetism.
+>
+> **His own resolution, from source 2**: *"**they are authentically us — just hyper versions of us.** And
+> it was a thought, **but that's as far as the thought went.** It wasn't like brand pillars and all that
+> kind of stuff."* And from source 1, the licence for the remaining gap: *"there is some kind of social
+> decorum… **as a public person I need to be sure I look and behave a specific way that's consistent with
+> how I see myself and how others see me.**"*
+>
+> **The rule the persona should hold: amplify along true lines, don't invent new ones — and don't
+> over-engineer it.** The gap that matters is between *who you are* and *who you pretend to be*, not
+> between your ordinary register and your performing register.
+
 ## Influences credited (not Chris's originations)
 
 - **Marty Neumeier** (*The Brand Gap*, *Zag*) — the brand-as-gut-feeling definition and

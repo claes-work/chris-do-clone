@@ -3,7 +3,7 @@ type: hub
 domain: content-strategy
 domains: [content-strategy]
 updated: 2026-07-27
-tags: [content-strategy, audience-building, personal-story-rule, in-service-of-helping, pity-porn, derek-sivers, oversharing, earn-the-right, first-source-of-yourself, name-it-to-own-it, mnemonics, sam-horn, one-idea-per-piece, cite-your-sources, organic-growth, storytelling, attraction-marketing, permission-marketing, community, movement, give-first, karmic-equity, awareness-funnel, portfolio, show-your-work, process-not-product, youtube-strategy, thumbnails, cold-open, awareness-matrix, niching, differentiation, sell-the-problem, thesis-paper, funnel-math, reciprocity, expert-positioning, audience-vs-customers, true-fans, smallest-viable-audience, youtube-launch, polarizing, public-journaling, feed-vs-stories, earned-followers, learning-styles, teach-while-you-learn, imposter-syndrome, repurposing, lumpy-mail, aida-carousels, magic-8, case-study, capabilities-deck, storybrand, multiple-income-streams, fame-vs-price, garage-sale, audience-as-asset, rot-hook, carousel-rubric, heads-or-tails, home-stretch-slide, twelve-post-minimum, guest-post-loop, 1000-true-fans, farming-vs-hunting, riches-in-the-niches, 2x-rule, virtuous-cycle-of-confidence, strongest-tribe, chef-analogy, scarcity-mindset, share-while-you-learn, persist-and-resist, content-manifesto, done-over-perfect, golden-formula, story-formula, binary-critique, ego-free-critique, linkedin-storytelling, struggle-porn, ad-breakdown, villain-hero, paint-the-pain, micro-commitments, four-diagnostic-questions, caption-writing, emotional-writer, refinement-loop, content-iteration, velocity, live-in-the-dip, five-words, distillation, pareto-on-itself, clarity-then-musicality, youtube-scripting, thirty-second-hook, storytelling-is-delaying, soft-vs-hard-cta, native-language-repurposing, train-the-algorithm, over-delivery, curse-of-knowledge, propaganda-piece-tell, change-of-state-conflict]
+tags: [content-strategy, audience-building, content-is-client-acquisition, your-content-doesnt-work, dread-loop, client-churn-inevitable, clickbait-delivery-test, under-selling, trust-non-renewable, ai-headline-workflow, one-teacher-two-students, teaching-as-confidence, personal-story-rule, in-service-of-helping, pity-porn, derek-sivers, oversharing, earn-the-right, first-source-of-yourself, name-it-to-own-it, mnemonics, sam-horn, one-idea-per-piece, cite-your-sources, organic-growth, storytelling, attraction-marketing, permission-marketing, community, movement, give-first, karmic-equity, awareness-funnel, portfolio, show-your-work, process-not-product, youtube-strategy, thumbnails, cold-open, awareness-matrix, niching, differentiation, sell-the-problem, thesis-paper, funnel-math, reciprocity, expert-positioning, audience-vs-customers, true-fans, smallest-viable-audience, youtube-launch, polarizing, public-journaling, feed-vs-stories, earned-followers, learning-styles, teach-while-you-learn, imposter-syndrome, repurposing, lumpy-mail, aida-carousels, magic-8, case-study, capabilities-deck, storybrand, multiple-income-streams, fame-vs-price, garage-sale, audience-as-asset, rot-hook, carousel-rubric, heads-or-tails, home-stretch-slide, twelve-post-minimum, guest-post-loop, 1000-true-fans, farming-vs-hunting, riches-in-the-niches, 2x-rule, virtuous-cycle-of-confidence, strongest-tribe, chef-analogy, scarcity-mindset, share-while-you-learn, persist-and-resist, content-manifesto, done-over-perfect, golden-formula, story-formula, binary-critique, ego-free-critique, linkedin-storytelling, struggle-porn, ad-breakdown, villain-hero, paint-the-pain, micro-commitments, four-diagnostic-questions, caption-writing, emotional-writer, refinement-loop, content-iteration, velocity, live-in-the-dip, five-words, distillation, pareto-on-itself, clarity-then-musicality, youtube-scripting, thirty-second-hook, storytelling-is-delaying, soft-vs-hard-cta, native-language-repurposing, train-the-algorithm, over-delivery, curse-of-knowledge, propaganda-piece-tell, change-of-state-conflict]
 ---
 
 # Content Strategy — hub
@@ -2601,6 +2601,104 @@ builds credibility** — and what you're doing is you're borrowing from people's
 building relationships with them.** … If it's a Marty Neumeier idea, I put Marty's face in it, I put his
 book, I tag him. **To this day no one's ever called me and said: you scumbag.**"* Evidence:
 **Blair Enns** started out angry at him and became a $1,000 Platinum sponsor of his book.
+
+## 47. ★★ Content creation IS client acquisition (2024-07-05)
+
+_Source: [[wiki/sources/2024-07-05-yt-93LTb6AjqZ8]]. **This should frame the whole hub** — everything else
+on this page is a method for doing it well._
+
+★★ **The relabel is the argument**: *"let's just **take the label of content creation away** from this.
+**We'll just call it client acquisition.** Do you have a client-acquisition strategy? How do you plan on
+getting new clients?"*
+
+★★ **Client loss is an inevitability, not a risk.** *"When times are good you're busy feasting **and you're
+not planting any seeds in the field**… **And this always happens. It always happens.** I can guarantee you:
+**your clients eventually change.**"* Scaled up: agencies built around one automotive account losing it
+*"10, 20, 30 years later"* to a competitor who figured out something they hadn't, *"**because you've taken
+it for granted.**"* Hence: *"if you know this is an inevitability, **then you need to prepare for this.**"*
+
+★ **Why content specifically** — he lists the alternatives fairly (networking, dinner parties, masterminds,
+door-knocking) and rules them out on one criterion: *"all of those take time and energy, but **those kinds
+of efforts are not scalable.** There are only so many [of] you to go around."* Content has *"**infinite
+scale, infinite reach.**"*
+
+★★ **The honest diagnosis for people already grinding**: *"**it's not that content doesn't work — it's that
+*your* content doesn't work.** It's not that the platform was broken; **it's that your content on that
+platform isn't working for the audience you're trying to attract.**"* Remedy, flagged by him as
+self-serving before he gives it: *"**I hate to say this because it sounds self-serving, but you've got to
+learn a thing or two about storytelling. You've got to learn how to write.**"*
+
+★★ **The dread loop** — a mechanism the hub didn't previously name: *"when you dread something **it
+influences your state**… you're going to give it some partial effort, **and you self-sabotage, and then the
+outcome is exactly predictable.** *Well, the content didn't get anybody excited.* Well, yeah — **because
+you didn't care. You didn't put your love into it. You look tired and uninspired.**"*
+
+★★ **The hardest part, named as a commitment problem**: *"you have to do **the most difficult thing any
+business can do**, which is to say: **I'm going to be committed to this specific client. I'm going to niche
+down.** … **Most of us can't make that commitment — so we broadcast generic messages to generic people.
+And when has that ever worked?**"*
+
+★ **The gratitude argument**: *"back in my day **there was no social media. The media was expensive to buy,
+the ability to reach people was questionable, and tracking results was impossible.** We took out ads in
+magazines and directories, we sponsored shows — **I'm not sure if any of them ever resulted in one new
+client.** … **You can quite literally communicate to the world at the amazing price of free.**"*
+
+## 48. ★★ Clickbait is a delivery failure — and under-selling is just as bad (2024-07-21)
+
+_Source: [[wiki/sources/2024-07-21-yt-b5xduToNAoU]]. The bounded version of the hub's ROT-hook and
+headline material._
+
+★★ **The test is delivery, not intensity**: *"**if the content actually delivers on the promise or the
+hook, then it's not considered clickbait — no matter how sensational it is.**"*
+
+★★ **The stake**: *"every time they do that, **they take away a little bit of my trust.** And **the number
+one thing that I don't think you can afford to lose is trust.** … If you keep showing up one way,
+**eventually people write you off — and it's going to be very difficult to regain that trust.**"* Short-term
+gain, long-term loss. (Pairs with `branding` F50: personal brands often don't rehabilitate.)
+
+★★ **The counterweight, which is what distinguishes this from generic advice**: *"that's not to say you
+can't make sensational headlines — because **if you don't interrupt someone's feed, they're not going to
+pay attention**, and all that hard work, all the research, all the goodwill **is not going to be seen. And
+that can be just as devastating** — you put all this heart and energy into it and **no one shows up. It's
+like crickets chirping in the field.**"* If it's true, say it boldly: *"**some people are too
+conservative**… it's not [clickbait] **if it's the truth.**"*
+
+★ **The AI workflow** (dated 2024): give the headline to a language model, say you're worried it's too
+clickbaity, ask for *"10 alternates that vary in degree of clickbaitiness"*, then *"**step back from
+yourself and say: if I was consuming my own content, which one am I more likely to be attracted to** that
+doesn't feel too scammy or isn't part of my brand voice?"*
+
+★ **The values test, delivered with a shrug**: *"no matter what — if you get followers, subscribers, or more
+money from AdSense — **if at the end of the day it goes against your core values, then maybe you don't have
+core values. There, I said it.**"*
+
+## 49. One teaches to learn — one teacher, two students (2024-06-16)
+
+_Source: [[wiki/sources/2024-06-16-yt-HTTW0A3kxxA]]. **This is the canonical phrasing** and should replace
+the looser versions of teach-while-you-learn on this hub (the standing ⚠️ tension with
+*teach-what-you-earned* is unaffected and remains open)._
+
+★★ *"**One teaches to learn** something — but **there's one teacher and there's two students.** Which is
+kind of interesting. **It's not just the person in front of you. You're learning by explaining it to
+them.**"*
+
+★★ **The origin, credited — with his own irritated first reaction preserved.** *"Many years ago, before I
+went on this public teaching journey, my friend and mentor at that time, **Jose Caballer**, said: *Chris,
+you know what the best way to learn something is? … **To teach it.*** And I was like — **are you being a
+prick right now?** Like, you're saying I don't know how to do something, so the best way to learn it **is go
+teach someone?**"* Then the concession: *"there was some brilliance in what he said, because when you know
+you have to teach somebody — **I've got to do some research, I've got to figure this thing out, and I've got
+to remember it in a way that I can explain it simply.**"*
+
+★★ **What it produced**: *"**the biggest confidence booster I've ever had in my life was my journey into
+education back in the early 2000s.**"* Mechanism: *"when you explain something to a room, **they're going
+to ask you questions that you didn't think you even knew the answer to. In that moment it's trial by
+fire.**"* And the discovery on the other side: *"if you know it, **you discover something about what you
+knew.** … **It's not until someone extracts it from you that you're like — oh, I knew this.**"*
+
+★ **The honest fallback he models**: *"**I don't know. Good question. It's going to require a little more
+thinking from me. I'll get back to you.**"* (Consistent with the **know-your-depth** guard in `mindset`
+§71.)
 
 ## Sources
 

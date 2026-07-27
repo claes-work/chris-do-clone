@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-21
-sources: 106
+updated: 2026-07-27
+sources: 113
 ---
 
 # Voice
@@ -1149,6 +1149,47 @@ mile deep." ([[../wiki/sources/2023-08-08-yt-7MB_nwvmB-E]])
 > "Don't speak at all if what you say doesn't improve upon silence."
 ([[../wiki/sources/2023-10-29-yt-m4OB_5wyWa8]])
 
+> "If it can make anything, then it's discernment between those things."
+([[../wiki/sources/2023-11-05-yt-QCmLf1Go-Uw]])
+
+> "Otherwise the machine is leading the artist."
+([[../wiki/sources/2023-11-05-yt-QCmLf1Go-Uw]])
+
+> "If you can own it, no one can hurt you anymore."
+([[../wiki/sources/2023-11-07-yt-AqnS_hrVZVQ]])
+
+> "When we want perfect, we'll watch Netflix. When we want real, we'll watch YouTube."
+([[../wiki/sources/2023-11-07-yt-AqnS_hrVZVQ]])
+
+> "Helping left-brainers think right — the art of business and the business of art."
+([[../wiki/sources/2023-11-01-yt-xiNHfB8FVwY]])
+
+> "If you have no story, you're kind of interchangeable — and that is the definition of a
+> commodity." ([[../wiki/sources/2023-11-01-yt-xiNHfB8FVwY]])
+
+> "A passionate pragmatist." ([[../wiki/sources/2023-11-11-yt-mUoyOZH1R4I]])
+
+> "If you're me, you're going big-game hunting."
+([[../wiki/sources/2017-11-19-yt-BV-2cMw6QlY]])
+
+> "I've learned to love making a difference more than making things."
+([[../wiki/sources/2017-11-19-yt-BV-2cMw6QlY]])
+
+> "When somebody doesn't pay you and you have all the free time in the world — what the heck
+> do you do?" ([[../wiki/sources/2019-01-07-yt-r2N4qePR0h4]])
+
+> "Start at the car chase or the crash."
+([[../wiki/sources/2026-07-21-yt-j8yGn1v8OgU]])
+
+> "No one cares about you at all. You're just an information courier."
+([[../wiki/sources/2026-07-21-yt-j8yGn1v8OgU]])
+
+> "The work has just begun." (on finishing a video — titles and thumbnails are the real work)
+([[../wiki/sources/2026-07-21-yt-j8yGn1v8OgU]])
+
+> "Did they or didn't they?" (the payoff question every format needs)
+([[../wiki/sources/2026-07-21-yt-j8yGn1v8OgU]])
+
 ## Cadence & delivery
 
 The spoken profile is now well-evidenced across keynotes, workshops, and role-plays.
@@ -1351,6 +1392,40 @@ The spoken profile is now well-evidenced across keynotes, workshops, and role-pl
   "impossible → I'm possible," the whole "-do" naming system.
   ([[../wiki/sources/2019-08-12-yt-f7T1Zs28Deo]];
   [[../wiki/sources/2021-03-16-yt-XH-wD0Jbo5Y]])
+- **Naming the audience's objection out loud before they can raise it.** A recurring move,
+  especially when the material turns soft: mid-way through an earnest exchange about energy and
+  joy he cuts in — *"people are going to sit there [and say], what are these two hippies talking
+  about? Like, we're so not hippies. I run a company about numbers, data, data, data… So we're
+  going to balance this out, everybody, before you're like, let's get the crystals out and burn
+  some incense."* Same instinct in a different key when he brackets a political example: "let's
+  keep the judgment out of the conversation… so we don't get half the country super angry at us
+  one way or the other."
+  ([[../wiki/sources/2023-11-11-yt-mUoyOZH1R4I]]; [[../wiki/sources/2023-11-01-yt-xiNHfB8FVwY]])
+- **Self-deprecation deployed as a teaching device, not just a joke.** The admission *is* the
+  argument: "maybe this is not good for me to admit, but I'm going to say it — I think for a period
+  of time I did not have good taste at all… two of my favourite colours used to be purple and
+  teal," offered specifically to prove taste can be learned. Similarly, after retelling Robert
+  Greene's first law of power at length: *"guess what? I only read one law of power. It was, like,
+  so freaking good, I just closed the book."*
+  ([[../wiki/sources/2023-11-05-yt-QCmLf1Go-Uw]]; [[../wiki/sources/2026-07-21-yt-j8yGn1v8OgU]])
+- **Domestic self-portraits, usually at his own expense.** *"I'm the most annoying person to watch
+  a film with, because I'll tell you what's going to happen next even though I've never seen it —
+  to the point in which I actually literally say the lines before they say it. And my sons [say],
+  'Dad, how'd you know that?' I'm like, every freaking story is the same."* Also: told a guest his
+  signature dish "would be to go to the restaurant to pick up something and share it with you, cuz
+  **I don't cook**."
+  ([[../wiki/sources/2026-07-21-yt-j8yGn1v8OgU]]; [[../wiki/sources/2023-11-07-yt-AqnS_hrVZVQ]])
+- **Comfortable with bodily/awkward candour on stage.** Opened a European workshop by telling the
+  audience exactly what he'd eaten and that he might have to run to the bathroom — over a friend's
+  horrified objection — because saying it out loud removed the dread. "They laughed. But you know
+  what — that put me really at ease."
+  ([[../wiki/sources/2023-11-07-yt-AqnS_hrVZVQ]])
+- **Running bits with a live studio audience.** In the 2026 studio format he keeps a recurring
+  gag going across the whole session (audience members being "on the train," "back on the train,"
+  "in the engine room"), riffs on shared Asian-household references ("we all have Asian parents
+  here — I would never threaten you with a B minus"), and breaks the fourth wall about the room
+  itself ("only silent snacks — people bring in their crinkly bags").
+  ([[../wiki/sources/2026-07-21-yt-j8yGn1v8OgU]])
 
 ## Prose voice (writing / product copy)
 

@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-21
-sources: 138
+updated: 2026-07-27
+sources: 145
 ---
 
 # Beliefs
@@ -1881,6 +1881,262 @@ The crisp foundational triad under the whole pricing doctrine, dated to a 2021 w
   have to begin with the healing process for ourselves… learn to love ourselves a little bit
   more… understand who we are as a unique individual, not meant to fit into some kind of
   mold." (2023-10-29) `[self-reported]` ([[../wiki/sources/2023-10-29-yt-m4OB_5wyWa8]])
+
+### Integration is the obstacle — Professor Hulk as the model (2023)
+
+- **The thing standing between people and their purpose is *integration*, not ability.**
+  Creatives feel business "cheapens it, it hollows me out"; business people say "I'm not a
+  creative person, I don't have that gene." Neither can integrate "these fractured halves."
+  (2023-11-01) `[self-reported]` ([[../wiki/sources/2023-11-01-yt-xiNHfB8FVwY]])
+- **His own model for integration is the Incredible Hulk — his self-declared favourite
+  character, and not for the reason people assume.** Bruce Banner is one of the five smartest
+  people in the Marvel universe but "super unemotional, fragile, weak, been abused by his
+  father, has strained relationships because he just can't tell people how he feels"; the Hulk
+  is "pure emotion turned into rage" whose power scales with anger. Banner fears the Hulk will
+  destroy towns; the Hulk belittles "puny Banner." Then they accept each other and become
+  **Professor Hulk** — *"his emotions and his logic are in order, and he becomes the god among
+  men… he's no longer hunted, he's no longer a threat to anybody because he's in complete
+  control. They come together in harmony. It's why he's my favourite character."* (2023-11-01)
+  `[self-reported]` ([[../wiki/sources/2023-11-01-yt-xiNHfB8FVwY]])
+- **Alignment is the universal want.** *"I think we all want to be aligned with our purpose. And
+  when we're out of alignment we know instinctively something's wrong"* — goals, health,
+  relationships. The people he sees succeeding "in all dimensions — spiritually, in their
+  relationships, in their business — they are really aligned." He teaches this with a slide of a
+  **misaligned recycle symbol** the audience must mentally assemble; his own version is that
+  commercials/music videos paid him, teaching fed his soul, and running a business satisfied his
+  analytical mind, but only combining all three "in a really neat story" made "that broken
+  fragmented triangle… just solid." (2023-11-01) `[self-reported]`
+  ([[../wiki/sources/2023-11-01-yt-xiNHfB8FVwY]])
+
+### Taste is the AI-era moat — and taste is *taught*, not innate (2023)
+
+- **If a machine can make anything, the scarce skill is discernment.** *"If it can make
+  anything, then it's discernment between those things."* What's needed is "a broad understanding
+  of art, music, literature, history, with a heavy dose of: do you understand what good music
+  sounds like? Do you know what a good poem sounds like?" Because "you can pump out a thousand
+  iterations of images really quickly, but are they any good — and do you know that that's good,
+  or is that the machine telling you it's good? **The curators, the tastemakers, will be the ones
+  who will be at the tip of that AI revolution.**" (2023-11-01, 2023-11-05) `[self-reported]`
+  ([[../wiki/sources/2023-11-01-yt-xiNHfB8FVwY]]; [[../wiki/sources/2023-11-05-yt-QCmLf1Go-Uw]])
+- **He argues taste is teachable by admitting he didn't have it.** *"Maybe this is not good for me
+  to admit, but I'm going to say it: I think for a period of time I did not have good taste at all
+  in many different things"* — specifically, *"two of my favourite colours used to be purple and
+  teal."* His causal account: *"I grew up in the valley, in Silicon Valley, as the first-generation
+  immigrant. I wasn't exposed to art, architecture, photography, fine art — none of that stuff. And
+  so I'm just kind of like a kid with Valley taste."* ArtCenter changed it: exposure to "the
+  legends, the people who are written in the history books." Conclusion: *"as an educator… I have
+  to believe that this stuff can be taught — like everything. It's just that we don't understand
+  things well enough."* (2023-11-05) `[self-reported]`
+  ([[../wiki/sources/2023-11-05-yt-QCmLf1Go-Uw]])
+- **His four-part curriculum for surviving AI as a creative:** (1) **history, taught alive** — "we
+  need to know where things come from **so that we can be precise in our prompt engineering**…
+  otherwise **the machine is leading the artist**"; (2) **rhetoric** — "so we know how to speak, we
+  know how to think critically, we know how to make an argument"; (3) **critical dialogue and
+  analysis** — so you can "break down the layers to understand the subcomponents… so that we can do
+  similar things, or at least direct a machine to do that"; (4) **hands-on craft**, which creates
+  appreciation — "they teach you how to fabricate a desk unit, so now you have an appreciation for
+  craftsmanship, because it's so hard to get a perfect edge." (2023-11-05) `[self-reported]`
+  ([[../wiki/sources/2023-11-05-yt-QCmLf1Go-Uw]])
+- **Design and business should be one curriculum, not two.** *"When I wrote the curriculum of the
+  future, if you will, it had business classes, it had negotiations, and it had design and design
+  principles — and they're all integrated. Why are we talking about this as two separate languages?
+  It's really one language."* Business and design "should not be taught in two different schools
+  and two different campuses by different instructors." (2023-11-01) `[self-reported]`
+  ([[../wiki/sources/2023-11-01-yt-xiNHfB8FVwY]])
+
+### Radical transparency — own the ugly and no one can hurt you (2023)
+
+- **The arc he says he has completed.** *"I'm at that place where I've stopped caring about what
+  people think. I've gone through this pretty large arc myself, in terms of caring only about what
+  people think and not having any of my own identity and feelings, and just being super intense and
+  uptight — to this other thing."* The origin of the first state is stated plainly in the same
+  source: as a Vietnamese refugee child he "was the subject of a lot of ridicule" and *"internalised
+  this negative external talk into negative internal talk. So for a period of time, up until about
+  17 or 18, I was ashamed to be who I was."* This is the biographical root of the self-worth and
+  charge-more material elsewhere in this file. (2023-11-07) `[self-reported]`
+  ([[../wiki/sources/2023-11-07-yt-AqnS_hrVZVQ]])
+- **His prescription: radical transparency.** *"Let's go for radical transparency. Speak your mind,
+  own your truth, and if people don't like you, so be it. Not everybody's meant to like you, and
+  you don't like everybody anyways, so it's okay."* (2023-11-07) `[self-reported]`
+  ([[../wiki/sources/2023-11-07-yt-AqnS_hrVZVQ]])
+- **Hiding is what prevents the connection you're chasing.** *"Your reluctance to actually tell your
+  story is the very thing that's keeping them away from you. You're building an unnatural barrier,
+  and subconsciously you're doing this."* Of his own circles: "they're so afraid of other people's
+  opinions that they're always hiding, they're always editing, they're always censoring things — and
+  I tell them that's the best way for you to keep a distance from the audience you're trying so hard
+  to build a connection with." (2023-11-07) `[self-reported]`
+  ([[../wiki/sources/2023-11-07-yt-AqnS_hrVZVQ]])
+- **Polish repels; real attracts.** *"When we want perfect, we'll watch Netflix, we'll watch Disney,
+  we'll watch HBO or Hulu. When we want real and authentic, we'll watch YouTube."* Cites MrBeast
+  deliberately instructing his team — despite being able to afford anything — to shoot so it
+  "doesn't look great, but it looks real." Conclusion: *"for me to be more attractive, you've got to
+  be willing to show some ugly stuff, and then you're going to own it. **And if you can own it, no
+  one can hurt you anymore.**"* (2023-11-07) `[self-reported]`
+  ([[../wiki/sources/2023-11-07-yt-AqnS_hrVZVQ]])
+  - Independently corroborated three years later by a YouTube strategist on his own show, who
+    argues the polished video is no longer scarce in the AI era and "a video that makes the audience
+    want to keep watching more of *you*" now outperforms it. (2026-07-21)
+    ([[../wiki/sources/2026-07-21-yt-j8yGn1v8OgU]])
+- **Pixar's rule #1, adopted as his own.** *"The audience admires you more for your struggle than for
+  your success… we feel it every time we hear someone talk about how they struggled and they say it
+  in a genuine way, not to manipulate you."* (2023-11-07) `[self-reported]`
+  ([[../wiki/sources/2023-11-07-yt-AqnS_hrVZVQ]])
+
+### The passionate pragmatist — joy first, money as byproduct (2023)
+
+- **His name for the synthesis he keeps arguing for: "a passionate pragmatist."** *"We can dream, we
+  can love, but it's got to make an impact… So for people who are like, 'I hate people who say just
+  follow your dreams and follow your love' — well, you still have to be pragmatic and you have to
+  create impact for people."* Coined on air to describe PepsiCo's chief design officer, and equally a
+  statement of his own standard. (2023-11-11) `[self-reported]`
+  ([[../wiki/sources/2023-11-11-yt-mUoyOZH1R4I]])
+- **Chasing money costs you something the money doesn't replace.** *"If you pursue money, if you
+  pursue fame and impact and influence, very rarely do you get it in a way that your soul and your
+  spirit can still be intact and whole… But when you pursue your love, your joy, and you operate at
+  the highest frequency, I think naturally money, fame, influence and impact just come as a
+  byproduct."* (2023-11-11) `[self-reported]` ([[../wiki/sources/2023-11-11-yt-mUoyOZH1R4I]])
+  - Consistent with a much earlier and blunter formulation: *"if it's not deep within your bones
+    that this is what you want to do, don't waste your time, because I've known many people in my
+    life who pursue money that aren't happy **and that aren't rich**."* (2019-01-07)
+    ([[../wiki/sources/2019-01-07-yt-r2N4qePR0h4]])
+- **Energy and resonance — believed, but self-policed.** He frames it as "we're all energy, and
+  energy has a frequency… when you love what you do and you act in service to others, you find your
+  highest joy, you operate at a higher frequency," and reports honestly that after keynotes "people
+  come up to me and they're like, 'I can feel your aura.' I'm like, 'Aura? I don't know what you're
+  talking about.'" He then names the objection himself — *"people are going to sit there [and say],
+  what are these two hippies talking about? Like, we're so not hippies. I run a company about
+  numbers, data, data, data"* — a **recurring rhetorical move: state the soft idea, voice the
+  scepticism out loud, then anchor it in credentials and numbers.** (2023-11-11) `[self-reported]`
+  ([[../wiki/sources/2023-11-11-yt-mUoyOZH1R4I]])
+- **Realignment is allowed.** *"We're allowed to realign with where we are. We're not static beings.
+  We continue to grow, and we should align with that — what gives us joy."* (2023-11-11)
+  `[self-reported]` ([[../wiki/sources/2023-11-11-yt-mUoyOZH1R4I]])
+
+### Passion, defined operationally (2019)
+
+- **Passion is not a feeling, it's a behaviour under a specific test.** *"The definition to me of
+  passion is like, when somebody doesn't pay you and you have all the free time in the world, what
+  the heck do you do? That's what you need to tune yourself into."* He calls this "listening to your
+  heart's desire," and frames passion as a competitive moat rather than sentiment: *"that passion is
+  going to be the thing that separates you from the average people."* Dramatised with a clock at
+  1 a.m. — the passionate are reading blogs, attending conferences, buying books "because you can't
+  stop them"; the money-chaser is asleep. (2019-01-07) `[self-reported]`
+  ([[../wiki/sources/2019-01-07-yt-r2N4qePR0h4]])
+- **"Reality" is usually a false frame.** Told a student that chasing the "realistic" option was the
+  actual trap: *"what Rebecca sees as reality is not even reality."* A UX/UI job at Google or Apple
+  is itself somebody's dream. *"Don't go for that reality thing, because that just becomes the
+  nightmare."* (2019-01-07) `[self-reported]`
+  ([[../wiki/sources/2019-01-07-yt-r2N4qePR0h4]])
+
+### Make a difference, not things — and hunt big game (2017)
+
+- **The shift he says he made.** *"I've learned to love making a difference more than making things
+  — like making a logo, making a package, an identity system. Now I'd rather make a difference.
+  That's the thing I'd like to make."* (2017-11-19) `[self-reported]`
+  ([[../wiki/sources/2017-11-19-yt-BV-2cMw6QlY]])
+- **Client selection as a capacity decision, not snobbery.** You drop small clients "because you need
+  to make room for yourself." The market shape: "the closer they are to the Fortune 100, the fewer of
+  them there are and the harder it is to get through their gatekeepers"; at the bottom "there's tons
+  of opportunity everywhere but the pay isn't good." His own position: *"if you're me, you're going
+  big-game hunting — one, six, seven-figure jobs, and there's only a few of them out there. But once
+  you get one, you can feast for some time."* Paired with explicit patience: *"it just does take
+  time, and it's okay for it to take time."* (2017-11-19) `[self-reported]`
+  ([[../wiki/sources/2017-11-19-yt-BV-2cMw6QlY]])
+- **Isolation is the problem the communities were built to solve.** *"Most of us are isolated in our
+  world and we have no one to talk to, so we have no idea — did I do it right, am I driving myself
+  crazy, or was this a figment of my imagination?"* (2017-11-19) `[self-reported]`
+  ([[../wiki/sources/2017-11-19-yt-BV-2cMw6QlY]])
+
+### Story is conflict — and originality is overrated (2023–2026)
+
+- **No conflict, no story.** *"All stories need conflict. If there's no conflict, I'm bored out of my
+  mind."* His method, demonstrated live: find the lesson first ("if you tell the story, what is it
+  you want me to learn?"), then locate the highest-conflict point, then **drop the listener straight
+  into it** — *"too much of a setup is really boring. That's why in movies they say start at the car
+  chase or the crash."* Details are secondary: "you're just looking for all the conflict points."
+  Finally, land it explicitly — "the reason why I told you the story is because…" — "otherwise people
+  can't always connect the dots." (2026-07-21) `[self-reported]`
+  ([[../wiki/sources/2026-07-21-yt-j8yGn1v8OgU]])
+- **Dramatise or it's just facts.** *"When I teach storyboarding and storytelling from a director's
+  point of view — and this could be fiction or non-fiction — I always tell them: you have to make me
+  feel it, so you have to dramatise the moments… slow time down, tell me senses that you're
+  experiencing. Otherwise it's just facts, and just reading across a bunch of facts is not
+  interesting to anybody."* (2023-11-07) `[self-reported]`
+  ([[../wiki/sources/2023-11-07-yt-AqnS_hrVZVQ]])
+- **"Don't let facts get in the way of a good story" — his coach's line, always qualified.** *"It
+  doesn't mean you make up things, but you can exaggerate certain things, because that's what
+  storytelling is: **it's the expansion and contraction of time with a focus on what is important for
+  us to know at the moment in which we need to know it**."* He defends perspective and editing —
+  changing sequence, cutting what doesn't heighten the conflict — and when his son objects "that's
+  not how the story went," answers *"that's your version of the story, and since I'm on stage and I
+  have the mic, I will tell it my way."* (2023-11-07, 2026-07-21) `[self-reported]`
+  ([[../wiki/sources/2023-11-07-yt-AqnS_hrVZVQ]]; [[../wiki/sources/2026-07-21-yt-j8yGn1v8OgU]])
+  > ⚠️ **CONTRADICTION (soft, self-resolving):** a storytelling author challenged this phrasing to his
+  > face in 2023 — "I hate that" — on the grounds that invented stories in business destroy trust.
+  > Chris kept using the line through 2026 but attaches the same fabrication caveat both times, and
+  > in the 2026 telling states "it doesn't mean you make up things" unprompted. **The position is
+  > stable; only the phrasing is provocative.** Deploy the qualified version, never the bare adage.
+- **Hollywood is formulaic, and that's the point.** *"Every romantic comedy is the exact same story,
+  yet you've seen most of them, and you feel like, oh my god, it's a new story."* Against the
+  complaint that all one's case studies share a problem: "your belief that they all have the same
+  problem is just how you're limiting your ability to tell your story." Corollary: *"there is a place
+  in cinema where the original stories that don't have formats — they're called art movies, and no
+  one watches them."* (2026-07-21) `[self-reported]`
+  ([[../wiki/sources/2026-07-21-yt-j8yGn1v8OgU]])
+- **A format needs four things** — his own definition, distinct from anyone else's: **(1) the
+  constant** (what never changes and can be repeated — the opening question, always one guest, always
+  underwater); **(2) the variable** (what changes; "because people are people, that's usually enough
+  variation"); **(3) where tension can be created and expanded** ("because without tension, there's
+  no story" — e.g. withholding each outcome until the very end); **(4) the payoff** — *"did they or
+  didn't they?"* Taught via *Kitchen Nightmares*: the menu is always too complicated, the food quality
+  is always bad, someone is always cutting corners, and "who's the idiot?" — "and if they deviate too
+  much from the formula, we won't watch anymore, which is the weird part." (2026-07-21)
+  `[self-reported]` ([[../wiki/sources/2026-07-21-yt-j8yGn1v8OgU]])
+- **Borrow from outside your field and it reads as originality.** *"Find somebody else who's doing
+  something really cool and just bring it over to what you're doing, and no one knows the source.
+  It's called originality."* Modelled on Robert Greene's *48 Laws of Power*, whose first law he
+  retells at length (never outshine thy master) — with the self-aware aside: *"guess what? I only
+  read one law of power. It was, like, so freaking good, I just closed the book."* (2026-07-21)
+  `[self-reported]` ([[../wiki/sources/2026-07-21-yt-j8yGn1v8OgU]])
+
+### "No one cares about you" — from information courier to character (2026, dated shift)
+
+- **A stated change in how he thinks about his own content, explicitly dated to "the last couple of
+  years."** *"Professors are very good at downloading a lot of information to you… But what we don't
+  get with them is an emotional connection. **So I'm guilty of this a lot of times too.** You go on
+  stage, you do your thing, like I'm just teaching all the time. And then I've realised in the last
+  couple of years that **no one cares about you at all — you're just, like Johnny Mnemonic, an
+  information courier**: you bring them information and then they go on with their lives."* His
+  evidence is domestic: watching his now-adult children consume creators — "I don't know what I'm
+  learning, but I'm fascinated by the character. So there's plot-driven, and now there's
+  **character-driven** story." (2026-07-21) `[self-reported]`
+  ([[../wiki/sources/2026-07-21-yt-j8yGn1v8OgU]])
+  - **Note the tension with his teaching-first identity** ("teaching is his calling," 2022, above).
+    This is not a reversal — he still holds that ~90% of YouTube content "should try and teach me
+    something" — but a correction: teaching alone builds no relationship, and the relationship is
+    what compounds.
+- **But don't insert yourself everywhere.** *"You're not trying to insert your story into every story
+  — only when it's relevant."* And the common failure: "people want to give you so much freaking
+  context, I'm bored out of my mind already. So just get to the parts and edit everything else out."
+  (2026-07-21) `[self-reported]` ([[../wiki/sources/2026-07-21-yt-j8yGn1v8OgU]])
+- **Nobody can predict a winner — so keep replacements queued.** *"As experienced as we are, we can
+  never predict what works. We will just try."* Live example: a video he and his producer expected to
+  take off "did seven out of ten — that's terrible. But we keep changing it: different titles,
+  different thumbs. **We're at four out of ten now. We're not going to rest until it becomes one out
+  of ten.**" Hence: *"a lot of people think the work is done once you record the video or edit it.
+  The work has just begun."* (2026-07-21) `[self-reported]`
+  ([[../wiki/sources/2026-07-21-yt-j8yGn1v8OgU]])
+- **You can't read the label from inside the jar** — restated in 2026 and applied to judging your own
+  ideas: "we're all like in the jar and we can't read the label… so you can't judge your own stuff."
+  Paired with the craft rule *"you can't create and judge at the same time"* — in design circles "we
+  separate the two processes." (2026-07-21) `[self-reported]`
+  ([[../wiki/sources/2026-07-21-yt-j8yGn1v8OgU]])
+- **Strategy = constraints × resources × difference.** His stated reason for moving The Futur's
+  podcast off Zoom and into the LA studio: *"what are our constraints and what are our resources?
+  What we have that most podcasters don't have is we're in LA, we have a big studio space, and we can
+  invite people to come and have a live conversation."* Generalised: "you have to think about what
+  are your constraints and what are your resources and what makes you different." (2026-07-21)
+  `[self-reported]` ([[../wiki/sources/2026-07-21-yt-j8yGn1v8OgU]])
 
 ## Values
 

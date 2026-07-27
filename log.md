@@ -2760,3 +2760,105 @@ pricing anchor** for Blind's early history; (10) **the operational definition of
 contradiction flagged on the 2026 page: Chris still uses "don't let facts get in the way of a good
 story" after being challenged on it in 2023, but attaches the same fabrication caveat both times —
 the position is stable, only the phrasing is provocative.
+
+## [2026-07-27] lint | Persona pass — v13 → v14 (P1-drained trigger)
+
+Orient per Stage 0: `SUBJECT.md` unchanged; `ingest_batch.py status` → `@thefutur P1:0 P2:324 P3:44`,
+`@TheFuturAcademy P3:72`, shorts 860, L2=756/L3=0, **synthesis debt 1/10** (checkpoint NOT due);
+`pipeline/synthesis-state.md` high-water mark still "batch 114 (L2=748), pass 12 → v13", pending
+checkpoints none. Stage-machine selection: synthesis checkpoint not due → next rule is
+**persona stale**, which fires on "**P1 just fully drained**" — true for the first time, as of the
+preceding batch. → **Stage P**.
+
+Written directly by the coordinator rather than delegated. Stage P's stated rationale for a single
+delegated agent is (a) coordinator context hygiene and (b) **one writer, to avoid persona-file write
+races**; doing it inline satisfies (b) exactly, which is the correctness-relevant half.
+
+**Scope respected: persona-files-only.** Edited exactly `persona/beliefs.md`, `persona/voice.md`,
+`persona/system-prompt.md`. No topic page, no `biography.md`, no ledger row, no source page touched.
+
+### beliefs.md — 8 new dated, cited sections (sources 138 → 145)
+
+- **Integration is the obstacle — Professor Hulk as the model (2023)** — integration, not ability, as
+  what blocks people; the Banner/Hulk → Professor Hulk metaphor (his self-declared favourite
+  character); alignment as the universal want; the misaligned-recycle-symbol teaching slide.
+- **Taste is the AI-era moat — and taste is *taught*, not innate (2023)** — discernment as the scarce
+  skill; the "I had bad taste / purple and teal / kid with Valley taste" admission used as the
+  argument that taste is learnable; the four-part AI-era curriculum; design-and-business-as-one-language.
+- **Radical transparency — own the ugly and no one can hurt you (2023)** — the completed arc from
+  caring-only-what-people-think to not; **its biographical root recorded here** (refugee ridicule →
+  internalised negative self-talk → "ashamed to be who I was" until ~17–18), hiding-as-the-barrier,
+  polish-repels/real-attracts, Pixar rule #1.
+- **The passionate pragmatist — joy first, money as byproduct (2023)** — his coinage; the soul-intact
+  argument, cross-linked to the blunter 2019 "not happy *and* not rich"; the energy/frequency passage
+  *with* its self-policing half; realignment is allowed.
+- **Passion, defined operationally (2019)** — the no-pay/all-the-free-time test; reality-as-false-frame.
+- **Make a difference, not things — and hunt big game (2017)** — the difference-over-things shift;
+  client selection as capacity; big-game hunting + explicit patience; isolation as the reason the
+  communities exist.
+- **Story is conflict — and originality is overrated (2023–2026)** — no-conflict-no-story and the
+  start-at-the-crash method; dramatise-or-it's-just-facts; the qualified facts-vs-story adage **with a
+  ⚠️ CONTRADICTION callout**; Hollywood-is-formulaic; the four-part format definition; borrow-across-
+  fields-as-originality.
+- **"No one cares about you" — from information courier to character (2026, dated shift)** — the
+  explicitly-dated correction to his teaching-first instinct, **annotated as a correction rather than
+  a reversal** against the existing 2022 "teaching is his calling" entry; don't-insert-yourself-
+  everywhere; nobody-can-predict-a-winner (7-of-10 → 4-of-10); can't-read-the-label-from-inside-the-jar
+  + can't-create-and-judge-simultaneously; strategy = constraints × resources × difference.
+
+### voice.md — 14 new signature quotes + 4 new delivery patterns (sources 106 → 113)
+
+Quotes added to the catchphrase bank (each cited): "if it can make anything, then it's discernment
+between those things" · "otherwise the machine is leading the artist" · "if you can own it, no one can
+hurt you anymore" · "when we want perfect, we'll watch Netflix; when we want real, we'll watch
+YouTube" · "helping left-brainers think right" · "if you have no story, you're kind of interchangeable"
+· "a passionate pragmatist" · "if you're me, you're going big-game hunting" · "I've learned to love
+making a difference more than making things" · "when somebody doesn't pay you and you have all the
+free time in the world, what the heck do you do?" · "start at the car chase or the crash" · "no one
+cares about you at all — you're just an information courier" · "the work has just begun" · "did they
+or didn't they?".
+
+New **Humor/delivery** entries, all newly evidenced this batch: (1) **naming the audience's objection
+out loud before they can raise it** ("we're so not hippies… I run a company about numbers, data, data,
+data") — a genuinely characteristic move that was undocumented; (2) **self-deprecation as the argument,
+not just the joke** (purple-and-teal; "I only read one law of power"); (3) **domestic self-portraits**
+(the film-spoiler bit with his sons; "cuz I don't cook"); (4) **bodily/awkward candour on stage** (the
+Europe workshop stomach story); (5) **running bits with a live studio audience** (the 2026 "on the
+train" gag, Asian-household references, "only silent snacks").
+
+### system-prompt.md — recompiled v13 → **v14** (compiled_from_sources 748 → 756)
+
+Body additions: eight new doctrine blocks (taste-as-AI-moat + curriculum; integration/Professor Hulk;
+radical transparency; story-is-conflict; the four-part format definition + ROT + thumbnail rules +
+keep-testing; the "no one cares about you" correction; strategy = constraints × resources ×
+difference; passionate-pragmatist/joy-first; make-a-difference/big-game-hunting), a **Brand Lab +
+meaning-of-the-name** paragraph in *Who you are*, 14 catchphrases plus a two-habit delivery note in
+*How you talk*.
+
+⚠️ **Three new guardrails**, all of which exist because the source material would otherwise mislead:
+1. **Always qualify "don't let facts get in the way of a good story."** A storytelling author
+   challenged it to his face in 2023 ("I hate that"); he agreed on substance and keeps the caveat
+   ("it doesn't mean you make up things") in both the 2023 and 2026 tellings. The bare adage must
+   never be deployed — **fabrication in a business setting is out.**
+2. **Brand Lab is a 2023 pivot he described as newly launched and unresolved** (an explicit "hat
+   trick" of unsolved problems) — do not narrate it as a finished success or invent outcomes.
+3. **The energy/frequency material must always carry its own self-policing half** — he never delivers
+   the mystical half straight, and the persona shouldn't either.
+
+### Deferred (deliberately, not overlooked)
+
+`biography.md` is **out of Stage P's file scope**, so three strong new biographical items stay owed to
+the next Stage S synthesis checkpoint, with the ★ trail intact in their source pages: the refugee-
+childhood passage as a *timeline* entry (the belief-relevant framing is already in `beliefs.md`), the
+mung bean / Lunar New Year red-envelope sense memory, and two dated family details (his wife's recent
+turn to born-again Christianity and new-age mysticism; his practice of training his children's eye on
+outings) — plus the Blind $5,000 → $20,000 early-website pricing anchor. Topic-page promotion for the
+whole batch is likewise still owed; `pipeline/synthesis-state.md` high-water mark **deliberately not
+advanced** (still batch 114) because this was a persona refresh, not a synthesis pass.
+
+**Pipeline state after this pass:** `@thefutur` P1:0 P2:324 P3:44; `@TheFuturAcademy` P3:72; shorts
+860; L2=756, L3=0; synthesis debt 1/10; persona **v14**.
+
+> **Next iteration selects Stage B (ingest, P2).** Persona is no longer stale, the synthesis
+> checkpoint is 9 batches away, every TARGET channel has ledger rows, and 324 open P2 long-form rows
+> remain on @thefutur — so the loop returns to draining P2, oldest-first.

@@ -42,7 +42,7 @@ _Last updated: 2026-07-27 (ingest yt batch @thefutur, 8 → 756 L2; extraction b
 - [persona/voice.md](persona/voice.md) — how they talk, **pass-12** (**106 sources**; +"language is the shield", "symmetry of logic", "AI is the bear", "contrast is Queen", "theory is lonely", "don't speak unless it improves upon silence").
 - [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/opinions (**138 sources**; influences subsection; position-changes/evolution flagged incl. work-life compartmentalize→integrate + value-based-vs-historical-cost-plus + ⚠️ 2016-charge-more-arbitrage-vs-value-based).
 - [persona/appearance.md](persona/appearance.md) — how they look/present (**seeded**: 15 cited self-reported facts; watched-video visual sample still a gap).
-- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt, **v13** (2026-07-21; 748 videos, 7 hubs; +2016-charge-more-arbitrage guard, AI-stance date-stamp guard, two-time-Emmy self-report guard).
+- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt, **v14** (2026-07-27; 756 videos, 7 hubs; +taste-as-AI-moat & 4-part AI curriculum, Professor Hulk integration, radical transparency, 4-part format definition + ROT, "information courier" correction, Brand Lab pivot; new guards: always-qualify the facts-vs-story adage, Brand Lab is unresolved-2023, energy/frequency keeps its self-policing half).
 
 ## Other
 

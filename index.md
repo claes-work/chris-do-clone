@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-28 (ingest yt batch @thefutur, 2 → **948 L2** — ★★★ **the three ingredients of magnetism** and **the 9-1-1 formula** from a long interview where Chris is the subject; plus the sequence lesson (*"can you drive me to the airport?"*) and ⚠️ **a flagged contradiction** about whether he studies the algorithm)_
+_Last updated: 2026-07-28 (ingest yt batch @thefutur, 1 → **949 L2** — ✅✅ **the exception**: the first episode with Chris and Matt Essam **together**, a real debate; plus the fullest Blind pre-social marketing stack and a sixth, conceded attestation of the non-violent-language thread. ⚠️ **Synthesis checkpoint due — pass 19 next.**)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **948 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-09-20; one row deferred once — the FIRST Essam episode with Chris present, queued first for next batch] + the 2026-07-21 fresh upload; synthesized through batch 173 → persona **v20**; ⚠️ pass 18b pending).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **949 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-09-20, no deferrals outstanding] + the 2026-07-21 fresh upload; synthesized through batch 173 → persona **v20**; ⚠️ pass 18b pending).
 
 ## Topics
 

@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-27 (ingest yt batch @thefutur, 2 of 3 → 882 L2 — ★★★ **radical responsibility** and **the Belief→Action→Result reset**, two frameworks the corpus lacked; *"I like to create **unsafe space**"*; *"**I bought the project**"*; and ★★★ a **dated January-2025 update to his AI position** that the standing 2023 guard no longer covers)_
+_Last updated: 2026-07-27 (ingest yt batch @thefutur, 2 of 3 → 884 L2 — ★★★ the **Four Agreements reframed as a consent gate**, with the **ethics defence** they answer and a **duress exception** he places on his own model; plus ★★★ *"**good things are on the opposite side of discomfort**"* and the fullest telling of the public-speaking origin)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **882 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-01-16, one row deferred] + the 2026-07-21 fresh upload; synthesized through batch 133 → persona **v16**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **884 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-01-25, one row deferred] + the 2026-07-21 fresh upload; synthesized through batch 133 → persona **v16**).
 
 ## Topics
 

@@ -5626,3 +5626,88 @@ skill** in the AI era; (10) ★★ the **generalist exception** (they hire peopl
 January-2025 AI position** with the **desktop-publishing precedent** — ⚠️ **and revise the AI-stance-is-2023
 guard**; (12) ★★ **art-direct the machine**; (13) ★ the **son's course of study**. Fenced: **Austin**
 (faceless-content formats, tools, view claims, platform theory).
+
+## [2026-07-27] ingest | yt batch (@thefutur, 2 of 3 — one deferred) — the Four Agreements are a gate
+
+**Stage B (P2), `--n 3`.** The row deferred from batch 143 resumed at the front and was ingested. Ledger
+882 → **884 L2**.
+
+| id | date | what it is |
+|---|---|---|
+| `yt-Sb80TUwoTOE` | 2025-01-09 | Jodie Cook (2nd appearance) — ⏸️ deferred from 143, now done |
+| `yt-ZIF7aRNr8BA` | 2025-01-25 | ★★★ **LANDMARK** — live workshop, Chris solo |
+| `yt-R2OJpyCb_pU` | 2025-01-21 | ⏸️ **DEFERRED** (59KB) |
+
+**1. ★★★ The Four Agreements are a consent gate, not a values statement — and pass 15 got them thinner than
+they are.** [[2024-12-31-yt-5_RMSS8Mf30]] stated the four. This source **reframes their standing**:
+
+> ★★★ *"I recently ran a sales workshop and I said: **before we can do any of the training that I share with
+> you, we must agree to these things — and you have to explicitly say *I agree, I commit.* Otherwise
+> everything else I'm going to teach you is not good, because you're not a good person and I don't want to
+> teach you anything.**"*
+
+**And it supplies the accusation they answer**, which is the part that makes them make sense: *"some of you
+come back to me in the comments and say — **is that ethical? How come you can just keep telling people to
+raise your rates… and still be okay with that?** … **They think I'm like Satan incarnate.**"* His reply has
+a belief (★★★ *"**money is an infinitely renewable resource — like water, like oxygen**"*) and, more
+importantly, a **precondition**: ★★★ *"**I have an assumption, and the assumption is: you're good at what you
+do.** … That was supposed to be the job of the university you went to."*
+
+**Four more items that materially extend what pass 15 promoted:**
+- ★★★ **A duress exception he places on his own model**: value-exceeds-price holds *"**unless it was done
+  under duress** — if your car broke down in the desert, **the tow truck driver can charge you whatever they
+  want**… you might feel cheated, **because you're under duress.**"* Worth keeping precisely because it is a
+  limit on his own framework.
+- ★★★ **"You are in business to sell money. When you sell money, people buy non-stop."** With the operative
+  move: *"**I don't do any explaining. I'm just asking them questions: what's it worth to you?**"*
+- ★★★ **The grenade** as the definition of service (*"they're all fighting to see who can jump on it to save
+  their nine friends"*), and the honest live answer to *do you always do this?* — *"**not always. That's the
+  truth.**"*
+- ★★★ **The diagnosis of which agreement actually breaks**: *"**more often than not, the rule we're breaking
+  is rule number three**"* — demonstrated with the hammer/nail, and *"**we actively do the opposite. We try
+  to convince them that they don't need that — they need this.**"*
+
+> ⚠️ **One phrasing recorded but quarantined.** Explaining that your ceiling is set by whose problems you
+> choose to solve, he uses a **Skid Row** example that is glib about homelessness. The underlying point is
+> real; **the phrasing is not persona-safe and is marked do-not-reproduce** on the source page.
+
+**2. ★★★ Step one of his own success system, and the fullest public-speaking origin.** Asked for his success
+system he hedges honestly (*"I have no idea what the other steps are"*) and then gives something precise:
+★★★ *"**good things are on the opposite side of discomfort.** So whenever somebody says something and **I
+have a physiological reaction to it** — *oh, I don't want to do that* — there's a moment that switches over:
+**wait a minute, what is this idea, and why are you reacting this way?**"*
+
+The corpus already knew his coach pushed him into speaking. It did not have this: ★★★ *"**stop being the
+world's best kept secret**"* as the actual sentence, *"as an introvert, socially awkward kid, **everything I
+don't want to do is packaged up in what you just asked me to do**"*, ★★★ *"**I wanted to vomit**"* — and the
+trust mechanism that let him override it: ★★★ *"**he wouldn't send me to a death squad.** He would want me
+to do something **because he sees something in me that I have yet to recognise.**"*
+
+Also new: ★★★ **"last rep syndrome"** — same weight, different declared intention, different outcome
+(*"you commit to something, and then your body responds accordingly"*), which is a mindset claim with a
+controlled observation attached rather than an assertion; and ★★★ **the raised-hand story**, in which his
+**brother** questions whether his answer was sincere or *"virtue signalling"* — a rare recorded exchange
+with a sibling, name-free.
+
+**Deferral (no silent caps):** `R2OJpyCb_pU` (59KB) returned to `L0-discovered` at P2, transcript cached,
+not skimmed.
+
+**Pipeline state:** `@thefutur` P1:0, **P2:193**, P3:44; `@TheFuturAcademy` P3:72; shorts 860; L2=**884**,
+L3=0; synthesis debt **2/10**; persona v17.
+
+> **Next iteration: Stage B (P2), `--n 3`**, led by the deferred 2025-01-21 row.
+
+Synthesis notes: genuinely new — (1) ★★★ **the Four Agreements as a consent gate** (*"you have to explicitly
+say I agree, I commit"*) — **fold into `beliefs.md` and `business` §54; it upgrades their standing**;
+(2) ★★★ **the ethics defence** — *money is infinitely renewable* **plus** *"the assumption is you're good at
+what you do"*; (3) ★★★ **the duress exception**; (4) ★★★ **"you are in business to sell money"** + *ask what
+it's worth, don't explain* (the t-shirt arithmetic); (5) ★★★ **the grenade**, and **"the rule we're breaking
+is rule number three"** + the hammer/nail; (6) ★★★ **the value-conversation sequence** closing on *"what
+percentage are you willing to invest for that?"*; (7) ★★★ **"good things are on the opposite side of
+discomfort"** as step one of his stated system; (8) ★★★ **the public-speaking origin in full** for
+`persona/biography.md` and `entities/kier-mclaren`; (9) ★★★ **last rep syndrome**; (10) ★★★ **the raised-hand
+story** for the biography; (11) ★★ **children's books aren't for children** + reduce-until-a-seven-year-old,
+which ✅ pairs with *"talk to a five-year-old"* from 01-16; (12) ★★ **art from a dark place**, promoted
+**with** his own correlation-not-causal caveat; (13) ★ **afraid of heights**, **home gym**. ⚠️ **Do not
+promote the Skid Row phrasing.** Fenced: **Jodie Cook** (her six-step system, the Forbes path, the
+waiting-list validation rule, agency-care-applied-to-SaaS).

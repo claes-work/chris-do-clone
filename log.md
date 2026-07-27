@@ -9329,3 +9329,86 @@ what he does for creative entrepreneurs** is the cleanest short articulation of 
 corpus and belongs on `entities/the-futur`. (5) ✅ **The compliment-refusal reflex now has three
 attestations** — record it in `persona/voice` as a behaviour with its instances. (6) ⚠️ Guard: the
 Logan mission candidates are not a mission change.
+
+## [2026-07-28] ingest | yt batch (@thefutur, 2 of 3 — one deferred) — two origin stories
+
+Batch 181. Prepared 3; **ingested 2, deferred 1 once.** L2 943 → **945**.
+
+- **2025-08-23 — "Your Dream Life Is Waiting. You're Just Avoiding It"** (★★★ **LANDMARK**). A rare
+  format: **Chris coaching one person on camera, at length, with the mentee pushing back.** It yields
+  ★★★★ **two origin stories the corpus did not have.**
+
+  **Where the inner dialogue came from:** *"much younger than you would think — **probably in grade
+  school somewhere. Being an introvert, being quite isolated and feeling very much apart. The only
+  person I could talk to is myself.** And so I develop a pretty high level of self-awareness and inner
+  dialogue that's quite clear — thinking things, and thinking *why do I think that*, then asking
+  myself: **is that a helpful thought to have? Is this going to build me up, or is it going to tear me
+  down?** **I don't have an identity yet, but I have that inner dialogue.**"* And its completion: *"**it's
+  not until I find myself in a skill — in terms of graphic design — that I start to build an identity,
+  coupled with a self-awareness**"* — against the two failure modes he names: people who *"don't like
+  to think about what they think about"*, and people with no skill who *"**fool a lot of people, but
+  they're not really fooling themselves.**"*
+
+  **Where the analytical eye came from:** an Art Center academic term, a discussion-based class called
+  ***Critiquing Current Movies*** taught by **Jay Chapman**, in a room of film majors where he was one
+  of two designers and *"**I don't know any of this stuff.**"* What he did about it: *"I go watch the
+  movie and then I leave the theatre. **I buy another ticket, I go back in**"* — then, when the money
+  and time made that untenable, *"**I'm going to have to force myself to watch twice in one sitting**
+  — watch as the participant, and watch as the person who's going to have to talk about this film."*
+  → *"**I credit that class, and the structure of that class, for helping me to train my eye.**"* He
+  also supplies the pre-watch question list for people without the class.
+
+  The coaching half is equally dense: **anchor vs. compass** (gratitude grounds but doesn't steer),
+  *"you're at **the tip of the spear**, and that's always a sign that you're in the wrong circles"*,
+  ★★★★ *"**video production is what you do, but it's not what you sell**"*, ★★★★ *"**the whole point of
+  the word *vision* is to see what no one can see**"*, ★★★★ *"**find a couple of people — two or less —
+  and just do whatever they tell you to do… don't even trust yourself**"*, **the gift people sabotage**
+  (*"their weakness is they're smart and they can do lots of different things, so they won't pick one
+  thing"*), and **sacrifice rather than burnout** — *"**difficult things create scarcity. Scarce things
+  are valuable.**"*
+
+  Plus a **six-part self-assessment of why he thinks he out-performs other speakers** (repertoire ·
+  *"my identity is an educator"* · the asymmetry with music · slides · *"there's no movement, you're
+  not moving me"* vs. the moving-but-empty speaker · and the 80/20 revision habit); ★★★★ **the access
+  critique** — *"**nobody's asking me real questions**… I'm not going to force it on you"* — with the
+  exact questions he wishes he were asked; ★★★★ **attachment to the old self** (*"I have the same
+  problem"*); ★★★★ **good vs. excellent** (*"**we're showing up to do a good job, but we're not showing
+  up to be excellent**"*); ✅ **record-in-HD, second attestation**, now with the *catalogue* mechanism;
+  and **the fishing story** with his 21-year-old son — the broken line, the blame, the correction, and
+  the 20-minute internalisation. **Son name-free per policy.**
+
+- **2025-08-28 — "10 Tips…"** (★★★). A scripted consolidation, and the page says so — most of it
+  restates the VidCon and Blanding-In material. **Four things are new or better.** ★★★★ *"**Don't be a
+  fungible human. Be a non-fungible human**"*, with the stereotype named out loud (*"when you think of
+  an Asian man… **somebody who doesn't take up a lot of space. And that makes me upset, because I'm
+  none of those things. I'm loud. I'm opinionated**"*) and the deliberate counter-strategy — borrowing
+  from **Esquire/GQ** and **hip-hop** so that *"**I make it difficult for people to put me into a
+  category. Therefore, I become a one of one.**"* This is **the reason behind the style**, which the
+  corpus has only ever recorded as description. ★★★★ **Three story-excavation questions** (backstory
+  including **birth order**; **peak-emotional-height** moments; **transformative people**). ★★★★ ✅
+  **The repeatable story is credited to Kier McLaren**, correcting an unattributed earlier telling —
+  with the **Colonel Sanders** case (*"growing up, I thought Colonel Sanders was a mascot"* → *"find
+  your **11 secret herbs and spices**"*). ★★★★ **The Dip reframed through scarcity**: *"**people don't
+  fail, they quit**… when things get really hard, **they're supposed to be**."*
+
+**Deferred (once, with reason)**
+
+- `yt-R2J67k2Z6WU` — 2025-09-11, a LinkedIn masterclass at **130,906 B — the largest transcript of the
+  entire ingest run**, roughly twice the previous maximum, and likely multi-speaker. It needs a batch
+  of its own. **Queued first for batch 182; it will not be deferred twice.**
+
+**Synthesis notes:** (1) ★★★★ **The two origin stories are the priority** and belong in
+`persona/biography`: the grade-school inner dialogue is **the root of the introspection the whole
+persona runs on**, and the film class is **the root of the analytical eye** — promote each with its
+mechanism (the self-interrogation questions; buying a second ticket). (2) ★★★★ **"It's not until I find
+myself in a skill that I start to build an identity"** plus *"they fool a lot of people, but they're
+not really fooling themselves"* is his theory of **where a strong core comes from** and should sit
+next to the Spock/Daywalker material. (3) ★★★★ **"Be a non-fungible human"** belongs in
+`persona/appearance` — the corpus records *what* he wears and now has *why*. (4) ★★★★ **Correct the
+repeatable-story attribution to Kier McLaren** wherever it is cited, and deepen `entities/kier-mclaren`
+accordingly. (5) ★★★★ **Sacrifice-not-burnout / difficult → scarce → valuable** appears in both sources
+five days apart — merge as one belief with two tellings. (6) ★★★ **The access critique** and its
+question list is unusually actionable and pairs with the three-phase shadow method from 2025-06-15.
+(7) ★★★ **Good vs. excellent** and **attachment to the old self** → `topics/mindset`. (8) ★★ New
+business data: **$15/month members library** (a different tier from the $200–250 community) and
+**Content Lab**.

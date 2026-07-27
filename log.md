@@ -6745,3 +6745,107 @@ hardest-working lazy person I know"** for `voice.md`; (8) ★★★ **"now you'r
 (9) ★★★ **the 90/10 sprint bargain**; (10) ★★★ **smallest viable action**; (11) ★★★ ***a* designer → *THE*
 designer** via Jiro; (12) ★★ **Paula Scher's three-stickies onboarding**; (13) ★★ **automate the unglamorous
 things**, with the keynotes-in-a-day claim.
+
+## [2026-07-27] ingest | yt batch (@thefutur, 2 of 3 — one deferred) — the succession theory, and the black sheep
+
+**Stage B (P2), `--n 3`.** The row deferred from batch 153 was taken first. Ledger 900 → **902 L2**.
+
+| id | date | what it is |
+|---|---|---|
+| `yt-aE-J18QsH-Q` | 2025-03-05 | ⚠️ **guest-dominant** — Caleb Ralston; ⏸️ from 153 |
+| `yt-DHt-pgda-jM` | 2025-03-12 | ★★★ short (7KB) and unusually dense |
+| `yt-sLe5iNSyejk` | 2025-03-13 | ⏸️ **DEFERRED** |
+
+**1. ⚠️ A guest-dominant episode, fenced with an extra rule this time.** Caleb Ralston spent two and a half
+years as **Gary Vaynerchuk's videographer** and then ran content for **Alex and Leila Hormozi**. Almost all
+the substance is his, and much of it is **first-hand testimony about third parties.**
+
+> ⚠️⚠️ **A cross-clone rule is now recorded on the page**: this repo sits in a roster that contains
+> **separate clones of Gary Vaynerchuk and Alex Hormozi.** **Nothing here may be used as source material for
+> those clones** — one repo = one person, and second-hand characterisation is the worst possible input.
+> Recorded here only because **Chris's own reaction is persona-eligible.**
+
+**2. ★★★ But the Chris half contains an original strategic argument.** He notices the phenomenon himself
+first — *"there was a moment when **Gary was the only talk in town**… **I barely see him on my feeds
+anymore**, and **some of his videos get less views than ours** — and **we only have 2.6 million followers
+ourselves**"* (★★ a dated Futur figure) — then explains it rather than just asking:
+
+> ★★★ *"**Gary is a first mover**… he created all the space, and **when there's no competition you can
+> dominate.**"* → *"he was speaking to **mostly young hustlers who are going to grind all the time**… **but
+> your audience eventually grows up, and you grow out of it.**" → *"then comes in this new guy with a crazy
+> handlebar mustache [with] **really good business stuff that's highly actionable** for the **$100K to $10M
+> range**… ★★★ **and maybe the universe can only have so many players in one category.**"* → ★★★ *"**one day
+> somebody else will take it from Alex** — the next version, the next iteration of it."*
+
+> ⚠️ **It contains a criticism of a named living person, which he flags as a criticism and qualifies in the
+> same breath**: *"**one of my criticisms of Gary**, despite all we've just been talking about, is he was
+> giving **more or less similar advice**… **kind of very rudimentary stuff, which is good for a broad
+> audience.**" **Recorded as his dated opinion, attributed, with his own qualification attached. Not a
+> finding.**
+
+**3. ✅✅ And the consistency argument that completes last pass's reconciliation.** Pass 16 resolved the
+abrasive/warm split with **his explanation of why people misread him**. Here is the other half — **why he
+won't adjust for it**:
+
+> ★★★ *"**Be you — whether you like you or not.** … Sometimes **me on camera is not somebody you like**, and
+> I don't want you to come up to me in real life [saying] *no, you're a prick*. ★★★ **Well, I was a prick on
+> camera too. So there you go. I'm just going to be consistent all the way through.**"*
+
+★★★ With the industry cost he names — *"**they talk one game, they play a different game**… hence that
+phrase: **be careful of meeting your heroes, because they're bound to let you down**"* — ⚠️ **which must be
+paired with [[2024-08-13-yt-i10g2BVfWVI]], where HE is the hero who let a fan down and accepted it
+unhedged.** He does not get to use that phrase from outside.
+
+**4. ★★★ The black sheep — a framework new to the corpus, and he defends both sides of it.** From *"a
+relationship workshop my wife and I were in"*: every family has **five roles**, and *"**the black sheep is
+the saddest character, the most misunderstood and hated**… **but the black sheep is a critical role, because
+what they do is they bring new ideas.**"* The island parable: the black sheep says the water is drying up,
+is treated as casting doubt on the chief, leaves with a few followers, finds better land — ★★★ *"**and then
+the old tribe dies.**"*
+
+> ★★★ **The non-obvious half is that he then defends the chief**: *"the head of the family becomes **the
+> historian — the person who preserves ideas, cultures and customs.** The black sheep says *you're
+> old-fashioned, you're out of touch* — **but what they don't realise is they bring institutional knowledge:
+> we do these things because this is how people don't die.**"*
+>
+> **The rule it produces**: ★★★ *"**we trade roles and responsibilities, but we don't merge them together —
+> because that's where it gets really, really messy.**"* ✅ **Structurally identical to the general/soldier
+> point in the same video: play a defined role, swap over time, never occupy two at once.**
+
+**5. ★★★ A second Kier McLaren maxim — and a second confirmation of his death.** *"Something I learned from
+my mentor — **God rest his soul, Kier McLaren** — **you can tell me WHAT you want, you can tell me HOW to do
+it, but you can't tell me both.**"*
+
+> ⚠️✅ ***"God rest his soul"* is Chris's own on-air confirmation of the death**, corroborating the *"he
+> since passed away"* of 2025-02-02. **Two passing references, five weeks apart, both past tense. Still no
+> date given, and none inferred.** Entity page updated.
+
+**Also**: ✅ *"a compromise is when no one's happy"* is now **twice attested in eight days** — settled
+phrasing, not an ad-lib; ★★★ **managing creative spirits vs left-brainers** — *"you don't want to be
+Draconian, because then **they stop functioning as creative people and they start turning in work
+instead**"* (✅ the management-side corollary of the Daywalker); ★★★ *"**they will find the money somehow.
+It's never about the price — it's because they didn't want to work with you**"*; and ★★★ **the Dune spice
+metaphor** for what sustains him — *"**this is my spice. It's what keeps me going.**"*
+
+**Deferral (no silent caps):** one row — `sLe5iNSyejk` — returned to `L0-discovered` at P2, transcript
+cached, not skimmed.
+
+**Pipeline state:** `@thefutur` P1:0, **P2:175**, P3:44; `@TheFuturAcademy` P3:72; shorts 860; L2=**902**,
+L3=0; synthesis debt **2/10**; persona v18.
+
+> **Next iteration: Stage B (P2), `--n 3`**, led by `sLe5iNSyejk`.
+
+Synthesis notes: genuinely new — (1) ★★★ **the succession theory** (first mover → no competition → the
+audience ages out → the space is taken → *"one day somebody else will take it from Alex"*), ⚠️ **promoted
+only with the criticism-of-Gary framing and his own qualification attached**; (2) ✅✅ ★★★ **"be you whether
+you like you or not" / "I was a prick on camera too"** — **the consistency half of the abrasive/warm
+reconciliation**, ⚠️ **paired with the Toronto incident**; (3) ★★★ **the black sheep and the five family
+roles**, with the island parable **and the chief-as-historian defence**, producing ★★★ **"trade roles, never
+merge them"**; (4) ✅ **fold the general/soldier telling into the existing captain-soldier entry** rather
+than duplicating it, adding the new diagnosis that *people get intimidated around executives and stop
+offering ideas*; (5) ★★★ **Kier McLaren's *what OR how, not both*** — ✅ **death confirmed a second time,
+entity page already updated this batch**; (6) ★★★ **managing creative spirits vs left-brainers** —
+*"they start turning in work instead"*; (7) ★★★ *"they will find the money somehow"*; (8) ★★★ **the Dune
+spice metaphor** for `voice.md`; (9) ★★ **~2.6M Futur followers (March 2025)** for the entity page;
+(10) ✅ *"a compromise is when no one's happy"* — twice attested, promote as settled. ⚠️⚠️ **Caleb Ralston's
+material is fenced AND must never be used for the GaryVee or Hormozi clones.**

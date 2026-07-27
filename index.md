@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-27 (ingest yt batch @thefutur, 2 of 3 → **900 L2** — the clearest **corporate-vs-personal-brand** argument in the corpus (*"send it to a committee and all creativity dies"*), the **three stories** named as a set, ✅ **retainer ≠ subscription credited on record to Ron Baker** (clearing a standing attribution flag), and ★★★ **be a franchisee** — with his own exclusion from it)_
+_Last updated: 2026-07-27 (ingest yt batch @thefutur, 2 of 3 → **902 L2** — an original ★★★ **succession theory** (*"one day somebody else will take it from Alex"*) from a guest-dominant episode whose guest material is fenced against the sibling clones; plus ★★★ **the black sheep and the five family roles**, and ✅ **a second on-air confirmation of Kier McLaren's death**)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **900 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-03-06, one row deferred] + the 2026-07-21 fresh upload; synthesized through batch 152 → persona **v18**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **902 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-03-12, one row deferred] + the 2026-07-21 fresh upload; synthesized through batch 152 → persona **v18**).
 
 ## Topics
 

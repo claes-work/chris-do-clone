@@ -281,3 +281,19 @@ change. **She loves me dearly, but it's fun to see me suffer.**"*
 
 > ⚠️ **Reminder carried forward**: this page records that **he has died**, as stated on air, **with no date
 > inferred.** All references above are narrated by Chris in the past tense.
+
+### ✅ Death confirmed a second time, in Chris's own words (2025-03-12)
+
+Crediting a maxim, Chris says it plainly and in passing: *"something I learned from my mentor — **God rest
+his soul, Kier McLaren** — he would say…"* ([[../sources/2025-03-12-yt-DHt-pgda-jM]])
+
+**This corroborates the 2025-02-02 *"he since passed away"*.** ⚠️ **Still no date is given, and none is
+inferred.** Two independent passing references, five weeks apart, both past-tense.
+
+### ★★★ A second maxim (2025-03-12)
+
+> ★★★ *"**You can tell me WHAT you want, you can tell me HOW to do it — but you can't tell me both.**"*
+
+Chris's gloss: *"that summarizes my whole feeling about it — **allow me the autonomy to figure it out; or
+you lead, and I'll just follow what you do.**"* ✅ **The coaching source of his general/soldier — and
+anti-micromanagement — position.** ([[../sources/2025-03-12-yt-DHt-pgda-jM]])

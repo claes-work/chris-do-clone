@@ -9812,3 +9812,100 @@ unlocated**; a Lakajev part two.
 
 **Synthesis notes:** none — passes 19 and 19b are both complete and **synthesis is fully caught up
 through batch 184 / L2 949**. Ingest resumes next iteration at @thefutur P2 (130 open).
+
+## [2026-07-28] ingest | yt batch (@thefutur, 2 of 3 — one deferred) — the taste gap, and "no and no"
+
+Batch 185, the first after the pass-19/19b checkpoint. Prepared 3; **ingested 2, deferred 1 once.**
+L2 949 → **951**.
+
+- **2025-09-25 — "6 Creative Skills AI Can't Replace"** (★★★ **LANDMARK**). The most structured AI
+  answer in the corpus — six skills, each argued against a specific limit of the technology, with the
+  framing refused up front: *"**these are not the jobs you should be doing, but the skills you should
+  strengthen, stack, and lead with.**"* But the reason it is a landmark is **two biographical finds
+  the corpus did not have.**
+
+  ★★★★★ **The taste gap he grew up with, and the method he invented to close it.** *"I grew up in
+  **Northern California in the 80s — in the valley, in Silicon Valley** — and **I wasn't exposed to a
+  lot of art and culture. In fact, the first time I got on an airplane I was like 16 or 17** — my
+  brother flew me from San Jose to San Diego… **I'm not a highly cultured person. I have a pretty
+  unsophisticated taste. I was uncouth, as some might say.**"* Then Art Center: *"**there are these
+  Europeans who've travelled — Spain, Italy, Germany, the UK — and I've never been anywhere except
+  within Northern California. So how does one close that gap? How does one even compete with people
+  who literally grew up in hundreds of years of art, history and culture?**"*
+
+  His answer is a practice, not an attitude: *"**you play catch-up**… **become a dolphin**"* — go as
+  deep as your curiosity takes you — and then **the library method**: *"**take 25 magazines at a time
+  and literally just scan through it**"* (the *Fifth Element* image), **starting with the current year
+  and working backwards** until *"**you start to see patterns that repeat themselves over the course of
+  a couple of decades.**"* With the shortcut that makes it efficient — *"**when you pick up a magazine
+  on architecture, it's already been curated by someone who understands what good architecture looks
+  like. You're seeing the best of the best**"* — and the line that names the whole strategy: *"**you
+  combat the pattern-recognition machine by becoming your own pattern-recognition machine.**"*
+  ✅ **This turns *taste is the new leverage* (2025-06-15) from an assertion into a trainable practice,
+  and it explains where his own taste doctrine comes from.**
+
+  ★★★★★ **The "no and no" story.** A prospect asked, *"Chris, do you understand what we do? Have you
+  looked at our site?"* — *"**and in a split second, I said no and no. I think another person would try
+  to BS their way around that. But the reason why I said what I said was: it's my truth. I don't want
+  to tell lies. I don't want to begin a relationship by trying to pretend that I'm something that I'm
+  not.** My reason is — **what can I hope to learn by looking at your website that I'm not going to
+  learn by speaking to you?**"* → *"**one of the decisions that got us this $100,000 logo
+  assignment.**"*
+
+  Also: *"in the age of AI… **it's less important what and how — but why. The machine can't figure out
+  the why**"*; *"**it lacks the emotional empathy because it has never lived a life**"* (with the
+  loved-vs-read-about-love comparison); *"**if you can read the room, you can lead the room**"*;
+  **branding as an irrational emotional connection**; *"**the courage to be wrong is what creates
+  originality**"* and a full defence of the messy process (*"**in creativity, it's a hot, jumbled,
+  tangled mess — and that's where we birth the biggest, boldest ideas**"*); **divergent thinkers rule
+  the 21st century**, with **Brian Collins** credited (*"designers are futurists"*); *"**answers are
+  cheap. Taste isn't**"*; **H-to-H**; the **Robert** story about relationship capital; and the message
+  to introverted creatives — *"**when you only show the work that you do, you're creating a barrier**…
+  **you are more than the work that you create.**"*
+
+- **2025-10-09 — "How to handle client revisions"** (★★★). Short, and the answer is not what the room
+  guesses (they say *unclear proposal*, *wrong questions*). ★★★★ *"**You do not create space for them
+  to say 'destroy all of this.' And the whole point of creating stylescapes is for them to say 'destroy
+  all of this'** — because it was relatively little work. **And problems are always cheaper to solve at
+  the beginning than at the end.**"* That reframes a familiar tool: **stylescapes exist to be
+  rejected.** With the pitch verbatim, including the translation offer — *"**use the language you know
+  how, and I'll ask you questions to interpret it in my world, and I'll say back to you what I'm
+  hearing**… **I want to get to truth**"* — and the diagnosis of why creatives avoid the conversation:
+  *"**we want them to love what we love. And we'll pay for that every single time when we ignore what
+  their needs are.**"*
+
+  ★★★★ **A power-asymmetry lesson from Kier McLaren**, new to that page: *"**oftentimes as the owner or
+  creative director, you hold a lot of power over the people that report to you. And you don't realise
+  how much power you have.**"* → the script — *"**you can tell me this is not possible, and let's figure
+  out a solution. But if you say yes, then I expect this to be done**"* → *"and then **all of a sudden
+  we hear *no* a lot more often. And it's not the horrible thing that all bosses think.**"* →
+  ★★★★ *"**You have to invite people to tell you no.**"*
+
+  ★★★★ And **Chris Voss's three yeses** — the understand-but-don't-agree yes (*"I do this with my wife
+  all the time"*), ★★★ **the shut-up yes** (*"I'm going to say yes to shut you up"*), and the true yes
+  — *"**look for the no, because the no is the only truthful answer that you can count on reliably**"*
+  → **ask a yes question in the negative** (*"would it be crazy for you to speak to my class of 20
+  students?"*). ⚠️ He flags the ethics himself: *"this gets into a little bit of, kind of,
+  manipulation."*
+
+**Deferred (once, with reason)**
+
+- `yt-PZgRQpu61k4` — 2025-10-16, **116,787 B**, and ⚠️ **significant**: this is **Ep. 2 of the
+  Chris + Matt Essam personal-brand series** announced on 2025-09-14 — the **second** episode in which
+  they appear together, continuing the documented exception to the do-not-train fence. It needs a
+  dedicated batch and a careful attribution pass. **Queued first for batch 186.**
+
+**Synthesis notes:** (1) ★★★★★ **The taste gap and the library method** is the highest-value item and
+belongs in **`persona/biography`** *and* **`topics/design-craft`** — the biography half explains the
+doctrine, and the method half is genuinely actionable (25 magazines, work backwards, let editors
+pre-curate). Promote them together. (2) ★★★★★ **The "no and no" story** belongs on `entities/blind`
+beside the other bidding material — it is a complete worked case of qualify-by-honesty with a dollar
+figure attached, and it pairs with *"they give good phone"*. (3) ★★★★ **The six-skill AI frame** should
+become the anchor for the AI material in `topics/mindset`, with the older faces demoted to
+corroboration; the load-bearing lines are *"it has never lived a life"* and *"it's less important what
+and how, but why."* (4) ★★★★ **"Stylescapes exist to be destroyed"** reframes a tool the corpus already
+documents and belongs in `topics/design-craft` **and** `topics/sales-clients`. (5) ★★★★ **The
+power-asymmetry lesson** is a new Kier item and should be added to `entities/kier-mclaren`;
+**"invite the no"** is the cleanest statement of why his discovery method front-loads permission.
+(6) ★★★ **The three yeses** join `topics/sales-clients`, ⚠️ **with his own manipulation caveat
+attached.** (7) ★★ **Brian Collins** — *"designers are futurists"* — for that entity page.

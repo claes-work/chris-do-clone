@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-28 (**synthesis pass 19b** — the gap pass 19 declared is closed: all 7 topic hubs updated (+29 sections), the **authenticity-gap page rewritten** around the most honest telling, `blind` given the credit list and the pre-social marketing stack, `kier-mclaren` credited with the repeatable story, and a new **`guest-context-2025`** fence page. persona **v21** stands.)_
+_Last updated: 2026-07-28 (ingest yt batch @thefutur, 2 → **951 L2** — ★★★★★ **the taste gap and the library method** (*"I was uncouth… become a dolphin"* → 25 magazines at a time, working backwards), and **the "no and no" story** that won a \$100,000 logo assignment; plus *"you have to invite people to tell you no"* and Voss's three yeses)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **949 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-09-20, no deferrals outstanding] + the 2026-07-21 fresh upload; synthesized through batch 184 → persona **v21**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **951 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-10-09; one row deferred once — Essam Ep. 2, queued first for next batch] + the 2026-07-21 fresh upload; synthesized through batch 184 → persona **v21**).
 
 ## Topics
 

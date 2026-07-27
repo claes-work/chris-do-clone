@@ -32,6 +32,7 @@ this has been a short masterclass…"* Prior to that video the surname was carri
 | 2024-06-23 | `mVAuwv_UHlg` | 5-step LinkedIn DM process | [[../sources/2024-06-23-yt-mVAuwv_UHlg]] |
 | 2024-07-27 | `eBrwd2FZCEE` | ⚠️ **pricing** — hourly billing, undercharging, discounting | [[../sources/2024-07-27-yt-eBrwd2FZCEE]] |
 | 2024-08-27 | `vBTGeNr4ZZ0` | ⚠️ **client acquisition** — landing six-figure design projects | [[../sources/2024-08-27-yt-vBTGeNr4ZZ0]] |
+| 2024-09-27 | `TSU29CCLKrE` | ⚠️⚠️ **the sales process** — a four-part "clarity call" framework | [[../sources/2024-09-27-yt-TSU29CCLKrE]] |
 
 **Expect more.** The slot runs at least December 2023 → August 2024 and may continue through the 2024 P2
 range still open in the ledger. **It is regular, not occasional.**
@@ -49,6 +50,15 @@ range still open in the ledger. **It is regular, not occasional.**
 > Chris domains.** Treat the drift as permanent, not incidental: from here on, assume any Essam video may
 > sit directly on top of a topic where Chris has documented positions. The same verify-no-leak instruction
 > now applies to **`wiki/topics/sales-clients`** as well as pricing.
+>
+> ⚠️⚠️ **THIRD CONSECUTIVE CORE-DOMAIN VIDEO (2024-09-27), and the closest overlap yet.** The seventh
+> instance is a **four-part first-call sales framework** — his *"clarity call"* — sitting directly on top of
+> the hub where Chris has more documented material than anywhere else, and **structurally rhyming with it**
+> (control the frame ≈ the accusation audit; identify the gap ≈ baseline/benchmark; ask about *general*
+> business goals ≈ the humility argument; a 15–20 min fit call ≈ the first-call doctrine).
+> **Similar conclusions from a different person is precisely the failure mode this page exists to
+> prevent.** When verifying no-leak in `topics/sales-clients`, search specifically for **"clarity call"**,
+> **"control the frame"**, and the **nursery-painting / gallery-red-square** framing.
 
 ## How to recognise one (the tells)
 
@@ -72,6 +82,7 @@ range still open in the ledger. **It is regular, not occasional.**
 - **The weekly planner**: brain dump, chunking, a priority matrix, protect time for the few things that
   move the business; end-of-week retrospective — *"what were your wins and what did you learn"* — on the
   premise that *"there is no such thing as failure: you either win or you learn."*
+- ⚠️ **A four-part "clarity call" first-call framework** (control the frame → identify the gap → goals broadly, not goals-about-your-service → [part four]), capped at 15–20 minutes, with a downloadable script and a pre-emptive defence of scripts (*"mould it to sound like you"*). His framing analogy: a child's painting in a nursery vs. a red square in a famous gallery — *"whoever sets that frame controls the conversation."*
 - ⚠️ **A three-mistake pricing lecture** (hourly billing → undercharging → discounting), with client case studies in pounds. One precise distinction worth noting as *his*: **undercharging** is setting the price low yourself, invisibly; **discounting** is lowering a stated price after pushback.
 - **The five-step LinkedIn DM process**, evidenced with client results (a five-figure Paramount deal;
   landing Bentley) and closing on *"don't be afraid to follow up with people."*

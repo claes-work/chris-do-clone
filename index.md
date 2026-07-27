@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-27 (**synthesis pass 14 → system-prompt v16**) — promoted 49 L2 pages (806→855) into all 7 hubs + biography/beliefs/voice. Landmarks: ★★ ***brand = preference + willingness to pay a premium***, the **client-pushback triage**, **content = client acquisition**, the **three exit indicators**, and the **Novacom $85K counter** (he left a raise to found Blind). **3 new guards** (know your depth · the accusation audit is a promise · designed presentation ≠ inauthenticity) and **5 reconciliations closed**._
+_Last updated: 2026-07-27 (ingest yt batch @thefutur, 5 → 860 L2 — ★★ **"I'm extremely socially awkward, and I just pretend not to be"** and the strategy built on it (*"if I'm good enough at creating content, I don't have to develop social skills"*) — the missing rationale for **loud introvert**; ★★ live roleplay coaching (*"use his language. Don't introduce a new word"*); ⚠️ Matt Essam's 7th instance is a **third consecutive core-domain** video)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **855 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2024-09-22, one row deferred] + the 2026-07-21 fresh upload; synthesized through batch 133 → persona **v16**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **860 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2024-10-06; the deferred row is now ingested] + the 2026-07-21 fresh upload; synthesized through batch 133 → persona **v16**).
 
 ## Topics
 

@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-27 (ingest yt batch @thefutur, 2 → **928 L2** — ★★★ **the Futur spin-off told on camera** (the CEO took the coaching arm; *"we're down the revenue but we're lighter because of the overhead"*) and **social-as-résumé** with the 10%-of-your-life-force allocation; plus a 13th Matt Essam fence page — the first in which Essam characterises Chris's sales style on air)_
+_Last updated: 2026-07-27 (ingest yt batch @thefutur, 1 → **929 L2** — ★★★ **LANDMARK**: the Brendan Kane episode, where being critiqued forces rare self-analysis — **the Spock story and his therapist's reframe of it**, **the introversion mechanism** (content → speaking → introduction → never a stranger), **a dated reversal on AI and faceless content**, and why the 50% deal is 50%)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **928 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-06-03; one row deferred once — a 124 KB guest interview, queued first for next batch] + the 2026-07-21 fresh upload; synthesized through batch 163 → persona **v19**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **929 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-06-03, no deferrals outstanding] + the 2026-07-21 fresh upload; synthesized through batch 163 → persona **v19**).
 
 ## Topics
 

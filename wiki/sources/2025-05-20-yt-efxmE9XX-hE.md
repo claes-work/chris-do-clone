@@ -36,6 +36,13 @@ package?").
 - It is **not** lying: *"You might not be faking anything, but you're definitely
   performing to a degree"* — adjusting how you speak, dress, express yourself *"to fit
   in to what people already think and want from you."*
+> ✅ **Intellectual source, found later:** in a clip replayed on
+> [[2025-05-29-yt-4ZS8dMwPObk|2025-05-29]], Chris grounds this framework in **Jung** —
+> *"in Jungian ideology, the ego regulates between **the shadow self**… and **the persona,
+> who you show up in the world to be accepted. Most of us live in the persona, and we
+> don't even know it.**"* The authenticity gap is his applied restatement of Jung's
+> persona/shadow, and the *"normal means average"* argument appears verbatim there too.
+
 - **Root cause:** *"a deep-rooted fear of not being loved, not being accepted."* He
   explicitly declines to moralize about it: *"these are survival mechanisms… we might
   even be doing this subconsciously."*
@@ -109,8 +116,10 @@ Chris's answer is the point of the story:
   — once in the morning when you're brushing your teeth and once at night when you're
   washing your face."*
 
-**The four-column exercise** (his own arrangement of an ikigai-shaped question — see
-[[../topics/mindset/mindset|mindset]]):
+**The four-column exercise** — this is **ikigai**, which he does not name in this source
+but *does* name explicitly in [[2025-05-29-yt-4ZS8dMwPObk|2025-05-29]] nine days later,
+teaching the same four circles with their four intersections (mission / passion /
+profession / vocation). See [[../topics/mindset/mindset|mindset]]:
 
 | # | Column | Prompt |
 |---|---|---|

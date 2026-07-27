@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-27 (ingest yt batch @thefutur, 8 → 764 L2; P2 Nov–Dec 2023: both **Adobe MAX 2023 whiteboard sessions** ★★ — day 1 pricing ("the buyer determines value, the seller determines price") and day 2 lead generation (the backwards funnel + the 2023 ChatGPT workflow) — plus the Hot Sauce NYC questions keynote (PROACT, "I hate public speaking") and "it's not invention, it's memory"; 1 guest-solo video marked do-not-train)_
+_Last updated: 2026-07-27 (ingest yt batch @thefutur, 8 → 772 L2; P2 Dec-2023–Jan-2024: the **DAPPER** mindset session with the lost-red-envelope childhood story ★★, the **canonical sales masterclass** ("you're selling their time back to them") ★★, and **Business Bootcamp pt.1** with the fullest Brand Lab origin story in the corpus ★★; 3 guest-primary items marked do-not-train, incl. a Marty Neumeier clip kept as an attribution guard)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **764 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2023-12-12] + the 2026-07-21 fresh upload; synthesized through batch 114 → persona **v14**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **772 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2024-01-13] + the 2026-07-21 fresh upload; synthesized through batch 114 → persona **v14**).
 
 ## Topics
 

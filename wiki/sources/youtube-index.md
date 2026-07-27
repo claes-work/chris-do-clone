@@ -768,7 +768,15 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-12-19 | ★ [Personal Branding — AdobeMAX 2023 keynote](2023-12-19-yt-MVz9mm0Z-7g.md) | branding; content-strategy; mindset | Unbland-core keynote + biography; L3-candidate |
 | 2023-12-23 | ★ [Selling Without Being Salesy](2023-12-23-yt-B-NxAZiDkKo.md) | sales-clients; mindset; business | serve-don't-sell + SALES framework; L3-candidate |
 | 2023-12-30 | [Powerful LinkedIn Presence (LinkedIn Expert)](2023-12-30-yt-GfDMqfnFHxM.md) | content-strategy; branding | guest Yasin/Hey J (context); 4 Chris quotes |
+| 2023-12-26 | [Crafting a Great Client Experience](2023-12-26-yt-w0xZyxT23Mw.md) | business; sales-clients | ⚠️ guest-primary (~95%) — "Gigi" presents her 5-stage client-experience framework; do-not-train. Chris trains only his admission that client experience is "something I'm not very good at, to my own detriment" |
+| 2023-12-28 | ★★ [How To Unf*** Your Life — 6 Steps To Reinvent Yourself](2023-12-28-yt-I5bdbA7j6Io.md) | mindset; business | **strongest mindset source in the batch**; the **DAPPER** framework; the **lost red envelope** at ~9–10 (with a self-aware mythology-building disclaimer); "we love the miserable state we're in"; the Platinum Rule; L3-candidate |
+| 2024-01-01 | [How To Say Your Price — Sales Roleplay](2024-01-01-yt-dFgqqc9h9AY.md) | sales-clients; pricing; branding | clip of the masterclass role-play (canonical: 2024-01-04); the **budget inversion** ($50–60K identity vs. $250–400K rollout); unselling as advocacy |
+| 2024-01-04 | ★★ [How To Charge For Design & Creative Work (Full Sales Masterclass)](2024-01-04-yt-tfeFSjrZ_Aw.md) | pricing; sales-clients; business | **canonical sales source**; "you're **selling their time back to them**"; "I still use all three pricing models"; "assume everything presented to you is untrue"; ⚠️ ICE acronym is **Mo's**, not Chris's; L3-candidate |
+| 2024-01-06 | ★★ [Leveling Up Your Business 2024 (Business Bootcamp pt. 1)](2024-01-06-yt-aSzZiCp9GWg.md) | business; pricing; content-strategy; mindset | **fullest Brand Lab origin story in the corpus, with numbers** ($36K/yr, the failed sales page, the $3.6M projection); the 3-categories + **5× rule**; 2–3 six-figure calls a week; L3-candidate |
+| 2024-01-08 | ★ [How To Master Business: A Deep Dive With Leila Hormozi](2024-01-08-yt-ZmGBqGGshzs.md) | business; mindset | guest-primary (Leila Hormozi fenced); Chris trains **free will as a chosen belief**, the hero/villain theory of adversity, and a **new disclosure about his wife's upbringing**; L3-candidate |
 | 2024-01-10 | ★ [Branding for Non-Creatives — Crash Course Keynote](2024-01-10-yt-h-eRwbbpfxo.md) | branding; content-strategy; business | branding fundamentals keynote + biography; L3-candidate |
+| 2024-01-11 | [What Is Branding? 3 Minute Crash Course](2024-01-11-yt-_cj6TJfLYVI.md) | branding | ⚠️ **NOT Chris** — the whole answer is **Marty Neumeier's** canonical gut-feeling definition; do-not-train. Kept as an **attribution guard** against it being absorbed as Chris's own |
+| 2024-01-13 | ★ [How To Build an Uncompromising Creative Vision (Killspencer)](2024-01-13-yt-RQVctiwIp6Y.md) | design-craft; business; mindset | guest-primary (Spencer Nugent fenced); Chris trains **new childhood-poverty detail** — the foam Hoth playset, the bamboo crossbow — and "an **overactive imagination and not enough resources**"; L3-candidate |
 | 2024-02-24 | ★ [Who Is Chris Do & The Futur? Origin Story](2024-02-24-yt-f5uYRuqK4g0.md) | mindset; business | richest biography source (Travis Makes Friends podcast); L3-candidate |
 | 2024-11-06 | [From $13 to $100K Brand Deals — w/ Adrian Per](2024-11-06-yt-KvUO_1lrNcQ.md) | content-strategy; business | guest interview (Per = context); 6 Chris quotes |
 | 2025-03-11 | ★ [10 Habits I Quit To Go From Broke To Millionaire](2025-03-11-yt-f6YiuU-P-6E.md) | mindset; business | discipline/mindset feed; L3-candidate |
@@ -784,4 +792,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_764 videos ingested (L2) so far._
+_772 videos ingested (L2) so far._

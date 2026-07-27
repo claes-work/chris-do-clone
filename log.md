@@ -2970,3 +2970,109 @@ Latisse and teriyaki-restaurant anecdotes; (11) **"quantify the unquantifiable"*
 the recurring can't-measure-design objection; (12) new names — **Kier McLaren** (business coach) and
 **Jule Kim**. Carried forward as cautions: the $6.7M figure above, and the sales-ethics tension in
 `naF88vS6z8o`.
+
+## [2026-07-27] ingest | yt batch (@thefutur, 8) — P2 Dec-2023 → Jan-2024: DAPPER, the sales masterclass, Brand Lab's origin
+
+Orient per Stage 0: `SUBJECT.md` unchanged; `ingest_batch.py status` → `@thefutur P1:0 P2:316 P3:44`,
+`@TheFuturAcademy P3:72`, shorts 860, L2=764/L3=0, synthesis debt **2/10**. Stage machine: checkpoint
+not due → persona fresh (v14, refreshed two iterations ago) → all TARGET channels have rows → P1 empty
+→ **Stage B on P2**. Titles eyeballed before fetching; nothing skippable on title alone. **8/8
+transcripts fetched, 0 failures.**
+
+**Ingested (8, all @thefutur, all → L2):**
+- `yt-w0xZyxT23Mw` 2023-12-26 *Crafting a Great Client Experience* — ⚠️ **guest-primary (~95%)**.
+  "Gigi" (full name badly garbled in the captions) presents her own five-stage client-experience
+  framework; fenced, do-not-train. Chris's only persona-eligible contribution is a candid one:
+  client experience is *"something I admit I'm not very good at doing, to my own detriment — luckily I
+  have a team that does this."*
+- `yt-I5bdbA7j6Io` 2023-12-28 *How To Unf\*\*\* Your Life* — ★★ **the strongest mindset source in the
+  batch.** The **DAPPER** framework (proposed in one form by Mo, rewritten live by Chris), and the
+  **lost red envelope** story at nine or ten — a $5 envelope out of a ~$100 Lunar New Year haul, his
+  mother's disarming reply, the self-attack, and the question that stopped it: *"will beating myself up
+  make a new red envelope appear?"* Notable that he prefaces it with an unusual disclaimer about
+  mythology-building. Also: the narrow sliver of objective truth (via Krishnamurti), the **Platinum
+  Rule**, get-permission-before-helping, meditation-as-witness, and the devil-you-know account of why
+  people don't change — *"we love the miserable state that we're in, because at least we know it."*
+- `yt-dFgqqc9h9AY` 2024-01-01 *How To Say Your Price — Sales Roleplay* — a **clip** of the masterclass
+  role-play three days later; marked non-canonical. Its own distinct contribution is the **budget
+  inversion**: a $50–60K identity is the small part, the rollout across ten-plus touchpoints is
+  $250–400K, and he holds that line rather than discounting.
+- `yt-tfeFSjrZ_Aw` 2024-01-04 *Full Sales Masterclass* — ★★ **canonical**. Carries the batch's sharpest
+  idea: **"you should be selling time — you've been measuring the time *you* work on it, not time for
+  the *client*,"** i.e. you sell their time back to them, because *"time is a non-renewable, perishable
+  resource."* Also an important corrective to how the corpus currently frames him: *"in my career, and
+  I still do to this day, I consistently still use all three pricing models"* — with a clear account of
+  when hourly is genuinely right. Plus the ethic behind the role-plays: *"assume everything that's said
+  and presented to you is untrue,"* the therapist frame, and *"I'm an advocate for their business and
+  their goals, not an advocate for Chris Do."*
+- `yt-aSzZiCp9GWg` 2024-01-06 *Business Bootcamp pt. 1* — ★★ **the fullest Brand Lab origin story in
+  the corpus, and the only one with numbers**: a $36,000/year mastermind he couldn't find a buyer for,
+  weeks of unwritable sales copy, a ChatGPT attempt that *"gave me a more generic version of this hot
+  mess — built on a pile of garbage,"* then the accidental discovery when finance and real-estate
+  people asked what they could buy and *"I had nothing for them."* He names the internal cost in
+  advance (*"you turn your back on us, Chris is just chasing the money now"*) and projects it as *"a
+  $3.6 million business venture at least."* Also the three-categories model with the **5× rule**, the
+  marketing-problem/sales-problem distinction, and a biographical number that reframes his coaching era:
+  **two to three new-business calls a week at $100–300K each.**
+- `yt-ZmGBqGGshzs` 2024-01-08 *Deep Dive With Leila Hormozi* — guest-primary; her material fenced. Chris
+  contributes **free will as a chosen belief** (*"I don't know for a fact that we have free will… but I
+  choose to believe it, because it's a better idea than to say I'm not responsible"*) — which is the
+  epistemic footing under the "happens *for* you" doctrine already in the corpus — the **hero/villain
+  theory of adversity**, and a **new disclosure about his wife's upbringing** (raised herself and her
+  sisters; lastingly sensitive to feeling unloved), recorded name-free per SUBJECT.md.
+- `yt-_cj6TJfLYVI` 2024-01-11 *What Is Branding? 3 Minute Crash Course* — ⚠️ **NOT CHRIS.** He asks one
+  framing question and never speaks again; the entire answer is **Marty Neumeier's** canonical
+  gut-feeling definition. Filed do-not-train **specifically as an attribution guard**: published under a
+  generic title on Chris's own channel, it is exactly the source a future synthesis could mistake for
+  his own formulation.
+- `yt-RQVctiwIp6Y` 2024-01-13 *Killspencer* — guest-primary (Spencer Nugent fenced), but it produces
+  **new childhood material**: the foam Hoth playset he couldn't make work, the bamboo crossbow whittled
+  for his action figures, and the line that generalises them — *"it comes from having an overactive
+  imagination and not enough resources. You've got to go make the world that you want."* Plus *"I never
+  felt special in my life, but for those few moments"* on drawing as his first experience of being seen.
+
+**Bookkeeping:** 8 `ledger_set.py` updates; 8 rows inserted into `wiki/sources/youtube-index.md` in date
+order; footer 764 → **772**; `index.md` count and status line updated. No `raw/` file modified after
+filing. No persona or topic page touched.
+
+**Attribution work this batch was unusually heavy — four items needed explicit guards:**
+1. **`_cj6TJfLYVI` is Marty Neumeier, not Chris.** The speaker is never named on camera; the
+   identification rests on the content being his canonical *Brand Gap* definition delivered in the
+   first person, plus Chris's own deferential framing ("I know you're the best person to tell us").
+   Flagged `attribution: uncertain` on the name, `certain` that it is not Chris.
+2. **The ICE acronym in `tfeFSjrZ_Aw` is Mo's coinage, not Chris's** — Mo says so on air. Recorded so a
+   later pass doesn't attribute it to the subject.
+3. **`w0xZyxT23Mw` and `RQVctiwIp6Y` are guest-primary**, with only a few Chris lines each; both pages
+   separate the two cleanly.
+4. **Two more clip/canonical pairs** (`reVhRZBS5s0`-style): `dFgqqc9h9AY` ⊂ `tfeFSjrZ_Aw`. Each clip
+   names its parent so the material is promoted once.
+
+**One doctrinal correction worth flagging to the next synthesis:** the corpus currently frames Chris as
+a value-based-pricing advocate. In `tfeFSjrZ_Aw` he explicitly rejects that framing — *"I'm an advocate
+for using the right pricing methodology for the task"* — and states he still uses **all three** models
+today, with a clear account of when hourly is correct. That should be promoted as a **guard**, not just
+an addition.
+
+**Pipeline state after this batch:** `@thefutur` P1:0, **P2:308**, P3:44; `@TheFuturAcademy` P3:72;
+shorts 860; L2=**772**, L3=0; synthesis debt **3/10**; persona v14.
+
+> **Next iteration: Stage B again (P2).** Checkpoint is 7 batches away, persona is fresh, 308 open P2
+> rows remain — keep draining P2 oldest-first.
+
+Synthesis notes: genuinely new this batch — (1) **DAPPER**, a named, ownable emotional-regulation
+framework; (2) the **lost red envelope** childhood story, the stated origin of that practice, delivered
+with a self-aware disclaimer about mythology-building; (3) **"you're selling their time back to them"**
+plus "time is a non-renewable, perishable resource" — the cleanest resolution of the hourly-vs-value
+tension anywhere in the corpus; (4) **"I still use all three pricing models"** — a dated corrective that
+should become a persona guard; (5) the **Brand Lab origin story with numbers** ($36K/yr, the failed
+premise, the ChatGPT dead end, the $3.6M projection), materially more specific than the 2023-11-01
+telling and to be promoted alongside it; (6) the **three-categories + 5× rule** business framework;
+(7) **"assume everything presented to you is untrue"** with the therapist frame and "advocate for their
+business, not for Chris Do"; (8) **free will as a chosen belief**, the footing under the existing
+happens-*for*-you doctrine; (9) the **hero/villain theory of adversity**; (10) **"an overactive
+imagination and not enough resources"** with the Hoth-playset and bamboo-crossbow details, which give
+the childhood-poverty thread concrete texture; (11) **"we love the miserable state that we're in"** and
+"what have you done to let go of your old identity?"; (12) the **Platinum Rule**; (13) new biographical
+detail — 2–3 six-figure new-business calls a week during the coaching era, a brother who is a
+Stanford-trained software engineer, his wife's upbringing, sons aged 17 in Jan 2024, and a rare mention
+of buying and developing property. Carried forward as cautions: the Neumeier and ICE attributions above.

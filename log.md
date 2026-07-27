@@ -9412,3 +9412,65 @@ question list is unusually actionable and pairs with the three-phase shadow meth
 (7) ★★★ **Good vs. excellent** and **attachment to the old self** → `topics/mindset`. (8) ★★ New
 business data: **$15/month members library** (a different tier from the $200–250 community) and
 **Content Lab**.
+
+## [2026-07-28] ingest | yt batch (@thefutur, 1) — the longest transcript of the run
+
+Batch 182. One source, taken first as promised; **no deferrals outstanding.** L2 945 → **946**.
+
+- **2025-09-11 — "LinkedIn Masterclass"** w/ **Jasmin Alić** (★★). At **130,906 B** this is the
+  **longest transcript of the entire ingest run**, roughly twice the previous maximum. It is
+  guest-dominated and tactical — Alić's commenting strategy, profile mechanics and cadence are **his
+  and are fenced** — but the **live-audience format gives Chris far more room than the July Alić
+  episode did**, and the harvest is correspondingly larger.
+
+  ★★★★ **"Writing is thinking made visual"**, derived live from a definition he already carries:
+  *"what is typography? **Typography is thinking made visual.** But we can easily just borrow that and
+  say: **what is writing? Writing is thinking made visual.** So when you're leaving a comment, **it's
+  your opportunity to know what it is that you're really thinking** … **we all need practice to
+  articulate what it is that we know.**"*
+
+  ★★★★ **A definition of bad work by outcome**: *"**I don't have an aversion to work.** I know why
+  sometimes for people work is terrible. **When you do something and you put your time, energy and
+  resources towards it and you don't get results — that's horrible work. That's painful work.**"*
+
+  ★★★★ **The heuristics argument**, which supplies the mechanism the *social is the new résumé*
+  material has been missing: *"it's an increasingly complicated world where we have **thousands of
+  marketing messages sent to us every single day**… **our capacity to process is very low. So we're
+  looking for heuristics — little shortcuts that let us know: this is an honest person.**"* Not that
+  followers are merit — that **overload forces proxies.**
+
+  ★★★★ **The three stages of awareness** (*"people think: you already know the problem, you already
+  know the solution, so I have the product for you. **That's the problem**"*) with the diagnosis
+  *"**people treat their content like it's bottom of funnel**"* and the instruction to **talk about the
+  problem** — *"and almost all problems come from interpersonal relationships and emotional [ones]."*
+  ⚠️ The ladder he names compresses the standard sequence; recorded as stated, not tidied.
+
+  ★★★★ **A live offer-design correction** on a participant: *"**you do not want to sell a product to a
+  group who can't afford to buy it.** Every time you tell me you want to — **and we make the mistake**
+  — **you sell to broke designers. They might want the solution; they can't afford you**"* — then the
+  redirect to HR and VPs, and the content that would reach them. Inside that exchange, three short
+  things worth keeping: **the listening redirect** (*"**what are you hearing? It doesn't matter what
+  I'm saying. It doesn't matter what your husband is saying**"*) — full-value listening practised
+  rather than described; **"there's no trying. There's just doing"**; and *"**the problem with really
+  smart, educated, successful people is they think too much**"*, which the guest calls a backhanded
+  compliment and which he doesn't deny.
+
+  ✅ **He also refuses the guest's escape hatch.** Alić carves out *"the 1%"* who thrive on tiny
+  audiences; Chris: *"**I don't think that 1% is watching this. I don't think that 1% cares**… they're
+  so top of the food chain that only a hundred people could afford what they do anyway. **So for the
+  rest of us who are watching this, I'm saying the 100%.**"* With an empirical test — *"when was the
+  last time you went on a search and **went to the bottom first?**"* — and a self-deprecating aside
+  about being *"a glutton for punishment"* who occasionally does.
+
+**Synthesis notes:** (1) ★★★★ **The heuristics argument should be promoted attached to
+*social is the new résumé***, because it converts that claim from an observation about vanity metrics
+into an argument about **cognitive load** — and it is the version that survives the obvious objection.
+(2) ★★★★ **"Writing is thinking made visual"** belongs in `topics/content-strategy` **with its
+derivation** from *typography is thinking made visual*; the derivation is the interesting part.
+(3) ★★★★ **His definition of bad work** — by outcome, not by effort or content — is short, new, and
+sits well beside *sacrifice, not burnout* from 2025-08-23. (4) ★★★★ **"You do not want to sell a
+product to a group who can't afford to buy it"** joins the `topics/sales-clients` disqualification
+material, which is where that hub is thinnest. (5) ★★★ **The listening redirect** is *full-value
+listening* caught in the act and should be cited as the demonstration alongside the doctrine.
+(6) ⚠️ Record the awareness ladder **as he states it**, with the flag — do not silently correct it to
+the standard sequence.

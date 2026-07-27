@@ -8313,3 +8313,80 @@ close; (4) ★★★ **the abstraction argument** (*"I just need you to be bette
 anchor**; (6) ★★★ **trust before budget** and *"you go for the throat"*; (7) ★★★ **retention over
 acquisition** and **churn as a system signal**; (8) ★★ **the basketball close**, for what it refuses to
 promise.
+
+## [2026-07-27] ingest | yt batch (@thefutur, 2 of 3) — the authenticity gap; the Blind exit as a reasoning chain
+
+Batch 170. Prepared 3 rows; **ingested 2, deferred 1 once** (see below). L2 923 → **925**.
+
+**Ingested**
+
+- **2025-05-20 — "Your Personal Brand Will NEVER Grow If You Keep Doing This"** (★★★, solo
+  teaching). The **authenticity gap** finally arrives as a *named framework* rather than a
+  passing phrase: definition (*"the invisible distance between who you really are and the
+  person that you show up to the world to be accepted"*), the explicit non-accusation
+  (*"you might not be faking anything, but you're definitely performing to a degree"* —
+  *"these are survival mechanisms"*), five diagnostic signs, and the consequence he flags
+  hardest, *"you're going to lose the joy of creating."* The remedy is the **four-column
+  exercise** — good at / love (inward), world values / world needs beyond money (outward),
+  underline what sparks joy, *"find the intersection… and design the perfect version of
+  yourself."* Carries three lines that belong in the persona: *"**lean in on the gifts
+  that I have, not the gifts that I want**"*, *"**normal means average**… if you told me
+  my content was average I would be horribly offended"*, and his refusal of Molly's
+  compliment — *"**why are we applauding people for being who they're supposed to be?**"*
+  Closes on the **fullest water/brand-value argument in the corpus**: Fiji's provenance
+  line, the pull-the-label test, the pour-it-into-a-glass destruction test, and the turn
+  that makes the analogy his — *"if the majority of who we are is water, what is the
+  package? What is the story?"*
+- **2025-05-25 — "Why Being Obsessed is YOUR Secret Weapon!" (Daily Dose: Vlog 003)**
+  (★★★, vlog from the UPS Store Small Business Challenge in Austin, his third year). The
+  **Blind commercial-advertising exit told as a five-step reasoning chain** — the
+  observation (*"when's the last time I saw a commercial?"*), the check (*"who here
+  watches TV? **Nobody watches TV. They stream everything**"*), the inference, the
+  attempt (*"we need to figure out another business"*), the refusal (*"**all they could
+  see was the food in front of them, not the winter that was coming**"*), the confirmation
+  (*"our clients are going out of business — that's when you know it's really bad"*) — and
+  then the **AI parallel drawn explicitly from it**: *"if you're not trying to disrupt
+  yourself, you're going to find yourself up a creek without a paddle."* All of it framed
+  by the answer he gave when told things *"seem to keep working out"* for him: *"**it's
+  not by luck. It's because you see where things are going. You go there before you run
+  out of options.**"* Plus obsession vs. superficial interest (*"that's good if you're
+  trying to play Jeopardy or Trivial Pursuit"*, with the Star Wars continuity-hire story),
+  live presentation coaching, and a specific passage on speaking in a second language.
+
+**Deferred (once, with reason)**
+
+- `yt-PjP5wvemDLo` — 2025-05-22, *"Your Dream Doesn't Need Money, It Needs This"* w/
+  @SimonSquibb. **145,957 B** — the largest transcript in this ingest run by ~1.7× — and a
+  guest episode requiring a full speaker-attribution pass. Deferred to
+  `L0-discovered priority=2` so it gets a batch of its own. **Queued first for batch 171;
+  it will not be deferred twice.**
+
+**Corrections / flags**
+
+- Caption garble, flagged not asserted: the source of *"the highest form of intelligence
+  is observation without judgment"* is rendered "Christian Birdie"; the line is commonly
+  attributed to **Jiddu Krishnamurti**. Recorded as spoken, marked unresolved.
+- Attribution ambiguity logged on the vlog: *"I think this is the future"* (about an
+  AI transcript-to-article tool) appears both in the cold-open montage and inside a
+  demoer's reported speech. **Not** recorded as a Chris position.
+- No family names in either source. The wife is referenced by role only.
+
+**Synthesis notes:** (1) ★★★ The **authenticity gap** is now a promotable framework —
+definition, five signs, remedy — and should get a `wiki/topics/branding/` page rather than
+staying scattered across three source pages. (2) ★★★ **"Be the youest you you can be…
+the more you you are, the more you are"** is the plain-language twin of *you-to-the-power-
+of-you* (recorded pass 17); record as **one idea in two registers**, not two beliefs.
+(3) ★★★ The **four-column exercise** is his own arrangement of an ikigai-shaped question
+and is concrete enough to belong in `persona/beliefs.md` verbatim as a procedure.
+(4) ★★★ **"Lean in on the gifts that I have, not the gifts that I want."** (5) ★★★ The
+**Blind exit reasoning chain** is the best account in the corpus and should rewrite
+`wiki/entities/blind.md`; the **AI self-disruption parallel** is a *sixth* face of the AI
+position, and the first to derive it from his own lived collapse rather than from
+argument. (6) ✅ **be-the-tree, second attestation** — internal survival technique on
+2025-05-13, external stage direction on 2025-05-25; same image, two uses.
+(7) ⚠️ The **winter/food image** reuses the Jim Rohn seasonal metaphor from 2025-03-31 to
+a *different* end (foresight, not preparation) — record as one image doing two jobs.
+(8) ★★ The **second-language speaking passage** and the **three pitch rules** join the
+speaking material already queued from 2025-05-13. (9) ★★ *"I'm just always nervous to give
+people too many notes and then they just totally have a meltdown"* — a calibration
+admission worth setting beside the abrasive/warm material, which pass 17 declared settled.

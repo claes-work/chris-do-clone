@@ -3968,6 +3968,90 @@ You don't need to label it.**"*
 > **This is the third leg of the abrasive/warm reconciliation, and the only one from outside.**
 ([[../../sources/2025-04-01-yt-hJ35jP1tKDI]]; [[../../sources/2025-04-02-yt-2FI0Dk44-vo]])
 
+## 94. ★★★ The five-part framework, named as a sequence (2025-05-11)
+
+The corpus already held every piece of this. What the Dubai workshop adds is **the order**, stated as
+an order:
+
+**now story → change story → obstacle → desired future state → impact (quantified)**
+
+Everything else in the method hangs off that sequence. Two rules travel with it:
+
+- **Presentation comes last.** Leading with the presentation is *"exactly the wrong way"* — discovery
+  earns the right to present.
+- **All sales is about the past.** You are hunting for **the compelling event** that already happened,
+  not painting a future. The future-state question only works once the past event is on the table.
+
+([[../../sources/2025-05-11-yt-8XJAjOUL07I]])
+
+## 95. ★★★ The withdrawal move — and its one-way asymmetry (2025-05-11)
+
+*"I don't think there's anything I can do for you"* reliably pulls a prospect back toward you.
+
+The important half is the limit he puts on it: **it only works in that direction.**
+
+> *"If you try to convince them it's a really big problem from a no-problem, they're like: **no, you're
+> trying to push a sale on me.**"*
+
+Retreat pulls; push repels. This operationalises the older *retreat-and-follow* material and explains
+why the same energy fails when inverted. ([[../../sources/2025-05-11-yt-8XJAjOUL07I]])
+
+## 96. ★★★ The "if" ladder (2025-05-11)
+
+> *"**'If' is a safe space to play with our imagination — low commitment**… before you know it,
+> they've agreed."*
+
+An extension of the conditional close: each *if* costs the buyer nothing to answer, and the answers
+accumulate into a position. ([[../../sources/2025-05-11-yt-8XJAjOUL07I]])
+
+## 97. ★★★ Whoever wants it more has less leverage (April 2025)
+
+✅ **This is the mechanism underneath the long-standing *being needy is repulsive* material.**
+Neediness is not a vibe problem to be masked with better delivery — it is a **leverage** problem.
+Whoever wants the deal more has, structurally, less room. The corollary he draws: **the job is not to
+sell, it's to help them decide** — and *"everything else is projection."*
+
+With the diagnostic question he uses instead of a pitch: *"**what needs to happen to get you out of
+this jam?**"*
+
+## 98. ★★★ Full-value listening — teach it with its reasoning, never as a slogan (April 2025)
+
+> *"**A tape recorder remembers everything but understands nothing.**"*
+
+The components, all of which lose their meaning if compressed into a rule:
+
+- **The anti-eye-contact instruction** — deliberate, and given *with* its reason: sustained eye contact
+  loads the listener with performance work that competes with comprehension. Promote the reasoning or
+  don't promote it.
+- **Suitcase words** — words that carry different luggage for each speaker (*"value," "brand,"
+  "quality"*). Unpack them before proceeding.
+- **Objections are requests.** An objection tells you what the buyer still needs; it is information,
+  not resistance.
+
+## 99. ★★ Retention over acquisition; churn as a system signal (2025-05-11)
+
+Keeping the client is cheaper and more informative than winning a new one, and **churn is read as a
+signal about the system**, not as a verdict on the customer who left.
+
+## 100. ⚠️ An outside characterisation of Chris's style — fenced (2025-05-27)
+
+On the same channel, **Matt Essam** — who does not appear with Chris and whose material is
+**do-not-train** ([[../../entities/matt-essam]]) — describes Chris's approach while contrasting it
+with his own:
+
+> *"This is a **very different style of sales**, and **I know Chris for example is a big fan of just
+> kind of trying to get to that budget conversation as quickly as possible** — like, do I want to talk
+> to this person or not."*
+
+> ⚠️ **Use as an external cross-check only.** This is a third-party statement *about* Chris. His own
+> qualify-fast position is documented in his own words elsewhere and must always be cited from those
+> sources. ([[../../sources/2025-05-27-yt-UgMzONbQ7jY]])
+
+> ⚠️ **Held open, both his:** *pricing is positioning / publish a floor* is stated straight in the
+> April-2025 material and argued against elsewhere. He argues both sides and says so. Do not resolve
+> it in either direction.
+
+
 ## Cross-links
 
 - [[wiki/topics/pricing/pricing]] — value-based pricing, the desired-future-state → value

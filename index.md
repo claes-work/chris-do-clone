@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-28 (**synthesis pass 18** — persona **v19 → v20**, L2 929: ★★★★ the Spock story with his therapist's reframe, the introversion mechanism, and the first self-flagged reversal in the corpus — *"I would have answered this question differently two years ago"*. **Pass 18b (topic hubs + entities) is pending and runs next.**)_
+_Last updated: 2026-07-28 (**synthesis pass 18b** — the gap pass 18 declared is closed: all 6 topic hubs updated (+22 sections), a **new authenticity-gap page**, `blind` rewritten around the exit reasoning chain, `the-futur` given the 2025 spin-off, `influences` rebuilt around the **ten-book attribution map**, and 1 entity created + 1 deepened. persona **v20** stands.)_
 
 ## Sources
 
@@ -14,7 +14,8 @@ _Last updated: 2026-07-28 (**synthesis pass 18** — persona **v19 → v20**, L2
 - [wiki/topics/pricing/pricing.md](wiki/topics/pricing/pricing.md) — value-based pricing, bracketing, get-paid-to-think, Discovery, price-options, train-of-thought (hub, **47 frameworks**).
 - [wiki/topics/sales-clients/sales-clients.md](wiki/topics/sales-clients/sales-clients.md) — serve-don't-sell, diagnostic-phase, getting-to-yes, rapport, objection-deck, client-selection, boundaries (hub, **70 frameworks**).
 - [wiki/topics/business/business.md](wiki/topics/business/business.md) — scaling, culture, conscious-capitalism, delegation-margin, maker-vs-entrepreneur, codify-into-5-steps (hub, **41 frameworks**).
-- [wiki/topics/branding/branding.md](wiki/topics/branding/branding.md) — client brand strategy + personal branding + "logo is the tip of the beast" / restraint / brand-as-filter (hub, **44 frameworks**).
+- [wiki/topics/branding/branding.md](wiki/topics/branding/branding.md) — client brand strategy + personal branding + "logo is the tip of the beast" / restraint / brand-as-filter (hub, **66 frameworks**).
+- [wiki/topics/branding/authenticity-gap.md](wiki/topics/branding/authenticity-gap.md) — **NEW (pass 18b)**: the authenticity gap as a full framework — definition, five signs, consequences, remedy — ✅ grounded in **Jung** (persona/shadow).
 - [wiki/topics/content-strategy/content-strategy.md](wiki/topics/content-strategy/content-strategy.md) — give-first/karmic-equity, awareness funnel, portfolio lead-gen, YouTube playbook ("their fear is our opportunity") (hub, **44 frameworks**).
 - [wiki/topics/mindset/mindset.md](wiki/topics/mindset/mindset.md) — belief cycle, confidence/ego, Mirrormask, chunking, success-leaves-clues, full-spectrum-self, superpower, comparison (hub, **65 frameworks**).
 - [wiki/topics/design-craft/design-craft.md](wiki/topics/design-craft/design-craft.md) — typography/legibility + expressive-type, ideation, anti-originality/timeless, logo simplicity, portfolio & packaging critique (hub, **36 frameworks**).
@@ -34,6 +35,7 @@ _Last updated: 2026-07-28 (**synthesis pass 18** — persona **v19 → v20**, L2
 - [wiki/entities/thefutur-youtube.md](wiki/entities/thefutur-youtube.md) — the main channel: eras, formats, ID UC-b3c7kxa5vU-bnmaROgvog.
 - [wiki/entities/kier-mclaren.md](wiki/entities/kier-mclaren.md) — CONTEXT: Chris's longtime business consultant (~10–15 yrs); doubled Blind's revenue; MASTERMIND series host (Eps 1–10); ★★ the two causal interventions ("you're hiding in your room"; get-the-job-done).
 - [wiki/entities/tom-ross.md](wiki/entities/tom-ross.md) — CONTEXT: Design Cuts CEO / Learn Community; 3 appearances; his community frameworks are HIS — do NOT train.
+- [wiki/entities/simon-squibb.md](wiki/entities/simon-squibb.md) — ⚠️ GUEST CONTEXT / do-not-train: the "what's your dream?" creator; the page isolates **where Chris agrees and where he pushes back**.
 - [wiki/entities/matt-essam.md](wiki/entities/matt-essam.md) — ⚠️ DO-NOT-TRAIN: the recurring **Chris-absent** @thefutur teaching slot (4 instances); fence by name.
 - [wiki/entities/jule-kim.md](wiki/entities/jule-kim.md) — CONTEXT: recurring guest (4 appearances: imposter syndrome, SEO, sales psychology, the listening drill); her frameworks are HERS — do NOT train.
 - [wiki/entities/anneli-hansen.md](wiki/entities/anneli-hansen.md) — CONTEXT: friend; caused the European tour; the three-year vulnerability arc he teaches from (told with her consent).

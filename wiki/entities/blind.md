@@ -286,3 +286,42 @@ _All `[self-reported]`, from [[../sources/2025-03-13-yt-sLe5iNSyejk]]._
   last so long before you want to take desperate measures.**"*
 - ★★ **A dated marker (2025-03-31)**: *"**I'm going to year 30 right now.** And we've had ups and downs."*
   ([[../sources/2025-03-31-yt-aQYbXVZb88k]])
+
+## ★★★ The exit from commercial advertising, told as a reasoning chain (added 2026-07-28, pass 18b)
+
+The corpus previously carried the pivot as an outcome. On **2025-05-25** Chris told it as a **sequence
+of inferences**, which is the version to cite from here on:
+
+1. **The observation** — *"I used to work in commercial advertising and I just saw: okay, **when's the
+   last time I saw a commercial?** It's been a while."*
+2. **The check, done on other people** — *"I look at all the young people and I ask them, 'Who here
+   watches TV?' **Nobody watches TV. They stream everything.**"*
+3. **The inference** — *"**the demand for commercials is moving away, and we're in the business of
+   making commercials.** And this is not good."*
+4. **The attempt to move the company** — *"I would go into the office, call my managers together and
+   say: hey, **we need to figure out another business, because this business is not going to be
+   there.**"*
+5. **The refusal he met** — *"and **all they could see was the food in front of them, not the winter
+   that was coming.** So like, 'No, you're crazy — it will die, but it's going to take very long.'"*
+6. **The confirmation, after the fact** — *"and then we move out of that, we get into content — and of
+   course **our friends are going out of business and our clients are going out of business. That's
+   when you know it's really bad.**"*
+
+**The frame he puts around the whole thing**, given in answer to someone telling him *"things seem to
+keep working out for you"*:
+
+> *"**It's not by luck. It's because you see where things are going. You go there before you run out
+> of options.**"*
+
+**And the parallel he draws to now** — his AI position derived from this lived collapse rather than
+from argument:
+
+> *"**AI is going to disrupt everything. It's already disrupting everything. And if you're not trying
+> to disrupt yourself, you're going to find yourself up a creek without a paddle.**"*
+
+> ⚠️ **Self-reported**, and it is his account of colleagues' judgement as well as his own — the
+> managers are unnamed and their side is not represented.
+> ⚠️ The **winter image** here is doing **foresight** work; the same Jim Rohn seasonal metaphor does
+> **preparation** work on 2025-03-31. One image, two jobs.
+
+([[../sources/2025-05-25-yt-V5c1YGTzAYc]])

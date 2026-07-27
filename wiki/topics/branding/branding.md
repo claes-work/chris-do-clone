@@ -1861,6 +1861,76 @@ shorts*.** See how it doesn't work? **He just leans into that.**"*
 > happy being themselves.**"*
 ([[../../sources/2025-03-29-yt-ozgIEp5d2ks]])
 
+## ★★★ Framework 62 — The authenticity gap (2025-05-20, grounded 2025-05-29)
+
+**Now has its own page: [[authenticity-gap]].** Summary: *"the invisible distance between who you
+really are and the person that you show up to the world to be accepted."* Explicitly **not** an
+accusation of lying — *"you might not be faking anything, but you're definitely performing to a
+degree"*, and *"these are survival mechanisms."* Five diagnostic signs, one root cause (fear of not
+being loved), and a remedy (**ikigai / the four columns**). ✅ **Grounded in Jung**: the ego mediating
+between **the shadow** and **the persona, "who you show up in the world to be accepted"** — *"most of
+us live in the persona, and we don't even know it."*
+
+## ★★★ Framework 63 — Normal means average, and the contrarian condition (2025-05-20)
+
+> *"I kind of think about this word normal a lot. **Normal means average.** It's the statistical
+> average of things. And **I don't know who's going around telling each other that I want to be
+> average.** If you said 'Chris, I love your content because it's average,' **I would be horribly
+> offended.**"*
+
+The diagnosis that follows: *"we're working really hard to **hide in plain sight**, to blend in."*
+
+And the condition he attaches, which is **not optional and must travel with the claim**:
+
+> *"To be a thought leader, **you have to be a contrarian.** You have to go against what everybody
+> believes… **But you have to be right. And that's the difficult part.**"*
+
+([[../../sources/2025-05-20-yt-efxmE9XX-hE]]; [[../../sources/2025-05-29-yt-4ZS8dMwPObk]])
+
+## ★★★ Framework 64 — The water argument, in full (2025-05-20)
+
+The fullest version in the corpus, and the one to cite:
+
+1. **Brand value is measurable in practice** — *"when you take the mark of a brand that's very
+   valuable and apply it to something else and **it increases the value of that thing**, you now can
+   recognize how much brand is worth."*
+2. **Water is the proof** — *"one of the most ubiquitous resources on the planet… **literally comes
+   from the sky**… yet there are companies who sell you this free resource for a little bit to a lot
+   of money. **And most of it is built on brand.**"*
+3. **Provenance** — *"**Fiji claims untouched by man, filtered through a thousand years of lava
+   rock.** That's its story, that's its provenance. Those brands command premium price."*
+4. **Two destruction tests** — *"all you have to do to prove this is **pull the label off the
+   bottle**"*, and *"**pour it into a glass and you've completely devalued that water**, because
+   you've removed anything that makes it different."*
+5. **The turn that makes the analogy his** — *"the majority of our body is made up of water. So **if
+   the majority of who we are is water — what is the package? What is the story? What is the
+   brand?** Are you unintentionally walking around **without a label**?"*
+
+> ⚠️ **The same bottled-water object carries a DIFFERENT argument elsewhere** — **the handoff tax**
+> (*"every time something touches another hand, they have to make a little bit of money… we creative
+> people forget that there's a whole supply chain… **we can actually be God**"*), which is about
+> **margin capture up the supply chain**, not brand premium. **One object, two arguments. Never merge
+> them.** ([[../../sources/2025-05-29-yt-4ZS8dMwPObk]])
+
+## ★★★ Framework 65 — Performance marketing costs brand (2025-05-20)
+
+He concedes the use before rejecting the trade: *"there are reasons why you need to do this —
+performance marketing helps to bring in money, it helps to support your business and cash flow. **But
+the more performance marketing you do, it comes at the cost of building long-term brand value.**"*
+
+With the charge against the field: most personal-branding experts *"use the word personal brand
+because it's on trend… **but what they're really talking about is how to build sales funnels.**"*
+
+## ★★ Framework 66 — Be the youest you (2025-05-20)
+
+> *"The most powerful thing that you can do to be authentically yourself is **to be more you.** And
+> your job is **to be the youest you you can be. Because the more you you are, the more you are.**"*
+
+✅ **This is the plain-language register of *you to the power of you*** (recorded pass 17). **One idea
+in two registers — do not file it as a second framework.** The companion instruction is
+[[../mindset/mindset|**lean in on the gifts you have, not the gifts you want**]].
+
+
 ## Influences credited (not Chris's originations)
 
 - **Marty Neumeier** (*The Brand Gap*, *Zag*) — the brand-as-gut-feeling definition and

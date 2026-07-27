@@ -6,52 +6,50 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **P2 long-tail through ingest batch 173 (L2=929) — all L2 source pages 2014 → 2025-06-03 (@thefutur; through the June-2025 vlogs).** Synthesis pass **18** ran 2026-07-28 → system-prompt **v20** (`persona/` only, declared up front). ⚠️ **Pass 18b is PENDING and must run next: topic hubs + entities.** Do not advance past this line until 18b is done.
+Synthesized through: **P2 long-tail through ingest batch 173 (L2=929) — all L2 source pages 2014 → 2025-06-03 (@thefutur; through the June-2025 vlogs).** Synthesis passes **18 + 18b** ran 2026-07-28 → system-prompt **v20**. ✅ **Pass 18b closed the gap pass 18 declared: all 6 active topic hubs updated (+22 sections), 1 new topic page, 1 entity created and 3 deepened.** No synthesis work is outstanding.
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
 
-- [ ] **pass 18b · topic hubs + entities (April–June 2025 era, L2 929)** — declared up front by pass 18,
-  which deliberately touched `persona/` only. **Must run before any further ingest synthesis.** Work list:
-  - **`topics/sales-clients`** — the **five-part framework as an ordered sequence** (now → change → obstacle
-    → desired future state → impact); **presentation last**; **all sales is about the past** + the
-    compelling event; **the withdrawal move and its one-way asymmetry**; **the "if" ladder**; **whoever
-    wants it more has less leverage** (the mechanism under *needy is repulsive*); **objections are
-    requests**; **full-value listening** with its reasoning + **suitcase words** + the anti-eye-contact
-    instruction; **the job is to help them decide**; **retention over acquisition / churn as a system
-    signal**. ⚠️ Add **Essam's outside characterisation of Chris's style** with its fence intact.
-    ⚠️ Keep *publish a floor* vs *pricing as empathy* open — he argues both.
-  - **`topics/branding`** — a **new page for the authenticity gap** (definition, five signs, remedy),
-    ✅ **grounded in Jung** (persona/shadow); **normal means average**; **contrarian + "but you have to be
-    right"**; **the water/brand-value argument in full**, ⚠️ **kept apart from the handoff-tax use of the
-    same object**; **performance marketing costs brand**; **be the youest you** merged with
-    *you-to-the-power-of-you*.
-  - **`topics/content-strategy`** — **social-as-résumé** replacing the scattered versions (+ the
-    rejected-speaker evidence, the 10%-of-life-force allocation, *"participating in its own demise"*);
-    **cut for the person coming in cold**; **learn before you scale** / the ten-cakes argument; **the Dip**
-    applied to the 492-video average; **the unfollow mechanic**; **his own winning format** (whiteboard +
-    a topic you can argue either side of); ★★ the **long-form-beats-shortform channel anomaly** with
-    *"I don't speak in sound bites."*
-  - **`topics/mindset`** — **structure vs. chaos / "reinvent how it's used"**; **Picasso / look outside
-    your industry**; **copy the beginning not the ending**; **obsession vs. superficial interest**;
-    **foresight is what people mistake for luck**; **ikigai / the four columns**; **wisdom = experience +
-    reflection**; **the prerequisite stack applied to himself**; **rebirth over death**.
-  - **`topics/business`** — **the Blind exit as a reasoning chain** + **the AI self-disruption parallel**;
-    **social capital vs. pure gift** (*"that's a community trade"*); **the C-vs-E distinction**; the
-    **spin-off trade** (less revenue, less overhead, smaller, content-led — framed as a gain).
-  - **`topics/pricing`** — **why the 50% offer is 50%** (anchor high, expect the counter, never open at
-    your floor); **Drucker on risk**; ⚠️ **the live derivation where he settles below his own anchor**;
-    *"money is an extension of how you see yourself."*
-  - **ENTITIES** — **`the-futur`**: the **2025 spin-off** (self-reported, CEO unnamed), the **two Santa
-    Monica buildings (~9,000 ft², ~100-person capacity)**, *"it's really a media production at this
-    point"*, the TV executive-producer credit. **`blind`**: rewrite the exit with the five-step reasoning
-    chain. **`matt-essam`**: ✅ already updated at ingest (13th instance + his on-air read of Chris).
-    **`influences`**: **rebuild around the ten-book attribution map** (carried debt from batch 165).
-    **NEW**: `brendan-kane.md`, `simon-squibb.md` — both **context, guest-attributed, do-not-train**.
-  - **Carried debt still open**: Part 2 of the Jule Kim listening workshop; earlier Priestley and Tom Ross
-    episodes; a Jasmine Star stub; Jasmin Alić's first appearance.
+_(none — passes 18 and 18b both done; **synthesis is fully caught up through batch 173 / L2 929.** Next checkpoint: after ~10 more ingest batches or an era boundary.)_
 
 ## Done checkpoints
+
+- [x] **2026-07-28 · pass 18b · (no version bump — v20 stands)** — **closed the gap pass 18 declared up front.**
+  **TOPIC HUBS (+22 sections):** `sales-clients` **§94–100** (the **five-part framework as an ordered
+  sequence**; presentation last + *all sales is about the past*; **the withdrawal move and its one-way
+  asymmetry**; **the "if" ladder**; **whoever wants it more has less leverage** — the mechanism under
+  *needy is repulsive*; **full-value listening** with its reasoning, suitcase words and the
+  anti-eye-contact instruction; retention/churn; ⚠️ **Essam's outside characterisation, fenced**).
+  `branding` **frameworks 62–66** (the authenticity gap → its own page; **normal means average + the
+  contrarian condition**; **the water argument in full**, ⚠️ **held apart from the handoff-tax use of the
+  same object**; **performance marketing costs brand**; *be the youest you* **merged** into
+  *you-to-the-power-of-you*). `content-strategy` **§60–66** (**social-as-résumé** with the
+  rejected-speaker evidence and the 10%-of-life-force allocation; **refusal is participation**; **cut for
+  the person coming in cold** with the 50M-vs-9,100 gap; **learn before you scale** / ten cakes; **the
+  Dip** against the 492-video average; his **own winning format** + the long-form channel anomaly; the
+  speaking/pitching craft notes). `mindset` **§89–94** (**structure vs. chaos / "reinvent how it's
+  used"**; **Picasso / look outside your industry**; **ikigai, named**, with the four intersections;
+  **foresight mistaken for luck**; **obsession vs. superficial interest**; *the label inside the jar*).
+  `business` **§70–73** (**the Blind exit as a reasoning chain** + the AI self-disruption parallel;
+  **social capital vs. pure gift**; **C-vs-E**; **the spin-off trade** framed as a gain).
+  `pricing` **§63–65** (**why the 50% offer is 50%** — never open at your floor; ⚠️ **the live derivation
+  recorded WITH the concession that he settles below his own anchor**; *money is an extension of how you
+  see yourself*).
+  **NEW TOPIC PAGE:** `topics/branding/authenticity-gap.md` — definition, the two load-bearing
+  qualifications (**not lying, not a character failure**), ✅ **the Jung grounding**, five signs,
+  consequences, the dating story, the Molly refusal, and the three-step remedy.
+  **ENTITIES:** `blind` — the exit rewritten as a six-step reasoning chain with its winter-metaphor flag;
+  `the-futur` — **the 2025 spin-off** (self-reported, **CEO unnamed**), the two Santa Monica buildings
+  (~9,000 ft², ~100 capacity), *"it's really a media production at this point"*, the TV
+  executive-producer credit, the restated mission; `influences` — **rebuilt around the ten-book
+  attribution map** (carried debt from batch 165) incl. the *Delivering Happiness* culture rewrite **with
+  its cost**, **think like a chef** argued against a friend, ⚠️ **the Gary Vee attribution jab fenced from
+  that clone**, and the *"reading can only get you so far"* caveat; `brendan-kane` — second confirmed
+  appearance, framework fenced; **NEW** `simon-squibb.md` — guest context that isolates **where Chris
+  agrees and where he pushes back**.
+  **Carried debt still open (unchanged):** Part 2 of the Jule Kim listening workshop; earlier Priestley
+  and Tom Ross episodes; a Jasmine Star stub; Jasmin Alić's first appearance.
 
 - [x] **2026-07-28 · pass 18 · system-prompt v19 → v20 (compiled_from 914 → 929)** — **`persona/` only, by
   design; `18b` declared up front for topic hubs + entities.** Covers ingest batches **164–173**

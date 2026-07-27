@@ -221,3 +221,75 @@ sources**, not part of his personal network — no entity pages needed:
   cheap). Chris reads Mall's client↔provider script aloud approvingly.
   [[wiki/sources/2021-03-03-yt-LliPPJo5lHE]]. (Cross-referenced with Blair Enns as a
   related, more theory-heavy treatment.)
+
+## ★★★ The ten-book attribution map (2025-04-15, added 2026-07-28, pass 18b)
+
+The clearest single statement in the corpus of **which books he claims and what he takes from each** —
+delivered as a numbered list, with the borrowed idea named in every case. This section supersedes the
+scattered one-line credits above for these ten; cite it as the anchor.
+
+| # | Book / author | What he takes from it |
+|---|---|---|
+| 1 | **Jim Rohn** (spoken, not a single book) | *"You are the average of the five people you spend the most time with."* ⚠️ See the attribution jab below. |
+| 2 | **Michael Bungay Stanier — *The Coaching Habit*** | ★★★ *"**I believe The Coaching Habit is one of the best sales books that you can buy.**"* — the hot take, and the source of **advice creates dependency**: ask before you tell. |
+| 3 | **Blair Enns — *The Win Without Pitching Manifesto*** | ★★★ *"**Probably the book that I refer to the most — hands down, bar none.**"* Source of **price bracketing + anchoring + the silence** (*"count to three"*), credited on the record. |
+| 4 | **Tony Hsieh — *Delivering Happiness*** | **Core values as a hiring/firing instrument** — see the cost note below. |
+| 5 | **Scott McCloud — *Understanding Comics*** | Read **in college**. **Closure** as a storytelling device he still uses; comics as *"an extremely powerful hybrid medium… images with words put in a sequence."* |
+| 6 | **A TED-branded book on speaking** | ⚠️ Recommended **with a warning**: *"**I want to warn you about this book**… **it can create a lot of impostor syndrome.**"* |
+| 7 | **Robert Cialdini** (influence/reciprocity) | **Reciprocity** — *"when somebody does something for you, **you feel compelled to return the favour**… most people don't feel good when they're just takers."* With the **Hare Krishna** study and its modern coda: *"**because this is overused, we've become numb to this.**"* |
+| 8 | **Marty Neumeier — *Zag*** | ★★★ **"Branding is the act of intentional differentiation"** — *"not being different, but being **radically** different."* Plus **the onlyness statement** — *"the thing that only you can do."* ✅ *"Different is better than better"* credited to **Sally Hogshead** (second consecutive crediting — the credit is now settled behaviour). |
+| 9 | **Jason Fried & DHH — *Rework*** | ★★★ **Think like a chef** — see the argument below. |
+| 10 | **Austin Kleon — *Steal Like an Artist*** | **Copy faithfully first**; *"**our proximity to that great piece of art determines our future potential**"*; *"**in copying, we learn how to grow.**"* ✅ Routed through **Kirby Ferguson**: copy → transform → combine. |
+
+### The three passages worth quoting in full
+
+**★★★ *Delivering Happiness*, with its cost.** *"**We literally copied the core values from *Delivering
+Happiness*, modified it a little bit, and started to live by them — to HIRE and to FIRE our team based
+on this.** It took us probably **a year and a half** before we were able to change our culture around.
+**What happens is when you start to live by your values, people start to quit — and then you have to
+ask a couple of people to leave. But what you're left with is an amazing team that's aligned around
+your values, so you don't have any more of the drama.**"* ✅ This is **the operational history behind
+*culture equals brand***.
+
+**★★★ Think like a chef — argued against a friend who refused.** The friend, *"an amazing
+designer-illustrator"*: *"Chris, **I don't want to create a bunch of clones of what I'm doing. I don't
+want to compete against myself with poor copycats.**"* Chris's rebuttal, by question: *"**who are the
+most famous, celebrated and successful chefs that you know?**"* — *"**why is it that they're the most
+celebrated? Because they've done a really good job of sharing their secret sauce.**"* The mechanism:
+*"create recipes for what you do… compile it in a book… create a show, a YouTube channel… **both will
+create tremendous demand for you to cook for people** — because **as much as we love watching people do
+things, very few people actually take action.** We watch something done by a master, and **we want the
+master to do it for us.**"* The warning: *"**if you want to get busy being the world's best kept secret
+and hoarding all the resources yourself — do so at your own peril. I would rather share all my
+recipes.**"* ✅ **Closes the loop with Kier McLaren's *"why are you so busy being the world's best-kept
+secret?"*** ([[kier-mclaren]]).
+
+**★★★ Copying, and why it isn't the end state.** *"**All of us are stealing subconsciously**… **the way
+we're taught to draw is to literally copy the masters — to copy as faithfully as we can, not to
+emulate**, [to see] how that artist looked at the world and shaped it… **what we can't help doing is
+copying and then putting our own spin on it, because that's just the nature of how we are.**"*
+⚠️ He quotes *"good artists borrow, great artists steal"* to Picasso **and flags the attribution
+problem in the same breath**: *"and he stole that from someone else."*
+
+### ⚠️ Two things to preserve about how he handles attribution
+
+- **He goes to the source, and says so.** *"When you go back to the source code, like **Jim Rohn**,
+  you're understanding the idea as it was first articulated… **I like going back to the source.**"*
+  ★ And he immediately concedes the regress: *"maybe you have to go back to biblical times to find
+  where [Rohn] may have drawn inspiration from."*
+- ⚠️ **The attribution jab, recorded with care.** *"You've heard people like **Gary Vee** say something
+  like *get rid of one loser friend.* **I wonder where he got that idea from.**"*
+  > **A pointed remark about a named living person, and this roster contains a separate Gary
+  > Vaynerchuk clone. Recorded as Chris's dated aside; NOT usable as source material for that clone.**
+
+### ⚠️ The caveat he puts on the whole list
+
+> *"**Reading can only get you so far. Reading is not going to make you rich, successful, happy, more
+> fulfilled**…"* — consistent with **personal development doesn't work if you don't do any of the
+> development**.
+
+⚠️ **A discrepancy logged, not resolved**: two "favourite book" claims exist in the corpus and are
+held apart rather than reconciled — *Win Without Pitching* is *"the book I refer to the most,"* which
+is not the same claim as a favourite.
+
+([[../sources/2025-04-15-yt-PaCM-LXyIfc]])

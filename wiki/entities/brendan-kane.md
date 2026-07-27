@@ -40,3 +40,23 @@ another person — is in `persona/beliefs.md`.
 ## See also
 - [[the-futur]] — the 30–40K benchmark and the volume model that Chris states **against** this advice
 - Sources: [[../sources/2024-11-13-yt-IocNJ4e_FzI]] · [[../sources/2024-12-01-yt-vpMLh3kMpaQ]]
+
+## Second confirmed appearance — 2025-05-29 (added 2026-07-28, pass 18b)
+
+A full-length episode in which Kane runs his format clinic **on Chris's own videos**, six of them,
+side by side. **His framework remains his and is fenced** — formats as reusable storytelling
+blueprints (~300 in his library, most predating social media), the five-step process, the
+**gold/silver/bronze** cross-analysis, and ~21 **performance drivers** (perspective shift,
+work-to-wow ratio, promise of value, effect on viewer, tension). Also his: *"your social media profile
+is not your website and your organic content is not your ads"*, the shadowban debunk (he cites
+managing **$200M** in ad spend), and *"ROI is the size of your vision."*
+
+> ⚠️ **None of the above is Chris's material.** Do not let format vocabulary migrate into
+> `persona/`.
+
+**Why the episode matters to this clone anyway:** being critiqued is what pulls the self-analysis out
+of Chris. The subject-attributed harvest — the **Spock story**, the **introversion mechanism**, the
+**dated AI reversal**, and the **50%-deal rationale** — is recorded on the source page and promoted in
+pass 18, not here.
+
+([[../sources/2025-05-29-yt-4ZS8dMwPObk]])

@@ -389,3 +389,49 @@ media"*, a photographer who *"booked two photo shoots… simply from sending som
   incumbent].**"* ⚠️ **Contains a criticism of a named living person, which he flags as a criticism and
   qualifies in the same breath. Recorded as his dated opinion, not as a finding.**
   ([[../sources/2025-03-05-yt-aE-J18QsH-Q]])
+
+## ★★★ April–June 2025 (added 2026-07-28, pass 18b) — ALL self-reported
+
+### The spin-off (2025-06-03) — the biggest structural change in the recent record
+
+Told casually on camera during a vlog, unprompted and in one pass:
+
+> *"I came back from **Taki's mastermind** and I called up **my CEO** and I said, **'I got a crazy
+> idea. Are you open-minded to spinning off this other group that you can just run — and just taking a
+> portion of the company with you?'** He goes, 'Um, yeah.' So **he has his own company now. He took
+> the coaching portion of the coaching community with him.**"*
+
+Chris's own verdict on the trade — the shape of it matters more than the transaction:
+
+> *"So **we're down the revenue from that. But we're lighter because of the overhead.** And I'm just
+> lighter because **we're such a small team now — it's mostly on the content side.** So I just feel
+> much lighter, much more aligned, happier, more energetic. **I'm loving everything.**"*
+
+Set against the year: *"**this year has been a really good year of rebuilding**… it's just financially
+it's not reflective of momentum."* **Less revenue, less overhead, smaller team, content-led — framed
+as a gain.**
+
+Also stated the same day: he is **on a TV show and has been made an executive producer of it.**
+
+> ⚠️⚠️ **The CEO is unnamed in the source and is NOT named here.** Nothing in this section is
+> independently verified; all of it is Chris speaking informally on camera. *"Taki's mastermind"* is a
+> caption rendering, most likely **Taki Moore** — flagged, not asserted.
+> ([[../sources/2025-06-03-yt-r2o9-oj9Mlk]])
+
+### What the company actually is now (April–May 2025)
+
+- **Two buildings in Santa Monica**, ~**9,000 ft²** combined, roughly **100-person capacity**, held
+  alongside an active property search with stated criteria.
+- The description that goes with it: *"**we don't run like a traditional office business — it's
+  really a media production at this point.**"* ✅ Coheres with the spin-off two months later.
+- ★★ **A channel fact he volunteers** (2025-05-29): *"we're one of those channels that — I think it's
+  kind of strange — **we actually get more views for our long-form content than we do for the cut-down
+  of that long-form content**, because people who like the kind of teaching I do **are in it for the
+  long haul.**"* And the editorial rule he gives the team: *"**we're not cutting the video for us. We
+  have to cut it for someone who's coming in cold**"* — he attributes a **50M-vs-9,100-view gap
+  between two clips of the same workshop** to which editor cut them.
+- **The mission, restated verbatim** (2025-05-22): *"our mission is to **teach a billion people how to
+  make a living doing what they love.** And we believe that there must be a better alternative to the
+  system that exists today."*
+
+([[../sources/2025-05-29-yt-4ZS8dMwPObk]]; [[../sources/2025-05-22-yt-PjP5wvemDLo]])

@@ -8681,3 +8681,75 @@ chain, `entities/the-futur` for the spin-off and the two Santa Monica buildings,
 of `entities/influences` around the ten-book attribution map (carried from batch 165), and
 two new do-not-train context entities (`brendan-kane`, `simon-squibb`). The full work list
 is in `pipeline/synthesis-state.md` under Pending checkpoints.
+
+## [2026-07-28] lint | synthesis pass 18b — topic hubs and entities (v20 stands)
+
+Stage S, second half. **Closed the gap pass 18 declared up front**, so nothing was silently
+skipped. No version bump — **v20 stands**; this pass moved material into the wiki layer, not
+the persona layer.
+
+**Topic hubs — 22 new sections across all six active hubs**
+
+- **`sales-clients` §94–100** — the **five-part framework as an ordered sequence** (the corpus
+  had every piece; this is the first source that orders them), **presentation last** and *all
+  sales is about the past*, **the withdrawal move with its one-way asymmetry** (retreat pulls,
+  push repels), **the "if" ladder**, **whoever wants it more has less leverage** — recorded as
+  the mechanism underneath *being needy is repulsive* — **full-value listening** promoted with
+  its reasoning rather than as a slogan, retention/churn, and ⚠️ **Essam's outside
+  characterisation of Chris's style, fenced as an external cross-check only.**
+- **`branding` frameworks 62–66** — **normal means average** with the contrarian condition
+  (*"but you have to be right, and that's the difficult part"* is not optional), **the water
+  argument in full** ⚠️ **held apart from the handoff-tax use of the same object**,
+  **performance marketing costs brand**, and *be the youest you* **merged into**
+  *you-to-the-power-of-you* rather than filed as a second framework.
+- **`content-strategy` §60–66** — **social-as-résumé** as one complete argument (with the
+  rejected-speaker evidence, the 10%-of-life-force allocation, and ⚠️ his **distaste**, which
+  must survive quotation), **refusal is participation**, **cut for the person coming in cold**
+  with the 50M-vs-9,100 gap between two clips of the *same* workshop, **learn before you
+  scale**, **the Dip** applied to the 492-video average, his **own winning format**, the
+  long-form channel anomaly, and the speaking/pitching craft notes.
+- **`mindset` §89–94** — **structure vs. chaos** / *"don't reinvent the wheel — reinvent how
+  it's used"*, **Picasso and looking outside your industry**, **ikigai named** with its four
+  intersections, **foresight mistaken for luck**, **obsession vs. superficial interest**, and
+  *it's hard to read the label when you're inside the jar*.
+- **`business` §70–73** — **the Blind exit as a six-step reasoning chain** ending in the AI
+  self-disruption parallel, **social capital vs. pure gift** (*"there's still a trade there —
+  that's a community trade"*), the **C-vs-E** distinction, and **the spin-off trade** he frames
+  as a gain.
+- **`pricing` §63–65** — **why the 50% offer is 50%** (never open at your floor; *"then they
+  will say 3%"*), ⚠️ **the live value derivation recorded WITH the concession that he settles
+  below his own anchor**, and *money is an extension of how you see yourself*.
+
+**New topic page**
+
+- **`wiki/topics/branding/authenticity-gap.md`** — the framework finally has a home: definition,
+  the two load-bearing qualifications (**it is not lying; it is not a character failure —
+  *"these are survival mechanisms"***), ✅ **the Jung grounding** (ego between shadow and
+  persona), the five signs, the consequences, the dating story as the mechanism, the Molly
+  refusal (*"why are we applauding people for being who they're supposed to be?"*), and the
+  three-step remedy ending in *lean in on the gifts you have*.
+
+**Entities**
+
+- **`blind`** — the exit from commercial advertising rewritten as a reasoning chain, with the
+  ⚠️ flag that the winter image does **foresight** work here and **preparation** work on
+  2025-03-31.
+- **`the-futur`** — the **2025 spin-off** (self-reported, **CEO unnamed**), the two Santa Monica
+  buildings (~9,000 ft², ~100-person capacity), *"it's really a media production at this
+  point"*, the TV executive-producer credit, and the mission restated verbatim.
+- **`influences`** — **rebuilt around the ten-book attribution map** (carried debt from batch
+  165), including the *Delivering Happiness* culture rewrite **with its cost** (*"a year and a
+  half"*, people quit, some were asked to leave), **think like a chef** argued against a friend
+  who refused to teach, the *"I like going back to the source"* habit, ⚠️ **the Gary Vee
+  attribution jab fenced from that clone**, and his own caveat: *"reading can only get you so
+  far."*
+- **`brendan-kane`** — second confirmed appearance logged, his framework fenced.
+- **NEW `simon-squibb.md`** — guest context that does the useful job of **isolating where Chris
+  agrees and where he pushes back**, so his positions can be cited without absorbing the
+  guest's.
+
+**Carried debt, unchanged and still open:** Part 2 of the Jule Kim listening workshop; earlier
+Priestley and Tom Ross episodes; a Jasmine Star stub; Jasmin Alić's first appearance.
+
+**Synthesis notes:** none — passes 18 and 18b are both complete and **synthesis is fully caught
+up through batch 173 / L2 929**. Ingest resumes next iteration at @thefutur P2.

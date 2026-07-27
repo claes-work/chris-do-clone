@@ -2671,6 +2671,87 @@ defined role, swap over time, never occupy two at once.**
 ([[../../sources/2025-03-06-yt-fKWJjiRMCTM]]; [[../../sources/2025-03-25-yt-lXTf0ypur0Q]];
 [[../../sources/2025-04-01-yt-hJ35jP1tKDI]])
 
+## 70. ★★★ The Blind exit, told as a reasoning chain (2025-05-25)
+
+The best account in the corpus of *why* he moved Blind out of commercial advertising — and it is a
+sequence, not an anecdote:
+
+1. **The observation** — *"I used to work in commercial advertising and I just saw: okay, **when's the
+   last time I saw a commercial?** It's been a while."*
+2. **The check** — *"I look at all the young people and I ask them, 'Who here watches TV?' **Nobody
+   watches TV. They stream everything.**"*
+3. **The inference** — *"**the demand for commercials is moving away, and we're in the business of
+   making commercials.** And this is not good."*
+4. **The attempt** — *"I would go into the office, call my managers together and say: hey, **we need
+   to figure out another business, because this business is not going to be there.**"*
+5. **The refusal** — *"and **all they could see was the food in front of them, not the winter that was
+   coming.** So like, 'No, you're crazy — it will die, but it's going to take very long.'"*
+6. **The confirmation** — *"and then we move out of that, we get into content — and of course **our
+   friends are going out of business and our clients are going out of business. That's when you know
+   it's really bad.**"*
+
+**The AI parallel he draws immediately from it** — a face of his AI position derived from lived
+collapse rather than from argument:
+
+> *"**AI is going to disrupt everything. It's already disrupting everything. And if you're not trying
+> to disrupt yourself, you're going to find yourself up a creek without a paddle.**"*
+
+([[../../sources/2025-05-25-yt-V5c1YGTzAYc]]; see [[../../entities/blind|Blind]])
+
+## 71. ★★★ Social capital, not pure gift (2025-05-22)
+
+His counter-argument to the claim that pre-modern communities simply helped each other and that money
+ruined it. He accepts the diagnosis and rejects the mechanism:
+
+> *"Here's the pushback. **There's social capital**, and it's how through thousands of years we form
+> societies and villages — because **there's a bargain that's made. It's not transactional in cash and
+> in money**, but it's like: I have to go and hunt today. Can you look after the kids, and when I come
+> back we share the bounty. **There's still a trade there. That's a community trade.**"*
+
+With the correction mechanism: *"somebody's tent falls down and you raise your hand, you help — and
+then one day you don't have clean water and no one comes to your aid. Eventually you're like, this is
+not my community, I have to leave. **And that person's a taker.** So eventually it needs to correct
+itself."* He credits the reciprocity literature (captions garble the name; ⚠️ almost certainly
+**Cialdini**, flagged not asserted): *"**it doesn't have to be quid pro quo** — this exact amount for
+that exact amount. **But it's through our need to support each other that we can grow strong.**"*
+
+([[../../sources/2025-05-22-yt-PjP5wvemDLo]])
+
+## 72. ★★ The C-vs-E distinction, invented live (2025-05-22)
+
+Built on the spot to test another founder's giving model — **C = charity, E = entrepreneur**:
+
+- *"When you meet a C, it's like: **I don't know what I'm going to do, just give me money.** And more
+  likely than not they're going to just blow the money — not any different than an addict — because
+  they're going to support the same habits that got them in this position in the first place."*
+- *"You want to give to **entrepreneurs who just need someone to believe in them and a little bit of
+  startup capital** so they can get on with their lives."*
+- The challenge that follows: *"**why don't we find more E's**… **because when you find the E, they
+  multiply what you do.**"*
+
+Related positions logged the same day: *"**I don't have a lot of love for people who use money to make
+money, because they don't really generate anything in the world**"*; *"**do good now — don't wait
+until you're 98 to give away your money**"*; and *"**I'm very anti-property**"* (qualified — a building
+bought *for a purpose* is different from *"people doing property just to make money"*).
+
+## 73. ★★★ Trading revenue for lightness — the 2025 spin-off (2025-06-03) [SELF-REPORTED]
+
+The shape of the trade matters more than the transaction. He asked his CEO to **spin off a group and
+take a portion of the company**; the CEO took **the coaching arm**. Chris's own verdict:
+
+> *"So **we're down the revenue from that. But we're lighter because of the overhead.** And I'm just
+> lighter because **we're such a small team now — it's mostly on the content side.** So I feel much
+> lighter, much more aligned, happier, more energetic. **I'm loving everything.**"*
+
+Set against: *"**this year has been a really good year of rebuilding**… it's just financially it's not
+reflective of momentum."* **Less revenue, less overhead, smaller team, content-led — and he frames it
+as a gain.** ✅ Coheres with the April-2025 description of the business: *"we don't run like a
+traditional office business — **it's really a media production at this point.**"*
+
+> ⚠️ **Self-reported, given informally on camera, and the CEO is unnamed in the source and is not
+> named here.** ([[../../sources/2025-06-03-yt-r2o9-oj9Mlk]]; [[../../entities/the-futur]])
+
+
 ## See also
 
 - [[wiki/topics/pricing/pricing]] — value-based pricing, "price the client not the job,"

@@ -2541,6 +2541,53 @@ he explained it to me. **I'm like: whoa, now I know the difference.**"*
 > Baker.**
 ([[../../sources/2025-03-04-yt-2dY6MsSedKg]])
 
+## 63. ★★★ Why the 50% offer is 50% — the anchoring strategy behind his most-watched short (2025-05-29)
+
+For the first time, the reasoning behind the numbers in the 40M-view *"When clients don't want to pay
+what you're worth"* clip (offer the work free against **50% of the revenue it generates**):
+
+- **Why 50%** — *"**Because I'm going to take the risk. If you take on the risk, you need to make more
+  money than that.**"* Anchored on **Drucker**: *"in business, **all profit comes from risk** — so
+  whoever is willing to carry the risk makes more money."*
+- **On the objection, conceded openly** — *"some people are also saying, '**Chris, 50% is lunacy. It's
+  outrageous.**' — **It kind of is, and they knew that**, fully expecting them to negotiate with me."*
+- **Why he does not open lower** — *"**But I'm not going to negotiate myself to like 10% right away.
+  Then they will say 3%.** This is where we're going to get stuck. I don't want to work for 3% — **I
+  have to send you 600 new customers before I actually see any kind of real margins.** Doesn't make
+  sense for me."*
+- **The actual purpose of the whole manoeuvre** — *"**the whole point of setting up this deal was to
+  let them know that the $1,000 is really cheap.** Just pay the $1,000 already. **Be a cheap bastard —
+  just pay it.** You don't have to deal with any of this stuff."*
+
+**The rule underneath it:** never open at your floor; open where the counter still lands somewhere you
+would accept. ✅ Pairs directly with the Dubai anchoring material below.
+([[../../sources/2025-05-29-yt-4ZS8dMwPObk]])
+
+## 64. ⚠️ A complete value derivation — recorded WITH its concession (2025-05-11)
+
+Done live in the Dubai workshop: **5k** asked → the client's own numbers give **$84,000/yr** in value
+→ *"**is 10% good enough?**"* → **8.4k**.
+
+> ⚠️ **And then he settles at 7.5k — below his own anchor.** The concession is recorded here
+> deliberately: the arithmetic is the teachable part, and **the fact that he took less than his own
+> derivation is the honest part.** Do not present the method without it.
+
+Adjacent from the same source: **trust before budget** (*"you go for the throat"* once trust exists),
+and **dollarize the value** with the Costco/Gucci framing and his father as the worked example.
+([[../../sources/2025-05-11-yt-8XJAjOUL07I]])
+
+## 65. ★★★ Money is an extension of how you see yourself (2025-05-29)
+
+Asked whether the underlying subject of all his most-watched content is self-valuation, he confirms it
+directly:
+
+> *"**Yes, that's the underlying thing. Because money — what you charge — is an extension of how you
+> see yourself in terms of your value.**"*
+
+This is his own statement of the single theme beneath the pricing corpus, and the reason the pricing
+material and the [[../branding/authenticity-gap|authenticity-gap]] material keep converging.
+
+
 ## Documented influences
 
 Chris credits these sources on record:

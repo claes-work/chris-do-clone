@@ -2944,6 +2944,122 @@ lows.**"*
 > sustained intensity produces numbness, not engagement.**
 ([[../../sources/2025-03-04-yt-2dY6MsSedKg]]; [[../../sources/2025-03-21-yt-odAro9miDOE]])
 
+## 60. ★★★ Social media is the new résumé (2025-06-03)
+
+The complete argument, which supersedes the scattered earlier versions on this hub.
+
+**The premise**, stated about himself first: *"I always tell people **I have outsized opportunities
+relative to myself** — because of one key metric that people keep looking for."*
+
+**Where it comes from**: a conference room of people successful *"in influence or management or
+business related to influencers"* — *"they said **social media is the new resume, because resumes,
+people lie.** If you have trash followers, they could just tell."*
+
+**The evidence that gives it teeth** — a speaker Chris recommended, refused for an event:
+
+> *"He goes, 'I can't put her up.' I'm like, 'How come? They're amazing.' — **'Their social following
+> is trash.'** So when I announce them, the people who are going to buy a ticket are like, why would
+> we? **They're not going to chase a rabbit hole. They're not going to go 'oh, there's a hidden TED
+> talk over here.' They just see: oh my god, this is a big person — or this is a nothing.**"*
+
+⚠️ **His tone is distaste, not enthusiasm** — *"it's a **weird world** in which we're living in"* —
+and that framing must survive any quotation of the claim.
+
+**The prescription**: *"as much as you put into whatever it is you're doing, **I would dedicate at
+least 10% of your time, your energy, your life force** into figuring out how to do this social thing.
+**It's not about selling or building funnels.** It's just about how to create content that connects
+with people to grow your community. **And if you can do that, it doesn't even matter if your products
+are superior or inferior. You will crush everyone.**"*
+
+**The wider frame**: *"some people are saying **don't even say social media any more — just say
+media**… and the competitions I'm part of **use the social metric and engagement as a barometer for
+business acumen, for marketing skill.** So **we can no longer be safe and feel comfortable just
+running our business well.**"*
+
+✅ Attested earlier, and weakly, as *"**social proof is the new CV**"* — a low-performing clip replayed
+on 2025-05-29 that makes the same case and adds *"I know people within my broader circle of friends
+who wrote that they went to Stanford — **one semester**… **it's harder to fake the social proof.**"*
+([[../../sources/2025-06-03-yt-r2o9-oj9Mlk]]; [[../../sources/2025-05-29-yt-4ZS8dMwPObk]])
+
+## 61. ★★★ Refusal is participation (2025-06-03)
+
+The closing indictment, and one of the strongest lines in the recent corpus:
+
+> *"So many of you are **sitting on your hands, artificially crippling your own business and your own
+> growth** — not only professionally, but personally — **because you're not willing to put content out
+> there.** I know what you're thinking: I don't know what to say. I'm going to alienate people. I hate
+> the sound of my voice or the way I look on camera. **That amount of resistance or reluctance that
+> you're feeling IS the thing that's holding you back**… **When you're not activating your brand's
+> potential, you're participating in its own demise.**"*
+
+## 62. ★★★ Cut for the person coming in cold (2025-05-29)
+
+> *"I tell my team: **we know what we're talking about, but we're not cutting the video for us. We
+> have to cut it for someone who's coming in cold.**"*
+
+He attributes a **50M-vs-9,100-view gap between two clips taken from the same workshop** to which
+editor cut them — the same material, the same format, the same person, different assumed audience.
+
+## 63. ★★★ Learn before you scale (2025-05-29)
+
+> *"You want to **innovate and learn as you go, versus moving towards efficiency. Efficiency is good
+> once you figure out your formula** and you can repeat it — but until then, stay away from that."*
+
+With the ten-cakes argument for why batch production is worse than it looks: *"when you make 10 pies
+at a time, what people don't realize is it's pretty crappy and **you serve the other nine cakes
+too**… 'It was not good, but now I've got nine more not-good things to deal with — so maybe I'm giving
+up on this person.'"* The same logic drives his answer on deleting weak posts: *"**you make 10 bad
+cakes, get rid of the 10 so people don't have a bad sample.**"*
+
+## 64. ★★★ The Dip, applied to a real number (2025-05-29)
+
+Given the datum that the average channel needs **492 videos** to reach a million subscribers:
+
+> *"I want to reference **Seth Godin. The Dip.** It's fun in the beginning — you get followers and
+> attention and return on investment. Then it starts to get harder and it feels like you're putting in
+> a lot of work and not getting results. And then you get into the valley, the dip. **This is where
+> most people quit.** … **What if you're at video 400 and you're like, I'm not making progress? It
+> could be 92 more videos where you actually have that breakthrough.**"*
+
+## 65. ★★ His own winning format, self-diagnosed — and the channel anomaly (2025-05-29)
+
+- **The format**: *"the most viral short videos we've made are usually in a **workshop format**.
+  There's a whiteboard and there's a **heated topic that really riles people up emotionally** — and
+  **you can actually be on either side of the argument and still feel like you're still right.**"*
+  The logo-pricing video is *"the most high-producing video we've ever made."*
+- **The unfollow mechanic**: people leave when *"**they promised me this and now they're giving me
+  that.**"*
+- ★★ **A real and unusual channel fact**: *"we're one of those channels that — I think it's kind of
+  strange — **we actually get more views for our long-form content than we do for the cut-down of that
+  long-form content**, because people who like the kind of teaching I do **are in it for the long
+  haul.**"* With the limitation he volunteers about himself: *"**I don't speak in sound bites. I'm not
+  thinking about the hooks** — which maybe I need to, if I want to grow the audience much faster."*
+  And: *"I actually don't even look at my content that much."*
+
+## 66. ★★ Speaking and pitching — the craft notes (2025-05-25, 2025-06-03)
+
+- **Say less** — *"**avoid the temptation of cramming in too much information. It gets the opposite
+  effect: instead of remembering you, they can't remember anything**"* → *"say less so you have time
+  to breathe and **feel the emotions of the words**, because that's what people connect on — the
+  emotions, not the facts."* With *"**stories sell, facts tell**"* and *"**you have to pause to let
+  certain ideas land.**"* ✅ Corroborated eight days later as live coaching: *"don't worry about
+  finishing early — **they'll remember more.**"*
+- **Hit the reaction** — *"whenever you hear a reaction, make sure you hit that point… **hit and hit
+  hard**, say it with some passion, **and then pause for a second**"* — against the failure he names,
+  *"you just **steamroll right over that.**"*
+- **Choose words you can feel** (framed for second-language speakers, general in application) — *"**a
+  complicated word is contextual**: the person saying it might feel it as complicated where the
+  audience might not. **If those are one of your words, just don't say it.**"* Because *"those words
+  become stumbling blocks… and then you're going to say it, **but you're not going to feel
+  anything.**"* Worked example: a speaker who stumbled on *heritage* was given **family, tradition,
+  culture, values**.
+- **Be rooted like a tree** (external use) · **three points in the room** for eye contact · **hands
+  tell part of the story** — *"it's not just speaking. **It's a performance.**"*
+- **The pitch triangle**: **relatability × ambition × professionalism**, with both failure modes named
+  — too professional and *"they think maybe you don't need help"*; too relatable with no substance and
+  *"what's this person going to do with it?"*
+
+
 ## Sources
 
 - [[wiki/sources/2015-11-29-yt-z7Y9TKfgstE]] — "Is Your Design Resume Still Relevant?" —

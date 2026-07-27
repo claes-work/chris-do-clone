@@ -3946,6 +3946,99 @@ a little more**… ★★★ **fear can be a good teacher. We can't get rid of f
 ★ *"**I hate dancing, but it sounds fun.**"*
 ([[../../sources/2025-03-29-yt-ozgIEp5d2ks]]; [[../../sources/2025-04-01-yt-hJ35jP1tKDI]])
 
+## 89. ★★★ Structure and creativity go together; chaos and creativity do not (2025-05-29)
+
+His sharpest formulation of a position the hub already held in weaker forms:
+
+> *"A lot of creatives — and **I taught creatives for many years** prior to getting onto social media —
+> **they swim in chaos** and they like this idea like 'I'll just figure it out, I'll invent things.'
+> And **they're delusional, because what they think is original — it's just a lack of history, what's
+> come before.**"*
+
+The reformulation of the cliché: *"don't reinvent the wheel — **reinvent how it's used.** And that
+becomes much more interesting."*
+
+What structure buys: *"**a higher probability of success**, and it removes a lot of 'what am I going
+to start with? where does it end?' — and then **it allows you to play within the variables
+themselves.**"* With the cooking frame: *"if you want to do that dish right not one time but a hundred
+times — especially when it's critical, if you're trying to impress the in-laws."*
+
+And the consequence: *"**structure and creativity go really well together. Whereas chaos and
+creativity — it's just a mess**… and it's probably one of the reasons why **a lot of super-creative
+people struggle with creating consistently and getting consistent results.**"*
+([[../../sources/2025-05-29-yt-4ZS8dMwPObk]])
+
+## 90. ★★★ Originality is hiding your sources — so look outside your industry (2025-05-29)
+
+> *"I'm going to butcher the quote, but I think it's **Picasso** who said something like **the secret
+> to originality is your ability to hide your sources.** So **if you're in cinema, be inspired by
+> music, be inspired by plays — not other directors directing the same genre of film that you are**,
+> because **you'll just be the poor person's version of that.**"*
+
+Applied as a warning: *"if you're in the real estate industry, **don't copy other real estate
+professionals**, because you'll just be seen as a copycat."*
+
+✅ Pairs with two rules already on this hub: **copy the beginning, not the ending** (you are comparing
+yourself to someone's visible present, not their invisible past — with Jim Rohn's *success leaves
+clues*) and **copy faithfully first** (*"a really bad imitation… is the biggest insult"*).
+
+## 91. ★★★ Ikigai — the four columns, named (2025-05-20, named 2025-05-29)
+
+The remedy he attaches to the [[../branding/authenticity-gap|authenticity gap]], and he **names it
+ikigai** when teaching it directly.
+
+| # | Column | Prompt |
+|---|---|---|
+| 1 | **What are you good at?** | trained, apprenticed, *"where you put your 10,000 hours in"* |
+| 2 | **What do you love?** | *"what idiosyncratic things do you explore when no one's watching?"*; *"if you had all the money in the world, what would you be doing?"* |
+| 3 | **What does the world value?** | *"what is in demand at this moment"* |
+| 4 | **What does the world need beyond money?** | *"does it need a solution to a much bigger problem?"* |
+
+*"Column one and two is looking inward. Column three and four is looking outward."* Then: underline
+whatever *"gives you a little joy, that sparks a little excitement,"* and *"**find the intersection of
+all those words and design the perfect version of yourself** — the one that plays to as many of your
+unique traits as possible."* The four intersections he names when teaching it directly: **mission,
+passion, profession, vocation.**
+
+**Precondition:** generate **without judgment** (he attributes *"the highest form of intelligence is
+observation without judgment"* to a name the captions garble; ⚠️ most likely **Krishnamurti**, not
+asserted).
+
+**The companion instruction:** *"If I could sing, I would sing on stage. If I could dance, I would
+dance my butt off on stage. But what I have to do is **lean in on the gifts that I have, not the
+gifts that I want.** And that's a big difference."*
+
+## 92. ★★★ Foresight is what people mistake for luck (2025-05-25)
+
+Told *"things seem to keep working out for you,"* his answer:
+
+> *"**It's not by luck. It's because you see where things are going. You go there before you run out
+> of options.**"*
+
+The worked proof is the Blind exit — see [[../business/business|business]] and
+[[../../entities/blind|Blind]]. ⚠️ Note that the **winter image** he uses there reuses **Jim Rohn's
+seasonal metaphor** from 2025-03-31 to a **different end**: preparation there, **foresight** here.
+**One image doing two jobs — do not collapse them.**
+
+## 93. ★★★ Obsession beats superficial interest (2025-05-25)
+
+> *"Why did I tell you yesterday about being slightly obsessed? **Most people think that's a bad
+> thing.** The alternative is to remain superficially interested in things and never really understand
+> much beyond that. **That's good if you're trying to play Jeopardy or Trivial Pursuit** — but for
+> most things in life, **the world rewards people who have deep, deep knowledge or deep expertise.**"*
+
+With the example he keeps: a Star Wars superfan who built a canon database and timeline and was hired
+as the continuity keeper — *"**you could just be a big Star Wars nerd and own that space.**"* And the
+personal warrant: *"I just really get into stuff, and in my life it's proven to work out really
+well."*
+
+## 94. ★★ It's hard to read the label when you're inside the jar (2025-05-29)
+
+> *"Most people are not that objective when they're making stuff because they're involved. They have
+> attachment, subjectivity, biases — 'I worked really hard on this one.' **That's why people hire
+> coaches and consultants.**"*
+
+
 ## Cross-cutting patterns
 
 - **Language is the lever.** War Jitsu (§3), "share" not "teach" (§7), defining words like

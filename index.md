@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-27 (ingest yt batch @thefutur, 2 of 3 → 888 L2 — ★★★ **the transcript audit** and *"send me a proposal is the kiss of death"*; and ✅ **the Matt Essam relationship is disclosed on air** at the 10th instance — a three-part partnership in which he is also a Pro Group coach. Not covert; the fence stands as an attribution safeguard)_
+_Last updated: 2026-07-27 (ingest yt batch @thefutur, 2 of 3 → 890 L2 — ⚠️⚠️ **Kier McLaren has died** (recorded as stated, no date inferred), plus three origin stories the corpus lacked: **how he met Kier**, **the Adobe CD-ROM break at 22**, and **the Venice house dated ~1998–99**; and ★★★ **the remix doctrine** — one video, three uploads, ~74M views)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **888 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-02-04, one row deferred] + the 2026-07-21 fresh upload; synthesized through batch 133 → persona **v16**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **890 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-02-07, one row deferred] + the 2026-07-21 fresh upload; synthesized through batch 133 → persona **v16**).
 
 ## Topics
 

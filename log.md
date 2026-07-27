@@ -5864,3 +5864,93 @@ interested."* ⚠️ **Entity work required**: `matt-essam` now records the **di
 Group coach** — a fact about the company's delivery model. Fenced: **Matt Essam** (the partnership playbook,
 the three partnership types — which he credits to **Daniel Priestley** — and the referral *"price cage"*
 critique).
+
+## [2026-07-27] ingest | yt batch (@thefutur, 2 of 3 — one deferred) — a death, three origins, and the remix doctrine
+
+**Stage B (P2), `--n 3`.** The row deferred from batch 146 resumed at the front and was ingested — **eight
+batches running with no row deferred twice.** Ledger 888 → **890 L2**. **Both ingested rows are ★★★.**
+
+| id | date | what it is |
+|---|---|---|
+| `yt-mw_0Hy1-tic` | 2025-02-02 | ★★★ **LANDMARK** — Priestley fireside, but mostly Chris; ⏸️ from 146 |
+| `yt-Hmpf-q2IGQQ` | 2025-02-07 | ★★★ **LANDMARK** — live room, AI + the remix doctrine |
+| `yt-b0drEg4TqC0` | 2025-02-11 | ⏸️ **DEFERRED** (53KB, premium pricing) |
+
+**1. ⚠️⚠️ Kier McLaren has died.** Said in passing, without ceremony, while explaining where his business
+knowledge came from: *"a lot of it is because **Kier — he since passed away — would say: *hey dummy, why
+don't you do it this way.***"*
+
+**No date is given, and I have not inferred one.** `entities/kier-mclaren.md` now records it as stated, and
+flags that **present-tense descriptions elsewhere in the corpus need revising** at the next pass. Given he
+is the single most-credited figure in Chris's business formation, this is not a detail to leave buried in a
+source page.
+
+**2. ★★★ Three origin stories the corpus was missing — all from the same hour.**
+
+- ★★★ **How he met Kier**, which is a better illustration of *"you have to be bold enough to ask"* than
+  anything currently promoted: at lunch, a friend was describing how well things were going, and Chris sat
+  there thinking *"**is it rude for me to ask who is this person, and can I get their information?** …
+  **Your friend is sharing something really great about their lives, and the first thing you think is: how
+  can I benefit from your greatness?**"* He asked anyway. **A 13-year relationship started there.**
+- ★★★ **The first break, at ~22** — an instructor offered to put his student work on the **Adobe After
+  Effects CD-ROM**, and *"**I was initially resistant** — because **they give you a dollar to buy the rights
+  to your work. I was a little offended.**"* He did it anyway. **The thing he nearly refused on principle
+  became the break.**
+- ★★★ **The Venice house, now dated (~1998–99) and motivated**: student loans paid off *"within the first
+  six months"*, *"**one single check more than I thought I would make in a year**"*, and then a house seen by
+  chance *"one and a half blocks from the ocean"* — ★★★ *"**a dream that I had when I was in junior high**,
+  watching [twenty-somethings who] had an agency and lived on the beach. **That's the life. That's the life
+  I want.**"* ✅ **This completes the bare item from 2024-12-22.**
+
+Also ★★★ **the price game** in its fullest telling — *"**how ridiculous would it be for me to just charge
+this outrageous amount of money? … Let's just try**"* — with the **Ben Burns arc** (found on Facebook,
+working below minimum wage, coached to $18K then $30K, then hired) and the argument that justifies it:
+★★★ *"every once in a while they say yes — **somebody just set the new benchmark**… when a home sells for a
+record it sets the standard for the neighbourhood. **Why can't you be the comp that sets the new
+standard?**"*
+
+**3. ★★★ The remix doctrine — and this time with numbers.** One video (the pricing/Nike-logo argument),
+three uploads:
+
+| Upload | Views (as stated) |
+|---|---|
+| Long-form original | **4M+** |
+| Same video, **cropped** to vertical | **40M+** |
+| Same video, **full-frame** | **30M** |
+
+★★★ *"**Some of our best content is what we should be making versions of** — a podcast, a live thing,
+**interpretive dance**, whatever. **You remix it, you sample the best hit, and you make more hits.**"* Two
+details that make it honest rather than triumphal: the first Short was *"**really lazy** — we just did like
+that. **That's not native**"*, and he got the third idea **by copying someone who had copied him.**
+
+Same session: ★★★ **social capital is capital**, argued against the room's received wisdom (*"followers is a
+vanity metric… **I don't believe it**"*), with *"**you are the new platform for people to give money to**"*
+and a disclosure — **six-figure brand deals** for *"a very little amount of work"*, subject to ★★★ *"**I must
+love the product before I started talking to you.**"* Plus ★★★ **the three-year rule**: *"every three years
+or so, if you haven't changed your business model… **you're falling behind.**"*
+
+> ✅ **A third face of the AI stance.** [[2025-01-03-yt-obu9QUo8jq4]] is about **labour markets**;
+> [[2024-12-11-yt-29C2qGyYjzc]] is about **personal development**; this one is about **workflow** and is
+> deliberately **tool-agnostic** (*"there's no AI engine that's bad"*). **All three dated; none is the whole
+> position.** The pass-15 note to revise the *AI-stance-is-2023* guard now has three sources behind it.
+
+**Deferral (no silent caps):** `b0drEg4TqC0` (53KB) returned to `L0-discovered` at P2, transcript cached,
+not skimmed.
+
+**Pipeline state:** `@thefutur` P1:0, **P2:187**, P3:44; `@TheFuturAcademy` P3:72; shorts 860; L2=**890**,
+L3=0; synthesis debt **5/10**; persona v17.
+
+> **Next iteration: Stage B (P2), `--n 3`**, led by the deferred 2025-02-11 row.
+
+Synthesis notes: genuinely new — (1) ⚠️★★★ **Kier McLaren's death** — update the entity page (done) **and
+sweep present-tense references**; record as stated, **no date**; (2) ★★★ **how he met Kier** (the awkward
+question) for `persona/biography.md` and the entity page; (3) ★★★ **the Adobe CD-ROM break at ~22**,
+including the $1 rights-buyout refusal; (4) ★★★ **the Venice house dated ~1998–99** with the junior-high
+dream and the six-month student-loan payoff; (5) ★★★ **the price game** and **"why can't you be the comp?"**
+for the pricing hub; (6) ★★★ **the Ben Burns arc** for his entity page; (7) ★★★ **"you want more
+opportunities to decide"**, not more clients; (8) ★★★ **the remix doctrine** with the 4M/40M/30M numbers and
+the music-industry frame; (9) ★★★ **social capital is capital** + *"you are the new platform"* + the
+**six-figure brand deals with the must-love-it condition**; (10) ★★★ **the three-year rule**, promoted with
+the documented pivots; (11) ★★★ **the AI workflow position** as the third face; (12) ★★ **the Emmy
+deflation**; (13) ★★ **the reciprocate-10× network** with his own *"kumbaya"* hedge; (14) ★★ **validate by
+finding the expensive-but-unloved step**.

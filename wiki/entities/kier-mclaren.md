@@ -220,3 +220,32 @@ and how I look at myself and think about the world, come from those sessions."*
 
 > ⚠️ **Two different reasons are on record for seeking that referral** (children, 2024-10-31; employees,
 > 2024-11-24). **Both are recorded in `persona/biography.md` and deliberately not merged.**
+
+## ⚠️ Added 2026-07-27 (synthesis pass 15b follow-on, from batch 147) — he has died
+
+_Source: [[../sources/2025-02-02-yt-mw_0Hy1-tic]] (2025-02-02). **Self-reported, said in passing.**_
+
+> *"A lot of it is because **Kier — he since passed away — would say: *hey dummy, why don't you do it this
+> way.*** Now, he didn't really say it like that, but it felt like that."*
+
+⚠️ **No date is given, and none is inferred.** The statement is recorded exactly as made. **Any present-tense
+description of him elsewhere in the corpus should be revised at the next pass.**
+
+### ★★★ How they met — a question Chris was embarrassed to ask
+
+*"I'm having lunch with a friend at **Fritto Misto**, an Italian pasta place, and they were talking about
+how great things were and how much their business had grown. And I'm sitting there thinking: **is it rude
+for me to ask who is this person, and can I get their information?** … **Your friend is sharing something
+really great about their lives, and the first thing you think is: how can I benefit from your
+greatness?**"* He asked anyway. The friend — **Hugh** (first name only) — *"thinks for a minute, then he
+paused. **I'm really good at detecting pauses.**"*
+
+> ★★ **A 13-year relationship the corpus credits with most of what he knows about business began with a
+> question he was embarrassed to ask.** This is the best illustration in the corpus of his own
+> *"you have to be bold enough to ask for it."*
+
+### ★ The Tuesday sessions, from the household's point of view
+
+*"**My wife was always super extra happy every Tuesday** — because **that's the day that Kier would come
+into the office and he would just kick my butt.** So she was just happy somebody was doing it to me for a
+change. **She loves me dearly, but it's fun to see me suffer.**"*

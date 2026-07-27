@@ -33,6 +33,7 @@ this has been a short masterclass…"* Prior to that video the surname was carri
 | 2024-07-27 | `eBrwd2FZCEE` | ⚠️ **pricing** — hourly billing, undercharging, discounting | [[../sources/2024-07-27-yt-eBrwd2FZCEE]] |
 | 2024-08-27 | `vBTGeNr4ZZ0` | ⚠️ **client acquisition** — landing six-figure design projects | [[../sources/2024-08-27-yt-vBTGeNr4ZZ0]] |
 | 2024-09-27 | `TSU29CCLKrE` | ⚠️⚠️ **the sales process** — a four-part "clarity call" framework | [[../sources/2024-09-27-yt-TSU29CCLKrE]] |
+| 2024-10-27 | `-wh61BGjNNs` | ⚠️⚠️ **mindset + positioning + cash flow** — "recession proof your agency" | [[../sources/2024-10-27-yt--wh61BGjNNs]] |
 
 **Expect more.** The slot runs at least December 2023 → August 2024 and may continue through the 2024 P2
 range still open in the ledger. **It is regular, not occasional.**
@@ -82,6 +83,7 @@ range still open in the ledger. **It is regular, not occasional.**
 - **The weekly planner**: brain dump, chunking, a priority matrix, protect time for the few things that
   move the business; end-of-week retrospective — *"what were your wins and what did you learn"* — on the
   premise that *"there is no such thing as failure: you either win or you learn."*
+- ⚠️ **A three-principle "recession proof" system** (2024-10-27): *security is an inside job* (his **cycle of scarcity**: stimulus → belief → emotion → response, intervened at the belief, citing **Byron Katie**), the **"lightbulb formula"** (symptom → assumption → real problem → the how), and *"cash is king"* (fast-payment discounts, **expiring proposals**, payment gateways, paid-on-deliverables-not-approval, ***Profit First*** by Mike Michalowicz, weekly cash reviews, **"priming"** credited to Tony Robbins). Biographical, about him: coached *"more than 50 creative business owners"* through the pandemic; started his own creative studio *"around 2012."*
 - ⚠️ **A four-part "clarity call" first-call framework** (control the frame → identify the gap → goals broadly, not goals-about-your-service → [part four]), capped at 15–20 minutes, with a downloadable script and a pre-emptive defence of scripts (*"mould it to sound like you"*). His framing analogy: a child's painting in a nursery vs. a red square in a famous gallery — *"whoever sets that frame controls the conversation."*
 - ⚠️ **A three-mistake pricing lecture** (hourly billing → undercharging → discounting), with client case studies in pounds. One precise distinction worth noting as *his*: **undercharging** is setting the price low yourself, invisibly; **discounting** is lowering a stated price after pushback.
 - **The five-step LinkedIn DM process**, evidenced with client results (a five-figure Paramount deal;

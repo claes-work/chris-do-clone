@@ -4668,3 +4668,109 @@ community pivot and *"there's no strangers"* — deepens the existing influence 
 watch**: two mortgage-industry engagements seventeen days apart (Dhingra, Forward) — note on
 `the-futur` if a third appears. Carried: Part 2 of the Jule Kim listening workshop; the Seth Godin guest
 episode; two earlier Priestley and two earlier Tom Ross episodes; a Jasmine Star stub on a 3rd appearance.
+
+## [2026-07-27] ingest | yt batch (@thefutur, 5) — a sales landmark, a conceded critique, and the fence's fourth strike
+
+**Stage B (P2).** Five rows, 295KB, all read in full. Ledger 860 → **865 L2**. Two of the five are
+★★ L3-candidates and one is the most dangerous do-not-train page written so far.
+
+| id | date | what it is |
+|---|---|---|
+| `yt-qNQYueL6JY4` | 2024-10-10 | Raw Materials founder — guest-primary |
+| `yt-pc66141WYEI` | 2024-10-13 | ★★ **60-minute sales crash course** — LANDMARK |
+| `yt-asE-XOcFMjE` | 2024-10-18 | Daniel Priestley — guest-primary, ⚠️ recorded August |
+| `yt-R_CZQoktnPE` | 2024-10-24 | ⚠️ sponsored (Gusto), partially fenced |
+| `yt--wh61BGjNNs` | 2024-10-27 | ⚠️⚠️ **NOT CHRIS** — Matt Essam **8th**, fourth consecutive |
+
+**1. ★★ The densest sales source in the corpus.** `pc66141WYEI` is a compilation — workshops, roleplays, a
+studio lecture and a coaching call taken from a car — so **the ideas must be dated to their original
+telling, not to 2024-10-13**; the page carries that warning at the top. What it contains is the full
+machinery in one place: ★★ *"**the harder you try to sell, the fewer clients you get**"*; the definition
+stack (*"selling is not pitching, not presenting, not convincing, not manipulation… **the goal of sales is
+to inspire the prospect to make a decision, not to tell them what to do**"*); and the compression to
+★★ **two skills only — asking and listening**, *"they're twins."*
+
+The techniques are unusually concrete. ★★ **Keep a notebook instead of eye contact** — *"your words matter
+so much I must describe them in a notebook."* ★★ **The test of whether you listened**: the next question
+must follow the last answer (*"unfortunately this is how most podcasters interview people — they have 75
+questions and just go from question to question"*). ★★ **Play it back and welcome being wrong**: *"if you
+get something wrong, **this is an opportunity for the prospect to correct you**."* And the reason it works:
+★★ *"**when you give voice to a feeling or frustration, you diminish the power of it.**"*
+
+★★ **The origin claim underneath all of it** is worth promoting on its own: *"**I thought I was doing a
+great job until my coach told me: you're not.** … *How can you guess at what the client wants? Why don't
+you just ask them?* … **It changed the entire trajectory of our company.** … **I choose understanding over
+speed every single time, and it became our competitive advantage.**"*
+
+Pricing-side: ★★ the **Ben Burns anchor story** (*"damn it, **he just dropped an anchor on my face and I
+fell for it**"* → let it wear off → *"I can help you find it for 10, but if you want me to do it, **30**"* →
+the client came back and he deleted the referral email he was writing); ★★ **price bracketing as sonar**;
+★★ **never justify a price** (*"justification is a sign of conceding the higher ground"*, tested by the
+supermarket: *"**if it's uncomfortable for you to ask, why do you think it's good for you to answer?**"*).
+
+**2. ★★ He submits the Pro Group to a guest for critique and takes the hit.** In `asE-XOcFMjE` Chris asks
+Priestley how to fix Pro Group conversion, and gets told the **$250/month** price is *"expensive to the
+wrong person and too cheap for the right person."* Chris's whole reply is ★ *"**I can hear that.**"*
+Then the harder one lands — an intro event should create hunger, not satisfy it — and Chris diagnoses
+himself out loud: ★★ *"**I really think of myself as an educator. I just want to teach**… **I'm definitely
+feeding them. I'm not creating hunger**… **So I'm messing up here.**"*
+
+> ⚠️ **Held, not resolved.** Elsewhere in the corpus the educator instinct is the whole point. Here it is
+> named by him as a commercial liability. Both dated, both true — the page says so explicitly.
+
+**3. ★★ A new interviewing tool and a new influence.** In `qNQYueL6JY4`: *"I'm going to ask you something
+**I've never asked a podcast guest before** — the **Dan Sullivan question**: three years from now, you and I
+are looking back… **what has happened, both personally and professionally, that's made you really
+happy?**"* The same episode gives the bluntest language he has used for why an owner should quit: ★★ *"**the
+need to just keep things going becomes the overwhelming driving force, which is not a good reason.** You
+just feed the machine and you're like — **why am I even doing this?**"* And a **dated 2024 position on cold
+outreach** (*"everyone is in your DMs… **am I a meal ticket?**"*) that the guest **rebuts coherently** —
+recorded on both sides, deliberately unmerged.
+
+**4. ⚠️ A sponsored video, split down the middle.** `R_CZQoktnPE` is a Gusto sponsorship, and the
+sponsorship shapes the content: myths 1–3 are his own and excellent (★★ the **true-cost stack** —
+production + management + overhead + profit, with a **30% margin** test; ★★ *"**you can't afford to hire
+them and make money — that's usually a sign that you're undercharging**"*; ★★ the **EHR stewardship rule**;
+**three hires = 150% of your capacity**), while myths 4–5 are **read-to-camera US HR compliance and vendor
+statistics** and are fenced as do-not-train. The quoted voicemail in it names his wife on air; per the
+standing `SUBJECT.md` rule the **name is not recorded** — the page notes the redaction rather than hiding it.
+
+**5. ⚠️⚠️ The fence's fourth strike, and the closest call yet.** Matt Essam's **eighth** instance is his
+broadest: mindset, positioning **and** cash flow. It contains an unattributed maxim — *"**when you can
+articulate someone's problems better than they can, they subconsciously give you permission to solve
+them**"* — that would sit **completely undetected** inside Chris's own sales material. **Grepped and
+verified absent** from `wiki/` and `persona/` today. The entity page now carries a **standing
+verify-no-leak grep list** to run every synthesis pass, and both it and `SUBJECT.md` are updated to eight.
+Note the pairing this batch produced by accident: **2024-10-24 (Chris) and 2024-10-27 (not Chris), three
+days apart, same channel, same subject.**
+
+**Pipeline state after this batch:** `@thefutur` P1:0, **P2:215**, P3:44; `@TheFuturAcademy` P3:72;
+shorts 860; L2=**865**, L3=0; synthesis debt **2/10**; persona v16.
+
+> **Next iteration: Stage B (P2).** 215 open P2 rows.
+
+Synthesis notes: genuinely new — (1) ★★ **the whole of `pc66141WYEI`**, the highest-priority L3 candidate
+the corpus has produced in weeks: *selling is helping*, **asking + listening as the only two skills**, the
+**notebook**, the **follow-up-question test**, *"I choose understanding over speed"* and the coach story
+(an **origin claim**, for `persona/beliefs.md`), the **Ben Burns anchor story**, **price bracketing/sonar**,
+**never justify**, the **four-condition client filter**, **retreat-and-follow / kill it three times**, and
+**question quality** (what > how > why; leading-and-binary = bad); (2) ★★ **the accepted Pro Group pricing
+critique** and ★★ ***"I'm feeding them, I'm not creating hunger"*** — the most candid on-camera account of
+a Futur commercial problem in the corpus, for the business hub and `entities/the-futur`; (3) ★★ *"you need
+more action, not more information"*; (4) ★★ the **self-belief vs. client-belief dissent** (*"your words
+betray you, because they reveal the real view"*) — a real disagreement with a guest, hold both;
+(5) ★★ **awareness → alignment → alive**, his own coinage; (6) ★★ the **waiting list as a permission
+structure to say no** — Chris's contribution to Priestley's tactic; (7) ★★ the **true-cost stack + 30%
+margin test**, ★★ *"you can't afford them = you're undercharging"*, ★★ the **EHR stewardship rule**,
+**3 hires = 150%**; (8) ★★ the **Dan Sullivan question** + **Dan Sullivan** as a new influence entity;
+(9) ★★ ***"feed the machine"*** and the joy test as an exit criterion; (10) ★ the **unrepresentative-
+biography admission** (*"sometimes the things that I say are really hard for people to process"*) for
+`persona/voice.md`. ⚠️ **Flagged for the pass, do not smooth over:** the *educator instinct* tension
+(virtue vs. liability); the **2024 cold-outreach position** with its unmerged counter; the **owner-and-
+founder-means-too-small** heuristic, which sits against his own advocacy for small studios. Fenced:
+**Matt Essam** (everything — and run the new grep list), **Daniel Priestley** (KPI ladder, waiting list,
+Cinderella principle, self-assessments, intro events, name-same-fame-aim-game, plus his Aug-2024 ScoreApp/
+Dent figures), the **Raw Materials founder** (demand-generation principle, *"no idea is ever as good as
+when it is first conceived"*), and the **Gusto compliance section**. New entity candidates: **Raw
+Materials**, **Dan Sullivan**. Carried: Part 2 of the Jule Kim listening workshop; the Seth Godin guest
+episode; two earlier Priestley and two earlier Tom Ross episodes; a Jasmine Star stub on a 3rd appearance.

@@ -3207,9 +3207,15 @@ influence's ideas are *their* claims, cited here only to trace provenance of Chr
 - **Ron Baker** — value-pricing / beyond-the-billable-hour thinking (named in v1 as a
   pricing-doctrine influence alongside Enns).
   ([[../wiki/sources/2026-07-14-research-biography-dossier]] §12)
-  > Note: Ron Baker is not directly cited in the 11 video sources synthesized here; this
-  > attribution rests on the v1 biography dossier. `attribution: uncertain` pending a
-  > source page where Chris names him on the record.
+  > ✅ **UNCERTAINTY CLEARED 2026-07-27.** This note previously read *"not directly cited…
+  > `attribution: uncertain` pending a source page where Chris names him on the record."*
+  > **It was already out of date and is now doubly so.** (a) A full masterclass **with**
+  > Ron Baker exists at [[../wiki/sources/2022-09-22-yt-TB54_6bEP-A]]. (b) On **2025-03-04**
+  > Chris names him, the book, and the occasion unprompted: *"**the only reason why I know
+  > this is because I asked Ron Baker**, [who] **wrote the book *Implementing Value
+  > Pricing*.** He's **a wizard with economics and accounting**, and he explained it to
+  > me."* — teaching **retainer (selling time in bulk) vs. subscription (selling results,
+  > never time)**. ([[../wiki/sources/2025-03-04-yt-2dY6MsSedKg]])
 - **Others he credits in-passing** (lower weight, single-source): Peter Drucker (risk,
   "create and keep a customer," *The Effective Executive*), Derek Sivers ("Hell Yeah or Hell
   No"), Mark Manson, Alex Hormozi (invest in yourself), Brené Brown (vulnerability), Carl

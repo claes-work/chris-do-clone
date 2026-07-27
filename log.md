@@ -6641,3 +6641,107 @@ hits remain the three documented known-good exceptions.
 > **Next iteration: back to Stage B (P2), `--n 3`**, led by the deferred `yt-2dY6MsSedKg`. 179 P2 rows open.
 
 Synthesis notes: none — this was the synthesis pass.
+
+## [2026-07-27] ingest | yt batch (@thefutur, 2 of 3 — one deferred) — "send it to a committee and all creativity dies"
+
+**Stage B (P2), `--n 3`.** First batch after the pass-16/16b synthesis. The row deferred from batch 152 was
+taken first. Ledger 898 → **900 L2** — **the corpus crosses 900.**
+
+| id | date | what it is |
+|---|---|---|
+| `yt-2dY6MsSedKg` | 2025-03-04 | ★★★ AdobeMAX Miami AMA; ⏸️ from 152 |
+| `yt-fKWJjiRMCTM` | 2025-03-06 | solo listicle, eight rules |
+| `yt-aE-J18QsH-Q` | 2025-03-05 | ⏸️ **DEFERRED** (80KB guest episode) |
+
+**1. ★★★ The clearest corporate-vs-personal-brand argument in the corpus** — and he builds it as a live
+exercise rather than asserting it. First the room lists what a corporate account is *for* (leads, awareness,
+conversions, engagement, recruitment, mission, PR); then he tests each against a personal account until only
+**engagement** survives — and that is where it lands:
+
+> ★★★ *"Corporate brands are usually very generic… a team has a strategy, marketing, copywriters, HR, legal
+> — ★★★ **that's where everything goes to die in terms of creativity. Send it to a committee and all
+> creativity dies.** It has **too many masters to make happy**, so they **water it down until everyone's
+> happy — which means no one's happy.** … ★★★ **The problem is: if we start behaving like a corporate brand,
+> we will get the engagement of corporate brands — which is, no one gives an F.**"*
+
+The distinction in one line: the corporate brand is **the voice of many** *"because it's the committee that
+decides"*; yours is **the voice of one — your voice, your beliefs, your mission, your attitude, your
+style.** And the asymmetry that makes it winnable: ★★★ *"**all the time corporate brands are trying to be
+more human. The good news is: you're already human. There's only one of you. So do you — it will work.**"*
+
+**2. ★★★ Cultural currency in full, and the three stories named as a set.** The corpus already had *origin
+story as cultural currency* as a branding framework; this is its fullest teaching, worked live off the
+conference's own keynote speakers. ★★★ *"**We all don't think our immigrant story or our origin story
+matters — until you tell it.**"* And **why a company structurally cannot compete here**: *"**corporate
+brands were not really born — they were created.** They don't have that same cultural currency **because
+there is none.**"*
+
+New as a named set: **the inciting incident** (*"something happened, it forked, you picked one new path —
+your life is never the same again"*, via Loki's **sacred timeline**), **the origin story**, and **the
+defining moment** (*"when it totally crystallizes"*). ★★ The test he gives for the first: *"**not *I think I
+might*, but when you KNOW.**"
+
+**3. ✅✅ A standing attribution uncertainty is closed.** He audits a designer's *"subscription"* live —
+$2,500/month for 20 hours, no rollover — and reclassifies it: *"**Alex does not have a subscription model.
+She has a RETAINER model.**"* **Retainer** = *"selling a prepackaged set amount of hours bought in advance
+for a slight discount — **what you're really selling is time**, prepackaged in bulk."* **Subscription** =
+*"**you don't sell time at all. You just talk about results.**"*
+
+> ★★★ **And the credit is on the record**: *"**the only reason why I know this is because I asked Ron
+> Baker**, [who] wrote ***Implementing Value Pricing***. He's **a wizard with economics and accounting**,
+> and he explained it to me."*
+>
+> ✅ `persona/beliefs.md` carried Ron Baker with `attribution: uncertain` *"pending a source page where Chris
+> names him on the record."* **That note was already stale** — a full masterclass **with** Ron Baker exists
+> at [[2022-09-22-yt-TB54_6bEP-A]] — **and this source closes it outright. Flag cleared, with both citations
+> recorded.**
+
+> ⚠️ **The transcript ends mid-sentence**, right after the subscription definition. The subscription half is
+> **stated but not developed**, and **nothing was reconstructed.**
+
+**4. ★★★ Be a franchisee — new, counter-cultural, and honest about who it excludes.** *"You don't want to
+invent a new McDonald's — **so you become a franchisee.**"* Applied to knowledge work: *"people in the
+coaching space **find a program they love, that they benefited from, and they become a franchisee — they
+license the system, the name, the procedures**… you're using your money to save yourself the entire process
+of writing the material, testing it, prototyping it, fixing it."*
+
+> ★★★ **Then he excludes himself, at his own expense**: *"if you're saying *but Chris, I'm building my own
+> system* — **I say congratulations, friend. This video is not for you.** You're supposed to be lazy —
+> **you can't be not-lazy and lazy at the same time.** I applaud you — **I'm doing that. I don't want to
+> license someone else's program — but I'm in the grind, I'm working 14, sometimes 16 hours a day.**"*
+>
+> ✅ **Notable twice over**: a personal-brand teacher recommending that some people **rent someone else's
+> brand and system**, and **a dated self-report of 14–16-hour days** that sits directly against the video's
+> own premise — volunteered, not hidden.
+
+**Also from the listicle**: ★★★ *"**the hardest-working lazy person I know**"* — a self-description that
+reframes his whole productivity doctrine, with the honesty that goes with it (*"I'm a pretty good animator —
+not the best, not even close"*); ★★★ **the coach caveat** — *"save your money if your intention is to hire
+someone and then not do what they tell you… **now you're just dumb and busy**"* (✅ the compressed form of
+February's mentorship doctrine); ★★★ **the 90/10 sprint bargain**, concrete and self-incriminating (*"I love
+to do social media… **oh my God, half my day is gone**"*); ★★★ **smallest viable action** via Terry Crews's
+parking-lot ratchet, applied to himself — *"**I personally do not like to exercise. I don't want to send out
+invoices**"*; and ★★★ ***"this is how you go from a designer to THE designer"*** via *Jiro Dreams of
+Sushi*.
+
+**Deferral (no silent caps):** one row — `aE-J18QsH-Q` (80KB guest episode needing a full
+speaker-attribution pass) — returned to `L0-discovered` at P2, transcript cached, not skimmed.
+
+**Pipeline state:** `@thefutur` P1:0, **P2:177**, P3:44; `@TheFuturAcademy` P3:72; shorts 860; L2=**900**,
+L3=0; synthesis debt **1/10**; persona v18.
+
+> **Next iteration: Stage B (P2), `--n 3`**, led by `aE-J18QsH-Q`.
+
+Synthesis notes: genuinely new — (1) ★★★ **the corporate-vs-personal-brand argument** with the committee
+diagnosis, **the voice of many vs the voice of one**, and *"you're already human"*; (2) ★★★ **the three
+stories named as a set** — inciting incident / origin story / defining moment — with the Loki sacred-timeline
+device and the *"not *I think I might*, but when you KNOW"* test; (3) ★★★ **cultural currency in full**, plus
+*"we all don't think our origin story matters until you tell it"* and **why corporate brands structurally
+can't do it**; (4) ★★★ **retainer vs subscription** (time-in-bulk vs results) ⚠️ **noting the source
+truncates before the subscription half is developed**; (5) ✅✅ **Ron Baker `attribution: uncertain` CLEARED —
+already done in `beliefs.md` this batch**, with both the 2022 masterclass and this on-record naming; (6) ★★★
+**be a franchisee**, and **his self-exclusion and 14–16-hour days must travel with it**; (7) ★★★ **"the
+hardest-working lazy person I know"** for `voice.md`; (8) ★★★ **"now you're just dumb and busy"**;
+(9) ★★★ **the 90/10 sprint bargain**; (10) ★★★ **smallest viable action**; (11) ★★★ ***a* designer → *THE*
+designer** via Jiro; (12) ★★ **Paula Scher's three-stickies onboarding**; (13) ★★ **automate the unglamorous
+things**, with the keynotes-in-a-day claim.

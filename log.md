@@ -7773,3 +7773,85 @@ frame"* → **zero hits** across `persona/` and `wiki/topics/`. The three docume
 > **Next iteration: back to Stage B (P2), `--n 3`.** 163 P2 rows open.
 
 Synthesis notes: none — this was the synthesis pass.
+
+## [2026-07-27] ingest | yt batch (@thefutur, 2 of 3 — one deferred) — copy the beginning, not the ending
+
+**Stage B (P2), `--n 3`.** First batch after passes 17/17b. Two short sources, both worth their length.
+Ledger 914 → **916 L2**.
+
+| id | date | what it is |
+|---|---|---|
+| `yt-AEALVZeA8ZM` | 2025-04-06 | 2.8KB — the Matrix as a personal-brand parable |
+| `yt-bO4qcpHI1Sw` | 2025-04-09 | ★★★ 6.5KB — the niching objection, answered |
+| `yt-PaCM-LXyIfc` | 2025-04-15 | ⏸️ **DEFERRED** (21KB, 10-book listicle) |
+
+**1. ★★★ The best new line in weeks, and it answers a standing objection.** Asked the perennial *"aren't
+there hyper-successful people who AREN'T niched?"* — with **Post Malone** (rock → hip hop → country) as the
+audience's example — he grants the premise, deflates it (*"**you're not Post Malone**… and if you are, you
+won't be watching this channel, cuz you're already rich and famous. ★ **That was just a joke, by the
+way**"*), and then lands it:
+
+> ★★★ *"**The mistake that most people make is they copy someone's ENDING versus their BEGINNING.** Just let
+> that sink in."*
+
+Because the beginning is invisible: *"there's a long time when Post Malone is doing his thing **before
+anyone even hears about him** — **DJing for a wedding or a birthday party. We don't know.** **We only become
+aware of them when they become famous.**"* Via **Jim Rohn**: *"success does leave clues — ★★★ **the
+unfortunate thing is we just want what they have RIGHT NOW.**"*
+
+**2. ★★★ And then he uses HIMSELF as the cautionary example rather than the model.** *"If you take me — *he
+doesn't work for clients, he speaks about a broad number of subjects, **he's got two buildings** and a
+team.* ★★★ **Why don't you try and copy that? What's the problem there?**"*
+
+> ★★★ *"**You don't have the resources. You don't have the experience. You haven't read the books. You
+> haven't done the work with the clients that I'm going to be able to draw on. You haven't been coached.
+> You haven't seen a therapist. You haven't done all the work.**"*
+
+✅ **Note what's on that list.** Beside resources and client experience he places **being coached** and
+**seeing a therapist** — **the invisible prerequisites the corpus documents at length, named here as
+prerequisites.** ★★ Plus a new datum in passing: *"**two buildings.**"*
+
+**Also from that source**: ★★★ **the unfollow mechanic**, which is the concrete cost of breadth — *"I'm about
+that far away from unfollowing them… ★★★ **they promised me this, and now they're giving me that. I don't
+want any of that. I just want this.**"* → *"**you want more of the same**"*; ★★★ *"**this seems illogical to
+me — to find success at something and then not do it anymore.**"*; ★★★ *"**an inch wide and a mile deep**"*;
+✅ **T → pi, third attestation** — ⚠️ **with a further multi-column stage he explicitly cannot name
+(*"I don't know what you call that"*), recorded UNNAMED rather than given a term he didn't use**; and ★★ the
+honest permission: *"**if that doesn't matter to you, do whatever the heck you want and God bless you.**"*
+
+**3. ★★ The Matrix clip is tiny but earns its place.** *"**I'm a big consumer and lover of pop culture**,
+and **The Matrix is probably my top two or three films of all time — I'll die on that sword.**"* The reading
+turns on the line he says everyone discards — the Oracle's *"**not in this lifetime**"* — and lands on:
+
+> ★★★ *"**I feel like I'm Morpheus, and I'm looking at all of you — and you are the one. But not in this
+> lifetime.** ★★★ **I don't think you need to die, but you need to be reborn. You have to really dig into
+> who you are.**"* → *"**there are no limitations except for the ones you impose upon yourself.**"*
+
+✅ **Second attestation of *stories are instructions***: *"**most really well-written media, plays — they're
+not designed for you just to watch. They're LESSONS. They're sending a signal to you — but most of us don't
+even see it.**"* (First: the Miyagi / Pai Mei telling, 2025-02-23. **Settled — a stated method of reading,
+not an ad-lib.**) ★★★ **With an unguarded disclosure**: *"when I see these movies **I'm in tears — my wife's
+like: what's wrong with you?**"*
+
+> ✅ **A small self-correction worth recording.** On 2025-04-01 he attributed *"that's not air you're
+> breathing"* to the wrong character; **here he gets it right.** Evidence that **the earlier slip was recall,
+> not carelessness** — consistent with the pattern already noted around the *Book Yourself Solid*
+> misattribution.
+
+**Deferral (no silent caps):** one row — `PaCM-LXyIfc` (21KB, a ten-book listicle needing careful
+attribution work) — cached, not skimmed, **takes the next batch first.**
+
+**Pipeline state:** `@thefutur` P1:0, **P2:161**, P3:44; `@TheFuturAcademy` P3:72; shorts 860; L2=**916**,
+L3=0; synthesis debt **1/10**; persona v19.
+
+Synthesis notes: genuinely new — (1) ★★★ **copy the beginning, not the ending** — the standing niching
+objection answered, with the invisible-period argument and Jim Rohn's *success leaves clues*;
+(2) ★★★ **the prerequisite stack applied to himself** — *"you haven't been coached, you haven't seen a
+therapist, you haven't done all the work"* — **notable because he is the cautionary example, not the
+model**; (3) ★★★ **the unfollow mechanic** (*"they promised me this and now they're giving me that"*);
+(4) ★★★ *"this seems illogical — to find success at something and then not do it anymore"*; (5) ✅ **T → pi,
+third attestation**, ⚠️ **with the multi-column stage left UNNAMED**; (6) ★★★ **"you are the one — but not in
+this lifetime"** / **rebirth over death** for `branding`; (7) ✅ **stories are instructions — second
+attestation, promote with the Miyagi telling as one entry**; (8) ★★★ *"I'm in tears — my wife's like: what's
+wrong with you?"* for `voice.md`; (9) ★★ **"two buildings"** for the biography; (10) ✅ **the corrected
+Matrix attribution**, as evidence about how his misquotes work.

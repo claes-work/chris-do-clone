@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-27 (**synthesis pass 17b** — closed the gap pass 17 declared: **all 6 active topic hubs current**, **2 entities created** (Maria Ross, Andrea Sampson) and **3 deepened**. Persona **v19** stands; L2 **914**; synthesis fully caught up through batch 163.)_
+_Last updated: 2026-07-27 (ingest yt batch @thefutur, 2 of 3 → **916 L2** — ★★★ *"**the mistake most people make is they copy someone's ending versus their beginning**"*, with **himself as the cautionary example** (*"you haven't been coached, you haven't seen a therapist"*); plus the Matrix parable — *"you are the one, but not in this lifetime"*)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **914 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-04-02] + the 2026-07-21 fresh upload; synthesized through batch 163 → persona **v19**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **916 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-04-09, one row deferred] + the 2026-07-21 fresh upload; synthesized through batch 163 → persona **v19**).
 
 ## Topics
 

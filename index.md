@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-27 (ingest yt batch @thefutur, 4 → 788 L2 — the four rows deferred from the previous batch, read from cached transcripts; "sales is change management" + "money measures transformation" ★★, the merged Maslow status/identity stack + "mind walking" ★★, and the blunt commercial reason for the Brand Lab pivot ⚠️)_
+_Last updated: 2026-07-27 (ingest yt batch @thefutur, 6 → 794 L2 — the **Business Boot Camp Parts 3 & 4** (2024-03-10 / 2024-03-14, promote as a pair) plus the **full rate arc $30/hr → $30,000/hr** ★★; the one-degree pivot and the Trojan Storage → $13B real-estate client ★★; "get the job done, or be right, or be popular" ★★; one row is **not Chris** and filed do-not-train ⚠️)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **788 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2024-02-27] + the 2026-07-21 fresh upload; synthesized through batch 114 → persona **v14**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **794 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2024-03-14] + the 2026-07-21 fresh upload; synthesized through batch 114 → persona **v14**).
 
 ## Topics
 

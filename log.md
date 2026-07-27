@@ -3304,3 +3304,90 @@ we trust qualified people,"* demonstrated on himself; (8) the **Dear Son** conte
 *"dear mother… dear sucker"* self-mockery; (9) the **four questions every website must answer**; (10) a
 third instance of the honest-about-gaps pattern. Carried forward: the four-way Brand Lab reconciliation
 above, and the standing instruction to **credit Noah Kagan** for the avoidance prompt.
+
+## [2026-07-27] ingest | yt batch (@thefutur, 6) — Business Boot Camp Pts 3 & 4, the full rate arc, and a third do-not-train row
+
+**Stage B (P2), batch of 6** (sized down from the default 8 on purpose: two of these transcripts are
+~90–100KB workshop recordings and the previous 511KB batch showed that eight of that size cannot be read
+properly). All six fetched cleanly; all six read in full. Ledger 788 → **794 L2**.
+
+| id | date | what it is |
+|---|---|---|
+| `yt-VdSuDhOPpaA` | 2024-02-29 | Sid Yadav (Circle) founder interview — **guest-primary, fenced** |
+| `yt-43ArjPCZcr4` | 2024-03-05 | ★ *How To Ethically Charge More* — embrace and pivot |
+| `yt-w3-yw4_n_Vo` | 2024-03-07 | ⚠️ **NOT CHRIS** — recurring guest slot; filed **do-not-train** |
+| `yt-h1voCMAT9Qc` | 2024-03-10 | ★★ **Business Boot Camp Pt 3** |
+| `yt-OREd4PPWCyY` | 2024-03-12 | ★★ **The rate arc** — landmark biography source |
+| `yt-0wse5TRJYHE` | 2024-03-14 | ★★ **Business Boot Camp Pt 4** |
+
+**Three things this batch changes for the clone.**
+
+**1. The rate arc is now on the record, end to end.** `yt-OREd4PPWCyY` is the first source in the corpus
+that names every step: $30/hour on an ArtCenter job-board bank-brochure gig → $300/day accepted *"not even
+a year out of school"* → 400 → 450 → 500 → 650 → 700 → *"people happily pay me **$30,000 to have me speak
+for 45 minutes**. I've traveled all the way from $30 an hour to quite literally $30,000 an hour."* It also
+supplies the **ArtCenter funding stack** (50% scholarship + Stafford loan + parental contribution + two
+maxed credit cards, no grants) and the **1975 refugee arrival**. All self-reported — mark it as such
+(fidelity rule 7). Critically, it carries its own guard: *"I'm not here to sell you shortcuts… you have to
+put in your 10,000 hours,"* plus the concession that a second 10,000 hours of *craft* buys only
+incremental money. **That guard must travel with the arc** wherever it is promoted, or the persona becomes
+the thing he explicitly refuses to be.
+
+**2. Parts 3 and 4 are one argument split across two uploads** and must be promoted as a pair. Pt 3 opens
+the scarcity/status case; Pt 4 completes it with Daniel Priestley's staging-area sequence and The Futur's
+own live application of it. Between them: the **one-degree pivot** (*"the success that you want is
+sometimes one degree different"*); the **Trojan Storage** origin of the $13B commercial-real-estate client
+(*"if you can make self-storage facilities look good, you can make our A-class buildings amazing"* →
+*"that's how we flipped a $1,000 job into a multi-million dollar opportunity"*); **quality ≠ results, sell
+status**; Stan Shih's **smile curve** with the AI-takes-production-first corollary; and ★★ **"get the job
+done, or be right, or be popular"** with the $32,000 sales-rep buyout as its evidence.
+
+> ⚠️ **Reconciliation flagged for synthesis, do not promote half of it.** Pt 3: *"every luxury brand
+> operates under **false scarcity**."* Pt 4: *"this is where it gets into **manipulation marketing**,
+> which I don't like… if you say I have two [slots] but then you take on 55 clients, it's not going to
+> work"* — **it has to be true.** The second is the guard on the first. Same for the status material: he
+> ends the Karina exchange with *"after I finish this we're going to burn this plan and go back to
+> results — this is just for Karina,"* i.e. selling status is the answer for a particular buyer, not a
+> replacement for results.
+
+Pt 4 is also the most operationally transparent session yet about The Futur itself: **Pro Group capped at
+1,000 with 30 enrolled per month** (~530 members), a record community-revenue month — **and his own caveat,
+which must not be dropped**: *"ask me in six months if it's working. I do not know."* Plus the **fourth**
+telling of the Brand Lab pivot, now with numbers: **$36K/12 months → $18K/6 months** on Jasmine Star's
+advice, the three-day workshop **removed at the same price**, first-10 one-on-one incentive. That makes
+five tellings to reconcile into one dated entry, not five claims.
+
+**3. A third do-not-train row.** `yt-w3-yw4_n_Vo` is the same Chris-absent UK agency-coach segment as
+`sM5CekilqDk` (2023-12-08) and `KfKpmV9uFx4` (2024-01-19) — solo to camera, signs off *"my name is
+Matt…"*, teaching a weekly planner inside a *creative life planning system*. Three attested instances is
+enough to stop treating it as a surprise: **a standing fence for this slot should go into `SUBJECT.md`'s
+channel rules** at the next synthesis, so future batches skip it on sight instead of rediscovering it.
+Surname flagged `attribution: uncertain` (likely Matt Essam; unconfirmed).
+
+**Pipeline state after this batch:** `@thefutur` P1:0, **P2:286**, P3:44; `@TheFuturAcademy` P3:72;
+shorts 860; L2=**794**, L3=0; synthesis debt **7/10**; persona v14.
+
+> **Next iteration: Stage B (P2).** Checkpoint is **3 batches away**. 286 open P2 rows remain.
+
+Synthesis notes: genuinely new this batch — (1) ★★ the **complete rate arc** $30/hr → $30,000/hr with
+every intermediate step, the ArtCenter funding stack and the 1975 arrival, for `persona/biography.md`,
+**with the 10,000-hours guard attached**; (2) ★★ the **one-degree pivot**, a named mental model credited to
+his business mentor and not yet on any topic page; (3) ★★ the **Trojan Storage → $13B client** story, the
+strongest evidence in the corpus for take-the-unglamorous-job-and-pivot-the-positioning, for
+`wiki/entities/blind`; (4) ★★ **"get the job done, or be right, or be popular"** plus *"I'm not
+horrifically attached to anything but success"* — his decision filter, with a costly dated example;
+(5) ★★ **"sell clarity of thinking and communication — and just by the way we make websites"** with
+*"nobody thinks like you, so when you put you in your brand there is no competition"*; (6) ★ **quality ≠
+results / sell status**, with both guards above; (7) ★ **Stan Shih's smile curve** + AI eats production
+first; (8) ★ **"be the first source of yourself"** (the intern whose Futur account outgrew his own) and
+★ **"name it to own it"**; (9) ★ the **sacrifice answer** — video games, comics, sleep at 51, missed family
+events, the ~100 cousins — concrete and self-reported, the honest counterweight to the success material;
+(10) ★ the **awards admission** (*"that strategy has not paid off that well for us"*), a dated negative
+result; (11) **"the no is an affirmation that you've changed"**; (12) Chris-attributed from the Circle
+interview: **"Facebook is a distraction factory"** and the in-person argument (*"postage-stamp-size
+feedback"*). New voice material: *"calm seas don't make great sailors,"* *"if you think I'm expensive,
+wait till you get the bill from someone who doesn't know what they're doing,"* *"a beautiful luxurious
+prison for your mind,"* *"marketer scumbags,"* *"the longer you stay here, the longer you will suffer,"*
+*"hi everybody, my name is Chris, I've been client-free for five years."* Carried forward: the now
+**five-way Brand Lab reconciliation**, the Pro Group caveat, the `SUBJECT.md` fence for the recurring
+non-Chris slot, and the standing instruction to credit Noah Kagan for the avoidance prompt.

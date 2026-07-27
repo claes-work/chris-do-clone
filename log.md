@@ -6942,3 +6942,91 @@ those kind of questions. That's rude"* — which makes the whole ask-don't-pitch
 (6) ★★ **you cannot see your own problem**, plus *"good news for people like me"*; (7) ★★ **creatives won't
 follow formulas** — *"they like to just struggle and be poor."* ⚠️ **Do NOT attribute the closing
 *"your problem is not special"* line to Chris**; ⚠️ **Michael Port, fourth strike — the v18 guard stands.**
+
+## [2026-07-27] ingest | yt batch (@thefutur, 1 of 3) — "it allowed my creative child to survive into adulthood"
+
+**Stage B (P2), `--n 3`.** Both rows deferred from batch 155 were taken up; the first is a **biography
+landmark** and consumed the batch. Ledger 903 → **904 L2**.
+
+| id | date | what it is |
+|---|---|---|
+| `yt-4OpUb4Iux8I` | 2025-03-18 | ★★★ **LANDMARK** — 42-min parenting episode; ⏸️ from 155 |
+| `yt-PQPybDWoC2A` | 2025-03-19 | ⏸️⏸️ **DEFERRED A SECOND TIME** — see the discipline note |
+
+> ⚠️ **A DISCIPLINE BREAK, REPORTED RATHER THAN HIDDEN.** For nine consecutive batches the rule has been
+> *never defer the same row twice*. **`PQPybDWoC2A` has now been deferred twice** — batch 155 and batch 156.
+> The reason is real (the parenting source ran to 42 minutes and needed line-by-line family-privacy
+> handling), **but the rule was still broken, and calling it anything else would be dishonest.** It is
+> `L0-discovered` at P2 with the transcript cached and **has not been skimmed**. **It is taken first next
+> batch, before anything else.**
+
+**1. ⚠️⚠️ The family-privacy rule got its first real test — and held.** This source **names both sons
+repeatedly**, with universities, fields of study, ages and finances. **No family name appears anywhere on
+the page**; they are *"his elder son"* and *"his younger son"* throughout, and a leak check confirms it
+clean. ✅ **This is exactly the case pass 16 re-grounded the rule for**: he says the names himself, on his
+own channel — **and discoverability is not an argument for repeating them.**
+
+**2. ★★★ The fullest account of his own upbringing in the corpus, and he reads it as a gift.** *"I'm not
+that different from how many **first-generation immigrants** are raised — **in the '70s**, two parents both
+working sunrise to sunset, **and we were latchkey kids.**"* Then the reversal:
+
+> ★★★ *"**This thing that I so longed for — more entertainment choices, more present parents — actually
+> really helped me develop as a human being.** My parents let us do whatever we want… **it wasn't like
+> *you're disappointing the whole family, I'm so ashamed of you*.** ★★★ **This laissez-faire style allowed me
+> to dream, to daydream — and it allowed my creative child to survive into adulthood.**"*
+
+**3. ★★★ Two rules, and a framework that isn't really about parenting.** His whole system is *"**healthy
+guardrails but a wide berth**"*, and there are **exactly two non-negotiables**: **respect first**, and
+**zero tolerance for physical violence between the boys.** The generalisation is the valuable part:
+
+> ★★★ *"We're getting really upset over things that don't matter, and not getting upset over things that
+> really do. **The expression I use is: we're being hard when we need to be soft, and we're soft when we
+> need to be hard.** **It's because we don't have our own internal rules — we've never sat down to say what
+> my non-negotiables are.**"* — and **he extends it himself**: *"this is not just the parent-child
+> relationship — **this is partner-to-partner, employee-to-employer.** We live in a world of grey… **and
+> that creates a lot of anxiety.**"* **File in `mindset`, not only in a parenting section.**
+
+**4. ★★★ Two named teachings from Dr Joan Lightfoot — the most concrete record of what the therapy
+produced.** ✅ **And they corroborate the children-reason account** from 2025-02-26.
+- ★★★ **The illusion of choice**: *"**don't give them open-ended questions like *where do you want to eat*
+  — just give them two options.** You've already made the decision."* Plus the fairness layer he adds:
+  *"this time you get to pick, next time you get to pick."*
+- ★★★ *"**Children feel safe when they know someone's in charge**"* — *"**that rocked my world**"* — with
+  her explanation about parents who want to be friends, and the dysregulation that follows.
+
+**5. ★★★ The stories he tells against himself.** The couch (*"**I was negligent** — but **he never fell off
+another couch after that**"*). And **the homeless woman outside the art store**, where the lesson he teaches
+his son is **his own error**: *"**son, this is my fault. She didn't ask for money**… **you treated them like
+they're a charity case.**" Followed by the hardest exchange in the episode — *"I guess I'm glad I'll never
+be homeless"* → *"**why wouldn't you be?**"* → *"I'll just run your business"* → *"**that's a big assumption:
+that you can run my business, and that I've offered it to you — which I've not.**"* With the disclosure that
+makes it honest: ★★★ *"my wife looks at me like *would you really let them be homeless?* — **they need to
+believe that. I'm not sure if I would.**"*
+
+**Also**: ★★★ **protect the strong-willed child** (*"parents want to break the will of the child like
+they're a wild animal to be tamed… **they'll need it when you're not around**"*) and ★★★ **parenting as
+downloading an operating system** — *"**what will they do when you're not around? That's the true test.**"*;
+★★★ **win the war, not the battle**, with his wife's report — *"**I think your son is falling in love with
+you**"*; ★★★ **reverse-engineer the child** and ★★★ *"**you had your shot… your job as a parent is to stop
+the generational trauma**"*; ★★★ **the homework disclosure** — *"**I've never even looked at the report
+card… I've tried to bribe them to drop out of school**"* and *"**we just think the teachers are not good**"*;
+★★ **a dated age (53)** ✅ consistent with 1972.
+
+**Pipeline state:** `@thefutur` P1:0, **P2:173**, P3:44; `@TheFuturAcademy` P3:72; shorts 860; L2=**904**,
+L3=0; synthesis debt **4/10**; persona v18.
+
+> **Next iteration: Stage B (P2), `--n 3`** — **`PQPybDWoC2A` first, no exceptions.**
+
+Synthesis notes: genuinely new — (1) ★★★ **his own upbringing and the reversal** — *"it allowed my creative
+child to survive into adulthood"* — the strongest new `persona/biography.md` material since the February
+fireside; (2) ★★★ **the non-negotiables framework**, ★★★ **explicitly generalised by him to partner and
+employment relationships** (*"hard when we need to be soft"*) → **`mindset`**; (3) ★★★ **protect the
+strong-willed child** and **parenting as an operating system** — *"what will they do when you're not
+around?"*; (4) ★★★ **two named Joan Lightfoot teachings** — ✅ **the concrete output of the therapy, and
+corroboration of the children-reason branch**; (5) ★★★ **the homeless-woman scene**, where the lesson is
+**his own error**, and ★★★ *"they need to believe that. I'm not sure if I would."*; (6) ★★★ **win the war,
+not the battle**, with *"I think your son is falling in love with you"*; (7) ★★★ **reverse-engineer the
+child** / **"you had your shot"** / **stop the generational trauma**; (8) ★★★ *"we would rather lose in a
+world that we know than venture forth and have a big win in a world that we don't know"*; (9) ★★★ **the
+homework disclosure**; (10) ★★ **the couch story**; (11) ★★ **dated age 53**. ⚠️⚠️ **When promoting ANY of
+this: roles only, never family names.**

@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-28 (**synthesis pass 18b** — the gap pass 18 declared is closed: all 6 topic hubs updated (+22 sections), a **new authenticity-gap page**, `blind` rewritten around the exit reasoning chain, `the-futur` given the 2025 spin-off, `influences` rebuilt around the **ten-book attribution map**, and 1 entity created + 1 deepened. persona **v20** stands.)_
+_Last updated: 2026-07-28 (ingest yt batch @thefutur, 1 → **930 L2** — ★★★ **LANDMARK Vlog 005**: the culture correction and the hire-from-the-community rule, the three-phase delegation framework, *"we are historically the worst judge of our own value"* + **the message in a bottle**, the man-on-the-street reversal, and **taste is the new leverage**)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **929 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-06-03, no deferrals outstanding] + the 2026-07-21 fresh upload; synthesized through batch 173 → persona **v20**; ⚠️ pass 18b pending).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **930 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-06-15; two rows deferred once — both guest episodes, queued first for next batch] + the 2026-07-21 fresh upload; synthesized through batch 173 → persona **v20**; ⚠️ pass 18b pending).
 
 ## Topics
 

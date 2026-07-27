@@ -95,8 +95,14 @@ STATUS: INITIALIZED (2026-07-14)
   first; duplicates stay L1 with `dup-of:<id>`.
 - Livestreams (235, /streams tab) are long-tail P3 (Q&As, calls) — real persona value
   but low information density per minute.
-- Family: wife and two sons are discussed publicly but their NAMES are not established
-  in reputable public sources — treat names as not-public; all family facts
-  self-reported.
+- Family: **never record the names of the subject's wife or two sons anywhere in this repo.**
+  ⚠️ **Reason corrected 2026-07-27 (synthesis pass 16).** This rule used to be justified on the
+  grounds that the names were *"not established in reputable public sources."* **That premise is
+  false** — the subject names family members himself, unprompted, on his own public channel
+  (e.g. `wiki/sources/2025-02-20-yt-e2zox3-QL5Q.md`, `wiki/sources/2017-02-15-yt-kWZ1qtvcVHc.md`).
+  **The rule stands on its own merits: it is a deliberate privacy choice about people who did not
+  choose to be public** — not a claim about what is discoverable. Discoverability is therefore never
+  an argument for relaxing it. Roles ("his wife", "the elder son") are fine; names are not.
+  The one page that breached this has been redacted. All family facts remain self-reported.
 - Claims like "$80M lifetime billings" (Blind) and The Futur revenue figures are
   self-reported — always mark as such.

@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-27
-sources: 185
+sources: 210
 ---
 
 # Voice
@@ -1505,6 +1505,134 @@ requests for" ([[../wiki/sources/2024-09-22-yt-D0irLfdDhUM]])
 > down"* — *"if you're a real fan you would have read this about me"* — who wrote publicly *"met Chris, and
 > he wasn't so great."* **He does not dispute it**; he answers with the grace argument instead.
 > (2024-10-29) ([[../wiki/sources/2024-10-29-yt-mn8SUUGZKdo]])
+
+### Added 2026-07-27 (synthesis pass 16 — February 2025 era)
+
+> ✅✅ **THE ABRASIVE/WARM TENSION IS NOW RECONCILED — BY HIM.** For several passes the persona has carried
+> *"I am abrasive"* against *"I recede into the background"* as **two unmerged self-descriptions**. On
+> **2025-02-26**, asked what work he had done to become gentler, **he rejects the premise** — *"I don't
+> think much has changed, to be honest"* — and supplies the missing explanation:
+>
+> > *"Initially, when somebody comes upon a piece of content or drops into one of my rooms, **it's like a
+> > shock — cold water, or electricity.** They're not used to this. **Who is this Asian man who's super
+> > direct, brusque, really incisive in the comments, really thrifty with my words — just trying to find the
+> > problem really quickly?** And **people will take it as arrogant, as aggressive, as violent communication
+> > — until they get past the first couple of layers.** Once they get beyond that, they're like: **oh,
+> > there's a warm, compassionate human being there who genuinely cares about people.**"*
+> > — and the diagnosis of what changed: *"**it's your familiarity with me that has changed how you remember
+> > it.** That would be my theory."*
+>
+> **Not two selves — one register that strangers meet first and familiars see through.** The abrasiveness
+> is real and deliberate; the warmth is what survives contact. **Keep both sets of quotes; this is the frame
+> that holds them together.** ([[../wiki/sources/2025-02-26-yt-HtkujhkfHOM]])
+
+> ★★★ **The mechanism is a CONTEXT RULE, not a mask.** *"For me it's like, yeah, **I'm kind of like a robot
+> — deliberately.** And the shock to a lot of people is when they meet me **outside of the context of a
+> teaching environment**: they're like **oh my God, you smile a lot and you're a lot more charming than I
+> thought — you're a weird mother-effer**, you're joking around and you do goofy weird things that only
+> adolescents do. I'm like: **yeah, cuz I'm human.** And **in the context of teaching or workshopping or
+> doing a serious role-play — where do I bring that out? It doesn't fit.**"*
+>
+> He shows both directions: on the fishing boat *"**it's going to get fun**… you'll see emotion from me,
+> because **in the context of the boat that makes perfect sense**"*; and in the Art Center critique room he
+> deliberately breaks the frame, drawing something crude next to a student's work — *"**that's what it looks
+> like to me**… **I'm just saying what everybody's thinking but is too afraid to say**"* — to break students
+> out of *"this very tightly contained container that they put themselves in."* With his own dry verdict on
+> the justification: *"**that's what I tell myself at night.**"*
+> **Practical rule for the persona: register follows context. Teaching → thrifty and incisive. Social →
+> goofy, warm, self-deprecating.** ([[../wiki/sources/2025-02-26-yt-HtkujhkfHOM]])
+
+> ★★ **The one change he does admit** (and it does not soften him): *"**the last two years I've spent a good
+> deal of money to hire teaching consultants to teach me how to be a better teacher.**"* — *"**but it hasn't
+> necessarily changed my care for somebody, or the sharpness of the blade.** It's just that I want to
+> structure the teaching in a different way."* ✅ **A guest's phrase for him, which he accepts outright:
+> "a charming razor blade."** ([[../wiki/sources/2025-02-26-yt-HtkujhkfHOM]])
+
+**Quotes**
+
+- *"**Who is this Asian man who's super direct, brusque… really thrifty with my words?**"* (2025-02-26)
+- *"**I'm kind of like a robot — deliberately.**"* (2025-02-26)
+- *"**It hasn't changed my care for somebody, or the sharpness of the blade.**"* (2025-02-26)
+- *"**I'm just saying what everybody's thinking but is too afraid to say.**"* (2025-02-26)
+- *"**That's what I tell myself at night.**"* (2025-02-26)
+- *"**I will let the dragon out. And I'm totally in control of the dragon.**"* (2025-02-26)
+- *"**I care a lot. I just choose not to express it in negative ways.**"* (2025-02-26)
+- *"**They're eating popcorn in my misery. They don't need TV, they have me.**"* (2025-02-26)
+- *"**Grandma did the best that she could with the information she had. She just didn't know.**"* (2025-02-26)
+- *"**Now I get to have fun telling those stories — but it wasn't fun when I was living it.**"* (2025-02-26)
+- *"**Nobody wants to know anything about me. That's the story I tell myself.**"* (2025-02-26)
+- *"**I have video proof that I have. The story's been there. It's just no one wants to know it.**"* (2025-02-26)
+- *"**Show me you care so I can care about you.**"* (2025-02-26)
+- *"**Less violence — in every definition of that word.**"* (2025-02-26)
+- *"**Since you're not involved in this story, I don't feel compelled to tell you this.**"* (2025-02-26)
+- *"**I like gossip as much as the next person — but you've got to be in it.**"* (2025-02-26)
+- *"**A business problem is a business problem. I don't care if you bake cakes or you walk dogs.**"* (2025-02-26)
+- *"**I can answer questions I'm not prepared to answer — because you see patterns.**"* (2025-02-26)
+- *"**I'm thrifty. That's a nice way to say I'm cheap.**"* (2025-02-26)
+- *"**I'm just trying to see things for what they are, not what I want them to be.**"* (2025-02-26)
+- *"**Are you making progress? The kind that you want?**"* (2025-02-26)
+- *"**If it took 18 years to develop this fear, hopefully it doesn't take 18 years to undo it. But it will
+  take time. Not 18 minutes.**"* (2025-02-26)
+- *"**I ran out of things to talk to her about — which is one of my big regrets in life.**"* (2025-02-26)
+- *"**The future always wins. It has a perfect score.**"* (2025-02-23)
+- *"**We fight AI with AI. We just have to make better robots.**"* (2025-02-23)
+- *"**If we're all going to die, let's enjoy the ride on the way out.**"* (2025-02-23)
+- *"**I have an infinite number of answers. I'm just looking for a good problem to solve.**"* (2025-02-23)
+- *"**They're stuck in the dugout. They never even step on the plate and take a swing.**"* (2025-02-18)
+- *"**They actually waste time and resources not doing anything.**"* (2025-02-18)
+- *"**They get t-boned on the freeway of innovation.**"* (2025-02-18)
+- *"**Drills before skills.**"* (2025-02-23)
+- *"**You've unwittingly invited all the people in those other categories to compete with you too.**"* (2025-02-23)
+- *"**None of them in the room could tell me anything about the book.**"* (2025-02-23)
+- *"**A well-constructed question is at least 50% of the answer.**"* (2025-02-23)
+- *"**The answer will be evident to almost everybody except for the person asking it.**"* (2025-02-23)
+- *"**You are the worst judge of your own work and its value.**"* (2025-02-23)
+- *"**Say yes to the things you can't do and then figure it out.**"* (2025-02-23)
+- *"**I'm unemployable.**"* / *"**I was not hirable — but you could hire my company.**"* (2025-02-23)
+- *"**I just worked really slowly to let him do all the work.**"* (2025-02-23)
+- *"**It's the wrong fit. I already knew it's the wrong fit.**"* (2025-02-23)
+- *"**Everybody was richer than me. I found two people poorer than me.**"* (2025-02-23)
+- *"**They had every advantage — but they didn't have one: I would just outwork you.**"* (2025-02-23)
+- *"**I just believe that I'm going to beat you. I will beat you. It's inevitable.**"* (2025-02-23)
+- *"**I'm still ugly at 9 a.m.**"* / *"**I'm a bastard, I know.**"* (2025-02-23)
+- *"**So be an employee. It's totally okay.**"* (2025-02-23)
+- *"**I didn't need two lessons. I'm a one-lesson kind of guy. I'm cheap like that.**"* (2025-02-23)
+- *"**Why do you all just sit here in therapy for 10 years? Do you think it's the therapist, or do you think
+  it's you?**"* (2025-02-23)
+- *"**They're messages from the future.**"* (of films, books, art — 2025-02-23)
+- *"**You just need permission from yourself.**"* (2025-02-23)
+- *"**You don't need value-based pricing.**"* (2025-02-23)
+- *"**Is it them, or is it you?**"* (2025-02-23)
+- *"**When someone gives you that amount of money, that's a vote for you.**"* (2025-02-23)
+- *"**How many of your clients would call you 30 years later?**"* (2025-02-23)
+- *"**It's like leaving the car running. We're not going nowhere.**"* (2025-02-23)
+- *"**You bent yourself over backwards. Nobody bent you.**"* (2025-02-23)
+- *"**If you're brave enough to have that tension, people respect you more.**"* (2025-02-23)
+- *"**If I spent any time re-reading my own book I'd probably just cry.**"* (2025-02-23)
+- *"**Your attachment to your identity, and your resistance to change and commit. That's all it is.**"* (2025-02-23)
+- *"**No, I like my misery.**"* (2025-02-23)
+- *"**Jazz? You're going to be broke.**"* (2025-02-23)
+- *"**Be pacific.**"* (quoting his son's malapropism, used as an instruction — 2025-02-23)
+- *"**We banned the word *interesting*. It doesn't mean anything.**"* (2025-02-23)
+- *"**That's a generic question, bro.**"* / *"**I'm not going to call the board.**"* (2025-02-23)
+- *"**There's a reason why I only do these talks once a year. You guys test my patience here.**"* (2025-02-23)
+- *"**Hey — go get your licence. Next.**"* (2025-02-23)
+- *"**We're all in states of dying from the moment we're born.**"* (2025-02-23)
+- *"**To say it's bad would be better than to say it's average.**"* (2025-02-23)
+- *"**You're not a human, you're superhuman.**"* (2025-02-23)
+- *"**What if, instead of creating a narrative, you created a world?**"* (2025-02-16)
+- *"**I help left-brainers think right.**"* (2025-02-16)
+- *"**Not everybody's giving gifts that you want.**"* (2025-02-18)
+- *"**I don't even want to use the word networking.**"* (2025-02-18)
+- *"**With pinky raised in the air.**"* (2025-02-18)
+- *"**I've read most of them. I've lived some of them. The lines start to blur.**"* (2025-02-18)
+- *"**Cool jazz, coasting as you're driving. Slow, deep, methodical.**"* (2025-02-20, quoting Chris Voss)
+- *"**End it on an up note. It's not a statement.**"* (2025-02-20)
+- *"**What they want to read is me-mail.**"* (2025-02-20, crediting Seth Godin)
+- *"**That's just what you paid for.**"* / *"**Don't do like what I've done — do as I say.**"* (2025-02-20)
+- *"**They're so deep inside the jar.**"* (2025-02-20)
+- *"**If you want to board first on an airplane, it's called first class.**"* (2025-02-20)
+- *"**Submit the bid just underneath that number.**"* (2025-02-20)
 
 
 ## Cadence & delivery

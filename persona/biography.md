@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-27
-sources: 112
+sources: 130
 ---
 
 # Biography
@@ -421,6 +421,138 @@ content era to 2014; this is the first account of **what happened**._
 - ⚠️ **An ongoing legal matter**, referenced once in passing and not elaborated: *"if I'm being sued —
   **which, you know, I'm going through some things myself**"* (2024-10-31). **Recorded as stated. No detail
   was given; none is inferred.**
+
+## ★★★ The origin story at depth (added 2026-07-27, pass 16) 🗣️
+
+_Source: [[2025-02-23-yt-hC2_b-y6zuc]] (Creative Pulse fireside) unless noted. **Self-reported.** This is
+the longest continuous account of his early years in the corpus._
+
+- ★★★ **Art Center and the class gap** — the frankest telling: *"I grew up in a traditional
+  Vietnamese-American family who were **refugees from Vietnam**. **No one in my circle was a creative human
+  that was not starving. There was no blueprint for that.**"* And: *"**I had really bad taste** — in design,
+  in fashion, in colours, in typography."* At Art Center he was surrounded by Europeans (*"you guys grew up
+  with culture and you invented a lot of the stuff I'm looking up to"*), *"a bunch of rich white kids"* and
+  *"rich Asian kids, because to be a foreign student you have to be able to afford it — no scholarship, no
+  financial aid."* ★★★ *"**Everybody was richer than me. I found two people poorer than me, but that was
+  kind of it.**"*
+- ★★★ **What he did about it**: *"they had every advantage — **but they didn't have one advantage, and I
+  knew that at that time: I would just outwork you.** When they went to party and when they went to sleep,
+  **I was in the library or the computer lab**… **I didn't have my own computer.**"* The library did the
+  rest: *"**$60 European magazines on car interior design** — they had every magazine from every country.
+  I'd just pick up that stack… **and I didn't realise at the time I was educating myself on what good
+  design looks like.**"* → ★★★ *"**I just believe that I'm going to beat you. I will beat you. It's
+  inevitable.**"*
+- ★★ **Tuition, his own**: *"I went to **Art Center in the early 90s. Tuition then was $3,400 when I
+  started, and wound up being almost six grand by the time I finished.**"* (2025-02-26)
+  ([[2025-02-26-yt-HtkujhkfHOM]])
+- ★★★ **Unemployable, by his own diagnosis.** A brief spell at an ad agency, an even briefer one at
+  **Epitaph Records**: *"I just thought **these things don't work for me. I'm unemployable. I'm just too
+  headstrong, too committed to doing it my way.**"* → *"**I wasn't trying to climb the corporate ladder — I
+  was trying to jump off of it.**"* And the mechanism that made self-employment work immediately: *"**all my
+  friends there were trying to figure out a way to hire me. I was not hirable — but you could hire my
+  company.**"* He freelanced *"for about three weeks. **I'm really impatient.**"*
+- ★★★ **Why he left Epitaph — fit, not money.** Hired by *"Mr Brett"* into a company that had just *"grown
+  by 1,000%"* (*"I couldn't even fathom what 1,000% growth looks like"*) during the label's peak — *"a wild
+  place… **and that's not an exaggeration**"* — but: *"**I'm not even punk rock, I don't even listen to the
+  music. What am I doing here?**"* The real reason he was there was a creative director he admired,
+  **Fred**; when Fred was let go, *"I took a breath and put in my two weeks' notice. **They offered me more
+  money, they offered me different kinds of things — but it's the wrong fit. I already knew it's the wrong
+  fit.**"*
+- ★★★ **The K2 Skis commercial, and the confession inside it.** His former boss at the agency hired him for
+  a commercial *"**which I was underqualified to do**"* — *"I hired one of my friends from school to do the
+  work, and **he was already three times better than me as an animator**, ★★★ **so I just worked really
+  slowly to let him do all the work.**"*
+- ★★★ **The Adobe After Effects CD-ROM.** Student work shipped worldwide when *"Adobe bought it from
+  **CoSA**… **I think I was one of six students.**"* ★★★ **And the lesson he draws**: *"here's the really
+  weird thing — **I never thought I was a very good animator.** I struggled really hard in that class… **I
+  didn't even want to put it on the reel because I thought it's not that good.** **So the lesson is: you are
+  the worst judge of your own work and its value. You are just the worst.**"* It produced *"two clients and
+  some friends I still know to this day, **almost 30 years later.**"* Followed by *"lesson number two: **say
+  yes to the things you can't do and then figure it out.** … **maybe that's the prudent way, but I'm not
+  very prudent either, so I get myself into trouble.**"*
+- ★★★ **The Cole & Weber timesheet story**, previously in the corpus only in fragments. **Dolly** in
+  HR/payroll summoned him: *"**Chris, your time sheets are off the charts.** I'm like *am I in trouble?*"* —
+  and escalated to his boss, the copywriter **Kevin Jones**, whose ruling is the quote: ★★★ *"**If there're
+  not more than 24 hours in a day he's writing, pay him.**"* Chris: *"I was working literally till 5 in the
+  morning… **I didn't know I was going to get paid, I just filled out my time sheet.**"* The moral: *"**good
+  people recognise really good people really, really fast.**"*
+- ★★★ **Four pieces in a FedEx box** — how the ad-agency job came, via a classmate copywriter who needed an
+  art-director partner: *"I hadn't finished school, I didn't study advertising, **I didn't even know what to
+  send**… **I didn't send them 30 pieces, I sent four pieces** — and I was thinking **I'm never going to get
+  this job.**"* They hired him. → *"**You don't need a lot if it's really good.**"*
+- ★★★ **The three-employee milestone — how he decided he had "made it."** *"I told my girlfriend, later my
+  wife: **how do we know we've made it?** She goes *I don't know* — and **I just made up an arbitrary number
+  in my mind: if we can afford to pay three people full-time salaries with insurance and dental and eye
+  coverage, I think we made it.** **So my obsession was: get to three employees. It didn't matter who they
+  were, I just wanted three.** And when we got to three: **three feels pretty good — how about four?**"*
+- ★★★ **The Venice house years, which he names as the company's best period**: *"**the best time in our
+  company's history ever was when we ran our production company out of our house** — a **three-storey
+  postmodern house in Venice, a block and a half from the beach**, in the weirdest part of Venice. They'd
+  walk past the second floor, which is all the bedrooms, to the third floor and just start working."* With
+  the house rule: *"**do not come here before 9 a.m., because I'm still ugly at 9 a.m.** So some of them
+  would just park outside and wait. **I'm a bastard, I know.**"* And: *"we would eat together, we'd watch
+  TV, we'd go skateboarding. **It was just awesome.**"*
+
+> ✅✅ **THE 2014 HINGE IS NOW CORROBORATED THREE TIMES, FROM THREE DIRECTIONS.**
+> 1. **The Draplin moment** in the LA Times Auditorium (already recorded above).
+> 2. ★★★ *"**Why did it take me until 42 years old to figure that stuff out?**"* — said of assembling his
+>    disparate interests into one public thing. **Born 1972 → ~2014.** ([[2025-02-23-yt-hC2_b-y6zuc]])
+> 3. ★★★ *"**Kier McLaren and I stopped working together right around the time of The Futur — so that's
+>    2014.**"* ([[2025-02-26-yt-HtkujhkfHOM]])
+> ⚠️ A **13-year** coaching relationship ending in **2014** would imply a start around **2001**. **Recorded
+> as implication, NOT asserted** — the 13-year figure is itself approximate.
+
+### ★★★ The therapy account — third telling, now dated (2025-02-26) 🗣️
+
+> **Same handling note as the pass-15 section above**: first-person, on the record, given voluntarily.
+> Recorded factually, without interpretation. Family members remain unnamed.
+
+- ✅ **Session count settles at about ten.** *"I saw my therapist — a family therapist — for **a total of 10
+  sessions in the span of less than a year.**"* This matches the pass-15 entry (*"I think we met all of 10
+  times"*). ⚠️ Three days earlier he said **11** ([[2025-02-23-yt-hC2_b-y6zuc]]). **Two tellings say ten,
+  one says eleven, all hedged. Say "about ten." Do not harden.**
+- ★★★ **A DATE, new**: *"I would say that was probably **2007, 2006** — it was a long time ago."*
+  ⚠️ **He contradicts himself minutes later** (*"this is like **14 years ago**… no, maybe more, maybe it's
+  like **17 years ago**"*) and notes how he would date it properly: *"**I can date it to when my children
+  [were born], what year, how old they were.**"* **Record 2006–2007 as his own best estimate with the
+  inconsistency attached; do not compute a year from the 14/17 figures.**
+- ★★★ **Why he went, stated more plainly than anywhere else**: *"I just wanted to go to learn how to be — at
+  that point — **a better dad. I felt like I was failing my relationship with my children and I wanted to be
+  a better father. So that's why I went.**"* Elaborated: *"the stress caused by **not knowing how to parent
+  my own children**… **I can see it spilling over into my relationship with my wife.** It's creating tension
+  between us, **and it's not even about us, it's about our child.**"*
+  > ⚠️ **THE TWO-REASONS TENSION STAYS OPEN.** The corpus holds two accounts of why he sought a family
+  > therapist — **concern about his children** and **concern about employees who disagreed with him**
+  > ([[2024-10-31-yt-U1anI0b1nvI]]). **This telling is entirely the children account, at length and
+  > unprompted; the other is neither repeated nor contradicted here.** **Keep both. Do not synthesise one
+  > story out of them.** Note only that the children account now has the fuller and more frequent
+  > attestation.
+- ★★★ **Kier McLaren's gate on therapy**, new: *"he said **if you're not willing to be honest, don't go.
+  Just save your money. It's silly** — you're just going to make them work through all this, and they
+  already know you're lying or not telling the full truth, and you just drag it out."*
+- ★★ **The regret**: *"**I ran out of things to talk to her about — which is one of my big regrets in
+  life**"*, because she has since retired.
+- ★★ **The challenge he issues, with his own qualification attached** — *"people are in therapy for years, if
+  not decades — **are you making progress? The kind that you want?**"* — but immediately: *"I understand that
+  **if you've gone through really traumatic things it can take a really long time to undo that damage.** I
+  often tell people: **if it took 18 years to develop this fear, hopefully it doesn't take 18 years to undo
+  it — but it will take time. Not 18 minutes. Let's be realistic with our expectations.**"* **Never quote
+  the challenge without the qualification.**
+- ★★ **Coach-free since 2014**, and one thing he has bought since: *"**the last two years I've spent a good
+  deal of money to hire teaching consultants to teach me how to be a better teacher.**"* (~2023–2025)
+
+### ★★★ Childhood, as he tells it to his own children (2025-02-26) 🗣️
+
+- ★★★ *"We used to sit around and tell stories about my childhood, and **it was pretty rough, I'm not going
+  to lie** — **stories of abandonment, people forgetting about me, and just feeling lost and alone.**"*
+- ★★ **His sons ask for exactly those stories**: *"they're like *oh Dad, tell us more, we love this* —
+  **they're eating popcorn in my misery. They don't need TV, they have me.**"* His reading: *"**they don't
+  want to hear stories about success and overcoming triumph. They want to hear the dark, sad stories** —
+  because it reminds them that they're alive, and **that Dad's a human being, he's not a robot.**"*
+- ★★★ **And the most generous line he has offered about his upbringing.** When the children ask *"how could
+  Grandma do this to you? Why would she do that?"*: *"**Grandma did the best that she could with the
+  information she had. She just didn't know. She didn't know.**"* With: *"**now I get to have fun telling
+  those stories — but it wasn't fun when I was living it.**"*
 
 ## Personal life (name-free by policy)
 

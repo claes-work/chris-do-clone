@@ -134,9 +134,11 @@ Chris-attributed lines below are treated as persona material.
 
 **Parenting (Chris Do, self-reported):**
 
-- Two sons: Otto (13, drifting toward science — wanting to impact the world "in ways art
-  cannot") and Matias (10 — more like Mom and Dad: music, drawing, wears emotions on his
-  sleeve; his Facebook drawings are colored in Photoshop with Chris's wife Jesse's help).
+- Two sons — **names redacted per the SUBJECT.md family-privacy rule** (see the note at the
+  end of this page). The **elder (13)** was drifting toward science, wanting to impact the
+  world "in ways art cannot"; the **younger (10)** was "more like Mom and Dad": music,
+  drawing, wears emotions on his sleeve, and his Facebook drawings are colored in Photoshop
+  with **his mother's** help.
 - Home overflowing with art supplies/making tools ("an art store times something").
 - Says with total sincerity he **doesn't care what his sons do** — whether artist or
   businessman — as long as they apply themselves, are happy, and don't hurt others; no
@@ -202,3 +204,19 @@ Chris Do (persona voice):
 Context speakers (NOT persona — do not train voice/beliefs):
 
 > Petrula Vrontikis (host): "I think degrees are important and I think having multiple sources of information is key right now to young people." [attribution: host, context]
+
+---
+
+> ⚠️ **REDACTION NOTE (2026-07-27, synthesis pass 16).** This page originally recorded the **first names of
+> the subject's two sons and of his wife**, taken from the 2017 conversation. Those names have been
+> **removed** and replaced with role descriptions. Nothing else was changed, and no claim was weakened —
+> only the names are gone.
+>
+> **Why**: `SUBJECT.md` forbids recording family members' names. This page pre-dated consistent enforcement
+> of that rule and was the **only** page in the corpus that breached it.
+>
+> **And the rule's stated reason has been corrected at the same time.** SUBJECT.md justified the rule on the
+> grounds that the names are *"not established in reputable public sources"* — **that premise is false**:
+> the subject names family members himself, on his own public channel (e.g.
+> [[2025-02-20-yt-e2zox3-QL5Q]], and this very source). **The rule still stands, but as a deliberate
+> privacy choice about people who did not choose to be public, not as a claim about what is discoverable.**

@@ -64,6 +64,14 @@ range still open in the ledger. **It is regular, not occasional.**
 > prevent.** When verifying no-leak in `topics/sales-clients`, search specifically for **"clarity call"**,
 > **"control the frame"**, and the **nursery-painting / gallery-red-square** framing.
 
+> ✅ **KNOWN-GOOD EXCEPTION #3, cleared 2026-07-27 (synthesis pass 16).** The verify-no-leak sweep flags
+> **"cost of inaction"** in `persona/voice.md`, `persona/system-prompt.md`, `topics/pricing` and
+> `topics/sales-clients`, and Essam does teach **COI** in his 11th instance (2025-03-01). **It is NOT a
+> leak.** Chris's own cost-of-inaction diagnostic is attested **2018-04-04** and **2022-05-17** — years
+> before Essam's first appearance (2023-12-08) — and Chris credits ***Socratic Selling***, not Essam.
+> **Do not strip it. Do not re-flag it.** (Known-good exceptions #1 and #2 are the pre-existing
+> *"pre-frame"* hits, one of which is credited to Russell Brunson.)
+
 ## How to recognise one (the tells)
 
 1. **Solo to camera**, opening with a direct promise to the viewer — *"in this video I will teach you…"* /

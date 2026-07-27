@@ -6,14 +6,72 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **P2 long-tail through ingest batch 142 (L2=880) — all L2 source pages 2014 → 2025-01-07 (@thefutur; 2024 fully drained, into the 2025 era).** Synthesis passes **15 + 15b** ran 2026-07-27 → system-prompt **v17**. ✅ **Pass 15b closed the gap: all 7 topic hubs updated, 8 entity pages created and 3 deepened, the character-language decision closed, and all 4 reconciliation tasks resolved.** No synthesis work is outstanding.
+Synthesized through: **P2 long-tail through ingest batch 152 (L2=898) — all L2 source pages 2014 → 2025-03-01 (@thefutur; into the February-2025 era).** Synthesis pass **16** ran 2026-07-27 → system-prompt **v18**. ⚠️ **Pass 16 was PERSONA-ONLY by design** (beliefs, voice, biography, system-prompt, plus three policy decisions). **Topic hubs and entity pages for this era are still outstanding — pass 16b.**
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
 
-_(none — passes 15 and 15b both done; **synthesis is fully caught up through batch 142 / L2 880.** Next checkpoint: after ~10 more ingest batches or an era boundary.)_
+- [ ] **pass 16b — topic hubs + entities for the February-2025 era (batches 143–152).** Pass 16 deliberately
+  scoped itself to `persona/` and declared this remainder up front. **Outstanding:** promote into
+  `business` (innovation-vs-efficiency, pi-shape, small bets, freelancer-vs-owner, a-business-problem-is-a-
+  business-problem, the Futur revenue disclosure), `sales-clients` (problem-seeker **with the Brian Collins
+  credit**, the three whys + tone, do-you-care-about-real-success, the flaky-client script, whoever-is-
+  closest-to-the-client), `pricing` (value-based-pricing-is-optional, discretionary-budget threshold, phased
+  engagement, speed commands a premium), `branding` (build-a-world-not-a-narrative, no-story-equals-
+  commodity), `content-strategy` (character+want+obstacle, show-up-for-people-first, the archive argument),
+  `mindset` (the superhuman parable, the dark-thought triage, radical accountability, read-to-teach),
+  `design-craft` (portfolio: three-to-five, show process, extend into systems). **Entity pages:** create
+  **Melanie Whitney**; deepen **brian-collins** (problem-seeker is his), **kier-mclaren** (the therapy gate,
+  the 2014 end date), **the-futur** (the revenue disclosure, the robot-army direction), **blind** (the
+  three-employee milestone, the Venice house).
 
 ## Done checkpoints
+
+- [x] **2026-07-27 · pass 16 · → system-prompt v18** — **P2 February-2025 era (batches 143–152, L2 880 → 898).
+  PERSONA-ONLY BY DESIGN; hubs and entities deferred to 16b and declared up front, not discovered missing.**
+  **`beliefs.md` 219 → 240 sources**, +21 blocks: **build a world not a narrative** (with *questions* as the
+  success criterion and the bookkeeper rebrand as the worked proof); **innovation and efficiency cannot
+  coexist** (t-boned on the freeway of innovation; small bets; ⚠️ the 3-year/3-to-5-year variance held open);
+  **pi-shape + drills before skills** with the food-court argument; **read it to teach it** (three levels,
+  five books, the management-team story) and its operational form *seek out the highest authority within
+  your grasp*; **character + want + obstacle** as question AND content formula; **thoughts on trial** and
+  **the dark-thought triage** (fullest version, ⚠️ with the adjudicated Essam collision recorded as NOT a
+  leak); **the superhuman parable** and average-as-deepest-insult; **value-based pricing is optional**;
+  **entrepreneurship is not for everyone**; **radical accountability**; **emotions distort — with the love
+  exemption and the objection kept**; **a business problem is a business problem**; **show up for people
+  before they show up for you**; **the gossip boundary**; **freelancer vs independent business owner**;
+  **speed commands a premium** + two pricing mechanics; **do-you-care-about-real-success** + the
+  fake-strategist callout; **permission to change your mind**; ⚠️ **problem-seeker credited to BRIAN
+  COLLINS**; **feedback narrowly defined**; **whoever is closest to the client makes the most money**;
+  and **the AI position as four dated faces**.
+  **`voice.md` 185 → 210 sources**: ✅✅ **the abrasive/warm reconciliation in his own words**, the
+  **robot-deliberately context rule**, the *charming razor blade* acceptance, and **~75 new quotes**.
+  **`biography.md` 112 → 130 sources**: the **origin story at depth** (Art Center class gap, *I would just
+  outwork you*, the library, Cole & Weber's timesheet ruling, Epitaph and Fred, K2 Skis, the CoSA CD-ROM,
+  four pieces in a FedEx box, the three-employee milestone, the Venice house); ✅ **the 2014 hinge
+  corroborated THREE times from three directions**; **the therapy account dated ~2006–2007** at about ten
+  sessions ⚠️ **with the two-reasons tension explicitly left open**; and **childhood as *"pretty rough"*
+  landing on *"Grandma did the best she could."***
+  **`system-prompt.md` 880 → 898 sources, v17 → v18**: the **AI guard rewritten** from a 2023 snapshot into
+  **four dated faces**, and **8 new guards**.
+  **THREE DECISIONS CLOSED (all were owed and none deferred again):**
+  (a) ✅ **Family-name policy** — the rule STANDS but its stated reason was **false** (it claimed the names
+  were *"not established in reputable public sources"*; the subject names them himself on air). `SUBJECT.md`
+  now grounds it as **a deliberate privacy choice about people who did not choose to be public**, and says
+  explicitly that **discoverability is never an argument for relaxing it**. ⚠️ **One genuine breach found and
+  redacted** (`wiki/sources/2017-02-15-yt-kWZ1qtvcVHc.md` named both sons and the wife) — names replaced with
+  roles, substance untouched, redaction note added. ⚠️ **And one of my own earlier flags was WRONG**:
+  `wiki/sources/2024-06-09-yt-nwz4uwm7gUc.md` was already correct — its note explicitly says the name there
+  belongs to a *different* Chris in a case study. **Corrected rather than acted on.**
+  (b) ✅ **The AI-stance guard** — replaced, four faces, including the admission that AI undercuts his own
+  education business.
+  (c) ⏸️ **Melanie Whitney entity page** — deferred to 16b **with the rest of the entity work**, not silently
+  dropped.
+  ✅ **verify-no-leak run**: *"irresistible offer"*, *"prospect pathway"*, *"clarity call"*, *"logical next
+  step"* — **zero hits**. *"pre-frame"* → the two documented known-good exceptions. **NEW: *"cost of
+  inaction"* flagged and CLEARED as known-good exception #3** — Chris's own COI diagnostic is attested
+  **2018-04-04 and 2022-05-17**, years before Essam's first appearance, and credited by Chris to *Socratic
+  Selling*. **Recorded on the entity page so it is never re-flagged.**
 
 - [x] **2026-07-27 · pass 15b · (no version bump — v17 stands)** — **closed the gap pass 15 declared.**
   **TOPIC HUBS (all 7 now current):** `branding` **F52–F53** (★★★ **THE personal-branding thesis stated

@@ -6453,3 +6453,104 @@ business problem** — pattern recognition as why he can answer cold; (13) ★�
 two years** — dated. ⚠️ Required: **fence Melanie Whitney's frameworks and personal history out of
 beliefs.md/voice.md**, **create her entity page**, and **correct the caption's "$225,000 a semester" to
 ~$25,000** using his own *"a seventh of the cost"* arithmetic.
+
+## [2026-07-27] lint | synthesis pass 16 — February-2025 era (batches 143–152, L2 898) → system-prompt v18
+
+**Stage S.** Debt 10/10. **Scope declared up front and honoured: `persona/` only** — beliefs, voice,
+biography, system-prompt, plus three policy decisions that were owed. **Topic hubs and entity pages are
+pass 16b**, written into the state file as a pending checkpoint rather than discovered missing at the end.
+
+### ✅✅ The headline: a contradiction the corpus has carried for several passes is now resolved — by him
+
+For passes the persona has held *"I am abrasive"* against *"I recede into the background"* as **two
+unmerged self-descriptions**. Asked on 2025-02-26 what work he had done to become gentler, **he rejects the
+premise** and supplies the missing frame:
+
+> *"It's like a shock — **cold water, or electricity**… **who is this Asian man who's super direct, brusque,
+> really thrifty with my words?** And **people will take it as arrogant, as aggressive, as violent
+> communication — until they get past the first couple of layers.** Once they get beyond that: **oh, there's
+> a warm, compassionate human being there.**"* — *"**it's your familiarity with me that has changed how you
+> remember it.**"*
+
+**Not two selves — one register strangers meet first and familiars see through.** The mechanism is a
+**context rule, not a mask**: *"**I'm kind of like a robot — deliberately**… in the context of teaching,
+**where do I bring that out? It doesn't fit**"* — against the fishing boat, where *"you'll see emotion from
+me, because in the context of the boat that makes perfect sense."* **This supersedes the v17 instruction to
+hold the two apart as unresolved.** The underlying quotes were kept, not replaced.
+
+### What changed
+
+- **`beliefs.md` 219 → 240 sources**, +21 blocks: **build a world, not a narrative**; **innovation and
+  efficiency cannot coexist**; **pi-shape + drills before skills**; **read it to teach it**; **character +
+  want + obstacle**; **thoughts on trial** and **the dark-thought triage**; **the superhuman parable**;
+  **value-based pricing is optional**; **entrepreneurship is not for everyone**; **radical accountability**;
+  **emotions distort — with the love exemption**; **a business problem is a business problem**; **show up
+  for people before they show up for you**; **the gossip boundary**; **freelancer vs independent business
+  owner**; **speed commands a premium**; **do you care about your client's real success**; **permission to
+  change your mind**; ⚠️ **problem-seeker credited to Brian Collins**; **feedback narrowly defined**;
+  **whoever is closest to the client makes the most money**; **the AI position as four dated faces**.
+- **`voice.md` 185 → 210 sources**: the reconciliation above, the robot-deliberately context rule, the
+  *charming razor blade* acceptance, and **~75 new quotes**.
+- **`biography.md` 112 → 130 sources**: the **origin story at depth** (Art Center's class gap and *"I would
+  just outwork you"*, the library, the Cole & Weber timesheet ruling, Epitaph and Fred, K2 Skis, the CoSA
+  CD-ROM, four pieces in a FedEx box, the three-employee milestone, the Venice house years); ✅ **the 2014
+  hinge corroborated three times from three directions**; **the therapy account dated ~2006–2007**; and
+  **childhood as *"pretty rough"* landing on *"Grandma did the best she could."***
+- **`system-prompt.md` 880 → 898 sources, v17 → v18**: the AI guard **rewritten**, plus **8 new guards**.
+
+### Three decisions closed — none deferred again
+
+**(a) The family-name policy.** ✅ **The rule stands — but its stated reason was false.** SUBJECT.md
+justified it on the grounds that the names are *"not established in reputable public sources"*; **the
+subject names family members himself, unprompted, on his own public channel.** SUBJECT.md now grounds the
+rule as **a deliberate privacy choice about people who did not choose to be public**, and states explicitly
+that **discoverability is never an argument for relaxing it.**
+
+> ⚠️ **One genuine breach found and redacted**: `wiki/sources/2017-02-15-yt-kWZ1qtvcVHc.md` named both sons
+> (with ages) and the wife. **Names replaced with roles; no claim weakened; redaction note added.** It was
+> the only such page in the corpus.
+>
+> ⚠️ **And one of my own earlier flags was wrong.** I flagged `2024-06-09-yt-nwz4uwm7gUc.md` as a second
+> breach. It is not — **its note already says explicitly that the name there belongs to a *different* Chris
+> in a case study, and that Chris Do's wife is not named in this repo.** That page was correct as written.
+> **Corrected rather than acted on.**
+
+**(b) The AI-stance guard.** ✅ Replaced. The old guard said *"your documented AI stance is from 2023."*
+There are now **four dated faces** — 2023 leverage, 2024-12 labour markets, 2025-01 personal development,
+2025-02-07 workflow, and **2025-02-23 implementation** — and the new guard requires speaking the face that
+fits the question, dating it, and **never presenting one as the settled whole.** It also keeps the part
+that would be easy to drop: **he says openly that AI is undercutting his own education business**, and his
+answer is to automate implementation rather than defend the moat.
+
+**(c) The Melanie Whitney entity page.** ⏸️ **Deferred to 16b with the rest of the entity work — declared,
+not dropped.**
+
+### ✅ verify-no-leak
+
+*"irresistible offer"*, *"prospect pathway"*, *"clarity call"*, *"logical next step"* → **zero hits.**
+*"pre-frame"* → the two documented known-good exceptions.
+
+> ✅ **NEW: *"cost of inaction"* was flagged and then CLEARED as known-good exception #3.** Essam teaches COI
+> in his 11th instance — but **Chris's own cost-of-inaction diagnostic is attested 2018-04-04 and
+> 2022-05-17**, years before Essam's first appearance, and Chris credits ***Socratic Selling***. **The fence
+> does not run backwards.** Recorded on the entity page so the next pass does not re-flag it.
+
+### Left open on purpose
+
+- ⚠️ **The therapy two-reasons tension.** The February telling is entirely the **children** account, at
+  length. The **employees** account is neither repeated nor contradicted. **Both stand; the guard against
+  merging them is retained**, with a note that the children version now has the fuller attestation.
+- ⚠️ **The reinvention interval** — *"every three years"* vs *"every 3 to 5 years."* Say *"every few
+  years."*
+- ⚠️ **The session count** — 10 (twice) vs 11 (once), all hedged. Say *"about ten."*
+- ⚠️ **The therapy date** — *"probably 2007, 2006"*, against his own *"14… no, maybe 17 years ago"* minutes
+  later. Recorded soft.
+- ⚠️ **Michael Port, third strike.** He has now misattributed *Book Yourself Solid* to *"Michael Porter"*
+  three times on record. **The persona gets it right.**
+
+**State:** L2 **898**; synthesis high-water mark advanced to **batch 152**; persona **v18**; synthesis debt
+reset to **0/10**. ⚠️ `pass 16b` is queued as a pending checkpoint.
+
+> **Next iteration: Stage S again — pass 16b** (hubs + entities), then back to Stage B.
+
+Synthesis notes: none — this was the synthesis pass.

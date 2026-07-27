@@ -7030,3 +7030,77 @@ child** / **"you had your shot"** / **stop the generational trauma**; (8) ★★
 world that we know than venture forth and have a big win in a world that we don't know"*; (9) ★★★ **the
 homework disclosure**; (10) ★★ **the couch story**; (11) ★★ **dated age 53**. ⚠️⚠️ **When promoting ANY of
 this: roles only, never family names.**
+
+## [2026-07-27] ingest | yt batch (@thefutur, 1) — the twice-deferred row cleared, and a Jung line lands
+
+**Stage B (P2), `--n 3`.** ✅ **The discipline break from batch 156 is repaired**: `PQPybDWoC2A` was taken
+first, before anything else, exactly as committed. Ledger 904 → **905 L2**. **No deferrals outstanding for
+the first time in eight batches.**
+
+| id | date | what it is |
+|---|---|---|
+| `yt-PQPybDWoC2A` | 2025-03-19 | ⚠️ guest-dominant — Andrea Sampson; ⏸️⏸️ from 155 **and** 156 |
+
+**1. ✅✅ A Carl Jung line lands directly on doctrine the corpus already holds — and the order matters.**
+He brings it in himself, unprompted, having found it that morning:
+
+> ★★★ *"I came across this on my Instagram today — and **how wonderful and serendipitous** is it that I see
+> this today of all days. It's a quote from **Carl Jung**: ★★★ ***'To be normal is the ultimate aim of the
+> unsuccessful.'*** **I love that.**"*
+
+This is **the sentence his normal-equals-average position has been circling** — the superhuman parable
+(*"normal just means average… **to say it's bad would be better than to say it's average**"*, 2025-02-23)
+and the Jung Persona/Shadow material already in `mindset` §75.
+
+> ⚠️ **But the order is the finding.** He encountered it **after** he was already teaching the position, and
+> says so. **Promote it as a late-found articulation, NOT as the source of the doctrine.** ★ He even hedges
+> the attribution honestly: *"**I hope you did say this**, because it's so brilliant."*
+
+**2. ★★★ A credited quote — and he flags his own edit to it.** *"This is my take on something a friend of
+mine says — his name is **James Victore**. He says **what makes you weird as a kid** — ★★★ **and I alter it
+a little bit — will make you wonderful as an adult.**"*
+
+> ✅ **Worth recording as behaviour, not just content.** He names the source **and** volunteers that the
+> version he uses is his own alteration. **Set against the *Book Yourself Solid* → "Michael Porter" error he
+> has now made four times: when he knows a source, he handles it carefully.** The pattern is
+> *unreliable recall*, not carelessness with credit.
+
+**3. ★★ The clearest external testimony in the corpus about how he interviews.** The guest, unprompted:
+*"**you are an incredible question asker** — and just very insightful."* What that looks like in the
+transcript, all recurring behaviours: **he plays the answer back to check it** (*"I want to say it to you
+**to see if I got this part right**… **is that about right?**"*), **he asks for a role-play instead of a
+description** (*"**let's role play a little bit** — I'm the absent-minded professor…"*), and **he stops the
+guest to bring the audience along** (*"wait — **some people might know exactly what we're talking about and
+the rest are like *wait, what's going on here***"*).
+
+**Also**: ★★★ *"**we all should be very good at [storytelling]. I think we WERE when we were kids** — and
+**somewhere along the way we've lost it, and we get really self-conscious**"* — a premise sitting underneath
+the whole storytelling body of work; ★★★ **he already does the guest's core technique informally** — *"I do
+this for my friends too… **they put too much detail where none is required, they skip over all the
+conflict** — and then I'm like: **here's your story the way I heard it**"*; ★★ **the loss-leader /
+jewel-in-the-crown** logic for marquee clients; ✅ ★★ his own summary of the pitch lesson — *"**it isn't
+necessarily about the best creative — it's showing them the creative team are willing to move heaven and
+earth for you**"* — which is the agency-side view of his own pitch doctrine from six days earlier.
+
+> ⚠️ **The guest half is fenced.** Andrea Sampson's frameworks (idea-centric storytelling, the tell-it-back
+> technique, the strategist explainer, the E*Trade pitch story) are **hers**. Her **personal disclosures**
+> — including a neurodiversity disclosure — are hers, on her own terms, recorded minimally and **not to be
+> elaborated**. And her **clients' stories**, which include family tragedies, are **summarised by category
+> only and never retold.** ⚠️ **She needs an entity page — flagged for the next synthesis pass**, same
+> reasoning as Melanie Whitney: a substantive guest whose expertise is easy to mis-attribute.
+
+**Pipeline state:** `@thefutur` P1:0, **P2:172**, P3:44; `@TheFuturAcademy` P3:72; shorts 860; L2=**905**,
+L3=0; synthesis debt **4/10**; persona v18.
+
+> **Next iteration: Stage B (P2), `--n 3`** — clean slate, no carried deferrals.
+
+Synthesis notes: genuinely new — (1) ✅✅ ★★★ **Carl Jung's *"to be normal is the ultimate aim of the
+unsuccessful"*** → promote into `mindset` beside the superhuman parable, **explicitly as a late-found
+articulation he met AFTER teaching the position, not as its source**; (2) ★★★ **"what makes you weird as a
+kid will make you wonderful as an adult"** — **James Victore, with his own alteration flagged**; record the
+**attribution behaviour** alongside it; (3) ★★★ **we were all good storytellers as children and lost it to
+self-consciousness**; (4) ★★ **how he interviews** — play it back, ask for a role-play, stop for the
+audience — with the guest's *"incredible question asker"* as external corroboration; (5) ★★ **playing
+someone's story back to them**, which he already does for friends; (6) ★★ **loss-leader / jewel-in-the-crown
+client logic** for `business`. ⚠️ **Create an `andrea-sampson.md` entity page**; ⚠️ **her material and her
+clients' stories stay fenced.**

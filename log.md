@@ -6129,3 +6129,110 @@ supposed to be uncomfortable from the beginning"**; (9) ★★★ **speak their 
 pump the brakes*; (10) ★★ **the know-your-depth guard executed live**, cost included; (11) ★★ **his wife
 handles the books**, and *"I don't care about the money at all"*. ⚠️ **Do not treat the court-of-law
 instrument as an Essam leak.**
+
+## [2026-07-27] ingest | yt batch (@thefutur, 2 of 3 — one deferred) — the credit the corpus was about to get wrong
+
+**Stage B (P2), `--n 3`.** Both rows deferred from batch 149 were taken first and ingested; the third,
+fresh, is deferred once. Ledger 893 → **895 L2**.
+
+| id | date | what it is |
+|---|---|---|
+| `yt-uOWi13jSAPA` | 2025-02-18 | solo listicle, 7 Habits of Millionaires; ⏸️ from 149 |
+| `yt-e2zox3-QL5Q` | 2025-02-20 | ★★★ **LANDMARK** — full Design Cuts course; ⏸️ from 149 |
+| `yt-hC2_b-y6zuc` | 2025-02-23 | ⏸️ **DEFERRED** (80KB Creative Pulse fireside) |
+
+**1. ⚠️⚠️ The finding of the batch is an attribution, and it only exists because these two shipped
+together.** On **02-18** he teaches, as his own habit five: *"**we need to shift away from being a problem
+solver to a problem seeker**"* — **uncredited**. On **02-20**, two days later:
+
+> ★★★ *"**When I was having a conversation with Brian Collins, he says designers need to move from being
+> problem solvers to problem seekers.**"*
+
+**The corpus had zero prior hits for "problem seeker" and was one batch away from recording it as a Chris Do
+coinage.** It is **Brian Collins's**, adopted and propagated by Chris — filed as such on the entity page,
+and **the synthesis pass must carry the credit wherever the idea is promoted.** The uncredited listicle
+version is read as **format compression, not a claim of authorship**; the credit is in his own mouth in the
+same week, which is the fairest available reading.
+
+**2. ★★★ Innovation and efficiency cannot coexist** — new to the corpus, and a hard incompatibility claim
+rather than a preference: *"**those are two opposing ideas. They don't live in the same universe.**"* The
+failure mode is vivid: companies *"prematurely decide they're in an efficiency-building mode"* and then
+*"**get t-boned on the freeway of innovation.**"* Mitigation from *Rework*: **small bets over one big
+gamble** — $100K becomes ten $10K experiments, and *"by the time you hit mistake seven or eight you've
+learned a ton."*
+
+> ⚠️ **A variance recorded, not resolved**: *"reinvent our creative agency **every 3 to 5 years**"* here vs
+> *"**every three years or so**"* on 02-07. Same doctrine, different stated interval — **do not harden
+> either number.**
+
+**3. ★★★ The whole client-conversation stack, credited layer by layer.** The 02-20 course is unusually
+honest about its sources: **Jonathan Stark's three whys** (*why this / why now / why me*), with **Blair
+Enns's retreat-and-follow** underneath *why now* (*"**if we can save you money by not doing anything, why
+proceed?**"* → *"**now they convince themselves**"*), and **Chris Voss's late-night FM DJ voice** on
+delivery — *"**cool jazz, coasting as you're driving. Slow, deep, methodical.**"* Plus the grammatical tell
+most teaching omits: *"**end it on an up note. It's not a statement.**"* **The composite is his; the parts
+are theirs.**
+
+**4. ★★★ Two pricing mechanics the corpus did not have.** The **discretionary-budget threshold** — *"if
+they spend less than this amount, no one else has to approve it… **submit the bid just underneath that
+number**"* — and **phased engagement** for sticker shock (*"everybody agrees the value is there, but they
+look at the price"*). Alongside a direct refutation of the effort heuristic: ★★★ *"**most creatives falsely
+assume clients want you to spend more time**… **they will actually pay more to get something done in less
+time**"* — *"if you want to board first on an airplane, **it's called first class.**"*
+
+**5. ★★★ Two lessons told against himself**, which is the best persona material in the batch. On
+introversion: *"**this was me. This is my story.** … when clients came by **I would just hide in my room**"*
+— and his coach **Kier McLaren**'s question, *"who is the relationship with?"*, from which comes ★★★
+*"**whoever is closest to the client makes the most amount of money.**"* And on service: *"I thought when
+clients hired us we were paid to do the best design work… **that's just what you paid for**"*, illustrated
+by a broker's unprompted **14-year anniversary voicemail** that won the listing years later, and closed with
+★★★ *"**don't do like what I've done — do as I say.**"* Note he reads the voicemail as **systematised, not
+sentimental**: *"I assume I'm not so special that I'm the only person getting this call."*
+
+> ⚠️ **POLICY TENSION SURFACED — a decision is owed, and it is not mine to make.** SUBJECT.md forbids
+> recording family names on the stated ground that they are *"not established in reputable public
+> sources."* **In this video the subject states his wife's name himself, unprompted, on a public channel** —
+> so the rule's *premise* is now false even though the rule may still be the right call on privacy grounds.
+> **The rule was followed**: the name appears nowhere in the new pages. But **two pre-existing pages already
+> breach it** — `wiki/sources/2017-02-15-yt-kWZ1qtvcVHc.md` and `wiki/sources/2024-06-09-yt-nwz4uwm7gUc.md`.
+> **Next synthesis pass must choose**: restate the rule's reason and redact those two, or relax the rule
+> deliberately. Until then the stricter reading holds.
+
+**Also kept**: ★★★ *"**not everybody's giving gifts that you want**"* (the guard on his own *feedback is a
+gift*); ★★★ **feedback defined narrowly** as skilled intentional communication, excluding *"this is dumb"*
+and *"that's great"* as *"just opinions"*; ★★★ **AIDCA** with **advocacy as the stage everyone drops**;
+★★★ **portfolio: three to five pieces, process shown, extended into systems** — *"$100 to $100,000 in
+perceived value"*; ★★★ **verticalize before widening** (*"they're so deep inside the jar"*); ★★★ **forever
+student**, with the self-aware *"**I've read most of them. I've lived some of them. The lines start to
+blur.**"*
+
+> ⚠️ **Two attributions deliberately NOT asserted.** He quotes *"there's no such thing as the right answer
+> to the wrong question"* in both videos and **credits it differently each time — the second time as *"I
+> forget who said this."*** Recorded as **unattributed**. And the *low variance in process → low variance in
+> outcome* line is credited to a name the captions garble; **reconstructed as Blair Enns from the identical
+> garble earlier in the same transcript, and marked as a reconstruction.**
+
+**Deferral (no silent caps):** one row — `hC2_b-y6zuc` (80KB) — returned to `L0-discovered` at P2,
+transcript cached, not skimmed. **Neither of this batch's two deferred-from-149 rows was deferred twice.**
+
+**Pipeline state:** `@thefutur` P1:0, **P2:182**, P3:44; `@TheFuturAcademy` P3:72; shorts 860; L2=**895**,
+L3=0; synthesis debt **8/10**; persona v17.
+
+> **Next iteration: Stage B (P2), `--n 3`**, led by `hC2_b-y6zuc`.
+
+Synthesis notes: genuinely new — (1) ⚠️⚠️ **ATTRIBUTION FIX: problem solver → problem seeker is Brian
+Collins's** and must be promoted with that credit; (2) ★★★ **innovation and efficiency cannot coexist**,
+with **t-boned on the freeway of innovation** and **small bets over one big gamble**; (3) ★★★ **the three
+whys with the tone layer** — Stark's questions, Enns's retreat-and-follow, Voss's late-night FM DJ voice,
+plus *"it's not a statement"*; (4) ★★★ **the discretionary-budget threshold** and (5) ★★★ **phased
+engagement** — two concrete pricing mechanics; (6) ★★★ **speed commands a premium**, refuting the
+hours-equal-value instinct; (7) ★★★ **AIDCA with advocacy as the dropped stage**; (8) ★★★ **whoever is
+closest to the client makes the most money** (Kier McLaren origin) and **the unofficial-ambassador
+practice**, from a man who says *"I don't even want to use the word networking"*; (9) ★★★ **the
+customer-service confession** — *"that's just what you paid for"* / *"don't do like what I've done"* — for
+`persona/voice.md`; (10) ★★★ **feedback defined narrowly**, with **not everybody's giving gifts that you
+want**; (11) ★★★ **portfolio: fewer, deeper, extended**, and **verticalize before widening**; (12) ★★
+**forever student with intentionality to teach**, and *"the lines start to blur"*. ⚠️ Also required:
+**record the 3-year / 3-to-5-year variance without picking one**; **promote the BOUNDED Mini Cooper
+spec-work telling** (this course omits the *"just don't lie"* rule); **leave the right-answer/wrong-question
+quote unattributed**; and **decide the family-name policy question above.**

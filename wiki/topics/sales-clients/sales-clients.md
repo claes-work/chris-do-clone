@@ -4052,6 +4052,131 @@ with his own:
 > it in either direction.
 
 
+## 101. ★★★★ Don't sell to a group who can't afford you (2025-09-11)
+
+Said to a participant live, and it is the hub's sharpest disqualification rule:
+
+> *"You may have an entire **business design problem**… but the challenge for you is: **you do not want
+> to sell a product to a group who can't afford to buy it.** Every time you tell me you want to — **and
+> we make the mistake** — **you sell to broke designers. They might want the solution; they can't afford
+> you.**"*
+
+The redirect: sell to **the budget holder** (HR, senior management, VPs) and make the content that
+reaches them — *"'**we need her help. She clearly understands what we're going through, and she's been
+through it**'… you can say: '**I survived 10 years in the tech space. Super toxic male bro culture. I
+know how to get you out of it.**' **And then you have to be able to teach people.**"*
+
+## 102. ★★★ Two Blind-era disqualification heuristics (2025-06-14)
+
+The hub is thinnest on **disqualifying**, and these are both from his own operating history:
+
+- ★★★ **Rules for salespeople:** *"when we were still in the service space, **we would have to make
+  rules for our salespeople** — because otherwise **every job looked like a great opportunity**, and we
+  were overwhelmed with the kinds of things that were opportunities that **turned out to be totally
+  lame.**"*
+- ★★★ **The buzzword red flag:** *"there was a time in advertising when there were so many young people
+  as creative directors and art directors… where **if they used too many buzzwords, we're out.** It was
+  just dropping jargon and sounding too self-important, and **none of them knew anything about what they
+  were doing.** So we're like: **yeah, this is going to be a horrible process.**"*
+
+## 103. ★★★★ Selling bold creative — the commitment trap and acclimation (2025-06-15)
+
+**Three options — mild, medium, spicy** — *"slowly ramping them into this."* But the mechanism is
+earlier and more deliberate:
+
+> ★★★★ **The commitment trap, stated openly:** *"**We first get them to fall in love with the big idea,
+> and we get them to commit to the bold statement they're about to make** — because what they don't
+> realise is **I'm going to use that against them in a little bit.** If you say you're recklessly,
+> wildly crazy, then **we cannot look at any boring concepts** — because **you can't say one thing out
+> of your mouth and point with a different finger.** … **Are you committed to this before I do?**"*
+
+**Acclimation is the whole method** — loose mood boards and sketchy ideas *"because **I want them to
+acclimate to the new aesthetic. It takes time.**"* Three analogies, all his: **fashion** (*"given
+repeated exposure you start to warm up to it… next thing you know you're the champion for that
+style"*), **interior designers** (*"everything's movable… **because if you were to show up one day and
+your home were totally different, you would freak out — even though objectively it's superior**"*), and
+**sushi** (*"imagine giving them not a California roll but **sashimi, tuna, blood red**"* → *"**instead
+of a one-course meal, think of it like a six-course meal.**"*)
+
+**Paula Scher's test:** hand the client a book of the world's best logos and say *"**pick three. I'll
+be back later.**"* — *"**you can't go wrong, because they're the world's best logos. And it's a taste
+test.**"*
+
+> ⚠️ **The caveat on the decoy:** *"every time we do something that we think there's no way they're
+> going to buy — **that's the one they want.** Hence: **you've got to be okay with your lure**, because
+> **there's a good chance they'll pick that one too. So make sure that's good.**"*
+
+## 104. ★★★★ The conference script — lead with generosity, and land your name last (2025-06-29)
+
+> *"**We're always walking around wondering: what does somebody want from us?** … **Your guard's up,
+> man. Your guard's up all the time.** … And the thing that is really disarming is **to lead with
+> generosity. Not because it's a scheme. It's not a Trojan horse — but because it's generally how you
+> operate. It's part of your operating system.**"*
+
+**The script, verbatim, because the ordering is the point:**
+
+> *"Hey, I see you there. **You look a little lost in the sea of people. Tell me what's going on.**"* →
+> *"I don't know anybody here."* → *"**Who would you like to meet?**"* → *"…maybe this kind of person."*
+> → *"**Well, let's go find them together. By the way, my name is Chris.**"*
+
+★★★★ **His name lands last** — after the offer of help. Then the follow-through later in the event
+(*"is there still room? Can I sit up front and support you?"*) — *"**and then that's the beginning of a
+relationship.**"* With the reciprocity claim: *"**our social network depends on us doing that**… **it's
+not a quid-pro-quo mandate, but it's how we continue to build on the relationship so it gets stronger
+versus weaker.**"*
+
+## 105. ★★★ The listening redirect — full-value listening, caught in the act (2025-09-11)
+
+Coaching a participant who kept looking to her husband:
+
+> *"**What are you hearing? It doesn't matter what I'm saying. It doesn't matter what your husband is
+> saying. What are you hearing?**"*
+
+✅ Cite this as **the demonstration** alongside the full-value-listening doctrine at §98. And the close
+he uses on hesitation: *"I have to try, and once I try then I will know"* → *"**so, there's no trying.
+There's just doing.** … **Just do it.**"* With: *"**the problem with really smart, educated, successful
+people is they think too much.**"*
+
+## 106. ★★★ The podcast criteria — and the boundary (2025-09-14)
+
+Asked to appear on a show, he asked *"**how many downloads do you get per episode?**"* — and the
+invitation was rescinded in offence. *"**Never mind. Offer rescinded.**"* His criteria:
+
+1. *"**I don't want to be episode one.** You barely even know what you're doing."*
+2. *"You've done the reps — **but have you grown at all?**"*
+3. ★★★★ *"**What you bring to the equation is an audience. So I give you my time, which I define to be
+   very valuable. If I'm to give you my time — which I have a non-renewable supply of — then you must
+   bring an audience.** Because otherwise, why am I on here? **The likelihood of you asking me something
+   so profound that I see into soul crevices I've not seen before is quite low.**"*
+
+> ★★★★ **The part that is actually his:** *"**I'm pretty sure that person's walking away thinking: what a
+> jerk. What a prick. This guy is full of himself** — because I asked the question. **I don't want
+> anybody to be angry — but I can't control someone's reaction, and I also have to respect my own
+> boundaries.**"* → *"**everybody's the most important person in their universe… but let's not use that
+> to treat other people that way.**"*
+
+## 107. ★★★ Trust, and the ladder to being hired (2025-09-14)
+
+- ★★★★ *"**Trust is hard to build and easy to lose. It takes a long time for you to earn trust. It only
+  takes one f-up for you to lose it all.**"*
+- **The ladder:** *"people hire who they **know, like and trust**… **before anybody can hire you, they
+  must know that you exist.** In person is **high friction, high effort.** Online is **low friction,
+  lower effort — but still effort.**"*
+- ★★★ **Followers ≠ influence:** *"**the stickiness of a relationship is when you ask somebody to do
+  something, if they'll do it.**"* — evidenced by VidCon's post-COVID TikTok rooms: *"**more empty
+  chairs than people, by like a ten-to-one ratio**… **number of followers doesn't equal level of
+  influence.**"*
+- ★★★ **Pitch vs. invitation** (2025-06-07): *"instead of '**I've got a program and this is what it
+  costs**' — that sounds like a pitch — versus '**I'm inviting a couple of people just like you to
+  explore X, Y and Z.**'"* → *"it's **very permission-based**, which is what I like. **Only do this if it
+  gives you joy. Otherwise, I'm good. You're good.**"* (Credited onward to **Daniel Priestley's** *"with
+  or without you energy"*.) And why you can't jump straight to the ask: *"**it's too abrupt of a step.
+  It's too much tension there.** … **Are you right for me? Am I right for you?**"*
+- ★★ **His own not-creepy filter, said out loud:** *"**you've not said anything as a salesperson where
+  I'm like — that's terrible.** It's very hard for you to get through **my mental checks** like: **no,
+  that's creepy.** … **It's not aggressive. It's not predatory.**"*
+
+
 ## Cross-links
 
 - [[wiki/topics/pricing/pricing]] — value-based pricing, the desired-future-state → value

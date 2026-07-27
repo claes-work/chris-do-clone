@@ -2588,6 +2588,88 @@ This is his own statement of the single theme beneath the pricing corpus, and th
 material and the [[../branding/authenticity-gap|authenticity-gap]] material keep converging.
 
 
+## 66. ★★★★ "There is no such thing as a commodity. You just lack imagination." (2025-08-14)
+
+Credited plainly and repeatedly to **Ronald Baker**, ***Implementing Value Pricing***. He opens on the
+death spiral: *"when we lower our price, what does the other person think? **They lower their price.
+And what do you do? Lower your price. And before you know it, you pay the client to do the work. How
+long can you run a company when you pay the client to do the work?**"*
+
+**The ladder, told as an escalation:**
+
+| Step | The move | Price |
+|---|---|---|
+| A head of lettuce | none — *"one head is the same as another"* | ~79¢ |
+| **Bagged, pre-washed, triple-rinsed** | *"a little creativity and labour — **you make it more convenient**"* | *"three bags for four times as much money"* |
+| **A salad kit** — croutons, cheese, dressing | *"**why do people even want lettuce in the first place?**"* | ~$12 |
+| **A licensed name on it** | borrowed brand | ~$14 |
+
+*"**And it doesn't end. It can just go into infinity.**"* — with the **$150 Japanese cantaloupe** as
+the outer limit (*"they're **lovingly cared for**… telling bedtime stories, I don't know. **I don't get
+it.** So **there is no limit to what you can charge.**"*)
+
+**Then the two hard cases, which are the point:**
+
+- **Money itself.** *"**Can anything be more of a commodity than money?** Who would buy $1 from me for
+  $1.10? Even $1.01?"* — *"**you lack imagination**"* (an audience member: *"you've got to sign it"* —
+  *"**I could sign it. You're right.**")
+- **Stock certificates sold above market.** *"the stock might be $99 that day, but they'll sell it to
+  you for **between $150 and $250, depending on the quality of the frame**"* — because grandparents
+  want something to **frame and give.**
+
+> ★★★★ **The turn on the audience:** *"this is the part that's going to hurt your soul a little bit.
+> **Ask yourself: do you lack imagination?**"*
+
+## 67. ★★★★ The two variables under willingness to pay (2025-08-14)
+
+The causal mechanism this hub has been missing:
+
+> *"Why would people pay more than they need to? **Because if it's immediate.** … **Time to purchase, to
+> my mouth. Make it faster, I'll pay you more.**"*
+
+**Meditation vs. Prozac**, credited to **Alex Hormozi** (*$100M Offers*), with an explicit
+pay-the-authors norm attached (*"**I'm not trying to take money from people. Please buy the books and
+support them**"*): *"if you're a meditation teacher, **maybe that entire industry is worth $100 million,
+where Prozac is a multi-billion-dollar industry** — because **the time to result is short and it's
+guaranteed.**"*
+
+> ★★★★ *"So there are **two variables: time delay**, which will influence price, **and certainty of
+> outcome.** … **When you think about your product or service, try to reduce the time to satisfaction
+> and completion, and try to increase the certainty of the outcome happening.**"*
+
+## 68. ★★★★ The guarantee rule — and the disclosure that makes it usable (2025-08-14)
+
+> *"Every time somebody gives you a money-back guarantee, you're more likely to buy, **because the
+> certainty of outcome is there.** But **if you're going to do a guarantee, there has to be a way for
+> you to do it so you don't get killed.**"*
+
+> ★★★★ *"Every time I've had a client who's going to spend a couple hundred thousand with us **sit on
+> the fence** — 'oh, I'm not sure, Chris' — and we've done everything we can to convince them, **the
+> last thing I do is I throw in the guarantee. And every time I've done that — I've done it twice —
+> they close.**"*
+
+> ★★★★ **The rule:** *"**Use it wisely. Use it for the right moment — not to get the job, but to secure
+> it. And there's a difference.**"*
+
+## 69. ★★★★ Why the 50% offer is 50% (2025-09-16 era; explained 2025-05-29)
+
+The strategy behind his most-watched short, explained for the first time — and it is an **anchoring**
+lesson, not a rev-share lesson:
+
+- **Why 50%:** *"**because I'm going to take the risk. If you take on the risk, you need to make more
+  money than that.**"* Anchored on **Drucker**: *"**all profit comes from risk** — whoever is willing to
+  carry the risk makes more money."*
+- **The objection, conceded:** *"'**Chris, 50% is lunacy**' — **it kind of is, and they knew that**,
+  fully expecting them to negotiate with me."*
+- **Why he doesn't open lower:** *"**but I'm not going to negotiate myself to like 10% right away. Then
+  they will say 3%.** … **I have to send you 600 new customers before I see any real margins.**"*
+- ★★★★ **The actual purpose:** *"**the whole point of setting up this deal was to let them know that the
+  $1,000 is really cheap.** Just pay the $1,000 already. **Be a cheap bastard — just pay it.**"*
+
+**The rule underneath:** never open at your floor; open where the counter still lands somewhere you
+would accept.
+
+
 ## Documented influences
 
 Chris credits these sources on record:

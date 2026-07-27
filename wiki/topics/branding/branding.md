@@ -1931,6 +1931,156 @@ in two registers — do not file it as a second framework.** The companion instr
 [[../mindset/mindset|**lean in on the gifts you have, not the gifts you want**]].
 
 
+## ★★★★ Framework 67 — Branding is the act of remembering (2025-07-29, 2025-08-12)
+
+> **This, and the VidCon keynote it comes from, is now the anchor citation for this hub.** The shorter
+> tellings ([[../../sources/2025-05-20-yt-efxmE9XX-hE|2025-05-20]],
+> [[../../sources/2025-06-03-yt-r2o9-oj9Mlk|2025-06-03]]) are corroboration.
+
+> *"**New is an external infinite pursuit of what's next** — and there's always something that's next,
+> and **it never ends.** … **Original is an internal quest to discover yourself.** You look at **the
+> root word of original — it's ORIGIN. The point or place where something begins. That's you. That's
+> your story. A story that you may have forgotten.**"*
+
+> ★★★★ *"So **branding isn't so much an act of creation** — which people like, *let's create a brand* —
+> **it's not that at all.** Even for big brands, and for personal brands especially, **it's the act of
+> remembering.**"*
+
+## ★★★★ Framework 68 — Don't chase new (and its positive form: world-building)
+
+**The evidence, not the assertion.** *The Fountain* (52% RT, **$16M on a $35M budget** — *"I love
+Darren Aronofsky. **I watched the film. I cannot remember the film**"*); *Cloud Atlas* (66% RT,
+**$130M worldwide but only $27M domestic**); and **Tom Cruise**, via comedian Rich Hall — *"**he
+basically makes the same thing over and over again. And we're all laughing — but he's laughing all the
+way to the bank.**"* Plus the **Porsche 911** and the **iPhone**: *"they're all the same, and they're
+very successful at doing this."*
+
+> ★★★★ *"**Why is it so hard to do the same thing over and over again? Because it fights our creative
+> soul and our desire to do new things.**"*
+
+**The Dip, with the mechanism the earlier tellings lacked — the restart loop:** *"the joy of doing that
+work starts to wear off and it becomes really hard… **and so what do we do? 'I have a new idea. Let's
+start again.' Because when we start again, it becomes new and fun again. And we repeat this process
+over and over — and we're stuck in the dip.**"* Godin's actual point: *"**the dip is a natural barrier
+to competition.**"*
+
+### ✅ The positive form — world-building (2025-08-12)
+
+The *Alien* franchise as the worked case: *Alien* (*"in space, no one can hear you scream"*) →
+*Aliens* (*"this time it's war"*) → *Alien 3* (*"**on Earth** everyone can hear you scream"*) →
+*Resurrection* → *Prometheus* (*"we're still out of ideas — we'll go to the beginning and start
+again"*).
+
+> ★★★★ *"In Hollywood, **this is not called a lack of imagination. It's called world-building.** … **When
+> you create more and more of the same of what people like, you get to expand the universe.**"*
+
+**File this WITH *don't chase new*, not beside it** — it converts a prohibition into a strategy. With
+**Bruce Lee** (*"I fear not the man who has practiced 10,000 kicks once, but the man who has practiced
+one kick 10,000 times"*) and *"**repetition is the mother of learning. It's the father of action —
+which makes it the architect of accomplishment.**"*
+
+## ★★★★ Framework 69 — Don't chase better; products are features, brands are meaning
+
+Run as a call-and-response (*"yell out: better brand, or better product"*) across McDonald's, IKEA,
+Nike, Starbucks, **Liquid Death** and bottled water — all called as **brand**.
+
+> ★★★★ *"**Products focus on features, whereas brands focus on meaning.** … If you're talking about
+> what you do or what you sell **as features, you're losing the brand game.**"*
+
+- **Seth Godin, *All Marketers Are Liars*:** *"**they lie to you, and we're complicit in the lie. We
+  taste the wine before we drink it**… **we're seduced by our own self story.**"*
+- **IKEA, read personally:** *"it's **fast furniture. It's disposable.** I used to love it as a college
+  student because **it gave me the idea I was living a European lifestyle on $89.** The problem is
+  **you never give it to your children.**"*
+- ★★★ **"Biology"** — his coinage for purchase-as-identity: *"**if I buy this, what does it say about
+  me — my values, beliefs and preferences?**"* Anchored on **Anna Lappé**: *"**every time you spend
+  money, you're casting a vote for the kind of world you want.**"* → *"**we're moving more towards
+  identity and away from survival**"* and *"**we as humans are meaning-making machines.**"*
+- ★★ **The dematerialised culture** (2025-08-12): everything once held tangibly is now in the cloud —
+  *"**so that means we're paying more to have less.**"*
+
+## ★★★★ Framework 70 — The good/different quadrant
+
+> ★★★★ *"For a period of time, **being good was a barrier to entry. But now good is expected. It's what
+> it costs to play the game. So you cannot hang your hat on being good — if you're not good, you don't
+> get to play.**"*
+
+Credited to **Marty Neumeier** (*The Designful Company*):
+
+| | **Not different** | **Different** |
+|---|---|---|
+| **Good** | **Commodity — "a *me too*"** (*"nothing wrong with that, especially early in your journey"*) | **Market leader** — *"every brand you love that commands a premium price and has a waitlist"* |
+| **Not good** | **Knockoff / cheap imitation** — where everyone starts, *"because you copy others. It's how we learn to do anything in life"* | *"That's like **wearing a clown outfit.** Okay, you're different — **but how does that help anybody?**"* |
+
+With **Sally Hogshead** credited again (*"different is better than better"* — a third consecutive
+crediting) and **James Clear's** 1% maths applied to *difference* rather than habit: 1.01³⁶⁵ ≈ **37.8**,
+the inverse ≈ 0.03 — *"**this number shocks me more than the 37.8.**"*
+
+## ★★★★ Framework 71 — Attention IS the economy; character → personality
+
+- *"**It's not the attention economy that you know so much about. Attention IS the economy. This is
+  where all the money is being made.**"*
+- ★★★★ *"**We've moved from the age of character to the age of personality.** It used to be **we were
+  judged by the things that we did**, and now it's all about the personality… **it's 'how do you make
+  me feel?' It's all about the feelings now.** And **character, the thing that we held in very high
+  regard, is seemingly disappeared.**"*
+- ★★★ **"There are riches in the reaches"** — his inversion of *riches in the niches*: sponsors and
+  publishers *"**want your audience. They want your reach. That's what they're really paying for**…
+  they don't have to market you as hard. **You're more of a surefire thing.**"*
+- **Warhol, updated:** *"**the future is now. And all of you can manufacture your own fame. You don't
+  need the gatekeepers to anoint you.**"*
+
+## ★★★★ Framework 72 — Be a non-fungible human (2025-08-28)
+
+The clearest statement of **why he dresses as he does** — a refusal of a category, not a taste:
+
+> *"When you think of an Asian man, what do you think of? **Hacker, nerdy, good with math, quiet,
+> demure** — somebody who **doesn't take up a lot of space. And when I think about that, that makes me
+> upset, because I'm none of those things. I'm loud. I'm opinionated. I love design.**"*
+
+> *"**I can borrow parts of different cultures to make it a little confusing for people as to who they
+> think I am.** I borrow from **sartorial sources like Esquire and GQ**, but I also **borrow from the
+> streets and go hard on the hip-hop influences.** By combining those things, **I make it difficult for
+> people to put me into a category of everyone else. Therefore, I become a one of one.**"*
+
+> ★★★★ *"**Don't be a fungible human. Be a non-fungible human.**"*
+
+**Related:** ★★★ **"personal *bland*"** — *"a lot of you, that's what you're building right now. **It's
+deliberately beige for a reason**"* — and ★★★ **never assume anyone knows who you are**, learned at
+VidCon when the queue asked *"who are you?"*: *"**I was hurt a little bit.**"* Plus **the one-degree
+rule**: *"**it doesn't take a lot. If everyone's wearing a blue suit, wear a red suit**"* — with the
+Serengeti argument (*"if something stands out, we notice it right away"*) and *"**it's called a
+uniform because it means the same.**"*
+
+## ★★★ Framework 73 — Play against type, and the red shirt
+
+> *"**What does the prototypical person in your space do, say, or write about?** Write a list of
+> everything they do. **And everything you do must be different — or at least one of the things you do
+> must be different.** Otherwise you're **giving people no reason to follow you.** … **You don't want
+> to be the poor man's Brad Pitt.** … **That's how you unclone yourself.**"*
+
+> ★★ *"If you don't do this, you risk becoming **a red shirt** — the generic disposable character on
+> Star Trek with a very high probability of dying. **So in life, if you ever wake up and you're in a
+> red shirt with a Star Trek uniform, all you have to do is change your shirt.**"*
+
+With **Picasso** (*"the secret to originality is your ability to hide your sources"*) → *"**be
+inspired by music, by plays — not other directors directing the same genre**, because **you'll just be
+the poor person's version of that.**"*
+
+## ★★★ Framework 74 — The repeatable story ✅ credited to Kier McLaren (2025-08-28)
+
+> *"**I learned this concept from my business coach, Kier McLaren**, who told me: **you need to tell a
+> story that's repeatable.** To which I asked: what is a repeatable story? **It's a story that is
+> self-contained and easy enough to remember that other people do the heavy lifting for you.**"*
+
+⚠️ **This corrects the [[../../sources/2025-07-29-yt-hDlWbmH96hw|VidCon]] telling, which presented the
+concept without a source.** With the case: **Harland Sanders**, who founded KFC in his 70s — *"**growing
+up, I thought Colonel Sanders was a mascot, a fictitious character**… and for some reason, when I know
+he's a real person, **I have a deeper connection to deep-fried wholesome chicken.**"* → *"**dig deep
+into your story bucket and find your 11 secret herbs and spices.**"* And **Michael Margolis**: *"a
+product or service without a story is a commodity"* → *"**no story, no brand.**"*
+
+
 ## Influences credited (not Chris's originations)
 
 - **Marty Neumeier** (*The Brand Gap*, *Zag*) — the brand-as-gut-feeling definition and

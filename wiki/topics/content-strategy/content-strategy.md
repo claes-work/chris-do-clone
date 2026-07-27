@@ -3060,6 +3060,169 @@ Given the datum that the average channel needs **492 videos** to reach a million
   *"what's this person going to do with it?"*
 
 
+## 67. ★★★★ The 9-1-1 formula (2025-09-16)
+
+Named, and framed as an emergency: *"there's a simple formula. **It's 911. You're going to call 911.
+It's an emergency.**"* Given to a room whose content *"nobody looks at"* — *"**it sucks, doesn't it?**
+When you put your heart and soul into something **and it just gets nothing.**"*
+
+| Part | What it is | The rule |
+|---|---|---|
+| **9** | **Pure value, no selling at all** | *"**Don't mix up the waters.** Don't do 90% value and then 10% buy-my-stuff — **because as soon as you do that, we say: oh, your whole intent of giving me value was to serve this other thing. So you're robbing yourself of the goodwill you've just created.**" |
+| **1** | **Sell, unapologetically** | *"**When you sell, sell. Don't try to be shy about it.** … **You can do this unabashedly, without reservation, because you've already given the value.**" |
+| **1** | **You being you** | *"**Where are you in all of this stuff?**" |
+
+★★★★ **The third slot exists because of a mistake he made** — and the formula is worthless without it:
+*"because **I identify as a teacher. I want to teach people. And I was like: nobody wants to hear from
+me. Who cares about me?** And then I heard from a friend of a friend: '**yeah, his stuff is cool, but
+I don't know who this guy is. I don't trust him.**' So there's **trustability** — and, I think more
+important, **relatability.**"*
+
+**Tolerance and hard limit:** *"it could be **7-1-1**. But **don't flip the equation. Don't do nine
+pieces of selling and one of value. Don't do nine pieces of personal content. The ratio should be
+value-led.**"* Payoff: *"when you say 'buy my stuff', **people will be thrilled** — *gosh, I've been
+wondering how to give you money.* And **don't make them work so hard to crawl through the internet and
+find it. Just tell them.**"*
+
+## 68. ★★★★ The sequence lesson — load the ask up front (2025-09-20)
+
+✅ **The same problem as §67, solved the other way. Teach them together, never as rivals:** *separate
+the posts*, or *front-load the ask.*
+
+The failure he names, implicating himself — *"**and I'm guilty of this too, so let's just be real**"*:
+*"you try and write a post about an idea **that just conveniently ends with the ask**… and then [they
+think] **oh, I see why you said all those things. It's 'cause you want me to do something. And then it
+starts to have that scent of being disingenuous.**"*
+
+**The demonstration:** *"if you say — *you're really attractive, you're really smart… **by the way, can
+you drive me to the airport?*** **See what happens there? You negate everything that you said before,
+because the ask is really clear.**"*
+
+> ★★★★ **The fix:** *"**Load the ask up front, and then give the compliment or tell the story.** … **This
+> way they already know what the ask is, and then you can hit them with the compliment.** … **The order
+> does matter. Sequence does matter.**"*
+
+## 69. ★★★★ Content is not a scorecard (2025-09-20)
+
+> *"**If you're using social media as a scorecard, you're playing the wrong game.** … **When you start
+> measuring every post by performance, you stop creating with intention.** … **For me, creating on
+> social media is just to learn about who I am and what my thoughts and ideas are.**"*
+
+★★★★ **How to read negative feedback** — the reframe that removes the sting without discarding the
+signal: *"it's not *oh my gosh, you don't like me.* **The way I interpret that is: I'm not being clear,
+or I should have been more careful with the words** — because **my intention is not to make you upset.
+I'm trying to help. And clearly, in this instance, for that person, it wasn't helpful.**"* →
+*"**the whole point of communication is to make sure transmission and receiver are in alignment.**"*
+
+★★★★ **Emotional regulation as sovereignty:** *"**we don't want to have our emotional regulation be
+exported, or be in control by someone other than us.** … **If you wake up and feel a high high — or a
+bottomless amount of depression and anxiety — it's a sign that so much of your self-worth is placed in
+the hands of strangers.**"* Via **David C. Baker**: *"**you gain clarity through articulation.**"*
+
+## 70. ★★★★ You don't need a call to action every time (2025-09-20)
+
+> *"**Not everything you publish has to teach, convert, or call someone to action. You can post without
+> a takeaway.** … Sometimes I create to be transparent. Sometimes to share something funny. **Sometimes
+> because I need to get it out of my system.** **We don't expect every conversation with a friend to end
+> with advice — so why do we treat content that way?**"*
+
+> ★★★★ **The cost of always teaching:** *"in your zeal to create content that always teaches, **you
+> create an air of craftsmanship, of control, that keeps you and your audience from really connecting.
+> People just sometimes want to see you unfiltered and unplugged.**"* → *"**content is about connection
+> — and sometimes polish gets in the way of that.**"*
+
+## 71. ★★★★ The curse of knowledge (2025-09-20)
+
+> *"**We forget that there was a time in which we struggled with something.** If you're 5, 10, 25 years
+> in, **you have to work really hard remembering how difficult it was for you when it was year one.**"*
+> → *"you're giving someone **the express pass**… **I'm not going to eliminate the pain, but I'm going
+> to reduce the time in which you feel that pain.**"*
+
+> ★★★★ **The guiding principle:** *"**when I start to write and create content, I think about what it's
+> like to be a beginner again.**"*
+
+## 72. ★★★★ Chunking, or the rule of five (2025-08-05)
+
+> *"**Whatever you want to teach, break it down into five things. Five steps. It's always five. It's
+> never seven, it's not three — always five.**"*
+
+Worked live on design (**contrast · repetition · alignment · details · the X factor**), then recursed
+one level (**size · weight · texture · shape · colour**). Two rules attached:
+
+- **Prioritise, and mean it:** *"**the first thing is the most important thing. If you don't have
+  contrast in your design, it sucks.**"*
+- **Recurse to the terminus, then stop:** *"**then what the hell is contrast? Then you do five of
+  that**… **if it needs no additional explanation, we've come to the terminus.** You may go three
+  layers in, **but usually not more than three.**"*
+
+> ★★★★ **The payoff that makes it a content engine, not just a teaching aid:** *"**how many ways can you
+> show size in contrast? That's infinite content.** … **Then you just give example after example after
+> example. Your audience will grow.**"*
+
+## 73. ★★★★ The bubble of broad appeal (2025-08-05)
+
+> *"Here's where you guys get it wrong. **You make niche content**… that's your expertise, and that's
+> good. **But you have to wrap it in a bubble of something that has broad appeal. You have to meet the
+> audience where they're at.** **Find something everybody's already talking about and understands — and
+> then you build the bridge to your niche thing. That's how you do a knowledge gap.**"*
+
+**Neil deGrasse Tyson's field goal** as the case: a championship kick hits the upright and goes in;
+Tyson explains that the stadium's location, the Earth's rotation and gravity made it **better than
+50-50** — 25 seconds to record, enormous reach, and the local paper had already run *"we won because it
+was ordained by God."*
+
+> ★★★★ *"**Had he talked about the Earth's rotation at the beginning, no one would even care.**"*
+
+## 74. ★★★★ Writing is thinking made visual (2025-09-11)
+
+Derived live from a definition he already carries: *"**what is typography? Typography is thinking made
+visual.** But we can borrow that and say: **what is writing? Writing is thinking made visual.** So
+**when you're leaving a comment, it's your opportunity to know what it is that you're really
+thinking**… **we all need practice to articulate what it is that we know.**"*
+
+## 75. ★★★★ Heuristics under overload — the mechanism beneath social-as-résumé (2025-09-11)
+
+> *"It's an **increasingly complicated world where we have thousands of marketing messages sent to us
+> every single day, on every single platform. Our capacity to process is very low. So we're looking for
+> heuristics — little shortcuts that let us know: this is an honest person.**"*
+
+✅ **Attach this to the social-as-résumé material.** It converts that claim from an observation about
+vanity metrics into an argument about **cognitive load** — and it is the version that survives the
+obvious objection. Restated on [[../../sources/2025-09-14-yt-TE8qfhD4b8I|2025-09-14]] without the
+platform: *"when I say social, **I don't mean social media. I mean how other people see evidence of
+competence or expertise**… **these are markers, shorthand, heuristics for something else.**"*
+
+## 76. ★★★ Consistency in *how*, not how often (2025-09-14)
+
+> *"Both require a level of intentionality, effort and **consistency in how you show up. Not consistency
+> in the frequency of posting, but how you show up.**"*
+
+Because the failure is recognisability: *"**I can't recognise you** — not physically, but because
+**you're showing a personality trait I've never seen in you before.** … **You've lost my trust.**"*
+With **Austin Kleon** (*Show Your Work*): *"**to be found, you must be findable**"* → *"**we have to
+master the game of being known.**"*
+
+## 77. ★★★ Craft rules, and the Dip's scarcity payoff
+
+- **Cut for the person coming in cold:** *"**we know what we're talking about, but we're not cutting the
+  video for us.**"* He attributes a **50M-vs-9,100-view gap between two clips of the same workshop** to
+  which editor cut them.
+- **Learn before you scale:** *"**innovate and learn as you go, versus moving towards efficiency.
+  Efficiency is good once you figure out your formula** — but until then, stay away."* With the
+  ten-cakes argument, and its corollary for weak posts: *"**you make 10 bad cakes, get rid of the 10 so
+  people don't have a bad sample.**"*
+- ★★★★ **The Dip, now with the scarcity payoff** (2025-08-28): *"**people don't fail, they quit.** …
+  When things get really hard, **they're supposed to be** — because **difficult things are a natural
+  obstacle**, and **things that are rarely achieved, things that are scarce, are valuable. So if it was
+  easy for everyone, it wouldn't be worth much.**"*
+- **Refusal is participation:** *"**that amount of resistance or reluctance that you're feeling IS the
+  thing that's holding you back**… **when you're not activating your brand's potential, you're
+  participating in its own demise.**"*
+- ★★ **Three questions to excavate your story:** backstory (*"**what birth order am I in?**"*), the
+  moments of **peak emotional height** (*"there's a reason why those pop up to your memory first"*), and
+  **the transformative people** (*"who reframed it for you"*).
+
+
 ## Sources
 
 - [[wiki/sources/2015-11-29-yt-z7Y9TKfgstE]] — "Is Your Design Resume Still Relevant?" —

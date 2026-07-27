@@ -4039,6 +4039,234 @@ well."*
 > coaches and consultants.**"*
 
 
+## 95. ★★★★ The three ingredients of magnetism (2025-09-16)
+
+Presented as an empirical finding, not a theory: *"**I've done this with a couple of hundred people.
+It's almost always the same thing.**"* The prompt is *think of someone you admire, living or dead, with
+something magnetic about them.*
+
+1. ★★★★ **Self-acceptance — not self-awareness.** *"**I used to say it was self-awareness, but I don't
+   think it's self-awareness. It's self-acceptance.** It's one thing to be aware, but it's another,
+   more powerful thing **to actually accept who you are.** … They're not there trying to prove anything.
+   **They love themselves so much that they leave room for you to be you** — a guru, a teacher, a
+   lover, a partner, a spouse; it doesn't matter."*
+2. ★★★★ **Self-confidence, defined.** *"**They believe they have the tools and resources to solve any
+   problem. That is the definition of self-confidence.** It's not the braggadocio — *I bought this
+   house, I drive that car.* **People often mistake arrogance with self-confidence. They're totally
+   different animals.**"*
+3. ★★★★ **True vulnerability.** *"**In order for you to be really strong, you have to be able to be
+   comfortable with what makes you really weak.** … **This is what's ugly about me. And I've come to
+   accept that part. And if you don't love that part — that is just who I am. And I'm not going to
+   apologise for it.**"*
+
+## 96. ★★★★ Humility is a false estimation — and arrogance is not its opposite (2025-08-21)
+
+**He refuses the compliment first:** *"'you're really humble' — **I don't think of myself as humble.
+Actually, I'm offended that you say I'm humble. I really am.**"*
+
+**Then he goes to the dictionary rather than the poster** (*"having a low estimation of one's own
+importance"*) and shows the audience's own definitions colliding: *"**when you put others above you,
+the inverse is you put yourself below them. And that's what you all are doing all the time.**"*
+
+> ★★★★ **The marble jar.** A jar holds **100** marbles. A low estimation guesses **40**; a high one
+> **140**; the best is **100**. → *"**when you're humble, you're giving me a false estimation. It's bad
+> for you. It's also bad for your client. It's bad for your team. It's bad for your family — because we
+> need to know.** How much fuel is in the car? How much food is in the pantry? **We don't want a high
+> estimation and we don't want a low estimation.**"*
+
+**The sales consequence, run live:** *"'Do you do a good job?' 'Sure.' — **that's not humble.** The
+humble answer is *no, others do better.* **Me as a consumer — should I rush out and buy from you?**"*
+
+> ★★★★ **And the move that keeps this from being a defence of ego:** *"people think humility is good
+> because **they're afraid the opposite is arrogance.** … **It is not.** You know what arrogance is?
+> **Overcompensating for low self-esteem. Anybody who's arrogant is not operating from a high
+> estimation of themselves. It's a mask.**"*
+
+> ★★★★ **With the critique relocated, not dismissed:** *"**how they treat others is where we have the
+> critique. How they talk about themselves is where we have the critique.**"* → *"**let's just go for a
+> fair estimation. Not low. That's the problem.**"*
+
+⚠️ **Tall poppy syndrome** is named as the enemy (*"we create a culture where **when somebody does well,
+we cut them down**"*), and he concedes he probably won't win: *"**I don't believe I can effectively
+persuade you to change your mind for 40 years of culture.**"*
+
+## 97. ★★★★ Talent vs. skill — and the move that hides between them (2025-07-13)
+
+> *"**Talent is the stuff that you were born with. Skills are stuff you acquire over time and
+> practice.**"* → *"**Talent I cannot teach you, but skill I can.**"*
+
+The hard version first: *"**maybe you're just not that good at it. Just because you want to do something
+doesn't mean you're good at it.** … **Because you want something doesn't mean you get to have it.**"*
+
+> ★★★★ **The diagnosis that makes it useful:** *"a lot of people mix these two things up. '**I'm not
+> good at that, I don't have talent for it**' — but what they really mean is '**I haven't put enough
+> time into learning the skill.**' **And what that is, is a self-preservation mechanism. You're
+> defending yourself against the idea that it's going to take a lot of work.**"*
+
+**The obligation:** *"what we owe to ourselves is **to put in as much time acquiring the skills, so
+that we know if there's a talent gap or a skill gap.**"* And the wrong-lane case, via **Virgil Abloh**:
+architecture applied to fashion — *"**he brought a visual language and a discipline that people in that
+space did not understand.**"* → *"there's a lot of us that have **a follower mindset**… **and it's when
+you go outside of that that you actually have a real breakthrough.**"*
+
+## 98. ★★★★ The double-sided safety net, and artificially handicapping yourself (2025-07-13)
+
+**The decision chain:** the cheaper school over the best one; then the job that keeps you near home.
+*"**You continue to make decisions consistent with someone who's artificially handicapping themselves,
+and you never gave yourself the best shot to succeed** — for a lot of reasons, **mostly comfort.**"*
+
+> ★★★★ **The generalisation**, argued through ethnic enclaves — *"little Ethiopia, Japantown,
+> Koreatown"*: *"**we go for comfort and safety, because our people, our culture, the shops, the foods,
+> our uncles and aunties feel safe. That safety comes at a cost. It's a safety net. The net catches you
+> when you fall — it's awesome. But it catches you when you try to fly, too. The net is a double-sided
+> net. You don't know that.**"*
+
+## 99. ★★★★ Sacrifice, not burnout — and difficult → scarce → valuable
+
+Told that being good at something you don't enjoy is burnout: *"**No, we call that sacrifice. You
+sacrifice some momentary joy for a bigger joy, which is freedom.**"*
+
+> ★★★★ *"**Everything worth having is not going to be easy. It's going to be hard. If it weren't hard,
+> everyone would do it and it wouldn't be valuable. Difficult things create scarcity. Scarce things are
+> valuable.**"*
+
+With his stated payoff — *"my favourite expression"* — *"**sleeping very comfortably on a mattress of
+cash.**"* ✅ Restated five days later as the Dip's payoff: *"**people don't fail, they quit.**"*
+
+## 100. ★★★★ Inversion — "how would you hide in plain sight?" (2025-07-29)
+
+Credited to **Charlie Munger**: *"instead of trying to do something, **they look at what the opposite
+thing is, to learn what they should do.**"* Framed as an FBI/CIA infiltration exercise.
+
+- **In person:** *"**every industry, every community has a uniform.** You wear the uniform of the people
+  and you fit right in — the hair, the length, the colour, the makeup, the shoes, the music."*
+- **Online, easiest first:** **(1) don't do anything** — *"**some of you are doing a great job of
+  that**"* — and **(2) copy everyone.**
+- **The full blend-in profile:** *"you participate in **groupthink**… **you take up very little
+  space**… **copy-and-paste content strategy. You spray and pray.** You never engage. **You say the
+  most empty things. You straddle the fence. You never have a point of view. Shiny happy all the time,
+  forever.**"*
+- ★★★★ **Then the turn:** *"**now just take a minute and search in your mind: how did I show up today?
+  How have I been showing up online?** … **Map yourself against that and give yourself a score.**"*
+
+With **Paul Arden**: *"**safe is risky and risky is safe**"* — and the summary: *"**the best way to
+hide in plain sight is do branding. And I'm here to talk to you about branding, not blending.**"*
+
+## 101. ★★★★ The "too much" list — an exercise, not an aphorism (2025-07-29)
+
+> *"**Steve Jobs is too obsessive. Oprah's too emotional. Elon's too weird. Gary Vee is too intense.**"*
+> → *"**Your perceived flaws aren't flaws at all. The flaws are your advantage.**"*
+
+**Run it as a procedure:** *"**create a 'too much' list for yourself. What do people accuse me of being
+too much of?** I'm too loud, I'm too this, I'm too that. **Just go to town** [and don't judge]. **Then
+we reframe it and we flip it: who needs this? Why is this an advantage? How might this be a gift?**"*
+
+> ★★★★ *"**This is the beginning process of leaning into your shadow self and healing from inside — to
+> remember those are good things, not bad things. And you double down on them.**"*
+
+**Its corporate form** — turning the weakness into the message: **Montana tourism** (*"there's nothing
+here to do"* → *"nothing here"*), **Southwest** (*"fares"*), and **Mini Cooper** (*"instead of competing
+with the SUVs, **they just lean into being really small**"* — *"packs a punch"*, *"less motor"*).
+
+## 102. ★★★ Yin and yang — and the asymmetry that matters
+
+Worked live with a room: **too tall** (the car, the head, economy travel — *"it's great for me"*),
+**too rich** (*"**you never know if somebody really likes you for you**"*), **too smart** (*"**smart
+people overthink everything. And they're annoying to be around most of the time**"*), **too short**
+(*"we consume less resources"*), **broke** (*"**you get really inventive**… and **you know who your
+friends are, 'cause nobody's hanging out with poor broke people for no reason**"*).
+
+> ★★★ *"**It's easy to see what might be bad in the good. But what's the good in the bad? That's a lot
+> harder skill to develop.**"*
+
+## 103. ★★★★ Attachment to the old self, and good vs. excellent (2025-08-23)
+
+- ★★★★ *"**It's the attachment to the old self that creates resistance to you becoming the person you
+  should become.**"* — and he includes himself: *"**I have the same problem. I have attachment to
+  things, to ideas.** And I've learned some things I can stay attached to that won't harm me, and some
+  things will totally ruin me. **So I need to be able to move on. And you can see I move pretty quickly
+  relative to other people — and I just need people to keep pace with me.**"*
+- ★★★★ *"**We're showing up to do a good job, but we're not showing up to be excellent. That's the
+  difference.**"* — with the instruction that precedes it: use your work **as a lab** (*"if we change a
+  thumbnail 300 times, **what is it we're learning?** And eventually **you do it intuitively**"*), and
+  **be a student of the game.** ⚠️ See the standing contradiction note below.
+- ★★★★ *"**You can't make 10 times more money being the same person. You have to be 10 times the person
+  you are today.**"* → *"**that's why the game of self-development is so important. That's the game I'm
+  in.**"* With the framing question: *"**everybody needs to do something in their life that they're not
+  doing, but they won't do. What is it you need to do? And then we'll figure out why you're not doing
+  it.**"*
+- ★★★ **The anchor and the compass:** gratitude *"**is like an anchor, and we need a compass. The anchor
+  keeps us grounded, but it doesn't allow us to find direction.**"* · **The tip of the spear:** *"you
+  were doing better than most of your friends… **that's always a sign that you're in the wrong circles
+  of people.**"*
+- ★★★ **Find one or two people and just do what they say:** *"**when I say a couple, I mean two or
+  less. One. And just do whatever they tell you to do**… **Don't even trust yourself.** Because you're
+  saying quite loudly *I don't know what I'm doing* — **but when I'm in the presence of someone who does
+  know, I'm not going to listen because I trust myself more. Makes no freaking sense whatsoever.**"*
+- ★★★ **The gift people sabotage:** *"**they have a gift and they're doing everything in their life to
+  sabotage their gift**… **their weakness is they're smart and they can do lots of different things. So
+  they won't pick one thing.**"*
+
+## 104. ★★★★ Don't create from insecurity — and the surrogate (2025-09-20)
+
+> *"**No amount of likes will fix insecurity. The internet can't validate what you haven't accepted in
+> yourself. If you're chasing attention to fill a gap, you'll keep chasing even when you succeed.** …
+> **Don't let social media become a mirror for self-worth. It will lie to you.**"*
+
+> ★★★★ **The diagnostic:** *"ask yourself — **what is it about myself that I don't like, or need
+> affirmed by strangers?** And usually we recognise a pattern: **the internet, social media, the
+> following, the algorithm is a surrogate for someone else in your life. A parent, usually; an older
+> sibling; a mentor; a teacher — who at one point withheld love, respect or affirmation from you that
+> you can't get. But we don't have the power when we're young. And so now we're adults trapped with
+> this unresolved childhood trauma — and now we're seeking strangers to fill that void.**"*
+
+> ★★★ **And the recommendation, stated plainly:** *"**whose approval do I need to get? Who needs to give
+> me permission?** … And if possible, **start working with a therapist. Have these conversations in
+> open, honest and transparent ways… tell your truth so that you can work through this problem.**"*
+> ✅ Consistent with *"**go to therapy. Learn about who you are**"* as step one in personal branding
+> ([[../../sources/2025-09-16-yt-eS9LtexTMFk|2025-09-16]]).
+
+## 105. ★★★★ The artists survived childhood (2025-08-07)
+
+> *"I have this **fundamental belief that all of us are creative — non-creatives as well.** And
+> **somewhere along the way, the creativity was taught out of us. And the artists in the world are the
+> ones who survived childhood and didn't go along with the program. They're the rebels. They're the
+> non-conformists.**"*
+
+✅ **This is the premise underneath *"the things that have been taught out of you"*** in the VidCon
+keynote. Promote them together — that is the consequence, this is the claim.
+
+## 106. ★★★ Inner peace is what "attractive" actually means (2025-06-29)
+
+> *"**I've stopped caring about what people think. I care about people, but I don't care about people's
+> opinions of me.** … **you're drawn to this thing because you're looking for that peace yourself.** And
+> if somebody else is emitting this energy, **they feel seen, they feel safe, and they want to learn
+> from that.**"*
+
+> *"When we talk about **being attractive**, **I'm not talking about physical beauty** — I'm talking
+> about **this inner peace, this joy for life, this optimism that's still rooted in reality**… **this
+> powerful contentment that you're okay, and you're very present and grounded in the moment.** I assume
+> **the Dalai Lama** is very attractive because **there's just inner peace emanating from their pores.
+> That's my theory.**"*
+
+With **the paradox principle**: *"**when you stop trying to impress people, people might be
+impressed**"*; *"**when you stop caring about what people think, people will start caring about what you
+think about**"*; and the close — *"**if you want to be an impressive person, stop trying to impress
+people. No one who's impressive is ever really trying to impress you.**"*
+
+## 107. ⚠️ Two things held open
+
+- ⚠️⚠️ **THE ALGORITHM CONTRADICTION.** On **2025-09-20**: *"**I've never cared about the algorithm,
+  never studied best posting times, never followed formulas.**"* On **2025-08-23**, four weeks earlier,
+  §103 above: **be a student of the game**, read the YouTube reports, test thumbnails *"300 times"*.
+  **Both are his.** A division of labour is the likely reading — **he never says it. Never cite either
+  half alone, and do not supply the reconciliation.**
+- ⚠️ **Selective editing vs. his own fidelity rules.** *"**Don't let facts get in the way of a good
+  story**… my kids [say] 'that's not exactly how it happened.' **Yeah, but that story is boring**… **I
+  got the mic.**"* Told against himself, and in tension with his insistence elsewhere on citation and
+  never fabricating. **Hold the tension.**
+
+
 ## Cross-cutting patterns
 
 - **Language is the lever.** War Jitsu (§3), "share" not "teach" (§7), defining words like

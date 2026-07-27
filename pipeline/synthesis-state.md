@@ -6,61 +6,61 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **P2 long-tail through ingest batch 184 (L2=949) — all L2 source pages 2014 → 2025-09-20 (@thefutur; through the September-2025 era).** Synthesis pass **19** ran 2026-07-28 → system-prompt **v21** (`persona/` only, declared up front). ⚠️ **Pass 19b is PENDING and must run next: topic hubs + entities.** Do not advance past this line until 19b is done.
+Synthesized through: **P2 long-tail through ingest batch 184 (L2=949) — all L2 source pages 2014 → 2025-09-20 (@thefutur; through the September-2025 era).** Synthesis passes **19 + 19b** ran 2026-07-28 → system-prompt **v21**. ✅ **Pass 19b closed the gap pass 19 declared: all 7 active topic hubs updated (+29 sections), the authenticity-gap page rewritten around the 2025-09-16 version, 5 entities deepened and 1 created.** No synthesis work is outstanding.
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
 
-- [ ] **pass 19b · topic hubs + entities (June–September 2025 era, L2 949)** — declared up front by pass 19,
-  which deliberately touched `persona/` only. **Must run before any further ingest synthesis.** Work list:
-  - **`topics/branding`** — **branding is the act of remembering** (*original → origin*); **don't chase new**
-    + **world-building**; **don't chase better** + **products=features / brands=meaning**; **the
-    good/different quadrant**; **attention IS the economy**; **the age of character → the age of
-    personality**; **riches in the reaches**; **be a non-fungible human**; **personal *bland***; **never
-    assume anyone knows who you are**. ⚠️ **The 2025-07-29 VidCon page becomes the anchor citation**;
-    demote the shorter tellings to corroboration.
-  - **`topics/branding/authenticity-gap`** — **update with the 2025-09-16 version**: it **defends social
-    norms before critiquing them**, concedes *"I don't think it's possible to be 1,000% authentically
-    you"* (the Cheetos test), admits **the risk**, and makes **"go to therapy"** step one. Also add
-    *"we walk around fractured because we're not in love with all of us."*
-  - **`topics/content-strategy`** — **the 9-1-1 formula** (with the third slot's origin story); **the
-    sequence lesson**, framed **with 9-1-1 as two solutions to one problem**; **chunking / the rule of
-    five**; **the bubble of broad appeal** + the Tyson story; **content is not a scorecard**; **no CTA
-    every time**; **the curse of knowledge**; **writing is thinking made visual**; **heuristics under
-    overload** (attach to social-as-résumé); **consistency in *how*, not frequency**; **cut for the
-    person coming in cold**; **the Dip's scarcity payoff**; **refusal is participation**.
-  - **`topics/mindset`** — **the three ingredients of magnetism**; **humility as false estimation** + the
-    **marble jar** + **arrogance as overcompensation** + the relocated critique; **talent vs. skill** and
-    the **self-preservation mechanism**; **the double-sided safety net**; **artificially handicapping
-    yourself**; **sacrifice not burnout**; **attachment to the old self**; **good vs. excellent**;
-    **inversion**; **the "too much" list**; **the artists survived childhood**; **inner peace as
-    *attractive***; **don't create from insecurity** + the surrogate-approval diagnosis.
-  - **`topics/business`** — **the three-phase delegation method** + the sober-ceiling warning; **sell the
-    outcome not the activity**; **bad work defined by outcome**; **$400K project vs. \$120K sponsorship**;
-    **the Futur squeeze from three sides**; **all strategy is autobiographical** as a standing caveat.
-  - **`topics/sales-clients`** — **don't sell to a group who can't afford you**; **the commitment trap**
-    and **acclimation** (sushi / interior designers / Paula Scher); **the two Blind-era disqualification
-    heuristics**; **the podcast criteria** + the boundary passage; **the listening redirect**; **the
-    conference script** (name last); **trust is hard to build**; **followers ≠ influence**.
-  - **`topics/pricing`** — **no such thing as a commodity** + the full ladder; **time delay + certainty of
-    outcome**; **the guarantee rule**.
-  - **`topics/design-craft`** — **the print-it-out test**; **the perfection trap with its waste
-    argument**; ⚠️ **the good-enough revolution as an open question**; **the rule of five applied to
-    design** + the architecture demonstration; **recording in high fidelity**.
-  - **ENTITIES** — **`blind`**: the **pre-social marketing stack** with the untraceability grievance, and
-    **the credit list** (Peralta, Gnarls Barkley, Audi A7, UFC, Xbox, Coldplay). **`the-futur`**: the
-    2025 squeeze; 2.7M→~3M followers; 1,000→1,100 members; the **\$15/month library**; **Content Lab**.
-    **`aaron-draplin`**: the fullest telling. **`kier-mclaren`**: ✅ **credit him with the repeatable
-    story**. **`jose-caballer`**: the *"no way, Jose"* telling. **`matt-essam`**: ✅ **already corrected at
-    ingest** — verify. **`influences`**: add **Ronald Baker**, **Kindra Hall**, **Michael Margolis**,
-    **David C. Baker**, **Paul Arden**, **Anna Lappé**, **Charlie Munger**, **Tansel Ali**.
-    **NEW**: `robert-brunner.md`, `greg-logan.md`, `matthew-lakajev.md`, `klaus-kleinfeld.md` — all
-    **guest context, do-not-train**.
-  - **Carried debt still open**: Part 2 of the Jule Kim listening workshop; earlier Priestley and Tom Ross
-    episodes; a Jasmine Star stub; **the FIRST Jasmin Alić episode (confirmed to exist, still
-    unlocated)**; a Lakajev part two (implied).
+_(none — passes 19 and 19b both done; **synthesis is fully caught up through batch 184 / L2 949.** Next checkpoint: after ~10 more ingest batches or an era boundary.)_
 
 ## Done checkpoints
+
+- [x] **2026-07-28 · pass 19b · (no version bump — v21 stands)** — **closed the gap pass 19 declared up
+  front.** **TOPIC HUBS (+29 sections).** `branding` **frameworks 67–74** (**branding is the act of
+  remembering**; **don't chase new** with the **restart loop** and its positive form **world-building**;
+  **don't chase better** + *products=features / brands=meaning*; **the good/different quadrant**;
+  **attention IS the economy** + *character → personality*; **be a non-fungible human**; **play against
+  type / the red shirt**; ✅ **the repeatable story credited to Kier McLaren**). `content-strategy`
+  **§67–77** (**the 9-1-1 formula** with its third slot's origin; **the sequence lesson**, framed **with
+  9-1-1 as two solutions to one problem**; **content is not a scorecard**; **no CTA every time**; **the
+  curse of knowledge**; **chunking / the rule of five**; **the bubble of broad appeal**; **writing is
+  thinking made visual**; **heuristics under overload**, attached to social-as-résumé; **consistency in
+  *how*, not frequency**; craft rules + **the Dip's scarcity payoff**). `mindset` **§95–107** (**the
+  three ingredients of magnetism**; **humility as false estimation** + the marble jar + **arrogance as
+  overcompensation** + the relocated critique; **talent vs. skill** and the **self-preservation
+  mechanism**; **the double-sided safety net**; **sacrifice not burnout**; **inversion**; **the "too
+  much" list**; **yin/yang**; **attachment to the old self** + **good vs. excellent**; **don't create
+  from insecurity** + the surrogate diagnosis; **the artists survived childhood**; **inner peace as
+  *attractive***; and ⚠️ **§107 carrying the algorithm contradiction and selective editing, both held
+  open**). `business` **§74–80** (**all strategy is autobiographical** as a hub-wide caveat; **the
+  three-phase delegation method** + the sober-ceiling warning; **sell the outcome not the activity**;
+  **bad work defined by outcome**; the **$400K vs. $120K** comparison; **the Futur squeeze from three
+  sides**; **the pre-social stack** and its untraceability grievance). `sales-clients` **§101–107**
+  (**don't sell to a group who can't afford you**; **two Blind-era disqualification heuristics**; **the
+  commitment trap** + **acclimation**; **the conference script** with the name landing last; **the
+  listening redirect**; **the podcast criteria** + the boundary passage; **trust**, the friction ladder
+  and **followers ≠ influence**). `pricing` **§66–69** (**no such thing as a commodity** + the full
+  ladder; **time delay + certainty of outcome**; **the guarantee rule**; **why the 50% offer is 50%**).
+  `design-craft` **§41–45** (**the perfection trap with its waste argument**; **the print-it-out test**;
+  ⚠️ **the good-enough revolution as an open question**; **the rule of five applied to design** + the
+  architecture demonstration; **recording in high fidelity**, now with its origin).
+  **TOPIC PAGE REWRITTEN:** `branding/authenticity-gap` — **the 2025-09-16 version is now the citable
+  one**: it **defends social norms before critiquing them**, concedes *"I don't think it's possible to
+  be 1,000% authentically you"* (the Cheetos test), **admits the risk**, makes **"go to therapy"** step
+  one, and adds *"we walk around fractured because we're not in love with all of us."*
+  **ENTITIES:** `blind` — **the credit list** and **the pre-social marketing stack** with its
+  grievance; `the-futur` — **the 2025 squeeze from three sides** (roles only, CEO ≠ COO), plus the
+  figures table and *"it's really a media production at this point"*; `kier-mclaren` — ✅ **credited with
+  the repeatable story** and, for the first time, **what he actually taught** (*"say what you think"*,
+  the question list, *"that's all the training I got"*); `aaron-draplin` — **the fullest telling**, with
+  the theatre trigger and *"why have I been hiding all this time?"*; `jose-caballer` — **the fullest
+  "no way, Jose" telling** and *"I'm not going to do this without you"*; `influences` — **17 new
+  creditings** plus **two attribution flags and one recorded error** (educate/*educere*).
+  **NEW:** `guest-context-2025.md` — a **single fence page** for Brunner, Logan, Lakajev, Kleinfeld,
+  Alić, Kane and Squibb, on the `matt-essam` model, with the cross-clone note.
+  **Carried debt still open (unchanged):** Part 2 of the Jule Kim listening workshop; earlier Priestley
+  and Tom Ross episodes; a Jasmine Star stub; **the FIRST Jasmin Alić episode (confirmed to exist,
+  still unlocated)**; a Lakajev part two (implied).
 
 - [x] **2026-07-28 · pass 19 · system-prompt v20 → v21 (compiled_from 929 → 949)** — **`persona/` only, by
   design; `19b` declared up front for topic hubs + entities.** Covers ingest batches **174–184** (L2 929 →

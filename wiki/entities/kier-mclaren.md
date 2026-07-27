@@ -379,3 +379,48 @@ defines the key word:
 Chris's gloss: *"that summarizes my whole feeling about it — **allow me the autonomy to figure it out; or
 you lead, and I'll just follow what you do.**"* ✅ **The coaching source of his general/soldier — and
 anti-micromanagement — position.** ([[../sources/2025-03-12-yt-DHt-pgda-jM]])
+
+
+## ★★★★ Credited with the repeatable story (added 2026-07-28, pass 19b)
+
+On [[../sources/2025-08-28-yt-1wcRqeM2m8c]] Chris attributes a concept the
+[[../sources/2025-07-29-yt-hDlWbmH96hw|VidCon keynote]] had presented **without a source**:
+
+> *"**I learned this concept from my business coach, Kier McLaren**, who told me: **you need to tell a
+> story that's repeatable.** To which I asked him: what is a repeatable story? **It's a story that is
+> self-contained and easy enough to remember that other people do the heavy lifting for you** and tell
+> other people about you."*
+
+⚠️ **Correct the attribution wherever the repeatable story is cited.**
+
+## ★★★★ What he actually taught, in Chris's words (added 2026-07-28, pass 19b)
+
+From [[../sources/2025-06-15-yt-EeEsglitUe8]] — the corpus had the relationship, the duration and the
+~$250k figure, but **not the content**:
+
+**Lesson one — "say what you think."** *"Number one is **to say what you think.** It's a really weird
+thing to say — like, that's important? … **What I learned many years, maybe decades later, is that
+we're all ready to do something, but we need someone to give us permission to do that thing.**"*
+
+**The failure mode Chris names in himself:** *"Agency's like, 'let's walk you through the script.' And
+you're like, 'oh fudge — I know at a certain time I have to say something'… **so the whole time I'm not
+listening to them. I'm just getting ready to say whatever it is I'm going to say — which is a complete
+disconnect from what they just said, because I'm not even present.**"*
+
+**Kier's fix, verbatim:** *"**Why don't you ask them questions about what they just said? Ask them what
+inspired this. What would they like to have happen? Who else is bidding on this project? What kind of
+money do you have?**"* → *"the first time I did it, **I hit a bunch of dead ends.** So I went back to
+him — 'here are the dead ends.' 'Oh yeah, just say this instead.' **That's all the training I got from
+him on how to do sales.**"*
+
+★★★★ **And on why the relationship worked — which is explicitly not about the coach:** *"he was a
+special guy, because I've never experienced that before — **to have someone in your corner who
+understands business, who can hear your BS and call you out on it, and also support you.** … **It's
+less important the person. It's more important that you trust the person to do what they tell you to
+do. That's the critical part.** … **If you can listen to your child and your child has good ideas, that
+will work out too. We need to give someone permission to then give us permission.**"*
+
+✅ **"He was my business coach for 13 years"** — consistent with the 2020 telling.
+
+> ⚠️ **A comparison worth keeping** (2025-08-23): *"**I saw my former coach and mentor an hour, an hour
+> and a half each week**"* — used to argue that a protégé with constant access is under-using it.

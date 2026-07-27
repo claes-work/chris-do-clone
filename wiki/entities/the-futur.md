@@ -435,3 +435,44 @@ Also stated the same day: he is **on a TV show and has been made an executive pr
   system that exists today."*
 
 ([[../sources/2025-05-29-yt-4ZS8dMwPObk]]; [[../sources/2025-05-22-yt-PjP5wvemDLo]])
+
+## ★★★★ 2025 — one squeeze from three sides (added 2026-07-28, pass 19b) — ALL SELF-REPORTED
+
+Three disclosures in **thirteen days**. Read separately they are anecdotes; **read together they are a
+business contracting on purpose — and he frames the contraction as a gain.**
+
+| Side | Source | What he said |
+|---|---|---|
+| **Cost** | [[../sources/2025-06-03-yt-r2o9-oj9Mlk\|2025-06-03]] | He asked **his CEO** to spin off a group and take a portion of the company; the CEO **took the coaching arm**. *"**We're down the revenue from that. But we're lighter because of the overhead**… we're such a small team now — **it's mostly on the content side**… much more aligned, happier, more energetic."* |
+| **Culture** | [[../sources/2025-06-15-yt-EeEsglitUe8\|2025-06-15]] | *"**The last two years I kind of took my eye off managing the company**, and we had my **chief operating officer** hire and fire people. **Somehow the culture got sideways and it was really painful for me.** … **why are these people here? They don't even want to do what we want to do.**"* → *"**we should only hire from the community. So they believe in it**"* → *"**a little bloodletting**, and now we have a really tight core team."* |
+| **Demand** | [[../sources/2025-06-07-yt-b8iwit0yuuI\|2025-06-07]] | *"**We have a good-sized, really engaged audience that are incapable of buying anything that we do.** They will show up in droves, but **a vast majority of them are not the right fit.**"* → *"**we're actually planning on raising the price every benchmark we hit**"*, and a cadence correction from **quarterly back to monthly** (*"it was a do-or-die thing, and we weren't executing properly"*). |
+
+> ⚠️⚠️ **All self-reported, given informally on camera. The CEO and the COO are named BY ROLE ONLY and
+> are NOT assumed to be the same person.** *"Taki's mastermind"* is a caption rendering — most likely
+> **Taki Moore** — flagged, not asserted.
+
+### ★★ Figures across the era (all self-reported, dated)
+
+| Date | Figure |
+|---|---|
+| 2025-06-15 | *"**this is a dream for me**"* — on seeing another founder's ten-person travelling team; his own version: *"**I need five more** [of my collaborator]… **slowly building this organically with a very small budget.**"* |
+| 2025-08-05 | *"the **thousand-plus members** who support this channel"*; a **members-only library** |
+| 2025-08-12 | *"**we have 2.7 million followers**"*; **1,100 members** acknowledged on camera |
+| 2025-08-28 | The members-only library priced at **$15/month** — *"workshops, whiteboard sessions, extended lessons"* — ⚠️ **a different tier from the $200–250/month community**, not a contradiction |
+| 2025-08-28 → | **Content Lab**, a new product *"designed to help coaches, content creators and authors create content that consistently cuts through the clutter"* |
+| 2025-09-20 | *"almost **three million** followers"* |
+
+### ★★ What the company is now
+
+- **Two buildings in Santa Monica**, ~**9,000 ft²** combined, ~**100-person capacity**, alongside an
+  active property search (April 2025).
+- *"**We don't run like a traditional office business — it's really a media production at this
+  point.**"*
+- ★★ **A channel anomaly he volunteers** (2025-05-29): *"**we actually get more views for our long-form
+  content than we do for the cut-down of that long-form content**, because people who like the kind of
+  teaching I do **are in it for the long haul**"* — with the limitation, *"**I don't speak in sound
+  bites. I'm not thinking about the hooks.**"*
+- **The mission, restated verbatim** (2025-05-22): *"**teach a billion people how to make a living
+  doing what they love.**"*
+  > ⚠️ **Mission statements generated in a guest's live workshop on [[../sources/2025-08-07-yt-Wjyut4PVTKg|2025-08-07]]
+  > are workshop output Chris reacted to — NOT a change to the mission.**

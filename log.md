@@ -9724,3 +9724,91 @@ credit to `entities/kier-mclaren`**, a deepening of **`entities/aaron-draplin`**
 already-corrected **`entities/matt-essam`**, eight additions to **`entities/influences`**, and four
 new do-not-train guest pages (**Robert Brunner, Greg Logan, Matthew Lakajev, Klaus Kleinfeld**). The
 full work list is in `pipeline/synthesis-state.md` under Pending checkpoints.
+
+## [2026-07-28] lint | synthesis pass 19b — topic hubs and entities (v21 stands)
+
+Stage S, second half. **Closed the gap pass 19 declared up front**, so nothing was silently skipped.
+No version bump — **v21 stands**; this pass moved material into the wiki layer.
+
+**Topic hubs — 29 new sections across all seven active hubs**
+
+- **`branding` frameworks 67–74** — **branding is the act of remembering** (*original → origin*), which
+  is now the hub's anchor claim; **don't chase new** with **the restart loop**, and ✅ **its positive
+  form, world-building**, filed *with* it rather than beside it; **don't chase better** and *products
+  are features, brands are meaning*; **the good/different quadrant** (*"good is the price of entry…
+  and good is not enough"*); **attention IS the economy** and *character → personality*; **be a
+  non-fungible human**, with the stereotype it answers; **play against type** and the red shirt; and
+  ✅ **the repeatable story, credited to Kier McLaren** — correcting the unattributed VidCon telling.
+- **`content-strategy` §67–77** — **the 9-1-1 formula** with its third slot's origin story (without
+  which it is just a ratio), **the sequence lesson** framed explicitly **with 9-1-1 as two solutions to
+  one problem**, **content is not a scorecard**, **no CTA every time**, **the curse of knowledge**,
+  **chunking / the rule of five** with its *"infinite content"* payoff, **the bubble of broad appeal**,
+  **writing is thinking made visual**, **heuristics under overload** — attached to social-as-résumé,
+  because it is what makes that claim survive the obvious objection — and **consistency in *how*, not
+  frequency**.
+- **`mindset` §95–107** — **the three ingredients of magnetism**, **humility as false estimation** with
+  the marble jar and **arrogance as overcompensation** (without which the position reads as licence),
+  **talent vs. skill** and the self-preservation mechanism, **the double-sided safety net**,
+  **sacrifice not burnout**, **inversion**, **the "too much" list as a procedure**, **attachment to the
+  old self**, **good vs. excellent**, **don't create from insecurity** with the surrogate diagnosis,
+  **the artists survived childhood**, and **inner peace as what *attractive* means** — closing on
+  **§107**, which carries **the algorithm contradiction** and **selective editing** as explicitly
+  unresolved.
+- **`business` §74–80** — **all strategy is autobiographical** installed as a hub-wide caveat, **the
+  three-phase delegation method** with its sober-ceiling warning, **sell the outcome not the
+  activity**, **bad work defined by outcome**, the **$400K-vs-$120K** comparison, **the Futur squeeze
+  from three sides**, and **the pre-social stack** with its untraceability grievance.
+- **`sales-clients` §101–107** — **don't sell to a group who can't afford you**, **two Blind-era
+  disqualification heuristics** (the hub's thinnest area), **the commitment trap** and **acclimation**,
+  **the conference script** with the name landing last, **the listening redirect** as the demonstration
+  of full-value listening, **the podcast criteria** with the boundary passage, and **followers ≠
+  influence**.
+- **`pricing` §66–69** — **no such thing as a commodity** with the full ladder, **time delay + certainty
+  of outcome** (the causal mechanism the hub lacked), **the guarantee rule**, and **why the 50% offer is
+  50%**.
+- **`design-craft` §41–45** — **the perfection trap with its waste argument**, **the print-it-out
+  test**, ⚠️ **the good-enough revolution recorded as a question he holds**, **the rule of five applied
+  to design** with the architecture demonstration, and **recording in high fidelity** — now with its
+  origin attached.
+
+**Topic page rewritten**
+
+- **`branding/authenticity-gap`** — the **2025-09-16 version is now the citable one**, and it is
+  markedly more defensible than the shorter tellings: it **defends social norms before critiquing
+  them**, **concedes that closing the gap entirely is impossible** (*"I don't think it's possible to be
+  1,000% authentically you"* — the Cheetos test), **admits the strategy has a cost**, and makes **"go to
+  therapy"** step one.
+
+**Entities**
+
+- **`blind`** — **the credit list** (Peralta, Gnarls Barkley, the Audi A7, UFC, Xbox, Coldplay) and
+  ★★★★ **the pre-social marketing stack** with the grievance that explains everything he built
+  afterwards: *"**you can't actually trace any of this stuff. It was untraceable.**"*
+- **`the-futur`** — **the 2025 squeeze from three sides** in one table, with the officers **by role
+  only and the CEO ≠ COO assumption explicitly forbidden**; a dated figures table (2.7M → ~3M
+  followers; 1,000 → 1,100 members; the **$15/month library** as a *different tier*; **Content Lab**);
+  and the guard that the guest-workshop mission candidates are **not** a mission change.
+- **`kier-mclaren`** — ✅ **credited with the repeatable story**, and for the first time **what he
+  actually taught**: *"say what you think"*, the question list, the dead ends, and *"**that's all the
+  training I got from him on how to do sales.**"* Plus the line that makes it transferable: *"**it's
+  less important the person. It's more important that you trust the person to do what they tell you to
+  do.**"*
+- **`aaron-draplin`** — **the fullest telling**, with the theatre trigger and the question it produced:
+  *"**why have I been hiding all this time?**"*
+- **`jose-caballer`** — **the fullest "no way, Jose" telling**, and the detail that decided it: *"**I'm
+  not going to do this without you.**"*
+- **`influences`** — **17 new creditings** (Ronald Baker, Kindra Hall, Michael Margolis, David C. Baker,
+  Paul Arden, Munger, Anna Lappé, Tansel Ali, Austin Kleon's *Show Your Work*, Neumeier's *Designful
+  Company*, Thales, Tyson, Bruce Lee, Dolly Parton, Sinek, **Todd McFarlane as the source of the
+  bilingual self-concept**, Asimov), **two attribution flags** held unresolved, and **one recorded
+  error** — the *educate/deduce* etymology, which he hedged himself.
+- **NEW `guest-context-2025.md`** — a **single fence page** for Brunner, Logan, Lakajev, Kleinfeld,
+  Alić, Kane and Squibb, built on the `matt-essam` model: what is theirs, what is Chris's, and the
+  cross-clone note in one place.
+
+**Carried debt, unchanged:** Part 2 of the Jule Kim listening workshop; earlier Priestley and Tom Ross
+episodes; a Jasmine Star stub; **the first Jasmin Alić episode, confirmed to exist and still
+unlocated**; a Lakajev part two.
+
+**Synthesis notes:** none — passes 19 and 19b are both complete and **synthesis is fully caught up
+through batch 184 / L2 949**. Ingest resumes next iteration at @thefutur P2 (130 open).

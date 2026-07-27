@@ -325,3 +325,60 @@ from argument:
 > **preparation** work on 2025-03-31. One image, two jobs.
 
 ([[../sources/2025-05-25-yt-V5c1YGTzAYc]])
+
+
+## ★★★★ The credit list, first-person (added 2026-07-28, pass 19b)
+
+From [[../sources/2025-08-12-yt-XdNQC_zDCW0]], where he breaks his own habit — *"I'm going to tell my
+story, **which I normally never do**"*:
+
+- **Stacy Peralta** — main titles and in-film graphics for ***Dogtown and Z-Boys***, ***Riding
+  Giants***, ***Made in America***. *"People I consider **my childhood hero**… he's the OG."*
+- **Gnarls Barkley — "Crazy"** (music video). *"If you were alive around that time, that song was
+  everywhere. **And it won an MTV Video Music Award.**"*
+- **Audi** — the **A7** launch, *"the top secret project"*.
+- **UFC, Spike TV, FX** — *"talking to mixed martial art fighters that I've watched on TV from afar."*
+- **Xbox** — IP and a launch. · **Video game key art.**
+- **Coldplay** — a music video. *"**Chris Martin's a cool guy.**"*
+- **An award**, *"which I'm super awkward to get and receive."*
+
+All self-reported. Self-description: *"**I'm a recovering graphic designer.**"*
+
+## ★★★★ The pre-social marketing stack — and the grievance under it (added 2026-07-28, pass 19b)
+
+From [[../sources/2025-09-14-yt-TE8qfhD4b8I]], asked how he got work before social media —
+*"all the things you did, I never did."*
+
+| Channel | Detail |
+|---|---|
+| **Reps** | Signed **exclusively**, *"very particular who they worked with and represented"* — *"**you're as good as the company you keep**"* — a handful of non-competing agencies, knocking on ad-agency doors with the body of work. *"**We existed with reps for like 25-ish years — almost the entire length of our company.**"* |
+| **PR firms** | *"literally PR firms who would get us press and send us copies of everything they got for us."* |
+| **An executive producer** | Outbound sales plus in-person networking — *"attend parties, go to functions, opening screenings, **do the wine-and-dine stuff. So I outsourced all that, because I didn't want to do it.**"* |
+| **Advertorials** | Magazine inserts, *"several thousand dollars"* each. |
+| **Directories** | **Alt Pick**, **the Blackbook** — *"where advertising agency folks would look to find who's who."* |
+| **Competitions** | *"Won a lot of awards, were published in design annuals."* |
+| **Trade press** | **Shoot**, **Ad Age**, **Creativity** — *"the periodicals that advertising agencies, aka our clients, would read."* |
+
+> ★★★★ **The grievance, which is the causally important part:** *"that was a lot of work… **it was quite
+> expensive, and there was a layer of opaqueness that I could never tell** — because we did this, we got
+> that. So the general consensus from my executive producer was: **spend as much as you can, do as much
+> as you can, always** — because all those things were opportunities that would somehow manifest
+> somehow. **And as an agency owner, the person signing the cheque, that was wearing thin on me —
+> because I think, since it's not your money, you want me to spend as much as possible. But you can't
+> actually trace any of this stuff, because it was untraceable. And this is how it existed for
+> decades.**"*
+
+✅ **This is the link between the old model and everything he now teaches about owned audience.** It also
+supplies the missing context for *"getting known requires a lot of work — there is no way around
+this"*, and for the four-directors argument about why a group cannot hold a personal voice (*"from the
+oldest to the youngest person is **25 years difference**… **you're trying to write for the group, and no
+one's going to connect with that**"*).
+
+## ★★ The bidding years, retold (added 2026-07-28, pass 19b)
+
+*"The first couple of years of starting Blind were hard. We were being bid against really big
+companies. We're tiny… **we don't even know how to do a conference call. And I got really tired of
+losing.** At a certain level I can win the project — but at the next level **we're getting slaughtered.
+Their ideas were better. Their phone game was better** — **they give good phone**, as they would say."*
+A fortuitous encounter with producers taught him to bid; then he hired someone who *"says: here's all
+the things you don't know about."* ([[../sources/2025-06-15-yt-EeEsglitUe8]])

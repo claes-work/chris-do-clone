@@ -293,3 +293,38 @@ held apart rather than reconciled — *Win Without Pitching* is *"the book I ref
 is not the same claim as a favourite.
 
 ([[../sources/2025-04-15-yt-PaCM-LXyIfc]])
+
+
+## ★★ June–September 2025 additions (added 2026-07-28, pass 19b)
+
+New names he credits by name in this era, beyond the ten-book map above:
+
+| Credited to | For |
+|---|---|
+| **Ronald Baker**, *Implementing Value Pricing* | *"**There is no such thing as a commodity. You just lack imagination**"* — with the lettuce → money → stock-certificate ladder. ✅ A third crediting; the Ron Baker uncertainty note is long cleared. |
+| **Kindra Hall**, *Stories That Stick* | The three-part story structure — **normal → explosion → new normal**. |
+| **Michael Margolis**, *Story 10x* | *"A product or service without a story is a commodity"* → *"**no story, no brand.**" |
+| **David C. Baker** | *"**You gain clarity through articulation.**" |
+| **Paul Arden**, *Whatever You Think, Think the Opposite* | *"**Safe is risky and risky is safe.**" |
+| **Charlie Munger** | **Inversion thinking** — *"instead of trying to do something, look at what the opposite thing is."* |
+| **Anna Lappé** | *"**Every time you spend money, you're casting a vote for the kind of world you want.**" |
+| **Tansel Ali** (four-time Australian memory champion) | *"**Silly stories is how we remember things.**" |
+| **Austin Kleon**, *Show Your Work* | *"**To be found, you must be findable.**" (Distinct from the *Steal Like an Artist* crediting above.) |
+| **Marty Neumeier**, *The Designful Company* | **The good/different quadrant** — a second Neumeier crediting, alongside *Zag*. |
+| **Thales** | *"**What's the most difficult thing in the world? To know thyself.** … **What is the easiest thing to do? Give advice.**" (He hedges the name himself: *"I hope I'm saying his name right."*) |
+| **Mike Tyson** | *"**Discipline is doing the things that you hate as if you love them.**" |
+| **Bruce Lee** | *"I fear not the man who has practiced 10,000 kicks once, but the man who has practiced one kick 10,000 times."* |
+| **Dolly Parton** | *"**Never get so busy making a living that you forget to make a life.**" |
+| **Simon Sinek** | Catchphrase construction (*"people don't buy what you do…"*, *leaders eat last*); the **Wright brothers** story from *Start With Why*; culture and vision alignment. |
+| **Todd McFarlane** | ✅ **The source of the "bilingual" self-concept** — *"**most artists speak the language of creativity. I speak the language of business and creativity. I'm bilingual.**" See [[../sources/2025-06-15-yt-EeEsglitUe8]]. |
+| **Isaac Asimov** | *Foundation* and **psychohistory** — offered as enthusiasm rather than doctrine. |
+
+> ⚠️ **Two attribution flags from this era.** (1) *"Stories are the operating system of the human mind"*
+> is attributed to a name the captions render **"Eric me"** — **unresolved, not asserted.** (2) *"The
+> highest form of intelligence is observation without judgment"* is rendered **"Christian Birdie"** —
+> most likely **Jiddu Krishnamurti**, **flagged, not asserted.**
+
+> ⚠️ **And one error recorded as an error:** *"the word **educate** doesn't mean to put in — the root
+> word is **deduce**, which means to draw out."* The draw-out sense traces to Latin **_educere_**, not
+> to *deduce*. **He hedges it himself** (*"I forget where I saw this from"*). **The insight stands; the
+> derivation does not.**

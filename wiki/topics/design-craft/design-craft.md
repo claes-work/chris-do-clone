@@ -1633,6 +1633,93 @@ other jobs that looked just like it**, and it even won awards."*
 
 ([[../../sources/2025-02-20-yt-e2zox3-QL5Q]])
 
+## 41. ★★★★ The perfection trap — with a waste argument (2025-06-14)
+
+Both horns are his, and the environmental half is new to the corpus:
+
+> *"It's such a tricky position for creative people to be in… **there's this thing where we want to make
+> something perfect. Maybe that's not possible, but we try to — and then we never release anything.** So
+> we don't have the opportunity to learn from that first iteration. **Yet we also don't want to release
+> something prematurely, because it can create a lot of waste in the world.** Wasted paper, wasted
+> materials, and it winds up in the landfill. **That feels really irresponsible.** And so there's **this
+> very narrow window that you've got to hit — and it's not easy to do, otherwise everyone would be
+> great.**"*
+
+**With the confession attached:** *"I remember when I was younger… **I don't know what the finish line
+looks like, so I have to show someone.** And they were like, 'yeah, you did it' — or '**you actually
+overworked it.**' And that's another problem too — **now it feels very contrived.**"*
+
+## 42. ★★★ The print-it-out test (2025-06-14)
+
+> *"Even in simple print terms, someone will do a beautiful layout and **the first thing I'll say is:
+> have you printed that out yet? Can you even read that?** Because on screen you can zoom in and it's
+> not a problem. And when they print it out — **yeah, I might be getting old, but I don't think a normal
+> person can read this, given that it's four-point type.**"*
+
+The principle: *"**all the designers I really respect and look up to make a strong point about getting
+your hands in it, prototyping and testing** — because **one thing we don't get on the screen is a sense
+of scale.**"* And: *"when you see how fabric moves, or the way it feels against your skin — **there's
+something to be said about just being able to hold something. The physicality part of it.**"*
+
+## 43. ⚠️★★★★ The good-enough revolution — a question he holds open (2025-06-14)
+
+He poses it carefully and **does not answer it**:
+
+> *"Years ago I read this article in **Wired** — and **it affected me in a lot of different ways.** It
+> was called something like **the good enough revolution.** There was a time when we wanted the very
+> best of everything. **But if it's good enough and it's cheaper and easier to use and has higher
+> utility, it's good enough.** The example was **drones replacing fighter jets**: if a drone goes down,
+> no one dies; and you could have one in the air 24/7. **But that seems to be going right up against
+> this idea of making great things** — and why great design can get people to love your company. **Where
+> do you net out on that?**"*
+
+> ⚠️ **Record as a tension he carries, not a position he takes.** He hands it to a guest rather than
+> resolving it.
+
+## 44. ★★★★ The rule of five, applied to design — and the architecture demonstration (2025-08-05)
+
+**The teaching structure** (see [[../content-strategy/content-strategy|content-strategy §72]] for the
+general form), instantiated on his own discipline:
+
+| Level | The five |
+|---|---|
+| **Design** | contrast · repetition · alignment · details · the X factor |
+| **Contrast** | size · weight · texture · shape · colour (he adds **orientation** mid-list) |
+
+> *"**The first thing is the most important thing. If you don't have contrast in your design, it
+> sucks.**"*
+
+★★★ **The demonstration, done by pointing out of the window:** *"architects know this. They build a
+house that's square, and then a roof that's also square — **that's boring as hell.** So **they take this
+and shift it over.** … They might have a window here and a window here — **really freaking boring.** So
+**they take this window and put it here, so it wraps around the corner.** And now alignment — a small
+window **because it aligns with that**, and a chimney that **aligns with this edge.** … **You'll see
+this now, once you know this concept. You'll see that they do this all the time.**"*
+
+✅ A clean example of his characteristic teaching move: **make an invisible pattern visible, then tell
+the student they will now see it everywhere.**
+
+## 45. ★★★★ Recording in high fidelity — the mechanism (2025-08-23)
+
+Second attestation of *record in HD*, and the first with the **catalogue** mechanism attached:
+
+> *"When we watch movies, or a concert, or go to an event — **you're going to see my brain work in
+> hyperdrive.** I'm like: that's not good, that's good. … **What I'm doing is I'm recording in very high
+> fidelity what is and isn't working, so I can make a catalogue of it in my mind so I can access it
+> later.** So **most of us go through life and we sleepwalk through life. We're not paying attention to
+> anything.**"*
+
+**The worked example is a shoe:** *"the geometric shapes in the front of your shoe and the faceted edge
+— a nice contrast, rectilinear versus curvilinear… **that's why that shoe's working.** … **It shouldn't
+follow the curve of the foot.**"*
+
+✅ **And its origin is now known**: the Art Center film class where he bought a second ticket and watched
+each film twice — *"**I credit that class for helping me train my eye**"* — with the pre-watch question
+list (narrative arc, three acts, protagonist/antagonist and what each must learn, art direction, camera
+direction, sound design, colour grading, subtext, secondary characters, metaphor, titles,
+foreshadowing). See [[../../sources/2025-08-23-yt-cDTB4auDj2U]].
+
+
 ## Sources
 
 - [[wiki/sources/2015-07-10-yt-hqYIe5Y76oY]] — My (First) Design Portfolio (portfolio framework, T-shaped, matching mirror). (2015-07-10)

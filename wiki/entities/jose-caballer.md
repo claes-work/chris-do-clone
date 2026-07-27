@@ -73,3 +73,24 @@ Designer and brand-strategy facilitator; co-founder (and originator) of [[the-sk
 
 - [[the-skool]] — the joint venture
 - [[the-futur]] — what it became after the split
+
+
+## ★★★★ "No way, Jose" — the fullest telling (added 2026-07-28, pass 19b)
+
+From [[../sources/2025-08-12-yt-XdNQC_zDCW0]]:
+
+> *"A former classmate of mine, his name is **Jose — Jose Caballer. He's Puerto Rican.** And he has this
+> idea: '**Chris, let's start a YouTube channel together.**' And I'm like — **no. Adamant. I'm
+> behind-the-scenes talent. I'm not in-front-of-camera talent.** And he told me, '**I'm not going to do
+> this without you.** So what do you want to do?' I'm like — **'No way, Jose.' And that's not racist.
+> That is his name.** … I was like, 'over my dead [body].'"*
+
+> *"So **in 2014, we made our first video. I'm 42 years old.** … **And now we're going to be YouTube
+> famous. Or so I thought. And then nobody shows up. Nobody watches.**"*
+
+✅ **Fifth corroboration of the 2014 / age-42 hinge**, and the first telling that records **Jose's
+insistence** as the deciding factor: *"I'm not going to do this without you."*
+
+**What happened next, also his:** the first videos were bad — *"**your videos are unwatchable**"* (his
+wife) — *"**and the worst part is she was right**, because **Jose and I, we didn't really prepare. We
+just showed up.**"* Then **25 views → 300 views**, *"about a year in — **I'm a slow learner**."*

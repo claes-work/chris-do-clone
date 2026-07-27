@@ -2752,6 +2752,129 @@ traditional office business — **it's really a media production at this point.*
 > named here.** ([[../../sources/2025-06-03-yt-r2o9-oj9Mlk]]; [[../../entities/the-futur]])
 
 
+## 74. ★★★★ "All strategy is autobiographical" — the caveat he puts on his own teaching (2025-08-05)
+
+Given unprompted, **before** any teaching, and it should travel with every strategic claim on this hub:
+
+> *"**I have survivor bias, and you need to know that.** Okay? Because **all strategy is
+> autobiographical.** If I share a strategy with you, it's because **it's what has worked for me.** Now,
+> **the real problem is if I tell you what works for me and it's not you — that's the real problem.**
+> But if you want to have what I have and do what I've done, then just do what I tell you to do.
+> **That's the preface.** … **I can't tell you it's going to work for all of you, because many of you
+> don't want what it is that I have.**"*
+
+★★★★ **Two adjacent self-assessments**, both volunteered: *"[performance marketing] — **I'm not good at
+that.** I just came from a mastermind where everybody's really good at that. **I'm terrible at that.
+Cash flow**"*; and about his own trade — *"**if you're in the information business, which I am, I'm
+telling you from the front lines: people who do what we do, we've got a limited number of days left,
+because information is really cheap.**"*
+
+## 75. ★★★★ The three-phase delegation method (2025-06-15)
+
+> *"No matter what level you're at, if you need help… **the best thing I can tell you to do is just have
+> people shadow you.** … **Shadow me. Don't say anything. Just take notes, and we'll talk at the end of
+> the day. And depending on the quality of the questions and the notes you have, I know there's a
+> potential for you here or not.**"*
+
+| Phase | What happens |
+|---|---|
+| **1 — Observe** | *"Don't say anything. Just watch, observe, take lots of notes, ask questions, document everything."* |
+| **2 — Supervised** | *"Heavy supervision, but I'm giving you some control, and I'm checking how you're navigating this."* |
+| **3 — Autonomous** | *"Work on your own, be self-directed — and **the period between each check-in is going to get increasingly longer until I don't even check in any more.**"* |
+
+**The compounding payoff:** *"the person who is the first hire for that role **has a playbook that then
+they train their replacement.**"*
+
+> ★★★★ **The sober warning, which is what makes it his:** *"you'll know really early on in phase one,
+> and **you have to make a really hard decision. As creative people, we're very optimistic and we see
+> too much potential — when the potential is: that was it. They hit their ceiling**, and you were
+> thinking there's more, and **there's no more.** So **you have to be sober.** You have to say: I don't
+> know this is right for you. **And you're not a bad person.**"*
+
+✅ He confirms he used exactly this to hand off new-business calls: *"I train my creative directors —
+**it's the shadow technique**… **I don't even need to be in the room any more.**"*
+
+## 76. ★★★★ Sell the outcome, not the activity (2025-08-23)
+
+> *"**I keep encouraging you not to describe yourself as the things you do, but the outcomes that you
+> achieve for people.** That small shift will drastically change how you talk to yourself — but more
+> importantly, **the frame in which people look at you.**"*
+
+> ★★★★ *"**Video production is what you do, but it's not what you sell.**"* — *"the least profitable and
+> hardest part of your business is the production. **It's all the other stuff, the intangibles**… **and
+> I try to make the rest of it transparent or invisible to you.**"* → *"**it's the result. And then the
+> how-to becomes less important, and the what becomes insignificant.**"*
+
+With **vision, defined literally**: *"**the whole point of the word *vision* is to see what no one can
+see. That requires faith. It requires imagination.**"*
+
+## 77. ★★★★ A definition of bad work — by outcome (2025-09-11)
+
+> *"**I don't have an aversion to work.** I know why sometimes, for people, work is terrible. **When you
+> do something and you put your time, energy and resources towards it and you don't get results —
+> that's horrible work. That's painful work.**"*
+
+Not by content, not by effort, not by enjoyment. ✅ Sits directly beside **sacrifice, not burnout**
+([[../mindset/mindset|mindset §99]]): the sacrifice is worth it *because* it produces a result;
+work that produces nothing is the thing he calls horrible.
+
+## 78. ★★★ The new-paradigm income comparison, with real numbers (2025-06-15)
+
+> *"I used to work in commercial production. A mid-size project, about **$400,000**. It's expensive to
+> produce, so **we might net 30%** — production, post, **lost pitches, downtime, overhead.** So 30% of
+> 400 is **$120K**. … **I can get a sponsor deal — and I've done this — where I work for about a day and
+> a half, 12 hours total, and they're going to pay me $120K.** Maybe it's not something I love, but **I
+> love that clean profit.** And **I literally do everything on my phone.**"*
+
+Generalised: *"**you'll make more money from commanding an audience — a loyal and niche audience — than
+you will from actual service work. And you get to do what you want.**"* With the spec-work solution for
+creatives trapped in approvals (*"**you just do it for you**… and **that's the video that makes you
+money**"*) and the trade stated plainly: *"**if you put the caveat 'I need to do it for a client', then
+you accept the terms — which is: the clients will tell you what to do.**"*
+
+## 79. ★★★★ The Futur in 2025 — one squeeze from three sides [ALL SELF-REPORTED]
+
+Three disclosures in thirteen days, which read as **one story about a deliberate contraction**:
+
+- **Cost — the spin-off (2025-06-03).** He asked his **CEO** to take a portion of the company; the CEO
+  took **the coaching arm**. *"**We're down the revenue from that. But we're lighter because of the
+  overhead**… much more aligned, happier, more energetic."*
+- **Culture — the correction (2025-06-15).** *"**The last two years I kind of took my eye off managing
+  the company**, and we had my **chief operating officer** hire and fire people. **Somehow the culture
+  got sideways**… **why are these people here? They don't even want to do what we want to do.**"* → the
+  rule that follows: *"**we should only hire from the community. So they believe in it**"* → *"**a
+  little bloodletting**, and now we have a really tight core team."*
+- **Demand — the mismatch (2025-06-07).** *"**We have a good-sized, really engaged audience that are
+  incapable of buying anything that we do.** They will show up in droves, but **a vast majority of them
+  are not the right fit.**"* → *"**we're actually planning on raising the price every benchmark we
+  hit**"*, and a cadence correction from quarterly back to monthly (*"it was a do-or-die thing, and we
+  weren't executing properly"*).
+
+> ⚠️ **All self-reported and informal.** **The CEO and the COO are named by role only, and are not
+> assumed to be the same person.** Read separately these are anecdotes; **read together they are a
+> business contracting on purpose — and he frames the contraction as a gain.** See
+> [[../../entities/the-futur|The Futur]].
+
+## 80. ★★★ Getting known has always been expensive — the pre-social stack (2025-09-14)
+
+Before social media, Blind bought reach: exclusive **reps** for *"like 25-ish years"* (*"**you're as
+good as the company you keep**"*), **PR firms**, an **executive producer** doing outbound and the
+wine-and-dine circuit (*"**I outsourced all that, because I didn't want to do it**"*), **advertorials**,
+directory ads (**Alt Pick**, **the Blackbook**), **competitions and design annuals**, and **trade
+press**.
+
+> ★★★★ **And the grievance that explains everything he built afterwards:** *"**there was a layer of
+> opaqueness that I could never tell** — because we did this, we got that. The consensus from my
+> executive producer was **spend as much as you can, do as much as you can, always**… **and as the
+> person signing the cheque, that was wearing thin on me — because you can't actually trace any of this
+> stuff. It was untraceable. And this is how it existed for decades.**"*
+
+**The conclusion:** *"**getting work, getting known, requires a lot of work. There is no way around
+this.**"* — with the single exception, described with visible irony: *"**if you're extremely
+good-looking, extremely charismatic, from a great family, living in the epicentre** of whatever you do,
+**and your work is bar none** — you may not have to do anything… **and those are unicorns.**"*
+
+
 ## See also
 
 - [[wiki/topics/pricing/pricing]] — value-based pricing, "price the client not the job,"

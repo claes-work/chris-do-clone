@@ -3812,3 +3812,88 @@ the Dan Sullivan question + user/confuser/refuser (**Dan Sullivan** — add to `
 retreat-and-follow (**Blair Enns**), Sam Brown's post types, Robert Katai's in-house-creator programme.
 Carried: the five-way Brand Lab reconciliation; `tom-ross.md`; two earlier Priestley episodes as ledger
 candidates; **Mo** and **Jule Kim** (now 3 appearances each) as entity candidates.
+
+## [2026-07-27] ingest | yt batch (@thefutur, 5) — the exit indicators, and three re-uploads caught
+
+**Stage B (P2), batch of 5.** All five fetched cleanly (155KB) and read in full. Ledger 816 → **821 L2**.
+
+| id | date | what it is |
+|---|---|---|
+| `yt-C1HsTeIAfoo` | 2024-06-04 | referral scaffold — ⚠️ **republished Blind-era talk** |
+| `yt-nwz4uwm7gUc` | 2024-06-09 | ⚠️ **Keir McLaren teaching, not Chris** — and also a re-upload |
+| `yt-Xn5EEDAxCGI` | 2024-06-11 | ★★ the creator-economy shift |
+| `yt-Tzb7LmtSF3c` | 2024-06-13 | ★★ **the exit indicators** |
+| `yt-HTTW0A3kxxA` | 2024-06-16 | James Barnard — **guest-primary**, with one strong Chris exchange |
+
+**1. ★★ `yt-Tzb7LmtSF3c` is the most concrete career-timing framework in the corpus.** Three parts, all
+reusable. The **trajectory test**: project three years of real metrics (billings, opportunities, profile
+jobs, awards) forward — *"if it's skyrocketing, don't change anything. That would be the craziest thing to
+do."* **Light from dead stars**: by the time an opportunity is visibly working, the signal is old and the
+crowd has seen it — *"they go running to **where the gold was, not where it is.**"* And ★★ **the three exit
+indicators**, which he says he has used repeatedly: *"the **size** of the opportunity is getting smaller,
+the **frequency** is getting smaller, and yet the **competition** continues to grow. Those are three
+pretty strong indicators… **at that point I'm looking for the exit door.**"* Both his documented pivots —
+motion design → brand strategy/client-direct → content and teaching — are dated and reasoned by it. He
+also **pre-announces the next one**: *"once I hit the apex and I go towards the downside, I'm going to
+change — **and you'll know it, because I'll move.**"*
+
+**2. ★★ `yt-Xn5EEDAxCGI` is a worked example of all three indicators**, published two days earlier, which
+is why the two should be read as a pair. The commoditisation evidence is first-hand and specific:
+*"we used to do real-estate videos and I would say it's **$40,000** and they would pay us — and now
+they're not going to pay you $4,000. The agent will take a few clips with their phone."* The instruction
+that follows is the sharpest 2024 statement of his position for service providers: ★★ *"**you have to be
+less of behind-the-camera talent and more in front-of-camera talent.** There's only one of you in the
+world, and **when you hide that, you're holding back the value.**"*
+
+**3. ⚠️ Three re-uploads in one batch — this is now a pattern, not an accident.** `yt-C1HsTeIAfoo` and
+`yt-nwz4uwm7gUc` both present as June 2024 but contain speakers describing themselves in the present tense
+as running a client-service business (*"I'm expanding my product design practice"*; Keir on *"the kind of
+businesses I am most active in right now"* being motion graphics). Chris has been **client-free since
+2018**. Both are dated to the talk on their pages, with the upload marked as publication only. Counting
+the 2024-05-28 lecture, that is **three in two batches** — the @thefutur P2 range is clearly seeded with
+archive material, and every batch from here needs the same check.
+
+> ⚠️ **`yt-nwz4uwm7gUc` is not a Chris source at all.** The title (*"How To Start A Successful Business As
+> A Creative"*) gives no hint that the speaker is **Keir McLaren**, with Chris contributing two short
+> passages. It is fenced on the page and flagged in the ledger. It is, however, a **major addition to
+> [[wiki/entities/kier-mclaren]]**: net-not-gross with the Microsoft/$400,000 illustration, *"do you
+> actualise jobs?"*, *"if you're not willing to change, then nobody can help you"*, *"maybe is the worst
+> answer"*, and — the best of them — *"**stay out of the results**"*, which he traces to his own therapy
+> and Al-Anon background. **Chris's own non-attachment doctrine descends from that line**, and the lineage
+> should be recorded rather than the ideas merged.
+
+**4. A second foundational move traced to Jose Caballer.** In the Barnard episode Chris credits him with
+the teach-to-learn conviction — *"Chris, you know what the best way to learn something is? **To teach
+it.**"* — and preserves his own irritated first reaction: *"**are you being a prick right now?**"* Jose was
+already on record as the person who pushed him into making content at all. **Two of the foundational moves
+of his career trace to the same person.** Chris's refinement is the keeper: ★★ *"**one teaches to learn —
+there's one teacher, but there's two students.**"*
+
+**Pipeline state after this batch:** `@thefutur` P1:0, **P2:259**, P3:44; `@TheFuturAcademy` P3:72;
+shorts 860; L2=**821**, L3=0; synthesis debt **3/10**; persona v15.
+
+> **Next iteration: Stage B (P2).** 259 open P2 rows. **Carried debt unchanged and untouched again**: the
+> five-way Brand Lab reconciliation and `tom-ross.md`. Both are now two checkpoints old — they should be
+> cleared at the next Stage S rather than carried a third time.
+
+Synthesis notes: genuinely new this batch — (1) ★★ **the three exit indicators** (size ↓, frequency ↓,
+competition ↑) as a pivot-timing framework, with both of his own pivots as evidence — **merge with the
+hub's existing *canary-in-the-coal-mine* entry, which is the same instinct without a method**; (2) ★★ the
+**trajectory test** (project three years of real metrics; rising → don't move); (3) ★★ **light from dead
+stars** + Gretzky as the model for why chasing visible success fails; (4) ★★ the **gold-bars detachment
+parable**; (5) ★ **comfort is a slow death** (Noreen Moroka) with the no-risk-no-value corollary; (6) ★ his
+**pre-announced next pivot**; (7) ★★ **behind-the-camera → in-front-of-camera**; (8) ★★ the **$40k → phone**
+price collapse as dated first-hand commoditisation evidence — it strengthens `business` §43's smile curve
+considerably; (9) ★ the **Yilmazer specificity lesson** (name things precisely; place the viewer in the
+scene); (10) ★★ **"one teaches to learn — one teacher, two students"**, which should replace the looser
+phrasings on the content-strategy hub; (11) ★★ the **Jose Caballer origin** of teach-to-learn, and
+**teaching as the biggest confidence builder of his life (early 2000s)** with the *"you discover something
+about what you knew"* payoff; (12) ★★ the **3-step referral scaffold** ending in *"is there somebody you
+know that I could reach out to"* and ★★ **networking-as-helping** with its two silent qualifiers (*can
+they afford me, do I like them*) — **reconcile with the two existing referral entries, don't stack**;
+(13) ★ Chris's naming of the sales hang-up (*"we don't want to be that person, because we're sensitive and
+empathetic"*) and *"the promise of work tomorrow for bills that need to be paid today."* Fenced to Keir
+McLaren: net-not-gross, actualise-jobs, stay-out-of-the-results, maybe-is-the-worst, double-the-money-for-
+pain, expertise-is-your-questions. Fact guard: he overstates the Alpha Centauri distance — correct or omit.
+Carried: Brand Lab reconciliation; `tom-ross.md`; two earlier Priestley episodes; **Mo** and **Jule Kim**
+as entity candidates; **watch every batch for re-uploads.**

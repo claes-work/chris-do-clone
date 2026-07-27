@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-27 (ingest yt batch @thefutur, 5 → 816 L2 — the **objection-handling** pair: ★★ *judo not karate* + *"I'm not sure a company of your size can afford us"* (⚠️ a **republished ~2015–17 talk**, dated to the talk not the upload), and ★★ **not listening in the pitch predicts not listening in the project**; plus the **humility argument** under diagnose-before-prescribe and the **8-to-1** posting ratio)_
+_Last updated: 2026-07-27 (ingest yt batch @thefutur, 5 → 821 L2 — ★★ **the three exit indicators** (his pivot-timing framework, evidenced by his own two pivots) and ★★ **behind-the-camera → in-front-of-camera** with the $40k-video→phone collapse; *"one teacher, two students"* traced to Jose Caballer; ⚠️ **three republished older talks** caught and dated to the talk, one of which is Keir McLaren teaching rather than Chris)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **816 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2024-05-30] + the 2026-07-21 fresh upload; synthesized through batch 123 → persona **v15**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **821 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2024-06-16] + the 2026-07-21 fresh upload; synthesized through batch 123 → persona **v15**).
 
 ## Topics
 

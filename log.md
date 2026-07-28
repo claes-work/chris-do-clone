@@ -13675,3 +13675,40 @@ stated; it is **not** strong enough to become a persona trait. Recorded so the n
 read the hub entries as pre-approved for promotion.
 
 High-water mark advanced to **batch 247 (L2=1,035)**. Pass 24 logged in `pipeline/synthesis-state.md`.
+
+## [2026-07-28] ingest | yt shorts batch 248 (@thefutur, 25 triaged, 1 ingested)
+
+Stage C, first batch after the pass-24 checkpoint. **25 shorts · 1 ingested · 24 closed.**
+Open shorts 533 → **508**. L2 = **1036**.
+
+**Ingested:** [[wiki/sources/2022-07-05-yt-FTfVHwegSeM]] — *4 Priorities To Win With Every Client*.
+★★★ **Blair Enns's four-priority ladder, stated as a single ordered unit:**
+**win without pitching → derail the pitch → gain the inside track → walk away.**
+
+✅ **Why a corpus with 45 `win without pitching` pages still lacked this.** *"derail the pitch"* /
+*"inside track"* return **3** source pages and **0** in `topics/` or `persona/` — and reading those
+three shows **each is a fragment, none is the ladder**: a 2017 post-mortem on a pitch Blind **lost**
+uses "inside track" incidentally; a 2025 page has "derail the pitch process" inside a summary of the
+12 proclamations; another 2025 page has "inside track" as a technique's payoff. **A descending
+hierarchy is not the sum of its rungs** — each step is what you do when the one above is unavailable,
+and that ordering is the content.
+
+⚠️ **Two attribution layers, kept separate on the page.** **The framework is Enns's**, not his. What
+is Chris's is the relaying and one gloss — *"**we can't be an expert when we make too many
+concessions. We have to walk away.**"* That reframes walking away as **what keeps the expert claim
+true**, not as leverage or pride. **Marked do-not-promote to `persona/`**: the framework is not his
+and the clip has no self-identification.
+
+📌 **This is the Les Brown lesson applied forward.** Last checkpoint I nearly promoted guest material
+because a grep hit looked like an unattributed gap. Here the same signal appeared — low count in
+topics/persona, present in sources — and I **read all three neighbourhoods before deciding**. The
+outcome differed (this one is real) precisely because the check, not the count, decided it.
+
+Also closed: social proof (`social proof` **19**, in topics/persona) · the coffee-meeting mechanic
+(covered) · a LinkedIn/algorithm cluster of ~12 shorts (`carousel` **25**, saturated).
+
+**Stage C running total: 353 shorts processed · 16 ingested · 337 closed.**
+
+Synthesis notes: **Blair Enns four-priority ladder** (2022-07-05) — promote as a UNIT to
+`topics/sales-clients`, ⚠️ credited to Enns with Chris as relayer; add the dated attestation to
+`entities/influences`; ⚠️ do NOT promote to `persona/`.

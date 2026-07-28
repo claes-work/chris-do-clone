@@ -617,6 +617,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2022-06-30 | ★ [How To Be Inspired By Nature](2022-06-30-yt-NClPY12YRYU.md) | design-craft; mindset | Chris solo; inspiration from OUTSIDE your industry (nature/architecture/ceramics); creativity = connecting disparate things (farther apart = more creative); L3-candidate |
 | 2022-07-01 | [Making Money With No Clients](2022-07-01-yt-Qowvab8In-E.md) | business; content-strategy | ⚠️ NOT Chris — Stephanie Owens; income-stream diversification (art licensing, products); context/do-not-train |
 | 2022-07-05 | [Is Remote Work The Future? (Jason Fried)](2022-07-05-yt-1UDnJL_CxjI.md) | business; mindset | ⚠️ Jason Fried guest interview (remote-as-resilience, async/trust) = context; Chris interviewer; few trainable interjections |
+| 2022-07-05 | ★ [4 Priorities To Win With Every Client](2022-07-05-yt-FTfVHwegSeM.md) | sales-clients; business | short; **Blair Enns's four-priority ladder as a UNIT** — win without pitching → derail the pitch → gain the inside track → walk away; ⚠️ framework is Enns's, Chris relays; his gloss: "we can't be an expert when we make too many concessions"; L3-candidate |
 | 2022-07-07 | ★ [Don't Do This When You Give A Presentation](2022-07-07-yt-esqoKMQSEbo.md) | content-strategy; sales-clients; mindset | Chris + guest; over-delivery failure mode, narrow-to-2-3-takeaways, over-prepare-then-edit, curse-of-knowledge-as-teaching; new vs Pitch This!; L3-candidate |
 | 2022-07-12 | ★ [When Should You Change Careers?](2022-07-12-yt-2vvVWJlY-0E.md) | mindset; content-strategy; business | Chris; 3-stage career-pivot origin (commercials→branding→education, "exchanged one master for another"), "canary in the coal mine" non-attachment; L3-candidate |
 | 2022-07-14 | [Public Speaking Tip For Introverts](2022-07-14-yt-_dkGyynJaX0.md) | mindset; content-strategy | ⚠️ guest storytelling coach delivers the tip (context); Chris self-IDs introvert but reaffirms existing material; fence |
@@ -1058,4 +1059,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_1035 videos ingested (L2) so far._
+_1036 videos ingested (L2) so far._

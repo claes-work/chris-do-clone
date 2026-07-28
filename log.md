@@ -10146,3 +10146,68 @@ with its three replacement lines. Also new: **the 10%-of-10% qualification math*
 advice** as the ICP design model; *"I will measure a hundred times before I cut one piece of
 wood"*; and to `entities/influences` — **Kevin Daley / *Socratic Selling*** and **Jonathan
 Stark**.
+
+## [2026-07-28] ingest | yt batch (@thefutur, 3) — the blueprint, the DIYer fallacy, and how to open a story
+
+Batch 190, Stage B (P2). Three uploads spanning the turn of the year, **all three ★★★★★**. **No
+deferrals; no skips.** L2: 961 → **964**.
+
+- **[2025-12-31] The Only Content You Need to Post if YOU Want Clients** (`yt-POnPkjjT6Pw`,
+  recorded at **Adobe MAX**) — ★★★★★ **the Content-to-Clients Blueprint taught end to end**:
+  ICP → **a diagnostic quiz that exists to filter, not to convert** (*"love you for following me…
+  but you're not my customer"*) → **a Goldilocks sort** in which *"the maybes in sales waste all
+  your time"* → and content built from **the stuck-moment worksheet**, tested against one
+  criterion: **do they say "that's me"?** Closes, at a conference for visual tools, with
+  ★★★★★ *"an overlooked skill of the 21st century is writing. Because **words shape worlds**."*
+- **[2026-01-03] How to Sell Through Your Content in 2026** (`yt-meVstiZhvqA`, host: Mo) —
+  ★★★★★ he refuses the premise first: *"it probably is cuz **your work's not very good**."*
+  Contains ★★★★★ **the DIYer fallacy** — *"you overestimate the DIYers out there… **they're
+  buyers, not DIYers**"* — which permanently answers *"won't I teach away my business?"*;
+  ★★★★★ **follow the breadcrumbs** with a soft-outreach script **and the admission that he has
+  600 unlooked-at LinkedIn profile views**; and a four-element profile audit including a
+  self-correction (*"I used to do this. That's a mistake"*).
+- **[2026-01-10] The WORST Way to Tell Any Story** (`yt-tMAnP6EmF8g`) — ★★★★★ the **structural**
+  half of his storytelling curriculum: *"**we don't begin the story at the beginning. We begin it
+  at the point of greatest conflict**"*; *"your story is '**and then, and then, and then**' —
+  which is not that interesting"*; *"**set up an expectation, and then disrupt it**."* Plus
+  ★★★★★ **the 30-30-30 plan** (a 90-day framework found nowhere else) and ★★★★★ *"**better
+  concept beats better production** — but all things being equal."*
+
+⚠️ **THE STANDING ALGORITHM CONTRADICTION MUST BE UPGRADED.** 2026-01-03 contains a **second**
+unambiguous *"be a student of the game"* statement — titles, thumbnails, *"there's so many
+examples of how to do it right, but you refuse to study."* Until now that side rested on the
+single 2025-08-23 telling and was treated as a one-off against ten *"I don't care about the
+algorithm"* statements. **It is a recurring position, not an outlier.** Flagged on the source page
+and queued for `topics/content-strategy` at the next checkpoint. Note also that 01-10's *"forbid
+yourself from looking at the results"* is the **most defensible** version of the other half —
+tactical, reasoned, and time-boxed to thirty days. **He never connects any of them; the bridge
+stays the curator's.**
+
+⚠️ **Third-party privacy applied** on 2026-01-10: the hot-seat member's family background is
+**deliberately not reproduced**, beyond the single line Chris uses as the teaching example. The
+page records his craft instruction, not her biography.
+
+⚠️ **Two names left unattributed** rather than guessed: the source of *"you don't sell in your
+content, you sell through your content"* (captions render it unrecoverably) and the comedian in
+the lactose-intolerance bit (**Chris himself flags the memory lapse**).
+
+✅ **Content Lab cadence, partially resolved by weight:** 01-10's outro is a **second** attestation
+of **twice a month** at **\$500/mo / \$5,000 annual**, making 2025-11-08's *"every single week"*
+the outlier. Recorded as such — **not** resolved on his authority.
+
+Synthesis notes: **five genuinely new items.** ① ★★★★★ **The Content-to-Clients Blueprint** as a
+single named system — the corpus holds ICP work and content advice separately; this is the first
+source that connects them through a **filtering mechanism**, and the **stuck-moment worksheet** is
+a complete content-generation method on its own. ② ★★★★★ **The "that's me" test** — the simplest
+usable content criterion he has ever given, with the challenge that operationalises it.
+③ ★★★★★ **The DIYer fallacy** and **buyers, not DIYers** — the definitive answer to the
+teach-away-your-business fear, and it links to *"successful people spend money to save time"* from
+batch 189. ④ ★★★★★ **Story structure** — begin at greatest conflict, *"but"* not *"and then"*,
+what's at stake, expectation-then-disruption — which is the missing structural complement to the
+2025-10-25 writing rules; **the two should be promoted together as one curriculum**, and note that
+*"start at the end" / "landing the plane"* now appears in both. ⑤ ★★★★★ **The 30-30-30 plan.**
+Also new: **farming not hunting**; **omni-channel distribution** with the same-caption test;
+**sell through, not in**; ★★★★★ **"words shape worlds"**; **better concept beats better
+production**; **pattern interrupt**; and ★★★★ a striking piece of behaviour — **he grades belief
+by vocal register** (*"she didn't go high pitch on me. She went lower register"*). To
+`entities/influences`: **The Moth Radio Hour**.

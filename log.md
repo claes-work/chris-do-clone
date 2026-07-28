@@ -10714,3 +10714,51 @@ an existing page). ⚠️ **One standing caveat added for future passes:** the 2
 never be read as a position on therapy. Everything else in this source is guest material and stays
 at L2 as context. **This is the first source in the run whose L3 verdict is essentially "don't
 promote"** — worth noting that the ingest tiers are working as designed.
+
+## [2026-07-28] ingest | yt batch (@thefutur, 1) — a co-taught workshop, and a saturation finding
+
+Batch 197, Stage B (P2). L2: 976 → **977**. **Two more members-only rows diagnosed and closed.**
+
+⚠️ **THREE members-only videos now identified.** Both rows that errored this batch were diagnosed
+immediately with `yt-dlp --list-subs` rather than retried blindly — the lesson from batch 195.
+`yt-cOItltE2k80` and `yt-HSuRQZG1ql4` are both **paywalled behind channel membership** (the second
+specifies *"Patron Member tier or higher"*), marked `skipped` with that reason. ✅ **A hypothesis
+was tested and rejected:** undated (`NA`) rows do **not** predict members-only status — 1,270 of
+1,311 open rows are undated, because `backfill_metadata.py` only filled the top-by-views. **No
+bulk probing was attempted**, per the rate-limit rail; the practical rule going forward is simply
+that **a fetch error on @thefutur should be diagnosed on the first failure, not the third.**
+
+- **[2026-06-24] Easy Way to Get Clients Without Ads or Cold DMs** (`yt-dOZkAqR_2lA`, **160 KB —
+  the largest transcript in the corpus**, roughly twice the previous record) — ⚠️ **co-taught, and
+  the curriculum is Matt Essam's**: *the talent limit*, *you are your own number one client*, the
+  **borrowed-audience partnership strategy**, and **the trust grid**. All fenced as context.
+  ✅ **This is the THIRD recorded joint appearance with Matt Essam** — the entity page has been
+  updated, and the exception it once described is now firmly a working relationship.
+
+**Chris's yield was two items, both good.** ★★★★★ **"The Crucible"** — his name for a rule he
+applies constantly but had never labelled: *"I want to rename the studio **The Crucible**, because
+**we are only allowed to tell the truth here.** So **if you're not going to do it, don't say you're
+going to do it**"*, followed by *"**now I need you to say it more emphatically, so I can believe
+it — because I didn't believe you the first time.**" ✅ It traces cleanly back to his own coach's
+*"if you're not going to tell the truth, don't even bother"*, promoted only last batch — the
+inheritance is now visible in both directions. And ★★★★★ **the avatar-language test**, which
+converts *use their language* into something checkable: *"**you have to forget about you for a
+minute**"* → catching a participant staging the scene so the avatar speaks *to him* (*"**NO. You're
+not even in the room, bro**… **you already designed your situation for her to talk to you**"*) →
+and the register fix, *"**as cool as you want to be, she's still the boss.**"*
+
+✅ **A SATURATION FINDING WORTH ACTING ON.** A flagship **two-hour** session on the channel's
+**number-one topic** produced only **two** genuinely new Chris-attributed items. Everything else
+restated material already fully captured across batches 189–195 — ICP, irresistible offers,
+capacity-based scarcity, saying no to wrong-fit work, discounting under lead-flow pressure.
+**The corpus has converged on client acquisition.** That argues for weighting future ingest toward
+**@TheFuturAcademy (P3:72)** and the **shorts backlog (860)** rather than more long-form @thefutur
+workshops on the same subject. **Recorded here as a recommendation, not acted on unilaterally** —
+the ledger order is unchanged.
+
+Synthesis notes: **two items.** ① ★★★★★ **The avatar-language test** → `topics/sales-clients`,
+beside the ICP method: *write the sentence they would say in a meeting you are not invited to.*
+② ★★★★★ **"The Crucible"** → `topics/mindset`, with its lineage to Kier McLaren. Also worth
+carrying: **take one idea to its extreme** is now documented as a named method he *uses* live and
+explicitly flags (*"and this is a real question, by the way"*). ⚠️ Nothing from the workshop
+curriculum is promotable — it is Matt Essam's and is fenced on both the source and entity pages.

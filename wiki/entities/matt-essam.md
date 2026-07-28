@@ -159,3 +159,34 @@ positions**, so an accidental promotion would not look obviously wrong on the pa
 - [[futur-instructors]] — the other recurring non-Chris voices on the channel (Encina, Burns, Gunn,
   Livsey, Owens, Stroh). Same discipline, different people.
 - [[thefutur-youtube]] — channel provenance: publication under the brand does not imply Chris authorship.
+
+### ★★★ Added 2026-07-28 (batch 197) — a THIRD joint appearance, and his own frameworks
+
+[[../sources/2026-06-24-yt-dOZkAqR_2lA]] (2026-06-24) is a **two-hour co-taught workshop** on
+client acquisition — the **third** recorded joint appearance, after
+[[../sources/2025-09-14-yt-R2J67k2Z6WU]] (Ep. 1) and [[../sources/2025-10-16-yt-PZgRQpu61k4]]
+(Ep. 2). ✅ The exception noted earlier on this page is now firmly a **working relationship**, not
+a one-off.
+
+**His own frameworks, recorded here as context and explicitly NOT persona data:**
+
+- **The talent limit** — *"your talent and your craft only gets you so far, but it's not enough to
+  get work consistently in your business"* — framed to defuse shame: *"**there's nothing wrong with
+  you. You're not broken.**"*
+- **You are your own number one client** — *"your real capacity is three, because it's three plus
+  your business"*; hence a standing 30-minutes-a-day calendar block that outranks client requests.
+- **The borrowed-audience partnership strategy** — *"**who has woken up today with the attention
+  and the trust of my ideal client?**"* — with a house-party analogy (being introduced by the host
+  versus working the room) and three partnership types: **delivery**, **distribution**, **brand**.
+- **The trust grid** — his named system for building a small number of referral partnerships,
+  pitched as *"a strategy that will get other people in your network promoting your business for
+  you without you even asking."*
+
+★★★ **On the relationship itself**, in his own words: he cites Chris's post-stage queues as the
+extreme case of borrowed attention, and says plainly that he is *"**technically now borrowing
+Chris's audience.**"* ⚠️ **That is Matt's characterisation of the arrangement, not Chris's claim
+about it.**
+
+★★★ **His stated background:** ran a marketing agency before becoming a coach, and describes
+starting with *"zero credibility"* in the coaching market — his first six clients came from a
+single introduction by a co-working-space owner to a room of thirty.

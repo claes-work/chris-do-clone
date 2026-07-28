@@ -14164,3 +14164,27 @@ Everything else held: `million-dollar job / walked away from a million` **16** �
 **Stage C running total: 643 shorts processed · 18 ingested · 625 closed.**
 
 Synthesis notes: none.
+
+## [2026-07-28] ingest | yt shorts batch 262 (@thefutur, 20 triaged, 0 ingested)
+
+Stage C. **20 shorts, 0 ingested.** Open shorts 218 → **198** — **under 200 for the first time.**
+
+**Two close calls, both closed:**
+
+- `yt-NfTd8L_HYHk` (*Trust Gets You More Work*) — the **Trojan Storage** story: the client asks him
+  to design the **building facade**, he says *"I'm not an architect,"* and the client replies
+  *"**yeah Chris, I do know that, I'm not stupid**"* → he hires a local architect and takes creative
+  direction. ✅ **Carries clean self-identification**, but `trojan storage` returns **11** — this is
+  one of the corpus's better-documented client relationships already.
+- `yt-W9PyZJczCtM` — the **$20 watch vs. $2,000 watch** analogy: *"which one are you gonna take care
+  of more?… so when someone's investing in a brand, imagine how they feel if they're investing
+  **$200 versus $20,000**."* `two watches` returns **0**, but the belief it illustrates is at
+  `beliefs.md` **§3249** — *"people who pay more value things more"* — and also in `pricing`,
+  `sales-clients` and the **system-prompt**. **A fresh illustration of a recorded belief is a voice
+  datum, not a new belief** — the same call made in batches 246, 249 and 250, applied consistently.
+
+Others held: `creative clients are the worst` **3** · `failing forward` **2** · `skin in the game` **4**.
+
+**Stage C running total: 663 shorts processed · 18 ingested · 645 closed.**
+
+Synthesis notes: none.

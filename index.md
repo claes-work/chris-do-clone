@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-28 (ingest yt batch @thefutur, 3 → **970 L2** — including ★★★★★ **the most complete practical roadmap in the corpus**: the five stages to \$100k, with the tracing method, the imagination gap, geographic arbitrage, *"clients choose the least risky option"*, the steak rule, and **Kier McLaren named with \$2.2M → \$3.9M**)_
+_Last updated: 2026-07-28 (ingest yt batch @thefutur, 2 → **972 L2**, 1 deferred — two ★★★★★ landmarks: **the antiviral keynote** (Dubai; both branches of the virality tree are bad; *"nothing wrong with going viral — that should not be the goal"*) and ★★★★★ **the most personal source in the corpus**: the identity arc from *"all I wanted was to be invisible"* to the Art Center graduation, ⚠️ **Kier McLaren's death**, and the parenting philosophy)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **970 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2026-03-10, no deferrals outstanding] + the 2026-07-21 fresh upload; synthesized through batch 184 → persona **v21**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **972 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2026-03-31; **1 deferral outstanding: yt-d7bgouAH3ns 2026-04-07**] + the 2026-07-21 fresh upload; synthesized through batch 184 → persona **v21**).
 
 ## Topics
 

@@ -10347,3 +10347,71 @@ Jones); **pattern recognition = leverage**; **off-site work vs. labour**; **the 
 trick**; **the swap-meet mindset argument**; and **Drucker's brand inversion**. To
 `entities/influences`: **Phil M. Jones**, **Erik Spiekermann**, **Josef Müller-Brockmann**,
 **Kimberly Elam**, **Carter/Meggs**, ***A Smile in the Mind***.
+
+## [2026-07-28] ingest | yt batch (@thefutur, 2 + 1 deferred) — the antiviral keynote, and the most personal source in the corpus
+
+Batch 193, Stage B (P2). L2: 970 → **972**. **One deferral** — see below.
+
+- **[2026-03-24] Don't Chase Virality (Do This Instead)** (`yt-GaDK_zVy1Cc`, 44 KB) —
+  ★★★★★ **LANDMARK.** A keynote at the **1 Billion Followers Summit in Dubai**, delivered as an
+  open rebuttal to **Brendan Kane**'s preceding talk, and the most sustained argument he has made
+  on any subject in this corpus. A decision tree in which **both branches are bad**, four named
+  mechanisms (seduction · addiction · prison · awakening), the ★★★★★ **VidCon 2022 empty-rooms**
+  evidence (*"20 to 30 seats. Not percentage"*), the tree then **inverted** around personal
+  development, ★★★★★ **quantity over quality** from *Art & Fear*, ★★★★★ **the three circles on a
+  napkin**, ★★★★★ **the gift economy** (flagged by him as unfinished), and **trust at scale**.
+- **[2026-03-31] Your Insecurity Is Your Brand** (`yt-i9AqXEjbf8I`, 29 KB) —
+  ★★★★★ **BIOGRAPHY LANDMARK.** The identity arc from *"all I wanted to do is be invisible"*
+  through the **Art Center graduation** to *"so that people can see it's safe to do that"*;
+  ⚠️ **the first record that Kier McLaren has died**, with **the Daywalker verdict in his own
+  words**; the family structure that explains the hybrid; ★★★★★ **his father's questioning
+  method** — plainly the origin of the Socratic style visible in every workshop source here; and
+  the parenting philosophy.
+
+⚠️ **DEFERRED (once): `yt-d7bgouAH3ns` — 2026-04-07, "How to Build a Brand People Actually
+Remember", 64 KB.** The batch totalled **137 KB across three transcripts**, the heaviest of this
+run, and both ingested sources are landmarks needing full treatment. The row is returned to
+`L0-discovered priority=2` **unread**, with the reason on the row. **It must not be deferred a
+second time** — it is first in the next batch.
+
+⚠️ **THE ALGORITHM CONTRADICTION IS MATERIALLY ADVANCED — BUT NOT RESOLVED.** 03-24 gives the
+anti-metrics position its most principled form yet: *"I personally do not like to **export my
+emotional well-being to a machine**"* — an argument about **self-worth**, not craft. And he states
+plainly: ★★★★★ *"**there's nothing wrong with going viral. That should not be the GOAL, though**"*,
+applying the same test to someone else's viral hit — *"it is viral **as a byproduct of him being
+fully aligned with who he is**."* Against that sit three *student of the game* statements about
+**titles, thumbnails and studying what works** — craft-level activity. **A goal/byproduct reading
+would reconcile them cleanly, and he never states it as a reconciliation.** Recorded prominently
+on the source page; **the bridge stays marked as the curator's.**
+
+⚠️ **Family-privacy rule applied hard** on 03-31. He speaks at length about his wife, both sons and
+his parents. **No family member is named**, and identifying details about the sons (institution,
+courses, exact ages) are **deliberately omitted** — only the parenting philosophy, which is his own
+belief material, is recorded.
+
+⚠️ **A caption slip recorded, not corrected**: in the *Art & Fear* passage he says *"quality leads
+to quality"* while describing an experiment that argues **quantity** produces quality. Kept
+verbatim with the slip flagged.
+
+Synthesis notes: **six genuinely new items, two of them corpus-altering.**
+① ⚠️★★★★★ **Kier McLaren has died** — `entities/kier-mclaren` must be rewritten, and it now holds
+the fullest account of the relationship anywhere: 13 years of weekly 90-minute-plus sessions, his
+other clients, and **the Daywalker verdict verbatim** (*"you're not the most creative… you're not
+the best business person either… but no one is as good at doing creative AND running a business as
+you"*). ② ★★★★★ **The identity arc** — invisible → the graduation → counter-stereotype mission —
+which is the single most important biographical sequence in the corpus and retroactively reframes
+his personal style, his representation work and his public confidence as **one continuous project**.
+③ ★★★★★ **The antiviral argument as a complete structure**, which should anchor its own topic page.
+④ ★★★★★ **The three circles** with the **\$58/hour Art Center** and *"a couple million before I
+turned 25"* biography attached, and the deliberately **missing money circle**.
+⑤ ★★★★★ **His father's questioning method** — the origin of his coaching style, and a genuine
+explanatory find. ⑥ ★★★★★ **The parenting philosophy** (*children are born perfect; do as little
+harm as possible; I've tried to bribe my children to quit school*) — a belief, not an anecdote, and
+it belongs in `persona/beliefs.md`. Also new: **quantity over quality** with *"luckily, I don't
+listen so good"*; **"creativity expands or contracts to meet a deadline"**; **the gift economy**;
+**trust at scale** (authenticity · empathy · logic) and *"if you want to reach more people, teach
+more people"*; **branding as stickiness** plus the loyalty test; ★★★★★ **"I love my bullies"** and
+its childhood root; **the family structure** (nine engineer siblings vs. artists and dreamers;
+middle of three brothers); and *"a series of unfortunate events led me to exactly here."* To
+`entities/influences`: **Brendan Kane**, **Mark Manson**, **Blair Enns**, **Bayles & Orland**,
+**Frei & Morriss**.

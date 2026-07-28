@@ -12481,3 +12481,49 @@ Synthesis debt 4/10.
 just study"*, with the **library-and-magazines method** attached. The hub carries taste-as-moat as an
 assertion; this makes it **a trainable claim with a stated method**, and it is the only place in the
 corpus that says how his own was acquired.
+
+## [2026-07-28] ingest | yt batch (@thefutur shorts, 0 ingested) — 7 covered, 3 held for their new material
+
+Batch 225, Stage C. **No source ingested this iteration.** L2 unchanged at **1,021**. Open shorts:
+852 → **845**.
+
+Ten shorts fetched, all **Chris-attributed** — this is his own channel and the presumption held.
+Rather than assume they were all recuts, I **phrase-checked each argument against the corpus**.
+
+### Seven closed as already covered
+
+AI-generated logos · supply/demand → confidence · the hourly-rate reductio (*"if I work less hours,
+should I charge you less?"*) · rate-follows-belief · \$100k via sector fit · cold-outreach etiquette ·
+*"clients do not choose the best option, they choose the least risky one"*.
+
+⚠️ **Note the marking I used**: `dup-of:corpus`, **not** `dup-of:<specific-id>`. For most of these the
+doctrine is spread across many pages — *least risky* alone appears on **10 source pages** — so there is
+no single parent to name. **Naming one would have been a fabrication**; saying "covered by the corpus"
+is what I can actually support.
+
+### ⚠️ Three HELD, because they contain formulations the corpus does not have
+
+Phrase-checking found **zero matches** for all three:
+
+| Short | What is new |
+|---|---|
+| `yt-VbSebE0sZrs` | *"**that's asking for the BULL'S-EYE**"* — a **new metaphor** for the don't-ask-the-client-for-the-answer doctrine. The doctrine is everywhere in the corpus; **this image is not.** |
+| `yt-1ZYBscGK8Gk` | Credits **Vinh Giang** (*"my brother from another mother"*) for a **contrarian answer** to *why do we tell stories*. ⚠️ **A credited influence not currently on `entities/influences`.** |
+| `yt-dfELKGZGous` | **Geographic market selection stated concretely** — work for markets that can afford you, *"at least here in the United States, it's on the coast"*. The hub has *geographic arbitrage* as a label; **this names the argument.** |
+
+**They are left at `L0-discovered` rather than rushed.** Each needs a page, and the Vinh Giang credit
+needs checking against the influences hub before it is written — ⚠️ **exactly the provenance care the
+last two synthesis passes were about.** Writing three pages badly at the end of an iteration would
+undo that.
+
+### Running Stage C tally
+
+**23 shorts processed · 4 dup-of-a-named-parent · 7 dup-of-corpus · 3 guest-only · 1 ingested · 3
+held.** ✅ **19 of 20 resolved shorts needed no page** — the dedup rail is earning its keep, and the
+one-in-twenty that does carry something new is worth the pass.
+
+Ledger: L2 = 1,021. Open: **shorts 845**, @TheFuturAcademy P3:37. ⚠️ Unscoped: 235 streams.
+Synthesis debt 4/10.
+
+**Synthesis notes:** none — no source ingested. ⚠️ **Three held items carry forward**: the bull's-eye
+metaphor, the **Vinh Giang** credit, and the concrete geographic-market argument.

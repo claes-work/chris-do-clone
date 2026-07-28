@@ -3,7 +3,7 @@ type: hub
 domain: sales-clients
 domains: [sales-clients]
 created: 2026-07-14
-updated: 2026-07-27
+updated: 2026-07-28
 tags: [sales, negotiation, lowball-playbook, walk-away, proportion-not-price, budget-as-importance-signal, people-spend-on-what-they-value, video-envy, risk-share, performance-deal, peter-drucker, two-option-close, refuse-the-hybrid, dollarise-the-offer, rainmaker, me-too-brand, chunking, discretionary-budget, sunk-cost-bias, objection-handling, discovery, positioning, client-management, role-play, serve-dont-sell, embrace-and-pivot, qualifying, closing, client-archetypes, blair-enns, cialdini, leverage, first-client-call, business-development, ambassador, presenting, pitching, money-mindset, strategy-selling, order-taker, trusted-advisor, jobs-to-be-done, decks-are-crutches, difficult-clients, boundary-setting, know-trust-like, inbound-outbound, firing-clients, dont-convince, objection-response-deck, control-energy, diagnostic-phase, outcomes-over-craft, strategist-reframe, client-selection, three-outcomes, mirror-the-ask, build-rapport, reciprocity, time-vampires, dinner-test, sell-your-idea, foreign-idea-invader, outreach-challenge, jim-rohn, mentorship, value-exchange, scaffolding, five-sales-mistakes, two-ears-one-mouth, talk-money-early, match-and-mirror, tony-robbins, buyer-types, referral-fee, minimum-level-of-engagement, value-buyer, lead-temperature, hot-warm-cold-leads, russell-brunson, cold-outreach, dm-outreach, lumpy-mail, allan-dib, praise-first, trust-your-struggle, listen-to-understand, human-tape-recorder, presence, jonathan-stark, deposit-first, accusation-audit, chris-voss, never-split-the-difference, u-turn, say-it-first, consultative-selling, therapist-frame, lion-and-sheep, silence, stop-selling-start-closing, count-to-20, sales-acronym, if-then-close, fiduciary, kevin-daley, dream-date, robot-vs-monkey-brain, no-brainer, one-result, competitive-lock, client-retention, zig-ziglar, sales-timeline, proposal-vs-contract, signed-contract, lead-qualification, matchmaker-frame, last-chapter, honesty-raises-esteem, curse-of-knowledge, ask-small-questions, empathy-exercise, patience, honest-vs-polite, have-to-get-to, non-violent-communication, emotional-neutrality, meeting-etiquette, shadow-the-boss, ask-before-ready, junior-listen-take-notes, free-work, trade-up, marketing-expense, pro-bono, errol-gerson, dont-negotiate-against-yourself, trust-ladder, just-ask-them, consistency-principle, symmetry-of-logic, forcing-acknowledgment-question, agree-then-find-the-gap, five-options, embed-a-pm, difficult-client-repair, non-judgment, post-delivery-detachment, ownership-follows-payment, feel-it-dont-express-it, generous-check-in, graceful-tenacity, concede-by-not-objecting, principles-over-scripts, quality-vs-shareability, loaf-of-bread, design-to-strategy, position-around-you, value-add-then-charge, reluctant-buyer, deferred-final-payment, money-back-guarantee, future-pacing, sell-to-excitement, international-clients, four-obstacle-framework, escrow, certifications, small-starter-project, retreat-and-follow, three-why, what-not-why, late-night-fm-dj-voice, tone-of-voice, tonal-control, belief-first, self-fulfilling-prophecy, help-not-sell, bucket-of-trust, make-better-wishes, one-thing, striking-distance, why-not-do-nothing, cost-of-inaction, socratic-selling, goodwill-bank, five-years-of-value, unsell-yourself]
 ---
 
@@ -4185,6 +4185,147 @@ invitation was rescinded in offence. *"**Never mind. Offer rescinded.**"* His cr
   (objection handling) both feed the pricing method.
 
 ---
+
+
+## ★★★★★ October 2025 – April 2026 additions (pass 20b, added 2026-07-28)
+
+### ★★★★★ Discovery and objections — FIVE MOVES, ONE METHOD
+
+⚠️ **Promote these together.** Recorded across five months and five sources, they are one
+coherent method, and the corpus previously held them as unrelated tips.
+
+| # | Move | The line |
+|---|---|---|
+| 1 | **Invite the no** | *"**You have to invite people to tell you no.**"* · *"**The no is the only truthful answer that you can count on reliably.**"* ([[../../sources/2025-10-09-yt-uSma86sakPw]]) |
+| 2 | **Ask for evidence** | ★★★★★ *"**Whenever the prospect says something, I NEVER ASSUME THEM TO TELL THE TRUTH. Not that they are actively trying to lie to me — but people have impressions of things. So whenever possible, WE ASK FOR EVIDENCE TO BACK IT UP.** … **If we work with a false premise, then we're going to make a flawed assumption.**"* ([[../../sources/2025-11-15-yt-VkrkF0N-ZdE]]) |
+| 3 | **Find the pain** | *"**Why not do nothing?**"* (credited to **Jonathan Stark**) — *"**that'll help them tell you how much pain they're having around not taking action**"*; with **motivation = degree of pain felt + clarity of outcome** (*Socratic Selling*, **Kevin Daley**) and **cost of inaction** ([[../../sources/2025-11-20-yt-Snvo9y6mSAw]]) |
+| 4 | **Pre-empt the objections** | *"**It communicates: this is not the first time you've done this. In fact, you've done it so many times you already know what I'm going to say. HOW'S THAT FOR BUILDING RAPPORT AND TRUST?**"* ([[../../sources/2025-12-11-yt--_sTrDwoZyM]]) |
+| 5 | **Arm the buyer / cast doubt** | *"**Have your potential client focus all their energies on your competitor's weaknesses rather than their strengths**"* — **and be ready for the reciprocal**: *"**they're going to ask you: how are YOU weak?**"* ([[../../sources/2026-02-10-yt-DK9DGsc3eaY]]) |
+
+★★★★★ **Two habits that run through all five:**
+
+- ★★★★★ **Don't explain.** *"**Speak confidently. Hold yourself high. You don't need to explain.
+  WHENEVER POSSIBLE, DO NOT EXPLAIN ANYTHING. Try not to prove anything.**"* → save proof as
+  *"**your ammunition**"* (produce it only when asked for three clients) → the replacements:
+  *"**That's what it costs**" / "**That's what it costs to work with people like me**" /
+  "**Policy. We don't do that.**"* ✅ The same word recurs as the minimum-fee script:
+  *"**My minimum project fee is \$2,500. IT'S POLICY.**"*
+- ★★★★★ **Voice the fears yourself.** *"**First we identify what they're afraid of, and then we
+  try to address them.** … **Well, you need to VOICE those things.**"* — with the question that
+  produces them: ★★★★★ *"**How have they been screwed over before? YOU GOT TO KNOW YOUR
+  CUSTOMER.**"* (*sold a bill of goods · talked a good game, did not deliver · ghosted the
+  project*)
+
+### ★★★★★ "Clients do not choose the best option — they choose the least risky one"
+
+> ★★★★★ *"**Clients do not choose the best option. THEY CHOOSE THE LEAST RISKY ONE. Your job is to
+> appear to bring them the least amount of risk.**"* ([[../../sources/2026-03-10-yt-Zys3dt503Q4]])
+
+✅ **This is the reason underneath much of this page** — stylescapes as a rejection device,
+guarantees, the documented process, the exit clause. Cite it as the principle, not as a tip.
+
+★★★★★ **Its companion — close the imagination gap:** *"**you don't want to make them work that
+hard to figure out how the heck is this person going to help me. When you do that, YOU'RE
+REQUIRING TOO MUCH OF THEIR COGNITIVE PROCESSING POWER — and they're just going to move on to the
+next person who's closer to what they want than you are.**"* → *"**We want a sure thing.**"*
+
+### ★★★★★ Qualification — three questions, and one euphemism
+
+> ★★★★ **The three questions on every call:** *"**Do you have a problem I can solve? Are you cool
+> enough that I want to work with you? And do you have enough money to RESPECT THE VALUE I'm going
+> to generate for you?**"* ([[../../sources/2026-01-22-yt-mgNTZRpZmEk]])
+
+★★★★ **The euphemism he names:** *"every time I ask creative people who do you serve, they almost
+always say **startups, early-stage founders**. And that is code word for… **BROKE.**"* → and the
+precise version of the rule: ★★★★★ *"**we have to create a product or service for a starving group
+THAT CAN AFFORD TO PAY US. That's the critical part. They starving — they just can't pay us.**"*
+([[../../sources/2026-02-17-yt-nTthfof409U]])
+
+### ★★★★★ ICP work — the method, and what it is actually for
+
+- ★★★★ **The trifecta** (2025-12-07): of your last ten clients — which gave **the most joy**
+  (*"I would have paid that person to do the work"*), which were **financially good**, and where
+  you were **aligned in their mission**.
+- ★★★★★ **The mirror** — why creatives keep choosing clients who can't pay: *"we like to work with
+  people aligned with us in taste and creativity, **but those same people don't have money. Cuz
+  you know why? CUZ WE DON'T HAVE MONEY. We're perfectly aligned.**"* → *"**Is it like looking in
+  a mirror? I see you.**"*
+- ★★★★★ **Steal someone else's customers** — the entry point for anyone with no client history:
+  *"**look at someone who you're like: I'd like to steal their customers. WHO THE HELL ARE THEIR
+  CUSTOMERS?** … **where do they buy from? And then we reverse engineer.**"* ⚠️ With the warning:
+  *"**sometimes you just make them who you WANT them to be, and they're not even real.**"*
+- ★★★★★ **Needs are external; wants are emotional:** *"people say 'I want to grow my account.'
+  **What's the internal EMOTIONAL want? What's the feeling?**"* → *"they want to feel significant…
+  **that they have a legacy they can leave behind.**"* → and the question most people skip:
+  ★★★★★ *"**What do they FEEL ABOUT PEOPLE LIKE US? When you can understand that, you'll sell to
+  them differently.**"*
+- ★★★★★ **Profiling is an empathy exercise, not a targeting exercise:** *"**when you understand the
+  kind of crap they've had to deal with, YOU HATE THEM A LITTLE LESS**… **this is why it's really
+  important to build a really good profile — BECAUSE WE DEVELOP EMPATHY FOR THEM**… **I'm not here
+  just to get money from you.**"* ✅ And he enforces it live, correcting a room's contempt for its
+  own avatar: *"**just take the derogatory part out of it.**"*
+- ★★★★ **TGO** (credited to **Nicole Johnson**): **tasks → obstacles → opportunity.**
+  *"**Every obstacle is an opportunity wrapped in disguise.**"* ⚠️ With a scoping discipline that
+  is the real lesson: *"he's trying to sell personal branding, **so he's not going to want to get
+  into her emails**"* — **pick the obstacle that's in your lane.**
+
+### ★★★★★ Outbound — the follow-five system and the referral script
+
+**The follow-five method** ([[../../sources/2026-03-10-yt-Zys3dt503Q4]]):
+
+1. Follow **five people a month**, subscribe to everything they make, and unfollow others so you
+   actually see them.
+2. ★★★★★ **Be early:** *"**respond and be one of the EARLIEST responders. The window is roughly
+   THE FIRST 15 MINUTES** — when a smaller company posts, **they just hit send, and they're going
+   to hang around for a few minutes.**"*
+3. ★★★★★ **Wait for the signal:** *"**at least 30 days of interacting**… **and I would wait to
+   slip into their DM UNTIL THEY RESPOND OR COMMENT ON SOMETHING THAT YOU'VE DONE. NOW YOU KNOW
+   THEY SEE YOU.**"*
+4. **The message** (freestyled on camera): *"Hey — I really admire your company's work… **if
+   there's ever an opportunity where you have overflow work that you can't do in-house, I'd love
+   the opportunity to help you out**… **I'm willing to work on a trial basis for whatever dollar
+   amount that you think is fair.**"* → *"**write your own version — but get to the core of the
+   message. Make sure it's genuine.**"*
+5. ★★★★★ **One follow-up, then stop:** *"**if you still don't hear back, just chill out for a
+   while. Don't hit them with another message, cuz they're going to feel like: this is super
+   aggressive and very spammy. TREAT PEOPLE THE WAY YOU WANT TO BE TREATED.**"* ⚠️ With the
+   consequence from his own inbox: *"**what you'll get from somebody like me is an immediate
+   delete and block.**"*
+
+★★★★★ **Follow the breadcrumbs** ([[../../sources/2026-01-03-yt-meVstiZhvqA]]): *"**when someone
+drops a comment — who is this person? Look them up. FOLLOW THE BREADCRUMBS.**"* → the soft
+outreach: *"'**thanks for the comment. Is there anything I can help you with?**' **That's all you
+need to say.**"* ⚠️ **And he indicts himself in the same breath:** *"**I'm guilty of this. LinkedIn
+tells me I have 600 profile views. I HAVEN'T REACHED OUT TO A SINGLE ONE.**"* — record the
+confession **with** the prescription.
+
+★★★★★ **The staged referral script** (crediting **Phil M. Jones**, *Exactly What to Say*), asked
+**in the moment of gratitude**: *"**Can I ask you for a favour?**"* → *"**Do you know one person
+who is like you, who would need something like what I've been able to do? Don't worry — I'm not
+going to ask you for their name right now.**"* → *"**Okay — so when you said yes, who are you
+thinking?**"* → *"**Could you reach out and let them know a little bit about me, so that when I
+reach out I won't be a stranger? And I'd like to follow up with you in a week.**"* ⚠️ With a
+self-disclosure: *"**in the past I've not been really good at this. I'm a little sheepish about
+asking for referrals.**"*
+
+### ★★★★★ The underdog playbook (2026-02-10)
+
+> *"**If you're going up against bigger players — people with bigger teams, more experience,
+> better quality of work — you don't really stand much of a chance UNLESS YOU CAN CAST SOME DOUBT
+> from the client side.**"*
+
+- ★★★★★ **Invert their strength.** Of a rival boasting the league's three biggest names:
+  *"**they think that's a strength. And so he uses the strength AGAINST them**"* → *"the best he
+  will ever be with you is **number four**"* → *"**it's going to catch them flat-footed.**"*
+- ★★★★★ **Isolate the decision-maker:** *"**when you're in a room full of decision makers, TRY TO
+  ISOLATE WHO REALLY HAS THE POWER.** And make sure that not only do you hear everybody, but **you
+  pay careful attention to the one that's going to make the decision.**"*
+- ★★★★★ **The Carrie story**, and the diagnosis that makes it teachable: *"**if this happens to you
+  once, that sucks. But if it happens MORE THAN ONCE from the same person — whose fault is it
+  really? YOU'VE NOT ADEQUATELY ADDRESSED WHAT'S HAPPENING.**"* → the verbatim script (*"**if I'm
+  not the last person, I would prefer to be last**… **I'm going to give you a price that's going
+  to be twice as much**… **ask them to show you examples**"*) → **she won the job at twice the
+  competing quote.**
 
 ## Sources
 

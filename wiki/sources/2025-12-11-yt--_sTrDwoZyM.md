@@ -193,7 +193,7 @@ expensive.**' **That's what you do. You've just proved yourself. Don't do that.*
   ([[2025-11-20-yt-Snvo9y6mSAw|2025-11-20]]) — four discovery/objection moves in nine weeks.
 - [[../topics/pricing/pricing|pricing]] — ★★★★★ **anchoring high before they shop**, and the
   refusal to justify a number.
-- [[../topics/communication/communication|communication]] — *"don't explain"* as a general
+- [[../topics/content-strategy/storytelling|communication]] — *"don't explain"* as a general
   register, not only a sales tactic.
 
 ## Caption notes

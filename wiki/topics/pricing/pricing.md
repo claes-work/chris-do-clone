@@ -3,7 +3,7 @@ type: hub
 domain: pricing
 domains: [pricing]
 created: 2026-07-14
-updated: 2026-07-27
+updated: 2026-07-28
 tags: [pricing, value-based-pricing, two-bs, baseline-benchmark, lifetime-customer-value, olympic-scoring, cost-per-acquisition, who-takes-the-risk, sales-rep-percentage, guarantees-are-priced, collapsing-tier, price-as-qualifier, billing-by-the-hour-is-malpractice, tim-williams, risk-share, performance-deal, abhor-discounts, uncapped-upside, two-option-close, all-profit-comes-from-risk, spend-on-what-you-value, price-the-client, anchoring, anchoring-reversal, verbal-upfront-pricing, discount-for-uncertainty, raising-rates, objection-handling, negotiation, price-bracketing, competitive-positioning, charge-for-discovery, embrace-and-pivot, storytelling, budget-scope-timeline, budget-first, budget-first-vs-relationship, order-taker-vs-advisor, underpricing-signal, resentment-signal, cant-lose-a-job-you-never-had, value-scale-of-questions, discovery-as-a-service, strategy-pricing, get-paid-to-think, price-as-qualifier, double-the-rate-ladder, inputs-vs-outputs, desired-future-state, train-of-thought, feeling-thought-reaction, limbic-brain, price-options, attention-ownership, price-first-scope-after, stop-hourly, socratic-hourly, value-appreciation, scope-creep, separate-service, de-scope, cost-stack, positioning-value, go-to-person, double-dont-inch-up, buyer-decides-fair, charge-more-virtuous-loop, referral-budget-qualification, self-worth-ceiling, education-not-worth, objection-by-inversion, invent-systems, royalty-vs-licensing, packaging-fees, say-it-like-a-fact, context-sets-value, horse-painter, charity-vs-clients, barter-menu, exposure-is-an-act, equity-in-lieu-of-fee, pro-bono-ratio, bid-buildup, hire-at-or-above-level, investor-mindset, compare-against-yourself, top-price-first, wine-list-reset, subjective-value, doctor-counter, envy-reframe, cost-vs-price-vs-value, seller-sets-price-buyer-sets-value, profit-from-risk, cost-plus, production-fee, padded-day-rates, statement-of-work, fixed-plus-variable, aicp-bid-form, top-sheet, karen-rainey, present-day-rate-card, retreat-and-follow, phased-discovery-bid, important-urgent-grid, budget-live-in-room, pain-threshold, facilitator-as-advocate, money-not-budget, sliding-scale-by-risk, rush-charge, pain-in-the-butt-charge, every-dollar-returns-10x, dan-mall, course-prelaunch-pricing, price-low-then-raise, verbal-commitment-against-lowball, fu-call, rom-bid, swag, scope-variation-funnel, contingency-fee, guarantee-handling, price-the-risk, prorate-guarantee, roi-return-framing, paper-the-guarantee, cogs-gross-margin, low-expenses-leverage, walk-away-power, pricing-ladder, career-stage-risk-ladder, input-output-outcome, profit-participation, licensing-usage-rights, supply-chain-margin, ten-to-hundred-markup, graduate-from-hourly, opaque-estimate, three-yeses-rule, close-rate-underpricing, design-thinking-anchors, unbundle-workshop-phases, price-as-signal, labor-theory-of-value, goldilocks-choice-architecture, irresistible-offer, ten-x-divide-by-ten-redesign, vertical-integration-offer, quality-of-questions-price-lever, diagnose-before-prescribe, passionately-detached, referral-finders-fee, switch-verticals, high-tide-all-boats, inversion-thinking-pricing, first-100k-system, minimum-level-of-engagement, close-ratio-funnel-math]
 ---
 
@@ -2713,6 +2713,150 @@ Related hubs: [[wiki/topics/sales-clients/sales-clients]] (negotiation, objectio
 qualifying), [[wiki/entities/the-futur|The Futur]].
 
 ---
+
+
+## ★★★★★ October 2025 – April 2026 additions (pass 20b, added 2026-07-28)
+
+### ★★★★★ The causal spine — why emotional value commands price
+
+This page has asserted for years that emotional value earns higher prices. Between November 2025
+and March 2026 he supplied the mechanism.
+
+★★★★★ **Maslow × the brand commitment ladder** ([[../../sources/2025-11-13-yt-SAwZqaJl2Lk]],
+crediting **Marty Neumeier**, *The Brand Flip*) — ⚠️ **and he flags the synthesis as his own
+speculation:** *"**I'm going to be like a conspiracy theorist here.**"*
+
+| Rung | What it is | What it earns |
+|---|---|---|
+| **Satisfaction** | *"you said you're going to do this, and you did what you said"* | *"I might try you again"* |
+| **Delight** | *"when you've surprised them… **there's a peak experience**"* | *"you might start to recommend it — **free advertising, word of mouth**"* |
+| **Engagement** | *"**you start to feel like you belong as part of a community or a tribe**"* | *"customer loyalty — **you will automatically repurchase**"* |
+| **Empowerment** | ★★★★★ *"if you read the book, it says: **PERSONAL GROWTH. What brand helps you to grow?**"* | the top |
+
+> ★★★★★ **The conclusion:** *"**the higher you go up this ladder, the greater the commitment from
+> the customer**… **and it turns out: WHEN YOU SELL A PRODUCT OR SERVICE THAT HELPS THEM ACHIEVE
+> THIS, YOU WILL COMMAND MORE MONEY.**"* → *"**Now think about what it is that you do. WHERE ARE
+> YOU SELLING IN THIS?**"*
+
+★★★★★ **The Apple/Dell demonstration**, and note that **he is fair to the low-status option:**
+*"**do you know how hard it is to find out how much something costs from Apple?** … **Go on the
+Dell website. Where's the price? IT'S RIGHT THERE ON THE FRONT PAGE — because they got nothing.
+They're not selling you a story. They're not helping you achieve status.**"* — but: *"**I just want
+it to perform, I want it to be cheap, I want it to be here tomorrow. DELL DOES A GOOD JOB WITH
+THAT.**"*
+
+### ★★★★★ Sell money
+
+> ★★★★★ *"**Kevin Daley says: what you need to do is YOU NEED TO SELL MONEY. You guys are selling
+> the wrong thing. You're selling services. You're selling time.**"* → *"**every time you can
+> DOLLARISE the value of what it is that you do — to put it in real terms — it's an easy sell.**"*
+> → *"**If you can measure it, and it matters to the client, it's an easy sell.**"*
+> ([[../../sources/2025-11-20-yt-Snvo9y6mSAw]])
+
+★★★★★ **Demonstrated live:** helping a company raise \$10M at 5% = **\$500k** — and, for the
+skeptic, the domain-free reframe: *"**I can help you get \$10 million to buy more cars. And I
+charge you 5%. YOU WOULD DO THAT DEAL EVERY DAY OF THE WEEK, WOULD YOU NOT?**"*
+
+> ★★★★★ **Size of problem → size of budget:** *"**there is a direct correlation to size of
+> problem — IN THE CLIENT'S MIND, NOT YOURS — to size of budget.**"*
+
+★★★★ **And the closing diagnosis, which reframes discounting entirely:** *"**we're looking for the
+wrong problem, we're serving the wrong client — and when we find the wrong client and sell them
+the wrong service, we say: we'll just do it for less.**"* → **the discount is the last symptom of
+a targeting error, not a pricing decision.**
+
+### ★★★★★ The qualification arithmetic (2025-12-07)
+
+For a client doing **\$200k/year**: *"**as a rule of thumb, most companies spend about 10% on
+marketing annually. So their annual budget, including people, is \$20K. And you're not going to
+take their whole budget — you're going to take a tenth of it: \$2K. IS THAT ROUGHLY THE SIZE OF
+YOUR PROJECT? … That's the problem. JUST MATH DOESN'T LIE.**"*
+
+> ✅ **The resulting criterion:** *"someone doing decent numbers, who **would be able to afford
+> people like you — and HAPPY TO PAY YOU. That's a criterion for an ideal customer profile.**"*
+
+### ★★★★★ The reverse math — goal to project price (2026-02-17, restated 2026-03-10)
+
+> ★★★★★ *"**Let's fast forward one year. WHAT HAS HAPPENED FINANCIALLY for you to feel this way?
+> What's the number?**"* → \$80k →
+>
+> ★★★★★ **Divide by TEN, not twelve** — *"**people are like: why not divide by 12? BECAUSE YOU
+> HAVE SLOW MONTHS. You'll need to take time off**… **you will not work 12 months out of the year.
+> It's just not possible forever and not burn out.**"* → \$8k/month → ÷ 2 projects = **\$4k per
+> project** → *"**what's the service you deliver for 4K?**"*
+
+**The 2026-03-10 restatement** uses different divisors to the same end: \$100k ÷ 10 months =
+\$10k/month ÷ 4 projects = ★★★★★ **a \$2,500 minimum project fee**, with the script:
+
+> ★★★★★ *"you're going to smile, stay really cool, and **look back at them very STOICALLY and say:
+> 'MY MINIMUM PROJECT FEE IS \$2,500. IT'S POLICY. Is there a way we can figure out to give you
+> what you want and that you're able to meet my minimum? Otherwise I can't take you on as a
+> client.'**"* → *"**you don't have to get into value-based pricing. You don't even have to have a
+> value conversation.**"* → and the buyer's-side reframe: *"**\$2,500 is easy cost for MEDICINE to
+> make a problem go away.**"*
+
+### ★★★★★ Geographic arbitrage (2026-03-10)
+
+**The corpus's only direct address to its large non-US audience on pricing.**
+
+> *"focus on **markets that can afford you** — in the US that's the coasts. **They tend to have
+> better budgets.** … **This is where ARBITRAGE can work really well in your favour. If you're
+> from a small country, from a little island, or from the middle of the US — cost of living is
+> much lower. YOU DON'T HAVE TO CHARGE THE LOCAL RATE, because the people buying this already
+> expect to pay this kind of price.**"*
+
+> ★★★★★ **And the objection, answered:** *"'**but Chris, they called us because they wanted a
+> better deal**' — **they're looking to exploit the fact that there's a low minimum wage where you
+> live. BUT IF YOU PRESENT LIKE EVERYONE ELSE, THEY WILL BE FORCED TO HIRE YOU AND PAY YOU THAT
+> RATE — BECAUSE YOU'RE THAT GOOD.**"*
+
+### ★★★★★ Offer construction — four moves (2026-01-30)
+
+Built live, from nothing, on a real service.
+
+1. ★★★★★ **The dream outcome** — refuse to stop at deliverables: *"**Why does anybody want that?
+   WHAT IS THE RESULT OF THEM HAVING THAT?**"* → past *"style, coolness"* to *"**something you
+   don't have to be embarrassed by, ashamed of**"* → the offer: *"**an identity system that's
+   reflective of your taste, and values, and identity — how you see yourself**"*, sellable because
+   *"**very few people actually have an identity they feel is reflective of their values.**"*
+2. ★★★★★ **Perceived certainty** — list the fears, voice them, and add an **exit clause**:
+   *"**if we do the mood board and you feel we're totally off — we'll exit. I'll refund your
+   money.**"* ★★★★ And why he likes it for the *seller*: *"**if they bail on this part, you're
+   done — and that's happening really fast, so your whole pipeline isn't tied up.**"*
+3. ★★★★★ **Time to result** — *"**you only need 24 hours to bang out something good. THE REST OF
+   IT IS ALL THIS GARBAGE. So what can we do to optimise the garbage?**"* — plus the **paradox of
+   choice** (three concepts, not four: *"one is too few, four is probably too many"*) and a
+   24-hour client response condition.
+   > ★★★★★ **The two-option speed premium — a complete, priced mechanic:** *"'**Option one, 30
+   > days. Option two, 14 days. Are you interested in option two?**' **Almost everybody's going to
+   > say yes.** '**Here's how option two works: you must make decisions, we cannot go beyond two
+   > revisions, and we're done. IF NOT, YOU PAY ME MORE.**' Anything over 14 days — **you bill
+   > another 2K.**"* ✅ This converts client slowness from a grievance into **a priced option.**
+4. ★★★★ **Friction removal** — *"**now you're ANTICIPATING all of what they're thinking, and you
+   design through the whole thing.**"*
+
+> ★★★★★ **And he refuses to declare victory:** *"**so this is not an irresistible offer yet. But
+> you keep working on this, and eventually it'll become really, really tight.**"*
+
+### ★★★★ Two structural arguments
+
+- ★★★★★ **Why hourly is broken:** *"**hourly billing or day rates PUNISHES YOU FOR BEING
+  EFFICIENT. It disincentivises you to invest in equipment, processes, plugins.**"* → *"**when you
+  price based on hour, you create a lot of anxiety in the buyer's mind: how long will this take?
+  What will this cost? And the answer is: I DON'T KNOW.**"* → the flat project fee removes it.
+- ★★★★★ **Raise prices when demand exceeds capacity** — *"**the market is literally telling you: we
+  want more of you, and there's not more of you to give.**"* With his own case: *"**every time I
+  raise my speaking rates, it does slow down a little bit. AND THAT'S THE WHOLE POINT. But
+  eventually it picks back up.**"* → *"**I'd rather work half as much, charge twice as much.**"*
+- ★★★★ **Price on the call:** *"**if you kick this down the road in a proposal, YOU'RE GOING TO BE
+  IN THE PROPOSAL BUILDING BUSINESS, NOT IN THE DESIGN BUSINESS.**"*
+- ★★★★★ **Price priming** (2026-02-10): *"**she's planting the seed that she's going to be twice as
+  much — so when she says the price, they have no excuse to say 'that was a lot of money.' SHE
+  COULD SAY: I TOLD YOU IT WAS A LOT OF MONEY.**"* → *"**they don't see price as a barrier
+  anymore. They see it as just A COST OF DOING BUSINESS.**"*
+- ★★★★★ **The opening challenge:** *"**Why do y'all think you need to make something affordable?
+  WHO TOLD YOU YOU NEED TO DO THAT? You want to charge less — but for some reason you want to pay
+  more. There's a problem with that, cuz you'll be broke.**"*
 
 ## Sources
 

@@ -3,7 +3,7 @@ type: hub
 domain: business
 domains: [business]
 created: 2026-07-14
-updated: 2026-07-27
+updated: 2026-07-28
 tags: [business, entrepreneurship, one-degree-pivot, trojan-storage, smile-curve, stan-shih, ai-eats-production, fifth-grader-language, manufactured-scarcity, scarcity-must-be-true, supreme, subtraction-offer-design, where-is-the-value, get-the-job-done, keir-mclaren, performance-vs-brand-building, runway-caveat, beats-monster, relationship-is-superior, time-audit, delegation-margin, michael-janda, scaling, agency, delegation, positioning, money, mission, reading-list, culture, design-education, cash-flow, referrals, business-development, curiosity-selling, autonomy, mentorship, pro-bono, conscious-capitalism, giving, freelancers, margins, maker-mindset, entrepreneurial-mindset, process-codification, quality-threshold, student-debt, documentation, freelance-transition, arbitrage, passive-income, runway, company-culture, promotability, bottom-up-management, innovation, white-space, royalties, licensing, feedback, creative-direction, first-hire, intern-bridge, freelancer-vetting, business-partnership, career-positioning, create-and-orchestrate, eight-core-concepts, inheritance-model, firing, no-surprise-principle, risk-profit, hourly-billing, teaching-business, true-fans, course-economics, copycat-response, execution-speed-moat, money-for-time, opportunity-cost, buy-back-time, scruples-hiring-test, values-vetting, creator-partnering]
 ---
 
@@ -2881,6 +2881,105 @@ good-looking, extremely charismatic, from a great family, living in the epicentr
   anchoring, the money conversation (the pricing half of the money rules)
 - [[wiki/entities/blind]] — the agency; registry record and lifetime-billings caveat
 - [[wiki/entities/the-futur]] — the education company; the mission and revenue figures
+
+
+## ★★★★★ October 2025 – April 2026 additions (pass 20b, added 2026-07-28)
+
+### ★★★★★ Focus — ONE idea in three registers
+
+⚠️ **Not three frameworks.** One argument, delivered three ways in five months. Treat them as
+interchangeable renderings and pick by audience.
+
+| Register | Statement | Source |
+|---|---|---|
+| **Operational** — the five ones (**Taki Moore**) | *"**One target market. One offering. One conversion method. One traffic source. And you've got to do it for ONE YEAR.**"* → *"extreme focus, so that you can build a lucrative business"* | [[../../sources/2025-10-30-yt-3ikc89b-tkE]] |
+| **Physical** — pressure = force ÷ area | ★★★★★ *"**push across a wall, the wall will not break. BUT IF YOU PUSH THE SAME AMOUNT OF PRESSURE THROUGH A PEA-SIZED SHAPE, YOU CAN PUNCH A HOLE THROUGH A WALL.** … **You can't work more than you can. You can't push any harder — and you're not supposed to. REDUCE THE AREA OF FOCUS, and you create tremendous pressure.**"* | same |
+| **Strategic** — diluting your power | *"**we have so many different offers to so many different avatars that we DILUTE OUR POWER.** … **you can have 10 athletes that are all mediocre. But there's only one Michael Jordan.**"* | [[../../sources/2026-02-10-yt-DK9DGsc3eaY]] |
+
+✅ **Prefer the physical register.** It makes focus **an argument about leverage, not discipline** —
+you are not being told to try harder; you are being told that trying harder is the wrong variable.
+
+> ⚠️★★★★★ **AND HE PUBLICLY FAILED HIS OWN TEST.** *"**For so many years I've told all of you to be
+> hyper-niche… and here I am doing a lot of different things for a lot of different people — AND
+> I'VE LOST MY WAY.**"* → *"**I'm clearly not doing the five ones**… **people often are confused:
+> so what do you do again? It's not clear.**"* **This advice is not delivered from a position of
+> having solved it.**
+
+> ⚠️ **A tension recorded, not resolved.** Seven days earlier (2025-10-23) he *defends* breadth —
+> see [[../branding/branding|the tree]]. The scopes differ (identity/content vs. offerings), and
+> 10-23 even supplies the test 10-30 applies. **He never connects them. Both stand.**
+
+### ★★★★★ The tiers — "the most important business lesson from my coach"
+
+> ★★★★★ *"**There are TIERS. You don't know it, cuz it's all invisible to you. WHEN YOU HIT THIS
+> LEVEL, YOU THINK YOU'RE AT THE TOP OF THE MOUNTAIN. YOU'RE ACTUALLY JUST AT THE BOTTOM OF THE
+> NEXT MOUNTAIN.**"* ([[../../sources/2025-12-07-yt-NMSHcSq8nMs]];
+> [[../../entities/kier-mclaren|Kier McLaren]])
+
+**Blind's own ladder, as evidence:** *"**when we would win \$100,000 jobs, we could not win
+\$200,000 jobs. When we win \$200,000 jobs, I could not win \$400,000 jobs — because they're very
+different animals, different levels of competition. And then you get to the million-dollar range,
+and it becomes CUTTHROAT, cuz everyone is world class. You've read them in your design books.
+That's who you're competing with.**"*
+
+★★★★ **Its corollary — "they trade up":** *"**when you're first dating your high-school sweetheart
+and then you both went to the big city**… all of a sudden she got a big job. **You're not the same
+to them anymore. THEY TRADE UP. Most people just trade up.** … **And you would do the same.** …
+**Not everyone is capable of going to the next level.**"*
+
+### ★★★★★ The five stages to \$100k (2026-03-10)
+
+**The most complete practical roadmap in the corpus** — survival → stability → systems → scale →
+sustain. Summarised here; the full treatment is on the source page
+([[../../sources/2026-03-10-yt-Zys3dt503Q4]]) and may warrant its own topic page in a later pass.
+
+| Stage | The core move |
+|---|---|
+| **1 Survival** | *"**this stage isn't failure. It's just a lack of awareness.**"* Learn the craft; **three-to-five portfolio pieces**, because *"**when we see something bad, WE ASSUME THAT THIS WILL BE THE THING THAT YOU DELIVER TO US**"*; *"**slow down in this stage**… **it's the work very few people do — and they skip it, and then wind up struggling for the rest of their creative careers.**" |
+| **2 Stability** | Say no; **the follow-five outreach system**; ★★★★★ **close the imagination gap**; the case study in five parts; **geographic arbitrage**; *"**you're going to be in the proposal building business, not in the design business.**" |
+| **3 Systems** | ★★★★★ *"**clients do not choose the best option. They choose the least risky one**"*; a documented **five-step process**; productise; *"**hourly punishes you for being efficient**"*; the **\$2,500 minimum**. |
+| **4 Scale** | The **referral script** (Phil M. Jones); **the three Ps** (people · product · promotion); *"**don't take your eye off content — WE CAN'T JUST MAKE IT RAIN INSTANTLY**"*; **spend 10% of energy on marketing**; ★★★★★ *"**you can make more money, but you can't make more time.**" |
+| **5 Sustain** | **Multiply yourself**; ★★★★★ **the steak rule**; coach the team up **through art direction**; ★★★★★ *"**what got you here won't get you there** — **the new skills don't come from where the old skills came from.**" |
+
+★★★★ **The closing metaphor:** *"**at the bottom, it's about ENDURANCE and doing the reps. In the
+middle, STRUCTURE. At the top, PERSPECTIVE and leading others.**"* → *"**getting to \$100,000 isn't
+about luck. It's about systems, clarity, and intention.**"*
+
+### ★★★★★ Leverage, labour, and time
+
+- ★★★★★ **Pattern recognition is leverage:** *"**if you're repeatedly exposed to the same problem,
+  as you spot patterns — THAT'S WHAT INTELLIGENCE IS. IT'S PATTERN RECOGNITION. And when you see
+  patterns, THIS EQUALS LEVERAGE. And leverage equals power and money and value.**"* → *"once you
+  have this leverage, you **shift away from selling your time to selling outcomes.**"*
+- ★★★★★ **Do work that can be done off-site:** *"**any of these skills that you do ON-SITE does not
+  allow you to grow your practice — because THEY'LL STILL SEE YOU AS LABOUR. AND LABOUR IS
+  MEASURED AGAINST TIME.**"*
+- ★★★★ **The delegation rule:** *"**if you can pay someone less than what you charge to do
+  [something], you should definitely find someone else to help you.**"*
+- ★★★★ **Retention over acquisition:** *"**it's really hard to get a customer. It's easier to keep
+  a customer buying more stuff from you.** … **we do one job, they pay us, and they're gone.**"* →
+  the goal: *"**at some point you'll be IRREPLACEABLE — which is what we all want.**"*
+
+### ★★★★ The gift economy — flagged by him as unfinished
+
+> *"**The attention economy, as some would argue, IS the economy. Whoever can control attention
+> controls opportunities.** … **Underneath it is the GIFT, OR GIVING, ECONOMY.** Bear with me —
+> **it's a concept. I'M WORKING ON IT.**"*
+
+*"**you give freely with no short-term expectations**… **instead of getting money, YOU'RE GETTING
+SOCIAL CURRENCY**"* — time, attention, status, support, connection.
+([[../../sources/2026-03-24-yt-GaDK_zVy1Cc]])
+
+### ★★★★★ Where innovation comes from (2026-02-10)
+
+> ★★★★★ *"**This is where most innovations come from: somebody who is fairly new in an industry,
+> who ISN'T BOUGHT INTO THE DOCTRINE OR DOGMA of how things are done — or someone who's completely
+> an amateur. That's where the innovation comes from, because she has the boldness to think
+> differently. NOT BECAUSE SHE'S A BOLD PERSON PER SE — BUT BECAUSE SHE DOESN'T KNOW HOW THINGS
+> ARE DONE.**"*
+
+> ⚠️ **Cuts against his own insistence on receipts and experience elsewhere on this page. He does
+> not address it.** Record both.
 
 ## Sources
 

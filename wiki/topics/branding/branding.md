@@ -1,7 +1,7 @@
 ---
 type: hub
 domains: [branding]
-updated: 2026-07-27
+updated: 2026-07-28
 tags: [branding, personal-branding, fame-is-not-a-brand, premium-test, attractive-character, self-awareness-vs-self-acceptance, vulnerability-as-transparency, pixar-rule-one, the-enemy, allan-dib, anti-crippling-student-debt, eight-mile-rule, put-it-in-front, mutual-envy, quality-vs-results, sell-status, logo-quilt, awards-negative-result, traditions-as-brand-story, memories-not-experiences, unbland, brand-strategy, positioning, storytelling, shadow-work, two-word-brand, logo, logo-critique, identity, identity-system, timelessness, style, packaging, brand-equity, shelf-presence, private-label, brand-filter, go-to-person, sub-brand, order-taker, do-good-work, flip-the-switch, branding-vs-marketing, marketing, halo-bias, specialize-externally, generalize-internally, own-the-client-relationship, portfolio, worst-piece-rule, brand-strategy-method, discovery, show-dont-explain, seven-questions, coaching-habit, funnel-math, value-based-pricing, results-based-pricing, facilitation, unbiased-inquiry, client-advocate, everything-is-marketing, inform-or-inspire, point-of-view, brand-personality, personal-voice-vs-company-voice, brand-as-filter, authenticity, charming-razor-blade]
 ---
 
@@ -2132,6 +2132,154 @@ product or service without a story is a commodity"* → *"**no story, no brand.*
   (*Story 10x*), **Peter Drucker**, **Jeff Bezos** (brand = what people say when you're not
   in the room). [[wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]];
   [[wiki/sources/2024-01-10-yt-h-eRwbbpfxo]]; [[wiki/sources/2025-05-31-yt-RCocxOMQD3M]]
+
+
+## ★★★★★ October 2025 – April 2026 additions (pass 20b, added 2026-07-28)
+
+### ★★★★★ "Pick a fight" — finally qualified (2025-10-23)
+
+The phrase has circulated in this corpus for years without its qualifier. He supplies it:
+
+> ★★★★★ *"**I pick fights with all kinds of things**… the belief that **worth is tied to time and
+> effort** — that's an old model. Anyone who calls themselves a personal branding expert **putting
+> out content to teach you how to market.** **THOSE ARE IDEAS. I WANT TO FIGHT IN THE REALM OF
+> IDEAS AND PHILOSOPHY.**"*
+
+**The fights he names:** worth = time × effort · branding "experts" teaching marketing ·
+*"**The Futur is like private art school without the crippling debt**"* · gurus regurgitating
+info products *"based on knowledge they've not acquired through experience — **WHERE ARE THE
+RECEIPTS?**"* · trolls who say it can't be done.
+
+> ★★★★★ **The test:** *"**if you're not feeling either 'I'm all in on what Chris is saying' or
+> 'I'm all against it' — then you're not really finding a lane.**"*
+
+⚠️ **And the boundary that makes it usable:** he does *not* fight in public on politics.
+*"**In private I'll tell you my opinions on lots of things. But in public, I'm here to help people
+achieve a goal — and I don't want to let my political musings get in the way of that.**"* Grounded
+in the Black Lives Matter episode — he posted, was told by people in the Black and brown community
+that he wasn't equipped to, and **agreed**: *"**I suck the oxygen out of the room for people who
+are needing it.**"* → *"**this is not my lane.**"*
+
+### ★★★★★ The tree — one trunk, many branches (2025-10-23)
+
+> ★★★★★ *"**I'm trying to grow the MAIN TRUNK of my tree, so it's stout and strong and has deep
+> roots. There may be branches of interest — but WHAT I DON'T WANT IS A MULTI-TRUNK TREE, where
+> some wind blows and the whole thing falls over.** … **There are branches of interest, and THEY
+> SUPPORT THE MAIN TRUNK. They give it energy. They feed it.**"*
+
+★★★★ **The trunk, named:** *"**pricing, communications, personal branding.**"* · **The sequencing
+rule:** *"**you don't want to build a treehouse on a tree that's not strong enough to support the
+weight**… but **when the tree is strong enough, you can build all kinds of things on it.**"* ·
+**The timescale:** *"**I don't think you need to be integrated on day one. THIS IS A JOURNEY
+THAT'S 11 YEARS.**"*
+
+> ★★★★★ **The test for any side interest — symbiotic or parasitic:** shark and sucker fish versus
+> a burrowing parasite. *"**You're the organism supporting everything. If you find things that are
+> side hustles or passions — ASK YOURSELF: IS IT SYMBIOTIC? Do they support each other — or is it
+> PARASITIC?**"* → and the diagnostic, which is not about the interest itself: *"**as long as you
+> have the energy to do your main thing, all is good. IT'S WHEN IT DISTRACTS FROM THAT — when your
+> business is going sideways, when you're working 80 hours a week and you're becoming a stranger
+> to your own family.**"*
+
+⚠️ **He applies it to his own history:** The Futur, in 2014, *"**was a parasite, if you think about
+it — because it was draining resources, money, space, time and energy from the main company.**"*
+
+### ★★★★★ The three-part essence (2026-04-07)
+
+His branding system reduced to something a reader can complete in thirty minutes — a triangle,
+*"where they meet in the middle is where you are in your personal brand"*:
+
+1. ★★★★★ **What is the one thing you want to be known for?** — *"**I'd like to reduce it down to a
+   WORD if possible.**"*
+2. ★★★★★ **Who's the enemy?** — *"**What are you on a mission to rid the world of? What do you want
+   to eradicate?**"*
+3. ★★★★★ **Your rallying cry / call to arms** — *"**the phrase that when you say it, ACTIVATES your
+   audience and the community.**"*
+
+> ★★★★ *"**The cool thing is you only need to know ONE of these things to figure out the other
+> two.**"*
+
+> ★★★★★ **Why an enemy at all:** *"**WE ARE MORE UNITED IN A COMMON ENEMY THAN WE ARE IN A COMMON
+> FRIEND. And all the best brands in the world, as far as I know, THEY HAVE AN ENEMY.** … **If we
+> can't identify that, there's a big part of the triangle that's missing.**"*
+
+★★★★★ **Worked cleanly on a longevity figure:** one thing = **longevity** · enemy = **death**
+(*"another \$6 word for death is ENTROPY"*) · rallying cry = **"Don't die."** → *"**And it's
+perfect.** … **So now it becomes really clear, and he can build brand extensions from this.**"*
+
+### ★★★★★ Be number one, or pick another lane (2026-04-07)
+
+> ★★★★★ *"**Can you own this space? BECAUSE THE WORLD REWARDS NUMBER ONE — not number two, three
+> or four. If you cannot own this space within a relatively short amount of time — ONE TO TWO
+> YEARS — THEN YOU SHOULD NOT TRY.**"*
+
+- **The arithmetic:** *"**the number one leader in any vertical is THREE TIMES BIGGER than number
+  two. Number two is three times bigger than number three.** So the three top players control the
+  entire market — **and THE REMAINING 97% FIGHT FOR CRUMBS. IF YOU CAN'T BE NUMBER ONE, DON'T EVEN
+  PLAY.**"* — proved by memory test (first on the moon / who was second; *why* → Simon Sinek /
+  who's second; *vulnerability* → Brené Brown / who's second).
+- **The rule from Seth Godin's *The Dip*:** *"**we should PREDETERMINE if we're going to be
+  successful — and once we determine we can be, WE NEVER QUIT. What people do is they try things
+  and quit, try things and quit. They never get anywhere.**"*
+- ★★★★ **The escape hatch:** *"**it only takes ONE DIMENSION to change the game. One level of
+  specificity.** 'I want to be the YouTube strategist **for Latin America**.' Boom. **You can own
+  that.**"*
+- ★★★★★ **And he applies it to himself — which is why the book is called what it is:** *"you say:
+  'Chris, can you be number one in personal branding?' **MAYBE. I'M NOT SURE. BUT I CAN DEFINITELY
+  BE NUMBER ONE IN UNBLAND.**"* → *"**See — this is just words. AND WORDS DO MATTER.**"*
+- ★★★★ **Applied honestly to a competitor:** *"**if I cannot out-research and out-storytell and do
+  TED Talks among the 10 most viewed in the world, and compete with Brené — I'M NOT GOING TO TRY
+  TO WIN THAT GAME. I'll try to win a different game. Maybe I use the word SHADOW SELF.**"*
+- ★★★★★ **When told this is discouraging:** *"**Why? YOU HAVE A SYSTEM OF THINKING DESIGNED FOR
+  FAILURE, MY FRIEND.** … **the coin has two sides. Once you own it, IT'S KIND OF HARD TO UNDO.**"*
+
+### ★★★★★ Three principles of personal branding (2026-04-07)
+
+> *"I'm a little afraid to tell you, but I will — **because the principles are philosophies and
+> ideas. THEY'RE NOT ACTIONABLE.**"*
+
+1. ★★★★★ **Be intentionally or meaningfully different** — *"**if you're the same as everybody else,
+   you might as well not have a brand. YOU HAVE A BLAND.**"*
+2. ★★★★★ **Have the courage to be disliked** — *"**different gets smashed. Different gets
+   ridiculed. Different is misunderstood.** So as soon as you have the courage to stand up, people
+   are coming after you. **I'm different, and I'm cool with that.**"*
+3. ★★★★★ **Be aesthetically discerning** — *"**more than 50% of our brain is dedicated to visual
+   processing**… **the way I present myself signals to other people really quickly, BEFORE WORDS
+   ARE FORMED, a feeling.**"*
+
+### ★★★★★ Compel and repel
+
+> ★★★★★ *"when you say something based on your convictions — **not to rile people up; I'm not
+> saying to be a contrarian, to be divisive, but to say things that have meaning to you** — **IT
+> SHOULD BOTH COMPEL AND REPEL.**"* → *"**if I do something that doesn't repel people, I'M NOT
+> DOING ANYTHING OF NOTE. If you drive down the middle lane always at 55 mph, you're not going to
+> offend nobody — and you're not going to break a speed record. I'M HERE TO BREAK THINGS.**"*
+
+★★★★★ **And the two lessons that made it safe for him:** *"**NOBODY'S REALLY PAYING ATTENTION TO
+YOU**"* and *"**there's a WIDER LEVEL OF ACCEPTANCE for you than you think**… **people are so
+afraid of alienating everyone that they wind up saying nothing to everyone — BLANDING THEMSELVES
+into oblivion, into irrelevancy.**"*
+
+### ★★★★ Four more
+
+- ★★★★★ **The robot-voice test:** *"**talking about what you do is NOT how you build a personal
+  brand. You're basically doing TUTORIALS.** … **If we put a robot voice on you — the exact same
+  script — and BLURRED YOUR FACE: would anybody be able to tell it's you?**"* — with the synthesis:
+  *"the solution is somewhere in between — **I give you a lot of utility… BUT I'M ALSO WEAVING IN
+  MY STORY ABOUT WHO I AM.**"*
+- ★★★★★ **Provenance:** water is free and abundant, yet one bottle is \$2 and another \$25 —
+  *"**the answer is THE STORY that each bottle brings… PROVENANCE, where something comes
+  from.**"* → *"**HUMANS ARE MEANING-MAKING MACHINES**… **when you don't tell your story, there's
+  no meaning. There's no connection.**"*
+- ★★★★ **Branding is stickiness**, with a test: *"**it's how loyal people are to you**… **ask them
+  to do something simple. Comment this. Go vote for me.** So you can **test the strength of those
+  relationships.**"*
+- ★★★★ **Marketing ≠ sales ≠ branding:** awareness = **marketing**, conversion = **sales**, trust =
+  **branding**. *"**What I don't like is when we use one term to describe too many things — then
+  the words lose meaning. BECAUSE THE WORDS SHAPE OUR WORLDS.**"*
+- ★★★★★ **Trust at scale** (crediting **Frances Frei and Anne Morriss**): **authenticity** ·
+  **empathy** — *"**we need to feel like YOU CARE ABOUT YOUR AUDIENCE MORE THAN YOUR NEED TO MAKE
+  MONEY**"* · **logic** → *"**if you want to reach more people, TEACH more people.**"*
 
 ## Sources
 

@@ -149,8 +149,11 @@ second, prior motive: **counter-stereotype work.**
 > AWAY.** He's a big Irish-American man, very big, rides a motorcycle. **And I would meet with him
 > every single week for 13 years, for about an hour and a half to two hours.**"*
 
-> ⚠️ **The first record in the corpus that he has died.** No date is given.
-> [[../entities/kier-mclaren|The entity page must be updated.]]
+> ⚠️ **No date is given.** **This is not the first record of his death** — that is
+> [[2025-02-02-yt-mw_0Hy1-tic|2025-02-02]] (*"Kier — he since passed away…"*), already captured
+> on [[../entities/kier-mclaren|his entity page]]. **What this source adds is the fullest account
+> of the relationship**: the 13-year weekly cadence, his other clients, and the Daywalker verdict
+> in his own words.
 
 ★★★ **On Kier's other clients:** *"he consulted and coached many people in our industry. **Some of
 them are world-famous title designers who worked on big blockbuster films. Some of them work with

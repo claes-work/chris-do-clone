@@ -350,7 +350,7 @@ I don't really care about schedules or posting times and optimising for any of t
 - [[../topics/content-strategy/content-strategy|content-strategy]] — ★★★★★ **snack not meal**;
   the first three seconds; 100 hooks; the curiosity-gap split; **master short form first**;
   ⚠️ the tenth metrics-indifference attestation.
-- [[../topics/communication/communication|communication]] — the danger of smart people; *"until
+- [[../topics/content-strategy/storytelling|communication]] — the danger of smart people; *"until
   you beg me for it"*; **the live story performance** as a demonstration of *start at the end*
   from [[2025-10-25-yt-Z0wnvRTWYmo|2025-10-25]].
 - [[../topics/sales-clients/sales-clients|sales-clients]] — ★★★★★ **"I never assume them to tell

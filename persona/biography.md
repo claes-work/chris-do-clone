@@ -1067,9 +1067,19 @@ _All self-reported unless marked. Sources: batches 185–194._
 > meet with him every single week for 13 years, for about an hour and a half to two hours.**"*
 > ([[../wiki/sources/2026-03-31-yt-i9AqXEjbf8I]])
 
-**No date of death is given, and none is inferred.** This is the first record of it in the
-corpus and it **retroactively puts every coaching anecdote in the past tense.** ✅ The 13-year
-figure corroborates the 2020 telling above (against the earlier ~10-year figures).
+**No date of death is given, and none is inferred.**
+
+> ⚠️ **CORRECTION (pass 20b, same day).** Pass 20 recorded this as *"the first record in the
+> corpus."* **That was wrong.** His death was already noted in passing at
+> [[../wiki/sources/2025-02-02-yt-mw_0Hy1-tic|2025-02-02]] (*"Kier — he since passed away —
+> would say: hey dummy, why don't you do it this way"*) and captured on
+> [[../wiki/entities/kier-mclaren|his entity page]] in synthesis pass 15b. **What 2026-03-31
+> adds is not the fact but the fullest account of the relationship** — the 13-year weekly
+> cadence, his other clients, and the Daywalker verdict below.
+
+✅ The 13-year figure corroborates the 2020 telling above (against the earlier ~10-year
+figures). ⚠️ Note also that the entity page records the working relationship as having **ended
+around 2014**; the *"13 years"* is its length, not a span running to the present.
 
 ★★★ **Kier's other clients, for context on the relationship:** *"he consulted and coached many
 people in our industry. **Some of them are world-famous title designers who worked on big

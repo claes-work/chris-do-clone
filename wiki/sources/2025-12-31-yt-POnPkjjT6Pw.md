@@ -235,7 +235,7 @@ to trick you — I just do it all the time naturally.**"*
 - [[../topics/sales-clients/sales-clients|sales-clients]] — ★★★★★ **"the maybes waste all your
   time"** and the nurture-not-call rule; the qualification logic that follows the ICP work of
   [[2025-12-07-yt-NMSHcSq8nMs|2025-12-07]].
-- [[../topics/communication/communication|communication]] — ★★★★★ **"words shape worlds"**;
+- [[../topics/content-strategy/storytelling|communication]] — ★★★★★ **"words shape worlds"**;
   reading the **lower register** as the truth-tell; pushing for the stronger emotion. ✅ Pairs with
   *"no emotion, there's no story"* at [[2025-10-25-yt-Z0wnvRTWYmo|2025-10-25]].
 - [[../topics/branding/branding|branding]] — *"it's not you, it's the packaging"*; **pretend to be

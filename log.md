@@ -10532,3 +10532,77 @@ insistence on receipts.
 
 Synthesis notes: none — this IS the synthesis pass. Next: pass 20b (topics + entities), with the
 **Kier McLaren entity rewrite as the highest-priority item**.
+
+## [2026-07-28] lint | synthesis pass 20b — topic hubs + entities (Oct 2025 → Apr 2026)
+
+**Closes the gap pass 20 declared.** All six topic hubs updated, one new sub-page created, one
+entity substantially extended, and a structural problem fixed. system-prompt unchanged at **v22**
+(no `persona/` file changed in this pass).
+
+⚠️ **A CORRECTION TO PASS 20, made in this pass.** Pass 20 recorded Kier McLaren's death as
+*"the first record in the corpus."* **That was wrong.** It was already noted in passing at
+[2025-02-02] (*"Kier — he since passed away…"*) and captured on his entity page in synthesis pass
+15b. What 2026-03-31 actually adds is **the fullest account of the relationship**, not the fact.
+Corrected in three places: `persona/biography.md`, the 2026-03-31 source page, and the entity page.
+✅ **This is exactly what a synthesis pass is for** — the ingest loop sees one source at a time and
+cannot catch a claim like that.
+
+⚠️ **A structural problem found and fixed.** Source pages had been cross-linking to a
+`topics/communication` hub that **does not exist in this repo's taxonomy** (the seven domains are
+branding · business · content-strategy · design-craft · mindset · pricing · sales-clients). Rather
+than invent an eighth domain, the craft material now lives at
+**`wiki/topics/content-strategy/storytelling.md`** — the same sub-page pattern as
+`branding/authenticity-gap.md` — and **8 dangling links were repointed to it.** Indexed.
+
+**`wiki/topics/content-strategy/storytelling.md` — NEW.** The explicit 20b task: promote the
+storytelling curriculum as **one unit**. It had been split across four sources — the
+writing/texture half (2025-10-25) and the structure half (2026-01-10) never appear together — plus
+a compression layer (2026-02-24) and a naming layer (2026-01-30). *"Start at the end"* is the hinge
+between them and appears in both, in different words.
+
+**⚠️ `topics/content-strategy` — the algorithm contradiction is now IN THE HUB**, for the first
+time; it had lived only in source pages and the log. Written up with both sides weighted: side A at
+its most principled (*"export my emotional well-being to a machine"*), side B with **three**
+attestations plus the factual admission that The Futur optimises its own titles and thumbnails, and
+the closest he comes to joining them (*"nothing wrong with going viral — that should not be the
+goal"*). **The bridge is explicitly marked as unavailable on his authority.** Also added: the
+antiviral argument, the Content-to-Clients Blueprint, the *"that's me"* test, 30-30-30, and
+⚠️ *"it's a freaking lonely endeavor"* as a behavioural fact that complicates every encouragement
+on the page.
+
+**`topics/sales-clients`** — ★★★★★ **the five discovery/objection moves promoted as ONE method**
+(the other explicit 20b task); *clients choose the least risky option* and the imagination gap;
+the three call questions and *"starving but able to pay"*; the ICP method with **the mirror** and
+**profiling as empathy**; the follow-five outreach system, follow-the-breadcrumbs (**with his own
+confession attached**), the staged referral script; and the underdog playbook.
+
+**`topics/pricing`** — the causal spine assembled (Maslow × Neumeier's ladder with his *conspiracy
+theorist* hedge; Apple/Dell, fair to Dell); **sell money** and *size of problem → size of budget*;
+the 10%-of-10% qualification math; the reverse math and **divide-by-ten**; the **\$2,500 minimum**
+with *"it's policy"*; **geographic arbitrage**; the four-move offer construction and the
+**two-option speed premium**; why hourly punishes efficiency; **price priming**.
+
+**`topics/branding`** — *pick a fight* qualified (*the realm of ideas*) with the political boundary
+attached; **the tree** and the symbiotic/parasitic test (including *"The Futur was a parasite"*);
+**the three-part essence**; **be number one or pick another lane** with the 3× law; the three
+principles; compel-and-repel; the robot-voice test; provenance; trust at scale.
+
+**`topics/business`** — focus as **one idea in three registers** with his public failure of it;
+**the tiers** with Blind's ladder and *"they trade up"*; **the five stages to \$100k** (flagged as
+possibly warranting its own page later); pattern-recognition = leverage; off-site vs. labour; the
+gift economy; **where innovation comes from** ⚠️ with its tension against his own receipts rule.
+
+**`topics/mindset`** — the collar and the chain; *out of my league*; **the two doors**; we are the
+worst judge of our own value; thank-and-retire the old self ⚠️ **with the seventh
+non-violent-language instance and the "not defiance" persona guard**; **the three circles**;
+quantity-over-quality ⚠️ with its tension against *measure a hundred times*; and *"I love my
+bullies"* linked to its childhood root.
+
+**`entities/kier-mclaren`** — extended with the 13-year weekly cadence, his other clients,
+★★★★★ **the Daywalker verdict verbatim** (with attribution discipline: **the verdict is Kier's,
+the Daywalker metaphor is Chris's gloss**), the **\$2.2M → \$3.9M** claim, and *"it's usually the
+small tweaks"* — which governs how Chris coaches everyone else.
+
+Synthesis notes: none — this IS the synthesis pass. No pending checkpoints remain; the loop returns
+to Stage B ingest next iteration (@thefutur P2:103 open, plus the `yt-97f8zw1mbik` caption-fetch
+retry).

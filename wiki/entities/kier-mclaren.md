@@ -3,6 +3,7 @@ type: entity
 entity_type: person
 category: person (context)
 created: 2026-07-17
+updated: 2026-07-28
 first_seen: 2015-09-15
 tags: [person, context, business-coach, consultant, mastermind, speaker-attribution, blind]
 ---
@@ -424,3 +425,98 @@ will work out too. We need to give someone permission to then give us permission
 
 > ⚠️ **A comparison worth keeping** (2025-08-23): *"**I saw my former coach and mentor an hour, an hour
 > and a half each week**"* — used to argue that a protégé with constant access is under-using it.
+
+---
+
+## ★★★★★ Added 2026-07-28 (synthesis pass 20b) — the fullest account of the relationship
+
+_Sources: [[../sources/2026-03-31-yt-i9AqXEjbf8I]] (2026-03-31) and
+[[../sources/2026-03-10-yt-Zys3dt503Q4]] (2026-03-10). **All self-reported by Chris Do.**_
+
+> ⚠️ **His death is restated here, not newly discovered.** It was already recorded from
+> [[../sources/2025-02-02-yt-mw_0Hy1-tic]] (see the 2026-07-27 section above). The 2026-03-31
+> telling is simply the plainest: *"**His name is Kier McLaren. HE'S PASSED AWAY.**"* **Still no
+> date, and none is inferred.**
+
+### ★★★★ The cadence and the shape of it, stated in one breath (2026-03-31)
+
+> *"**I've worked with a business coach for 13 years… His name is Kier McLaren. He's passed away.
+> He's a big Irish-American man, very big, rides a motorcycle. And I would meet with him EVERY
+> SINGLE WEEK FOR 13 YEARS, for about an hour and a half to two hours.**"*
+
+✅ **Corroborates the 13-year figure** (2020-03-23) against the earlier ~10-year tellings, and the
+weekly 90-minute-to-two-hour session length recorded above. ⚠️ Read alongside the note that the
+working relationship **ended around 2014** — thirteen years is its *length*, not a span running
+to the present.
+
+### ★★★ His other clients — why Chris says he was "just one of many"
+
+> *"**He consulted and coached many people in our industry. Some of them are WORLD-FAMOUS TITLE
+> DESIGNERS who have worked on big blockbuster films. Some of them are working with WORLD-CLASS
+> MUSICIANS, people who play in rock bands you've heard of. So I'm just one of many people he
+> consults.**"*
+
+⚠️ **No names are given** and none are inferred. Recorded because it is the frame Chris sets
+before quoting the verdict below — the comparison set is people he calls *"my heroes."*
+
+### ★★★★★ The Daywalker verdict — in Kier's own words
+
+**This is the origin scene for a self-concept that has been in the corpus for years without its
+source.** Chris tells it as a half-insult, half-compliment:
+
+> ★★★★★ *"He goes: '**Chris, of all my clients, YOU'RE NOT THE MOST CREATIVE. Clearly there are
+> more creative people.**' — **and I know, because I know his clients. I admire them. THEY'RE MY
+> HEROES.** And he said that, and then: '**And you're not the best business person either,
+> because clearly they're much better than you. They're doing gazillion dollars.**' **And I'm
+> thinking: is this going somewhere, coach?** And he goes: '**BUT NO ONE IS AS GOOD AT DOING
+> CREATIVE AND RUNNING A BUSINESS AS YOU.**'"*
+
+★★★★ **The two failure modes Kier was contrasting**, as Chris relays them:
+
+| | |
+|---|---|
+| **The pure creative** | *"the pursuit and the purity of artistic expression — **and they're running their business into the ground.**"* |
+| **The pure operator** | *"really good business operators making a lot of money, but **for him, they have no creative soul.** They know how to hire and fire and leverage and negotiate and arbitrage."* |
+| **Chris** | *"**You're the best HYBRID.**"* |
+
+→ hence the *Blade* line: *"he's half vampire and half human, so they call him the **Daywalker**.
+He has all the strengths of a vampire and none of the weaknesses. He can walk in the sunlight."*
+
+> ✅ **Attribution discipline:** the **verdict is Kier's**; the **Daywalker metaphor is Chris's**
+> own gloss on it. Keep them distinguished — only the second is persona material.
+
+### ★★★★★ The revenue claim — \$2.2M → \$3.9M (2026-03-10)
+
+> ★★★★★ *"**I was able to take my company at that time, a couple of years in, from about \$2.2
+> MILLION a year to \$3.9 MILLION a year. The way I was able to achieve that was to bring in a
+> business coach. And that business coach, his name is KIER McLAREN.**"*
+
+⚠️ **Self-reported, and the most specific figure attached to the relationship anywhere in the
+corpus.** *"A couple of years in"* dates it to roughly **1997–98** if measured from Blind's 1995
+founding — **but he does not say so, and the phrase is ambiguous** (a couple of years into the
+company, or into the coaching). **Recorded as stated; not resolved.**
+
+### ★★★★★ What coaching actually is — the myth he corrects
+
+> ★★★★★ *"**This is a common myth that a lot of people have — that business coaching requires you
+> to change everything that you do.** Maybe some of it does; **I've not personally experienced
+> that myself, as someone who's been coached and someone who coaches lots of people. IT'S USUALLY
+> THE SMALL TWEAKS. Say this instead of that. Use this phrase. Use this idea. Change this one
+> thing about how you're delivering. Ask clients this one question before you get off the phone.
+> IT'S LITTLE THINGS LIKE THAT THAT MAKE THE BIGGEST DIFFERENCE.**"*
+
+✅ **This is the clearest statement of what Chris thinks he bought** across thirteen years, and it
+governs how he coaches others — every workshop in the corpus proceeds by small substitutions
+(*discovery* not *kickoff*, *road map* not *checklist*, *"it's policy"* not an explanation).
+
+### ★★★★ Two further attributions from this window
+
+- **The repeatable story**, credited at [[../sources/2026-02-24-yt-939NOouclvM]] to *"my business
+  coach"*: *"**you have to tell a story that's so easily packaged that WHEN YOU'RE NOT IN THE
+  ROOM, they can take that and share it with someone else.**"* ✅ Consistent with the pass-19b
+  attribution already on this page.
+- **The tiers**, named at [[../sources/2025-12-07-yt-NMSHcSq8nMs]] as *"one of the most important
+  business lessons I've learned from my coach"*: *"**there are TIERS. You don't know it, cuz it's
+  all invisible to you. When you hit this level, you think you're at the top of the mountain.
+  YOU'RE ACTUALLY JUST AT THE BOTTOM OF THE NEXT MOUNTAIN.**"* — with Blind's own ladder attached
+  (*"when we would win \$100,000 jobs, we could not win \$200,000 jobs"*).

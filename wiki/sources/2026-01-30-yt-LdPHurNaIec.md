@@ -264,7 +264,7 @@ a room, and his closing move is to **withhold the verdict.**
 - [[../topics/sales-clients/sales-clients|sales-clients]] — ★★★★★ **"how have they been screwed
   over before?"**; **voice the fears** (✅ the same rule as
   [[2025-12-11-yt--_sTrDwoZyM|2025-12-11]]); the paradox of choice; the covenant-permission move.
-- [[../topics/communication/communication|communication]] — ★★★★★ **the three renames** and
+- [[../topics/content-strategy/storytelling|communication]] — ★★★★★ **the three renames** and
   **"language matters"**; **press-on nails**. ✅ This is the applied form of *"words shape worlds"*
   from [[2025-12-31-yt-POnPkjjT6Pw|2025-12-31]] — same argument, live on a deliverables list.
 - [[../topics/design-craft/design-craft|design-craft]] — the identity-system process as a

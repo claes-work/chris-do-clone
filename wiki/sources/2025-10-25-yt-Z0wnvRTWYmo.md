@@ -260,7 +260,7 @@ inspired, I write. Luckily, I'm inspired a lot, so I write a lot.**"*
 
 ## Cross-links
 
-- [[../topics/communication/communication|communication]] — ★★★★★ **the establishing shot**,
+- [[../topics/content-strategy/storytelling|communication]] — ★★★★★ **the establishing shot**,
   **tension before relief**, **every paragraph has an emotion**, **start at the end**. Four new
   named rules.
 - [[../topics/content-strategy/content-strategy|content-strategy]] — write long then cut; AI as

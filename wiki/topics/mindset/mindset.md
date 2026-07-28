@@ -1,7 +1,7 @@
 ---
 type: hub
 domains: [mindset]
-updated: 2026-07-27
+updated: 2026-07-28
 tags: [mindset, self-belief, imposter-syndrome-full, here-for-the-other-person, compare-backwards, inverted-lens, violent-vs-observational-language, work-as-timestamp, taste-skill-oscillation, marshall-rosenberg, procrastination-masks-fear, resistance-as-gravity, hiding-in-your-room, self-conscious-vs-self-aware, belief-precedes-experience, fleas-in-a-jar, ten-thousand-hours-guard, pick-one-master, execute-unchanged, discipline, decision-making, teaching-philosophy, reframing, resilience, learning, imposter-syndrome, stoicism, momentum, integrity, self-doubt, growth-mindset, self-directed-learning, introvert, authenticity, expectation, action-bias, goal-setting, overwhelm, public-commitment, effort, credentials, be-of-service, career-path, positioning, goal-clarity, chunking, prism-self, comparison, knowledge-vampire, superpower, ikigai, sacrifice, modeling, value-exchange, education, gratitude, delayed-gratification, emotional-detachment, out-hustle, anti-planning, survival-mode, self-responsibility, innovate-vs-iterate, purpose-over-product, white-space, empathy-exercise, heroes, run-towards-fear, belief-precedes, compelling-event, hold-beliefs-loosely, massive-action, memento-mori, small-steps, work-on-yourself, results-over-being-right, audience-relative-signals, flaw-acceptance, seek-discomfort, freedom-over-security, freedom-business, compartmentalize, present-self, story-you-tell, safe-to-fail, pareto-school, expert-vs-master, clarity-through-articulation, name-three-things, reading-method, opportunity-cost, parkinsons-law, effort-by-results, two-intentions, luck-preparation, control-vs-agency, business-as-a-sport, time-audit, informed-opinion, past-poor-predictor, scarcity, find-your-passion, career-marathon, ask-before-ready, feedback, criticism, observation-vs-judgment, nonviolent-communication, giraffe-ears, love-or-cry-for-help, i-statements, learners-mindset, judo-flip, tylenol-metaphor, askhole, earn-not-deserve, work-life-integration, mfp-pss, look-for-the-overlap, mission-optional, borrowed-mission, being-copied, copy-the-operator, self-acceptance, apologize-conduct-not-identity, design-as-self-discovery, reverse-engineering, competitor-count-rule, easiest-first, syntopical-reading, absorb-to-teach, manifestation, big-solutions, proximity, speed-of-execution, canary-in-the-coal-mine, non-attachment, exchanged-one-master]
 ---
 
@@ -4282,6 +4282,144 @@ people. No one who's impressive is ever really trying to impress you.**"*
   his inventions.
 
 ---
+
+
+## ★★★★★ October 2025 – April 2026 additions (pass 20b, added 2026-07-28)
+
+### ★★★★★ Self-imposed limits — the collar and the chain (2026-04-07)
+
+> ★★★★★ *"It's the classic story of **a dog who wears an electric shock collar** — when they
+> approach the perimeter it sends a signal. After a while they learn there's a perimeter, **AND YOU
+> CAN JUST TAKE THE COLLAR OFF AND THEY NEVER CROSS IT.** Same with **the elephant held by a chain
+> since birth — eventually it's just a string, and they never push past.** **WE ARE LIKE THAT. We
+> learn really fast what we can and cannot do according to societal norms — AND THEN WE PLAY SMALL
+> FOR THE REST OF OUR LIVES.**"*
+
+> ★★★★★ *"**The human mind, once expanded, does not shrink back to its original size. When you find
+> out that these SELF-IMPOSED RULES that you live by are actually just that — self-imposed, not
+> real rules, not laws — YOU START TO BE MORE FREE.**"*
+
+→ *"**we never realise that once we leave the city we grew up in, or the group of friends we
+thought we must always need, or the job we've always had — WE LEARN THAT THE WORLD'S MUCH BIGGER.
+There's a lot more to us to give.**"*
+
+### ★★★★★ "Out of my league" is a judgment, not an observation
+
+> ★★★★★ *"one of the things that would really bother me about some of my friends is they'd say
+> '**she's so out of my league**.' I'm like: **WITH THAT ATTITUDE, FOR SURE SHE IS.** … You mean
+> some people are born more asymmetrically beautiful, therefore you're less than? **SHE DID
+> NOTHING TO EARN THAT, NOR DID YOU** if you're a super-stud athlete — that's mostly genetic. **I
+> respect the game — that you worked out and you're focusing on skills. That's cool, I can look up
+> to that. But the rest of it — WHY DO WE BELIEVE SOMEONE'S IN OR OUT OF OUR LEAGUE? That's a
+> value statement full of judgment that really bothers me.**"*
+
+> ★★★★★ *"'I can't wear that. You shouldn't wear that.' **It's really A PROJECTION OF YOUR OWN
+> INSECURITY AND YOUR OWN PREJUDICE. And I think people need to check themselves.**"*
+
+★★★★ **And the demonstration he prefers to argument** — handing a friend the bag he said he could
+never carry, and letting the room react: *"**that's a presumption of reception — and also A
+LIMITING BELIEF about what you can and can't pull off in this life.**"* ✅ It generalises:
+*"**it doesn't have to be about fashion. It could be: you never thought you could drive that kind
+of car, or live in that neighbourhood, or date that kind of person.**"*
+
+### ★★★★★ The two doors (2026-04-07, crediting Steven Bartlett)
+
+> ★★★★★ *"**Door one: you go in and it locks behind you, you can never leave — the only path is
+> forward. Door two: you go in and it's not locked, you can leave if you want. And choices are
+> like that. SOMETIMES WE MISTAKENLY BELIEVE THAT ALL DOORS ARE DOOR ONE.**"*
+
+**The diagnostic question:** *"**what's the consequence of you leaving? Are you able to come back
+or not?**"* →
+
+> ★★★★★ *"**The greatest problem in modern entrepreneurial circles is we think everything's a
+> door-one situation. SO IT'S NOT THAT WE MAKE THE WRONG DECISION — IT'S THAT WE MAKE NO
+> DECISION.**"*
+
+### ★★★★★ We are the worst judge of our own value
+
+> ★★★★★ *"**Historically speaking, WE ARE THE WORST JUDGE OF OUR OWN VALUE.** I could do something
+> and you're like: 'dude, how did you do that?' And I'm like: **'well, doesn't everybody know
+> that?'** … And then I explain it — and depending on your reaction, I think: **maybe I'm on to
+> something.** And that begins the process of understanding: **WOW, SOMETHING I TAKE FOR GRANTED IS
+> VALUABLE TO OTHER PEOPLE.**"*
+
+> ★★★★★ **The method that follows:** *"**if we want to learn more about ourselves, WE NEED TO PUT
+> OURSELVES IN A POSITION WHERE WE'RE EXPLAINING TO PEOPLE what it is that we know, think and
+> believe — and judging by their reaction. And if you get enough feedback from different types of
+> people, YOU MIGHT DISCOVER SOMETHING YOU WEREN'T EVEN AWARE ABOUT YOURSELF.**"*
+
+### ★★★★★ Identity change — thank the old self, then retire it (2025-10-30)
+
+> ★★★★★ *"**In order for us to become the person we're meant to be, WE HAVE TO LET GO OF THE PERSON
+> WE WERE.**"* → *"**we have to say THANK YOU to our old self — for doing all the hard work, for
+> putting in the time, the sacrifices, for getting up early and staying up late — so that we can
+> evolve into the next person. So we thank that person. AND THEN WE HAVE TO RETIRE THEM.** Or, if
+> you want a more graphic visual, **you have to bury them.**"* → *"**I want to create more space to
+> become the person I was meant to be.**"*
+
+> ⚠️★★★★ **And he immediately refuses the mournful reading of his own image** — the **seventh**
+> recorded objection to violent phrasing in someone else's mouth: *"**it's attachment to old
+> identity. EVEN THE WAY YOU PHRASE IT SOUNDS SO VIOLENT TO ME.** … **I don't have to let anything
+> die.**"* → *"**I don't look at burial as a process of mourning. I just have to clear out the
+> house and make some room. I'VE GOT GUESTS COMING BY.**"*
+
+> ★★★★★ **A direct persona guard, from the same exchange.** When the host offers *"F what everybody
+> thinks"*: *"**Okay, pause, pause. I don't want to say it like that. I THINK EVERYBODY WANTS ME
+> TO BE ME.** … **the vast audience who likes me is ROOTING FOR ME TO BE MORE ME** — whatever
+> direction that goes in. **So I'm not letting anybody down.**"* → **his position on audience
+> expectation is NOT defiance.**
+
+### ★★★★★ The three circles (2026-03-24)
+
+Drawn on a napkin in Las Vegas: *"**I think I finally figured out my life IN MY 40s.** **Something
+I love to do. Something I'm really good at. And what the world needs.**"*
+
+> ★★★★★ **The circle deliberately left off:** *"**There's a reason why no circle exists on here that
+> says MAKE MONEY. Because I believe when you find that sweet spot in the middle, THE MONEY COMES.
+> I suggest to you right now: IF THE MONEY HASN'T COME, IT'S BECAUSE ONE OF THESE CIRCLES IS
+> MISSING — or it's not complete.**"*
+
+⚠️ **Related to but distinct from the four-column *ikigai* exercise elsewhere on this page** — three
+circles here, four columns there, and **he does not name ikigai in this telling.** Keep separate.
+
+### ★★★★ Effort, reps, and the pursuit
+
+- ★★★★★ **Quantity produces quality** (from ***Art & Fear***): the pottery experiment — *"**many of
+  the students asked to do just ONE piece did not even complete one. THEY WERE TRAPPED BY MAKING
+  THE PERFECT THING.** **The better work consistently came from the other group.**"* → ★★★★★ *"**I'm
+  a designer, classically trained. This is what they emphasise every single day: quality, quality,
+  quality. BUT LUCKILY, I DON'T LISTEN SO GOOD. I'm going to put in my REPS.**"*
+  > ⚠️ **Sits against his own *"I will measure a hundred times before I cut one piece of wood"*
+  > (2025-12-07) and *"slow down in this stage"* (2026-03-10). Likely scope-dependent — reps versus
+  > thinking work — but he never says so.**
+- ★★★★★ **"If the client gave me more time, it would be better" is a lie:** *"**THAT'S A LIE YOU
+  TELL YOURSELF EVERY SINGLE DAY. Because CREATIVITY EXPANDS OR CONTRACTS TO MEET A DEADLINE.
+  Everything else is a lie or an excuse.**"*
+- ★★★★ **Skill is the foundation of confidence** — his own addition to *"repetition is the mother
+  of skill."*
+- ★★★★★ **The pursuit over the goal** (Jim Rohn): *"**what you become in the pursuit of your goals
+  is more important than the accomplishment itself.**"* → *"**it's the pursuit and not the goal
+  itself.**"* — and his own version, on easy money: *"**maybe, just maybe, THERE IS SOMETHING TO
+  THE PURSUIT — of learning something, of working hard — THAT IS MORE DESIRABLE THAN THE RESULT
+  ITSELF.**"*
+- ★★★★ **"Advice isn't worth much if you don't commit to doing the work**… **almost everybody that
+  does the work gets the results — OR they learn so much that they become a different person in
+  the pursuit of that.**"
+
+### ★★★★★ On critics and bullies
+
+> ★★★★★ *"**I love my bullies. I love the trolls. LOVE THE ENEMY. It's the best approach. I MAKE
+> MORE CONTENT FROM THE BULLIES THAN I DO OF THE LOVERS AND THE FANS.** I'll tell you why:
+> **because there's a FRICTION POINT. The internet loves friction.** So I have an opportunity to
+> clarify what I meant to say — **and usually it OUTPERFORMS the original post.**"*
+
+✅ **This has a childhood root**, recorded at [[../../sources/2026-03-31-yt-i9AqXEjbf8I]]: his older
+brother's *"**the best thing you can do for a bully is to STAND UP**… they'll move on to someone
+easier."*
+
+★★★★ **Why strangers pile on when something travels:** *"**there's a reason why they say this when
+you go viral: BECAUSE THEY DON'T KNOW YOU. They just see this thing, and they judge you for
+everything based on one thing you said, or the way that you look.**"*
 
 ## Sources
 

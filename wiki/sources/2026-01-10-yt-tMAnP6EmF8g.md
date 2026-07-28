@@ -266,7 +266,7 @@ about you. So you've got to lean into that.**"*
 
 ## Cross-links
 
-- [[../topics/communication/communication|communication]] — ★★★★★ **begin at the point of greatest
+- [[../topics/content-strategy/storytelling|communication]] — ★★★★★ **begin at the point of greatest
   conflict**; ★★★★★ **"but" not "and then"**; forks in the road; act it out. ✅ Directly extends
   the four writing rules from [[2025-10-25-yt-Z0wnvRTWYmo|2025-10-25]] — together they now form a
   single storytelling curriculum, and **"start at the end" / "landing the plane" appears in

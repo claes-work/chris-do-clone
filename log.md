@@ -10276,3 +10276,74 @@ from — because she doesn't know how things are done**"*, which cuts interestin
 insistence on receipts and expertise; **steal their customers**; **every obstacle is an opportunity
 wrapped in disguise**; **retention over acquisition**; and to `entities/influences` — **Nicole
 Johnson** and ***Air*** (2023).
+
+## [2026-07-28] ingest | yt batch (@thefutur, 3) — reverse math, the repeatable story, and the five stages to $100k
+
+Batch 192, Stage B (P2). Three Feb–Mar 2026 uploads. **No deferrals; no skips.** L2: 967 → **970**.
+The third is the largest single teaching source ingested in this run.
+
+- **[2026-02-17] Stop Struggling for Clients, Here's a Niche That Pays!** (`yt-nTthfof409U`) —
+  ★★★★★ a goal converted into a business in eight minutes. ★★★★★ **The reverse math** with the
+  **divide-by-ten** rule (*"you will not work 12 months out of the year"*), ★★★★★ the two-part
+  qualification — *"a starving group **that can afford to pay us**"* — and ★★★★★ **Drucker's
+  inversion**: *"you create the customer, then the customer creates the brand… the customers own
+  the brand."* Ends in a signed **\$500 pledge** and *"advice isn't worth much if you don't commit
+  to doing the work."*
+- **[2026-02-24] Is Your Pitch So Simple A Kid Gets It?** (`yt-939NOouclvM`) — ★★★★ a mentor
+  segment from a **business competition format**. ★★★★★ **The repeatable story** in its cleanest
+  form — *"so easily packaged that **when you're not in the room**, they can share it"* — and
+  ★★★★★ **"you make a fact more interesting by making it visual"**, demonstrated by converting a
+  percentage into *three Empire States.* ✅ The format's twist (each founder briefs **a stranger**
+  who pitches for them) independently tests exactly what he taught: **the stranger is the absent
+  room.**
+- **[2026-03-10] If I Started Over as a Graphic Designer** (`yt-Zys3dt503Q4`, 53 KB) —
+  ★★★★★ **FLAGSHIP.** A full career path in five stages (survival → stability → systems → scale →
+  sustain), nearly every one containing something the wiki lacks: a **typography reading list**,
+  ★★★★★ **the tissue-paper tracing method from his own design school**, **three-to-five pieces**,
+  ★★★★★ **the imagination gap**, ★★★★★ **geographic arbitrage** with the answer to the
+  bargain-hunting objection, ★★★★★ *"**clients do not choose the best option — they choose the least
+  risky one**"*, ★★★★★ **the steak rule**, two verbatim outreach/referral scripts, and
+  ★★★★★ **Kier McLaren named with the revenue figures: \$2.2M → \$3.9M**, plus his correction of the
+  coaching myth — *"it's usually the small tweaks."*
+
+⚠️ **THE ALGORITHM CONTRADICTION NEEDS ITS STRONGEST UPDATE YET.** 2026-02-17 is the **third**
+unambiguous *"student of the game"* statement — *"if you're a student of the game of YouTube, you
+design titles and thumbnails"* — and this time it arrives with a **factual admission about his own
+channel**: of the video being filmed, *"we try to set you up for success."* **The Futur actively
+optimises its titles and thumbnails.** That is materially harder evidence than the two prior
+tellings, and it must be weighed against the eleven *"I don't care about the algorithm / posting
+times"* statements. Both sides are his; **the reconciliation remains unavailable on his authority.**
+
+⚠️ **Two biographical firsts** on 03-10: the **Blind payoff quantified** (*tens of thousands →
+hundreds of thousands → up to a million dollars per project*), and **\$2.2M → \$3.9M attributed to
+Kier McLaren** — the most substantive coaching claim anywhere in the wiki. Also note he tells the
+senior-animator story with *"babysit"* here against *"overlook"* at 2025-10-30 — same event,
+harsher verb, both his.
+
+⚠️ **Names deliberately not recorded:** the social-media creators he recommends in 03-10 stage one,
+and the designer cited for hypothetical logo redesigns — the captions cannot support any of them,
+so **the practice is recorded and the names are not.** The 02-17 participant's first name is
+rendered two different ways and is likewise omitted. ✅ Conversely **"My name is Kristel"** in 02-24
+is confidently resolved to **"My name is Chris Do"** — settled by the host addressing him as Chris
+and by *"loud introvert"* being his standing self-description.
+
+✅ **He flags his own bias unprompted** on 03-10 regarding Fiverr/Upwork (*"maybe I'm just old…
+I have a lot of bias against these kind of websites"*) — recorded **with** the disclaimer.
+
+Synthesis notes: **seven genuinely new items.** ① ★★★★★ **The five-stage arc** — this deserves its
+own topic page; it is the spine every scattered piece of his business advice hangs from.
+② ★★★★★ **"Clients do not choose the best option, they choose the least risky one"** — this
+retro-explains a decade of stylescape, guarantee, road-map and process advice, and should be
+promoted as a governing principle rather than a tip. ③ ★★★★★ **The steak rule** (*the best work
+they paid for, not the best work you can do*) — the clearest anti-burnout principle he has stated,
+and it sits in productive tension with his craft perfectionism. ④ ★★★★★ **Geographic arbitrage** —
+the corpus's only direct address to its large non-US audience on pricing. ⑤ ★★★★★ **The reverse
+math / divide-by-ten**, stated twice in three weeks with different divisors. ⑥ ★★★★★ **The
+repeatable story** properly credited, plus **make a fact visual**. ⑦ ★★★★★ **Kier McLaren with
+numbers** — `entities/kier-mclaren` should be substantially rewritten around this. Also new:
+**the tracing method**; **three-to-five pieces**; **the imagination gap**; **the follow-five
+outreach system** with both scripts and the stop rule; **the staged referral script** (Phil M.
+Jones); **pattern recognition = leverage**; **off-site work vs. labour**; **the invoice-number
+trick**; **the swap-meet mindset argument**; and **Drucker's brand inversion**. To
+`entities/influences`: **Phil M. Jones**, **Erik Spiekermann**, **Josef Müller-Brockmann**,
+**Kimberly Elam**, **Carter/Meggs**, ***A Smile in the Mind***.

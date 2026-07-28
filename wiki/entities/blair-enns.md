@@ -268,3 +268,30 @@ Chris runs a "lightning round" of business questions. All of the following is **
 - ★★★★ *"**The nature of the creative person is to try to GIVE MORE OF THEMSELVES, TO OVER-DELIVER —
   and the conflict comes in when they feel like they're being TAKEN ADVANTAGE OF.**"*
 - ★★★ *"**Admittedly I'm NOT A PROLIFIC READER**… it sits on my shelf for a while."*
+
+### ✅★★★★★ A THIRD attestation — and the only BEHAVIOURAL one (2018-06-13)
+
+Added in-batch rather than deferred, because it completes the picture the section above establishes.
+
+Thirteen months after the interview, closing an episode of his **Young Guns** mentorship series,
+Chris replaces the next *design* challenge with a *reading* challenge:
+
+> ★★★★★ *"**I'm going to throw a little curveball, because I wouldn't be me if I didn't throw you a
+> curveball. Get this: this is *The Win Without Pitching Manifesto*, written by Blair Enns. INSTEAD
+> OF DOING A DESIGN CHALLENGE, I WANT YOU TO READ THIS BOOK.** This book is **chock full of wisdom
+> about HOW TO POSITION YOURSELF, HOW TO BECOME AN EXPERT, HOW TO SELL WITHOUT SELLING.** I want you
+> to read it **TOP TO BOTTOM, FRONT TO BACK. I want you to LEARN EVERYTHING IN THIS BOOK AND TO APPLY
+> IT TO YOUR LIFE.** How am I going to know that you actually read the book? **Because for the very
+> next challenge WE ARE GOING TO DO A GAME SHOW — LIVE ON AIR — I'm going to TEST how many of these
+> concepts you've been able to master. WINNER TAKES ALL.**"*
+> ([[../sources/2018-06-13-yt-FsyJodhEze0]])
+
+✅ **Why this matters more than another quotation.** The other two attestations are verbal — he
+*says* the book changed how he does business, and he *quotes* its script. **This one is
+behavioural:** he interrupts a design-mentorship programme to make it read a sales book, and builds
+an examination around it. ✅ **It also cashes his own 2017 standard** — *"not only do you need to read
+it, you need to MEMORISE it, PRACTISE it, BE ABLE TO TEACH IT"* — which he is now **enforcing on
+other people**.
+
+⚠️ **Three dated attestations, 2017–2018, is the evidentiary basis for the "causal influence"
+classification on this page.** It is not inferred from resemblance.

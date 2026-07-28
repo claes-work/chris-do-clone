@@ -11238,3 +11238,55 @@ orange-jumpsuit story recorded as Jose's**, with Chris's self-selection reading 
 Synthesis notes: none — this IS the synthesis pass. **No pending checkpoints remain; synthesis is
 caught up through batch 204 / L2 987.** The loop returns to Stage B next iteration (@thefutur P3:37,
 @TheFuturAcademy P3:72, 860 shorts).
+
+## [2026-07-28] ingest | yt batch (@thefutur, 3) — a behavioural attestation, and a resemblance recorded without a claim
+
+Batch 205, Stage B (P3). L2: 987 → **990**. All three captions fetched cleanly. **Two of the three
+sources have little or no Chris in them** — recorded plainly rather than dressed up.
+
+- `yt-FsyJodhEze0` — **2018-06-13, Young Guns Ep. 6** (participant-dominated reaction episode).
+  ★★★★★ **The one landmark item in the batch**: he closes by **assigning Blair Enns's *Win Without
+  Pitching Manifesto* as the next challenge in place of a design brief**, and promises a live
+  on-air test — *"winner takes all."* ✅ **This is the corpus's only BEHAVIOURAL evidence of that
+  influence**; the other two attestations are verbal. It also cashes his own 2017 standard
+  (*"memorise it, practise it, be able to teach it"*), now enforced on other people. ★★★★ The
+  episode's structure is itself a finding: he devotes it to **the recipients critiquing his
+  critique**, and **publishes the disagreement** rather than editing it out.
+- `yt-1myIKz22mmY` — **2018-08-21, MASTERMIND Ep. 16.** ⚠️⚠️ **ZERO Chris Do — entirely Kier
+  McLaren.** Kept at L2 as primary context for his entity page, not skipped, because it contains
+  **Kier's plumber parable**, which is the same shape as Chris's mechanic parable.
+- `yt-NCfhG1QY7iA` — **2018-11-14, guest productivity interview.** Guest-dominated and low yield.
+  Kept for *"the dream client — the unicorn does exist"* (a rare positive client case) and as
+  evidence of **third-party sponsorship on the channel by November 2018**.
+
+### ⚠️ A resemblance recorded WITHOUT a claim
+
+Kier's plumber parable and Chris's mechanic parable are the same argument in different trades. It
+would be easy — and wrong — to file this as the origin of Chris's version. **Chris's mechanic telling
+is dated two years EARLIER** (2016-03-04), while Kier had been his coach for roughly a decade before
+that. **The corpus has no evidence of direction**, so the source page records the resemblance, both
+dates, and an explicit instruction to assert nothing. It is written down precisely so it does not get
+quietly mis-attributed by a later pass.
+
+### Written in-batch
+
+The Blair attestation was added straight to `wiki/entities/blair-enns.md` rather than deferred — it
+is a single clean addition to a page rewritten hours earlier in pass 21b, and leaving it out would
+have left that page's "causal influence" classification resting on two attestations when three exist.
+The page now states the evidentiary basis explicitly.
+
+Ledger: L2 = 990. Open: @thefutur P3:34, @TheFuturAcademy P3:72, 860 shorts. Synthesis debt 1/10.
+
+**Synthesis notes:** **Two items.** ① ★★★★ **The practice of publishing pushback on his own
+critique** → `topics/mindset`, beside the feedback doctrine already there: this is a concrete,
+checkable instance of it, complete with participants disagreeing on the record (*"I'm not sure if I
+agree with Chris"*; and a participant arguing his premise about the user journey does not hold in
+their country). The corpus records the feedback principle abundantly and its practice hardly at all.
+② ★★ *"We've often shared stories about really bad clients — well, today we have **the dream client.
+The unicorn does exist**"* → `topics/sales-clients` as the **positive pole** of a body of material
+that is otherwise almost entirely disqualification heuristics. ★★★ Also worth carrying to
+`design-craft`: the **tracing-paper critique method**, reported by a participant (*"as soon as Chris
+got the transparent paper out and started tracing over my design, it just threw me back to
+school"*) — ⚠️ observed behaviour, not his own claim. ⚠️ **Nothing from the Kier episode or the guest
+interview is promotable**, and the plumber/mechanic resemblance must **not** be resolved into an
+attribution by a future pass.

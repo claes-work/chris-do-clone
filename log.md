@@ -12274,3 +12274,58 @@ confirmation of an agreed brief, not a reveal** — which is why a single option
 ★★★★ Also for `persona/biography`: **the 16-logo foam-core practice** and his diagnosis of it. ⚠️ **All
 of the above must carry the note that this source has no self-identification** and rests on internal
 autobiographical evidence.
+
+## [2026-07-28] ingest | yt batch (@TheFuturAcademy, 0 ingested) — and a limit of the triage method
+
+Batch 221, Stage B, light triage. **No source ingested.** L2 unchanged at **1,020**.
+@TheFuturAcademy P3: 51 → **42**.
+
+| Rows | Handling |
+|---|---|
+| **3** | Presenter self-identifies or is plainly instructor-format — **skipped**, Chris absent. |
+| **2** | ⚠️ **`no-captions`** — music/applause cues only. |
+| **4** | ⚠️ **Skipped, attribution unverifiable** — no self-ID and no autobiographical anchor. |
+| **1** | ⚠️ **HELD open, not closed** — see below. |
+
+### ⚠️ The limit this batch exposed
+
+The triage method reads opening lines for a self-identification. **On this channel that often
+fails**: these are edited tutorials that cut straight into content. Four rows this batch had **no
+speaker name anywhere in the transcript** — including one whose doctrinal line I'd have liked
+(*"the skeleton key to all of design is learning proportions"*). Declined, because register is not
+attribution.
+
+⚠️ **I want to be plain that this is lossy.** Some of those four may well be him. **The corpus is
+choosing false negatives over false positives**, deliberately, and this entry records the cost so the
+choice is visible rather than silent.
+
+### ⚠️ One row HELD rather than closed — and it matters for the provenance work
+
+`yt-eLxcaKiZsDs` — **"10 Rules of Typography (and Life) with JAMES VICTORE"**. Victore is the credited
+source of *"what makes you weird makes you wonderful"* — the provenance thread pass 22b documented.
+**A session with him is directly relevant.**
+
+But **the transcript never names either speaker**, and the only autobiography is generic (*"when I was
+a kid"*, *"when I was in my 20s"*) and could be Victore's. It is very likely a **two-hander**, which
+would need per-speaker attribution to be usable at all.
+
+**So it is returned to `L0-discovered` with instructions, not skipped**: resolve speaker identity from
+the video or description, then ingest with fencing. **Closing it would have quietly lost a source that
+bears on an attribution chain the corpus has just spent two passes building.**
+
+### ✅ Recommendation, now that the method's limit is clear
+
+For the remaining 42 rows, **opening-line triage is no longer sufficient on its own**. Options:
+
+1. ✅ **Backfill titles/metadata and hand-pick** rows whose titles suggest a Chris format (critiques,
+   business talks, named-guest sessions) rather than software tutorials. **My recommendation** — it
+   plays to the one signal that is reliable here.
+2. Continue opening-line triage and accept the false-negative rate.
+3. Bulk-close the channel and move the iterations to the 860 shorts.
+
+Ledger: L2 = 1,020. In scope: **@TheFuturAcademy P3:42** (⚠️ 1 held for resolution), 860 shorts.
+⚠️ Still unscoped: **235 @thefutur streams.** Synthesis debt 3/10.
+
+**Synthesis notes:** none — no source ingested. ⚠️ **Standing note:** four rows this batch and four
+earlier were declined on attribution grounds, not content. If a reliable speaker-identification method
+becomes available, the @TheFuturAcademy skips are the first place to revisit.

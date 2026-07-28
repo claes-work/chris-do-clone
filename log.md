@@ -12966,3 +12966,51 @@ Synthesis debt 8/10.
 **Synthesis notes:** ⚠️ **Corrections take precedence at the next pass.** The three pages above now
 carry accurate novelty claims; **the influences brief must NOT add Al Ries as a new name** — verify
 **Jack Trout** specifically and add only the *Positioning* title and the dated recommendation.
+
+## [2026-07-28] ingest | yt batch (@thefutur shorts, 0 ingested) — the new rule caught a repeat of the same error
+
+Batch 234, Stage C. **No source ingested.** L2 unchanged at **1,032**. Open shorts: 803 → **793**.
+
+### ⚠️ The false-zero problem recurred immediately — in a different form
+
+My first phrase-check this batch returned **0 for all six patterns**. ✅ **I did not treat that as six
+new findings.** The output carried `no matches found: wiki/sources/*.md` — **the shell was still in
+`raw/youtube/thefutur` from an earlier `cd`**, so every glob was empty and every zero was structural.
+
+**Same failure class as yesterday's `grep -E` bug, different cause.** Re-run from the repo root, the
+real picture was almost the opposite:
+
+| Pattern | False result | Actual |
+|---|---|---|
+| *three rules of YouTube* | 0 | **1** |
+| *title and thumbnail* | 0 | **4** |
+| *limited by the value* | 0 | **6** |
+| *who can give you money* | 0 | **1** |
+| *glorified secretary* | 0 | **0** ✅ genuinely absent |
+
+⚠️ **Had I trusted the first run, this batch would have produced four or five fabricated "new
+material" pages** — considerably worse than the three I corrected yesterday.
+
+✅ **The rule written yesterday — *never assert absence on a single check* — earned its keep on the
+very next batch.** What made it catchable was that **the tool told me** (`no matches found`) and I read
+the output rather than the number.
+
+### All ten closed
+
+Nine as covered — advice-source filter · noisy personal brands · the YouTube click/thumbnail rules ·
+money is not the want · a MrBeast recounting · *charging is limited only by the value you generate* ·
+*if you think you've niched enough, you haven't* · faceless content · know-what/who/why.
+
+⚠️ **One closed as GUEST material, not as a dup**: *"I was working 50 hours a week, I was like a
+**glorified secretary**"* is **the guest's own career account** — the short is titled for him. It was
+the only genuine zero, and **being new is not the same as being his.**
+
+### Running Stage C tally
+
+**73 shorts processed · 4 named-parent dups · 45 dup-of-corpus · 4 guest-only · 12 ingested.**
+⚠️ **0 new material in the last 20 shorts.** The 2024–early-2025 stretch is comprehensively covered.
+
+Ledger: L2 = 1,032. Open: **shorts 793**, @TheFuturAcademy P3:37. ⚠️ Unscoped: 235 streams.
+Synthesis debt 8/10.
+
+**Synthesis notes:** none — no source ingested.

@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-28 (**1,024 L2**; Stage C shorts dedup — the held three all carried real gaps: the **bull's-eye-and-wall** metaphor (the operational half of ask-don't-tell), a **new credited influence (Vinh Giang)** with storytelling as an *internal* defence, and **geographic markets made concrete**)_
+_Last updated: 2026-07-28 (**1,027 L2**; ⚠️ **a provenance find in the shorts** — he calls **Seth Godin** *"the GOAT"* and says ***Permission Marketing*** is what he *"bases a lot of the way I teach about branding and marketing"* on, and **Al Ries / Jack Trout / *Positioning* are absent from the corpus entirely**)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **1,024 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 and P2 both fully drained**; 98 members-only rows skipped as unobtainable; remaining: @thefutur video P3:0 ✅ complete; ⚠️ **235 @thefutur STREAMS untouched and unscoped — the driver filters on type==video**, @TheFuturAcademy P3:51, 842 shorts).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **1,027 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 and P2 both fully drained**; 98 members-only rows skipped as unobtainable; remaining: @thefutur video P3:0 ✅ complete; ⚠️ **235 @thefutur STREAMS untouched and unscoped — the driver filters on type==video**, @TheFuturAcademy P3:51, 832 shorts).
 
 ## Topics
 

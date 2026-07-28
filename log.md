@@ -12629,3 +12629,62 @@ Synthesis debt 5/10.
 
 **Synthesis notes:** none — no source ingested. ⚠️ **Three held items carry forward**, including
 **Al Ries / Jack Trout / *Positioning*** for the influences hub.
+
+## [2026-07-28] ingest | yt batch (@thefutur shorts, 3) — a provenance find worth the hold
+
+Batch 228, Stage C. L2: 1,024 → **1,027**. Open shorts: 835 → **832**.
+
+Wrote the three shorts held last iteration. **The books one justified holding it on its own.**
+
+### ⚠️★★★★★ The provenance find
+
+Asked for three marketing books, he gives four titles and three authors — and one sentence that is
+**the strongest statement of intellectual debt anywhere in the shorts corpus**:
+
+> Of Seth Godin: *"**it's got to be THE GOAT**"* — and of ***Permission Marketing***, *"**which I base a
+> lot of the way I teach about branding and marketing from this book itself.**"
+
+**The corpus currently records Seth Godin only for *The Dip*.** This upgrades him from *cited* to
+**foundational**, and adds two titles.
+
+⚠️ **And a real gap: AL RIES and JACK TROUT, *Positioning*, appear nowhere in the corpus** — despite
+*positioning* being one of the most-used words in his teaching. He calls it *"a classic… it really
+helps you understand marketing on a broader perspective."*
+
+✅ **Note also the implicit hierarchy** in how he orders them: **Ries/Trout for perspective, Godin for
+foundation, Dib for execution** — with Dib explicitly framed as the shortcut *"if you don't want to
+deal with the philosophy and all that stuff."*
+
+**This is exactly why the row was held.** Writing it hastily last iteration would have put a partial
+reading list into `influences` and missed the Godin upgrade.
+
+### Two more, each carrying a distinction
+
+- ★★★★ **A SECOND AI-moat mechanism** — *"the thing AI will never replace is **the weird sticky
+  tension** that happens in a space like this."* ⚠️ **Filed beside the taste material, not merged**:
+  taste is a *capability*, this is a *condition*. Its close is notable too — from his own stage, *"not
+  the panel, not what you hear… **go talk to three people**"*, which tells an audience the content
+  isn't the valuable part.
+- ★★★★ **Two problems collapsed into one diagnosis** — *"anytime you can't sell something **and** it's
+  not worth a lot, it's because **they don't feel the pain**."* The corpus treats *can't sell* and
+  *can't charge* as separate failures; this makes them one symptom. ⚠️ The source **ends mid-sentence**
+  and the page **infers no completion**, even though the discovery material supplies an obvious one.
+  ⚠️ The hammer/nails adage is **proverbial and unattributed by him**; the hedge is preserved.
+
+### Running Stage C tally
+
+**33 shorts processed · 4 named-parent dups · 14 dup-of-corpus · 3 guest-only · 7 ingested.**
+✅ **~1 in 5 carries something new** — and the last three included a provenance correction the corpus
+would not have got any other way.
+
+Ledger: L2 = 1,027. Open: **shorts 832**, @TheFuturAcademy P3:37. ⚠️ Unscoped: 235 streams.
+Synthesis debt 6/10.
+
+**Synthesis notes:** **Three items.** ① ⚠️⚠️★★★★★ **`entities/influences` needs two changes** —
+**ADD Al Ries and Jack Trout (*Positioning*)**, absent entirely; and **UPGRADE Seth Godin** from *The
+Dip* to **foundational**, on *"I base a lot of the way I teach about branding and marketing from
+[Permission Marketing]"*, plus *This is Marketing* and the *"GOAT"* framing. Also record the
+**perspective → foundation → execution** hierarchy. ② ★★★★ **The in-person AI moat** →
+`topics/mindset`, ⚠️ **filed beside taste-as-moat, not merged** — a condition, not a capability.
+③ ★★★★★ **"Can't sell it and can't charge much are the same symptom — they don't feel the pain"** →
+`topics/sales-clients` and `topics/pricing`, with **burning urgent desire** as the qualifier.

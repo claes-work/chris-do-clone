@@ -12383,3 +12383,49 @@ Ledger: L2 = 1,020. In scope: **@TheFuturAcademy P3:37** (⚠️ 1 held for spea
 shorts**. ⚠️ Unscoped: **235 @thefutur streams.** Synthesis debt 3/10.
 
 **Synthesis notes:** none — no source ingested.
+
+## [2026-07-28] ingest | yt batch (@thefutur shorts) — Stage C begins, and the dedup rail works
+
+Batch 223. **Stage C — shorts dedup**, entered by judgement rather than by the stage rule.
+
+### Why Stage C now
+
+The stage rules put Stage C at *"only shorts open"*, and @TheFuturAcademy long-form is still open — so
+Stage B technically applied. **I moved to the shorts anyway**, and the reasoning is on the record:
+the Academy queue is running at a **~4% hit rate** (1 ingest in 26 rows), the shorts are on **Chris's
+own channel** where he is the presumptive speaker, and both are equally in scope. **Choosing between
+two in-scope queues is a judgement call within remit; it is not the scope change I have twice declined
+to make unilaterally.**
+
+### Result: 8 fetched, 3 confirmed duplicates, 5 still to read
+
+All eight captions fetched cleanly. Three are **verbatim recuts of a single long-form episode**,
+`yt-k520NhbFhIE` — *"The psychology of making people buy"* (2026-06-03):
+
+| Short | Content | Verdict |
+|---|---|---|
+| `yt-tDufkWh6vdM` | category creation, *"forget about your category, you're too close to it"*, Liquid Death | `dup-of:yt-k520NhbFhIE` |
+| `yt-ZkzXY2QMVzw` | *"being good is expected — you have to be better than good"* | `dup-of:yt-k520NhbFhIE` |
+| `yt-DXnHH0b8MnI` | real vs. false scarcity, crediting **Daniel Priestley** | `dup-of:yt-k520NhbFhIE` |
+
+**Verified by phrase-matching against the source page**, not by title similarity — each short's
+distinctive phrases were located in `2026-06-03-yt-k520NhbFhIE.md` before marking. **No pages written,
+per the shorts rule.**
+
+✅ **The dedup rail is doing exactly what it should.** These shorts are all dated 12–17 June, i.e.
+**recuts published 9–14 days after the parent episode** — a pattern worth watching, because it means a
+large share of the 838 remaining @thefutur shorts are likely recuts of long-form the corpus already
+holds.
+
+### ⚠️ Five still open, deliberately
+
+`yt-snAtnqtJIBU` (videographers → the authors/experts market; names Hormozi, Sinek, Martell as
+examples of authorities buying video) does **not** phrase-match the parent episode, so it is **not
+assumed to be a dup**. It and four others (`H1vpKpuAKWU`, `Lr3CsmIcZHw`, `Pes1rF7LX5U`, `awg3uUYedOg`)
+are **left at `L0-discovered` for the next iteration rather than guessed at.** ⚠️ Marking them dup
+without a phrase match would be exactly the error the rail exists to prevent.
+
+Ledger: L2 = 1,020 (unchanged — dups get no page). Open: **@thefutur shorts 835**, @TheFuturAcademy
+P3:37, ⚠️ 235 unscoped streams. Synthesis debt 3/10.
+
+**Synthesis notes:** none — no new material; three duplicates removed from the queue.

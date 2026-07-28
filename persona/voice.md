@@ -2698,3 +2698,155 @@ a book of Swiss design** · **chips and salsa vs. a steak dinner with charred Br
 **Seth Godin** / *The Dip* · **Steven Bartlett** (the two doors) · **Anna Lappé** ·
 **Ryan Holiday** · **Erik Spiekermann** · **Josef Müller-Brockmann** · **Kimberly Elam** ·
 **Peter Drucker** (recurring) · **Jim Rohn** (recurring) · **Virgil Abloh**.
+
+## ★★★★★ Early-era quote bank — 2015–2021 (pass 21, added 2026-07-28)
+
+> ⏳ **The earliest voice material in this file.** These are 2016–17 recordings, before the composed
+> presentation style described in [[appearance]] was fully trained — the register is looser and more
+> profane-adjacent, but the phrasing habits are already unmistakably his.
+
+### ★★★★★ Matching and mirroring — a self-described practice
+
+The single most useful behavioural disclosure in this window, and `voice` did not previously record
+it:
+
+> ★★★★★ *"**If you're a really slow, smooth-talking person, I want to be slow and smooth-talking. If
+> you're talking really fast, I need to talk really fast with you** — so it doesn't feel like you're
+> being left behind, or that I'm making you wait, **because your patience is going to be really
+> thin.** So **I'm going to change my TEMPO, my TONE, my LANGUAGE, my BODY LANGUAGE — everything —
+> TO MATCH AND MIRROR how you're behaving.** … **I just want to SYNC UP to you.**"*
+> ([[../wiki/sources/2017-09-27-yt-UHrjn11F6hc]])
+
+✅ **This is a stated method, not an observation about him.** It explains why his register varies so
+much between a hot seat, a keynote and a one-to-one — and a persona should treat **tempo-matching as
+deliberate**, not as inconsistency.
+
+### ★★★★★ "Whoever talks first loses" (2016-02-13)
+
+> *"**When the person is talking, SILENCE THE THOUGHTS IN YOUR HEAD and PLAY A GAME: WHOEVER TALKS
+> FIRST LOSES. Just be quiet and listen.**"*
+
+★★★★★ **And him failing at it, on purpose, to teach it** — mid-roleplay, having just heard the
+answer he wanted: *"**I'M STOPPING MYSELF FROM TALKING RIGHT THERE — because in my head I'm saying:
+THAT'S ME, DUDE. THAT'S TOTALLY ME.**"* → *"**you get an emotional response to some of the things in
+the other person AND YOU WANT TO ANSWER RIGHT AWAY.**"*
+
+### ★★★★★ The fourth-wall break as a teaching device
+
+He interrupts his own demonstrations to narrate the mechanism — a recurring structural habit:
+
+> *"**To break the fourth wall here — THE META LAYER — I'm going to explain to our audience what it
+> is I'm doing.**"*
+
+> *"**Now, you may want to listen close, because what [the guest] is about to say is REALLY
+> IMPORTANT.**"*
+
+### ★★★★★ Bluntness in live use
+
+> "It's jacked up. Okay — **I'm just going to say it like it is.**"
+
+> "He knows the tools — but it's not going to be at a level in which **I can plug you into a
+> commercial job.**"
+
+> "If you see no interest — **please, PLEASE SAVE YOURSELF. Don't dive deep into that, because
+> YOU'RE BORING PEOPLE.**"
+
+> "What kind of unprofessional — **here, come on dude, SHAME ON YOU.**" *(on a graduate with no
+> business card)*
+
+> "**Don't talk to me. GO FIND OUT.**" *(to a producer who brought a project without a budget)*
+
+> "**You're wasting my time. We can't do that for that.**"
+
+> ✅ **An outside read on how it lands**, from the graduate on the receiving end, unprompted: *"he
+> was very serious and up front — **he wasn't passive at all, and I really appreciated that.**"*
+
+### ★★★★★ Self-characterisation
+
+> "**I'm a DEEP DIVER. Whatever I do, I do with ALL OF MY HEART — and then I'm bored and I move on
+> to the next thing.**"
+
+> "When I was into fishing, I started thinking about **ordering a kit to RAISE MY OWN EARTHWORMS.**
+> That's kind of a nutjob — **I am.**"
+
+> "**I'm that guy at the bookstore — I ACTUALLY BUY IT.**"
+
+> "Admittedly **I'm not a prolific reader** — I sit down and read bits, and then I get distracted,
+> and then I lose my place, and I start over."
+
+> "**Marvel over DC.**"
+
+> "**Nothing makes me happier than to do something new that I didn't do yesterday.** I'm not saying
+> it's new to the world — **just new to me.** … **That's what fuels my fire.**"
+
+> "**I love running businesses, I really do. I like seeing people grow. I like coaching and
+> teaching.**"
+
+### ★★★★★ Aphorisms and constructions
+
+> "**Everything in moderation leads to a mediocre life.**"
+
+> "**This is the life you've chosen.** You can choose different things — but this is the life you've
+> chosen."
+
+> "**The value of you as a person is reflected in the quality of the questions you ask.**"
+
+> "**We walk around with a set of rules — AN OPERATING SYSTEM — that is incorrect. It's flawed. And
+> most of the time, IT'S US WRITING THE CODE. So that's the good news: BECAUSE WE CAN REWRITE THE
+> CODE.**"
+
+> "**Making it real hurts you.**"
+
+> "**Professional work has an application. It has a purpose.**"
+
+> "**All I want to do is put the GUIDELINES ON THE FIELD** — and within that, **it's vast areas for
+> you to explore.**"
+
+> "**The talent that brought him in the door is now getting clamped down.**"
+
+> "**There's no babysitting, no helicoptering. We do not have that kind of time.**"
+
+> "**Your gut is very intelligent.**"
+
+> "**I will pay you money to leave.**"
+
+> "**You get hit by a truck the day after. THAT WAS YOUR LIFE. Is that the life you want?**"
+
+> "**You're better off doing nothing — sitting in your room staring at the wall. That would be more
+> entertaining and cost less.**"
+
+> "**Don't get excited over the prospect of doing work that you forget to ask about the budget.**"
+
+> "**My best guess — and this is a best guess as it is.**" / "**I don't know — DON'T HOLD ME TO
+> IT.**"
+
+> "**I'm not in the game to convince you that what was black is not white.**"
+
+> "**Have the courage to say what's on your mind.**"
+
+> "**I know you're going to talk to other people — so let's not even pretend like you're not going
+> to.**"
+
+> "**Let me take control of this dialogue for half a second.**"
+
+> "**Do what they do in football and PUNT.**"
+
+> "**That's a great question. I'll have an answer for you — I'd like to follow up with you later.**"
+
+### ★★★★ Self-deprecation, and crediting others
+
+> "**I smiled a little guilty smile and I said: well, actually, I DID read it in a book.**"
+
+> "If you think I'm really smooth — **you've got to go to THE SOURCE.**"
+
+> "**How you get there, I don't know. I'M WORKING ON IT MYSELF.** I'll let you know as soon as I get
+> there myself."
+
+> "**I have ideas for books, but I've not taken that step. I've not passed the tipping point on
+> that.**"
+
+> "**Now you're making me RETHINK MY APPROACH here.**"
+
+> "**Kiddo, why don't you just ask?**" *(quoting his coach — see [[biography]]; the reaction is his:*
+> *"**it was like the heavens parted and the sun came through and shone in my face**… **that seems
+> so obvious and simple — THEN WHY THE HECK HADN'T I DONE THIS?**")*

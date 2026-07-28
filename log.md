@@ -11128,3 +11128,65 @@ buy it"* (2017-03-27). Not a contradiction — **he buys prolifically and reads 
 statements are his. ✅ Also note the corroborations: *"the fact that we're having the meeting says
 I'm qualified"* restates the 2016-02-13 interview argument for business owners, and *"I demonstrate
 my knowledge by being a good listener"* operationalises the 2017-02-04 self-description.
+
+## [2026-07-28] lint | synthesis pass 21 — the early-era backfill, 2015–2021 (persona layer)
+
+Stage S, triggered at 10/10. Covers ingest batches **195–204** (L2 973 → **987**). **`persona/` layer
+only, by design — pass 21b is declared and registered as a pending checkpoint** for topic hubs and
+entities, same convention as passes 18/18b, 19/19b and 20/20b.
+
+⏳ **This pass runs BACKWARDS.** Passes 13–20 walked forward through 2024–2026 material. This window
+is the P3 backfill of **2015–2021 sources**, and its dominant result is **not new doctrine but older
+dates for existing doctrine**.
+
+### ★★★★★ Two attributions recovered — the most important result
+
+Both are ideas the persona files carried as his own, and in both cases he names the source himself:
+
+1. **"Just ask" is Kier McLaren's.** *"My business coach, Kier McLaren, is the one who said: 'kiddo,
+   why don't you just ask?'"* (2017-09-27) — preceded by the confession it resolves: *"I used to go
+   into conference calls for six-figure jobs and not ask the client what they wanted us to build."*
+2. **"You're probably right, but let's make sure" came out of Blair Enns's book** (2017-05-03), told
+   against himself after a panel praised the line as unteachable. The same book is named as a
+   contributing cause of leaving commercial motion design — **recorded with his own *"began to
+   spark"* hedge intact**, not hardened into causation.
+
+Both are written into `persona/biography.md` and into the v23 prompt as **mandatory attributions**.
+
+### The dating correction
+
+`persona/beliefs.md` now opens its pass-21 section with a correction table. Six frameworks the file
+implicitly dated to 2025–26 are documented earlier: question-quality and *whoever talks first loses*
+at **2016-02-13**; the paid diagnostic at **2016-03-04**; discovery pricing at **2017-02-04**;
+objections-as-interest at **2020-11-23**; *statements tell, questions sell* at **2021-03-18**. The
+v23 prompt carries the table so a persona gives the early date when asked about origins.
+
+### What else changed
+
+- **`biography.md`** — the fullest Blind founding story (December-1995 incorporation, the uncle's
+  call, the arbitrary \$100,000 ask answered with a \$5,000 cheque for 5%, the Brewery, *"call us
+  back when you fail"*, the first national TV spot); \$1M in year two; ⚠️ **Blind ran on strict
+  work–life separation, a position he now argues against**; the ArtCenter five-years-before-you-teach
+  rule with its 70%-extraction theory; ⏳ the March-2017 \$100M prediction; *"I'm a good listener and
+  I can synthesise information"*; and the buys-books-but-reads-slowly nuance recorded **as a nuance,
+  not resolved**.
+- **`beliefs.md`** — work–life integration and the four quadrants; the four things a first meeting
+  must do; you cannot bid what you have not scoped; clear goal then leave them alone (+ Daniel Pink);
+  professional work has an application; choose your lane by its comparison set; the gut outranks the
+  bank account plus the written client filter; faith with the loophole closed.
+- **`voice.md`** — the earliest voice material in the file, headed by **matching and mirroring as a
+  stated self-practice**, which `voice` did not previously record at all.
+- **`system-prompt.md` v22 → v23** (`compiled_from_sources` 973 → 987) with four new guards: the
+  **seeds-of-doubt tactic recorded as he framed it** (not softened), the separation stance as a
+  **former** position only, the book-buying nuance, and the \$100M line as a **prediction**.
+
+### One thing deliberately not done
+
+`index.md`'s persona lines previously carried precise source counts (e.g. *"189 sources"*). Those
+numbers are **not reproducible from the files** by any counting method I could verify, so rather
+than invent new ones I rewrote those entries to describe the current contents and the pass number.
+Flagging it plainly: the counts were removed, not updated.
+
+Synthesis notes: none — this IS the synthesis pass. **Pass 21b is pending** and its brief is written
+in full into `pipeline/synthesis-state.md`; its highest-priority items are the two attributions
+landing on `entities/kier-mclaren.md` and `entities/blair-enns.md`.

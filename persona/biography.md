@@ -1345,6 +1345,151 @@ UNFORTUNATE EVENTS LED ME TO EXACTLY HERE.**"*
 some markers. And that was just how it was when I was 5 years old. So they continue on into my
 50s.**"*
 
+## ★★★★★ Early-era additions — 2015–2021 (added 2026-07-28, pass 21) 🗣️
+
+> ⏳ **This pass runs BACKWARDS.** Passes 13–20 walked forward through the 2024–2026 material.
+> Pass 21 covers the P3 backfill of **2015–2021 sources**, and its dominant finding is a dating
+> correction: **several frameworks this file implicitly treats as recent are documented years
+> earlier**, in his own words, on camera. Where a later telling and an earlier one agree, **the
+> earlier date is now the one cited.**
+
+### ★★★★★ Two attributions recovered — ideas the corpus had been carrying as his own
+
+Both are cases where he names the source himself, unprompted, on his own channel.
+
+> ★★★★★ **"Just ask" is Kier McLaren's.** Teaching a coaching client in September 2017, he first
+> confesses the habit it replaced: *"**there's this game that we think we have to play: that we have
+> to IMPRESS THEM BY NOT SAYING ANYTHING; that it's a game of ONE-UPSMANSHIP; that we can't be fully
+> transparent and honest. AND THAT'S A GAME THAT I USED TO PLAY. I used to — believe it or not — GO
+> INTO CONFERENCE CALLS FOR SIX-FIGURE JOBS AND NOT ASK THE CLIENT WHAT THEY WANTED US TO BUILD.**"*
+> — because *"you feel like you should know, and you want them to think that you know that you know
+> — **but then you don't know.**"* Then the fix, credited by name:
+>
+> *"**This is something I learned from MY BUSINESS COACH, KIER MCLAREN. He's the one who said:
+> 'KIDDO, WHY DON'T YOU JUST ASK? Just be yourself and just ask.' As soon as he said that, IT WAS
+> LIKE THE HEAVENS PARTED, THE CLOUDS PARTED AND THE SUN CAME THROUGH AND SHONE IN MY FACE. And it
+> was like: THAT SEEMS SO OBVIOUS AND SIMPLE — THEN WHY THE HECK HADN'T I DONE THIS?**"*
+> ([[../wiki/sources/2017-09-27-yt-UHrjn11F6hc]])
+
+✅ **This is the best-documented before/after in the corpus** — the ask-don't-tell principle now has
+a named origin, a dated moment, and the specific behaviour it replaced. It belongs with the other
+Kier interventions on [[../wiki/entities/kier-mclaren|his entity page]].
+
+> ★★★★★ **"You're probably right, but let's make sure" came out of Blair Enns's book** — and he
+> tells it against himself. On a panel at the Paley award show in Hawaii (~2015), asked what to do
+> when clients prescribe solutions, he gave the line; afterwards a fellow panellist praised it as
+> the kind of thing *"they don't teach in school — it's not like you could read it in a book, right
+> Chris?"* — *"**and I SMILED A LITTLE GUILTY SMILE and I said: WELL, ACTUALLY, I DID READ IT IN A
+> BOOK.**"* → *"**one of the seminal books that have changed the way I do business — and if you
+> think I'm really smooth, YOU'VE GOT TO GO TO THE SOURCE.**"* ([[../wiki/sources/2017-05-03-yt-KtL02T5MonA]])
+
+★★★★★ **The same book is a named contributing cause of his exit from commercial motion design.**
+Pitching was *"kind of THE COST OF ENTRY"* in that industry, so he resisted the premise —
+*"**there's no way this book can tell me I can't pitch**"* — and then: *"**with some kind of
+RESISTANCE I read the book — AND IT REALLY TRANSFORMED MY THINKING**… **it's applicable to
+everything else I'm doing. AND I WANT TO GET OUT OF THAT INDUSTRY. So that began to spark.**"*
+
+> ⚠️ **Keep the hedge.** He says it *"began to spark"* — **a contributing cause he names himself,
+> not a sole cause.** Do not render this as "the book made him leave."
+
+### ★★★★★ The Blind founding, told end to end (2016-03-04)
+
+The fullest version in the corpus, and more specific than the summaries above on almost every point.
+
+- ★★★★★ *"**Blind was started and formed in DECEMBER OF 1995 as a corporation.**"* ⚠️ **This bears
+  directly on the standing 1995-vs-1997 note** in *Known uncertainties*: it is still self-reported,
+  but it is now self-reported **with a month attached.**
+- ★★★★ **What came immediately before:** an ad agency and **a punk rock music label** — *"**I didn't
+  feel like I could express who I was.**"*
+- ★★★★★ **His uncle made the call:** *"**do you want to start a design company?**"* — because an
+  attorney partner had a client who owned hotels, and *"**it's cheaper to own one than to
+  continually pass the work out.**"* He had been out of school *"**no more than two and a half
+  months.**"*
+- ★★★★★ **The business plan, before search existed:** *"**search was not even a thing yet**"* — so
+  he phoned his brother in Silicon Valley to ask *"what is the internet?"*, then a roommate's
+  investment-banker father. The lesson he draws: *"**use the resources that you know. Use the
+  resources that are around you.**"*
+- ★★★★★ **The ask, and the answer:** *"**I just came up with a wild number, and the number was
+  \$100,000. Completely arbitrary**"* — though the reasoning was **six months of runway** — and
+  *"**he reaches into his briefcase and writes a check on the spot. NOT for \$100,000**… **he wrote
+  a check for \$5,000. 5%**… **No contracts. No percentage.**"*
+- ★★★★ **The first office:** the Brewery in downtown LA, 2,000 sq ft — *"**I literally slept
+  upstairs, walked down the metal stairway, and the office was there.**"* On quitting his freelance
+  gig: *"**call us back when you fail**"* → *"**there's no way I could fail. Let's just go for it.**"*
+- ★★★★★ **The breakthrough, and why he had an answer ready:** *"**I kept in my mind: maybe one day
+  somebody's going to ask me that question. I NEED TO KNOW WHEN THAT MOMENT IS**"* → **the first
+  national TV spot, about a year in.**
+  ([[../wiki/sources/2016-03-04-yt-KlnOS_Blig4]])
+
+★★★★ **A revenue corroboration:** he says Blind broke **\$1M in its second year** (≈1996–97)
+([[../wiki/sources/2026-05-19-yt-nY58IHYAARM]]) — which is consistent with, though not identical in
+scope to, the *"a couple million before I turned 25"* claim in *Known uncertainties*. ⚠️ **Both
+remain self-reported and are still not reconciled by him.**
+
+### ★★★★★ Work–life SEPARATION at Blind — and the reversal (2017-03-27)
+
+Speaking at Otis College, he argues for **work–life integration** by describing the opposite as
+**his own former practice**:
+
+> ★★★★★ *"**I used to just run Blind and that's all I was doing — so it was ALL ABOUT WORK.** So
+> when I was at home, and people didn't understand this about me: **DON'T CALL ME AT HOME, I DON'T
+> RESPOND TO YOUR EMAILS** — and they get all bent out of shape. It's like: **I gave you my time at
+> work. Now I'm at home. And I TRY NOT TO LET THOSE TWO WORLDS BLEED. AND IT CREATES ALL SORTS OF
+> PROBLEMS, as you can imagine.**"* — with the symmetry admitted: at work, he didn't want to be
+> called from home either. ([[../wiki/sources/2017-03-27-yt-BX5Jy0OIVSg]])
+
+✅ **A dated change of position, in his own account.** ⚠️ **Never present the separation stance as a
+current view** — he states it in order to argue against it.
+
+### ★★★★ Dated markers from the 2016–17 window
+
+- ⏳ ★★★★ **A falsifiable prediction (March 2017):** of The Futur — *"**it is ALL THE THINGS I LOVE,
+  ALL COMBINED TOGETHER AT THE SAME TIME**… it will become **the most valuable part of our company.
+  And I believe IT'LL BECOME LIKE A \$100 MILLION COMPANY.**"* ⚠️ Recorded as a **prediction**, to be
+  read against the actual figures in the 2026 material — **not as a claim about size.**
+- ★★★★ **"I'm in my 40s"** (March 2017), on how long integration took him to work out — consistent
+  with the birth year above.
+- ★★★★ **The teaching rule he set himself at ArtCenter:** *"**all my life I've wanted to teach. I
+  told myself: you're going to be a teacher one day. It just doesn't feel right to teach right away
+  — GO DO SOMETHING WITH YOUR LIFE FIRST.** … **the rule has to be: YOU CANNOT TEACH UNTIL FIVE
+  YEARS AFTER YOU'VE GRADUATED.**"* → and the theory behind it: *"**if you're an amazing instructor,
+  what's the highest percentage of knowledge I can extract from you? 70%** — and I'm a good student.
+  … a student who graduates and then teaches that course again — **YOU'VE ADDED NOTHING. I CAN NEVER
+  BE BETTER THAN MY TEACHER in that one discipline. But if I go out and learn about architecture,
+  interior design, business — I smash those — then MAYBE ALL MY PARTS ARE MORE THAN THE TEACHER.**"*
+- ★★★ **On his own employment history:** *"**I've worked at very few companies in my life, for a
+  very short period of time**"* — offered as a limit on his own advice about company culture.
+- ★★★★ **His own account of his core skill (2017-02-04):** *"**one of my skills, as it turns out, is
+  I'M A GOOD LISTENER AND I CAN SYNTHESISE INFORMATION. I can repackage it so people can HEAR THEIR
+  OWN THOUGHTS SAID MORE CLEARLY THAN THEY COULD HAVE SAID IT.**"* ✅ **Not design, not selling, not
+  teaching** — and it explains the shape of every workshop and hot seat in this corpus. He
+  operationalises it seven months later as *"**I demonstrate my knowledge BY BEING A GOOD
+  LISTENER**"* ([[../wiki/sources/2017-09-27-yt-UHrjn11F6hc]]).
+- ★★★ **And where he was before the consulting positioning (2017-02-04):** asked how to reach pure
+  strategy at scale — *"**how you get there, I don't know. I'M WORKING ON IT MYSELF. I'll let you
+  know as soon as I get there myself.**"*
+
+### ★★★★ How he reads — a nuance, not a contradiction
+
+> ★★★★ *"**People recommend books to me all the time, and admittedly I'M NOT A PROLIFIC READER —
+> like I sit down and read bits, and then I get distracted, and then I lose my place, and I start
+> over.** So I order the book, and then **IT SITS ON MY SHELF FOR A WHILE**"* (2017-05-03)
+
+Six weeks earlier: *"**the thing I like to collect and buy the most are BOOKS. If I see a book I
+think might be good, I'M THAT GUY AT THE BOOKSTORE — I ACTUALLY BUY IT**… **I believe in buying
+things to SUPPORT THE PEOPLE WHO CREATE THOSE THINGS**"* (2017-03-27).
+
+> ✅ **Both are his, six weeks apart. He buys prolifically and reads slowly.** Record the
+> distinction; do not resolve it in either direction.
+
+### ★★★★ The Coldplay *Ghost Stories* story (told 2020-11-23)
+
+Used as the closing case in his sales teaching: Chris Martin says *"I love it"*, the executive
+producer asks *"do you want to see the rest?"*, and Chris *"pulls the emergency handbrake."* ★★★★★
+**The diagnosis he gives is generous rather than triumphant:** *"**he was IN LOVE WITH THE PLAN**…
+the pitfall of over-preparing gives you tunnel vision… **HE COULDN'T HEAR THAT THE CLIENT WAS
+HAPPY.**" ([[../wiki/sources/2020-11-23-yt-qTp7SFtZ6uI]])
+
 ## Known uncertainties
 
 - **Kier McLaren's date of death — unknown.** He states only that his coach *"has passed away"*

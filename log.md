@@ -13967,3 +13967,35 @@ clips this run**, all from the same "meet <name>" format.
 **Stage C running total: 546 shorts processed · 16 ingested · 530 closed.**
 
 Synthesis notes: none.
+
+## [2026-07-28] ingest | yt shorts batch 257 (@thefutur, 20 triaged, 0 ingested)
+
+Stage C. **20 shorts, 0 ingested.** Open shorts 315 → **295**. January 2022; batch sizes now
+consistently under 25.
+
+### ✅ The typeface series: three for three
+
+`yt-Su3KTdOhgro` — *"**News Reader** is one of my favorite typefaces."* Third clip, **identical
+opening line**, `news reader` also **0** corpus-wide. LaFarge · Archivo · News Reader. The formula is
+now conclusively a **template**, and [[wiki/gaps.md]] records it as such: ⚠️ **every remaining
+*Fonts You NEED To Know* row is ONE decision about the series, not N separate findings.**
+
+📌 **Three identical zeros, and the correct inference was the opposite of "three discoveries."**
+Worth stating because the arithmetic instinct runs the other way — repeated novelty signals feel like
+mounting evidence, when a repeated *template* is evidence about the FORMAT.
+
+### Both content candidates already held, verbatim
+
+| Short | Rare token | Corpus |
+|---|---|---|
+| *"scope variation… **sea level or as high as Everest**… an **ROM**, rough order-of-magnitude bid"* | `scope variation` **1** | [[wiki/sources/2021-08-28-yt-TEg5xGw4Q3U]] — **same funnel, same Everest line, plus SWAG and the contingency-fee mechanic** |
+| *"I'll **anchor at a million and settle for 360**… some of you are **misinterpreting** anchor high — **don't fall in love with your own price**"* | `fall in love` **18** · `anchor high` **6** | held across `pricing` |
+
+⚠️ The anchoring clip is the **second** correction-of-a-misreading in this run (after the
+pompous/arrogant one in batch 243). **He publicly re-argues his own doctrine when audiences
+over-apply it** — a voice/behaviour pattern rather than a new belief, and one the corpus records the
+outputs of but never names. Left unpromoted; noted for a future voice pass.
+
+**Stage C running total: 566 shorts processed · 16 ingested · 550 closed.**
+
+Synthesis notes: none. **Debt 9/10 — checkpoint fires next iteration.**

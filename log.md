@@ -13869,3 +13869,31 @@ Others held: `jim rohn` **57** · `pressfield\|resistance` **51** · `russell br
 **Stage C running total: 476 shorts processed · 16 ingested · 460 closed.**
 
 Synthesis notes: none.
+
+## [2026-07-28] ingest | yt shorts batch 254 (@thefutur, 22 triaged, 0 ingested)
+
+Stage C. **22 shorts, 0 ingested.** Open shorts 385 → **363**. Batch size is drifting below 25 as
+the 2022 stretch thins out.
+
+**Closest call:** `yt-mTkaz4Idr24` *"Don't Waste Your Client's Time"* — the **Slade Smiley /
+Real Housewives of Orange County** anecdote (waited a year for the meeting, opened with small talk,
+got thrown out). The rare token `real housewives` returns exactly **1**:
+[[wiki/sources/2015-09-15-yt-F06ePJZEmK0]], which holds the same anecdote with the same moral
+(*"every meeting must have a goal; meet-and-greet wastes time"*). Closed
+`dup-of:yt-F06ePJZEmK0` — **a seven-year-old telling, re-cut.**
+
+⚠️ **One caption oddity recorded rather than resolved.** The short's transcript says the executive's
+office was *"as big as half of **chris doe's** main room"* — a **third-person** reference to the
+subject, which would normally be evidence the speaker is someone else. Against that: the 2015 source
+attributes this anecdote to Chris directly, and the auto-captions in this run mangle names routinely.
+**I am not resolving it from captions alone, and nothing depends on it** — the content is already
+recorded and attributed from the better source. Noted because the same signal, in a clip that
+mattered, would need the video itself.
+
+Others held: `the dip` **18** · `runway` **36** · `business coach` **86**.
+`yt-K-dNgEXHPL8` closed **`guest-only`** (a profile of a Dutch "dream expert" — fourth guest-fronted
+row this run).
+
+**Stage C running total: 498 shorts processed · 16 ingested · 482 closed.**
+
+Synthesis notes: none.

@@ -12063,3 +12063,63 @@ than described. ③ ★★★★★ **"Let me not lead the witness"** → `perso
 the 2016 instance** — two self-interruptions a decade apart make it a constant, not an anecdote.
 ⚠️ **Nothing from either guest episode is promotable**, and both carry do-not-merge flags for material
 that closely resembles his own.
+
+## [2026-07-28] ingest | ⚠️ SCOPE FINDING — 235 livestreams are invisible to the pipeline
+
+Batch 217, Stage B. **No source ingested.** L2 unchanged at **1,019**.
+
+### What happened
+
+`prepare --channel @thefutur` returned **three rows, all members-only**, which the driver auto-detected
+and skipped. The status report then showed **@thefutur with zero open long-form rows** — i.e. the
+channel drained.
+
+**It is not drained.** Checking the ledger directly rather than trusting the report:
+
+| type | status | count |
+|---|---|---|
+| `stream` | `L0-discovered` | **235** |
+| `video` | `L1` (flagged: no-captions / unavailable) | 45 |
+| `short` | `L0-discovered` | 838 |
+
+### ⚠️ The cause — and it is mine to have missed, not the driver's fault
+
+`tools/ingest_batch.py` **hard-codes `type == "video"`** in three places: the open-row counter
+(line 129), the per-channel status block (line 225), and the selection filter (line 162). **Rows typed
+`stream` are therefore counted nowhere and selected never.** They have been sitting at
+`L0-discovered` for the entire run while the loop reported the channel as progressing toward complete.
+
+⚠️ **I have been reporting "@thefutur P3: N" counts for many iterations that silently excluded 235
+rows.** The counts were accurate for what they measured and wrong as a picture of the channel.
+
+### What the streams actually are
+
+Not throwaway. Sampled titles include a **book launch** (*UnBland Yourself*), **business Q&As**, and
+**guest sessions** — i.e. long-form Chris-led material of the same kind the run has been treating as
+high-value. **All 235 are undated** (`published` empty), which is why they also escaped the
+metadata backfill.
+
+### ⚠️ What I did NOT do, and why
+
+**I did not change the driver to include them.** The members-only fix in batch 199 was justified
+because it *mirrored behaviour the driver already had* (skip the unobtainable) and unblocked work
+already in scope. **This is different: it would expand what counts as the corpus**, by roughly 235
+long-form items plus whatever synthesis they generate. **That is a scope decision, and it is the
+repo owner's to make, not mine.**
+
+The three options, with a recommendation:
+
+1. **Ingest them** — treat `stream` as long-form and drain it like any other backlog. ✅ **My
+   recommendation**, because the sampled titles are substantive Chris-led material and the corpus's
+   own tiering already handles low-value items via L1/skip.
+2. **Triage first** — backfill dates/metadata for the 235, then decide by title and views.
+3. **Declare them out of scope** — and record that decision, so the ledger stops implying they are
+   pending.
+
+**Until that is decided, the honest statement of pipeline state is: @thefutur long-form VIDEO is
+complete; @thefutur STREAMS (235) are untouched and unscheduled.**
+
+Ledger: L2 = 1,019 (unchanged). Open and *in scope*: @TheFuturAcademy P3:72, 860 shorts.
+⚠️ Open and *unscoped*: 235 @thefutur streams. Synthesis debt 2/10.
+
+**Synthesis notes:** none — no source ingested.

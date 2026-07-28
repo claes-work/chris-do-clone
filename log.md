@@ -14276,3 +14276,27 @@ symptom-vs-remedy framing.
 **Stage C running total: 736 shorts processed · 19 ingested · 717 closed.**
 
 Synthesis notes: none.
+
+## [2026-07-28] ingest | yt shorts batch 266 (@thefutur, 23 triaged, 0 ingested)
+
+Stage C. **23 shorts, 0 ingested.** Open shorts 125 → **102**.
+
+A **book-recommendation cluster** — three "one book creative people should read" cuts in one batch,
+all naming titles the corpus already holds:
+
+| Book | Token | Corpus |
+|---|---|---|
+| ***Zag*** (Marty Neumeier) | positioning/Neumeier material | saturated |
+| ***The Win Without Pitching Manifesto*** (Blair Enns) | `win without pitching` | **45** |
+| ***Burn Your Portfolio*** | `burn your portfolio` | **4** |
+
+Also held: `maslow` **17**.
+
+📌 **The book clips are a template like the typeface series** — *"the one book that creative people
+should read is X"* — but unlike the typeface clips these name **titles already attested elsewhere in
+his own voice**, so they resolve as ordinary duplicates rather than attribution problems.
+**Same format shape, different verdict, for a stateable reason.**
+
+**Stage C running total: 759 shorts processed · 19 ingested · 740 closed.**
+
+Synthesis notes: none.

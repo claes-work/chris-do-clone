@@ -12688,3 +12688,41 @@ Dip* to **foundational**, on *"I base a lot of the way I teach about branding an
 `topics/mindset`, ⚠️ **filed beside taste-as-moat, not merged** — a condition, not a capability.
 ③ ★★★★★ **"Can't sell it and can't charge much are the same symptom — they don't feel the pain"** →
 `topics/sales-clients` and `topics/pricing`, with **burning urgent desire** as the qualifier.
+
+## [2026-07-28] ingest | yt batch (@thefutur shorts, 0 ingested) — 5 covered, 5 held, and a rising new-material rate
+
+Batch 229, Stage C. **No source ingested.** L2 unchanged at **1,027**. Open shorts: 832 → **827**.
+
+### Five closed as covered
+
+Street-interview rate piece · *"give yourself permission to dream"* · *"why are you waiting for
+permission?"* · fear of change and addiction to routine · *"you don't need a hundred clients, you need
+three, four, five"* (covered by the finite-capacity material credited to Daniel Priestley).
+
+### ⚠️ Five held — an unusually high proportion, and worth flagging
+
+This batch ran at **50% new-material** against the ~1-in-5 running rate. That is either a genuinely
+richer stretch or a sign the phrase-check is getting looser. **Each hold has a stated reason and, where
+relevant, a check to perform before writing:**
+
+| Short | Zero matches for | ⚠️ Check required first |
+|---|---|---|
+| `yt-5kSHJfh66XI` | *"**contour** approach to personal branding"* | Its two components (**courage to be disliked**, meaningfully different) **are** covered — 6 pages. ⚠️ **Verify "contour" is not a caption garble** before adding a named framework. |
+| `yt-V54Xvg9iS_0` | *"you're being **too extra**"* | ⚠️ **The corpus has the *"too much" list*.** This may be the same argument in different words — **compare before writing, and mark dup if so.** |
+| `yt-u5Y-nDFCwj4` | *"**every dollar is a vote** for the world we want"* | ⚠️ Contains a **dated, politically sensitive commercial read on a named CEO and his company.** Per the fidelity rules: **record as a dated opinion or omit — do not soften.** |
+| `yt-ISmzwnxLZ1s` | *"you **can't be a kind person if you don't use kind words**"* | Relates to the non-violent-language thread but states an **identity claim** that thread does not. |
+| `yt-ulPzCD7P3oU` | *"find three people **at or above your level** and find out what their rates are"* | The corpus argues for raising rates constantly and **gives no method for discovering the market rate.** |
+
+✅ **Two of these five may collapse on inspection** (the *contour* framing and *too extra*). **Holding
+them with the check written down is the point** — it stops a near-duplicate entering the hubs and
+stops a caption garble becoming a named framework.
+
+### Running Stage C tally
+
+**43 shorts processed · 4 named-parent dups · 19 dup-of-corpus · 3 guest-only · 7 ingested · 5 held.**
+
+Ledger: L2 = 1,027. Open: **shorts 827**, @TheFuturAcademy P3:37. ⚠️ Unscoped: 235 streams.
+Synthesis debt 6/10.
+
+**Synthesis notes:** none — no source ingested. ⚠️ **Five held items carry forward**, two of them with
+explicit instructions to **check for duplication or caption error before writing.**

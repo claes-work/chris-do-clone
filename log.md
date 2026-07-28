@@ -13748,3 +13748,33 @@ datum, not a new belief.** Same call as `middle manager` in batch 246, and made 
 **Stage C running total: 378 shorts processed · 16 ingested · 362 closed.**
 
 Synthesis notes: none.
+
+## [2026-07-28] ingest | yt shorts batch 250 (@thefutur, 24 triaged, 0 ingested)
+
+Stage C. **24 shorts** (the driver returned 24, not 25 — the 2022 stretch is thinning),
+**0 ingested.** Open shorts 483 → **459**.
+
+⚠️ **A listing artefact worth naming, since it could have caused a double-count.** My review command
+lists `raw/` by mtime and takes 25; with only 24 prepared, the 25th row was **`yt-ZGwRiwj2_XY`
+left over from batch 249**, already closed. I checked the prepared count against the listing rather
+than assuming they matched. **The two numbers are independent — the driver's count is the batch, the
+file listing is not.**
+
+Closest call: `yt-_uaOluEN228` *"Stop Giving Away Your Thinking For Free"* —
+*"**don't work until you're paid to do so**… design is the **application of strategy**, it's a
+**byproduct** of what we do, **it's not the product**"*, with the **think → say it out loud → sign
+paperwork** commitment ladder and the deposit script (*"we'll get started as soon as we see the
+deposit, as is our policy for all new clients"*).
+
+`don't work until you're paid` returns **0** — but every component is held: `free work|spec work`
+**33** · `paid to think` **17** · `deposit` **23** (**7** in topics/persona) · design-as-byproduct
+**6** in topics/persona · `commitment` **79**. **Closed.** A memorable compression of five recorded
+ideas is still not a fifth idea.
+
+Others resolved by token: `video games` **23** · `busy is the biggest distraction` **5** ·
+`museum` **17**. One row closed **`no-content`** (`yt-pSVs5cjaLTo` — a music-only clip whose entire
+caption track is *"forever [Music]"*).
+
+**Stage C running total: 402 shorts processed · 16 ingested · 386 closed.**
+
+Synthesis notes: none.

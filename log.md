@@ -13331,3 +13331,34 @@ Ledger: L2 = 1,033. Open: **shorts 733**, @TheFuturAcademy P3:37. ⚠️ Unscope
 Synthesis debt 2/10.
 
 **Synthesis notes:** none — no source ingested.
+
+## [2026-07-28] ingest | yt shorts batch 240 (@thefutur, 25 triaged, 0 ingested)
+
+Stage C. **25 shorts, all closed as `dup-of:corpus`, none ingested.** Open shorts 733 → **708**.
+
+**Concept-check applied to five candidates that looked new by literal phrase:**
+
+| Candidate | Literal grep | Concept coverage | Verdict |
+|---|---|---|---|
+| "this was my first time teaching… who am I to teach" (`yt-AmbqqnEJNZo`) | 0 | **the Otis sabbatical origin is on `biography.md:60` in full** ("I forgot what it is that I knew") | recut |
+| "the more I gave them the hungrier they got" | 0 | **karmic equity** — `content-strategy.md:68`, `beliefs.md:574` | recut |
+| "four different books on sales" | 0 | teaching/reading lineage on 12 pages | recut |
+| "sounding smart vs being understood" | 0 | jargon 3 · clarity 10 | recut |
+| "disqualification" | 3 | already doctrine | recut |
+
+⚠️ **The first-teaching short is the closest call of the batch.** Its emotional framing —
+fear, *"who am I to teach"*, and finding his voice through teaching — is a genuinely
+different ANGLE on the Otis sabbatical, but the event, the realization and the
+give-more-get-more conclusion are all already recorded with better sourcing at
+[[persona/biography]] §~2000–2001 and [[wiki/topics/content-strategy]]. **Closed as a recut,
+not promoted.** Noting it here because if a later synthesis wants the *"who am I to teach"*
+phrasing as voice data, this is where it lives.
+
+Also of note: `yt-EuVKmQeBEP0` opens *"people always ask me: what women have you looked
+[up to]"* — an influences question. Corpus has 2 pages mentioning women mentors; the short's
+answer did not add a name beyond those, so no `entities/influences` edit.
+
+**Stage C running total: 153 shorts processed · 13 ingested · 140 closed.**
+⚠️ The 2024-and-earlier stretch now stands at **1 ingest in 105**.
+
+Synthesis notes: none.

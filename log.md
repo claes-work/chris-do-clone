@@ -10762,3 +10762,40 @@ beside the ICP method: *write the sentence they would say in a meeting you are n
 carrying: **take one idea to its extreme** is now documented as a named method he *uses* live and
 explicitly flags (*"and this is a real question, by the way"*). ⚠️ Nothing from the workshop
 curriculum is promotable — it is Matt Essam's and is fenced on both the source and entity pages.
+
+## [2026-07-28] ingest | yt batch (@thefutur, 0 ingested) — a members-only block, and a rail correctly not invoked
+
+Batch 198, Stage B (P2). **L2 unchanged at 977. No source was ingested this iteration** — all three
+selected rows turned out to be paywalled. Recording it plainly rather than dressing it up.
+
+⚠️ **THREE CONSECUTIVE FETCH FAILURES — and the rate-limit rail was deliberately NOT invoked.**
+The safety rail says three consecutive yt-dlp failures should be treated as rate-limiting and the
+iteration ended. **One diagnostic call was made first to discriminate**, and it mattered: all three
+are **members-only**, not throttled. Invoking the rail here would have stalled the loop for no
+reason; skipping the check would have risked mislabelling throttled rows as paywalled. **The rail
+is about network state, and the network was fine.**
+
+- `yt-Ns6XI1sAzKs` — members-only
+- `yt-1Gl_crWRxXk` — members-only, **Patron Member tier or higher**
+- `yt-dmGJd8EwGbo` — members-only, **Patron Member tier or higher**
+
+All three marked `skipped` with the reason and the tier where stated. ✅ **Six members-only videos
+now identified** across batches 195–198.
+
+⚠️ **A DETOUR I SHOULD NAME.** I attempted a bounded forward probe of the queue to find where the
+members-only block ends, so future batches wouldn't rediscover it three rows at a time. **The probe
+was built on my own re-sort of the ledger, which did not match the driver's selection order**, so it
+returned a different set of rows and told me nothing about the actual queue. Worse, its
+*"has no subtitles"* results are **inconclusive** — `--list-subs` reports manual subtitles, while
+the driver also accepts auto-generated captions, so those rows may well be fetchable. **No ledger
+rows were changed on the basis of that probe**, and none should be. Abandoned rather than pursued.
+
+✅ **The durable lesson, worth keeping:** the members-only videos are **clustered among the undated
+rows** and will keep surfacing. The efficient handling is the one used here — **diagnose on the
+first failure, mark, move on** — not retry loops and not speculative bulk probing. If the cluster
+proves large enough to dominate several batches, the right fix is a **driver change** (teach
+`ingest_batch.py` to classify the members-only error and auto-mark it, exactly as it already does
+for `no-captions` and `unavailable`), **not** manual probing. **Flagged as a suggestion for the
+repo owner; not implemented unilaterally.**
+
+Synthesis notes: none — no source ingested.

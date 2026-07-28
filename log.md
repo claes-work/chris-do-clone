@@ -13834,3 +13834,38 @@ Others: `tony robbins` **39** · `retire` **20** · `101 things` **5** — all h
 **Stage C running total: 452 shorts processed · 16 ingested · 436 closed.**
 
 Synthesis notes: none.
+
+## [2026-07-28] ingest | yt shorts batch 253 (@thefutur, 24 triaged, 0 ingested)
+
+Stage C. **24 shorts, 0 ingested.** Open shorts 409 → **385**. March 2022 stretch.
+
+### ⚠️ NINTH near-miss — and it took four probes to close
+
+`yt--kllLiNJjPc` *"Have A Method To Your Madness"*: dig one ditch versus fifty, and the fiftieth
+leaves you with *"**this codified methodology for ditch digging**"* — then the sales application,
+*"when I'm in front of a **nervous late-stage prospect**… **little variability in process equals
+little variability in outcome.**"*
+
+The probe trail, in order:
+
+| Probe | Result | Read |
+|---|---|---|
+| `dig a ditch` | **1** | ✅ hit, but the 2024-05-30 page uses the metaphor for **redirecting a conversation** — a *different* argument |
+| `codified\|methodology` | **5** in topics/persona | ambiguous |
+| `nervous.{0,25}prospect` | **6** | closer |
+| **`variability`** | **12** | ✅ **[[wiki/sources/2021-04-20-yt-5a488th9fkM]] holds the formulation verbatim**, dated 2021-04-20 |
+
+**Closed `dup-of:yt-5a488th9fkM`.**
+
+📌 **The lesson here is about a hit, not a zero.** `dig a ditch` **matched** — and matching nearly
+misled me in the opposite direction from every previous near-miss: same metaphor, different argument.
+**A shared image is not a shared claim.** I only settled it by probing the *inference* (`variability`)
+rather than the *illustration*. **When a distinctive image already exists in the corpus, check what
+it is being used to ARGUE before ruling either way.**
+
+Others held: `jim rohn` **57** · `pressfield\|resistance` **51** · `russell brunson\|dotcom secrets`
+**15** · `my coach` **14**.
+
+**Stage C running total: 476 shorts processed · 16 ingested · 460 closed.**
+
+Synthesis notes: none.

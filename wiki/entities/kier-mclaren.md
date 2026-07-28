@@ -520,3 +520,17 @@ governs how he coaches others — every workshop in the corpus proceeds by small
   all invisible to you. When you hit this level, you think you're at the top of the mountain.
   YOU'RE ACTUALLY JUST AT THE BOTTOM OF THE NEXT MOUNTAIN.**"* — with Blind's own ladder attached
   (*"when we would win \$100,000 jobs, we could not win \$200,000 jobs"*).
+
+### ★★★★★ Added 2026-07-28 (batch 196) — his rule for using therapy
+
+From [[../sources/2026-05-14-yt-m30YwxRJYcc]], recalled by Chris in a guest coaching session:
+
+> ★★★★★ *"**I remember many years ago when I was talking to my business coach about seeing a
+> therapist, he said: 'IF YOU'RE NOT GOING TO TELL THE TRUTH, DON'T EVEN BOTHER. Don't even
+> bother.'** And so I went in there with the mindset: **if I hold back, I'M ONLY HOLDING BACK FOR
+> MYSELF.**"*
+
+✅ **This is the operational rule underneath Chris's standing therapy recommendation** — the one
+that turns *"go to therapy"* from advice into a usable instruction. It also sets the standard he
+holds himself to in public disclosure, and pairs with his own framing in the same session:
+*"there is something about the risk of being vulnerable if you want to get a reward."*

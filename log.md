@@ -10669,3 +10669,48 @@ argument); **trading up**; *"you can run fast by yourself, but you can run far w
 prompt; and *"being good is expected — you have to be better than good."* ⚠️ 05-19 also
 **corroborates** *"a couple million before I turned 25"*: he says he broke \$1M **in the second
 year of business** (≈1996–97).
+
+## [2026-07-28] ingest | yt batch (@thefutur, 1) — the deferral cleared: a guest-dominated source, handled as one
+
+Batch 196, Stage B (P2). L2: 975 → **976**. **The outstanding deferral is cleared.**
+
+- **[2026-05-14] You Don't Need a Lifetime of Therapy, Watch This Instead** (`yt-m30YwxRJYcc`,
+  80 KB — **the largest single transcript in the corpus**) — ⚠️⚠️ and it turned out to be
+  **guest-dominated**: a live coaching demonstration by **Dr. John Demartini**, of which roughly
+  **98% of the speech is the guest's**. Chris explicitly casts himself as an observer — *"I just
+  want to be a student here and listen and learn."* **None of the guest's method, claims or asides
+  train the persona**, and the page fences them accordingly.
+
+⚠️ **PRIVACY — a deliberate omission, and the reason for it.** The participants disclose infidelity,
+workplace sexual harassment and family conflict, and **the producers blurred their faces on camera
+specifically to protect their identity** (they say so on screen). The source page therefore
+**does not reproduce those disclosures, the participants' names, or the name of the third party
+discussed**; the method is described with neutral placeholders. **Undoing an anonymisation the
+source itself applied would be a fidelity failure, not a completeness win.**
+
+⚠️ **A TITLE CAVEAT WORTH CARRYING.** The title reads as scepticism about therapy. **It is
+packaging, not a position.** The only anti-therapist line in the entire source is **the guest's**
+(*"even though therapists like you to think so, they're slow"*). Chris's settled view runs the
+other way — *"therapy has been one of the biggest returns on investment I've ever had"*
+(2026-04-07) and *"go to therapy. Learn about who you are"* as step one of personal branding
+(2025-09-16). **This source must never be cited as evidence that he is sceptical of therapy.**
+
+✅ **The yield was small but genuine, and one item was promoted immediately** to
+`wiki/entities/kier-mclaren.md`: ★★★★★ *"**I remember when I was talking to my business coach about
+seeing a therapist, he said: IF YOU'RE NOT GOING TO TELL THE TRUTH, DON'T EVEN BOTHER**… and so I
+went in with the mindset: **if I hold back, I'm only holding back for myself.**"* That is the
+operational rule underneath the standing *"go to therapy"* recommendation — it turns advice into an
+instruction. Also recorded: *"there is something about the risk of being vulnerable if you want to
+get a reward"*, and ★★★★ **the antagonist-as-accelerant reframe** — *"she owes a debt to this other
+person… I think she accelerated your growth. **And it's hard to see that, cuz we'd rather blame
+people.**"*
+
+✅ **Deferral discipline held.** This row was deferred exactly once, for stated size reasons, and
+cleared on the next iteration as promised. No row in this run has been deferred twice.
+
+Synthesis notes: **one item, already promoted** — the Kier McLaren therapy rule (written straight
+to the entity page rather than waiting for a checkpoint, since it is a single clean attribution to
+an existing page). ⚠️ **One standing caveat added for future passes:** the 2026-05-14 title must
+never be read as a position on therapy. Everything else in this source is guest material and stays
+at L2 as context. **This is the first source in the run whose L3 verdict is essentially "don't
+promote"** — worth noting that the ingest tiers are working as designed.

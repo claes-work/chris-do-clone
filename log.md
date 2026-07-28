@@ -13778,3 +13778,31 @@ caption track is *"forever [Music]"*).
 **Stage C running total: 402 shorts processed · 16 ingested · 386 closed.**
 
 Synthesis notes: none.
+
+## [2026-07-28] ingest | yt shorts batch 251 (@thefutur, 25 triaged, 0 ingested)
+
+Stage C. **25 shorts, 0 ingested.** Open shorts 459 → **434**. A **May 2022 pricing/discounting
+cluster** — anchoring, when-to-discount, never-discount, cost/price/value, 80-20 all in one run.
+
+✅ **Method fix carried over from the last batch's artefact.** I now derive the review list from the
+**driver's own prepared IDs** rather than from `ls -t raw/`. The mtime listing could include
+already-closed rows; the prepared list cannot. **One-line change, removes the double-count risk
+permanently** instead of relying on me to notice it each time.
+
+Resolved by token:
+
+| Short | Token | Corpus | Verdict |
+|---|---|---|---|
+| *"I'm a **fiduciary** for my clients"* | `fiduciary` **7** | held | dup |
+| *"don't major in the minors"* | `major in the minors` **5** | held | dup |
+| *"the party that **cares less** has the power"* | `cares less` **2** | held | dup |
+| *"a good manager makes **imperfect decisions**… what is the cost of not making a decision today?"* | `cost of delay\|inaction` **14** | `pricing` + `sales-clients` + `voice` + **system-prompt** | dup |
+
+⚠️ `yt-5NvUvIuouBY` closed **`guest-only`** — the clip is **Charlie Marie** (creative director at
+ConvertKit) narrating **her own** start on YouTube. **Chris does not speak in it.** The channel
+publishes guest-fronted segments under its own branding, so the channel is not evidence of speaker;
+this is the third such row this run.
+
+**Stage C running total: 427 shorts processed · 16 ingested · 411 closed.**
+
+Synthesis notes: none.

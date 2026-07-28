@@ -12329,3 +12329,57 @@ Ledger: L2 = 1,020. In scope: **@TheFuturAcademy P3:42** (⚠️ 1 held for reso
 **Synthesis notes:** none — no source ingested. ⚠️ **Standing note:** four rows this batch and four
 earlier were declined on attribution grounds, not content. If a reliable speaker-identification method
 becomes available, the @TheFuturAcademy skips are the first place to revisit.
+
+## [2026-07-28] ingest | @TheFuturAcademy — the assessment is now settled
+
+Batch 222, Stage B, **title-based hand-picking** (the method switch recommended last iteration).
+**No source ingested.** L2 unchanged at **1,020**. @TheFuturAcademy P3: 42 → **37**.
+
+### What the full title list shows
+
+I listed **every remaining row** rather than sampling. The channel is almost entirely **software and
+craft tutorials** — *"How to Design X in Illustrator"*, *"Top 5 Photoshop Tools"*, *"How to Draw a
+Fibonacci Grid"*, colour-theory basics, lettering how-tos. **There is no Chris-format cluster in it**
+apart from one: a set of **portfolio reviews**, which is the only thing on the channel resembling
+formats he is documented doing.
+
+### So I tested that cluster — and it is Matthew Encina's
+
+Five rows fetched and checked:
+
+- **Two** open with *"Matthew Encina here"* / *"I'm Matthew"* — **explicit, not Chris.**
+- **Two** are a presenter reviewing **their own portfolio across 20 years** (*"my portfolio from high
+  school all the way…"*), Parts 1 and 2 of the same series the Encina reviews bracket. **Not Chris's
+  biography.**
+- **One** has no self-ID and no anchor — declined.
+
+### ✅ The settled assessment
+
+Across **four batches and 26 rows**: **1 ingested, 25 closed.** The single ingest was attributed on
+internal autobiographical evidence, not a self-identification.
+
+> **@TheFuturAcademy is an instructor-led education channel — principally Matthew Encina's and Greg
+> Gunn's — not a Chris Do channel.** The remaining 37 rows are, by their titles, software and craft
+> tutorials of the same kind already declined.
+
+### ⚠️ My recommendation, and what I am NOT doing about it
+
+**I recommend closing the channel out** and moving the loop's iterations to the **860 @thefutur
+shorts**, where Chris is the presumptive speaker and the yield-per-iteration is far higher.
+
+**I am not doing that unilaterally.** Bulk-closing 37 rows is a scope decision, and scaling work down
+is the repo owner's call — the same reasoning that stopped me expanding scope to the 235 streams. Both
+decisions are now waiting, and they point in opposite directions:
+
+| Decision | Recommendation |
+|---|---|
+| **235 @thefutur streams** (currently invisible to the driver) | ✅ **Bring into scope** — substantive Chris-led long-form |
+| **37 @TheFuturAcademy rows** | ✅ **Close out** — instructor tutorials, ~4% hit rate |
+
+**Until either is decided, the loop will keep triaging Academy rows** — which is honest work, but it
+is the lowest-yield work available and I would rather say so than quietly continue.
+
+Ledger: L2 = 1,020. In scope: **@TheFuturAcademy P3:37** (⚠️ 1 held for speaker resolution), **860
+shorts**. ⚠️ Unscoped: **235 @thefutur streams.** Synthesis debt 3/10.
+
+**Synthesis notes:** none — no source ingested.

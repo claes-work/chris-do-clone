@@ -10091,3 +10091,58 @@ the effortless-creator image. Also new: **rebrand-in-place** (archive, don't del
 pruning) on `topics/content-strategy`; **the danger of smart people**; **snack not meal** with the
 curiosity-gap split; **Marty Neumeier's *The Brand Flip*** as a new work on `entities/influences`;
 and ⚠️ **Content Lab priced at \$500/mo, \$5,000/yr** on `entities/the-futur`.
+
+## [2026-07-28] ingest | yt batch (@thefutur, 3) — sell money, the tiers, and "do not explain"
+
+Batch 189, Stage B (P2). Three workshop/Q&A uploads spanning late Nov – mid Dec 2025, all three
+pricing-and-sales. **No deferrals; no skips.** L2: 958 → **961**. An unusually coherent batch —
+read in order, the three form a single argument: *find the right problem → qualify the client with
+arithmetic → and then don't justify your price.*
+
+- **[2025-11-20] How To Attract Higher Paying Clients (It's Not Your Work)** (`yt-Snvo9y6mSAw`) —
+  ★★★★★ the tightest chain of pricing logic in the corpus. *"Startups, early-stage founders"* is
+  **code for broke**; the fix is **"you need to sell money"** (Kevin Daley) and **dollarising** —
+  demonstrated live at 5% of a \$10M raise = \$500k, with the domain-free reframe *"I can help you
+  get \$10 million to buy more cars… you would do that deal every day of the week, would you
+  not?"* Then ★★★★★ **size of problem (in the client's mind) → size of budget**,
+  ★★★★★ **problem seekers, not problem solvers** (*"I'm looking for a person with a business
+  problem that sometimes a logo's the answer"*), and ★★★★★ **"why not do nothing?"** (Jonathan
+  Stark) with **motivation = pain + clarity** from *Socratic Selling*.
+- **[2025-12-07] How To Market Your Services Correctly in 2026** (`yt-NMSHcSq8nMs`) —
+  ★★★★★ an ICP workshop. Contains ★★★★★ **the mirror** (*"those same people don't have money. Cuz
+  you know why? Cuz WE don't have money"*), ★★★★★ **the tiers** — named as *the most important
+  business lesson from his coach* — with **Blind's own \$100k → \$200k → \$400k → \$1M ladder**,
+  ★★★★★ **the 10%-of-10% arithmetic** that converts *"don't serve broke clients"* into a
+  calculation, and ★★★★★ **profiling as an empathy exercise**: *"when you understand the kind of
+  crap they've had to deal with, you hate them a little less."*
+- **[2025-12-11] The Secret to Handling Any Sales Objection** (`yt--_sTrDwoZyM`) — ★★★★ pre-empt
+  the objections, carried by *"one of the best sales calls I've ever been **a victim to**"* — and
+  he keeps the coda intact: *"their problem was they could not deliver… but it was the best sales
+  call I've ever been on."* Plus a verbatim **price-anchoring script** that **fails first** and
+  works three days later, and ★★★★★ **"do not explain"** — *"that's what it costs" / "that's what
+  it costs to work with people like me" / "policy."*
+
+⚠️ **Three fidelity calls.** ① *"There are tears"* in the 12-07 captions is read as **tiers** —
+the entire framework depends on it, and the following sentences confirm it. ② **Kevin Dailey** →
+**Kevin Daley**, corroborated by his naming *Socratic Selling* in the same breath; the reasoning
+is recorded on the page rather than the correction alone. ③ One garbled budget figure and the
+phrase *"kneel into one person"* were **left unrecorded / unparaphrased** rather than guessed.
+
+⚠️ **Cross-clone rule applied:** 12-07 contains a hedged recollection of Alex and Leila Hormozi's
+content budgets. It is recorded as **his argument about content spend**, never as fact about them,
+and is **not** source material for that clone.
+
+Synthesis notes: **five genuinely new items.** ① ★★★★★ **"Sell money" + dollarise + size of
+problem → size of budget** — the causal spine of his pricing argument, and it pairs directly with
+the Maslow×ladder mapping from batch 188. ② ★★★★★ **Problem seekers, not problem solvers**, whose
+logo formulation reframes the whole craft-versus-positioning question in one sentence.
+③ ★★★★★ **"Why not do nothing?"** — with *invite the no* (10-09), *"I never assume them to tell
+the truth"* (11-15) and *pre-empt the objections* (12-11), the corpus now holds **four distinct
+discovery/objection moves recorded within nine weeks**; they should be promoted together as a
+single method, not four fragments. ④ ★★★★★ **The tiers** — biography-grade (Blind's revenue
+ladder) *and* framework, and the mechanism behind *"they trade up."* ⑤ ★★★★★ **"Do not explain"**
+with its three replacement lines. Also new: **the 10%-of-10% qualification math**;
+**profiling as empathy**; *"successful people spend money to save time"*; **his brother's dating
+advice** as the ICP design model; *"I will measure a hundred times before I cut one piece of
+wood"*; and to `entities/influences` — **Kevin Daley / *Socratic Selling*** and **Jonathan
+Stark**.

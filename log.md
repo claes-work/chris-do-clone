@@ -10961,3 +10961,52 @@ than an abstract principle. ④ ★★★★ ***The Great Brain*** → `entities
 ⑤ ★★★★★ **Giving with an explicit limit** — *"I try to give as much of myself as I can **without
 hurting myself**… what I give away is **sleep**"* — which is the honest version of a generosity
 theme the corpus otherwise records only in its flattering form.
+
+## [2026-07-28] ingest | yt batch (@thefutur, 2) — both deferrals cleared: the earliest price bracketing
+
+Batch 202, Stage B (P3). L2: 980 → **982**. ✅ **Both outstanding deferrals cleared; none carried
+forward.**
+
+- **[2017-02-04] How Do I Get More Work & Scale My Design Business?** (`yt-swiG31QGKVc`) —
+  ★★★★★ a pricing masterclass delivered as coaching, and **almost certainly the earliest recorded
+  PRICE BRACKETING**: *"I don't want you to say 10 anymore — I want you to say **between 10 to
+  20**… so 10 looks like a smaller number next to 20."* Then ★★★★★ **shut up**, with the sharpest
+  argument in the corpus for why: *"**if I ask you for a price and you say 'oh, it's this' — and
+  then you TALK — I just get the feeling you're not confident about the number. That's when I come
+  in, say my number, and I'LL GET IT FOR MORE THAN YOU.**"* ★★★★★ **And his own brackets, disclosed
+  and escalating** — *"30 to 50, and soon 30 to 80, then 50 to 100… **the more of this we do, the
+  more PROOF I have**"* — the number rising with **evidence**, not nerve.
+- **[2015-09-23] AMA w/ Keir McLaren Pt 2** (`yt-8CWD3KSaeVs`) — ⚠️ **guest-dominated**, and the
+  **oldest source in this run**: pre-rebrand, when the show was still *The Process*. Kier's material
+  is fenced (it was already mined into his entity page in synthesis pass 4) and the page is
+  explicitly marked **do not promote**. Kept at L2 for three narrow reasons: a clean **dating
+  marker**, evidence of the **co-hosted, looser on-camera register**, and Chris's framing.
+
+★★★★★ **The find of the batch is not a framework but a self-description.** Asked how to scale into
+pure strategy work, he says: *"**one of my skills, as it turns out, is I'm a good listener and I can
+synthesise information. I can repackage it so people can HEAR THEIR OWN THOUGHTS SAID MORE CLEARLY
+THAN THEY COULD HAVE SAID IT.**"* That is his own account of his core competence — **not design,
+not selling, not teaching** — and it explains the shape of every workshop and hot seat in this
+corpus.
+
+⏳ **Two dating notes.** ① Price bracketing and the paid diagnostic
+([[2016-03-04]]) together place **the whole discovery-pricing position in 2016–17**, well before the
+sources the wiki has been dating it to. ② In the same 2017 session he says plainly of scaling into
+consulting: *"**how you get there, I don't know. I'm working on it myself. I'll let you know as soon
+as I get there myself.**"* — a useful marker of where he stood **before** the repositioning the
+later material assumes.
+
+⚠️ **An observation deliberately NOT recorded as an attribution.** Kier's 2015 argument — industries
+that fail to see their own displacement, told through buffalo and carriage makers — is **the same
+shape** as Chris's own 2026 disruption argument (*"every 3 to 5 years your industry is going to be
+disrupted"*, told through the internet, Apple and the Thomas Guide). The influence is plausible and
+the resemblance is striking, **but he never credits Kier for it**, so both source pages record it as
+the curator's observation only.
+
+Synthesis notes: **four items.** ① ★★★★★ **Price bracketing with the then-shut-up rule** →
+`topics/pricing`, dated **2017**, and it should carry the *"that's when I come in and I'll get it
+for more than you"* argument, which is the most concrete case in the corpus for why hesitation is
+expensive. ② ★★★★★ **The escalating-brackets practice** — the number rises with accumulated proof.
+③ ★★★★★ **"I'm a good listener and I can synthesise information"** → `persona/biography`, as his own
+statement of his core skill. ④ ★★★ *"I'm working on it myself"* (2017) as a dating marker for the
+consulting transition. ⚠️ Nothing from the 2015 AMA is promotable.

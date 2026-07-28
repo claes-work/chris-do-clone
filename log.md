@@ -13897,3 +13897,42 @@ row this run).
 **Stage C running total: 498 shorts processed · 16 ingested · 482 closed.**
 
 Synthesis notes: none.
+
+## [2026-07-28] ingest | yt shorts batch 255 (@thefutur, 24 triaged, 0 ingested)
+
+Stage C. **24 shorts, 0 ingested.** Open shorts 363 → **339**. February 2022 stretch.
+
+### 📌 A real GAP found — recorded in [[wiki/gaps.md]], not ingested
+
+`yt-n18wQwjpt4k` (*LaFarge — Fonts You NEED To Know*, 2022-02-16) opens *"**LaFarge is one of my
+favorite typefaces**."* `favourite typeface` returns **0** corpus-wide.
+
+**I did not ingest it.** The clip is part of a **produced series** and is written in **third-person
+editorial register** — *"Gregory Shutters carefully inspected every original letter and even
+synthesized a wonderful low[ercase]"* — with **no self-identification**. That is a script, and
+scripts on this channel are not reliably his. Closed `attribution-uncertain`.
+
+⚠️ **But the zero is real and worth flagging**, which is a different act from ingesting: **for a
+subject who taught typography at ArtCenter for years, the clone cannot currently name a single
+typeface he likes.** Filed as a gap with the resolution path stated — **it needs the video, not the
+captions.**
+
+📌 This is the distinction the run has been circling. **A zero can mean three things**: my probe was
+wrong (batches 241–244), the corpus organizes it differently (batches 249–253), or **the corpus
+genuinely lacks it**. Only the third is a finding, and even then the answer may be *"flag it"*
+rather than *"write it"* when attribution won't support a page.
+
+### Others resolved
+
+`law of contrast` **0** — but the doctrine (**anchor first; don't let the client's number set your
+ceiling**) is held across `pricing` and `sales-clients`; the 2022 clip *"I like to throw out the
+number first"* also **corroborates that number-first predates the 2024-02-05 bracketing reversal**,
+which concerns the order *within* a range, not who speaks first. Closed as a duplicate, with that
+distinction noted here rather than lost.
+
+`stylescape` **15** · `burnout` **43** · `hoodzpah|amy hood` **4**. `yt-d2q_Y6tiJ8c` closed
+**`guest-only`** (Jennifer + Amy Hood profile — fifth guest-fronted row this run).
+
+**Stage C running total: 522 shorts processed · 16 ingested · 506 closed.**
+
+Synthesis notes: none. (Gap recorded in `wiki/gaps.md` instead.)

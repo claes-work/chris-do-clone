@@ -44,4 +44,14 @@ that was missing) and by lint passes. Each entry: date noticed, what was missing
   blanket redaction, or allow names Chris himself has stated publicly. Until decided,
   loops keep redacting family names everywhere.
 
+- **No recorded typeface preferences — a real hole for a designer persona.** (found 2026-07-28,
+  Stage-C shorts batch 255) `favourite typeface` returns **0** across the whole corpus. The shorts
+  queue contains a produced series, *Fonts You NEED To Know* (e.g. `yt-n18wQwjpt4k`, LaFarge,
+  2022-02-16), whose script opens *"LaFarge is one of my favorite typefaces"* — but it is written in
+  **third-person editorial register** (*"Gregory Shutters carefully inspected every original
+  letter"*) with **no self-identification**, so it was closed `attribution-uncertain` rather than
+  ingested. ⚠️ **Resolving who narrates that series would unlock a genuine persona dimension**: for a
+  subject who taught typography at ArtCenter, the clone currently cannot name a single typeface he
+  likes. Needs the video, not the captions.
+
 ## Resolved

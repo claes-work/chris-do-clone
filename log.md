@@ -12170,3 +12170,49 @@ Ledger: L2 = 1,019 (unchanged). In scope: **@TheFuturAcademy P3:69**, 860 shorts
 Synthesis debt 2/10.
 
 **Synthesis notes:** none — no source ingested.
+
+## [2026-07-28] ingest | yt batch (@TheFuturAcademy, 0 ingested) — the channel's character is now established
+
+Batch 219, Stage B, **light triage** per SUBJECT.md's guidance for company channels. **No source
+ingested.** L2 unchanged at **1,019**. @TheFuturAcademy P3: 69 → **61**.
+
+**The adjusted approach from last iteration worked**: instead of one-by-one full reads, I pulled 8
+rows, fetched captions, and **triaged on the opening lines** — where a tutorial presenter almost
+always self-identifies.
+
+### Result: 8 of 8 closed, and the channel's character is no longer in doubt
+
+| Rows | Finding |
+|---|---|
+| **5** | **Presenter self-identifies by name — not Chris.** Pinterest, margins/layout, print, colour theory (Greg Gunn), After Effects. Straightforward instructor tutorials. |
+| **1** | Instructor-led animation tutorial, **no self-ID but plainly a course instructor** promoting a Futur workshop. |
+| **2** | ⚠️ **Virgil Abloh tribute critique, Eps 1/3 and 2/3** — the same series as the Ep 3/3 flagged last batch. **Same problem: no speaker self-identifies.** Skipped on the same grounds. |
+
+### ⚠️ The Abloh series — three episodes now closed as unverifiable, and I want that on the record
+
+All three episodes of that series read like Chris Do. **None of them contains a self-identification**,
+and the only *"Chris"* named is a participant being critiqued. **Three separate opportunities to file
+it as his, three refusals.** If independent evidence of the speaker ever surfaces, the series is worth
+revisiting — the one line I noted from Ep 3/3 is good. **Until then it stays out of the wiki.**
+
+### ✅ Conclusion for the remaining 61 rows
+
+**@TheFuturAcademy is an instructor-led tutorial channel, not a Chris Do channel.** Across two batches,
+**11 of 11 rows have been closed without ingest.** That is a strong enough signal to state plainly
+rather than keep testing one batch at a time.
+
+**Recommended handling for the remaining 61** — flagged for the repo owner rather than decided
+unilaterally, since it changes how a whole channel is processed:
+
+1. ✅ **Continue light triage in batches of 8–10**, closing on speaker identification. Cheap, and it
+   will surface the rare Chris appearance if one exists. **My recommendation.**
+2. **Bulk-close the channel** as instructor content, with a note, and spend the iterations on the 860
+   shorts instead.
+3. **Backfill metadata first** (titles/views) and hand-pick only rows whose titles suggest Chris.
+
+Ledger: L2 = 1,019 (unchanged). In scope: **@TheFuturAcademy P3:61**, 860 shorts.
+⚠️ Still unscoped: **235 @thefutur streams.** Synthesis debt 2/10.
+
+**Synthesis notes:** none — no source ingested. ⚠️ **One standing note for future passes:** the Virgil
+Abloh critique series (3 episodes) is **deliberately absent from the wiki on attribution grounds**, not
+because it lacks content. Do not "recover" it without establishing who is speaking.

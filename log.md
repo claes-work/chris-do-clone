@@ -14393,3 +14393,40 @@ word, without calling any attention**, people feel your energy."*
 
 Synthesis notes: **adulting as recovery not attainment** (2026-07-26) → `topics/mindset`, ⚠️ **only
 after reconciling with §106**; mark the evolutionary argument as his reasoning.
+
+## [2026-07-28] ingest | yt shorts batch 269 (@ChrisDo, 8 triaged, 0 ingested) — ⭐ @thefutur SHORTS DRAINED
+
+Stage C. **8 shorts, 0 ingested.** Open shorts 67 → **59**.
+
+### ⭐ MILESTONE — and it was found by a batch returning ZERO
+
+`prepare --channel @thefutur` returned **0 rows** this iteration. Rather than read that as "done", I
+broke down what the 67 open shorts actually are:
+
+| Channel | Count | Status |
+|---|---|---|
+| **@thefutur** | **45** | ⚠️ **ALL `no-captions`** — already attempted, permanently unprocessable without Whisper (**never run without user approval**) |
+| @TheFuturAcademy | 14 | `academy-tier` |
+| **@ChrisDo** | **8** | ⚠️ **never attempted** — discovered with view counts, never fetched |
+
+**@thefutur shorts are therefore COMPLETE**: every row with captions has been processed. The 45
+remainder is a hard floor, not a backlog. **And the breakdown surfaced 8 rows on a third channel that
+the @thefutur-scoped loop would never have reached** — the same class of blind spot as the 235
+invisible livestreams (batch 217), found the same way: **by asking what the residual actually
+contains instead of trusting the batch count.**
+
+### The 8 @ChrisDo shorts, all closed
+
+- **2 guest-primary** — hourly-rate roleplays where **the person quoting \$2,000/hr is the
+  interviewee**, not Chris (*"my friend **Chris** said I should up my rate"* — a third-person
+  reference that settles it). ⚠️ These would read as his own rate to a careless ingest.
+- **1 shuhari recut** → `dup-of:yt-BJ7nX1t4g9k`, the sixth clip of that framework this run.
+- **1 belonging clip** — *"one of the scariest things in life is to feel like you're alone… in a
+  strange town where the language is foreign, you're at your most vulnerable."* A fresh framing, but
+  belonging is held on **13** topics/persona pages; closed as a voice datum, consistent with the rule
+  applied six times earlier in this run.
+- 4 ordinary duplicates.
+
+**Stage C running total: 802 shorts processed · 20 ingested · 782 closed.**
+
+Synthesis notes: none.

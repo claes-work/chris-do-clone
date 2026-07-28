@@ -13139,3 +13139,54 @@ before adding anything.** The genuine additions from this run are the **Bungay S
 structural source** (ask well · answer slower · stay curious longer), the **sixth Blair Enns
 attestation** classified as *positioning not sales*, **Jim Rohn's standing and the Tony Robbins lineage
 claim**, and **Vinh Giang** (⚠️ spelling unverified) — **each to be confirmed against the hub first.**
+
+## [2026-07-28] ingest | yt batch (@thefutur shorts, 0 ingested) — 55 consecutive shorts with nothing new
+
+Batch 237, Stage C, **15 shorts** (Sep–Oct 2024). **No source ingested.** L2 unchanged at **1,032**.
+Open shorts: 773 → **758**.
+
+✅ **Applied the sharpened rule**: correct syntax, from the repo root, and **semantic** rather than
+literal checks. It worked — *"social proof is the new CV"* returned 1 on its own phrasing but **3 on
+the corpus's wording, *"the new résumé"***. That is the exact miss that produced yesterday's error, and
+this time it was caught before writing.
+
+All 15 closed. Concepts covered: social-proof-as-CV · character/want/obstacle · going past the sale ·
+authenticity when no one's watching · value-based pricing · the three buyer questions · self-worth
+after repeated no's.
+
+### ⚠️ A SECOND confirmed re-upload pair
+
+`yt-LaJVIr4XLVY` (Sep 2024) is **identical** to `yt-TojOt9k3d0c` (Jun 2025) — the *"that's too
+expensive → I misjudged the problem"* short, which I ingested from the **later** upload. **Two IDs, ten
+months apart.** ✅ Second confirmed instance, and it reinforces the method note: **corpus-level phrase
+matching is the correct rail; ID-level parent matching would miss these entirely.**
+
+### ⚠️ One row where I deliberately did NOT claim novelty
+
+*"When you give and you ask and there's **no gap** between the two, it's called a transaction… **widen
+the gap** between the time you give and the time you ask."* The **concept** is well covered — gift
+economy (3), *a gift with an expectation is manipulation* (2), reciprocity (8), and the emotional-debt
+mechanism. The **"widen the gap" phrasing** may itself be absent.
+
+✅ **I flagged it for the synthesis pass to check against the hub rather than asserting it as new** —
+given four false-absence claims this run, that is the defensible call.
+
+### 📊 Stage C: 55 consecutive shorts, zero new material
+
+Cumulative: **103 shorts processed · 12 ingested · 91 closed.** ⚠️ **All 12 ingests came from the
+2025–26 stretch**; nothing from 2024 or earlier has yielded anything.
+
+### ⏭️ Synthesis is now overdue — 20/10
+
+The driver reports **20 ingest batches since the last synthesis pass** (my interim `lint` entries did
+not reset it). **Next iteration is Stage S**, which is where the influences work belongs — and the log
+already carries the instruction: **read the hub before adding anything**, because it has twice proven
+richer than my source-page notes assumed.
+
+Ledger: L2 = 1,032. Open: **shorts 758**, @TheFuturAcademy P3:37. ⚠️ Unscoped: 235 streams.
+**Synthesis debt 20/10 — DUE.**
+
+**Synthesis notes:** none new — but ⚠️ **the carry-forward list for the next pass is substantial**: the
+Bungay Stanier upgrade, the sixth Blair Enns attestation, Jim Rohn's standing and the Tony Robbins
+lineage claim, **Vinh Giang** (spelling unverified), the *widen-the-gap* phrasing check, and the four
+corrected novelty claims — **all to be confirmed against the hub, not patched from notes.**

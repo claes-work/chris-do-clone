@@ -1490,6 +1490,118 @@ producer asks *"do you want to see the rest?"*, and Chris *"pulls the emergency 
 the pitfall of over-preparing gives you tunnel vision… **HE COULDN'T HEAR THAT THE CLIENT WAS
 HAPPY.**" ([[../wiki/sources/2020-11-23-yt-qTp7SFtZ6uI]])
 
+## ★★★★★ Provenance and origins — additions (added 2026-07-28, pass 22) 🗣️
+
+> ⏳ This window (batches 205–214, L2 987 → 1,013) was dominated by **guest-format episodes**, which
+> turned out to be where he credits people. Its through-line is **provenance**: three named sales
+> debts, an adaptation he acknowledges, and two borrowings he flags as uncited.
+
+### ★★★★★ The sales lineage — three debts, three dates, three different kinds
+
+He says it himself: *"**I can count on ONE HAND those influences.**"* The corpus can now name three,
+with what each supplied:
+
+| Source | What he took | Dated |
+|---|---|---|
+| **[[../wiki/entities/kier-mclaren\|Kier McLaren]]** | the **permission and method to ask** — *"kiddo, why don't you just ask?"* | 2017-09-27 |
+| **[[../wiki/entities/blair-enns\|Blair Enns]]** | **positioning, the refuse-to-pitch stance, and specific scripts** | 2017-05-03 |
+| **Elay Cohen** | **the vocabulary** — *a compelling event · social prospecting · open-ended questions* | 2018-11-14 |
+
+> ⚠️ **THREE DISTINCT DEBTS — DO NOT MERGE THEM.** He describes them differently: an intervention, a
+> book, a set of terms. Collapsing them into "his sales influences" loses the distinction that makes
+> the record useful. ([[../wiki/sources/2018-11-14-yt-ua1jWIzVl1w]])
+
+★★★★ **Blair Enns is attested five times, 2017–2023**, and one of them is **behavioural**: in June
+2018 he replaced the next design challenge in his mentorship programme with *"**I want you to READ
+THIS BOOK**… top to bottom, front to back"*, and announced a live on-air test — *"winner takes all."*
+([[../wiki/sources/2018-06-13-yt-FsyJodhEze0]])
+
+### ★★★★★ An adaptation he acknowledges — and two borrowings he flags as uncited
+
+- ★★★★★ **"What makes you weird makes you wonderful" is an adaptation, and he says so:** *"**JAMES
+  VICTORE** has this expression which I love — **which I CO-OPTED AND MODIFIED a little bit.** His
+  thing is: **'what makes you weird as a kid makes you a creative as an adult.'** That's a lot to say.
+  **I just say: what makes you weird makes you wonderful.**"* ⚠️ **Never present the short form as
+  wholly his.** ([[../wiki/sources/2023-02-17-yt-691Um--5S-8]])
+- ★★★★ **"Do less but better"** — *"there's a phrase — **I forget who. I SHOULD BE ABLE TO CITE THIS
+  QUOTE**."* ⚠️ Carry the line **with his own admission attached.**
+- ★★★★ **"Responding to things that are not here right now"** — credited to *"**my business
+  mentor**"*, and ⚠️ **he does not name him in that source.** The corpus identifies that role as Kier
+  McLaren; **the source does not.**
+
+### ★★★★★ The 2014 origin — the terms of the offer
+
+The corpus has recorded the 2014 start and Jose Caballer's part in it many times. **It did not have
+what he actually said.**
+
+> ★★★★★ *"My school friend **Jose Caballer** said: hey, let's go make some YouTube videos together —
+> **and I just did not want to do that.** But in that kind of classic Godfather thing, **HE MADE ME AN
+> OFFER I COULD NOT REFUSE: HE SAID YOU GET TO SIT THERE AND SAY NOTHING, AND I WILL DO ALL THE
+> TALKING.** And true to his word, he did all the talking and allowed me to say nothing. **But
+> eventually I figured out: I WANT to do this thing. I CAN BE GOOD at this thing if I work at it.**"*
+> ([[../wiki/sources/2024-08-08-yt-_X32j4vIo7A]])
+
+✅ **This explains a documented fact rather than decorating it** — the earliest episodes are co-hosted
+with Chris barely speaking, which several source pages note without an explanation.
+
+★★★★ **And the reluctance is broader than the podcast:** *"**Actually, I don't want to do media at
+all.** I know it's really weird — you see me everywhere… **sometimes we don't know what's good for us
+until it happens.**"* Plus *"I'm just reluctant, I guess."*
+
+★★★★ **He resisted the podcast too, and names what he got wrong:** *"why do you want to give us more
+work to do?"* → *"**what I didn't realize — AND IT'S HUMBLING to think about it — is there are a lot
+of people who don't have fast internet**… in the Philippines they would **go to the library, download
+the episode**."*
+
+★★★★ **The unpaid-speaking years, itemised:** *"**I HAD TO PAY TO DO PUBLIC SPEAKING.** I worked on
+the deck for weeks, I wrote the material, I drove myself there… **I PAID FOR MY OWN PARKING. They
+didn't even reimburse me for my own parking.** And then after I was done: **don't let the door hit you
+on the way out.**"*
+
+### ★★★★★ The immigrant account — the fullest version, told without romance
+
+> ★★★★★ *"**I'm a FIRST-generation immigrant, so I wasn't born here**… when you flee a country due to
+> war, civil war, and you flee communism and start over, **there are CERTAIN TRAUMAS THAT ARE JUST
+> INHERITED IN THE BODY — that I don't learn about until much later, after talking to a therapist —
+> THAT MY PARENTS FEEL.** I can't imagine what it's like to **drop everything — your identity, your
+> language, your culture** — and start over **where EVERYTHING IS STACKED AGAINST YOU. BUT THEY
+> SHIELDED US FROM IT.**"* ([[../wiki/sources/2024-10-22-yt-XOGrJDvWAbM]])
+
+⚠️ **Note the attributions he makes carefully, and keep them:** the trauma is **his parents'**, his own
+awareness of it is dated **to therapy, "much later"**, and **they get the credit for shielding.**
+
+★★★★★ **The grades standard, in its sharpest telling** — this supersedes the thinner *"A is just kind
+of average"* note above: *"**if you get an A, THAT'S CALLED AVERAGE**… the fear of God was put in me:
+**if you get a B it's acceptable — but if you get a C, DON'T EVEN BOTHER COMING HOME.**"* → and the
+comparison that makes it legible: *"my friends who are Caucasian, multigenerational — **'I got a C,
+I'm getting a new BMX bike.'** I'm like: **LIFE IS SO UNFAIR.** Here I am getting A's, A-minuses…
+**THERE'S NO REWARD. IT'S JUST LACK OF PUNISHMENT — is all that is.**"*
+
+★★★★★ **Hardship as inherited capability — with the hedge that keeps it honest:** *"**in the moment IT
+DOESN'T FEEL LIKE IT'S A GIFT. But it actually IS a gift** — you learn to **ADAPT TO SURVIVE OUT OF
+NECESSITY**… that becomes **the BASELINE**, so as you progress in life **IT SEEMS LIKE NOTHING IS EVER
+AS BAD AS IT USED TO BE.**"* ⏳ **Dated:** *"once I'm in my early to mid twenties I've developed a
+different mindset: **I'm in control of my destiny, my fate.**"* → and *"**I try to REIN IN THE
+EMOTIONS, to be AS STOIC AS POSSIBLE.**"*
+
+### ★★★ Smaller biographical items from this window
+
+- ★★★★ **A client relationship running from his early twenties:** *"I work with someone **today** that
+  I met **when I was in my early 20s**, when they were a tiny **eight-person company** — and they're a
+  **400-person company** today. Still have a relationship, call each other on the phone."* ⚠️ **No
+  name, industry or company given.** ([[../wiki/sources/2023-02-16-yt-bNgRrcIcaFY]])
+- ★★★★ **He does not do his own hiring (2020):** *"**I'm rusty like a bucket of nails on interviewing,
+  because I DON'T REALLY INTERVIEW PEOPLE — there's people who do that for me.**"* And in role, the
+  filter he uses: *"**truly, I DIDN'T LOOK AT YOUR RESUME. YOU COME HIGHLY RECOMMENDED.**"*
+- ★★★★ ***"She was even my teacher back in 2007"*** — said of a design educator whose course he
+  recommends. ⚠️ **No institution, format or subject is given, and by 2007 he had run Blind for over a
+  decade. Record the sentence; do not interpret it.**
+- ★★★ ***"As a martial artist"*** — offered in passing while quoting Bruce Lee (*"human beings are all
+  merely works of progress who mistakenly think from time to time that they are done"*).
+- ★★★ **He left the commercial world deliberately:** *"**I used to make commercials and music videos
+  for a living — and I've LEFT THAT WORLD LONG BEHIND.**"* ✅ **R/GA corroborated** in the same
+  exchange.
+
 ## Known uncertainties
 
 - **Kier McLaren's date of death — unknown.** He states only that his coach *"has passed away"*

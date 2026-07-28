@@ -4872,6 +4872,182 @@ can PAY ME A THOUSAND DOLLARS and I'll build you an estimate. But I NEED TO BE P
 CAN'T GET THAT BACK.**"* — with **Cialdini's consistency principle** as the reason he prefers the
 meeting: *"**we have LEVELS OF INCREASING COMMITMENT from you**… **so I'm BRINGING YOU IN.**"*
 
+## ★★★★★ Additions — the guest-format window (pass 22, added 2026-07-28)
+
+> ⏳ Batches 205–214 (L2 987 → 1,013). Mostly guest interviews — which is where he **credits people**
+> and where he answers questions he does not set himself.
+
+### ★★★★★ SALES — the acronym, and the dependency that makes it a system
+
+**S**erve · **A**sk · **L**isten · **E**mpathize · **S**ummarize. *"**We all have the wrong concept of
+what sales is**… notice — **in SALES, the word 'sales' is not in sales at all.**"*
+
+> ★★★★★ **The dependency is the point, not the mnemonic:** *"**if you can get number one right, ALL
+> THE OTHER ONES FALL IN LINE. If you screw up this idea of servitude, THE QUESTIONS YOU ASK WILL BE
+> DIFFERENT, HOW YOU LISTEN WILL BE DIFFERENT, YOU WON'T EMPATHIZE AT ALL** — you won't even think
+> about summarizing, because you don't even understand the other person's problem.**"*
+
+- **SERVE** = *"**temporarily put on hold your own needs and wants**"*, with *"an element of
+  SELF-SACRIFICE"* — and operationally: learn **where they failed before, what success means, what's
+  at stake if they fail**, *"before you even begin to take any action whatsoever."*
+- **ASK** = calibrated questions → then ★★★★★ *"**RESIST THE COMPULSION TO IMMEDIATELY SOLVE THE
+  PROBLEM** — they've just presented what **THEY THINK** the problem is"* → *"**instead of you
+  convincing them, THEY'RE GOING TO GET CLARITY.**"*
+- **LISTEN** = against *"most people just **stay quiet long enough so that they can formulate what they
+  want to say next**."*
+- **EMPATHIZE** = *"**tell me how you FAILED in the past**"* → ★★★★★ *"**it would behoove you to present
+  a solution that addresses all of these concerns. THIS BECOMES YOUR MARKETING COPY.**"*
+- **SUMMARIZE** = *"the last S is **NOT to sell**"* → **the fullest close in the corpus**: *"here's what
+  I heard you say — does that sound right?"* → **the hypothetical close** (*"if you've done your job it
+  should be a SMOOTH, EFFORTLESS YES"*) → **the pause question** (*"is there anything else that would
+  give you pause?"* — because *"there's so much rapport building and **they feel so guilty to say
+  no**"*) → ★★★★★ **hand it back**: *"**what might be a solution to that? And you ACTIVATE THEM… and
+  then THEY DESIGN A SOLUTION WITH YOU**"* → *"**is this a DEAL KILLER?**"
+
+> ⚠️⚠️ **THIS IS NOT THE SAME FRAMEWORK AS THE 2020 SIX-STEP SALES PROCESS** (prospect · qualify ·
+> approach · present · objection · close). **Both are his. They are different models. Merging them
+> would fabricate a third he never taught.** ([[../wiki/sources/2023-02-16-yt-bNgRrcIcaFY]])
+
+★★★★★ **The answer to "what if the honest answer isn't my service" — an ethics question reframed as a
+time-horizon question:** *"**what kind of person am I? What kind of company do I want to run? HOW LONG
+DO I WANT TO PLAY THIS GAME?** If you're committed for three to six months, **you're going to get as
+much as you can and you're going to run — a SMASH AND GRAB, and you're going to ROB YOUR CLIENT**… and
+then they wonder why they don't have a business in seven, eight months. **SO YOUR MINDSET DETERMINES
+YOUR ACTIONS, AND YOUR ACTIONS DETERMINE THE RELATIONSHIPS YOU'RE GOING TO HAVE.**"* → and plainly:
+*"**what is the point of having ethics, morality, if you don't ever act on them?**"*
+
+★★★★★ **Customer service, defined:** *"**you're CREATING A MEMORY for a person. THAT is customer
+service.**"* (Nordstrom and Zappos as the two cases.) → *"**what is the memory that you're creating?**"*
+
+### ★★★★★ A TEST for a personal brand — not another definition
+
+> ★★★★★ **① Can you make kings or queens?** *"**by virtue of you being around other people, THEY become
+> a little bit more influential BECAUSE OF THEIR PROXIMITY TO YOU.**"* **② Can you print money?**
+> *"not literally — but figuratively."*
+
+✅ **It reframes the objective from BEING KNOWN to BEING ABLE TO CONFER.**
+
+★★★★★ **And the negative case, with evidence:** *"**you can have a lot of followers and NOT have a very
+good personal brand. FOLLOWERS IS NOT A GREAT METRIC for whether you have any real influence**"* —
+**faceless content** (*"you may have THREE MILLION FOLLOWERS AND NO ONE KNOWS WHO YOU ARE"*) and
+**curation accounts** (*"I still don't know who you are, and you're not able to actually MOVE THE
+NEEDLE"*). ([[../wiki/sources/2025-06-05-yt-OzPIvxxku8c]])
+
+### ★★★★★ Branding — the definition stack, and culture as constitutive
+
+*"**Branding is THE ACT OF INFLUENCING POSITIVE ASSOCIATIONS with your product, service,
+organisation**"* — stacked with **Marty Neumeier** (*"a person's gut feeling"*), **Jeff Bezos**
+(*"what people say when you're not in the room — so that's your REPUTATION"*) and **impression
+management**. → *"**branding CANNOT be just what it looks like — because what it looks like is very
+SUPERFICIAL.**"*
+
+★★★★★ **The four components — looks · performance · after-service · CULTURE**, with culture argued as
+**constitutive, not adjacent**: *"you can make a great product… **but anytime they run into anybody
+from the company and they act like jerks — THAT'S THE BRAND**"* → credited to **Tony Hsieh**: *"**forget
+brand, get the culture right — when you get the culture right, the brand follows.** … **BRAND EMANATES
+FROM WITHIN.**"*
+
+★★★★ **Why corporate branding used to work, and what ended it:** fifty years of buying association
+through **distribution and repetition** when there were *"three major networks, a few newspapers and a
+couple of magazines"* — *"**but something wonderful happened in the early 2000s — something called
+SOCIAL.**"*
+
+★★★★★ **Brand as the accelerant, and it is costed:** *"**brand is THE ACCELERANT to almost everything
+that you do**… but **NOT ALL OF US ARE ABLE TO LEVERAGE it**"* — a 1,000-person event at **89% sold**
+off one webinar, where *"**last year it would have taken me another two months of selling.**"*
+⚠️ **Promote with the costing attached**; without it the claim is generic.
+
+★★★★★ **The counter-stereotype argument, made COMMERCIALLY** — the corpus has only had it personally:
+*"**why are we — as Singaporeans, Asian-Americans, expats, whatever — SO READY TO GIVE EXTRA MONEY TO
+WESTERN OR EUROPEAN BRANDS OVER THE LOCAL ALTERNATIVE?**… **we become TOO COMPLIANT, TOO BLEND-IN, too
+much desire to FIT IN — that we just DON'T STAND OUT. And we become frustrated, and we feel like we
+don't have a voice.**"* ⚠️ His *"by a factor of 100"* is **his own estimate, not a statistic.**
+
+★★★★★ **The stacking argument — the competitive arithmetic under it all:** *"**if you just look at
+yourself as ONE DIMENSION, you'd have to be THE VERY BEST IN THE WORLD to really make a dent. But if
+you incorporate ALL OF WHO YOU ARE… VERY FEW PEOPLE CAN COMPETE.** And **you don't have to add all
+dimensions — but if you ADD SOMETHING.**"* ([[../wiki/sources/2024-09-24-yt-BGwAGtgBMto]])
+
+### ★★★★★ Estimating, proposals and the diagnostic tactic
+
+- ★★★★★ **You cannot bid what you have not scoped** → **sell the strategy that produces the scope**;
+  and meanwhile give **a range explicitly labelled as assumptions** (*"my best guess — and this is a
+  best guess as it is… **I don't know, DON'T HOLD ME TO IT**"*).
+- ★★★★★ **The proposal is not the sale** — ⚠️ **quoting Blair Enns**: *"**the proposal isn't the
+  document that you send — IT'S THE WORDS YOU SAY. The document is just A RECEIPT for the words.**"*
+- ★★★★ **Levels of increasing commitment** (⚠️ crediting **Robert Cialdini**): *"every time you decide
+  to do a meeting, a follow-up meeting, a discovery — **you're making little bits of agreement. SO I'M
+  BRINGING YOU IN.**"*
+- ⚠️★★★★★ **A competitive tactic he names himself:** *"**that's why I PLANT THE SEEDS OF DOUBT.** If
+  someone else doesn't give you a thorough diagnostic before quoting, I'd be concerned — **BUT I DON'T
+  SAY THOSE WORDS. I just plant the seeds, subtly**… **I'M TRYING TO DIFFERENTIATE THE WHOLE TIME.**"*
+  **Recorded as he framed it. Do not launder it into pure principle.**
+
+### ★★★★★ Mindset additions
+
+- ★★★★★ **Attachment is what makes you stuck:** *"**we are MORE AFRAID OF CHANGE AND THE UNKNOWN THAN
+  WE ARE OF OUR PROBLEMS** — we'll **stick with the devil that we know**."* → the example: a childhood
+  defence that *"**even though it didn't serve you, IT PROTECTED YOU**"* and is still carried by *"a
+  captain of industry"* — *"**nobody's picking a fight with you anymore. THAT WAS IN THE PAST.**"* →
+  and the remedy: *"**your body and your mind, your spirit and your soul CAN ONLY HOLD SO MUCH** — you
+  have to **UNBURDEN yourself… so that you can have THE STRENGTH TO CARRY SOMETHING ELSE.**"*
+- ★★★★★ **"The old you has to die"** — ✅ **with grief named**: *"**the most natural thing to do — and
+  the MOST DIFFICULT — is TO KNOW WHO YOU ARE AND TO BE YOURSELF. This is kind of A GRIEVING, because
+  it's almost like THE OLD YOU HAS TO DIE so the new you can come out.**"* → *"**I don't want to fit in
+  a box. I WANT TO EXPLODE THE BOX.**"*
+- ★★★★★ **Blame goes both ways** — applied to **credit as well as fault**: *"the only person you have to
+  blame for the things you don't have **— OR THE THINGS THAT YOU HAVE — is yourself**… when things
+  don't go your way it's always somebody else's fault. **IT'S ALL YOU.**"*
+- ★★★★★ **Run the expert's instruction UNMODIFIED so failure is informative:** *"**I did EXACTLY as I
+  was told, because I'M A REALLY GOOD STUDENT. I didn't try to improvise, I didn't try to flip it**…
+  because if it doesn't work, **at least I can go back and say: I DID EXACTLY WHAT YOU SAID.**"*
+- ★★★★★ **Emotional debt — his own theory, and he flags it as his:** *"**I have this theory about modern
+  decent societies: that WE DON'T LIKE LIVING WITH DEBT. EMOTIONAL DEBT we don't want to carry — so we
+  want to repay, BECAUSE WE DON'T WANT TO BE SEEN AS SOME KIND OF PARASITE OR USER OR TAKER**… it's not
+  as rudimentary as trading — **BUT IT IS A FEELING OF SELF-WORTH.**"* ✅ **The mechanism under
+  give-first**, which the corpus otherwise records only as a practice.
+- ★★★★★ **Happiness is perpetual growth** — ✅ **stated with its exception in the same breath**: *"they
+  get to a certain place… you think that once you get there you could just REST and not keep going.
+  **THERE'S NO SUCH THING**"* — *unless* the reputation is large enough to coast on.
+- ★★★★ **Consistency, measured:** *"**I know what it's like to create 45 days' worth of content — so
+  forget about 10 YEARS of doing it 365 days a year.** … **WHAT HAVE YOU DONE IN YOUR LIFE THAT YOU
+  WERE THAT CONSISTENT — BESIDES BREATHING?**"*
+- ★★★★ **Detachment is an ACQUIRED SKILL, not a temperament:** *"**care deeply about the work, but not
+  so much that you LOSE YOURSELF in it**… **there's a HUGE TALENT in getting to that next level of
+  being able to be more objective about the work.**"*
+- ★★★★ **Know your depth, demonstrated:** *"**I'd love to tell you I know. And I don't**… **I KNOW WHEN
+  I'M OUT OF MY LEAGUE**"* — and he hands the explainer to a colleague rather than fake it.
+
+### ⏳ Two dated positions from this window — carry the dates
+
+- ⏳ ★★★★★ **NFTs (March 2021)** — the **museum argument** (*"**museums wouldn't exist if the facsimile
+  of it was as powerful as the thing itself**"*; *"when you talk about NFTs, **THE FACSIMILE IS THE
+  THING**"*), ✅ **tested against the Louvre and conceded where it fails**, and a verdict that splits
+  **by role, not technology**: good for creators who are first in, worrying for investors downstream.
+  The Ponzi concern is **hedged by him** (*"I could be totally wrong on this"*) and grounded in the
+  **1990s comics speculation collapse** he lived through as a collector.
+- ⏳ ★★★★★ **AI (November 2023) — the removing-the-ladder argument**, and it is different in kind from
+  the other AI faces: *"the low-hanging fruit AI is really good at replacing… **that's not what we
+  strive to do at the higher level — BUT WE HAD TO DO THAT TO GET TO THE HIGHER LEVEL.** If we remove
+  that and it's just a push button, **MY FEAR IS THAT SOME OF THE NEWER GENERATION ARE NOT GOING TO BE
+  TRAINED ON THE SAME FUNDAMENTALS.**"* ⚠️ **A fear, not a prediction.**
+
+### ★★★★ Craft and work standards
+
+- ★★★★★ **Rebrand as EVOLUTION — a risk-reduction argument in craft clothing:** *"**it's often very
+  difficult for existing brands to see the connection between WHERE THEY ARE — the legacy and the
+  equity they've built — and WHERE YOU'RE TAKING THEM.** Showing them a thorough, logical step-by-step
+  process, **SO IT DOESN'T SEEM AS FOREIGN TO THEM. IT COMES FROM SOMETHING.**"* (⚠️ **Paul Rand**
+  invoked as the standard.)
+- ★★★★★ **The internal-consistency critique test:** the fault is that the work contradicts the customer
+  **the designer themselves drew** — *"you put a gentleman in here in a business suit… **and then
+  everything in it does not fit with him**"* → *"a mall ad for a massage parlor."*
+- ★★★★★ **Professional work has an APPLICATION**, and **choose your lane by its comparison set** —
+  *"**what are you going to do with 3D mountains — you're going to work for PIXAR or ILM? No, you're
+  not. MAKING IT REAL HURTS YOU.**"*
+- ★★★★ **"Most creative types are going to build something for THREE AND A HALF YEARS and not have any
+  validation whatsoever — and so then THEIR THING HITS WITH A THUD."**
+
 ## Documented influences on his thinking
 
 Sources he repeatedly credits as shaping the beliefs above (his own attributions; each

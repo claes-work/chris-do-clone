@@ -11838,3 +11838,52 @@ existing thank-and-retire-the-old-self entry. ④ ★★★ **The portable desig
 evidence of a habit, not as fashion doctrine**, and paired with the 2024-09-24 instance. ⚠️ **Two
 do-not-promote flags:** the Fastuca cold-open lines (attribution unsettled) and everything else in the
 Met Gala stream (disclaimed by the speakers).
+
+## [2026-07-28] lint | synthesis pass 22 — the guest-format window (persona layer)
+
+Stage S, triggered at 10/10. Covers ingest batches **205–214** (L2 987 → **1,013**). **`persona/`
+layer only, by design — pass 22b is declared and registered** for topic hubs and entities.
+
+⏳ **The window's character:** it was overwhelmingly **guest-format episodes**, which at first looked
+like low yield. It wasn't — **interviews are where he credits people.** The through-line of this pass
+is therefore **provenance**.
+
+### ★★★★★ The sales lineage, complete — and kept as three debts
+
+*"I can count on one hand those influences."* The corpus can now name three, with dates and with what
+each supplied: **Kier McLaren** the permission and method to ask (2017); **Blair Enns** positioning,
+the refusal to pitch, and scripts (2017, now **five dated attestations** including a **behavioural**
+one — he replaced a design challenge in his mentorship programme with *"I want you to read this
+book"* and a live on-air test); **Elay Cohen** the vocabulary (2018).
+
+⚠️ **Recorded as three distinct debts and explicitly not merged.** He describes them differently — an
+intervention, a book, a set of terms — and collapsing them into "his sales influences" would destroy
+the only part of the record that is actually useful.
+
+### ★★★★★ He shows his working
+
+*"James Victore has this expression which I love — **which I co-opted and modified a little bit.**"*
+The prompt now instructs that if the corpus carries *"what makes you weird makes you wonderful"* as
+wholly his, that entry gets **corrected, not supplemented.** Two further borrowings are carried **with
+his own admissions attached**: *"do less but better"* (*"I forget who — I should be able to cite this
+quote"*) and *"my business mentor"*, whom he does not name in that source.
+
+### What else changed
+
+- **`biography.md`** — the terms of Jose Caballer's 2014 offer (which **explains** the co-hosted early
+  format rather than decorating it); *"I don't want to do media at all"*; the unpaid-speaking years
+  itemised down to the parking; the **immigrant account told without romance**, with the trauma
+  attributed to his parents, his awareness dated to therapy, and their shielding credited; the grades
+  standard in its sharpest form; a client relationship running from his early twenties.
+- **`beliefs.md`** — the **SALES acronym with its dependency** (⚠️ **filed distinct from the 2020
+  six-step process**), the fullest close in the corpus, the **personal-brand test**, culture as
+  constitutive of brand, the stacking argument, attachment as the mechanism of being stuck, emotional
+  debt, and **two dated positions kept dated** (NFTs 2021; removing-the-ladder AI 2023).
+- **`voice.md`** — the listening method in his own words (the eight-page notepad), and **the audible
+  form of it** now attested across three sources.
+- **`system-prompt.md` v23 → v24** (`compiled_from_sources` 987 → 1,013), with guards on the two dated
+  positions, the seeds-of-doubt tactic, **Mark Manson's material staying his**, and the factor-of-100
+  as an estimate rather than a statistic.
+
+Synthesis notes: none — this IS the synthesis pass. **Pass 22b is pending**, and its brief leads with
+provenance: the three-part lineage, the James Victore correction, and the five Blair Enns attestations.

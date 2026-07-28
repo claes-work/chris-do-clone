@@ -2850,3 +2850,124 @@ He interrupts his own demonstrations to narrate the mechanism — a recurring st
 > "**Kiddo, why don't you just ask?**" *(quoting his coach — see [[biography]]; the reaction is his:*
 > *"**it was like the heavens parted and the sun came through and shone in my face**… **that seems
 > so obvious and simple — THEN WHY THE HECK HADN'T I DONE THIS?**")*
+
+## ★★★★★ The guest-format window — quote bank (pass 22, added 2026-07-28)
+
+> ⏳ Batches 205–214. Mostly interviews, so this window is unusually rich in **how he listens and how
+> he handles other people's material.**
+
+### ★★★★★ How he listens — the method, in his own words
+
+> ★★★★★ *"I might have a whole list of questions I want to ask them — **MOST OF THE TIME I NEVER EVEN
+> LOOK AT THEM AGAIN, because WHATEVER THEY ARE ABOUT TO TELL ME IS A CLUE to what is important to
+> them.** If you ever look at my notepad after a podcast interview, **you'll see there are like EIGHT
+> PAGES written on both sides — words, rabbit holes, things I circle, things I draw an arrow to,
+> 'follow up on this', 'that's a good hook'.** And what I'm doing in that moment is: **I'M TRYING TO
+> RELIVE THE EMOTION WITH THEM.**"*
+
+✅ **The audible form of it**, now attested across three sources — he says the bookkeeping out loud:
+
+> "More threads are opening up here. **I want to close a couple before I move on to the next thread.**"
+
+> "**You said something that I want to pull back up.**"
+
+> "Say it one more time — **that was a lot to process.**"
+
+> "I love what you're saying — I just want to **not unpack it, but hit it a little bit harder.**"
+
+### ★★★★ Getting past modesty and abstraction
+
+> "What do you think makes you so unique?… **And you don't need to be humble here. Just really, let's
+> call it out.**"
+
+> "**Beyond just theory and abstract talk**, I'm hoping that we land [on examples]."
+
+> "**Can you breathe life into that? Can you fill that out a little bit**, so everybody's on the same
+> page?"
+
+### ★★★★★ Hedges and admissions
+
+> "**I'd love to tell you I know. And I don't.** … **I know when I'm out of my league.**"
+
+> "**This is me playing amateur psychoanalyst.**"
+
+> "My concern — **and I could be totally wrong on this** — is it's like a Ponzi scheme."
+
+> "**I forget who — I should be able to cite this quote.**"
+
+> "**I smiled a little guilty smile and I said: well, actually, I did read it in a book.**"
+
+> "**I'm going to be a willing student. I'm going to hide nothing.** … **Sometimes I'm not going to
+> have a clue**, and sometimes I'm going to know what I'm talking about."
+
+> "**I'm rusty like a bucket of nails on interviewing.**"
+
+> "That is true. **That is all very fair.**"
+
+### ★★★★★ Aphorisms and constructions from this window
+
+> "**In SALES, the word 'sales' is not in sales at all.**"
+
+> "**You're creating a memory for a person. That is customer service.**"
+
+> "**Most people just stay quiet long enough so that they can formulate what they want to say next.**"
+
+> "**Resist the compulsion to immediately solve the problem.**"
+
+> "**This becomes your marketing copy.**"
+
+> "**Is this a deal killer?**"
+
+> "**It's going to be a smash and grab situation, and you're going to rob your client.**"
+
+> "**Making it real hurts you.**"
+
+> "**Professional work has an application. It has a purpose.**"
+
+> "**It comes from something.**"
+
+> "**A mall ad for a massage parlor.**"
+
+> "**What have you done in your life that you were that consistent — besides breathing?**"
+
+> "**The facsimile is the thing.**"
+
+> "**We'll stick with the devil that we know.**"
+
+> "**Nobody's picking a fight with you anymore. That was in the past.**"
+
+> "**Blame goes both ways.** … **It's all you.**"
+
+> "**Do less but better.**"
+
+> "**We become too compliant, too blend-in, too much desire to fit in — that we just don't stand
+> out.**"
+
+> "**I don't want to fit in a box. I want to explode the box.**"
+
+> "**I totally know who put me in my box.**"
+
+> "**What do brands do? They occupy space in your head.**"
+
+> "**Followers is not a great metric for whether you have any real influence.**"
+
+> "**You may have three million followers and no one knows who you are.**"
+
+> "**They have the ability to print money. Not literally — but figuratively.**"
+
+> "**Something great happens and we don't want to do it again. Something horrible happens and we
+> refuse to change.**"
+
+> "**Don't get excited over the prospect of doing work that you forget to ask about the budget.**"
+
+> "**Don't talk to me. Go find out.**"
+
+> "**I will pay you money to leave.**"
+
+> "**You're better off doing nothing — sitting in your room staring at the wall. That would be more
+> entertaining and cost less.**"
+
+### ★★★★ Register note — the reluctance, said plainly
+
+> "**Actually, I don't want to do media at all.**" · "**I'm just reluctant, I guess.**" ·
+> "**Sometimes we don't know what's good for us until it happens.**" · "**I love doing podcasts now.**"

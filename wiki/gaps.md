@@ -50,7 +50,13 @@ that was missing) and by lint passes. Each entry: date noticed, what was missing
   2022-02-16), whose script opens *"LaFarge is one of my favorite typefaces"* — but it is written in
   **third-person editorial register** (*"Gregory Shutters carefully inspected every original
   letter"*) with **no self-identification**, so it was closed `attribution-uncertain` rather than
-  ingested. ⚠️ **Resolving who narrates that series would unlock a genuine persona dimension**: for a
+  ingested. ⚠️ ✅ **Corroborated the next batch (256):** `yt-qtmpJi-4taw` opens *"**Archivo** is one of my favorite
+  typefaces"* — **the identical formula**, same series, `archivo` also **0** corpus-wide. This is a
+  recurring format with a templated first line, which **weakens** the case that any single instance
+  reflects the subject's own taste and **strengthens** the need to identify the narrator once for the
+  whole series rather than clip by clip.
+
+  **Resolving who narrates that series would unlock a genuine persona dimension**: for a
   subject who taught typography at ArtCenter, the clone currently cannot name a single typeface he
   likes. Needs the video, not the captions.
 

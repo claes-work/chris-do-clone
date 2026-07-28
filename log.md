@@ -13936,3 +13936,34 @@ distinction noted here rather than lost.
 **Stage C running total: 522 shorts processed · 16 ingested · 506 closed.**
 
 Synthesis notes: none. (Gap recorded in `wiki/gaps.md` instead.)
+
+## [2026-07-28] ingest | yt shorts batch 256 (@thefutur, 24 triaged, 0 ingested)
+
+Stage C. **24 shorts, 0 ingested.** Open shorts 339 → **315**. January–February 2022.
+
+### ✅ The typeface gap got sharper within one batch
+
+`yt-qtmpJi-4taw` opens *"**Archivo** is one of my favorite typefaces"* — **the identical formula** to
+the LaFarge clip flagged last batch, same produced series, and `archivo` is likewise **0**
+corpus-wide.
+
+⚠️ **This CUTS AGAINST reading either clip as personal taste.** A templated first line reused across
+a series is a **format convention**, not a preference statement. I updated [[wiki/gaps.md]] to say so
+explicitly — the earlier entry could have been read as *"two independent attestations of his taste"*,
+which would be exactly backwards. **The right unit of investigation is the series and its narrator,
+once — not the clips, one by one.** Both closed `attribution-uncertain`.
+
+### Closest content call
+
+`yt-bCIuimPrjm0` *"The Power Of 3"* — *"**this is how many pieces I showed to get a job in
+advertising.** My first professional job… **I sent three pieces, maybe four**… that's not all the
+work I'd produced, **that's all the work I thought was RELEVANT to the job I was applying for.**"*
+Rare token `three or four pieces` → **5**, and [[wiki/sources/2017-04-22-yt-X_tUOfHpoyM]] holds the
+same story. Closed `dup-of:yt-X_tUOfHpoyM`.
+
+Two more rows closed **`guest-only`** (Rich Cardona, Aaron Duffy profiles) — **seven guest-fronted
+clips this run**, all from the same "meet <name>" format.
+
+**Stage C running total: 546 shorts processed · 16 ingested · 530 closed.**
+
+Synthesis notes: none.

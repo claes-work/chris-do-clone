@@ -10415,3 +10415,60 @@ its childhood root; **the family structure** (nine engineer siblings vs. artists
 middle of three brothers); and *"a series of unfortunate events led me to exactly here."* To
 `entities/influences`: **Brendan Kane**, **Mark Manson**, **Blair Enns**, **Bayles & Orland**,
 **Frei & Morriss**.
+
+## [2026-07-28] ingest | yt batch (@thefutur, 1) — the deferral cleared: Unbland Yourself, and the provocateur answer
+
+Batch 194, Stage B (P2). L2: 972 → **973**. **The outstanding deferral is cleared.**
+
+- **[2026-04-07] How to Build a Brand People Actually Remember** (`yt-d7bgouAH3ns`, 64 KB) —
+  ★★★★★ **LANDMARK, and the most complete statement of his branding system anywhere.** Built around
+  the **Unbland Yourself** workbook. Contains ★★★★★ **the three-part essence** (one thing · enemy ·
+  rallying cry — *"you only need to know one to figure out the other two"*), ★★★★★ **be number one
+  or pick another lane** with the 3× law and *The Dip*'s *predetermine-then-never-quit* rule,
+  ★★★★★ **three principles** (meaningfully different · the courage to be disliked · aesthetically
+  discerning), ★★★★★ **clothes as tools** and the corporate-uniform trap, **the two doors**,
+  **the robot-voice test**, and **the shadow self as brand material**.
+
+★★★★★ **The find of the batch is the provocateur answer.** Tested at a dinner — *why are you dressed
+like this when you're not on stage?* — he answers: *"**I hate social events**… **my biggest problem
+as a socially awkward introvert is I don't know how to start conversations with people, but I enjoy
+the company of other people**… **I feel like I'm brought back to junior high again**… **I am a
+provocateur. I want to wear things that invite people to have a conversation with me**… the job is
+**come talk to me, please**… **you just don't know that's what I'm doing to you.**"* This reframes
+his entire visual identity as **a social prosthetic**, in his own words, and connects directly to
+*"I wonder who I'm going to eat lunch with today"* from 2026-03-31. **It belongs in
+`persona/appearance.md` verbatim.**
+
+⚠️ **A candid business disclosure**, recorded with the family-privacy rule applied (his wife is
+referenced **by role only**): key members left and *"took Accelerator with them — and a large chunk
+of revenue"*; he had been in *"semi-retirement mode — I work for fun, it's a lifestyle business"*;
+he was told the household was **\$20,000 a month short**; he decided to return to work, and then
+raised the target again for a property purchase. With the self-knowledge it confirmed:
+*"**I can only be pushed so much. I need to be pulled towards something.**"*
+
+⚠️ **Title correction carried throughout:** the captions render the workbook as *"Unblend Yourself"*;
+it is **Unbland Yourself**, settled by his own wordplay — *"you might as well not have a brand.
+**You have a bland**"* and *"I can definitely be number one in **unbland**."*
+
+⚠️ **CAPTION FETCH ERROR, twice:** `yt-97f8zw1mbik` (2026-05-02) failed on both attempts this
+iteration. **Left open, not skipped**, with the failures recorded on the row. Per the safety rails I
+did not attempt a third time. If it fails again next batch, treat as no-captions/unavailable and
+mark accordingly.
+
+Synthesis notes: **five genuinely new items.** ① ★★★★★ **The three-part essence** — his branding
+system reduced to something a reader can complete in thirty minutes, with the *common enemy*
+rationale (*"we are more united in a common enemy than in a common friend"*) and a clean worked
+example. Nothing equivalent exists in the corpus. ② ★★★★★ **Be number one or pick another lane**,
+with the 3× arithmetic and — crucially — **his honest application of it to himself**: *"can I be
+number one in personal branding? Maybe. I'm not sure. But I can definitely be number one in
+unbland."* That single move explains the book's title and is the best demonstration of positioning
+by vocabulary in the wiki. ③ ★★★★★ **Clothes as tools** plus **the corporate-uniform trap** —
+*"you're inadvertently signalling: I'm like everyone else, please don't pay attention to me."*
+④ ★★★★★ **The provocateur answer** (see above). ⑤ ⚠️★★★★★ **The 2025 business disclosure** —
+biography-grade and unusually frank about a revenue hit and a personal financial conversation.
+Also new: **the shock collar and the elephant's chain**; **compel and repel**; **the two doors**
+(Steven Bartlett); ★★★★★ **"we are the worst judge of our own value"** and the method that follows
+from it; **the robot-voice test**; **what "learn" actually means** (*"it gets mutated by your own
+brain… it becomes more yours and less theirs"*); **the halo effect**; and **"they squeeze and you
+give — I'd like to play the anti-squeeze."* To `entities/influences`: **Seth Godin** (*The Dip*),
+**Steven Bartlett**, **Anna Lappé**, **Ryan Holiday**, **Virgil Abloh**.

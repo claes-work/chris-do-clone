@@ -11887,3 +11887,54 @@ quote"*) and *"my business mentor"*, whom he does not name in that source.
 
 Synthesis notes: none — this IS the synthesis pass. **Pass 22b is pending**, and its brief leads with
 provenance: the three-part lineage, the James Victore correction, and the five Blair Enns attestations.
+
+## [2026-07-28] lint | synthesis pass 22b — topic hubs + entities (the guest-format window)
+
+Stage S. **Closed the gap pass 22 declared.** No version bump — **v24 stands**.
+
+### ✅ The correction pass 22 anticipated was not needed — and the real finding is better
+
+Pass 22 instructed 22b to **correct** the corpus if it carried *"what makes you weird makes you
+wonderful"* as wholly his. **It didn't.** `topics/content-strategy` and the compiled prompt's
+influences list **already credited James Victore**. The only drift was **one bare quote-bank line in
+the system prompt**, now annotated. Saying so plainly rather than claiming a fix I didn't make.
+
+What the sources actually show is more useful — **a citation habit**:
+
+- **2023-02-17:** *"James Victore has this expression which I love — **which I co-opted and modified a
+  little bit.**"*
+- **2025-03-19:** *"what makes you weird as a kid — **and I alter it a little bit** — will make you
+  wonderful as an adult."*
+
+⚠️ **And he quotes Victore's original at least four different ways across the corpus** (*"…great
+tomorrow"*, *"…great today"*, *"…wonderful as an adult"*, *"…a creative as an adult"*). The entity page
+therefore treats **no single rendering as canonical** — only the crediting is consistent. Two further
+self-flagged borrowings confirm the habit rather than the exception.
+
+### The provenance work
+
+- **`entities/influences`** — the **sales lineage as a table of three distinct debts**, with the
+  reason they must not be merged stated outright: *Kier changed what he did, Blair changed what he
+  believed about pitching, Elay gave him words for what he was already doing.* Plus a block recording
+  **Paul J. Meyer, Csikszentmihalyi, Erwin McManus and Mark Manson as other people's credits**.
+- **`entities/blair-enns`** — the attestation record as a table. The **2018 behavioural instance** is
+  identified as what makes the causal classification evidentially sound; the others are him saying the
+  book mattered.
+- **`entities/kier-mclaren`** — ⚠️ a fourth attribution recorded **with its uncertainty intact**: the
+  source says *"my business mentor"* and **does not name him**.
+- **`entities/jose-caballer`** — the 2014 offer terms, noted as **explaining** the co-hosted early
+  format rather than decorating it.
+- **NEW: `entities/elay-cohen.md`.**
+
+### Six topic hubs extended
+
+`sales-clients` §117–122 (⚠️ **SALES filed explicitly distinct from the six-step process**), `branding`
+(the **test**, followers ≠ influence, culture as constitutive, brand-as-accelerant **with its
+costing**, the commercial counter-stereotype argument, the stacking arithmetic), `mindset` (attachment,
+*grieving*, blame both ways, emotional debt, ⏳ two dated positions, ⚠️ **a Manson fence**),
+`design-craft` §47, `content-strategy` (the pay-to-speak comparison **with the parking**), `business`
+§85–88.
+
+Synthesis notes: none — this IS the synthesis pass. **No pending checkpoints; synthesis is caught up
+through batch 214 / L2 1,013.** The loop returns to Stage B (@thefutur P3:10, @TheFuturAcademy P3:72,
+860 shorts).

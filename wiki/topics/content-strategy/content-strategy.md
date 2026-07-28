@@ -3391,6 +3391,62 @@ looking for. I KNOW HOW TO JUDGE THE WORK.**"*
 ✅ **Same logic as the magic question** (`sales-clients` §114): **establish the frame first so the
 content is received against the right criteria.** ([[../../sources/2017-06-08-yt-5MVuviyGW0c]])
 
+## ★★★★★ The guest-format window (pass 22b, added 2026-07-28)
+
+### ★★★★★ The pay-to-speak comparison — ⚠️ promote WITH the costing or it becomes a platitude
+
+His own unpaid-speaking period, itemised: *"**I HAD TO PAY TO DO PUBLIC SPEAKING.** I worked on the deck
+for weeks, I wrote the material, I drove myself there — so it cost me time, money and resources — **and
+they didn't pay me anything. I PAID FOR MY OWN PARKING. They didn't even reimburse me for my own
+parking.** And then after I was done: **don't let the door hit you on the way out.**"* → and what others
+still do: *"people on the speaking circuit **have taken a plane, stayed in a hotel — ALL AT THEIR OWN
+COST — so they can be in front of 200 or 300 people.**"*
+
+> ★★★★★ **The argument:** *"**If you create a podcast, you might not have more than 200 people
+> downloading it — BUT YOU HAVE 200 PEOPLE SHOWING UP FOR YOU WEEK AFTER WEEK, listening intently,
+> anxiously anticipating and consuming every word that you say.** So **YOU WOULD PAY to do it on a
+> stage — BUT YOU'RE NOT WILLING TO INVEST THAT SAME TIME AND ENERGY INTO SOMETHING THAT YOU GET TO DO
+> FOR ALMOST FREE.**"* ([[../../sources/2024-08-08-yt-_X32j4vIo7A]])
+
+⚠️ **Strip the costing and this is generic encouragement. The parking is the argument.**
+
+### ★★★★★ Audio is a different medium, not a repurposed one
+
+★★★★ **He resisted it, and names what he got wrong:** *"**why do you want to give us more work to
+do?**… **what I didn't realize — AND IT'S HUMBLING to think about it — is there are a lot of people who
+have technological issues, who don't have fast internet**… in the Philippines **they would go to the
+library, download the episode**."* ★★★ **The first version was deliberately minimal** — *"we'll do the
+MINIMUM VIABLE PRODUCT"* — and then the reframe:
+
+> ★★★★★ *"**Wait a minute — this is a COMPLETELY DIFFERENT MEDIUM. It's an audio-only experience, and
+> it's REALLY, REALLY INTIMATE. People are having your voice QUITE LITERALLY IN THEIR HEAD, between
+> their ears. YOU EXIST.** And **the relationship you have with someone on a podcast is VASTLY
+> DIFFERENT from the one you have on YouTube — THEY'RE SEEKING YOU OUT, and they're SHARING A LITTLE
+> BIT OF THEIR REALITY WITH YOU.**"*
+
+★★★★ **The mechanism, and the brand tie:** *"it's **NOT EXACTLY BIDIRECTIONAL, BUT IT'S SUPER
+SCALABLE** — your voice is in their head"* → *"**what do brands do? THEY OCCUPY SPACE IN YOUR HEAD.**"*
+★★★ Credited: **Scott Galloway** — *"**virtual reality is here, but it's not happening in the eyes —
+it's happening in the ears.**"*
+
+### ★★★★★ Frame the work before you show it
+
+*"**Give people CONTEXT of the work they're about to see, YOUR ROLE in the work, and any PROBLEMS you
+were trying to solve**… [otherwise] **I have no idea what you're trying to do, what you did, if it was
+a team project.**"* → the script, ending with the duration — *"**it's 45 seconds**"* — and the payoff
+stated from the receiving end: *"**now I know how long it is. I know what I'm looking for. I KNOW HOW
+TO JUDGE THE WORK.**"* ✅ Same logic as the magic question: **establish the frame so the content is
+received against the right criteria.** He applies it to serialised episodes too (*"welcome back to part
+two… we talked about X; in this half we touch on…"*).
+
+### ★★★★ The suspend-modesty opening
+
+An interview technique worth naming: **establish the comparison set first, then remove the excuse.**
+*"**Tens of thousands of people have a podcast WHO NEVER REALLY MAKE A DENT** — still stuck in the
+I-got-100-downloads. **What do you think makes you so unique?… AND YOU DON'T NEED TO BE HUMBLE HERE.
+Just really, let's call it out. What do you bring to the table that makes you you — and what's your
+SECRET SAUCE?**"*
+
 ## Sources
 
 - [[wiki/sources/2015-11-29-yt-z7Y9TKfgstE]] — "Is Your Design Resume Still Relevant?" —

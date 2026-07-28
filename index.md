@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-28 (synthesis pass **22** → system-prompt **v24**, **1,013 L2**; ★★★★★ **the sales lineage is complete and stays three distinct debts** — Kier McLaren the method to ask, Blair Enns positioning and scripts, Elay Cohen the vocabulary; plus **James Victore** credited for a line that circulates as his)_
+_Last updated: 2026-07-28 (synthesis passes **22 + 22b** → system-prompt **v24**, **1,013 L2**; ★★★★★ **the sales lineage kept as three distinct debts**, and a **citation habit** documented: he flags his edit of the James Victore line on separate occasions years apart — the corpus already credited Victore, so no correction was needed)_
 
 ## Sources
 
@@ -32,9 +32,10 @@ _Last updated: 2026-07-28 (synthesis pass **22** → system-prompt **v24**, **1,
 - [wiki/entities/andrea-sampson.md](wiki/entities/andrea-sampson.md) — CONTEXT: speaker coach, ex-agency SVP strategy, TEDx Toronto programming. ⚠️ **Her frameworks and her clients' stories are hers, fenced.**
 - [wiki/entities/maria-ross.md](wiki/entities/maria-ross.md) — CONTEXT: author on empathy in business. ⚠️ Fenced — **and the source of the only OUTSIDE verdict on Chris's blunt manner** (*"that's highly empathetic"*).
 - [wiki/entities/cynthia-kane.md](wiki/entities/cynthia-kane.md) — CONTEXT: communication author/coach, recurring guest (budget talk, silence, EQ); does NOT train the persona.
-- [wiki/entities/blair-enns.md](wiki/entities/blair-enns.md) — ⚠️ **DOCUMENTED CAUSAL INFLUENCE** (upgraded pass 21b), not merely an author Chris cites: *Win Without Pitching* / *Pricing Creativity*; earliest contact now **2017** (podcast interview), plus the 2021 book-club nights. ★★★★★ **Source of "you're probably right, but let's make sure"** and **the \$1,000 paid-estimate script**; the book is a named **contributing cause** of Chris leaving commercial motion design (⚠️ *"began to spark"* hedge). His own frameworks (MLE, Blairtopia, the room of doors, retreat-and-follow) are HIS — do NOT train.
+- [wiki/entities/blair-enns.md](wiki/entities/blair-enns.md) — ⚠️ **DOCUMENTED CAUSAL INFLUENCE**, on **five dated attestations 2017–2023** — one of them **behavioural** (June 2018: he replaced a design challenge in his mentorship programme with the book and set a live on-air test), which is what makes the classification evidentially sound. Source of *"you're probably right, but let's make sure"*, the \$1,000 paid estimate, and *"the proposal isn't the document you send — it's the words you say."* His own frameworks are HIS — do NOT train.
 - [wiki/entities/thefutur-youtube.md](wiki/entities/thefutur-youtube.md) — the main channel: eras, formats, ID UC-b3c7kxa5vU-bnmaROgvog.
 - [wiki/entities/kier-mclaren.md](wiki/entities/kier-mclaren.md) — CONTEXT/INFLUENCE: Chris's longtime business consultant (~10–15 yrs, d. by 2026-03-31); doubled Blind's revenue; MASTERMIND series host (Eps 1–10). ★★★★★ **THREE causal interventions** — "you're hiding in your room"; get-the-job-done-or-be-right-or-be-popular; and **the origin of "just ask"** (*"kiddo, why don't you just ask?"*, 2017), which the persona had been carrying as Chris's own.
+- [wiki/entities/elay-cohen.md](wiki/entities/elay-cohen.md) — **NEW (pass 22b)**: INFLUENCE/CONTEXT — SalesHood founder; **the third documented sales debt**, and specifically **a lexicon** (*a compelling event · social prospecting · open-ended questions*). ⚠️ Distinct in kind from the Kier and Blair debts — do not merge; his own frameworks do NOT train.
 - [wiki/entities/tom-ross.md](wiki/entities/tom-ross.md) — CONTEXT: Design Cuts CEO / Learn Community; 3 appearances; his community frameworks are HIS — do NOT train.
 - [wiki/entities/simon-squibb.md](wiki/entities/simon-squibb.md) — ⚠️ GUEST CONTEXT / do-not-train: the "what's your dream?" creator; the page isolates **where Chris agrees and where he pushes back**.
 - [wiki/entities/matt-essam.md](wiki/entities/matt-essam.md) — ⚠️ DO-NOT-TRAIN: the recurring **Chris-absent** @thefutur teaching slot (4 instances); fence by name.

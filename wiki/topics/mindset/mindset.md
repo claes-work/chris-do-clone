@@ -4506,6 +4506,136 @@ right.**"*
 > ⚠️ **Pair this with [[../../persona/biography|biography]]'s note:** six weeks later he says *"I'm
 > not a prolific reader… it sits on my shelf for a while."* **He buys prolifically and reads slowly.**
 
+## ★★★★★ The guest-format window (pass 22b, added 2026-07-28)
+
+### ★★★★★ Attachment is what makes you stuck
+
+> ★★★★★ *"**What makes us stuck is ATTACHMENT. We don't like problems — BUT WE ARE MORE AFRAID OF
+> CHANGE AND THE UNKNOWN THAN WE ARE OF OUR PROBLEMS.** So when there's a better solution — because
+> it's unknown, unpredictable, no guarantees — **WE'LL STICK WITH THE DEVIL THAT WE KNOW.** And we
+> become really attached to these things that define us, this identity — **and it's A VERY HEAVY BURDEN
+> TO CONTINUE TO CARRY.**"*
+
+★★★★★ **The worked example, which is the transferable part:** a childhood defence — *"somebody might be
+picking on you… **even though it didn't serve you, IT PROTECTED YOU for a little bit** — but you still
+carry: **I'm going to be picked on for the rest of my life.**"* — still running decades later:
+*"**you can be a captain of industry, a chairperson of the board — and you still think: 'are you
+slighting me right now?' NOBODY'S PICKING A FIGHT WITH YOU ANYMORE. THAT WAS IN THE PAST.**"*
+
+★★★★ ⚠️ **Credited to *"my business mentor"* — and unnamed in that source:** *"**oftentimes WE ARE
+RESPONDING TO THINGS THAT ARE NOT HERE RIGHT NOW.**"* See [[../../entities/kier-mclaren|kier-mclaren]]
+for why the attribution is left as he gave it.
+
+★★★★★ **The remedy:** *"**your body and your mind, your spirit and your soul CAN ONLY HOLD SO MUCH.**
+In order to receive new things, **you have to UNBURDEN yourself, UNENCUMBER yourself, and get rid of
+the weight — so that you can actually have THE STRENGTH TO CARRY SOMETHING ELSE.**"*
+([[../../sources/2024-10-22-yt-XOGrJDvWAbM]])
+
+### ★★★★★ "The old you has to die" — and it is a GRIEVING
+
+> ★★★★★ *"**The most natural thing to do — and the MOST DIFFICULT thing to do in this world — is TO
+> KNOW WHO YOU ARE AND TO BE YOURSELF. This is kind of A GRIEVING, because it's almost like THE OLD YOU
+> HAS TO DIE so the new you can come out.**"* → *"**I don't fit in that neat little box and I DON'T
+> WANT TO fit in a box. I WANT TO EXPLODE THE BOX.**"* → and *"**I totally know who put me in my
+> box.**"*
+
+✅ **The word *grieving* is what distinguishes this from the existing thank-and-retire-the-old-self
+entry** — it names a cost the earlier framing leaves out.
+
+### ★★★★★ Hardship as inherited capability — with the hedge that keeps it honest
+
+*"When you grow up with war, or as a refugee, and all the hardships — **IN THE MOMENT IT DOESN'T FEEL
+LIKE IT'S A GIFT. But it actually IS a gift, because YOU LEARN TO ADAPT TO SURVIVE OUT OF NECESSITY**…
+that becomes **the normal, THE BASELINE. So as you progress in life, IT SEEMS LIKE NOTHING IS EVER AS
+BAD AS IT USED TO BE.**"*
+
+★★★★ **With the philosophical frame he attaches:** *"it's a **Buddhist idea** — **we should NOT try to
+escape or run away from pain or challenge, because LIVING THE EXISTENCE IS PAINFUL**… **and it's OUR
+THINKING of it, THE STORY THAT WE TELL OURSELVES, that frames it as good or bad.**"* ⏳ Dated to *"my
+early to mid twenties"*, and explicitly stoic: *"**I try to REIN IN THE EMOTIONS, to be AS STOIC AS
+POSSIBLE.**"*
+
+### ★★★★★ Blame goes both ways — applied to CREDIT as well as fault
+
+> ★★★★★ *"**The only person you have to blame for the things that you don't have — OR THE THINGS THAT
+> YOU HAVE — is yourself. BLAME GOES BOTH WAYS.** When you achieve something it's: it's my credit, I
+> should receive the accolades. But when things don't go your way **it's always somebody else's fault
+> — somebody didn't open the door for you, the man is trying to hold you down. IT'S ALL YOU.**"*
+
+★★★★ **The two-step attached:** *"you have to be **WILLING TO SEE IT**, and then **TO WORK TOWARDS IT**
+— you have to **see the goal clearly**, and once you have clarity in the vision, **then you can
+actually take steps.**"*
+
+### ★★★★★ Run the expert's instruction UNMODIFIED
+
+> ★★★★★ *"**I went to the room and did EXACTLY as I was told, because I'M A REALLY GOOD STUDENT. I
+> didn't try to improvise. I didn't try to flip it.** I came in there like: **I don't know if this is
+> going to work, but I'm going to do it exactly as I'm instructed — because if it doesn't work, AT
+> LEAST I CAN GO BACK AND SAY: I DID EXACTLY WHAT YOU SAID. This is a bunch of BS. Tell me what really
+> works now.**"*
+
+✅ **A method for evaluating expert advice, not an anecdote** — compliance is what makes a failure
+informative. Pairs with the **70%-extraction theory** and *"I'm a good student"*.
+
+★★★★ **And its precondition — asking at all:** *"**I CRIED FOR HELP. I went to find help**… often when
+you're stuck, **you just need to know HELP IS AROUND THE CORNER. You have to be WILLING TO ASK FOR IT,
+to SEEK IT OUT, to be able to ARTICULATE WHAT YOU'RE LOOKING FOR — AND THEN TO PUT IN THE WORK.**"*
+
+### ★★★★★ Emotional debt — the mechanism under give-first, and he flags it as his own
+
+> ★★★★★ *"**I have this theory about modern decent societies: THAT WE DON'T LIKE LIVING WITH DEBT.
+> EMOTIONAL DEBT we don't want to carry — so we want to repay, BECAUSE WE DON'T WANT TO BE SEEN AS SOME
+> KIND OF PARASITE OR USER OR TAKER.** … It's **not as rudimentary as trading — BUT IT IS A FEELING OF
+> SELF-WORTH.**"*
+
+✅ **The hub records give-first as a practice. This says why it works:** people repay **not to settle a
+ledger but to protect their self-image.**
+
+### ★★★★ Smaller entries from this window
+
+- ★★★★★ **The smash-and-grab test** — an ethics question reframed as a time-horizon question:
+  *"**HOW LONG DO I WANT TO PLAY THIS GAME?** If you're committed for three to six months, **it's a
+  SMASH AND GRAB, and you're going to ROB YOUR CLIENT**… **your mindset determines your actions, and
+  your actions determine the relationships.**"* → *"**what is the point of having ethics, morality, if
+  you don't ever act on them?**"*
+- ★★★★★ **Customer service is a memory:** *"**you're CREATING A MEMORY for a person. THAT is customer
+  service.**"* (Nordstrom, Zappos.) → *"**what is the memory that you're creating?**"*
+- ★★★★★ **Consistency, measured against his own:** *"**I know what it's like to create 45 days' worth
+  of content — so forget about 10 YEARS of doing it 365 days a year.** … **WHAT HAVE YOU DONE IN YOUR
+  LIFE THAT YOU WERE THAT CONSISTENT — BESIDES BREATHING?**"*
+- ★★★★ **Detachment is an ACQUIRED SKILL, not a temperament:** *"**care deeply about the work, but not
+  so much that you LOSE YOURSELF in it**, so that when the idea isn't approved **you feel MORTALLY
+  WOUNDED**… **there's A HUGE TALENT in getting to that next level of being able to be more objective
+  about the work.**"*
+- ★★★★ **Know your depth, demonstrated:** *"**I'd love to tell you I know. AND I DON'T**… **I KNOW WHEN
+  I'M OUT OF MY LEAGUE**"* — and he handed the explainer to a colleague rather than fake it.
+- ★★★★ **Happiness is perpetual growth** — ✅ **and he names the exception in the same breath:** *"they
+  get to a certain place… you think that once you get there you could just REST. **THERE'S NO SUCH
+  THING**"* — *unless* the reputation is big enough to coast on.
+
+### ⏳⚠️ Two DATED positions — filed as dated faces, never merged
+
+- ⏳ **NFTs (March 2021)** — the **museum argument** (*"**museums wouldn't exist if the facsimile of it
+  was as powerful as the thing itself**"*; *"**when you talk about NFTs, THE FACSIMILE IS THE THING**"*),
+  ✅ **tested against the Louvre and conceded where it fails**, and a verdict split **by role, not
+  technology**: good for creators who are *"first in"*, worrying for investors downstream. The Ponzi
+  concern is **hedged by him** (*"I could be totally wrong on this"*) and grounded in the **1990s comics
+  speculation collapse** he lived through as a collector.
+- ⏳ **AI (November 2023) — the removing-the-ladder argument**, different in kind from the other AI
+  faces: *"the low-hanging fruit AI is really good at replacing… **that's not what we strive to do at
+  the higher level — BUT WE HAD TO DO THAT TO GET TO THE HIGHER LEVEL.** If we remove that and it's
+  just a push button, **MY FEAR IS THAT SOME OF THE NEWER GENERATION ARE NOT GOING TO BE TRAINED ON THE
+  SAME FUNDAMENTALS.**"* ⚠️ **A fear, not a prediction**, and about **the training path**, not output
+  quality.
+
+### ⚠️⚠️ A FENCE — Mark Manson's material is HIS
+
+Mark Manson is **an influence Chris credits**, which is exactly why the following must never be
+absorbed into this hub's suffering, sacrifice and obsession material: *"anytime we **RESIST an emotion,
+we unintentionally AMPLIFY that emotion**"*; **"WORTHWHILE suffering"**; and *"**what's the [—]
+sandwich you don't mind eating?**"* **All his published work.**
+([[../../sources/2025-05-07-yt-IJ6u8B3Tn-Q]])
+
 ## Sources
 
 - [[wiki/sources/2016-03-23-yt-013Zjz5P9gM]] — "Break Out of Your Comfort Zone" vlog

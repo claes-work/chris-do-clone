@@ -366,3 +366,92 @@ career direction or method is on record in his own words.**
 - ***The Great Brain*** (children's novel) — a childhood template he names for himself: a book about
   three brothers narrated by the youngest about the schemer — *"**that's a role model for me**"* (he
   is himself the middle of three). ([[../sources/2016-03-04-yt-KlnOS_Blig4]])
+
+## ★★★★★ Added 2026-07-28 (synthesis pass 22b) — the sales lineage, and a citation habit
+
+### ★★★★★ THE SALES LINEAGE — three debts, and they are NOT interchangeable
+
+He states the size of the set himself: *"**I can count on ONE HAND those influences.**"*
+([[../sources/2018-11-14-yt-ua1jWIzVl1w]]) Three are now documented with dates and with **what each
+one actually supplied** — which is the part that matters:
+
+| Source | What he took from them | Dated | Kind of debt |
+|---|---|---|---|
+| **[[kier-mclaren\|Kier McLaren]]** | **the permission and the method to ask** — *"kiddo, why don't you just ask?"* | 2017-09-27 | an **intervention** |
+| **[[blair-enns\|Blair Enns]]** | **positioning, the refusal to pitch, and specific scripts** | 2017-05-03 (5 attestations to 2023) | a **book** |
+| **Elay Cohen** (SalesHood) | **the vocabulary** — *a compelling event · social prospecting · asking open-ended questions* | 2018-11-14 | a **lexicon** |
+
+> ⚠️⚠️ **DO NOT COLLAPSE THESE INTO "his sales influences."** He describes them as different kinds of
+> thing, and the difference is the useful part: **Kier changed what he did; Blair changed what he
+> believed about pitching; Elay gave him words for what he was already doing.**
+
+★★★★ **Elay Cohen in his own framing:** *"you're thinking — well, who is this guy and how does he know
+this thing? **And then WHO AM I** — and I've been sitting here sharing with you guys in very open and
+transparent ways what I know about sales. And I have to say: **I can count on one hand those
+influences — and Elay is definitely one of those fingers on my hand.** And **I LEARNED TERMS THAT I
+NEVER KNEW EVEN EXISTED BEFORE.**"*
+
+### ★★★★★ A CITATION HABIT — he flags his own edits, repeatedly
+
+> ✅ **This is the real finding of pass 22b, and it is better than the one the pass went looking for.**
+> Pass 22 expected to have to **correct** a mis-attribution of *"what makes you weird makes you
+> wonderful."* **The corpus already credited James Victore** — in `topics/content-strategy` and in the
+> compiled prompt's influences list. Only a bare quote-bank line needed annotating.
+>
+> **What the sources actually show is more interesting: he flags the alteration on separate
+> occasions, years apart.**
+
+- **2023-02-17:** *"**James Victore** has this expression which I love — **which I CO-OPTED AND
+  MODIFIED a little bit.** His thing is: **'what makes you weird as a kid makes you a creative as an
+  adult.'** That's a lot to say. **I just say: what makes you weird makes you wonderful.**"*
+  ([[../sources/2023-02-17-yt-691Um--5S-8]])
+- **2025-03-19:** *"**what makes you weird as a kid — AND I ALTER IT A LITTLE BIT — will make you
+  wonderful as an adult**"* ([[../sources/2025-03-19-yt-PQPybDWoC2A]])
+
+⚠️ **He also quotes the original at least FOUR different ways across the corpus** — *"…will make you
+great tomorrow"* (2020-12-07), *"…makes you great today"*, *"…will make you wonderful as an adult"*
+(2025), *"…makes you a creative as an adult"* (2023). **No single rendering should be treated as
+Victore's canonical line on the strength of this corpus**; what is consistent is **that he credits him
+and says he shortened it.**
+
+✅ **Two further self-flagged borrowings** confirm the habit rather than the exception:
+- *"**Do less but better**"* — *"there's a phrase — **I forget who. I SHOULD BE ABLE TO CITE THIS
+  QUOTE.**"* ([[../sources/2024-10-22-yt-XOGrJDvWAbM]]) ⚠️ **Carry the line with the admission.**
+- *"**You're probably right, but let's make sure**"* — sourced to Blair's book against his own
+  reputation: *"**I smiled a little guilty smile and said: well, actually, I did read it in a
+  book.**"*
+
+### New creditings from this window
+
+- **James Victore** — *Feck Perfuction*; see above.
+- **Paul Rand** — invoked as the standard for **how to present a logo**: showing the existing mark
+  evolving step by step into the new one. *"I think Mr Paul Rand would be proud of you — because this
+  is how he would present his logos."* ([[../sources/2019-04-03-yt-qIvhzoCHzpA]])
+- **Tony Hsieh** — *Delivering Happiness*: *"forget brand, get the culture right — when you get the
+  culture right, the brand follows."*
+- **Robert Cialdini** — *Influence*: consistency/commitment, as the reason he prefers a sequence of
+  small agreements to a speculative proposal.
+- **Kevin Daley** — *Socratic Selling*: **the Socratic open**, and *"in order for us to get to the
+  future, we must go to the past first."*
+- **Michael Bungay Stanier** — *"so, what's on your mind?"* as an opener.
+- **Chris Voss** — **calibrated questions** (already recorded; re-attested 2023).
+- **Scott Galloway** — *"virtual reality is here, but it's not happening in the eyes — it's happening
+  in the ears."*
+- **Daniel Pink** — **autonomy** makes people more creative (cited in his 2017 account of how he ran
+  the company).
+- **Bruce Lee** — *"human beings are all merely works of progress who mistakenly think from time to
+  time that they are done"*, which he says he **returns to "as a martial artist."**
+- **Phil M. Jones** — already an influence; now with a **dated first-hand exchange**
+  ([[../sources/2024-07-07-yt-83O7zdz4GBk]]).
+- ***The Great Brain*** — a childhood template he names for himself.
+
+### ⚠️ Recorded as OTHER PEOPLE'S credits, not his
+
+So they are not later mistaken for his own attributions:
+- **Paul J. Meyer** on success (*"the progressive realisation of predetermined, worthwhile and
+  achievable goals"*) — **Phil M. Jones's** credit.
+- **Mihaly Csikszentmihalyi** on creativity vs. expertise — **Blair Enns's** credit.
+- **Erwin McManus's** question *"are we capable of change?"* — relayed by Chris, **not his**.
+- ⚠️⚠️ **Mark Manson's *worthwhile suffering* and *"the sandwich you don't mind eating"*** — **his
+  published work.** Manson is an influence Chris credits, which is precisely why these must stay
+  fenced; see [[../sources/2025-05-07-yt-IJ6u8B3Tn-Q]].

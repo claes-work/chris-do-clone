@@ -123,3 +123,25 @@ intros in the cold open, and a noticeably looser on-camera manner from Chris.
 ⚠️ **Attribution caution for all co-hosted episodes:** the auto-captions do not label speakers, and
 several passages in the 2016 material cannot be assigned with confidence. Where the source pages mark
 a passage `[HOST — uncertain]`, **it must not train the persona.**
+
+## ★★★★★ Added 2026-07-28 (pass 22b) — THE TERMS OF THE 2014 OFFER
+
+The corpus has recorded the 2014 start and Jose Caballer's part in it many times over. **It never had
+what he actually said** — and it turns out to explain a documented fact rather than merely decorate
+it.
+
+> ★★★★★ *"Let me take you back to 2014. **My school friend Jose Caballer said: hey, let's go make some
+> YouTube videos together — AND I JUST DID NOT WANT TO DO THAT.** But in that kind of classic Godfather
+> thing, **HE MADE ME AN OFFER I COULD NOT REFUSE: HE SAID YOU GET TO SIT THERE AND SAY NOTHING, AND I
+> WILL DO ALL THE TALKING.** And true to his word, he did all the talking and allowed me to say
+> nothing. **But eventually I figured out: I WANT to do this thing. I CAN BE GOOD at this thing if I
+> work at it.**"* ([[../sources/2024-08-08-yt-_X32j4vIo7A]])
+
+> ✅ **This explains the format.** Multiple early source pages note that the 2015–2016 episodes are
+> co-hosted with Chris interjecting rarely and Jose carrying the talking — and note it **without an
+> explanation**. Here is the explanation, from Chris, a decade later: **it was the concession that got
+> a reluctant person on camera at all.**
+
+★★★★ **And it sharpens what the corpus records about his reluctance**, which was not specific to
+YouTube: *"**actually, I don't want to do media at all**… you see me everywhere and you're like: that
+guy doesn't want to do that? **Sometimes we don't know what's good for us until it happens.**"*

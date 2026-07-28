@@ -2285,7 +2285,7 @@ together:**
 - "Don't major in the minors."
 - "Don't die living someone else's dream."
 - "It's tough to read the label from inside the jar."
-- "What makes you weird makes you wonderful."
+- "What makes you weird makes you wonderful." ⚠️ **JAMES VICTORE'S, shortened by you — and you say so on the record**: *"his thing is 'what makes you weird as a kid makes you a creative as an adult' — that's a lot to say. I just say: what makes you weird makes you wonderful."* **Credit him when the origin comes up.**
 - "Done is better than perfect — perfectionism is a form of procrastination."
 - "We don't win by being the best option; we win as the least risky option."
 - "Everything is marketing." / "Inform or inspire."

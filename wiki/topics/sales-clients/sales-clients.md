@@ -4512,6 +4512,103 @@ quoted your accident damage over the phone?* — he then states plainly what it 
   just bad.** If I agree to a meeting, **I'VE ALREADY CHECKED OUT THE WORK.** … **The client sees you
   in a certain light EVEN IF YOU DON'T SEE YOURSELF IN THAT LIGHT.**"*
 
+## ★★★★★ The guest-format window (pass 22b, added 2026-07-28) — 2016–2025
+
+### ⚠️⚠️ 117. SALES — the acronym, and why it is NOT the six-step process
+
+**S**erve · **A**sk · **L**isten · **E**mpathize · **S**ummarize. *"**We all have the wrong concept of
+what sales is**… notice — **in SALES, the word 'sales' is not in sales at all. It's not giving a big
+old presentation. It's not manipulative.**"*
+
+> ★★★★★ **The dependency is what makes it a system rather than a mnemonic:** *"**if you can get number
+> one right, ALL THE OTHER ONES FALL IN LINE. If you screw up this idea of servitude, THE QUESTIONS
+> YOU ASK WILL BE DIFFERENT, HOW YOU LISTEN WILL BE DIFFERENT, YOU WON'T EMPATHIZE AT ALL** — you
+> won't even think about summarizing, because you don't even understand the other person's problem.**"*
+
+> ⚠️⚠️ **THIS IS A DIFFERENT FRAMEWORK FROM §96's SIX-STEP PROCESS** (prospect · qualify · approach ·
+> present · objection · close, 2020-11-23). **Both are his. They are not versions of each other, and
+> merging them would fabricate a third framework he never taught.** Cross-reference them; do not
+> reconcile them.
+
+- **SERVE** — *"**temporarily put on hold your own needs and wants**"*, with *"an element of
+  SELF-SACRIFICE"*; operationally, learn **where they failed before, what success means, what's at
+  stake if they fail** — *"before you even begin to take any action whatsoever."*
+- **ASK** — calibrated questions (**Chris Voss**), the Socratic open (**Kevin Daley**), *"so what's on
+  your mind"* (**Michael Bungay Stanier**) → then ★★★★★ *"**RESIST THE COMPULSION TO IMMEDIATELY SOLVE
+  THE PROBLEM** — they've just presented what **THEY THINK** the problem is"* → *"**instead of you
+  convincing them, THEY'RE GOING TO GET CLARITY.**"*
+- **LISTEN** — against *"most people just **stay quiet long enough so that they can formulate what
+  they want to say next**"*; his own method is the **eight-page notepad** (see `persona/voice`).
+- **EMPATHIZE** — *"**tell me how you FAILED in the past, and what did that do to your business**"* →
+  ★★★★★ *"**it would behoove you to present a solution that addresses all of these concerns. THIS
+  BECOMES YOUR MARKETING COPY.**"*
+- **SUMMARIZE** — *"the last S is **NOT to sell**."* ([[../../sources/2023-02-16-yt-bNgRrcIcaFY]])
+
+### ★★★★★ 118. The close, in order — the fullest version in the corpus
+
+1. **Summarize:** *"**here's what I heard you say — does that sound right? Is there anything else?**"*
+2. **The hypothetical close:** *"**if you saw a proposal that did X, Y and Z in X-Y time for Z price,
+   would you be interested in moving forward?**"* → *"if you've done your job, **it should be a SMOOTH,
+   EFFORTLESS YES.**"*
+3. ★★★★★ **The pause question** — buyer's-remorse prophylaxis: *"**if I put a proposal in front of you
+   at close of business, IS THERE ANYTHING ELSE THAT WOULD GIVE YOU PAUSE?**"* — because *"there's so
+   much rapport building and **THEY FEEL SO GUILTY TO SAY NO.**"*
+4. ★★★★★ **Hand the objection back:** *"'**okay — so what might be a solution to that?**' **And you
+   ACTIVATE THEM to help you solve this. HOW MIGHT WE SOLVE THAT? And then THEY DESIGN A SOLUTION WITH
+   YOU.**"*
+5. **Test whether it's fatal:** *"**IS THIS A DEAL KILLER?** Is this not happening contingent on
+   someone being able to say yes to this?"* → and if you can't deliver: *"**that's unfortunate. It's
+   the one thing I can't give you.**"*
+
+### ★★★★★ 119. You cannot bid what you have not scoped
+
+*"**It's IMPOSSIBLE TO BID A PROJECT THAT YOU DON'T KNOW THE SCOPE OF WORK for — you're only making a
+CRAZY GUESS**"* — a website is *"like building a house; no two are the same."* So **sell the strategy
+that produces the scope**: *"we'll charge you for strategy… then we'll know what needs to be built —
+**or IF WE EVEN NEED TO BUILD A WEBSITE IN THE FIRST PLACE. I NEVER MAKE THAT ASSUMPTION.**"*
+
+★★★★ **Meanwhile, a range labelled as assumptions:** *"my best guess — **and this is a best guess as it
+is**… **I DON'T KNOW — DON'T HOLD ME TO IT.**"* ★★★★ **And ⚠️ Blair Enns's rule for the document
+itself:** *"**the proposal isn't the document that you send — IT'S THE WORDS YOU SAY. The document is
+just A RECEIPT for the words.**"*
+
+★★★★ **Levels of increasing commitment** (⚠️ crediting **Robert Cialdini**): *"every time you decide to
+do a meeting, a follow-up meeting, a discovery — **you're making little bits of agreement. SO I'M
+BRINGING YOU IN.**"*
+
+### ★★★★★ 120. The invisible check boxes — the employer's-eye view
+
+Debriefing a mock interview from the hiring side, he names what a candidate is actually aiming at:
+*"**she's hitting all of THE INVISIBLE CHECK BOXES that I have in my mind.**"* And the three things
+that earned it: **presentation as a message** (*"I'm a professional, take me seriously, I'm
+prepared"*), **homework defined as finding the gaps** (*"she's not just watched the videos — **she
+found gaps where we could grow**… ideas that resonate with me **but I've not been able to act on**"*),
+and **the weave** (*"she **wove her skill set** with this idea into just this **perfect union** — **I
+don't have to do any guesswork**"*).
+
+✅ **The complement to the magic question at §114** — 2016 tells the candidate to make the employer
+describe the profile; **2020 says the profile is a set of unstated criteria.**
+([[../../sources/2020-11-17-yt-GV9fj-Cud5U]])
+
+### ★★★★ 121. What credible outreach looks like — specified by the recipient
+
+*"**People do reach out to me all the time**… **and MOST OF THEM ARE NOT SUPER CREDIBLE. Most of them
+are NOT BUILT TO ACCOMMODATE ME.**"* → what was different: *"**you put together A PLAN. THERE'S A
+SPREADSHEET. EVERYTHING WAS ABOVE BOARD**"* — and then delivered against it.
+
+★★★ **And the positive pole of the client-selection material**, which this hub otherwise records almost
+entirely as disqualification: *"**we've often shared stories about really bad clients. Well, today we
+have THE OPPOSITE — what we call THE DREAM CLIENT. THE UNICORN DOES EXIST.**"*
+
+### ★★★★★ 122. Rebrand as evolution — a risk-reduction argument in craft clothing
+
+Cross-filed from `design-craft`, because **it is a selling move**: *"**it's often very difficult for
+existing brands to see the connection between WHERE THEY ARE — the legacy and the equity they've built
+— and WHERE YOU'RE TAKING THEM.** Showing them a thorough, logical, step-by-step process, **SO IT
+DOESN'T SEEM AS FOREIGN TO THEM. IT COMES FROM SOMETHING.**"* (⚠️ **Paul Rand** invoked as the
+standard.) ✅ **Belongs beside *clients choose the least risky option*** — the evolution sequence exists
+to lower perceived risk.
+
 ## Sources
 
 - [[wiki/sources/2014-08-20-yt-1HuIfKDr54A]] — How To Ask for the Sale Pt.1 (2014-08-20) —

@@ -295,3 +295,27 @@ other people**.
 
 ⚠️ **Three dated attestations, 2017–2018, is the evidentiary basis for the "causal influence"
 classification on this page.** It is not inferred from resemblance.
+
+## ★★★★★ Added 2026-07-28 (pass 22b) — the attestation record, complete
+
+**Five dated attestations, 2017–2023**, and they are not all the same kind of evidence:
+
+| Date | Attestation | Kind |
+|---|---|---|
+| **2017-05-03** | *"you're probably right, but let's make sure"* sourced to the book, told against himself | **verbal** |
+| **2017-05-03** | the book as a **named contributing cause** of leaving commercial motion design (⚠️ *"began to spark"*) | **verbal** |
+| **2017-09-27** | the **\$1,000 paid-estimate script** quoted verbatim and credited | **verbal** |
+| **2018-06-13** | ★★★★★ **he replaced a design challenge in his mentorship programme with the book** — *"top to bottom, front to back"* — and set **a live on-air test** | ⚠️ **BEHAVIOURAL** |
+| **2023-02-17** | *"Blair Enns told me: do your due diligence, write a good book — **because you can't unpublish a book**"* | **verbal** |
+
+★★★★★ **A sixth, from 2023, that the corpus should carry in `topics/pricing`:** *"**to quote Blair
+Enns: THE PROPOSAL ISN'T THE DOCUMENT THAT YOU SEND — IT'S THE WORDS YOU SAY. The document is just A
+RECEIPT for the words.**"* ([[../sources/2023-02-16-yt-bNgRrcIcaFY]])
+
+> ✅ **The 2018 instance is what makes the "causal influence" classification evidentially sound.** The
+> others are Chris saying the book mattered. **That one is Chris acting on it at cost** — he stopped a
+> design programme to make it read a sales book and built an examination around it.
+
+✅ **And a closed loop:** *"you can't unpublish a book"* is a line **Blair himself attributes to a
+novelist friend** in the 2017 interview on this page. Chris received it from Blair and was still
+quoting it in 2023. **Three links, all documented.**

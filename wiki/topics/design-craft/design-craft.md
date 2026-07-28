@@ -1774,6 +1774,61 @@ missing an apostrophe there. That's definitely not a good thing.**"*
 ANIMATION IS A VERY DIFFICULT THING TO LEARN, AND YOU CAN'T BE DOING THAT KIND OF ON THE SIDE. YOU
 HAVE TO MASTER THE WORK THAT YOU'RE DOING.**"* ([[../../sources/2017-06-08-yt-5MVuviyGW0c]])
 
+## 47. ★★★★★ The guest-format window (pass 22b, added 2026-07-28)
+
+### ★★★★★ Rebrand as EVOLUTION — and it is a selling argument
+
+*"**It's often very difficult for existing brands to see the connection between WHERE THEY ARE — the
+legacy and the equity they've built — and WHERE YOU'RE TAKING THEM.** Showing them in this very
+thorough, logical, step-by-step process, **SO IT DOESN'T SEEM AS FOREIGN TO THEM. IT COMES FROM
+SOMETHING.**"* → *"**I think Mr PAUL RAND would be proud of you — because THIS IS HOW HE WOULD PRESENT
+HIS LOGOS.**"*
+
+✅ **Cross-filed to `sales-clients` §122**: the evolution sequence exists to **lower perceived risk**,
+not to look good.
+
+### ★★★★★ The internal-consistency test
+
+The fault is not taste — it is that **the work contradicts the customer the designer themselves
+drew**: *"**you put a gentleman in here in a business suit** — he looks older, travels well, has good
+taste — **AND THEN EVERYTHING IN IT DOES NOT FIT WITH HIM. It feels very pastel. IT FEELS LIKE IT COULD
+BE A WELLNESS SPA, a MAKEUP BRAND**"* → *"**my first impression is — I'm sorry — kind of A MALL AD FOR A
+MASSAGE PARLOR.**"* ★★★ And the category note: *"**we want to STEER AWAY FROM those typical images.**"*
+
+### ★★★★ Typeface FITNESS vs typeface QUALITY, held apart
+
+*"**Normally I would say: bravo, bravo, excellent typeface, love it**… [but] **it does feel quite
+FOREIGN to [the brand]**… **it's TOO DELICATE. IT'S TOO FINE.**"* ✅ He rejects it **on fit alone**,
+having first conceded its quality.
+
+★★★★ **Praise is itemised in the same register as criticism:** *"this looks so convincing that **I just
+can't believe it's Photoshop**… the metallic finish, the reflections, the 3D extrusion, the beveled
+edges. **Probably the best mockup that we've seen thus far.**"*
+
+### ★★★★ A critique method, and a critique-of-the-critique practice
+
+- ★★★ **Tracing paper over the student's work** — reported by a participant: *"as soon as **Chris got
+  the TRANSPARENT PAPER out and started TRACING OVER MY DESIGN**, it just threw me back to school."*
+  ⚠️ **Observed behaviour, not his own claim.**
+- ★★★★ ✅ **He publishes the pushback on his own critique — attested across two episodes ten months
+  apart.** He asks for it directly (*"**did you feel it was fair? Did you feel it was honest? WAS THAT
+  TOO HARD, OR TOO EASY ON YOU?**"*) and **does not edit out the disagreement**: participants say *"I'm
+  not sure if I agree with Chris"*, dispute his typographic hierarchy call, and argue his premise
+  doesn't hold in their country. He also invites the audience to overrule his verdict — *"**do you think
+  somebody else should have won? DO YOU WANT TO MAKE A DIFFERENT CASE FOR IT?**"* ✅ **The hub records
+  the feedback principle abundantly and its practice hardly at all; this is the practice.**
+
+### ★★★★ The portable design vocabulary — evidence of a habit, not fashion doctrine
+
+⚠️ On a live stream both hosts opened by disclaiming expertise (*"1,000% subjective, uninformed
+opinion"*), **so nothing there is doctrine.** But handed a subject he disclaims, **he reaches for design
+principles anyway**: *"what I like about clothes is **when they ACCENTUATE YOUR BODY TYPE and BREAK A
+PROPORTION** — so it's carefully following **the RULE OF THIRDS**, even more, almost like **a fifth.**"*
+→ and the co-host, unprompted: *"**you have the language — for texture and material and the design. I'M
+JUST RUNNING OFF VIBES.**"* ✅ **Third-party corroboration** of the same cross-domain habit he states
+elsewhere (*"I like to study the craft even though I have no aspirations of being in front of the
+camera"*).
+
 ## Sources
 
 - [[wiki/sources/2015-07-10-yt-hqYIe5Y76oY]] — My (First) Design Portfolio (portfolio framework, T-shaped, matching mirror). (2015-07-10)

@@ -3063,6 +3063,46 @@ DRIVEN, who's a SELF-STARTER, who TAKES INITIATIVE — and not somebody who's wa
 the next step is. THOSE are people that I find it's a lot harder to work with.**"*
 ([[../../sources/2016-02-13-yt-pKMfPGAZHYI]])
 
+## ★★★★★ The guest-format window (pass 22b, added 2026-07-28)
+
+### ★★★★★ 85. 90% of the proposal is already written
+
+> ★★★★★ *"**Keep in mind, 90% OF THE PROPOSAL IS ALREADY DONE.** Once you get a good template going,
+> **you're just modifying the relevant parts — because WE DIDN'T CHANGE WHO WE WERE.** We're not
+> changing our staff overnight, we're not changing our client testimonials. **So really what we're
+> changing is THE COVER LETTER, THE BUDGET AND THE TIMELINE.**"*
+
+★★★★ **What it contains:** qualifications · client testimonials · approach · process · relevant
+projects · timeline and budget. ★★★ **And the scale that makes it cheap:** *"we have probably
+**HUNDREDS of proposals** that we've put together."*
+
+### ★★★★★ 86. The creator/speculator split — a way to judge a hype cycle
+
+⏳ **Stated about NFTs in March 2021, but the shape is reusable:** *"**artists should TOTALLY care**…
+**if you're the CREATOR, you're FIRST IN — you're creating it, someone's going to buy it, and you're
+going to receive value from it. I JUST WORRY ABOUT THE INVESTORS** who get in, hype up prices, and then
+somebody's going to get caught at the end."* → closing honestly: *"**I don't really know what's going
+to happen with this. But hey — if you're an artist and this is good for you, MORE POWER TO YOU.**"*
+
+★★★★ **The worked precedent, from his own collecting:** *"**I've seen this before — the COMICS WORLD IN
+THE 90s**, printing millions of copies **which makes it NOT RARE AT ALL**, foil covers, alternate
+covers… **SPECULATORS came into the market — PEOPLE WHO HAD NO INTEREST IN COMIC BOOKS**… and **IT
+ALMOST RUINED THE ENTIRE COMIC INDUSTRY.**"* ⚠️ **Promote with its 2021 date visible.**
+
+### ★★★★★ 87. Build with validation, or it lands with a thud
+
+> ★★★★★ *"Before the platform is built, **you're already looking for customers** — and that's a very
+> valuable lesson. Because **MOST CREATIVE TYPES ARE GOING TO BUILD SOMETHING FOR THREE AND A HALF
+> YEARS AND NOT HAVE ANY VALIDATION WHATSOEVER — and so then THEIR THING HITS WITH A THUD.**"*
+
+### ★★★★ 88. Hiring, delegated — and the filter he uses
+
+⏳ **Dated 2020:** *"**I'm rusty like a bucket of nails on interviewing, because I DON'T REALLY
+INTERVIEW PEOPLE — there's people who do that for me.**"* ★★★★ **But the filter he applies when he
+does**, stated in role: *"**truly, I DIDN'T LOOK AT YOUR RESUME. YOU COME HIGHLY RECOMMENDED**"* — and
+the proposal is **a trial basis**, not an offer: *"**where we can see if we're both a good fit for each
+other.**"* ✅ Consistent with the 2017 doctrine that a meeting already implies vetting.
+
 ## Sources
 
 - [[wiki/sources/2016-02-24-yt-4ZeNq6s_aX4]] — "3 Tips on starting your own design agency"

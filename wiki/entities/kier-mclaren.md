@@ -608,3 +608,24 @@ intervention, and should be attributed to him.
 - ✅ **It is the third documented instance of the same pattern**: Kier says one short, plain sentence,
   and Chris reorganises his practice around it. Compare *"you're hiding in your room"* and
   *"get the job done, or be right, or be popular."*
+
+## ⚠️★★★★ Added 2026-07-28 (pass 22b) — a fourth attribution, but UNNAMED in its source
+
+In an October 2024 interview Chris credits a maxim to *"**my business mentor**"* — **and does not name
+him**:
+
+> ★★★★★ *"**Something I learned from MY BUSINESS MENTOR was that oftentimes WE ARE RESPONDING TO
+> THINGS THAT ARE NOT HERE RIGHT NOW.** So if your wife, your husband, your children say something to
+> you, **you're recalling a memory from the past — and it's not even serving you any more, but you
+> hold on to it so tightly.**"* ([[../sources/2024-10-22-yt-XOGrJDvWAbM]])
+
+⚠️⚠️ **RECORDED HERE WITH ITS UNCERTAINTY INTACT.** This page is the corpus's home for the
+business-mentor/coach role, and the content is consistent with the therapy-adjacent material already
+recorded from him. **But the source does not say "Kier", and no other source ties this particular
+maxim to him.** A persona should attribute it exactly as Chris did — *"my business mentor"* — unless
+a future source names him.
+
+★★★★★ **The idea itself is load-bearing**, and Chris builds it into his own **attachment** argument:
+the childhood defence that *"even though it didn't serve you, IT PROTECTED YOU for a little bit"* and
+is still carried by *"a captain of industry"* — *"**nobody's picking a fight with you anymore. THAT WAS
+IN THE PAST.**"*

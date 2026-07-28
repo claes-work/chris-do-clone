@@ -14698,3 +14698,42 @@ any Stage D or completion claim — which is a further reason not to have declar
 
 Ledger totals unchanged at **L2 = 1,043** (the two corrections offset), but the SETS now agree except
 for the one page genuinely awaiting a rewrite.
+
+## [2026-07-28] ingest | repair — the missing source page is restored, sets now reconcile exactly
+
+Rewrote **[[wiki/sources/2024-10-01-yt-4P4VDBSIrPw]]** from the immutable `raw/` transcript, closing
+the defect found in the previous entry.
+
+✅ **Verification after the repair — set equality, not count equality:**
+
+```
+ledger L2 : 1044      files : 1044
+file-not-L2 : []      L2-no-file : []
+```
+
+**Both directions empty.** Footer bumped 1043 → **1044** to match.
+
+### What the restored page contains
+
+★★★★★ *"**When you give and you ask and there's no gap between the two, it's called a transaction.
+There's no feelings of goodwill.**"* → *"**widen the gap between the time in which we give and the
+time in which we ask.**"* → and the formulation that made it worth keeping:
+
+> ★★★★★ *"**I'll fight you on it if you want to: the strength of your personal brand is measured as
+> the DISTANCE FROM THE VALUE TO THE ASK.**"*
+
+✅ **It converts *"give value first"* — advice the corpus already held many times — into a MEASURABLE
+quantity.** Brand strength *is* the interval, which is why this one short survived verification when
+~100 others from the same stretch did not.
+
+⚠️ The page is marked as a rewrite, and the caption's truncated final clause is **left incomplete
+rather than guessed**.
+
+📌 **Note what was and wasn't at risk.** `sales-clients` **§123** cited this page throughout and was
+never wrong — the promoted claim, its quote and its date were all intact upstream. **The failure was
+a dangling citation, not lost knowledge.** That is the least damaging form this defect could take,
+and it is still worth repairing: a wiki whose citations do not resolve stops being checkable, which
+is the whole point of the citation rule.
+
+Corpus: **L2 = 1,044 · L3 = 0 · 1,044 source pages · index footer 1,044 · system-prompt v24.**
+All three counts now agree, and the underlying SETS agree — which the counts alone never proved.

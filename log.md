@@ -13286,3 +13286,48 @@ Ledger: L2 = 1,033. Open: **shorts 757**, @TheFuturAcademy P3:37. ⚠️ Unscope
 Synthesis debt 1/10.
 
 **Synthesis notes:** none — the item promoted here was verified and placed in the same pass.
+
+## [2026-07-28] ingest | yt batch (@thefutur shorts ×25, 0 ingested) — the concept-check earned its keep again
+
+Batch 239, Stage C, **25 shorts**. **No source ingested.** L2 unchanged at **1,033**. Open shorts: 757 →
+**733**.
+
+### ✅ Six zeros that were not findings
+
+My first pass returned **0 for all six** distinctive phrases — *"hear in frequencies"*, *"three things
+without it there's no [story]"*, *"don't ask for referrals"*, *"overwhelm the client"*, *"more authentic
+than they really are"*, *"saying I understand"*.
+
+⚠️ **After five false-absence claims this run, I did not treat six zeros as six findings.** Re-checked
+**by concept** rather than by phrase:
+
+| Concept | Coverage |
+|---|---|
+| empathy | **10** |
+| referrals | **7** |
+| the authenticity gap | **6** |
+| character / want / obstacle | **4** |
+| tone of voice | **4** |
+| story structure | **3** |
+
+**Every one was well covered.** ✅ The zeros were **literal-phrase misses** — the exact failure mode
+identified two iterations ago, and the concept-check caught all six before anything was written.
+
+### ⚠️ A third confirmed re-upload pair
+
+`yt-3Fgc3gYulj4` is **identical** to `yt-YkhN94U6MVE` — the *three business books* short (Jim Rohn ·
+Michael Bungay Stanier · Blair Enns), already ingested from the other upload. **Three confirmed pairs
+now.** The channel routinely re-uploads cuts, which means the true count of *distinct* shorts is
+materially lower than 733.
+
+One further row closed as **guest-only** — a guest describing their own agency's philosophy.
+
+### 📊 Stage C to date
+
+**128 shorts processed · 13 ingested · 115 closed.** ⚠️ **12 of 13 ingests came from 2025–26**; the
+2024-and-earlier stretch has now yielded **1 in 80**.
+
+Ledger: L2 = 1,033. Open: **shorts 733**, @TheFuturAcademy P3:37. ⚠️ Unscoped: 235 streams.
+Synthesis debt 2/10.
+
+**Synthesis notes:** none — no source ingested.

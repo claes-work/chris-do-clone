@@ -13405,3 +13405,40 @@ against four differently-worded probes, which is why that one was ingested.
 
 Synthesis notes: **belief selection on utility grounds** (2024-01-30) — promote to `topics/mindset`
 beside the victim-frame material, as a reason-given rather than a metaphysical claim.
+
+## [2026-07-28] ingest | yt shorts batch 242 (@thefutur, 25 triaged, 0 ingested)
+
+Stage C. **25 shorts, 0 ingested.** Open shorts 683 → **658**. Two closed with a specific reason,
+23 as `dup-of:corpus`.
+
+### ⚠️ A SIXTH near-miss — and this one was a SCOPE error, not a regex error
+
+`yt-QB_keinouwg` presents the **PROACT** framework (*problem · objective · alternatives ·
+consequences · trade-offs*) and credits ***The Visual MBA* by Jason Barron**. My concept-check
+returned **0** for both "visual mba" and "jason barron", and the regex was correct this time.
+
+**It was still wrong.** I had scoped the probe to `wiki/topics/ persona/ wiki/entities/`. Re-run
+across `wiki/` it returns **1** — [[wiki/sources/2023-12-03-yt-KCQ7FAsZCHM]], the Hot Sauce
+conference keynote, which already carries PROACT in its **tags, summary, a ★ key-claim block, the
+reading list, and its cross-links**. The short is a **recut of that keynote segment**. Closed
+`dup-of:yt-KCQ7FAsZCHM` — a named parent, not `corpus`.
+
+**The lesson is distinct from the `\|` bug and worth stating separately.** `topics/persona/entities`
+is the correct scope for *"should this be PROMOTED?"* — it is the wrong scope for *"is this NEW to
+the corpus?"*, because 1,034 source pages sit outside it. Two different questions, two different
+scopes; I had been running one probe and reading it as an answer to both.
+
+⚠️ **Standing rule added: novelty probes run against `wiki/` entire — never a sub-scope.**
+
+### Also closed with a specific reason
+
+`yt-burJ6ZqG2GA` ("How to Write Hooks for LinkedIn") — ★★★ *"the hook is a promise"* is a good line,
+but the speaker describes *"a specific commenting strategy that **I implement** to gain new
+followers, inbound leads and new clients."* **That is a LinkedIn practitioner's own practice, not
+Chris's documented one.** No self-identification, and the autobiographical detail points AWAY from
+the subject. Closed `guest-only`. ⚠️ **Not recorded as a gap** — nothing here is missing from the
+clone; it is somebody else's material.
+
+**Stage C running total: 203 shorts processed · 14 ingested · 189 closed.**
+
+Synthesis notes: none.

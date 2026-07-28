@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-28 (ingest yt batch @thefutur, 2 → **982 L2**; both deferrals cleared — ★★★★★ **the earliest recorded price bracketing** (2017), with the best argument in the corpus for the silence after a number, and his own account of his core skill: *"I'm a good listener and I can synthesise information"*)_
+_Last updated: 2026-07-28 (ingest yt batches @thefutur, 5 → **987 L2**; ★★★★★ **two attributions recovered**: *"just ask"* is credited by name to **Kier McLaren** — *"kiddo, why don't you just ask?"* — and *"you're probably right, but let's make sure"* came out of **Blair Enns's book**, told against himself; plus the ★★★★★ **four things** first-meeting method and **two precedence findings** moving the question-quality and whoever-talks-first-loses rules back to **February 2016**)_
 
 ## Sources
 

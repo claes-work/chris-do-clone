@@ -12790,3 +12790,60 @@ value-based pricing. ② ★★★★ **Words as identity, argued epistemically*
 the NVC thread, not merged**, and cross-linked to the Bezos reputation definition in `branding`.
 ③ ★★★★ **Tell them what else they're buying**, extended to engagement → `topics/branding`, crediting
 **Anna Lappé**. ⚠️ **Carry the Tesla guard verbatim** if that source is cited.
+
+## [2026-07-28] ingest | yt batch (@thefutur shorts, 2) — a second reading list, and the missing objection script
+
+Batch 231, Stage C. L2: 1,030 → **1,032**. Open shorts: 822 → **813**.
+
+Ten shorts. **Seven closed, two ingested, one held.**
+
+### ⚠️ A second provenance reading list — no new names, three new characterisations
+
+- ★★★★★ **Michael Bungay Stanier is upgraded from an opener to a STRUCTURAL source.** The corpus
+  credits him for *"so, what's on your mind"*. Here: *The Coaching Habit* is *"an excellent framework
+  for understanding **the value of asking great questions, being slower to answer, and staying curious
+  a little bit longer**… and it so happens to **overlap with how you do sales**."* ✅ **A named triad the
+  corpus holds only in pieces.**
+- ★★★★ **Jim Rohn's standing, for the first time**: *"the godfather of coaches… **the mentor for
+  everybody that you look up to today**… his most notable mentee is **Anthony Robbins**."* ⚠️ A lineage
+  claim **about other people**, recorded as his characterisation rather than as fact.
+- ★★★★ **Blair Enns — a SIXTH dated attestation** (2017 ×3, 2018, 2023, 2025), and the first to
+  classify the book by category: **a positioning book, not a sales book.** *"No surprise to anybody
+  who's been following me"* is itself evidence of how consistently he has credited it.
+
+### ★★★★★ The objection script the corpus never had
+
+The hub is rich on pricing and objections and has **no script for the commonest objection of all.**
+
+> *"If your prospect says '**that's too expensive**' — **'I'm sorry. I think I MISJUDGED THE PROBLEM
+> we're trying to solve. I thought we were trying to solve a really big problem that had an impact on
+> your business…'**"*
+
+✅ **Three things at once**: it concedes nothing on the number, it **relocates the disagreement to the
+problem** (too-expensive read as a mis-sized problem, not a mis-set fee), and it **takes the error onto
+himself**, leaving the client free to correct *upward* rather than defend a low figure. ✅ It is the
+operational form of *"they don't feel the pain"* (2025-11-24). ⚠️ **Truncated before completion; no
+ending inferred.**
+
+### ⚠️ A near-duplicate pair noticed in passing
+
+`yt-P9GFMS4R_g8` is **near-identical to `yt-VaiknDrcJUU`**, closed in batch 227 — same *"don't get into
+the proof… that's your ammunition"* content, **two IDs, two upload dates.** Recorded on the row.
+✅ Worth knowing: **the channel re-uploads the same cut**, so ID-level dedup will under-count repeats.
+
+### Running Stage C tally
+
+**53 shorts processed · 4 named-parent dups · 28 dup-of-corpus · 3 guest-only · 12 ingested · 1 held.**
+
+Ledger: L2 = 1,032. Open: **shorts 813**, @TheFuturAcademy P3:37. ⚠️ Unscoped: 235 streams.
+Synthesis debt 8/10.
+
+**Synthesis notes:** **Three items.** ① ⚠️★★★★★ **`entities/influences` updates** — **upgrade Michael
+Bungay Stanier** to a structural source for ask-don't-tell (**ask well · answer slower · stay curious
+longer**, his stated triad); **add Jim Rohn's standing and the Tony Robbins lineage claim** ⚠️ as his
+characterisation; **add the sixth Blair Enns attestation** and the **positioning-not-sales**
+classification. ② ★★★★★ **The too-expensive script** → `topics/sales-clients`, filed **with the
+"they don't feel the pain" diagnosis** it operationalises, and with the principle stated: **treat a
+price objection as a problem-sizing error.** ③ ★★★ **Note for the dedup method**: the channel
+re-uploads identical cuts under new IDs, so **corpus-level phrase matching is the right rail, not
+ID-level parent matching.**

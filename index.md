@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-28 (**1,030 L2**; Stage C — ✅ **both flagged checks collapsed their holds** (a caption artefact was not made into a framework; a restatement was caught as a dup), and the three real finds include **a worked cost-plus pricing method** the corpus never had)_
+_Last updated: 2026-07-28 (**1,032 L2**; a **second provenance reading list** upgrades Michael Bungay Stanier to a structural source and gives Blair Enns a **sixth** dated attestation — plus **the "you're too expensive" script**, which relocates the objection from the price to the problem)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **1,030 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 and P2 both fully drained**; 98 members-only rows skipped as unobtainable; remaining: @thefutur video P3:0 ✅ complete; ⚠️ **235 @thefutur STREAMS untouched and unscoped — the driver filters on type==video**, @TheFuturAcademy P3:51, 822 shorts).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **1,032 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 and P2 both fully drained**; 98 members-only rows skipped as unobtainable; remaining: @thefutur video P3:0 ✅ complete; ⚠️ **235 @thefutur STREAMS untouched and unscoped — the driver filters on type==video**, @TheFuturAcademy P3:51, 813 shorts).
 
 ## Topics
 

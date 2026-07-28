@@ -12589,3 +12589,43 @@ coach"* attribution **unnamed**. ② ★★★★★ **Storytelling as an INTERN
 them, it's for you"* — ⚠️ **and add VINH GIANG to `entities/influences`, spelling to verify.**
 ③ ★★★★ **Geographic markets stated as an argument**, **price on the call** (*"the proposal-building
 business"*), and **the showcase test** → `topics/pricing` and `topics/business`.
+
+## [2026-07-28] ingest | yt batch (@thefutur shorts, 0 ingested) — 7 covered, 3 held incl. a provenance item
+
+Batch 227, Stage C. **No source ingested.** L2 unchanged at **1,024**. Open shorts: 842 → **835**.
+
+Ten shorts, all Chris-attributed, each phrase-checked against the corpus rather than assumed.
+
+### Seven closed as covered
+
+Self-worth as the pricing ceiling · the *"sandbox"* image for a clear strategy · *"don't get into the
+proof — that's your ammunition"* · art/history references as the AI-era advantage · **three
+street-interview rate pieces** ($350, $1,500, $2,000 an hour).
+
+⚠️ **Two of these looked new and were not.** *Sandbox* already appears on **5** pages and *ammunition*
+on **6** — both alongside the arguments they belong to. **Checking beat intuition**, which is the
+point of doing it.
+
+### ⚠️ Three held — one of them for provenance reasons
+
+| Short | Zero corpus matches for | Why it matters |
+|---|---|---|
+| `yt-A-LQwz40G7Y` | **Al Ries · Jack Trout · *Positioning*** | ⚠️ **Named book recommendations = potential new entries on `entities/influences`.** Needs the **full list** read before writing — a partial read would put an incomplete attribution set into the hub. |
+| `yt-2K32HmJSeAM` | *"the weird **sticky tension**"* | The corpus argues **taste/humanity** as the AI moat. This names **a different mechanism** — live interpersonal friction — framed around *"your dirty imperfect self"*. |
+| `yt-UhklGQya1r4` | *"if the only tool you have is a **hammer**…"* | Plus *"find someone with a **burning urgent desire** to solve a problem they've felt massive pain around."* |
+
+**Held rather than rushed, for the same reason as last batch** — and the books one especially: the last
+two synthesis passes were about getting attributions right, and adding half a reading list to
+`influences` would be the wrong way to end an iteration.
+
+### Running Stage C tally
+
+**33 shorts processed · 4 named-parent dups · 14 dup-of-corpus · 3 guest-only · 4 ingested · 3 held.**
+✅ **~1 in 6 carries something genuinely new** — a steady enough rate to justify continuing, and low
+enough that the dedup pass is doing most of the work.
+
+Ledger: L2 = 1,024. Open: **shorts 835**, @TheFuturAcademy P3:37. ⚠️ Unscoped: 235 streams.
+Synthesis debt 5/10.
+
+**Synthesis notes:** none — no source ingested. ⚠️ **Three held items carry forward**, including
+**Al Ries / Jack Trout / *Positioning*** for the influences hub.

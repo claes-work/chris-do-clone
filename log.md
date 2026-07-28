@@ -12527,3 +12527,65 @@ Synthesis debt 4/10.
 
 **Synthesis notes:** none — no source ingested. ⚠️ **Three held items carry forward**: the bull's-eye
 metaphor, the **Vinh Giang** credit, and the concrete geographic-market argument.
+
+## [2026-07-28] ingest | yt batch (@thefutur shorts, 3) — the held three all justified the hold
+
+Batch 226, Stage C. L2: 1,021 → **1,024**. Open shorts: 845 → **842**.
+
+Wrote the three shorts held last iteration. **All three carried something the corpus genuinely lacked**
+— the decision to hold rather than rush them was right.
+
+### ★★★★★ The bull's-eye and the wall — the operational half of ask-don't-tell
+
+The corpus records *ask, don't tell* on dozens of pages. **It has never recorded what the questions are
+FOR.**
+
+> *"'Tell me exactly what typeface your logo should be' — **that's asking for the bull's-eye**… **if the
+> clients knew how to tell you that, what do they need you for?** … **We just want to know WHAT WALL
+> IT'S ON.** Because **if we shoot in the wrong direction, no matter how good we are, we have 0% chance
+> of hitting it.** … Then **ask another question that eliminates half the wall, then a quarter, then an
+> eighth. NOW we know where the bull's-eye is. NOW we use our creativity.**"
+
+✅ **A halving search** — and it explains why creativity comes *last*. ⚠️ **Credited to *"my business
+coach"*, unnamed** — the same formulation as 2024-10-22, and recorded the same way.
+
+### ⚠️ A new credited influence: Vinh Giang
+
+Checked first against `entities/influences`, the hubs and the persona files: **he appears nowhere.**
+Credited — warmly, *"my brother from another mother"* — for a **contrarian answer** on storytelling:
+*"we tell stories to remind ourselves of who we are, so when people attack us, we remember."*
+
+Chris's own extension is the transferable part: *"if you're not telling your story, others are defining
+what your story is… **your story isn't for them. It's for you.**"*
+
+✅ **The storytelling hub is entirely audience-facing** — structure, texture, compression, the
+repeatable story. **This is the only entry in the corpus saying the function is internal.**
+⚠️ **The spelling is caption-derived and is flagged for verification** before the influences hub treats
+it as canonical.
+
+### ★★★★ Geographic markets, made concrete
+
+The hub carries *geographic arbitrage* as a **label**. This states the argument, raises the obvious
+objection (*"but Chris, they called us because they wanted a better deal"*) and answers it. It also
+gives the sharpest reason in the corpus for pricing early: *"if you kick this down the road in a
+proposal, **you're going to be in the proposal-building business and not in the design business**"* —
+plus a **showcase test** for cheap work: *"you don't always have to make money up front if what you're
+getting is of greater value than the money you would have received."*
+
+### Running Stage C tally
+
+**23 shorts processed · 4 named-parent dups · 7 dup-of-corpus · 3 guest-only · 4 ingested.**
+**19 of 23 needed no page** — and **all four that did were genuine gaps**, not restatements. The rail
+is calibrated about right.
+
+Ledger: L2 = 1,024. Open: **shorts 842**, @TheFuturAcademy P3:37. ⚠️ Unscoped: 235 streams.
+Synthesis debt 5/10.
+
+**Synthesis notes:** **Three items, all genuine gaps.** ① ★★★★★ **The bull's-eye/wall metaphor with the
+halving procedure** → `topics/sales-clients`: the hub has ask-don't-tell as a principle and **no
+account of what each question is doing**, or why creativity comes last. ⚠️ Carry the *"my business
+coach"* attribution **unnamed**. ② ★★★★★ **Storytelling as an INTERNAL defence** →
+`topics/content-strategy/storytelling`, which is entirely audience-facing — *"your story isn't for
+them, it's for you"* — ⚠️ **and add VINH GIANG to `entities/influences`, spelling to verify.**
+③ ★★★★ **Geographic markets stated as an argument**, **price on the call** (*"the proposal-building
+business"*), and **the showcase test** → `topics/pricing` and `topics/business`.

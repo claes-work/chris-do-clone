@@ -14521,3 +14521,45 @@ reason on the row — **not** dropped.
 Synthesis notes: ⭐ **Futura preference** (2019-03-22, self-identified) → `topics/design-craft` **and**
 as the gaps.md resolution — carry the provenance, since it is the only such datum in the corpus.
 **Art direction as feedback-not-mouse** → `design-craft`, linked to the delegation ladder.
+
+## [2026-07-28] ingest | yt batch 272 (@TheFuturAcademy, 2 held rows resolved, 1 ingested)
+
+Both rows **held** in batch 271 are now closed. L2 = **1042**.
+
+**Ingested:** [[wiki/sources/2019-03-25-yt-wzXKwe1-w7Q]] — *Art Direction pt. 2*, ✅ self-identified.
+
+### ⭐ *Thirst* — an unrecorded 2019 Futur print venture
+
+He breaks off mid-critique: *"a little side note — **why are we doing this magazine?** I didn't
+provide any context to our audience."*
+
+> ★★★★★ *"I had this idea of launching a magazine that would be **a hybrid between How magazine and
+> Fast Company** — a place where you'd **find out about design, but through the lens of business.**"*
+> ⏳ *"Sometime in the first — the second quarter this year — **we'll actually release a physical
+> copy. Old-school media, printed version, newspaper.**"*
+
+Not in the corpus: *Thirst* returns nothing outside pt. 1's own page. Two things make it worth
+keeping — the positioning line is **The Futur's whole thesis compressed into a masthead pitch**, and
+he **commits to a quarter on camera**, which makes it a dated intention rather than a musing.
+
+⚠️ **Recorded with the outcome explicitly UNKNOWN.** There is no evidence it shipped **and none that
+it was cancelled**. The page says so, and says **do NOT write it into `persona/biography` as an
+event** — a biography entry would imply it happened. **The uncertainty is the finding**, and a later
+source resolving it either way is interesting precisely because this note exists.
+
+✅ Also: pt. 2 **closes the loop pt. 1 opened** — *"I asked her to go deep, and she's come back and
+this looks super resolved."* The two episodes document the feedback-not-the-mouse claim being **made,
+then honoured**.
+
+### The other held row, closed
+
+`yt-7lm_L-ZJGpo` (logo critique, self-identified) — the teaching content is **repetition and
+contrast**, already at `design-craft` §77, §92 and §1686, and the typeface reasoning shown is
+**guest Jelvin Base's choice** being explained rather than Chris's own. Closed `dup-of:corpus`.
+
+📌 **Both rows were held for one batch and both resolved cleanly.** Deferring with the reason written
+on the ledger row — rather than guessing at the end of a long batch — cost one iteration and produced
+a find that a rushed close would have discarded.
+
+Synthesis notes: ⭐ ***Thirst*** (2019-03-25) → `topics/business` as a **dated intention with unknown
+outcome**; ⚠️ NOT to `persona/biography`.

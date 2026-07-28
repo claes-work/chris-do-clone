@@ -13565,3 +13565,32 @@ than discovering it a third time.
 Synthesis notes: **Les Brown point/story rule** — promote the attribution to
 `wiki/entities/influences` and the rule to `topics/content-strategy`; ⚠️ verify whether he credits
 Les Brown directly or only says *"Les Brown-style"*, since the two sources differ in confidence.
+
+## [2026-07-28] ingest | yt shorts batch 246 (@thefutur, 25 triaged, 0 ingested)
+
+Stage C. **25 shorts, 0 ingested.** Open shorts 583 → **558**. Second clean batch under the three
+probe rules — **no near-misses.**
+
+Candidates and their rare-token resolutions:
+
+| Short | Token | Corpus | Verdict |
+|---|---|---|---|
+| smallest viable audience / Seth Godin market-splitting (`yt-NEsW-u6Pm9w`) | `smallest viable` **6** · `seth godin` **53** | in **`content-strategy`** *and* **`beliefs`** | dup |
+| qualify for the decision-maker (`yt-3bK-iWWtZBs`) | `decision maker` **9** | `sales-clients` **§4320** (isolate the decision-maker) + **§1561** (money follows big problems) | dup |
+| objection gauntlet (`yt-VYBxVEqQAv0`) | `objection` **153** | saturated | dup |
+| *101 Things I Learned in Business School* | `101 things` **5** | present | dup |
+| Super Bowl / amateur-vs-expert / supermarket analogies | **4 · 34 · 12** | present | dup |
+
+⚠️ **`middle manager` returned 0 corpus-wide** — the one genuine zero in the batch. I did **not**
+treat it as a finding: the doctrine it belongs to (*don't have the conversation without authority in
+the room*) is fully recorded, and the middle-manager phrasing is a **restatement of the reason**,
+not a new position. **A zero on the wording of a covered idea is not a gap.** Noting the distinction
+because it is the one the earlier false findings in this run all got wrong.
+
+`yt-TfCeHwpuUy8` closed **`promo`** — *"hey Europe, Chris here"*, a workshop-tour announcement with
+no teaching content.
+
+**Stage C running total: 303 shorts processed · 14 ingested · 289 closed.**
+⚠️ **Two consecutive zero-yield batches** and **1 ingest in the last 100 shorts.**
+
+Synthesis notes: none new. (Les Brown promotion candidate from batch 245 still queued.)

@@ -4693,6 +4693,25 @@ Vinh Giang's, filed in that page's explicit `guest — CONTEXT / do-not-train` b
 2023-04-08 short confirms the split (Vinh states the rule; Chris answers *"if only I knew magic"*).
 **Not promoted.** Recorded here so it is not re-proposed a third time.
 
+## ★★★★ 2021-shorts additions (pass 26, added 2026-07-28)
+
+### ★★★★ Desensitization to numbers — the precondition for walking away (2021-12-14)
+
+The hub and `pricing` are saturated on the *conclusion* — walk away, fire clients, don't chase. **What
+was missing is why he can.**
+
+> ★★★★ *"**I want you to become somewhat desensitized to numbers.**"*
+
+Offered as the enabler of a specific refusal — *"that's why **saying no to a $350,000 job didn't hurt
+us at all**"* — and evidenced by his own scale shifting over time (a **$3.25/hour** teenage wage; a
+**$68,000** cheque that exceeded a year's earnings and provoked only *"let me just deposit it"*, both
+recorded in [[../../../persona/biography]]).
+
+✅ **The claim is that a large number stops being an emotional event once you have watched your own
+scale change** — which makes walking away survivable rather than brave. ⚠️ Attribution: internal
+autobiographical evidence, no self-identification.
+([[../../sources/2021-12-14-yt-RIYXIbHwlXc]])
+
 ## Sources
 
 - [[wiki/sources/2016-03-23-yt-013Zjz5P9gM]] — "Break Out of Your Comfort Zone" vlog

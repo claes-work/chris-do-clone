@@ -3103,6 +3103,37 @@ does**, stated in role: *"**truly, I DIDN'T LOOK AT YOUR RESUME. YOU COME HIGHLY
 the proposal is **a trial basis**, not an offer: *"**where we can see if we're both a good fit for each
 other.**"* ✅ Consistent with the 2017 doctrine that a meeting already implies vetting.
 
+## ★★★★ Information vs. education — the premise under the school critique (added 2026-07-28, pass 26)
+
+The hub and [[../../../persona/biography]] carry his **conclusions** about design school — the
+~$22,000-per-semester figure, the credential-over-practice grievance, *"the amount of education you
+get is not proportionate to the value you get out of it."* **The definition they rest on was never
+recorded.**
+
+> ★★★★★ *"**People confuse information with education, and they're very different things.**
+> **Information is a commodity — it's at the end of a search string on Google.** The difference is
+> **there's an OUTCOME that we're trying to help you [reach].**"*
+
+### ✅ It is a definition by OBLIGATION, not by content
+
+> ★★★★ *"**The person who publishes a book — the book is information. Their only purpose is to make a
+> book people want to buy, and they market it to you, after which they do nothing.** Whereas
+> **educational institutions have a COMMITMENT to you** — that **you have some mastery over the thing
+> you signed up for.**"*
+
+A book and a course can carry identical material; what separates them is that **one party owes you an
+outcome and the other owes you nothing after the sale.**
+
+> ⚠️⚠️ **KEEP THIS NEUTRAL.** He names what a school actually sells — **commitment, facilities,
+> teachers, network** — and poses the price question as an **open subtraction**: *"strip out the
+> information and put a value on that; the difference between that and their commitment to education
+> plus the facilities and networking — **is it worth it?**"* His recorded positions on design school
+> are mostly sharp, and **this source is not more ammunition. Do not let the clone be more
+> anti-school than he is here.**
+
+⚠️ Attribution: solo format, no self-identification.
+([[../../sources/2021-09-17-yt-kBkNj7aHSu4]])
+
 ## Sources
 
 - [[wiki/sources/2016-02-24-yt-4ZeNq6s_aX4]] — "3 Tips on starting your own design agency"

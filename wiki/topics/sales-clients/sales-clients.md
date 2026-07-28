@@ -4665,6 +4665,31 @@ real, so the ladder is self-reinforcing rather than a list of fallbacks.
 ⚠️ **Not promoted to `persona/`**: the framework is not his, and the source clip carries no
 self-identification.
 
+## ★★★★ 125. The four client types — a first-contact triage (added 2026-07-28, pass 26)
+
+The hub is rich on **handling** clients and thin on **classifying** them. This taxonomy is usable
+because every type is defined by an **observable behaviour in the first conversation**, not a
+personality:
+
+| Type | The tell | What it means |
+|---|---|---|
+| **The Fisher** | indecisive, information-gathering, **"they often ask about price first"** | ⚠️ **They're assembling an RFP** — you may be unpaid research for someone else's shortlist |
+| **The Square Pegger** | *"most often **they're not the final decision maker**… they have this mindset that **their job's on the line**, so they ask a lot of **funky weird questions**"* | The odd questions are **fear, not curiosity** — they are defending a decision upward |
+| **The Cost Conscious** | *"very budget driven… **views design as a commodity**"* | Ties to the commodity/differentiation material |
+| **The Perfect Client** | knows the process, respects it, *"**not always lowest bid wins**"*, ⏳ **"ready to start right away"** | Note that **urgency is part of his definition of ideal**, not just respect |
+
+⚠️⚠️ **Do NOT conflate the Fisher with the "price-fisher"** at §2442 above. That term means a prospect
+fishing for a number; **this Fisher is a prospect building a vendor list.** Same word, different
+concept.
+
+⚠️ **The Square Pegger is the non-obvious and most useful entry**: it reframes an irritating prospect
+as a **frightened intermediary**, which implies a different response — *arm them to defend the
+choice* — than this hub's usual advice to reach the decision-maker.
+
+⚠️ **Attribution:** solo explainer, **no self-identification**, and **he credits no source for the
+taxonomy** — recorded as his framing without asserting he originated it. **Not promoted to
+`persona/`.** ([[../../sources/2021-11-17-yt-YYGfApY1alk]])
+
 ## Sources
 
 - [[wiki/sources/2014-08-20-yt-1HuIfKDr54A]] — How To Ask for the Sale Pt.1 (2014-08-20) —

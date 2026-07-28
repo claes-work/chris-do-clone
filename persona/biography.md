@@ -170,6 +170,18 @@ They are promoted here **as a pair**: [[2024-03-29-yt-zCSjA-QoNiM]] is the "befo
 - **ArtCenter was paid for by four things stacked**: a **50% scholarship**, a **Stafford loan**, a
   **contribution from his parents**, and **two maxed-out credit cards**. No grants. He left with *"quite a
   bit of debt in student loans and credit card debt."*
+- ★★ **Two earlier figures, added 2026-07-28 (pass 26)** 🗣️ [self-reported] — they sit *below* the rate
+  arc and give it a floor:
+  - ⏳ *"**When I was 16 or 17 years old I was making three dollars and 25 cents an hour.**"*
+  - ⏳ *"**The first time we got this giant check from a client — it was more money than I made in a whole
+    year.** When we saw this check for **$68,000**, I'm like: *oh, that's interesting, let me just deposit
+    it.* **And that was that.**"*
+
+  ⚠️ **Neither is dateable from the source.** The clip links them with *"not that long ago"*, which cannot
+  be literal, so **no interval is reconstructed here and they are deliberately NOT presented as a
+  before/after pair.** He offers them as evidence for a habit, not a chronology — see
+  [[../wiki/topics/mindset/mindset]] on **desensitization to numbers**.
+  ([[../wiki/sources/2021-12-14-yt-RIYXIbHwlXc]])
 - ★★ **The rate arc, every step named**: **$30/hour** on an ArtCenter job-board gig doing **bank
   brochures** → freelancing *"not even a year out of school"* at **$300/day**, accepted → **$400 → $450 →
   $500 → $650 → $700**, where he hit *"a theoretical cap"* he refused to treat as final → today *"people

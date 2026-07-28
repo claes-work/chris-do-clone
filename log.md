@@ -14324,3 +14324,39 @@ recorded) · `familiarity/surprise` **1** · `pat flynn` **3** (closed **`guest-
 **Stage C running total: 783 shorts processed · 19 ingested · 764 closed.**
 
 Synthesis notes: none. **Debt 10/10 after this entry — checkpoint next iteration.**
+
+## [2026-07-28] lint | synthesis pass 26 (Stage-C shorts, batches 258–267)
+
+Checkpoint fired at **10/10**. Scope: batches 258–267 (L2 1,036 → **1,039**; **3 ingests in ten
+batches**). Targets: **`persona/biography` · `topics/mindset` · `topics/sales-clients` ·
+`topics/business`**. **No system-prompt bump — v24 stands.**
+
+### Promoted (4)
+
+1. ★★★★ **Two self-reported income figures** → `persona/biography`, placed **below the rate arc** as
+   its floor: **\$3.25/hour at 16–17**, and a **\$68,000** first large cheque that *"was more money
+   than I made in a whole year."*
+   ⚠️ **Written in explicitly as NOT a before/after pair.** The source links them with *"not that
+   long ago,"* which cannot be literal; **no interval is reconstructed.** He offers them as evidence
+   for a habit, not a chronology.
+2. ★★★★ **Desensitization to numbers** → `topics/mindset`, as the **precondition** the walk-away
+   doctrine never had. The hub was saturated on *walk away*; it could not say **why he can**.
+3. ★★★★ **The four client types** → `sales-clients` **§125**, with the ⚠️ **Fisher / price-fisher**
+   disambiguation carried to the promotion site, and the **Square Pegger as frightened intermediary**
+   reading kept intact — it is the entry that changes what you do.
+4. ★★★★ **Information vs education** → `topics/business`, as the **premise under the school
+   critique**. Filed with a ⚠️⚠️ **"KEEP THIS NEUTRAL"** block: this source names what a school
+   actually sells and poses the price question as an open subtraction. **His other recorded positions
+   are sharper, and the hub now says in terms: do not let the clone be more anti-school than he is
+   here.**
+
+### ⚠️ Only ONE of the four touched `persona/`
+
+The income figures rest on **internal autobiographical evidence** — he is describing his own wages.
+The other three carry **solo-format attribution only, without self-identification**, which this repo
+treats as sufficient for a topic hub *with the basis stated* and **insufficient for a persona
+trait**. All three are marked do-not-promote at their sites, so a later pass does not read hub
+placement as pre-approval.
+
+High-water mark advanced to **batch 267 (L2=1,039)**. Pass 26 logged in
+`pipeline/synthesis-state.md`.

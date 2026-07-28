@@ -663,6 +663,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2022-11-14 | [What Clients Do UX Designers Work With?](2022-11-14-yt-Sc-vYp58iuM.md) | design-craft; sales-clients | ⚠️ NOT Chris — Futur UX course; context/do-not-train |
 | 2022-11-15 | [Win Customers' Hearts With Data (Masterclass w/ Neil Hoyne)](2022-11-15-yt-zidMCJU9GjA.md) | content-strategy; business | ⚠️ Neil Hoyne (Google/*Converted*) = context; Chris trains only small nuggets (intuition-beats-TubeBuddy titling, ~800k IG 2022) |
 | 2022-11-17 | ★ [3 Pricing Strategies - How To Price Your Service](2022-11-17-yt-b5OtiUpNvqs.md) | pricing; business | Chris solo; 3 pricing models as a career-stage/risk LADDER (hourly→fixed-fee→value); pad 10-100% over cost; "graduate from hourly"; L3-candidate |
+| 2022-11-21 | ★ [Short Term Reward Is Killing Your Business](2022-11-21-yt-VNc8-5qlDsM.md) | mindset; business | short; **hyperbolic discounting** named as the mechanism — "the farther away something is, the less you're motivated to do it"; ⚠️ delay-discounting, NOT the price sense used in topics/pricing; L3-candidate |
 | 2022-11-22 | ★ [How & When To Raise Your Rates (The 3x Rule)](2022-11-22-yt-Dr4Ux8_mfU8.md) | pricing; mindset | Chris solo; NEW three-yeses rule (3 yeses in a row → raise); >60-70% close-rate = underpricing; raise 2x not 10x; L3-candidate |
 | 2022-11-23 | [Design Thinking To Get Paid To Solve Problems](2022-11-23-yt-BnrZIDTyE6o.md) | pricing; design-craft; business | ⚠️ framework guest-led (Black Illustrations founder); Chris only elevator/mirror reframe; context/do-not-train |
 | 2022-11-25 | ★ [5 Ways to Find Success & Passion in Life](2022-11-25-yt-_1z-_VuImVg.md) | mindset; business; content-strategy | Chris solo; 5-step direction framework (goal → count 15-25 competitors [David Baker] → reverse-engineer role model → easiest-first → invest in skills); L3-candidate |
@@ -1057,4 +1058,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_1034 videos ingested (L2) so far._
+_1035 videos ingested (L2) so far._

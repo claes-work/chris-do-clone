@@ -13594,3 +13594,39 @@ no teaching content.
 ⚠️ **Two consecutive zero-yield batches** and **1 ingest in the last 100 shorts.**
 
 Synthesis notes: none new. (Les Brown promotion candidate from batch 245 still queued.)
+
+## [2026-07-28] ingest | yt shorts batch 247 (@thefutur, 25 triaged, 1 ingested)
+
+Stage C. **25 shorts · 1 ingested · 24 closed.** Open shorts 558 → **533**. L2 = **1035**.
+
+**Ingested:** [[wiki/sources/2022-11-21-yt-VNc8-5qlDsM]] — *Short Term Reward Is Killing Your Business*.
+★★★★ **Hyperbolic discounting**, named and applied: *"**the farther away something is, the less
+you're motivated to do it** — that's why we go for short-term reward versus long-term gains,"* worked
+through a $5M revenue target losing to *"an email you need to respond to."*
+
+✅ **Why this is not a duplicate.** The corpus records the *conclusion* (think long-term; the
+three-to-six-month operator who *"robs their client"*) in many places. **The named mechanism was
+absent** — and it changes the prescription: the problem is not weak discipline, it is that
+**distance itself discounts motivation**, so the fix is to shorten the distance.
+
+⚠️ **A disambiguation that had to be caught before writing.** `discounting` returns **26** hits in
+`topics/pricing` and `topics/sales-clients` — **all of them PRICE discounting**, the opposite sense.
+A careless read of that number would have closed a genuine find as a duplicate. **Carried onto the
+page and into the index row** so the next reader does not have to re-derive it.
+
+### ✅ The rare-token rule caught a second recut
+
+`yt-c32NcVxI9Qg` — *"the three components of life: **People, Self, Spirit**."* The phrase
+"three components of life" returns **0**. The rare-token probe `people.{0,10}self.{0,10}spirit`
+returns it as **PSS** in `mindset` §2765, `voice`, `beliefs` **and** `system-prompt`, dated
+**2021-10-19**. Closed `dup-of:corpus`. **A phrase probe alone would have produced an eighth false
+finding here.**
+
+Also closed: `yt-UBUsG-TCsvQ` as **`promo`** — the same Europe-tour announcement as `yt-TfCeHwpuUy8`
+in batch 246, re-uploaded under a second ID (**a fourth confirmed re-upload pair**, this one promo).
+
+**Stage C running total: 328 shorts processed · 15 ingested · 313 closed.**
+
+Synthesis notes: **hyperbolic discounting** (2022-11-21) — promote the term and mechanism into
+`topics/mindset`; ⚠️ carry the delay-vs-price disambiguation and the solo-format attribution basis to
+the promotion site. (Les Brown promotion candidate from batch 245 still queued.)

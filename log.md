@@ -11484,3 +11484,63 @@ them?"* ⑤ ★★★★★ **The eight-page notepad and "I'm trying to relive t
 Also for `persona/biography`: the **early-20s client relationship** (⚠️ unnamed), and for
 `entities/blair-enns` a **fourth dated credit**. ⚠️ Nothing from the LinkedIn or lettering episodes is
 promotable beyond the two notes recorded above.
+
+## [2026-07-28] ingest | yt batch (@thefutur, 2 + 1 deferred) — he shows his working on a line that circulates as his
+
+Batch 209, Stage B (P3). L2: 997 → **999**.
+
+- `yt-691Um--5S-8` — **2023-02-17, "The Laws of Creativity" w/ Joey Cofone** (Baron Fig). Guest
+  return appearance; the book is his, but the episode carries **two provenance items**.
+- `yt-wBcj0PVDEOs` — **2023-11-08, "The Future of AI in the Creative Industry."** Guest-dominated for
+  the industry history; Chris's material is the cold open, and it is the sharpest AI argument in the
+  run.
+- `yt-hdDP14c3ltY` — **2023-06-09, "A New Approach To Selling" masterclass.** ⚠️ **Deferred once.**
+  Chris is referred to **in the third person** throughout (*"a bunch of people just like Chris has"*,
+  *"not going to pay Chris a penny"*), so it is a guest curriculum needing the same fencing as the
+  Essam and Demartini pages. Marked do-not-defer-again.
+
+### ★★★★★ The provenance find
+
+> *"**James Victore** has this expression which I love — **which I CO-OPTED AND MODIFIED a little
+> bit.** His thing is: **'what makes you weird as a kid makes you a creative as an adult.'** That's a
+> lot to say. **I just say: what makes you weird makes you wonderful.**"
+
+This is the clearest instance in the corpus of him **showing his working on a line that circulates as
+his own** — he names the source, quotes the original, states that he shortened it, and gives his
+version, all in one breath. ⚠️ The source page instructs that the corpus must never present *"what
+makes you weird makes you wonderful"* as wholly his, and must carry the Victore original alongside it.
+
+The same episode gives a **fifth dated Blair Enns credit** — *"Blair Enns told me: do your due
+diligence, write a good book, because you can't unpublish a book"* — which traces back to the 2017
+interview where Blair attributes that line to a novelist friend. **Received directly, still quoted
+six years later.**
+
+### The AI argument
+
+Worth recording because it is **different in kind** from the AI material already in the corpus. The
+threat he names is not to output quality and not to senior practitioners; it is **to the training
+path**: *"the low-hanging fruit AI is going to be really good at replacing… **that's not what we
+strive to do at the higher level — but we had to do that to get to the higher level.** If we remove
+that and it's just a push button, **my fear is that some of the newer generation are not going to be
+trained on the same fundamentals.**"* Stated as **a fear, not a prediction**, and flagged with its
+November-2023 date since he has changed position on AI before and said so himself.
+
+Ledger: L2 = 999. Open: @thefutur P3:24, @TheFuturAcademy P3:72, 860 shorts. Synthesis debt 5/10.
+
+⚠️ **Index hygiene:** the 2023-02-16 row inserted last batch had landed out of date order; corrected
+this batch while inserting the new rows.
+
+**Synthesis notes:** **Four items.** ① ★★★★★ **"What makes you weird makes you wonderful" must be
+re-filed WITH its provenance** → `topics/mindset` and `entities/influences`: **James Victore** is the
+source, the original is *"what makes you weird as a kid makes you a creative as an adult"*, and Chris
+says outright he **co-opted and modified** it. If the corpus already carries the line as his, that
+entry needs correcting, not supplementing. ② ★★★★ **A fifth dated Blair Enns credit** →
+`entities/blair-enns`, with the note that it traces to the novelist-friend story Blair tells in the
+2017 interview — i.e. **the chain is three links long and fully documented.** ③ ★★★★★ **The
+removing-the-ladder AI argument** → `topics/mindset`, ⏳ **filed as a dated face alongside the others,
+not merged into a single AI position.** ④ ★★★★★ **Detachment as an ACQUIRED SKILL** → `topics/mindset`
+beside the passionate-detachment material: *"there's a huge talent in getting to that next level of
+being able to be more objective about the work"* sharpens what the corpus currently holds as a
+temperament into something learnable. ★★★ Also: *"this is me playing amateur psychoanalyst"* →
+`persona/voice` as the hedge he attaches to speculation about another person, and **R/GA corroborated**
+in passing.

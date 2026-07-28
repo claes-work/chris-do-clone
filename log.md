@@ -12429,3 +12429,55 @@ Ledger: L2 = 1,020 (unchanged — dups get no page). Open: **@thefutur shorts 83
 P3:37, ⚠️ 235 unscoped streams. Synthesis debt 3/10.
 
 **Synthesis notes:** none — no new material; three duplicates removed from the queue.
+
+## [2026-07-28] ingest | yt batch (@thefutur shorts, 1) — dedup, a fence, and one real find
+
+Batch 224, Stage C. L2: 1,020 → **1,021**. Open shorts: 860 → **852**.
+
+Cleared the five rows held open last batch. **Three different outcomes, and the distinctions are the
+point:**
+
+| Short | Outcome | Basis |
+|---|---|---|
+| `yt-snAtnqtJIBU` | **`dup-of:yt-oxwrVFwPlYI`** | Phrase-matched to *"The Blue Ocean Strategy"* (2026-06-11), 5 days earlier — blue ocean, the video-team argument and the named consultant all appear on that page. |
+| `yt-H1vpKpuAKWU` · `yt-Lr3CsmIcZHw` · `yt-Pes1rF7LX5U` | **Skipped — guest-only** | All three are **Dr John Demartini** speaking (*"anything you can't say thank you for is your baggage"*; entropic gravity and Erik Verlinde; *"the unity of opposites"*). **No Chris-attributed content.** |
+| `yt-awg3uUYedOg` | ✅ **INGESTED** | Chris, autobiographical, and **no parent matches it.** |
+
+### ⚠️ A date anomaly I did not paper over
+
+I expected the three Demartini shorts to be recuts of the 2026-05-14 therapy episode — they are dated
+15, 16 and 17 May, exactly the 1–14 day recut pattern established last batch. **They are not**: none
+of their distinctive phrases appears on that page. The only long-form carrying that vocabulary is
+`yt-j8yGn1v8OgU` (2026-07-21) — **dated two months AFTER the shorts**, so it cannot be their parent
+either.
+
+**I marked them `skipped` as guest-only rather than `dup-of` anything.** They don't train the persona
+regardless, so the classification costs nothing — but recording a parent relationship I could not
+establish would have put a false claim in the ledger. **The pattern from last batch was a good
+hypothesis and it did not hold here.**
+
+### ★★★★ The one find — how he says he built taste
+
+> *"**I would spend a lot of time in the library. I just grab the magazines and sit down and I go
+> through it**… it's kind of like a scene from *The Fifth Element*, when Leeloo is studying human
+> history… **that was me. Just consuming.** So much so that **the people that used to school me, I
+> school them now. I'VE EDUCATED MY PALATE, MY MIND, MY EYE, MY TASTE. And you could do that, okay?
+> Just study.**"
+
+✅ **The corpus records taste as the competitive advantage against AI repeatedly — and never how he
+acquired his own.** ⚠️ Explicitly not marked a duplicate: *"educated my palate"* matches no other
+source.
+
+### Running Stage C tally
+
+**13 shorts processed · 4 duplicates · 3 guest-only · 1 ingested · 5 pending** (the earlier five are
+now resolved). Dedup is doing its job: **7 of 8 resolved shorts required no page.**
+
+Ledger: L2 = 1,021. Open: **shorts 852**, @TheFuturAcademy P3:37. ⚠️ Unscoped: 235 streams.
+Synthesis debt 4/10.
+
+**Synthesis notes:** **One item.** ★★★★★ **How he built taste** → `topics/mindset` and
+`persona/biography`: *"I've educated my palate, my mind, my eye, my taste — and you could do that,
+just study"*, with the **library-and-magazines method** attached. The hub carries taste-as-moat as an
+assertion; this makes it **a trainable claim with a stated method**, and it is the only place in the
+corpus that says how his own was acquired.

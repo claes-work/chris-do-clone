@@ -13080,3 +13080,62 @@ Ledger: L2 = 1,032. Open: **shorts 773**, @TheFuturAcademy P3:37. ⚠️ Unscope
 Synthesis debt 8/10.
 
 **Synthesis notes:** none — no source ingested.
+
+## [2026-07-28] lint | ⚠️ A THIRD false-zero — this one semantic, not syntactic
+
+Batch 236. **No source ingested.** L2 unchanged at **1,032**.
+
+Shorts are at 0% over 40 and the decision queue is unanswered, so I spent this iteration on the
+**flagged provenance carry-forwards** — checking the `influences` hub before writing anything into it.
+✅ **Checking first was the right call, because it caught another error of mine.**
+
+### What I found
+
+The hub is **richer than my source pages assumed**. It already contains a **ranked table** including
+Jim Rohn and Michael Bungay Stanier — and, at line 310, **Anna Lappé with the exact quote**:
+
+> *"Every time you spend money, you're **casting a vote** for the kind of world you want."*
+
+⚠️ **My page for `2025-08-19` said this source *"dates and sources the 'every dollar is a vote' line"*
+to her. It does not — the attribution was already there.**
+
+### ⚠️ Why the check missed it — and it is a NEW failure mode
+
+The previous two false-zeros were **mechanical**: a `grep -E` escaping bug, then a wrong working
+directory. **This one was neither.** The command was correct and ran in the right place.
+
+**It searched for *"every dollar is a vote"*. The corpus says *"casting a vote"*.** ⚠️ **A semantic
+miss** — right tool, right syntax, wrong phrasing.
+
+✅ **This sharpens yesterday's rule.** *"Confirm with a second, differently-shaped query"* is not enough
+if both queries use **my** wording. The second query must be **semantically different** — search the
+*concept*, not the *phrase*. Re-checking on **"casting a vote"** found it immediately.
+
+### ✅ Corrected
+
+- **`2025-08-19-yt-u5Y-nDFCwj4`** — the *"dates and sources"* claim replaced: **Anna Lappé and the quote
+  are already recorded**; what this source adds is **the application** (identity-purchase extended from
+  transactions to **engagement**). Ledger note updated to match.
+- ✅ **Two other zero-match claims re-checked semantically and STAND**: *"what comes out of your mouth"*
+  (0) and the in-person AI-moat framing — *in-person* appears 4 times but **not** in an
+  AI-cannot-replace sense, and *"cannot replace"* returns 0.
+
+### ⚠️ Running correction tally, stated plainly
+
+**Four novelty claims of mine have now proven false** — three yesterday (Al Ries, *at or above your
+level*, the hammer adage) and one today. **All four are corrected in place and marked.** The pattern is
+consistent: **I am reliable on "he said X" and unreliable on "the corpus lacks X."**
+
+✅ The carry-forward provenance work itself is **not** written yet — deliberately. Having found the hub
+already contains more than my notes assumed, **the right next step is the synthesis checkpoint reading
+the hub properly**, not me patching it from source-page notes that have twice proven overconfident.
+
+Ledger: L2 = 1,032. Open: **shorts 773**, @TheFuturAcademy P3:37. ⚠️ Unscoped: 235 streams.
+Synthesis debt 8/10.
+
+**Synthesis notes:** ⚠️ **Instruction for the next pass**: the `influences` hub **already contains** a
+ranked table with Jim Rohn and Michael Bungay Stanier, and **Anna Lappé with her quote**. **Read it
+before adding anything.** The genuine additions from this run are the **Bungay Stanier upgrade to a
+structural source** (ask well · answer slower · stay curious longer), the **sixth Blair Enns
+attestation** classified as *positioning not sales*, **Jim Rohn's standing and the Tony Robbins lineage
+claim**, and **Vinh Giang** (⚠️ spelling unverified) — **each to be confirmed against the hub first.**

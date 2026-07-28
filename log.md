@@ -14245,3 +14245,34 @@ Resolved by token:
 **Stage C running total: 713 shorts processed · 19 ingested · 694 closed.**
 
 Synthesis notes: none.
+
+## [2026-07-28] ingest | yt shorts batch 265 (@thefutur, 23 triaged, 0 ingested)
+
+Stage C. **23 shorts, 0 ingested.** Open shorts 148 → **125**.
+
+### ⚠️ The writer's-block clip is SETH GODIN's, not his
+
+`yt-cx4gKIZP0hU` — *"**writer's block is a myth**… we're certainly capable of writing poorly.
+**No one has writing-poorly block.**"* `writer's block` returns **2**, and
+[[wiki/sources/2019-01-06-yt-VRdFjL_uNoo]] states it plainly: *"a one-minute clip from The Futur in
+which **Seth Godin** argues that writer's block is a myth."*
+
+**The short is a recut of Godin's clip.** Closed `dup-of:yt-VRdFjL_uNoo` **with the attribution
+noted on the ledger row**, not just the duplication — because a future reader hitting this ID needs
+to know it is guest material, and *"duplicate"* alone would not tell them.
+
+📌 **Eighth guest-attributable row this run.** The @thefutur shorts feed re-cuts guest segments under
+channel branding with no speaker label, so **the base rate of "sounds like doctrine, isn't his" is
+high enough that register alone can never carry an attribution here.**
+
+### Also closed
+
+*"**mentors versus heroes**"* — my probe used his phrasing; the corpus files it **reversed**, as
+`mindset` **§36 "Heroes vs. mentors"**, dated **2019-10-24** with the *"mentors don't scale"* reframe.
+The `|heroes` fallback in the same probe caught it (**26**). ⚠️ **A word-order flip is the fifth
+distinct way a phrase probe has read as a gap this run** — after plurals, hyphens, acronyms and
+symptom-vs-remedy framing.
+
+**Stage C running total: 736 shorts processed · 19 ingested · 717 closed.**
+
+Synthesis notes: none.

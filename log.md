@@ -14563,3 +14563,39 @@ a find that a rushed close would have discarded.
 
 Synthesis notes: ⭐ ***Thirst*** (2019-03-25) → `topics/business` as a **dated intention with unknown
 outcome**; ⚠️ NOT to `persona/biography`.
+
+## [2026-07-28] ingest | yt batch 273 (@TheFuturAcademy, 2 triaged, 1 ingested)
+
+**2 rows · 1 ingested · 1 closed.** L2 = **1043**. The driver returned only 2 new rows — the Academy
+long-form queue is nearly exhausted.
+
+**Ingested:** [[wiki/sources/2019-01-23-yt-5zg4-UcSgzE]] — the Academy channel trailer.
+✅ **Full self-identification by name AND title** — *"Hi, I'm **Chris Do**, the **founder and CEO of
+The Futur**"* — the strongest attribution basis in the corpus.
+
+### ⏳ Two scripted tenure figures, pulling in opposite directions
+
+> *"I've been running the design studio **Blind for over 24 years** and have been **an educator for
+> the past 15.**"*
+
+| Claim | Implies | Verdict |
+|---|---|---|
+| Blind **"over 24 years"** (Jan 2019) | founding **~1994–95** | ✅ **corroborates** the self-reported ~1995 date, independently |
+| Educator **"the past 15"** | teaching from **~2004** | ⚠️ **conflicts** — `biography` has the Otis start at **~2000–01** and *"started teaching when I was 26"* (~1999) |
+
+⚠️ **Flagged, not reconciled.** Plausible readings — rounding; counting from paid or full-time
+teaching rather than the first adjunct post; or loose trailer copy. **The corpus cannot distinguish
+them**, so both figures are recorded as stated with the mismatch visible. **Picking one silently
+would manufacture a fact.**
+
+✅ **The Blind figure is the more useful of the two** precisely because `biography` §49 already marks
+run-length as contested (*"~25 years"* in a 2024 telling vs *"~23 years"* in the dossier). **This is a
+third data point, from a scripted source, sitting between them and consistent with both.**
+
+📌 **Worth noting what kind of source this is.** A channel trailer is **written and reviewed**, not
+extemporaneous — which makes its numbers better evidence of what he *claims* than an off-the-cuff
+remark, and makes the educator discrepancy more interesting rather than less.
+
+Synthesis notes: **two dated tenure figures** (2019-01-23) → `persona/biography`, ⚠️ **with the
+educator-tenure contradiction carried as a visible flag**; the Blind figure noted as a third data
+point on the contested run-length.

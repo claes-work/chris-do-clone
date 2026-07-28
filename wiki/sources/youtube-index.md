@@ -353,6 +353,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2019-01-15 | ★ [How to Transition From a Full-Time Job to Freelance?](2019-01-15-yt-LWqmRvWvXec.md) | business; sales-clients; pricing; mindset | "build a bridge" transition + freelance-arbitrage/brokering model; keep-the-job=leverage; pre-qualify-on-price script; L3-candidate |
 | 2019-01-16 | [2 Minute Brain Training Exercise – Unlocking Your Potential](2019-01-16-yt-p4sxZEpi8Kk.md) | mindset | NO=Next-Opportunity / FAIL=First-Attempt-In-Learning reframe; ⚠️ fill-in host (NOT Chris), attribution:uncertain — does NOT train persona |
 | 2019-01-23 | ★ [How to Build a Passive Income Business — w/ Melinda Livsey (Ep.14)](2019-01-23-yt-7b_pEgV86BE.md) | business; content-strategy; pricing; mindset | passive-income "build once, sell many"; digital-over-physical; impact-vs-effort; nothing-sells-itself; Melinda=context; L3-candidate |
+| 2019-01-23 | ★ [Welcome to The Futur Academy](2019-01-23-yt-5zg4-UcSgzE.md) | business; content-strategy | @TheFuturAcademy trailer, ✅ **full self-ID by name and title**; two scripted tenure figures — Blind **"over 24 years"** (✅ corroborates ~1995) and educator **"the past 15"** (⚠️ **CONTRADICTS** the ~2000 teaching start); L3-candidate |
 | 2019-01-28 | ★ [Watch This Before Your Next Client Call Or Regret It Later](2019-01-28-yt-lwipfn9znk0.md) | sales-clients; pricing; mindset | "5 rules to rule your sales call" (money-early, style>substance/mirror, educe=draw-out, why>how>what, neutral=trust); positive mirror of 5-never-do; L3-candidate |
 | 2019-01-30 | [When A Client Wants More But Doesn't Want To Pay (Role-play)](2019-01-30-yt-Svb8fTwX0BE.md) | pricing; sales-clients; business | scope-creep/free-work role-play (Chris plays both roles); reset-frame, price-extras-separately, anchor-then-one-concession, let-client-de-scope |
 | 2019-02-04 | ★ [4 Different Buyer Types and How to Respond](2019-02-04-yt-SzW8TUoN01M.md) | sales-clients; pricing | 4 buyer types (price/indecisive/know-it-all/value) + per-type tactic; MLE + referral-fee mechanics; want-vs-need; L3-candidate |
@@ -1065,4 +1066,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-07-26 | ★ [Art of Being You](2026-07-26-yt-arFD056cke4.md) | mindset; branding | short; ⏳ **FRESHEST SOURCE IN THE CORPUS** — **adulting as recovery, not attainment** ("the person you always were… stripped away by socialization"); the lone-wolf conformity argument (🗣️ his reasoning, not science); authenticity → presence; ⚠️ reconcile with mindset §106 before promoting; L3-candidate |
 
 ---
-_1042 videos ingested (L2) so far._
+_1043 videos ingested (L2) so far._

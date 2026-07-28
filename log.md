@@ -11938,3 +11938,65 @@ costing**, the commercial counter-stereotype argument, the stacking arithmetic),
 Synthesis notes: none — this IS the synthesis pass. **No pending checkpoints; synthesis is caught up
 through batch 214 / L2 1,013.** The loop returns to Stage B (@thefutur P3:10, @TheFuturAcademy P3:72,
 860 shorts).
+
+## [2026-07-28] ingest | yt batch (@thefutur, 3) — he de-recommends his own signature framework
+
+Batch 215, Stage B (P3). L2: 1,013 → **1,016**. @thefutur P3 is down to **7 rows.**
+
+- `yt-JIbsSwvfytI` — **2025-06-12, "How to Talk MONEY Without Killing the SALE."** ★★★★★ **A solo
+  monologue and a landmark for `topics/pricing`** — the shortest source in the batch and by far the
+  most valuable.
+- `yt-IG0mgfkRz1Q` — **2025-06-22.** A two-way conversation announced as a limited series **built
+  around points of conflict.**
+- `yt-qEjGgP2A8pM` — **2025-06-26, Brian Miller.** Guest-dominated; kept for provenance.
+
+### ⚠️★★★★★ The finding: he tells most of his audience NOT to use value-based pricing
+
+> *"There's a lot that I personally talk about in terms of **value-based pricing. That's an ADVANCED
+> pricing strategy. I DON'T RECOMMEND IT FOR EVERYONE — especially if you're probably watching this
+> video, IT'S MORE THAN WHAT YOU NEED.** Just sit down and think: what should I charge for work like
+> this? And build a little bit of flexibility into your language."
+
+Value-based pricing is one of the frameworks this corpus most associates with him. The wiki already
+carries a mild *"value-based pricing is optional"* note; **this is much sharper — advanced, optional,
+and probably wrong for the viewer.** Flagged on the page as something that **must not be smoothed
+away.**
+
+### ★★★★★ Ghosting, explained from the buyer's side — and demonstrated against himself
+
+He argues it from the buyer's chair — *"they have a number in mind… if you go beyond that number,
+they're spooked"*; *"it's causing me too much stress to make a decision, so I just wait"* — and then,
+rather than leaving it as theory, **catches himself doing it in the present tense, with the amount
+attached**: a pool repair, a \$7,500 proposal on top of nine already spent, *"so I'm delaying and
+delaying, and the contractor is wondering when are you going to make a decision. **You see the problem?
+We're guilty of it on both sides.**"*
+
+The page instructs that the argument be promoted **with the pool story attached** — it works because of
+the self-indictment, not the analysis.
+
+Also: **the budget-upfront script** with two de-risking devices (*"out of respect for your time and
+mine"*, *"I'm not even committing to this"*), and a **graceful exit that names temperament** as a
+legitimate incompatibility alongside budget and scope.
+
+### One method, and one provenance note
+
+- ★★★★★ From the conversation episode: **he tests an emotional claim by hunting his own history for a
+  counter-example** before accepting it — *"I was trying to use my logical brain… I could not find a use
+  case where that wasn't [true]."* The corpus records the logical-access-to-emotion self-description
+  without an instance of it working; this is one.
+- ★★★ The Miller episode **exists because a stranger criticised a previous episode** and pitched a
+  better version — *"would you like to talk about thought leadership in a way that's not fluffy and
+  vague?"* → *"Yes, I would."* ⚠️ And a fence: **the guest's "one story you tell over and over" must not
+  be merged with the repeatable story credited to Kier McLaren** — separate sources, no connection.
+
+Ledger: L2 = 1,016. Open: **@thefutur P3:7**, @TheFuturAcademy P3:72, 860 shorts. Synthesis debt 1/10.
+
+**Synthesis notes:** **Four items.** ① ⚠️★★★★★ **The value-based-pricing de-recommendation** →
+`topics/pricing`: it **qualifies a framework the hub treats as central**, and the qualification is his,
+in his own voice, aimed at his own audience. **Promote it as stated.** ② ★★★★★ **Ghosting from the
+buyer's side** → `topics/sales-clients`, ✅ **with the pool story** — the self-indictment is the
+argument. ③ ★★★★★ **The budget-upfront script** → `topics/pricing`, including both de-risking devices
+and the be-still instruction; and **the graceful exit naming temperament** → `sales-clients`.
+④ ★★★★★ **The counter-example test** → `topics/mindset`, as a documented instance of how he adopts a
+claim about emotion. Also ★★★★ **money avoidance diagnosed as a self-worth problem** (*"not just a
+rejection of the proposal, but a personal rejection"*) → `mindset`.

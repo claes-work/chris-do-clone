@@ -14129,3 +14129,38 @@ One row closed **`no-content`** (`yt-S3SfgOGx5As` — caption track is the singl
 
 Synthesis notes: **four-type client taxonomy** (2021-11-17) → `topics/sales-clients` as a unit,
 keeping each behavioural tell; ⚠️ carry the Fisher / price-fisher disambiguation.
+
+## [2026-07-28] ingest | yt shorts batch 261 (@thefutur, 24 triaged, 0 ingested)
+
+Stage C. **24 shorts, 0 ingested.** Open shorts 242 → **218**. October 2021.
+
+### ⚠️ The interesting row is one I DIDN'T take
+
+`yt-bevAYp3Kufk` (*Using Urgency To Book Jobs*) is a first-person confession:
+*"**the one thing I did that was like sketchy** — but I think was genius at the time — I was
+**desperate to find work again**, so I'd email companies… *hey, I'm going to be in your city on
+these dates* — **I'd just look at the calendar** and make the dates up… **and it worked.**"*
+
+`sketchy` returns only **4**, and a confessed manufactured-scarcity tactic would be a strong
+biographical datum. **I closed it `attribution-uncertain` anyway**, on two signals:
+
+1. **Register** — conversational interview, with a stray *"yeah"* mid-flow indicating a second
+   participant, not the solo teaching voice.
+2. ⚠️ **The clincher, at the very end:** the speaker addresses a travel companion by name when
+   describing the trips. **That is not a relationship the subject's documented biography contains**,
+   and the anecdote (cold-emailing hotels claiming to be in town, self-funding the travel) does not
+   appear anywhere in his recorded history.
+
+**A confession is the most tempting kind of material and the worst kind to guess at** — attributing
+someone else's admitted "sketchy" behaviour to the subject would be a defamatory error, not a
+sloppy one. Closed unread into the wiki, with the reasoning on the ledger row.
+
+📌 **The name in that clip is deliberately not recorded anywhere** — it is a third party in a
+guest's story, with no bearing on the subject.
+
+Everything else held: `million-dollar job / walked away from a million` **16** ·
+`manufactured scarcity` **10** · `design thinking` **21**.
+
+**Stage C running total: 643 shorts processed · 18 ingested · 625 closed.**
+
+Synthesis notes: none.

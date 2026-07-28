@@ -10032,3 +10032,62 @@ persona guards: *"even the way you phrase it sounds so violent to me"* and *"I d
 it like 'F what everybody thinks' — **everybody wants me to be me**."* Also new to
 `entities/influences`: **Taki Moore**. Also: ★★★★★ *"inside this cold exterior, this stoic
 exterior, is still an **emotional immigrant boy**."*
+
+## [2026-07-28] ingest | yt batch (@thefutur, 3) — the brand commitment ladder, and the fullest coaching session in the corpus
+
+Batch 188, Stage B (P2). Three November 2025 uploads, all Content Lab-era. **No deferrals; no
+skips.** L2: 955 → **958**.
+
+- **[2025-11-08] How to Rebrand Your Instagram (Without Starting From Scratch)**
+  (`yt-G7LDbDjJP4A`) — ★★★ a hot-seat excerpt, and a rare case of him arguing **against a fresh
+  start**: keep the personal account, **archive rather than delete**, and *"it's a constant
+  pruning — that's all you do."* On the followers you'd lose: *"**when you change, your audience
+  changes**."* Ninth metrics-indifference attestation. Sharpest Content Lab line yet:
+  *"**everyone needs an art director or creative director in their life and their business — and
+  can't afford one**."*
+- **[2025-11-13] What ACTUALLY Makes People Buy?** (`yt-SAwZqaJl2Lk`) — ★★★★★ he stacks
+  **Marty Neumeier's brand commitment ladder** (*The Brand Flip*) onto **Maslow** and flags the
+  synthesis himself (*"I'm going to be like a conspiracy theorist here"*). Satisfaction → delight
+  → engagement → **empowerment/personal growth**, resolving to the pricing claim: *"**when you
+  sell a product or service that helps them achieve this, you will command more money**."*
+  Demonstrated with **Apple vs. Dell price pages** — and notably **fair to Dell**. Closes on
+  *"success leaves clues"* (Jim Rohn), used to tell a paying room they need never pay for a boot
+  camp again.
+- **[2025-11-15] Why No One Watches YOUR Content (Live Coaching)** (`yt-VkrkF0N-ZdE`) —
+  ★★★★★ a full hot seat with a business strategist and former structural engineer. Contains
+  ★★★★★ **his discovery epistemology, narrated live** — *"I never assume them to tell the truth…
+  we ask for evidence to back it up"* — ★★★★★ **a complete client-confidentiality protocol**
+  (permission script, abstraction rule, *"never breach that for the pursuit of a new
+  opportunity"*), and ★★★★★ **"it's a freaking lonely endeavor"** — an unguarded admission that
+  **he hates recording alone.** Plus **serve the snack, not the meal.**
+
+⚠️ **Two contradictions recorded, neither smoothed.** ① **Content Lab cadence** — *every single
+week* (11-08) vs. *twice a month* (11-15), seven days apart at launch; both stand.
+② **"It's a freaking lonely endeavor… cuz I hate doing it"** sits in the same video as the outro
+*"when I feel inspired, I write. Luckily, I'm inspired a lot."* The likely reading is
+medium-specific — writing is inspired, solo camera work is a chore — **but he never says so**, so
+both are kept.
+
+⚠️ **Contested attribution flagged, not repeated as fact:** he credits *"Here's to the crazy
+ones"* to *"a Jack Kerouac poem that they snaked"* — hedged by him with *"I believe"*, and kept
+with the hedge.
+
+⚠️ **Two names deliberately not recorded** on the 11-15 page: the speaker credited for *"the
+F-15"* and the therapist friend — the captions cannot support either, so the claims are recorded
+**without attribution** rather than guessed. The member's first name is flagged as
+spelling-uncertain.
+
+Synthesis notes: **four genuinely new items.** ① ★★★★★ **The Maslow × brand-commitment-ladder
+mapping**, with all four rungs and his own hedge — this is the missing causal spine under years of
+corpus material asserting that emotional value commands higher prices, and it belongs on
+`topics/pricing` with the **Apple/Dell price-page demonstration** attached. ② ★★★★★ **"I never
+assume them to tell the truth"** plus the live evidence check — the clearest statement of his
+discovery epistemology anywhere, and a natural companion to *invite the no* on
+`topics/sales-clients`. ③ ★★★★★ **The client-confidentiality protocol** — ask permission, abstract
+the details, never leave a traceable thread, *"and have betrayed no one"* — a complete, usable
+procedure that exists nowhere else in the corpus. ④ ★★★★★ **"It's a freaking lonely endeavor"** —
+he dislikes solo recording and says why, which the persona should carry because it complicates
+the effortless-creator image. Also new: **rebrand-in-place** (archive, don't delete; constant
+pruning) on `topics/content-strategy`; **the danger of smart people**; **snack not meal** with the
+curiosity-gap split; **Marty Neumeier's *The Brand Flip*** as a new work on `entities/influences`;
+and ⚠️ **Content Lab priced at \$500/mo, \$5,000/yr** on `entities/the-futur`.

@@ -10606,3 +10606,66 @@ small tweaks"* — which governs how Chris coaches everyone else.
 Synthesis notes: none — this IS the synthesis pass. No pending checkpoints remain; the loop returns
 to Stage B ingest next iteration (@thefutur P2:103 open, plus the `yt-97f8zw1mbik` caption-fetch
 retry).
+
+## [2026-07-28] ingest | yt batch (@thefutur, 2 + 1 deferred) — the $200k ceiling, and the ethics answer
+
+Batch 195, Stage B (P2). L2: 973 → **975**. **One deferral; one row diagnosed and closed; one bug
+of my own making found and fixed.**
+
+⚠️ **A BUG I INTRODUCED, caught and fixed.** Last batch I left a note on `yt-97f8zw1mbik` that
+contained the words *"no-captions"* and *"unavailable"*. `tools/ingest_batch.py` filters open rows
+with `FLAG_RE = \b429\b|no-captions|unavailable|dup-of` **against the notes field** — so my own
+note **silently excluded the row from selection**. This is the exact failure mode the code comment
+warns about (the batch-112 false positive, where a `views=429344` note hid four rows). Note
+rewritten without trigger words, and the rewrite now carries a warning against reusing them.
+
+✅ **And then the row was diagnosed properly rather than guessed at.** After a third fetch failure I
+ran `yt-dlp --list-subs` directly: **it is a MEMBERS-ONLY video** — *"Join this channel to get
+access to members-only content."* Not a transient error, not a captions problem: it is paywalled
+behind channel membership and cannot be ingested. Marked `skipped` with that reason. ✅ This is
+corroborated in-corpus: 2026-05-19's outro prices a **members-only library at \$15/month**.
+
+- **[2026-05-19] Your First Million Is Closer Than You Think** (`yt-nY58IHYAARM`) — ★★★★★ supplies
+  three things the corpus needed. ★★★★★ **The \$200k ceiling**: *"getting past \$200,000 per
+  engagement was hard… we can win these 75% of the time… **\$250k? Can't win these. We dropped to a
+  20% close rate. What is wrong with me?**"* → his coach's **minors/majors** diagnosis (the
+  competition set goes regional → national → international) → and ★★★★★ **the unlock, which wasn't
+  craft**: *"the breakthrough for me, believe it or not, **wasn't the design work**… **he gave me
+  permission to ask the question that I was thinking.**"* This gives **the tiers** its origin, its
+  arithmetic and its resolution. ★★★★★ **The completed referral script** — the corpus had three
+  steps from 2026-03-10; this adds the fourth, and it's the one that makes it work: *"I'm betting
+  you probably didn't have a chance to speak to them"* → *"**because people will lie to you. So you
+  already give them a way out… you remove the shame and the guilt.**"* ★★★★★ **The supply-chain
+  side door** (reach Nike through Vibram and Gore-Tex). ⚠️★★★★★ **And a figure for the decline:**
+  *"I'll tell you, **I lost a million dollars in revenue. I'm not a loser.**"*
+- **[2026-06-03] The Psychology of Making People Buy** (`yt-k520NhbFhIE`) — ★★★★★ half a
+  **category-creation masterclass** (blue ocean; the *Innovator's Dilemma* Honda story; Method
+  Soap, Dude Wipes, Liquid Death; **PAS with the caveat that you must first find a NEW customer**),
+  half ★★★★★ **the most direct answer he has given to the manipulation charge.** He concedes
+  predatory practice exists, **refuses self-exemption** (*"you are all complicit in the lie…
+  unless you live in a white room with nothing branded"*), and draws **one specific line**:
+  *"**I'm not manipulating anybody. I don't believe in lying to anyone. If you create false
+  scarcity, that's a problem for me.**"*
+
+⚠️ **DEFERRED (once): `yt-m30YwxRJYcc` — 2026-05-14, "You Don't Need a Lifetime of Therapy", 80 KB
+— the largest single transcript in the corpus.** Therapy is a high-value topic (he calls it his
+biggest ROI) and it deserves full treatment rather than a rushed one. Transcript already fetched.
+**First in the next batch; not to be deferred again.**
+
+Synthesis notes: **six genuinely new items.** ① ★★★★★ **The \$200k ceiling** — *the tiers* now has
+a documented origin, real close-rate numbers, and the fact that **the fix was a sales conversation,
+not better work.** ② ★★★★★ **The referral script's fourth step**, which reframes the follow-up as
+giving the other person an out — *"you remove the shame and the guilt."* ③ ★★★★★ **The supply-chain
+side door**, a client-acquisition strategy with no equivalent in the corpus. ④ ★★★★★ **The ethics
+answer**, which belongs on `topics/mindset` and should travel with the **con-artist etymology**
+(*"the only difference between you and a criminal is they're doing it with lies — you should do it
+for real"*) and **real vs. false scarcity** (Priestley) as its operational half.
+⑤ ★★★★★ **Category creation** with three case studies and the *"forget about your category, you're
+too close to it"* exercise. ⑥ ★★★★★ **BAR** with the correction he accepted — *"you can't use a
+belief to change a belief"* — which explains why his coaching is always *do this specific thing*
+rather than *believe this*. Also new: **the rules of one** (a **fourth** register of the focus
+argument); **trading up**; *"you can run fast by yourself, but you can run far with people"*;
+**the smallest win up front**; **disrupt yourself** with the *use one robot to fight another*
+prompt; and *"being good is expected — you have to be better than good."* ⚠️ 05-19 also
+**corroborates** *"a couple million before I turned 25"*: he says he broke \$1M **in the second
+year of business** (≈1996–97).

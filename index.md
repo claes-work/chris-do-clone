@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-28 (ingest yt batch @thefutur, 1 → **973 L2**; deferral cleared — ★★★★★ **the most complete statement of his branding system anywhere**: Unbland Yourself, the three-part essence (one thing · enemy · rallying cry), be-number-one and the 3× law, clothes as tools, ★★★★★ **the provocateur answer** — the style is a social prosthetic, and he says so — plus a candid 2025 business disclosure)_
+_Last updated: 2026-07-28 (ingest yt batch @thefutur, 2 → **975 L2**, 1 deferred — ★★★★★ **the \$200k ceiling** (the tiers with their origin, numbers and the unlock that wasn't craft), the **completed referral script**, the **supply-chain side door**, ⚠️ a **\$1M revenue-loss disclosure**; and ★★★★★ **category creation + the ethics answer** — *"you are all complicit in the lie"*, with one line drawn at false scarcity)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **973 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2026-04-07, no deferrals outstanding; 1 caption-fetch error open: yt-97f8zw1mbik] + the 2026-07-21 fresh upload; synthesized through batch 184 → persona **v21**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **975 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2026-06-03; **1 deferral outstanding: yt-m30YwxRJYcc 2026-05-14**] + the 2026-07-21 fresh upload; synthesized through batch 184 → persona **v21**).
 
 ## Topics
 

@@ -13712,3 +13712,39 @@ Also closed: social proof (`social proof` **19**, in topics/persona) · the coff
 Synthesis notes: **Blair Enns four-priority ladder** (2022-07-05) — promote as a UNIT to
 `topics/sales-clients`, ⚠️ credited to Enns with Chris as relayer; add the dated attestation to
 `entities/influences`; ⚠️ do NOT promote to `persona/`.
+
+## [2026-07-28] ingest | yt shorts batch 249 (@thefutur, 25 triaged, 0 ingested)
+
+Stage C. **25 shorts, 0 ingested.** Open shorts 508 → **483**. A **June–July 2022 specialization
+cluster** — ~10 of the 25 are cuts from the same positioning/specialize run.
+
+### ⚠️ Eighth near-miss — caught by the single-token rule, again
+
+`yt-U328wWKwhw0`: *"**long-term business planning is a fantasy** — don't spend your time writing a
+business plan that's three to ten years out. **Plans are based on the past to drive the future**,
+and that doesn't make sense."*
+
+My phrase probes returned **0** (`long.term business planning`, `planning is a fantasy`). The corpus
+writes it **plural and reordered** — *"Long-term business **plans** are a fantasy"* — at
+`business.md` **§1239**, dated **2019-09-17**, already carrying a ⚠️ reconciled tension note. The
+short token `business plan` returns **19**.
+
+**Three near-misses in this run have now had the same shape**: my wording of a phrase differed from
+the corpus's by a plural, a hyphen, or an acronym. **The single-token rule has caught all three.**
+
+### The rest, resolved
+
+| Short | Token | Corpus | Verdict |
+|---|---|---|---|
+| *"lucky companies have fans, the best have an audience"* + **out-teach your competition** | `out.?teach` **8** | audience ladder in `content-strategy` §2004 (strangers → friends → customers → casual fans → true fans, 2020-12-07) | dup |
+| *"culture is a byproduct of consistent behavior — culture is action, not words"* | `culture` **11** in topics/persona | `business.md` **§9** (build a creative culture; hire *and* fire on values) | dup |
+
+⚠️ **The culture short was the closest call.** `culture is action|culture is a byproduct` and
+`non-thinkers` both return **0**, and the aphorism is sharper than what §9 holds. **I closed it
+anyway**: §9 already carries the substance (values-based hiring and firing, the unmanaged-culture
+failure at Blind, the named components), and a **crisper phrasing of a recorded doctrine is a voice
+datum, not a new belief.** Same call as `middle manager` in batch 246, and made for the same reason.
+
+**Stage C running total: 378 shorts processed · 16 ingested · 362 closed.**
+
+Synthesis notes: none.

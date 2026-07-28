@@ -14188,3 +14188,37 @@ Others held: `creative clients are the worst` **3** · `failing forward` **2** �
 **Stage C running total: 663 shorts processed · 18 ingested · 645 closed.**
 
 Synthesis notes: none.
+
+## [2026-07-28] ingest | yt shorts batch 263 (@thefutur, 25 triaged, 1 ingested)
+
+Stage C. **25 shorts · 1 ingested · 24 closed.** Open shorts 198 → **173**. L2 = **1039**.
+
+**Ingested:** [[wiki/sources/2021-09-17-yt-kBkNj7aHSu4]] — *Is School Worth The Price?*
+★★★★ **The distinction that underwrites his entire education critique — and the corpus never held
+it.** `confuse information` **0** · `information is a commodity` **0** · `education.{0,20}outcome`
+**0**.
+
+> *"**Information is a commodity — it's at the end of a search string on Google.** The difference
+> between information and education is **there's an OUTCOME we're trying to help you reach.**"*
+
+✅ **It is a definition by OBLIGATION, not by content.** A book and a course can carry identical
+material; what separates them is that *"**the person who publishes a book… markets it to you, after
+which they do nothing**,"* whereas a school *"**has a commitment to you**… that you have some
+mastery over the thing you signed up for."* The hub already held his *conclusions* about design
+school — tuition figures, the credential-over-practice grievance — **but not the premise underneath
+them.**
+
+⚠️ **One thing I made sure not to flatten.** The clip is **notably NEUTRAL**: he names what a school
+actually sells (commitment, facilities, network) and poses the price question as an open subtraction
+— *"strip out the information, value the rest, is it worth it?"* His recorded positions on design
+school are mostly sharp, and it would have been easy to file this as more ammunition. **The page and
+the promotion note both say the opposite: do not make him more anti-school than this source is.**
+
+Also probed and closed: *"you're paying me to help you figure out what you don't see"* (the
+doctor-runs-tests script — `figure out what you don't see` **1**, and the diagnose-before-prescribe
+doctrine is saturated) · the **beta-test-on-Twitter** content workflow (`repurpos` **29**).
+
+**Stage C running total: 688 shorts processed · 19 ingested · 669 closed.**
+
+Synthesis notes: **information vs education** (2021-09-17) → `topics/business`, ⚠️ carrying the
+neutral subtraction framing and the solo-format attribution basis.

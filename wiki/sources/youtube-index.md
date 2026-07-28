@@ -583,6 +583,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2021-08-10 | [Tips On How To Price Your Design Work And Make A Profit](2021-08-10-yt-I48unL6m0eU.md) | pricing; business | Chris solo whiteboard bid demo; cost-stack build-up ($5k naïve → ~$20.4k business bid); restatement of bid-buildup |
 | 2021-08-28 | ★ [Bidding Fundamentals — How To Price Projects](2021-08-28-yt-TEg5xGw4Q3U.md) | pricing; sales-clients; business | Chris (Pro Group); undefined-scope bidding — scope-variation funnel, ROM, SWAG, estimate-high + 15% contingency; ⚠️ cost-plus-is-history; L3-candidate |
 | 2021-09-04 | [Animations & Interactions: Dark Mode (Built By Hand)](2021-09-04-yt-BpTMsCL_9Bs.md) | design-craft | ⚠️ NOT Chris — Ben Burns + guests Greg Gunn & Tim Ricks; Webflow animation tutorial (context/do-not-train) |
+| 2021-09-17 | ★ [Is School Worth The Price?](2021-09-17-yt-kBkNj7aHSu4.md) | business; mindset; content-strategy | short; **information vs education** — information is a commodity at the end of a Google search, education is an **outcome plus an obligation**; ⚠️ notably NEUTRAL framing of what schools sell; L3-candidate |
 | 2021-10-13 | [Change The Way You Solve Problems Using Design Thinking](2021-10-13-yt-MMouHj75YwQ.md) | design-craft; business; mindset | ⚠️ NOT Chris — Futur team member "Eric"; design-thinking methodology (problem-tree, root-cause); context/do-not-train |
 | 2021-10-19 | ★ [Work Life Balance – 90 min Whiteboard Session](2021-10-19-yt-5ZNmZshk8kk.md) | mindset; business; content-strategy | Chris solo; work-life INTEGRATION (MFP: Money/Fulfillment/Purpose × PSS: People/Self/Spirit → find the overlap); rejects balance as zero-sum; ⚠️ evolution vs 2019 compartmentalize; L3-candidate |
 | 2021-11-17 | ★ [4 Types Of Clients](2021-11-17-yt-YYGfApY1alk.md) | sales-clients; business | short; **a four-type triage taxonomy** — Fisher (asks price first, building an RFP) · Square Pegger (not the decision-maker, defending upward) · Cost Conscious (design as commodity) · Perfect Client; ⚠️ distinguish from "price-fisher" at sales-clients 2442; L3-candidate |
@@ -1061,4 +1062,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_1038 videos ingested (L2) so far._
+_1039 videos ingested (L2) so far._

@@ -12726,3 +12726,67 @@ Synthesis debt 6/10.
 
 **Synthesis notes:** none — no source ingested. ⚠️ **Five held items carry forward**, two of them with
 explicit instructions to **check for duplication or caption error before writing.**
+
+## [2026-07-28] ingest | yt batch (@thefutur shorts, 3) — both checks collapsed their holds
+
+Batch 230, Stage C. L2: 1,027 → **1,030**. Open shorts: 827 → **822**.
+
+Resolved all five holds. ✅ **The two flagged checks did exactly what they were written for — and both
+killed the hold.**
+
+### ✅ Check 1: *"contour approach"* was a caption artefact
+
+Read in full, he says *"I have this **contour** approach to personal branding"* and then names **exactly
+two** components — **courage to be disliked** (already on 6 pages) and **meaningfully different**
+(covered). The word is plausibly a garble of *two-part* or *counter*, and **cannot be established**.
+
+⚠️ **Marked dup, with an explicit instruction NOT to add "the contour approach" as a named framework.**
+Inventing a framework name from a caption error is precisely what the hold prevented.
+
+### ✅ Check 2: *"too extra"* was the **"too much" list** in different words
+
+Also confirmed on a full read: make an *"extra list"* of everything you've been told is too much, don't
+judge while writing, then ask **"how is this an advantage?"** and reclaim it — *"your perceived flaws
+aren't flaws, they're your advantage."* **Same exercise, same flip.** Marked dup. ⚠️ Cross-clone note:
+it names **Gary Vee** as a third-party example — **not source material for that clone.**
+
+### The three that survived — and one is a real gap
+
+- ★★★★★ **A worked COST-PLUS pricing method** the corpus does not have. It argues for higher rates
+  constantly and never says **how to find the market rate** or **how to build a number up**. This does
+  both: *find three people **at or above your level**, average their rates* → then *"**act as if you
+  could not actually do any of the work yourself**"* → labour × days + PM = **break-even**, *"**this is
+  NOT where we stop**… **you need to add profit**"* → 8 × \$1,000 + \$3,500 = \$11,500 → +30% =
+  **\$14,950**. ✅ **Filed as the cost-plus alternative**, consistent with him de-recommending
+  value-based pricing to most viewers at 2025-06-12.
+- ★★★★ **An epistemic argument for language discipline** — *"people only experience you based on what
+  comes out of your mouth… your entire reputation is simply what you say."* ⚠️ **Filed beside the
+  non-violent-language thread, not inside it**: that thread is about *effect*; this is about **what is
+  knowable about you at all.** It sits under the Bezos reputation definition as its mechanism.
+- ★★★★ **Identity-purchase extended from transactions to engagement** — *"every time you're asking
+  someone to watch, subscribe, comment, join your email list or buy, **you have to tell them what else
+  they're buying**"* — crediting **Anna Lappé**, already a recorded influence.
+
+### ⚠️ A guard written into that last page
+
+It illustrates the argument with **a named living CEO and his company**, dated **August 2025**, and
+**discloses that he owns one of their cars**. Recorded **exactly as spoken, with the date and the
+disclosure attached** — the disclosure is what makes it a remark about brand meaning rather than a
+partisan one. ⚠️ **A persona must not restate it as current, or elaborate the political content.**
+
+### Running Stage C tally
+
+**43 shorts processed · 4 named-parent dups · 21 dup-of-corpus · 3 guest-only · 10 ingested.**
+✅ **The hold-and-check discipline has now caught two false positives in one batch** — which is a better
+result than three more pages would have been.
+
+Ledger: L2 = 1,030. Open: **shorts 822**, @TheFuturAcademy P3:37. ⚠️ Unscoped: 235 streams.
+Synthesis debt 7/10.
+
+**Synthesis notes:** **Three items.** ① ★★★★★ **The cost-plus method** → `topics/pricing`: rate research
+(*three people at or above your level, averaged*) and the *act-as-if-you-outsource* build-up **with the
+worked numbers**, ✅ **filed explicitly as the simpler alternative** he points most people to rather than
+value-based pricing. ② ★★★★ **Words as identity, argued epistemically** → `topics/mindset`, ⚠️ **beside
+the NVC thread, not merged**, and cross-linked to the Bezos reputation definition in `branding`.
+③ ★★★★ **Tell them what else they're buying**, extended to engagement → `topics/branding`, crediting
+**Anna Lappé**. ⚠️ **Carry the Tesla guard verbatim** if that source is cited.

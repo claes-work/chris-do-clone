@@ -13999,3 +13999,39 @@ outputs of but never names. Left unpromoted; noted for a future voice pass.
 **Stage C running total: 566 shorts processed · 16 ingested · 550 closed.**
 
 Synthesis notes: none. **Debt 9/10 — checkpoint fires next iteration.**
+
+## [2026-07-28] lint | synthesis pass 25 (Stage-C shorts, batches 248–257)
+
+Checkpoint fired at **10/10**. Scope: batches 248–257 (L2 1,035 → **1,036**).
+Targets: **`topics/sales-clients` + `entities/influences`**. **No system-prompt bump — v24 stands.**
+
+⚠️ **Ten batches, ~230 shorts, exactly ONE ingest.** That is the honest headline, and it is the
+strongest saturation evidence the run has produced.
+
+### Promoted (1)
+
+★★★ **Blair Enns's four-priority ladder** → `sales-clients` **§124**, plus a dated attestation on
+`entities/influences`. The hub already held **45 pages** of *win without pitching* material and all
+four rungs individually — **but never the ordering**, which is the part that decides what you do
+next. Written up as a **descent, not a menu**, with his own gloss (*"we can't be an expert when we
+make too many concessions"*) shown to close the loop back to rung 1: **walking away is what keeps the
+expert claim true.**
+
+⚠️ **Attributed to Enns at every site, and explicitly NOT promoted to `persona/`** — the framework
+isn't his and the clip carries no self-identification.
+
+### Recorded outside the wiki proper (1)
+
+The **typeface gap** stays in [[wiki/gaps.md]], not in a topic hub. Three *Fonts You NEED To Know*
+clips share one templated opening; the honest state is *"we don't know who narrates this series"*,
+and a gaps entry says that, whereas a hub entry would imply we do.
+
+### Noted, unpromoted (1)
+
+**He publicly re-argues his own doctrine when audiences over-apply it** — twice this run (the
+"pompous and arrogant" pricing defence, the "you're misinterpreting anchor high" clarification).
+The corpus records the *outputs* of that habit in several places but **never names the habit**.
+Left for a voice pass with a real sample, not asserted from two clips.
+
+High-water mark advanced to **batch 257 (L2=1,036)**. Pass 25 logged in
+`pipeline/synthesis-state.md`.

@@ -171,6 +171,12 @@ sources**, not part of his personal network — no entity pages needed:
 - **Jim Rohn**, **Brian Tracy** — personal-development / discipline and goals.
 - **Blair Enns** — pricing and winning-without-pitching for creatives. Co-host of the
   2021 WWPM Clubhouse rooms; full context page: [[blair-enns]].
+  ⏳ **2022-07-05 — a further dated attestation, and the most structured one.** Chris relays Enns's
+  **four-priority ladder** as a single ordered hierarchy — **win without pitching → derail the pitch
+  → gain the inside track → walk away** — adding his own gloss that *"we can't be an expert when we
+  make too many concessions."* ⚠️ **The ladder is Enns's, not his.**
+  ([[wiki/sources/2022-07-05-yt-FTfVHwegSeM]], promoted to
+  [[wiki/topics/sales-clients/sales-clients]] §124.)
 - **Jonathan Stark** — value-/hourly-billing-abolition author in the same pricing orbit as
   Blair Enns. Chris cites Stark's **"why this / why now / why me"** three-question framework
   (why do this at all → why now / can't wait → why me, given I'm likely more expensive) as

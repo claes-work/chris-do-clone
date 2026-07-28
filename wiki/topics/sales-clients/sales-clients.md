@@ -4630,6 +4630,41 @@ an ask separated by nothing is a trade; separated by time, it becomes goodwill.
 demands an email, the free consult that turns into a pitch. ⚠️ **Those are not too-small gifts; they
 are gifts with too small a gap.**
 
+## ★★★ 124. The four-priority ladder — Blair Enns's, relayed (added 2026-07-28, pass 25)
+
+> ⚠️⚠️ **THE FRAMEWORK IS BLAIR ENNS'S**, from *The Win Without Pitching Manifesto*. Chris teaches it;
+> he did not originate it. Attribute accordingly wherever this is used. ([[blair-enns]])
+
+The hub already carries **45 pages' worth** of *win without pitching* material, and the individual
+rungs appear scattered across three source pages — but **the ORDERING was never recorded as a unit**,
+and the ordering is the content:
+
+| # | Priority | The condition that pushes you down a rung |
+|---|---|---|
+| 1 | **Win without pitching** | positioning + expertise are strong enough that conversation closes it |
+| 2 | **Derail the pitch** | you can't avoid the process, so you change its shape |
+| 3 | **Gain the inside track** | you must compete, so you compete from inside |
+| 4 | **Walk away** | the terms are unacceptable |
+
+> ★★★★ *"First we want to **win without pitching** whenever possible — just use conversation to win
+> the job. **Our positioning and our expertise** allows the client [to] just say *we want to work with
+> you*. **If not, we try to derail the pitch.** And **we want to gain the inside track.** Or, when
+> things don't work and we don't have the terms that we want, **we just walk away.**"*
+
+### ★★★★ The gloss, and this part IS his framing
+
+> ★★★★ *"**We can't be an expert when we make too many concessions. We have to walk away.**"*
+
+✅ **This ties rung 4 back to rung 1.** Walking away is not posturing or leverage — it is **what keeps
+the expert claim true**. Concede enough and the positioning that made rung 1 possible stops being
+real, so the ladder is self-reinforcing rather than a list of fallbacks.
+
+⚠️ **Read it as a DESCENT, not a menu.** Each rung is what you do when the one above is unavailable.
+([[../../sources/2022-07-05-yt-FTfVHwegSeM]])
+
+⚠️ **Not promoted to `persona/`**: the framework is not his, and the source clip carries no
+self-identification.
+
 ## Sources
 
 - [[wiki/sources/2014-08-20-yt-1HuIfKDr54A]] — How To Ask for the Sale Pt.1 (2014-08-20) —

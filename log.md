@@ -11663,3 +11663,68 @@ flagged as his own theory since he says so. ⑤ ★★★★ **"Happiness is per
 for `persona/biography`: *"actually, I don't want to do media at all"* and *"I'm just reluctant, I
 guess"*, which sit against the volume of output he is known for; and the **accessibility correction**,
 which he calls humbling.
+
+## [2026-07-28] ingest | yt batch (@thefutur, 3) — a landmark biographical interview
+
+Batch 212, Stage B (P3). L2: 1,004 → **1,007**. ✅ **No deferrals outstanding.**
+
+- `yt-XOGrJDvWAbM` — **2024-10-22, "Chris Do Immigrant Journey Interview."** ★★★★★ **A landmark.**
+  Chris is the *subject*, not the host.
+- `yt-BGwAGtgBMto` — **2024-09-24, comedian interview.** The row deferred last batch, **done as
+  required** — and it had one genuinely strong Chris item, which is a mark against the deferral.
+- `yt-EBTDtikou-I` — **2025-04-16, Tom Bilyeu.** Guest-dominated and low yield; fenced.
+
+### ★★★★★ The landmark
+
+The fullest first-person account in the corpus of what the refugee background left him with — and
+what makes it good is that **he does not romanticise it**:
+
+> *"When you grow up with war, or as a refugee, and all the hardships — **in the moment it doesn't
+> feel like it's a gift. But it actually is a gift, because you learn to adapt to survive out of
+> necessity**… that becomes the normal, that's the baseline. **So as you progress in life, it seems
+> like nothing is ever as bad as it used to be.**"
+
+The trauma itself he attributes **to his parents**, dates his own awareness of it to therapy *"much
+later"*, and credits them for shielding the children from it. The grades standard gets its sharpest
+telling — *"if you get a C, don't even bother coming home"* — with a comparison that lands it (a
+classmate getting a BMX bike for a C) and, best of all, **the reward structure named**: *"there's no
+reward. It's just lack of punishment — is all that is."*
+
+★★★★★ **And the strongest general idea in the batch — attachment as the mechanism of being stuck**:
+we are *"more afraid of change and the unknown than we are of our problems"*, so we *"stick with the
+devil that we know."* The example is a childhood defence that *"even though it didn't serve you, it
+protected you"* and is still being carried by someone who is now *"a captain of industry"* — *"nobody's
+picking a fight with you anymore. That was in the past."*
+
+### Two attribution cautions recorded on that page
+
+- The line *"oftentimes we are responding to things that are not here right now"* is credited to
+  **"my business mentor" — and he does not name him.** The corpus identifies that role as Kier
+  McLaren, but **this source does not say so**, so the page records the attribution as given.
+- *"Do less but better"* is flagged **by him** as uncited: *"I forget who — I should be able to cite
+  this quote."* ✅ **That is the third instance in this run of him flagging a borrowing he can't
+  source**, after the James Victore adaptation and the Blair Enns book line.
+
+### On the deferral
+
+The comedian interview yielded ★★★★★ **the stacking argument** — *"if you just look at yourself as one
+dimension, you'd have to be the very best in the world to really make a dent; if you incorporate all
+of who you are, very few people can compete"* — which supplies the **competitive arithmetic** for
+personal-brand material the corpus otherwise states as an identity claim. Worth noting plainly: **the
+deferral judgement was wrong on this one.** Guest-dominated did not mean low-yield.
+
+Ledger: L2 = 1,007. Open: @thefutur P3:16, @TheFuturAcademy P3:72, 860 shorts. Synthesis debt 8/10.
+
+**Synthesis notes:** **Five items.** ① ★★★★★ **The refugee inheritance** → `persona/biography`, and it
+must be promoted **with its hedge intact** (*"in the moment it doesn't feel like a gift"*) and with the
+trauma attributed to his parents rather than claimed as his own. ② ★★★★★ **The grades standard** →
+same, replacing the thinner *"A is just kind of average"* entry: the BMX comparison and **"it's just
+lack of punishment"** are what make it legible. ③ ★★★★★ **Attachment as the mechanism of being stuck**
+→ `topics/mindset`, with the picked-on example, the mentor's *"responding to things that are not here
+right now"* (⚠️ **mentor unnamed in this source**) and the unburdening argument. ④ ★★★★★ **The stacking
+argument** → `topics/branding`, filed as the **competitive arithmetic beneath you-to-the-power-of-you**
+rather than as a restatement of it. ⑤ ★★★★ **"Blame goes both ways"** → `topics/mindset`, notable
+because he applies it to **credit as well as fault**. Also: *"as a martial artist"* and the Bruce Lee
+line for `entities/influences`; *"I like to study the craft even though I have no aspirations"* as a
+concrete instance of look-outside-your-industry; and a **third attestation of the thread-return habit**
+for `persona/voice`.

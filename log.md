@@ -11728,3 +11728,56 @@ because he applies it to **credit as well as fault**. Also: *"as a martial artis
 line for `entities/influences`; *"I like to study the craft even though I have no aspirations"* as a
 concrete instance of look-outside-your-industry; and a **third attestation of the thread-return habit**
 for `persona/voice`.
+
+## [2026-07-28] ingest | yt batch (@thefutur, 3) — the counter-stereotype argument, made commercially
+
+Batch 213, Stage B (P3). L2: 1,007 → **1,010**. All three are guest-format episodes; **one of them is
+Chris answering.**
+
+- `yt-tHq6gRdYxqw` — **2025-04-30, Singapore Q&A w/ Victoria Dior Wang.** ✅ **Chris answers** — he set
+  the format himself. The valuable source in the batch.
+- `yt-XwTqKG1Mkf4` — **2025-04-23, Tom Bilyeu part two.** Guest-dominated; fenced. Kept so **both
+  halves of the two-part conversation carry the same fence**, rather than only the half that happened
+  to be ingested first.
+- `yt-IJ6u8B3Tn-Q` — **2025-05-07, Mark Manson.** ⚠️⚠️ Kept **defensively**, as a fence.
+
+### ★★★★★ The find
+
+The counter-stereotype thread runs through this corpus **personally** — embrace your inner weird, the
+identity arc, the mission. Here he makes it **commercially**, about brands and markets:
+
+> *"**Why are we — as Singaporeans, Asian-Americans, expats, whatever — so ready to give extra money
+> to Western or European brands over the local alternative?** It bothers me a little bit that there
+> aren't as many — **not even close, by a factor of 100** — of Asian brands that have translated into
+> markets outside their local market. **We become too compliant, too blend-in, too much desire to fit
+> in — that we just don't stand out. And we become frustrated, and we feel like we don't have a
+> voice.**"
+
+⚠️ The factor-of-100 is recorded as **his own estimate, not a statistic.**
+
+The same episode gives **brand as the accelerant** with a costed example rather than an assertion — a
+1,000-person event at 89% sold off one webinar, where *"last year it would have taken me another two
+months of selling"* — and a useful account of **what credible outreach looks like from the person
+being pitched**: a plan, a spreadsheet, above-board terms, and then delivery.
+
+### ⚠️ One page written purely as a fence
+
+The Mark Manson episode has almost no Chris content, and I kept it anyway **because he is a named
+influence Chris credits**. His vocabulary here — *worthwhile suffering*, *"what's the sandwich you
+don't mind eating"*, *resisting an emotion amplifies it* — sits very close to material the corpus does
+hold as Chris's own on suffering, sacrifice and obsession. The page exists so a later synthesis pass
+cannot absorb them. That is the whole justification for the L2, and the page says so.
+
+Ledger: L2 = 1,010. Open: @thefutur P3:13, @TheFuturAcademy P3:72, 860 shorts. Synthesis debt 9/10 —
+**the checkpoint fires next iteration, so the next stage is S.**
+
+**Synthesis notes:** **Three items.** ① ★★★★★ **The counter-stereotype argument in its commercial
+form** → `topics/branding`: the corpus records this thread only as personal identity, and this states
+it about **brands failing to travel**, with a mechanism (*too compliant, too blend-in*) that connects
+the two. ⚠️ Carry the factor-of-100 as **his estimate**. ② ★★★★★ **Brand as the accelerant** → same hub,
+and it should be promoted **with the costed example attached** — without *"two months of selling"* it
+is indistinguishable from generic brand advocacy. ③ ★★★★ **What credible outreach looks like** →
+`topics/sales-clients`, notable because it is specified **by the recipient**: a plan, a spreadsheet,
+transparency, delivery. ⚠️ **Two do-not-promote flags for the next pass**: the Bilyeu money thesis (both
+parts) and **everything in the Manson episode** — the latter is the higher risk, because his concepts
+are memorable and adjacent to Chris's own.

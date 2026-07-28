@@ -12900,3 +12900,69 @@ Synthesis debt 8/10.
 **Synthesis notes:** none — no source ingested. ⚠️ **Two carry-forwards**: verify the **Jung/shadow**
 coverage by reading the authenticity-gap page directly (not by grep), and check whether **"commit to
 the bold statement, then hold them to it"** is present in the acclimation/commitment-trap material.
+
+## [2026-07-28] lint | ⚠️ SELF-CORRECTION — a broken phrase-check produced three false "new material" claims
+
+Batch 233. **No new source ingested.** L2 unchanged at **1,032**. Open shorts: 804 → **803**.
+
+### What happened
+
+Last batch I held a short because a grep for Jung returned **zero matches**, while the index said the
+authenticity-gap page was *"grounded in Jung"*. **I flagged the grep as more likely wrong than the
+corpus and refused to act on it.** This iteration I checked by reading the page directly, as the hold
+instructed.
+
+✅ **The corpus was right: `authenticity-gap.md` contains SIX mentions of Jung**, plus *Jungian*, *ego*
+and *shadow*. The held row is a duplicate and is now marked as one.
+
+### ⚠️ The bug — and it invalidated earlier conclusions, not just that one
+
+The failing pattern was **BRE alternation `\|` used with `grep -E`**, where `\|` is a **literal pipe**,
+not alternation. Every such check searched for a string that could not exist and returned a
+**guaranteed zero**.
+
+**I had used that form repeatedly.** Re-running the affected checks with correct syntax, and excluding
+the pages I wrote this session:
+
+| Claimed "absent from the corpus" | Actually present in |
+|---|---|
+| **Al Ries** | `topics/branding`, `persona/voice`, **2 source pages** |
+| ***"at or above your level"*** | `topics/pricing`, `topics/business`, `persona/beliefs`, the compiled prompt, a 2020 source |
+| **the hammer/nails adage** | **3 source pages** |
+
+⚠️ **Three pages I wrote in batches 228–230 asserted novelty that was false**, and one of them
+instructed the influences hub to **ADD Al Ries as absent.** That would have been a fabricated gap.
+
+### ✅ What I have corrected
+
+- **`2026-03-07-yt-A-LQwz40G7Y`** — the *"neither author appears anywhere in the corpus"* claim and the
+  **ADD** instruction, replaced with the accurate position: Al Ries is **already recorded**; what is new
+  is **the recommendation, its framing and the title.**
+- **`2025-08-31-yt-ulPzCD7P3oU`** — *"the corpus has no other method for discovering a market rate"*
+  replaced: the **at-or-above principle is already recorded**; what is new is **the arithmetic** (find
+  three, average them) and the build-up.
+- **`2025-11-24-yt-UhklGQya1r4`** — *"zero corpus matches for the hammer framing"* replaced: **he uses
+  it on at least three other pages**; the genuinely new part is **the causal claim**, not the adage.
+- **All three ledger notes** updated to match, each marked `⚠️ CORRECTED 2026-07-28`.
+
+✅ **Three checks were genuinely zero and stand**: *every dollar is a vote*, *kind words*, *sticky
+tension*. **And the Bungay Stanier upgrade and the sixth Blair Enns attestation are unaffected** —
+those rested on what he *said*, not on absence.
+
+### What this changes going forward
+
+⚠️ **Absence claims are the fragile ones.** *"He said X"* fails safe; *"the corpus does not contain X"*
+fails silently and then gets written into a hub as a gap to fill. **The rule from here: never assert
+absence on a single grep** — confirm with a second, differently-shaped query before any page claims
+something is new.
+
+✅ Worth noting the process did partly work: **the inconsistency was caught because the index
+contradicted the grep, and I held rather than wrote.** It should have been caught three batches
+earlier.
+
+Ledger: L2 = 1,032. Open: **shorts 803**, @TheFuturAcademy P3:37. ⚠️ Unscoped: 235 streams.
+Synthesis debt 8/10.
+
+**Synthesis notes:** ⚠️ **Corrections take precedence at the next pass.** The three pages above now
+carry accurate novelty claims; **the influences brief must NOT add Al Ries as a new name** — verify
+**Jack Trout** specifically and add only the *Positioning* title and the dated recommendation.

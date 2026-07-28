@@ -27,8 +27,11 @@ tags: [short, rate-research, cost-plus-build-up, worked-example, solopreneur]
 > they're charging.** Then **just average the three together** — add all three up and divide by three,
 > **and that's going to be the rate.**"*
 
-✅ **The corpus has no other method for discovering a market rate.** Note the constraint: *at or above*
-your level — **not peers, not below.**
+⚠️⚠️ **CORRECTED 2026-07-28.** This originally claimed the corpus had no method for discovering a market
+rate. **That was wrong** — a broken phrase-check returned a false zero. *At or above your level* is
+**already recorded** in `topics/pricing`, `topics/business`, `persona/beliefs` and the compiled prompt.
+✅ **What this source adds is the ARITHMETIC** — *find three, average them* — and the constraint stated
+explicitly: **at or above, not peers, not below.**
 
 ### ★★★★★ 2. Price as if you were not doing the work
 
@@ -88,9 +91,8 @@ is offered in the short.**
 
 ## L3 candidate
 
-★★★★★ — **promote.** Two items the hub lacks entirely. ★★★★★ **The rate-research procedure** — *three
-people at or above your level, averaged* — because the corpus argues for raising rates constantly and
-never says how to find out what the market pays. ★★★★★ **"Act as if you could not do any of the work
+★★★★★ — **promote.** Two items the hub lacks entirely. ★★★★ **The rate-research ARITHMETIC** — *three people, averaged* — ⚠️ **the *at or above your level*
+principle is already in the corpus**; what is new is the count and the averaging step. ★★★★★ **"Act as if you could not do any of the work
 yourself"** plus the build-up (labour × time + PM = break-even, then add profit), **with the numbers**.
 ✅ **File it explicitly as the COST-PLUS alternative** he points beginners to, alongside his
 de-recommendation of value-based pricing for most people.

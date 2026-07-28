@@ -26,6 +26,9 @@ hammer, all the problems look like nails.** That's the problem."*
 
 ⚠️ **The adage is proverbial** (commonly attributed to Maslow) and **he does not attribute it** — he
 introduces it as *"there's an expression"*, which is the correct hedge and is preserved here.
+⚠️⚠️ **CORRECTED 2026-07-28**: this page originally recorded the hammer framing as having **zero corpus
+matches**. **That was wrong** — a broken phrase-check returned a false zero; **he uses it on at least
+three other source pages.** ✅ **The genuinely new part is the CAUSAL CLAIM below**, not the adage.
 
 > ★★★★★ **The requirement it sets up:** *"**We need to find someone out there who has A BURNING URGENT
 > DESIRE to solve a problem they've felt MASSIVE PAIN AROUND.**"*

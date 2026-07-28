@@ -13806,3 +13806,31 @@ this is the third such row this run.
 **Stage C running total: 427 shorts processed · 16 ingested · 411 closed.**
 
 Synthesis notes: none.
+
+## [2026-07-28] ingest | yt shorts batch 252 (@thefutur, 25 triaged, 0 ingested)
+
+Stage C. **25 shorts, 0 ingested.** Open shorts 434 → **409**. An **April–May 2022** run:
+three *101 Things I Learned in Business School* cuts, an audience-building cluster, a Tony Robbins
+quote card.
+
+**Closest call:** `yt-34Eeq5RWSc0` *"Overcome Your Fear of Public Speaking"* —
+*"we get **hyper self-conscious**… **the more you focus on something, the more it becomes a
+problem.** So **invert the lens** and put it onto the world and the people around us."*
+
+`hyper self-conscious` returns **0**. The rare token `invert the lens` returns **4** — and the
+trail is decisive: [[wiki/sources/2020-02-04-yt-DWBZRZRkEGk]] carries the same cure for stage fright
+verbatim, and it is **already compiled into `persona/system-prompt.md` §1964** (*"invert the lens off
+yourself and onto the room"*, with *"I'm here for the other person"*). Closed
+`dup-of:yt-DWBZRZRkEGk`.
+
+📌 **Note what the zero was measuring.** `hyper self-conscious` is the short's *symptom* wording; the
+corpus indexes the *remedy*. **Probing the problem statement finds nothing when the corpus is
+organized by the fix** — a fourth distinct way a phrase probe can read as a gap, alongside plurals,
+hyphens and acronyms. The single-token habit covers it, but the reason is worth recording.
+
+Others: `tony robbins` **39** · `retire` **20** · `101 things` **5** — all held.
+`yt-DNpyP-YIE-U` closed **`guest-primary`** (a Jake Fellman profile; already covered on 5 pages).
+
+**Stage C running total: 452 shorts processed · 16 ingested · 436 closed.**
+
+Synthesis notes: none.

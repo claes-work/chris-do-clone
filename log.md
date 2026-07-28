@@ -10211,3 +10211,68 @@ Also new: **farming not hunting**; **omni-channel distribution** with the same-c
 production**; **pattern interrupt**; and ★★★★ a striking piece of behaviour — **he grades belief
 by vocal register** (*"she didn't go high pitch on me. She went lower register"*). To
 `entities/influences`: **The Moth Radio Hour**.
+
+## [2026-07-28] ingest | yt batch (@thefutur, 3) — the market is bigger than your target, an offer built live, and the underdog playbook
+
+Batch 191, Stage B (P2). Three Jan–Feb 2026 uploads, **all three ★★★★★**. **No deferrals; no
+skips.** L2: 964 → **967**. Read in order they are a course: *find the customer → package the offer
+→ win against someone bigger.*
+
+- **[2026-01-22] Why Your Customers Don't Buy From You** (`yt-mgNTZRpZmEk`) — ★★★★★ three named
+  frameworks the corpus lacked. ★★★★★ **"The market is bigger than your target"** — *"when we aim
+  out here, we hit zero people"* — which defends narrow targeting on the grounds that **the spill
+  is wide**, the best answer to that objection anywhere in the corpus. Plus **the three questions
+  on every call**, ★★★★★ **"steal their customers"** for anyone with no ICP at all, ★★★★★ **needs
+  (external) vs. wants (emotional)** with *"what do they feel about people like us?"*, **TGO**
+  (credited to Nicole Johnson), and ★★★★★ **AIDA + C** ending in **advocacy** — *"most of us stop
+  here… at some point you'll be irreplaceable."*
+- **[2026-01-30] How to Package Your Service Correctly** (`yt-LdPHurNaIec`) — ★★★★★ **an
+  irresistible offer built live from nothing** in four moves (dream outcome · perceived certainty ·
+  time to result · friction). The value is that **the language work happens in public**: *mood
+  board* → **alignment**, *checklist* → **road map**, *kickoff* → **discovery** (*"same meeting,
+  different feeling about it"*), anchored by ★★★★★ *"**people don't buy press-on nails. They want
+  to show off to their girlfriends.**"* Contains ★★★★★ **the two-option speed premium** (14 vs. 30
+  days, priced) and ★★★★★ *"**how have they been screwed over before?**"*
+- **[2026-02-10] The Sales Strategy to Beat the Competition** (`yt-DK9DGsc3eaY`) — ★★★★★ a
+  scene-by-scene breakdown of ***Air*** yielding **the underdog playbook**: cast legitimate doubt,
+  invert the competitor's strength, arm the buyer with questions — **and be ready for the same
+  question yourself.** Then ★★★★★ **the Carrie story**, a real client who won at **twice** the
+  competing quote, with its two named mechanisms (**legitimate doubt** and **price priming**) and
+  the unsparing diagnosis: *"if it happens to you more than once from the same person, **whose
+  fault is it really?**"* Closes on ★★★★★ *"**she doesn't know how things are done**"* as the
+  source of innovation.
+
+⚠️ **Four fidelity calls.** ① **Film dialogue in 02-10 is screenwriters' work performed by actors**
+and is marked `[FILM]` — never persona data; only the commentary is. ② **All Nike/Jordan figures
+carry his own hedges** (*"I looked this up"*, *"Forbes has estimated"*) and are recorded with them.
+③ In 01-30 he labels the corporate jargon he's rejecting in a way the captions render as
+*"Anglo-Saxon"*, which does not fit the vocabulary described — **recorded verbatim with the
+mismatch flagged**, since the rule is unambiguous either way. ④ **"TGO"** is recorded as heard even
+though the expansion he gives (tasks · obstacles · opportunity) doesn't match the middle letter.
+
+⚠️ **A second colloquial ADHD generalisation** (01-22), as at 2025-10-30 — flagged as casual
+phrasing about a type, never a clinical claim.
+
+✅ **A pattern worth naming at the checkpoint:** *"concentration / diluting your power"* (02-10) is
+now the **third distinct framing** of one argument in four months — alongside **the five ones** and
+**pressure = force ÷ area** (both 2025-10-30). Synthesis should treat them as **one idea in three
+registers**, not three frameworks.
+
+Synthesis notes: **six genuinely new items.** ① ★★★★★ **"The market is bigger than your target"** —
+the mechanism (wide spill from narrow aim) that the corpus's niching advice has always asserted
+without explaining. ② ★★★★★ **Needs vs. emotional wants** plus *"what do they feel about people like
+us?"* — the emotional layer missing from the ICP method built in batches 189–190. ③ ★★★★★ **AIDA + C
+with advocacy**, plus **the awareness ladder** and **myth → example → truth** as the content type
+for each rung. ④ ★★★★★ **The four-move offer construction** worked end to end on a real service,
+with **the three renames** as the most teachable demonstration of his language discipline in the
+corpus — you can watch the value change without the work changing. ⑤ ★★★★★ **The two-option speed
+premium**, which converts client slowness from a grievance into a priced option.
+⑥ ★★★★★ **The underdog playbook + the Carrie story + price priming.** ✅ With this, the corpus now
+holds **five distinct discovery/objection moves recorded in five months** — *invite the no*
+(10-09), *"I never assume them to tell the truth"* (11-15), *"why not do nothing?"* (11-20),
+*pre-empt the objections* (12-11) and *arm the buyer / cast doubt* (02-10). **They should be
+promoted as one method, not five fragments.** Also new: ★★★★★ *"**that's where the innovation comes
+from — because she doesn't know how things are done**"*, which cuts interestingly against his own
+insistence on receipts and expertise; **steal their customers**; **every obstacle is an opportunity
+wrapped in disguise**; **retention over acquisition**; and to `entities/influences` — **Nicole
+Johnson** and ***Air*** (2023).

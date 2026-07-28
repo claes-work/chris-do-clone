@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-28 (ingest yt batch @thefutur, 3 → **964 L2** — three ★★★★★ landmarks: **the Content-to-Clients Blueprint** end to end (quiz-as-filter, the "that's me" test, the stuck-moment worksheet); **the DIYer fallacy** and *sell through, not in* — plus ⚠️ a **second "student of the game"** attestation; and **the structural half of his storytelling curriculum** with the **30-30-30 plan**)_
+_Last updated: 2026-07-28 (ingest yt batch @thefutur, 3 → **967 L2** — three ★★★★★ workshop/breakdown sources: **"the market is bigger than your target"** with **AIDA+C** and the awareness ladder; **an irresistible offer built live** with the three renames (*discovery / alignment / road map*); and an *Air* breakdown yielding **the underdog playbook**, **the Carrie story**, and *"she doesn't know how things are done"*)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **964 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2026-01-10, no deferrals outstanding] + the 2026-07-21 fresh upload; synthesized through batch 184 → persona **v21**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **967 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2026-02-10, no deferrals outstanding] + the 2026-07-21 fresh upload; synthesized through batch 184 → persona **v21**).
 
 ## Topics
 

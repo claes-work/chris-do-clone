@@ -13442,3 +13442,41 @@ clone; it is somebody else's material.
 **Stage C running total: 203 shorts processed · 14 ingested · 189 closed.**
 
 Synthesis notes: none.
+
+## [2026-07-28] ingest | yt shorts batch 243 (@thefutur, 25 triaged, 0 ingested)
+
+Stage C, first batch under the **corpus-wide novelty probe**. **25 shorts, 0 ingested.**
+Open shorts 658 → **633**.
+
+### ✅ The new rule paid for itself immediately
+
+`yt-Qizf66hXxbQ` — *"generative AI is a **forking moment in human evolution**… **knowledge is dead
+and wisdom is queen**"*, with wisdom glossed as **discernment**. Under the OLD sub-scope probe
+(`topics/persona/entities`) "knowledge is dead|wisdom is queen" returns **0** and this would have
+been written up as a find. **Corpus-wide it returns 1**: [[wiki/sources/2023-11-01-yt-xiNHfB8FVwY]],
+**twelve days earlier**, carrying the identical formulation. Closed `dup-of:yt-xiNHfB8FVwY`.
+
+**That is the sixth near-miss caught and the first one caught by a rule rather than by luck.**
+
+### The batch's other close calls, all covered
+
+| Short | Probe | Corpus |
+|---|---|---|
+| Mark Manson / *Subtle Art* | — | **15** |
+| *The Business of Expertise* / David C. Baker | — | **32** |
+| "character trumps credentials" | — | 2 |
+| first aha/wow moment | — | 7 |
+| **"never justify your price"** (`yt-94tEAW1IOS8`) | "justify your price" **10**, "higher ground" **9**, car wash **5**, car dealer **6**, "as equals" **3** | fully covered |
+
+⚠️ The justify-your-price short is worth a note despite being a duplicate: it is him **answering
+the accusation** — *"some of you think the position I take is very pompous and arrogant and it's the
+fastest way to go bankrupt"* — and then re-deriving it from the car-dealership/car-wash analogy.
+**The argument is already recorded; the fact that he re-argues it under public pushback is a voice
+observation**, not a new belief. Not promoted.
+
+`yt-T6NtvOuGvZw` closed `guest-uncertain` — *"almost all **my clients**… I have gone through this
+pain so many times"* describes a coaching practice that is not the subject's documented one.
+
+**Stage C running total: 228 shorts processed · 14 ingested · 214 closed.**
+
+Synthesis notes: none.

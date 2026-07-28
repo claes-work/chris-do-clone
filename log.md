@@ -14035,3 +14035,23 @@ Left for a voice pass with a real sample, not asserted from two clips.
 
 High-water mark advanced to **batch 257 (L2=1,036)**. Pass 25 logged in
 `pipeline/synthesis-state.md`.
+
+## [2026-07-28] ingest | yt shorts batch 258 (@thefutur, 15 triaged, 0 ingested)
+
+Stage C. **15 shorts, 0 ingested.** Open shorts 295 → **280**.
+
+⚠️ **Batch size has collapsed: 25 → 24 → 22 → 20 → 15.** The driver is returning fewer rows per
+request as this era's queue empties, which is a mechanical signal that the @thefutur shorts tail is
+genuinely close to bottom — not a judgement call on my part.
+
+- `yt-H__jJA4zZfY` — *"**Lejeune** is one of my favorite typefaces."* **Fourth instance**, same
+  formula, `lejeune` **0**. [[wiki/gaps.md]] updated to *four for four*. Closed
+  `attribution-uncertain` with the other three.
+- `yt-RAXJcQrfPG0` — the **law of contrast** clip again, a near-twin of `yt--lAZfh2Ur20` closed in
+  batch 255. Same doctrine, same framing, different ID.
+- Everything else held on the first probe: `wolf of wall street\|sell me this pen` **9** ·
+  `zappos` **15** · `gross profit` **8**.
+
+**Stage C running total: 581 shorts processed · 16 ingested · 565 closed.**
+
+Synthesis notes: none.

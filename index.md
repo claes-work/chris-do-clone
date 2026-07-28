@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-28 (**1,032 L2**; a **second provenance reading list** upgrades Michael Bungay Stanier to a structural source and gives Blair Enns a **sixth** dated attestation — plus **the "you're too expensive" script**, which relocates the objection from the price to the problem)_
+_Last updated: 2026-07-28 (**1,033 L2**; synthesis **pass 23** rewrote `entities/influences` **by reading the hub first** after four false-absence claims — and the one shorts formulation that survived verification, ***"widen the gap between the give and the ask"***, turns give-first from a posture into **a variable**)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **1,032 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 and P2 both fully drained**; 98 members-only rows skipped as unobtainable; remaining: @thefutur video P3:0 ✅ complete; ⚠️ **235 @thefutur STREAMS untouched and unscoped — the driver filters on type==video**, @TheFuturAcademy P3:51, 813 shorts).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **1,033 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 and P2 both fully drained**; 98 members-only rows skipped as unobtainable; remaining: @thefutur video P3:0 ✅ complete; ⚠️ **235 @thefutur STREAMS untouched and unscoped — the driver filters on type==video**, @TheFuturAcademy P3:51, 757 shorts).
 
 ## Topics
 

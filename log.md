@@ -13244,3 +13244,45 @@ Ledger: L2 = 1,032. Open: **shorts 758**, @TheFuturAcademy P3:37. ⚠️ Unscope
 Synthesis notes: none — this IS the synthesis pass. ⚠️ **Standing method note for future passes: read
 the target page before writing.** This run proved that source-page novelty claims are unreliable, and
 the failure is silent — a false absence becomes a fabricated gap the next pass tries to fill.
+
+## [2026-07-28] ingest | pass 23 follow-through — the one verified formulation, placed
+
+Batch 238. L2: 1,032 → **1,033**. Open shorts: 758 → **757**.
+
+Pass 23 confirmed **one** formulation from the entire 103-short run as genuinely absent, and flagged it
+for placement. ✅ **Placing it, rather than leaving it in a synthesis note, closes that loop.**
+
+> ★★★★★ *"**When you give and you ask and there's NO GAP between the two — it's called A TRANSACTION.
+> THERE'S NO FEELINGS OF GOODWILL.** I gave you money, you did a service. I give you a resource, I got
+> your email. **It's just like so fast**… every time we ask, what we need to do is to **WIDEN THE GAP
+> between the time in which we give and the time in which we ask.**"
+
+**Promoted to `topics/sales-clients` §123**, with the verification stated on the section itself.
+
+### Why it earns a section rather than a line
+
+✅ **It turns give-first from a POSTURE into a VARIABLE.** Everywhere else in the corpus, give-first is
+a disposition — be generous, expect nothing, karmic equity. **Here the mechanism is a quantity you can
+manipulate: the interval.** A gift and an ask separated by nothing is a trade; separated by time, it
+becomes goodwill.
+
+✅ **And it explains failure cases the hub already records** — the lead magnet that instantly demands an
+email, the free consult that turns into a pitch. ⚠️ **Those are not too-small gifts. They are gifts
+with too small a gap.**
+
+### The verification, stated
+
+Checked against **`entities/influences` and the topic hubs**, semantically as well as literally: the
+concept matched on *gift economy*, *a gift with an expectation is manipulation*, *reciprocity* and the
+**emotional-debt** mechanism — **the phrasing matched nothing.** ✅ **This is the first novelty claim
+this run made after the corrected method, and it was checked before, not after, writing.**
+
+### 📊 Final Stage C economics
+
+**103 shorts processed · 13 ingested · 90 closed.** ⚠️ **12 of 13 came from 2025–26; exactly one from
+the 2024-and-earlier stretch** — and that stretch is 55+ shorts. The saturation finding holds.
+
+Ledger: L2 = 1,033. Open: **shorts 757**, @TheFuturAcademy P3:37. ⚠️ Unscoped: 235 streams.
+Synthesis debt 1/10.
+
+**Synthesis notes:** none — the item promoted here was verified and placed in the same pass.

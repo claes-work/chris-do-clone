@@ -14093,3 +14093,39 @@ stated and explicitly declined to reconstruct an interval or present them as a b
 Synthesis notes: **two self-reported income figures** (\$3.25/hr at 16–17; \$68k first big cheque) →
 `persona/biography`, marked self-reported with the ⚠️ undateable caveat intact; **desensitization to
 numbers** → `topics/mindset` as the walk-away precondition.
+
+## [2026-07-28] ingest | yt shorts batch 260 (@thefutur, 19 triaged, 1 ingested)
+
+Stage C. **19 shorts · 1 ingested · 18 closed.** Open shorts 261 → **242**. L2 = **1038**.
+
+**Ingested:** [[wiki/sources/2021-11-17-yt-YYGfApY1alk]] — *4 Types Of Clients*.
+★★★★ **A four-type triage taxonomy**, each type defined by an **observable first-contact behaviour**
+rather than a personality label:
+
+| Type | The tell |
+|---|---|
+| **Fisher** | indecisive, **asks price first** — ⚠️ assembling an **RFP**; you may be unpaid research |
+| **Square Pegger** | **not the decision-maker**, *"their job's on the line"*, asks *"funky weird questions"* |
+| **Cost Conscious** | budget-driven, **views design as a commodity** |
+| **Perfect Client** | knows and values the process, *"not always lowest bid wins"*, ⏳ **ready to start right away** |
+
+✅ **Why it earns a page.** The corpus is rich on **handling** clients and thin on **classifying**
+them on first contact. Because every tell is behavioural, this is a **triage tool**, not a set of
+labels. The **Square Pegger** reading is the non-obvious one: it reframes an irritating prospect as a
+**frightened intermediary**, which implies a different response — *arm them to defend the choice* —
+than the doctrine's usual *reach the decision-maker*.
+
+⚠️ **One near-hit checked before writing, not after.** `sales-clients` **§2442** mentions
+**"price-fishers"** — a *different sense* (fishing for a number), not this taxonomy's **Fisher**.
+Same word, different concept: the trap from batch 253's dig-a-ditch case, met again and handled the
+same way. **The disambiguation is carried onto the page and into the index row.**
+
+⚠️ **Not promoted to `persona/`**: no self-identification, and **he credits no source for the
+taxonomy** — recorded as his framing without asserting he originated it.
+
+One row closed **`no-content`** (`yt-S3SfgOGx5As` — caption track is the single word *"other"*).
+
+**Stage C running total: 619 shorts processed · 18 ingested · 601 closed.**
+
+Synthesis notes: **four-type client taxonomy** (2021-11-17) → `topics/sales-clients` as a unit,
+keeping each behavioural tell; ⚠️ carry the Fisher / price-fisher disambiguation.

@@ -585,6 +585,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2021-09-04 | [Animations & Interactions: Dark Mode (Built By Hand)](2021-09-04-yt-BpTMsCL_9Bs.md) | design-craft | ⚠️ NOT Chris — Ben Burns + guests Greg Gunn & Tim Ricks; Webflow animation tutorial (context/do-not-train) |
 | 2021-10-13 | [Change The Way You Solve Problems Using Design Thinking](2021-10-13-yt-MMouHj75YwQ.md) | design-craft; business; mindset | ⚠️ NOT Chris — Futur team member "Eric"; design-thinking methodology (problem-tree, root-cause); context/do-not-train |
 | 2021-10-19 | ★ [Work Life Balance – 90 min Whiteboard Session](2021-10-19-yt-5ZNmZshk8kk.md) | mindset; business; content-strategy | Chris solo; work-life INTEGRATION (MFP: Money/Fulfillment/Purpose × PSS: People/Self/Spirit → find the overlap); rejects balance as zero-sum; ⚠️ evolution vs 2019 compartmentalize; L3-candidate |
+| 2021-11-17 | ★ [4 Types Of Clients](2021-11-17-yt-YYGfApY1alk.md) | sales-clients; business | short; **a four-type triage taxonomy** — Fisher (asks price first, building an RFP) · Square Pegger (not the decision-maker, defending upward) · Cost Conscious (design as commodity) · Perfect Client; ⚠️ distinguish from "price-fisher" at sales-clients 2442; L3-candidate |
 | 2021-12-14 | ★ [Say NO To A Client w/ Confidence](2021-12-14-yt-RIYXIbHwlXc.md) | mindset; pricing; business | short; **two unrecorded self-reported figures** — $3.25/hr at 16–17, a $68,000 first big client cheque — and **"desensitized to numbers"** as the stated precondition for walking away from a $350k job; ⚠️ figures undateable; L3-candidate |
 | 2021-12-21 | ★ [Dealing With Negative Feedback – Whiteboard Session](2021-12-21-yt-piwDPirw0E0.md) | mindset; content-strategy; design-craft; sales-clients | Chris solo; full feedback/criticism guide — Criticism = Observation + Judgment, NVC jackal/giraffe, Belief→Action→Result, I-statement giving, learner's mindset; strong L3-candidate |
 | 2021-12-26 | [How To Get Work & Make More Money](2021-12-26-yt-T13xl4XDFc8.md) | sales-clients; content-strategy; business; mindset | Chris Q&A; 3-target-companies + Dan Mall "love letter", raise-rate phone script, multiple-clients-for-leverage; restatement, confirming cite |
@@ -1060,4 +1061,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_1037 videos ingested (L2) so far._
+_1038 videos ingested (L2) so far._

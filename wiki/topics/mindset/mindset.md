@@ -4636,6 +4636,63 @@ we unintentionally AMPLIFY that emotion**"*; **"WORTHWHILE suffering"**; and *"*
 sandwich you don't mind eating?**"* **All his published work.**
 ([[../../sources/2025-05-07-yt-IJ6u8B3Tn-Q]])
 
+## ★★★★ Shorts-run additions (pass 24, added 2026-07-28)
+
+Two items promoted from the Stage-C shorts sweep (batches 238–247). Both were verified against the
+whole of `wiki/` — not a sub-scope — after several false novelty claims earlier in that run.
+
+### ★★★★★ Belief selection on utility grounds (2024-01-30)
+
+The justification underneath the anti-victim doctrine, which the hub has so far carried only as a
+conclusion (§ the adversity reframe; *"I don't believe in victims, I believe in volunteers"* in
+[[../../../persona/beliefs]]).
+
+Answering a guest's determinist challenge, **he concedes the argument outright and then chooses the
+belief anyway**:
+
+> ★★★★★ *"**I actually agree with you 100%** — but **I choose to believe that we have free will,
+> because it's a better idea than to say I'm not responsible for my actions and my thoughts.**"*
+
+> ★★★★★ *"**We get to choose what is an empowering idea** — what's going to move us forward."*
+
+⚠️ **Note what is and is not claimed.** He does **not** argue that free will exists. The move is
+**pragmatist**: among ideas he cannot adjudicate, he picks **the one that keeps responsibility with
+him**, and the stated criterion is usefulness — *"what's going to move us forward"* — not truth.
+**Promote it as a reason he gives, never as a metaphysical position.**
+
+⚠️ **Attribution:** the skeptical opener is the guest's; Chris answers, then performs his documented
+reflect-back-and-summarize move. **No self-identification in the clip.**
+([[../../sources/2024-01-30-yt-CKVQeONxeo8]])
+
+### ★★★★ Hyperbolic discounting — the named mechanism under long-term thinking (2022-11-21)
+
+> ★★★★ *"There's this concept called **hyperbolic discounting**… **the farther away something is,
+> the less you're motivated to do it.** That's why we go for **short-term reward versus long-term
+> gains.**"*
+
+Worked through a revenue target losing to the inbox: *"you have to get to **five million dollars**
+this year… but today, in front of you, is **an email you need to respond to**, or **a thousand
+distractions**. Those seem **more present, more immediate** — and then you'll do that instead."*
+
+✅ **Why it earns a place beside material that already says "think long-term".** It changes the
+prescription. The failure is not weak discipline; **distance itself discounts motivation**, so the
+fix is to *shorten the distance*, not to try harder.
+
+> ⚠️⚠️ **DISAMBIGUATION — do not cross-reference this to `topics/pricing`.** *Discounting* appears
+> ~26 times across `topics/pricing` and `topics/sales-clients` in the **price** sense (cutting a
+> number). This is **delay** discounting — an unrelated concept that happens to share the word.
+
+⚠️ **Attribution:** solo explainer, no second voice, no self-identification.
+([[../../sources/2022-11-21-yt-VNc8-5qlDsM]])
+
+### ⚠️ A promotion candidate REJECTED at this checkpoint
+
+The rule *"don't make a point without a story, don't tell a story without a point"* was flagged
+during the shorts sweep as an unpromoted named-influence attribution. **On reading the source it is
+Vinh Giang's, filed in that page's explicit `guest — CONTEXT / do-not-train` block**, and the
+2023-04-08 short confirms the split (Vinh states the rule; Chris answers *"if only I knew magic"*).
+**Not promoted.** Recorded here so it is not re-proposed a third time.
+
 ## Sources
 
 - [[wiki/sources/2016-03-23-yt-013Zjz5P9gM]] — "Break Out of Your Comfort Zone" vlog

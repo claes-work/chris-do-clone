@@ -13630,3 +13630,48 @@ in batch 246, re-uploaded under a second ID (**a fourth confirmed re-upload pair
 Synthesis notes: **hyperbolic discounting** (2022-11-21) — promote the term and mechanism into
 `topics/mindset`; ⚠️ carry the delay-vs-price disambiguation and the solo-format attribution basis to
 the promotion site. (Les Brown promotion candidate from batch 245 still queued.)
+
+## [2026-07-28] lint | synthesis pass 24 (Stage-C shorts, batches 238–247)
+
+Checkpoint fired at **10/10**. Scope: the shorts sweep since the batch-237 high-water mark
+(L2 1,032 → **1,035**). Target: **`wiki/topics/mindset` only**. **No system-prompt bump — v24 stands.**
+
+### Promoted (2)
+
+1. ★★★★★ **Belief selection on utility grounds** (2024-01-30). He concedes the determinist case
+   outright — *"I actually agree with you 100%"* — then chooses free will *"**because it's a better
+   idea than to say I'm not responsible for my actions and my thoughts**."* Promoted as **the
+   justification underneath the anti-victim doctrine**, which the hub previously carried only as a
+   conclusion. ⚠️ Written into the hub as **a reason he gives, explicitly NOT as a metaphysical
+   position** — the distinction is the whole value of the item.
+2. ★★★★ **Hyperbolic discounting** (2022-11-21), the named mechanism under the existing long-term
+   material, with a ⚠️ **hard disambiguation block**: `discounting` appears ~26 times across
+   `topics/pricing` and `topics/sales-clients` in the **price** sense. Cross-referencing the two
+   would be a category error, so the warning lives at the promotion site, not just in my head.
+
+### ⚠️ REJECTED (1) — and this is the checkpoint earning its keep
+
+Batch 245 flagged the rule *"don't make a point without a story, don't tell a story without a point"*
+as an unpromoted **named-influence attribution**, and my synthesis note proposed promoting it to
+`entities/influences` + `topics/content-strategy`.
+
+**On reading the source, it is Vinh Giang's** — sitting inside that page's explicit
+**`Vinh Giang (guest) — CONTEXT / do-not-train`** block. The 2023-04-08 short corroborates the split:
+Vinh states the rule, Chris answers *"if only I knew magic, man."*
+
+**Promoting it would have put guest material into the persona lineage** — the exact failure the
+attribution rules exist to prevent. **Killed, and recorded in the hub so it cannot be re-proposed a
+third time.**
+
+📌 **The lesson is about WHERE I read.** The flag was raised from a grep hit and a ledger note; the
+kill came from **reading the surrounding twelve lines**. A citation's neighbourhood carries its
+fencing, and a grep result does not.
+
+### Not done, deliberately
+
+**No `persona/` or `system-prompt` change.** Both promoted items rest on solo-format or internal
+evidence **without self-identification**. That is strong enough for a topic hub with the basis
+stated; it is **not** strong enough to become a persona trait. Recorded so the next pass does not
+read the hub entries as pre-approved for promotion.
+
+High-water mark advanced to **batch 247 (L2=1,035)**. Pass 24 logged in `pipeline/synthesis-state.md`.

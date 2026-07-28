@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-28 (**1,019 L2**; ⚠️ **SCOPE FINDING: 235 livestreams on @thefutur are invisible to the pipeline** — `ingest_batch.py` filters on `type=="video"`, so they were never counted or selected. @thefutur *video* is complete; the streams are undecided and need a scope call)_
+_Last updated: 2026-07-28 (**1,020 L2**; ⚠️ **@TheFuturAcademy is an instructor-led channel** — 19 of 20 rows triaged closed as Chris-absent or unverifiable; the one ingested is attributed **on internal autobiographical evidence, not register**, and gives the alignment machinery that makes a **one-logo presentation** possible)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **1,019 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 and P2 both fully drained**; 98 members-only rows skipped as unobtainable; remaining: @thefutur video P3:0 ✅ complete; ⚠️ **235 @thefutur STREAMS untouched and unscoped — the driver filters on type==video**, @TheFuturAcademy P3:72, 860 shorts).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **1,020 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 and P2 both fully drained**; 98 members-only rows skipped as unobtainable; remaining: @thefutur video P3:0 ✅ complete; ⚠️ **235 @thefutur STREAMS untouched and unscoped — the driver filters on type==video**, @TheFuturAcademy P3:51, 860 shorts).
 
 ## Topics
 

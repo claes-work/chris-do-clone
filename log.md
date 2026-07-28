@@ -12216,3 +12216,61 @@ Ledger: L2 = 1,019 (unchanged). In scope: **@TheFuturAcademy P3:61**, 860 shorts
 **Synthesis notes:** none — no source ingested. ⚠️ **One standing note for future passes:** the Virgil
 Abloh critique series (3 episodes) is **deliberately absent from the wiki on attribution grounds**, not
 because it lacks content. Do not "recover" it without establishing who is speaking.
+
+## [2026-07-28] ingest | yt batch (@TheFuturAcademy, 1) — the first Academy ingest, attributed on internal evidence
+
+Batch 220, Stage B, light triage. L2: 1,019 → **1,020**. @TheFuturAcademy P3: 61 → **51**.
+
+Ten rows triaged on their opening lines. **Nine closed, one ingested** — and the one is worth the
+whole exercise.
+
+| Rows | Finding |
+|---|---|
+| **5** | Presenter self-identifies — **not Chris** (Greg Gunn ×1, Matthew Encina ×1, Tom ×1, and two others). |
+| **2** | ⚠️ **`no-captions`, not skipped** — the auto-captions contain only music/sound cues (6 and 11 words total). Recorded accurately: there is no transcript, which is a different fact from having no Chris. |
+| **1** | ⚠️ Paul Rand tribute — **no self-ID and no autobiographical anchor.** Declined on the same standard as the Abloh series. |
+| **1** | ✅ **INGESTED.** |
+
+### ⚠️ The one ingest, and the basis for attributing it
+
+**"Present ONE Logo to Clients. That's it."** has **no speaker self-identification** — the same
+condition that caused me to decline the Abloh series three times. I attributed this one anyway, and
+the difference is **internal evidence rather than register**:
+
+- **First-person Blind-era practice**: *"when I was younger, sometimes we'd literally walk into a
+  client meeting and have 16 logos"*, with the foam-core and 4-inch-square detail.
+- **A self-dating line**: *"now I'm in my 40s"*, consistent with a 2020 recording.
+- **The stylescape vocabulary**, which the corpus already attributes to him.
+
+⚠️ **That is a weaker basis than a self-ID and the page says so.** The distinction I am drawing is
+explicit: the Abloh episodes had **register only**; this has **autobiography that matches the
+documented record**. If that distinction is judged too permissive, this row is the one to revisit.
+
+### ★★★★ What it contains
+
+A **then-versus-now** piece, and the good part is that he leads with **his own superseded method** —
+16 logos, printed, mounted on foam core, cut into squares and gridded so the client could physically
+push away the ones they disliked. His diagnosis of it is unsparing and specific: *"I didn't know what
+was right or wrong in terms of what was right **for the company.** I knew that the form it took
+**aesthetically** was right."* — **volume was standing in for a judgement he could not yet make.**
+
+Then the machinery that makes one logo presentable: discovery → who the end customer is → **stylescapes
+/ empathy maps** → *"and we get **alignment and agreement** on that"* → and only then the logo, as a
+**fit test** rather than a proposal. The reframe that carries it: *"instead of saying 'oh my god,
+that's incredible', **their expression should be: of course. You did exactly what we'd hoped you'd
+do.**"*
+
+✅ **The corpus records the one-logo rule. It did not have the machinery that earns it.**
+
+Ledger: L2 = 1,020. In scope: **@TheFuturAcademy P3:51**, 860 shorts. ⚠️ Still unscoped: **235
+@thefutur streams.** Synthesis debt 3/10.
+
+**Synthesis notes:** **Two items, both carrying the attribution caveat.** ① ★★★★★ **The alignment
+machinery behind the one-logo presentation** → `topics/design-craft` and `topics/branding`: discovery →
+customer definition → stylescape → **agreement on the customer** → logo as a fit test (*"just put in
+the new logo — and if it fits, it feels right"*). The hub has the rule without the mechanism.
+② ★★★★★ **"Their expression should be: of course"** → `topics/sales-clients`: **a presentation is
+confirmation of an agreed brief, not a reveal** — which is why a single option can be shown at all.
+★★★★ Also for `persona/biography`: **the 16-logo foam-core practice** and his diagnosis of it. ⚠️ **All
+of the above must carry the note that this source has no self-identification** and rests on internal
+autobiographical evidence.

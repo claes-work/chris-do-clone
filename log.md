@@ -11417,3 +11417,70 @@ invisible check boxes"** → `topics/sales-clients`, filed beside the magic ques
 employer's-side complement** — 2016 tells the candidate to make the employer describe the profile;
 2020 tells us the profile is a set of unstated criteria. Also for `persona/biography`: the 2007
 teacher line (⚠️ context unknown) and the 2020 delegation of hiring.
+
+## [2026-07-28] ingest | yt batch (@thefutur, 3) — the SALES acronym, and the second deferral cleared
+
+Batch 208, Stage B (P3). L2: 994 → **997**. ✅ **No deferrals outstanding.**
+
+- `yt-bNgRrcIcaFY` — **2023-02-16, "From Pushy to Personable".** ★★★★★ **A landmark for
+  `topics/sales-clients`.**
+- `yt-UwdbbMy-PbU` — **2021-03-02, LinkedIn algorithm session.** The row deferred last batch, **done
+  as required.** Genuinely guest-dominated, as expected; written as a fenced context page.
+- `yt-eTVvHeaSlt4` — **2022-12-29, Procreate lettering demo.** Guest craft demo, kept at L2 for three
+  small durable items.
+
+### ★★★★★ The SALES acronym, end to end
+
+**S**erve · **A**sk · **L**isten · **E**mpathize · **S**ummarize — *"notice, in SALES **the word
+'sales' is not in sales at all.**"* The valuable part is not the mnemonic but **the dependency he
+attaches to it**: *"if you can get number one right, all the other ones fall in line. **If you screw
+up this idea of servitude, the questions you ask will be different, how you listen will be different,
+you won't empathize at all.**"*
+
+It also carries **the fullest close anywhere in the corpus** — summarize → hypothetical close → the
+pause question (pre-empting buyer's remorse, *"there's so much rapport building and they feel so
+guilty to say no"*) → **hand the objection back** (*"what might be a solution to that? And you
+activate them… and then they design a solution with you"*) → *"is this a **deal killer**?"*
+
+⚠️ **Filed as DISTINCT from the 2020-11-23 six-step sales process** (prospect · qualify · approach ·
+present · objection · close). Both are his, they are different models, and a later pass must not
+merge them into one framework. Flagged on the source page and in the ledger note.
+
+Four influences credited by name in one episode — **Chris Voss** (calibrated questions), **Kevin
+Daley** (*Socratic Selling*), **Michael Bungay Stanier** (*"what's on your mind"*), **Jordan
+Peterson** (weakness as a signal) — plus a **fourth dated Blair Enns credit**: *"the proposal isn't
+the document that you send — it's the words you say. The document is just a receipt for the words."*
+
+★★★★★ **One biographical item**: *"I work with someone today that I met when I was **in my early
+20s**, when they were a tiny **eight-person company** — and they're a **400-person company** today."*
+⚠️ No name, industry or company given; recorded exactly as stated.
+
+### On the two guest sources
+
+Both were kept rather than skipped, and the reasoning is on each page. The LinkedIn episode earns its
+place on **one point only** — the guest credits Chris mid-curriculum for *"educate, inspire,
+entertain"* (*"stealing from you, Chris"*), which is **third-party corroboration of a framework the
+corpus otherwise has only from his own mouth.** Its tactics are March-2021 platform advice and are
+marked do-not-promote. The lettering demo earns its place on the closing line — *"if you're impressed,
+get started and put in a couple of years' practice"* — and on documenting that **Instagram's
+recommendation feed drove guest booking** in 2022.
+
+Ledger: L2 = 997. Open: @thefutur P3:26, @TheFuturAcademy P3:72, 860 shorts. Synthesis debt 4/10.
+
+**Synthesis notes:** **Five items.** ① ★★★★★ **The SALES acronym as ONE ordered system with its
+dependency argument** → `topics/sales-clients`. ⚠️ **Must be filed alongside, not merged with, the
+2020 six-step process** — the corpus now holds two distinct sales frameworks from the same person and
+conflating them would fabricate a third that he never taught. ② ★★★★★ **The closing sequence in full**
+→ same hub: hypothetical close, **the pause question as buyer's-remorse prophylaxis**, **activating
+the client to design the solution to their own objection**, and *"is this a deal killer?"* This is
+more complete than anything currently in the hub. ③ ★★★★★ **"You're creating a memory for a person.
+That is customer service."** → `topics/mindset` (Nordstrom/Zappos as the two cases). ④ ★★★★★ **The
+smash-and-grab test** → `topics/mindset`: it answers the honest-answer-isn't-my-service problem by
+**reframing an ethics question as a time-horizon question** — *"how long do I want to play this
+game?"* — and pairs with *"what is the point of having ethics, morality, if you don't ever act on
+them?"* ⑤ ★★★★★ **The eight-page notepad and "I'm trying to relive the emotion with them"** →
+`persona/voice`, as the most concrete account of his interviewing method in the corpus, against
+*"most people just stay quiet long enough so that they can formulate what they want to say next."*
+Also for `persona/biography`: the **early-20s client relationship** (⚠️ unnamed), and for
+`entities/blair-enns` a **fourth dated credit**. ⚠️ Nothing from the LinkedIn or lettering episodes is
+promotable beyond the two notes recorded above.

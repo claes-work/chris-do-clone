@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-28 (ingest yt batches @thefutur → **992 L2**; ★★★★★ **the sales lineage is now fully sourced**: *"I can count on one hand those influences"* — **Kier McLaren** gave him the permission and method to ask, **Blair Enns** positioning and scripts, **Elay Cohen** the vocabulary; ⚠️ three distinct debts, not to be merged)_
+_Last updated: 2026-07-28 (ingest yt batches @thefutur → **997 L2**; ★★★★★ **the SALES acronym end to end** — Serve · Ask · Listen · Empathize · Summarize — **with the dependency argument** (*get serve right and the rest fall in line*) and the fullest close in the corpus; ⚠️ **distinct from the 2020 six-step process, not to be merged**)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **994 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 and P2 both fully drained**; 97 members-only rows skipped as unobtainable; remaining: @thefutur P3:29, @TheFuturAcademy P3:72, 860 shorts).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **997 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 and P2 both fully drained**; 97 members-only rows skipped as unobtainable; remaining: @thefutur P3:26, @TheFuturAcademy P3:72, 860 shorts).
 
 ## Topics
 

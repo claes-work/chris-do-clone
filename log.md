@@ -12123,3 +12123,50 @@ Ledger: L2 = 1,019 (unchanged). Open and *in scope*: @TheFuturAcademy P3:72, 860
 ⚠️ Open and *unscoped*: 235 @thefutur streams. Synthesis debt 2/10.
 
 **Synthesis notes:** none — no source ingested.
+
+## [2026-07-28] ingest | yt batch (@TheFuturAcademy, 0 ingested) — the first Academy batch, and what it implies
+
+Batch 218, Stage B. **No source ingested.** L2 unchanged at **1,019**. @TheFuturAcademy P3: 72 → **69**.
+
+The first batch from this channel, and all three rows were closed without ingest — for **two different
+reasons**, which is the point of this entry.
+
+### Two are simply Chris-absent
+
+`yt-Yl0w57PQXuQ` and `yt-FymjkCCI0UQ` are the same format with the same two hosts: The Futur's
+**educational director**, who self-identifies in the opening line, and **creative director Greg Gunn**,
+running community portfolio reviews. **Chris Do does not appear.** Skipped per the standing rule on
+videos featuring only other people; `entities/futur-instructors.md` is the home for that class.
+
+### ⚠️ One is UNVERIFIABLE — which is a different thing, and recorded as such
+
+`yt-7kcClzg_E1E` (Virgil Abloh tribute poster critique, Ep 3/3) is a live critique whose register is
+**entirely consistent with Chris Do** — blunt, funny, structural. It would have been easy to file as
+his. I could not establish it:
+
+- **No speaker self-identifies** anywhere in the transcript.
+- The *"see you in the future"* sign-off is **The Futur's house sign-off**, used by all their hosts.
+- The name *"Chris"* recurs — but it belongs to **a participant whose work is being critiqued**, not
+  to the critic.
+
+Per the fidelity rules, **uncertain attribution is flagged, never silently included.** The row is
+skipped with the reasoning on it, and with the one line worth recovering **if** it is ever verified:
+*"a critique is not the end of the process — a critique is the beginning of the next part of the
+process."* ⚠️ **That line is deliberately NOT in the wiki**, because I cannot say who said it.
+
+### ⚠️ What this implies for the remaining 69 rows
+
+**@TheFuturAcademy appears to be substantially a Chris-absent channel** — an education/community
+channel staffed by Futur instructors. `SUBJECT.md`'s guidance for exactly this case is **light triage
+rather than full ingest per video**, and this batch supports that: 3 of 3 closed without ingest, two
+confidently and one on attribution grounds.
+
+✅ **Adjusting the approach accordingly for the next batches**: larger selections, triage by
+speaker-identification first, and ingest only where the subject is verifiably present. **Reporting
+this rather than quietly grinding one-by-one through 69 rows that may mostly not be him.**
+
+Ledger: L2 = 1,019 (unchanged). In scope: **@TheFuturAcademy P3:69**, 860 shorts.
+⚠️ Still unscoped: **235 @thefutur streams** (see the previous entry — awaiting a scope decision).
+Synthesis debt 2/10.
+
+**Synthesis notes:** none — no source ingested.

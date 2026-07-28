@@ -11352,3 +11352,68 @@ the Ep. 6 case, including a participant disputing his typographic hierarchy call
 Chris inviting the audience to overrule his winner pick. ★★★★ Also for `business`: *"most creative
 types are going to build something for three and a half years and not have any validation whatsoever
 — and so then their thing hits with a thud."*
+
+## [2026-07-28] ingest | yt batch (@thefutur, 2 + 1 deferred) — the Beeple episode, carried debt now cleared
+
+Batch 207, Stage B (P3). L2: 992 → **994**. ✅ **The longest-standing carried debt in this run is
+cleared.**
+
+- `yt-QoMPxUWMo8g` — **2021-03-23, the Beeple/NFT episode.** Deferred once several batches ago,
+  transcript already fetched, flagged do-not-defer-again — **and it turned out to be a landmark**,
+  which vindicates the rule rather than the deferral.
+- `yt-GV9fj-Cud5U` — **2020-11-17, Zoom interview tips + roleplay w/ Petrula Vrontikis.** The
+  corpus's only extended source with **Chris on the HIRING side.**
+- `yt-UwdbbMy-PbU` — **2021-03-02, LinkedIn algorithm session.** ⚠️ **Deferred once** (never before):
+  65 KB, guest-dominated, and the curriculum is 2021 platform tactics belonging to the guest. Both
+  other rows were high-yield Chris-led material and got the space. Marked do-not-defer-again.
+
+### ★★★★★ The Beeple episode — a well-made dated position
+
+Worth recording carefully because of **how** he argues it, not only what he concludes:
+
+- He **hands the technical explainer to a colleague**: *"I'd love to tell you I know. And I don't…
+  **I know when I'm out of my league.**"* A dated, on-camera instance of the know-your-depth guard.
+- He builds the museum argument — *"**museums wouldn't exist if the facsimile of it was as powerful
+  as the thing itself**"* — then **tests it against the Louvre and concedes where it fails** (eight
+  inches of glass, a sea of people) before giving the version that survives, in front of a Rothko or
+  a Warhol. It compresses to: *"**when you talk about NFTs, the facsimile IS the thing.**"
+- He **hedges his sharpest claim**: *"my concern — **and I could be totally wrong on this** — is it's
+  like a Ponzi scheme"* — then works the mechanism rather than leaving it as a slur, and grounds it
+  in **the 90s comics speculation collapse he lived through as a collector**.
+- The verdict **splits by role, not by technology**: good for creators who are first in, worrying for
+  investors downstream — closing with *"I don't really know what's going to happen with this."*
+
+⚠️ **Everything in it is March 2021 and is flagged on the page as a dated position** a persona must
+not be made to defend as current.
+
+### The hiring-side source
+
+The 2020 roleplay gives the **employer's-eye view of the magic question**: debriefing, he names what
+a candidate is actually aiming at — *"she's hitting all of **the invisible check boxes that I have in
+my mind**"* — plus the three things that earned it (presentation as a message, homework defined as
+**finding the gaps**, and **the weave** tying skill set to that specific gap). In role he also
+discloses the filter he states as doctrine elsewhere: *"truly, **I didn't look at your resume. You
+come highly recommended.**"* And two unprompted limits: *"**I'm rusty like a bucket of nails on
+interviewing, because I don't really interview people — there's people who do that for me**"*, and,
+told he isn't a conventional employer, *"that is true. That is all very fair."*
+
+⚠️ **One biographical line recorded as stated, not interpreted:** *"**she was even my teacher back in
+2007**."* No institution, format or subject is given, and by 2007 he had run Blind for over a decade.
+The page records the sentence and marks the context explicitly unknown.
+
+Ledger: L2 = 994. Open: @thefutur P3:29, @TheFuturAcademy P3:72, 860 shorts. Synthesis debt 3/10.
+
+**Synthesis notes:** **Five items.** ① ★★★★★ **The museum/facsimile argument** → `topics/design-craft`:
+the most developed statement in the corpus of why he thinks the physical artefact carries value — and
+it should be promoted **with the Louvre concession attached**, because the self-test is what makes it
+good. ② ★★★★★ **The creator/speculator split** → `topics/business`, as a reusable way of judging a
+hype cycle (value accrues to whoever is first in and makes the thing; risk sits downstream), with the
+**90s comics collapse** as its worked precedent. ⚠️ Promote **with its March-2021 date visible**;
+these are NFT-specific positions. ③ ★★★★★ **"What have you done in your life that you were that
+consistent — besides breathing?"** → `topics/mindset`, measured explicitly against his own 45 days of
+content. ④ ★★★★ **"I know when I'm out of my league"** → `topics/mindset` beside the existing
+know-your-depth guard, which currently has the principle but few dated instances. ⑤ ★★★★★ **"The
+invisible check boxes"** → `topics/sales-clients`, filed beside the magic question as **its
+employer's-side complement** — 2016 tells the candidate to make the employer describe the profile;
+2020 tells us the profile is a set of unstated criteria. Also for `persona/biography`: the 2007
+teacher line (⚠️ context unknown) and the 2020 delegation of hiring.

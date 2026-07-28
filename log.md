@@ -11066,3 +11066,65 @@ with the earthworm-kit illustration, Marvel over DC, UFC from #1, buying books t
 makers, and the **five-years-before-you-teach rule** with its 70%-knowledge-extraction theory —
 all of which `persona/appearance` and `voice` should draw on. ⏳ Also flagged: a falsifiable
 **March-2017 prediction that The Futur would become "like a \$100 million company."**
+
+## [2026-07-28] ingest | yt batch (@thefutur, 3) — the deferred Blair Enns interview, plus a landmark proposals session
+
+Batch 204. Three P3 rows from 2017; all captions fetched cleanly.
+
+- `yt-KtL02T5MonA` — **2017-05-03, Blair Enns interview** (The Futur Podcast). **The row deferred
+  last batch, done as required — never deferred twice.** Guest-dominated exactly as expected, and
+  fenced accordingly: Blair's frameworks are summarised as context with their home named as
+  `wiki/entities/blair-enns.md`, and none of it is persona data.
+- `yt-5MVuviyGW0c` — **2017-06-08, motion design graduate portfolio review.** Short, blunt, and the
+  highest yield-per-minute of the three.
+- `yt-UHrjn11F6hc` — **2017-09-27, "How To Structure A Proposal" (ep. 3 w/ Rebecca).** ★★★★★ A
+  landmark for `topics/sales-clients`. Ep. 4 of the same series is already in the wiki at
+  2017-10-03.
+
+**Two attributions recovered — the most valuable result of this batch.** Both are cases where the
+corpus carries an idea as his own and the source names where it came from:
+
+1. **"Just ask" is Kier McLaren's.** *"This is something I learned from my business coach, Kier
+   McLaren. He's the one who said: 'kiddo, why don't you just ask?'"* — and it resolves a
+   confession made moments earlier: *"I used to go into conference calls for six-figure jobs and not
+   ask the client what they wanted us to build."*
+2. **"You're probably right, but let's make sure" came out of Blair Enns's book** — told against
+   himself, after a panel praised the line as unteachable: *"I smiled a little guilty smile and I
+   said: well, actually, I did read it in a book."* The same episode gives the book as a **named
+   contributing cause** of wanting out of commercial motion design (kept with his *"began to spark"*
+   hedge intact).
+
+**Recorded as stated, not softened:** the 2017-09-27 session contains a candid account of a
+competitive tactic — the car-repair parable is deployed on purpose to *"plant the seeds of doubt"*
+about competitors who quote without diagnosing, *"but I don't say those words… I just plant the
+seeds, subtly."* It is flagged with ⚠️ on the source page and the L3 note instructs the next
+synthesis pass to promote it as framed.
+
+**Attribution and naming.** The Blair episode is fenced at the top and its guest section is
+explicitly marked context-only; Blair's own schooling, family and career history are omitted as his
+biography, not the subject's. The portfolio-review student is a member of the public and is **not
+named**. Rebecca is identified by first name only, as in the episode title. A brand named in a
+budget anecdote is used hypothetically and is not recorded as a client claim.
+
+Ledger: L2 = 987. Open: @thefutur P3:37, @TheFuturAcademy P3:72, 860 shorts. Synthesis debt 9/10 —
+**the checkpoint fires next iteration, so the next stage is S, not another ingest batch.**
+
+**Synthesis notes:** Beyond the two attributions above, four things to promote. (1) ★★★★★ **THE FOUR
+THINGS** — comfortable, knowledgeable, rapport, easy — a complete, teachable first-meeting method,
+notable because he *elicits it from the coachee* and then answers each point; it includes **matching
+and mirroring** described as an explicit self-practice (*"I'm going to change my tempo, my tone, my
+language, my body language — everything… I just want to sync up to you"*), which `persona/voice`
+does not currently record. (2) ★★★★★ **The estimating method**: you cannot bid an unscoped project,
+so charge for the strategy that produces the scope — *"or if we even need to build a website in the
+first place. I never make that assumption"* — and meanwhile give a range **explicitly labelled as
+assumptions**. Pairs with the Blair-credited **\$1,000 paid estimate** and **Cialdini's levels of
+increasing commitment**. (3) ★★★★★ From the portfolio review: **"professional work has an
+application"** as the student-vs-professional distinction, the **park-the-playhead frame test**, and
+**"making it real hurts you — we have *Life of Pi*, and then we have [your reel]"**, which is the
+corpus's sharpest argument for choosing a lane by its **comparison set** rather than by taste.
+(4) A **nuance worth keeping rather than resolving**: *"I'm not a prolific reader… it sits on my
+shelf for a while"* (2017-05-03) sits six weeks from *"I'm that guy at the bookstore — I actually
+buy it"* (2017-03-27). Not a contradiction — **he buys prolifically and reads slowly**, and both
+statements are his. ✅ Also note the corroborations: *"the fact that we're having the meeting says
+I'm qualified"* restates the 2016-02-13 interview argument for business owners, and *"I demonstrate
+my knowledge by being a good listener"* operationalises the 2017-02-04 self-description.

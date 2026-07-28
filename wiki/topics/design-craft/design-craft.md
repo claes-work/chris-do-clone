@@ -1829,6 +1829,34 @@ JUST RUNNING OFF VIBES.**"* ✅ **Third-party corroboration** of the same cross-
 elsewhere (*"I like to study the craft even though I have no aspirations of being in front of the
 camera"*).
 
+## ⭐ Typographic taste — the only self-identified data point (added 2026-07-28, pass 27)
+
+> ⭐ ★★★★★ *"You're using **Futura** right there. **I like Futura.** **It's part of the identity we've
+> been using.**"* — 2019-03-22, mid-critique.
+
+**This is the corpus's ONLY recorded typeface preference.** ⚠️ Its provenance matters and must travel
+with it: it is **self-identified** (*"Hey everybody, Chris here"*), **unscripted** (an aside inside a
+live art-direction session), and **tied to a concrete decision** (Futura was in the identity system
+they were using).
+
+> ⚠️ **Do NOT supplement this from the *Fonts You NEED To Know* series.** Five clips (LaFarge ·
+> Archivo · News Reader · Lejeune · Neue Haas Grotesque) open with the identical templated line
+> *"X is one of my favorite typefaces"* — a **format convention with no identified narrator**, logged
+> in [[../../gaps|gaps.md]]. **Five templated openings are not five preferences.**
+
+### ★★★★ Art direction, defined by what it is not (2019-03-22)
+
+> ★★★★ *"How do you give art direction… in a way that **empowers them to make the changes that you
+> want**? How do you do it in a way that **doesn't mean that you're sitting on the box moving the
+> mouse around yourself**? … **give people feedback so that they can grow as designers** — and you can
+> get the work done and focus on other things."*
+
+✅ **Two goals in one move** — the designer grows *and* he is freed. Same logic as the **"I do / we do
+/ you do"** ladder, at the scale of a single critique. ✅ **And it is documented working**: in
+[[../../sources/2019-03-25-yt-wzXKwe1-w7Q|pt. 2]] he reports *"I asked her to go deep, and she's come
+back and this looks super resolved."*
+([[../../sources/2019-03-22-yt-_1MIAMxixag]])
+
 ## Sources
 
 - [[wiki/sources/2015-07-10-yt-hqYIe5Y76oY]] — My (First) Design Portfolio (portfolio framework, T-shaped, matching mirror). (2015-07-10)

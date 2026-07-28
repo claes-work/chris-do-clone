@@ -3134,6 +3134,23 @@ outcome and the other owes you nothing after the sale.**
 ⚠️ Attribution: solo format, no self-identification.
 ([[../../sources/2021-09-17-yt-kBkNj7aHSu4]])
 
+## ⏳ *Thirst* — a 2019 print venture, outcome unknown (added 2026-07-28, pass 27)
+
+> ★★★★★ *"I had this idea of launching a magazine that would be **a hybrid between How magazine and
+> Fast Company** — a place where you would **find out about design, but through the lens of business
+> and how design can impact businesses.**"* (2019-03-25)
+
+> ⏳ *"Sometime in the first — the second quarter this year — **we'll actually release a physical copy.
+> Old-school media, printed version, newspaper.**"*
+
+✅ **The positioning line is The Futur's entire thesis compressed into a masthead pitch**, and he
+commits to a quarter on camera — a **dated intention**, not a musing.
+
+> ⚠️⚠️ **STATUS UNKNOWN. The corpus has no evidence that *Thirst* shipped, and none that it was
+> cancelled.** Present it only as a **2019 stated plan**. ⚠️ **It is deliberately NOT in
+> `persona/biography`**, because a biography entry would imply it happened.
+> ([[../../sources/2019-03-25-yt-wzXKwe1-w7Q]])
+
 ## Sources
 
 - [[wiki/sources/2016-02-24-yt-4ZeNq6s_aX4]] — "3 Tips on starting your own design agency"

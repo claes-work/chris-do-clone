@@ -14599,3 +14599,55 @@ remark, and makes the educator discrepancy more interesting rather than less.
 Synthesis notes: **two dated tenure figures** (2019-01-23) → `persona/biography`, ⚠️ **with the
 educator-tenure contradiction carried as a visible flag**; the Blind figure noted as a third data
 point on the contested run-length.
+
+## [2026-07-28] lint | synthesis pass 27 — and ⚠️ INGEST IS EXHAUSTED WITHIN CURRENT SCOPE
+
+### Why this pass ran early (debt 5/10, not 10/10)
+
+**Because ingest has nothing left to process.** Both drivers now answer the same way:
+
+```
+python3 tools/ingest_batch.py prepare --channel @ChrisDo         -> Nothing open to prepare
+python3 tools/ingest_batch.py prepare --channel @TheFuturAcademy -> Nothing open to prepare
+python3 tools/ingest_batch.py prepare --channel @thefutur        -> 0 rows
+```
+
+So I drained the synthesis debt instead of idling. **This is NOT "corpus complete"** — see below.
+
+### Promoted (4)
+
+1. ⭐ **The Futura preference** → `topics/design-craft`, as **the corpus's only self-identified
+   typeface datum**, with its provenance attached and an explicit ⚠️ **do-not-supplement** warning:
+   the five *Fonts You NEED To Know* clips share one templated opening and **five templated openings
+   are not five preferences.**
+2. ★★★★ **Art direction as feedback-not-the-mouse** → `design-craft`, with pt. 2's evidence that the
+   designer came back *"super resolved"* — **the claim and its discharge, together.**
+3. ⏳ ***Thirst***, the 2019 print venture → `topics/business` with ⚠️⚠️ **outcome UNKNOWN** and an
+   explicit bar on adding it to `persona/biography`.
+4. ⏳ **The 2019 scripted tenure figures** → `persona/biography`: ✅ Blind *"over 24 years"* as a third
+   data point on the contested run-length; ⚠️ the educator-tenure contradiction **flagged, not
+   reconciled.**
+
+### ⚠️ THE STATE OF THE QUEUE — 345 open rows, none processable
+
+| Category | Rows | Why it is blocked |
+|---|---|---|
+| **@thefutur livestreams** | **235** | ⚠️ **Invisible to the driver** — `ingest_batch.py` filters `type == "video"`. Flagged since **batch 217**. Bringing them in **expands corpus scope**, which is the owner's call, not mine. |
+| **no-captions** (all channels) | **88** | Hard floor. **Whisper is never run without explicit user approval.** |
+| Academy-tier shorts | 14 | Closed-out category |
+| dups / unavailable | 8 | Correctly closed |
+
+**I am not declaring the corpus complete, and I am not running Stage D.** Doing so would report a
+finished corpus while **235 substantive Chris-led livestreams have never been touched**. The accurate
+statement is narrower and I am making it instead: ***every source the pipeline can currently reach
+has been processed.***
+
+### 📌 Three decisions now gate all further ingest — all mine to recommend, none mine to make
+
+| # | Decision | My recommendation | Open since |
+|---|---|---|---|
+| 1 | **235 @thefutur livestreams** — change the driver's type filter to include `stream`? | ✅ **Yes, bring into scope.** Substantive Chris-led long-form; a book launch, business Q&As and guest sessions sit in there. | batch **217** |
+| 2 | **88 no-caption rows** — approve Whisper transcription? | ⚖️ **Owner's call on cost.** 45 are @thefutur long-form and may be valuable; 43 are shorts and likely recuts. **Suggest long-form only, if any.** | this entry |
+| 3 | **14 academy-tier shorts + Academy residue** | ✅ **Close out.** The channel is instructor-led; this run's 3 Chris-fronted finds came from long-form, and that is now drained. | batch **222** |
+
+Corpus at this boundary: **L2 = 1,043 · L3 = 0 · 1,043 source pages · system-prompt v24.**

@@ -170,6 +170,18 @@ They are promoted here **as a pair**: [[2024-03-29-yt-zCSjA-QoNiM]] is the "befo
 - **ArtCenter was paid for by four things stacked**: a **50% scholarship**, a **Stafford loan**, a
   **contribution from his parents**, and **two maxed-out credit cards**. No grants. He left with *"quite a
   bit of debt in student loans and credit card debt."*
+- ★★ **2019-01-23 — a SCRIPTED self-description (added 2026-07-28, pass 27).** 🗣️ In The Futur
+  Academy channel trailer — written copy, not an off-the-cuff remark — he states: *"I'm **Chris Do**,
+  the **founder and CEO of The Futur**. I've been running the design studio **Blind for over 24
+  years** and have been **an educator for the past 15.**"*
+  - ✅ **"Over 24 years" in Jan 2019 → founding ~1994–95**, independently corroborating the
+    self-reported 1995 date, and a **third data point** on the run-length flagged as contested above
+    (~23 vs ~25 years) — consistent with both.
+  - > ⚠️ **CONTRADICTION (minor): "an educator for the past 15"** implies teaching from **~2004**,
+    against the **~2000–01** Otis start and *"started teaching when I was 26"* (~1999) recorded
+    elsewhere on this page. **Not reconciled** — he may be rounding, or counting paid/full-time
+    teaching rather than his first adjunct post. **Recorded as stated.**
+  ([[../wiki/sources/2019-01-23-yt-5zg4-UcSgzE]])
 - ★★ **Two earlier figures, added 2026-07-28 (pass 26)** 🗣️ [self-reported] — they sit *below* the rate
   arc and give it a floor:
   - ⏳ *"**When I was 16 or 17 years old I was making three dollars and 25 cents an hour.**"*

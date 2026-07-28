@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-28 (ingest yt batches @thefutur → **1,016 L2**; ★★★★★ **ghosting explained from the buyer's side and then demonstrated against himself in the present tense** — and ⚠️ **he de-recommends value-based pricing to most of his own audience**)_
+_Last updated: 2026-07-28 (ingest yt batches @thefutur → **1,019 L2**; **@thefutur P3 down to 3 rows**; newest: ★★★★★ **a live diagnostic narrated as it happens** — outcome → measure → **baseline and benchmark** — with *"notice we've not talked about any tactics"* and *"let me not lead the witness"*)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **1,016 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 and P2 both fully drained**; 97 members-only rows skipped as unobtainable; remaining: @thefutur P3:7, @TheFuturAcademy P3:72, 860 shorts).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **1,019 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 and P2 both fully drained**; 98 members-only rows skipped as unobtainable; remaining: @thefutur P3:3, @TheFuturAcademy P3:72, 860 shorts).
 
 ## Topics
 

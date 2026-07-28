@@ -12000,3 +12000,66 @@ and the be-still instruction; and **the graceful exit naming temperament** → `
 ④ ★★★★★ **The counter-example test** → `topics/mindset`, as a documented instance of how he adopts a
 claim about emotion. Also ★★★★ **money avoidance diagnosed as a self-worth problem** (*"not just a
 rejection of the proposal, but a personal rejection"*) → `mindset`.
+
+## [2026-07-28] ingest | yt batch (@thefutur, 3 + 1 auto-skipped) — the diagnostic, performed and narrated
+
+Batch 216, Stage B (P3). L2: 1,016 → **1,019**. ✅ **@thefutur P3 is down to 3 rows.**
+
+✅ **The members-only detector added in batch 199 fired on its own** — `yt-8wa_ZyNpQWs` was marked
+`skipped` by the driver with its tier recorded, without a wasted iteration. That is the fix paying
+for itself.
+
+- `yt-05XuPA4Q_SE` — **2026-01-17, "How to Build Content People Actually React To."** ★★★★★ The
+  valuable source.
+- `yt-6w9F6_NJY8M` — **2025-06-28, Rich Webster.** Guest-dominated; kept **defensively**.
+- `yt-tXY5CIDRNhc` — **2025-07-03, conflict-resolution trainer.** Guest-expert-led; fenced into an
+  existing class.
+
+### ★★★★★ The diagnostic, performed and narrated at the same time
+
+He stops mid-session to say what the episode is actually for:
+
+> *"**I'm going to take a little bit longer to talk to you versus just answering your question about
+> content — because I'm going to help a lot of creative people understand HOW TO TALK TO POTENTIAL
+> CLIENTS, or have a strategic business conversation. NOTICE WE'VE NOT TALKED ABOUT ANY TACTICS. I just
+> want to know what's important to you.**"
+
+The sequence is then visible step by step: **outcome → write it as an equation → how is it measured →
+baseline and benchmark → interrogate the outliers.** And **baseline/benchmark gets its plainest
+definition in the corpus**: *"baseline is what's the average — and then what would you like to get it
+to."* He also **refuses to choose the client's metric** (*"you tell me what matters to you"*) and
+**affirms a modest baseline** rather than pushing for a more ambitious one.
+
+★★★★★ **And he catches himself leading the witness, aloud, mid-sentence** — *"sorry, let me not lead
+the witness. Sorry, your honor — objection, leading the witness."* ✅ **The same self-interruption habit
+as *"I'm stopping myself from talking right there"* from 2016**, a decade apart, which makes it a
+documented constant rather than a one-off.
+
+### Two pages written as fences
+
+Both guest episodes were kept **because their material is adjacent to Chris's own**, not despite being
+low-yield:
+
+- The Rich Webster thesis — *"I was hiding a huge part of my personality… the more you can be in
+  alignment, the more money you can make"* — is **the authenticity-gap argument in a different mouth**,
+  in the same vocabulary the corpus uses for Chris. ⚠️ Recorded with an explicit do-not-merge, and a
+  note that **the resemblance is not evidence of influence in either direction.**
+- The conflict-resolution episode is catalogued into **the existing fenced class** with Melanie
+  Whitney, Cynthia Kane and Andrea Sampson — communication specialists whose expertise sits next to the
+  non-violent-language thread.
+
+⚠️ **Index hygiene:** the 2025-06-26 row inserted last batch had landed out of date order; corrected
+this batch. That is the second such slip in the run, both from anchoring on the wrong neighbouring row.
+
+Ledger: L2 = 1,019. Open: **@thefutur P3:3**, @TheFuturAcademy P3:72, 860 shorts. Synthesis debt 2/10.
+
+**Synthesis notes:** **Three items.** ① ★★★★★ **Baseline and benchmark** → `topics/content-strategy`
+**and** `topics/sales-clients`: the corpus records diagnose-before-prescribing abundantly and this is
+**the arithmetic version** — *"baseline is what's the average, and then what would you like to get it
+to"* — run live, with the metric chosen by the client rather than by him. ② ★★★★★ **"Notice we've not
+talked about any tactics"** → `sales-clients`: he states mid-session that the demonstration is really
+about **how to have a strategic business conversation**, which is the doctrine being performed rather
+than described. ③ ★★★★★ **"Let me not lead the witness"** → `persona/voice`, ✅ **filed together with
+the 2016 instance** — two self-interruptions a decade apart make it a constant, not an anecdote.
+⚠️ **Nothing from either guest episode is promotable**, and both carry do-not-merge flags for material
+that closely resembles his own.

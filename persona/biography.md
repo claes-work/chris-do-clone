@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-28
-sources: 214
+sources: 238
 ---
 
 # Biography
@@ -1056,6 +1056,289 @@ that**"*; then he tested it and *"**it clicked.**"*
 - **Attends Daniel Priestley's Atomicon conference (self-reported, minor).** 🗣️ Confirms in a September 2023 episode that he has personally attended **Atomicon**, where he met a podcast guest; consistent with Priestley's standing as a recurring influence/guest elsewhere in the corpus. ([[2023-09-10-yt-b-y51Li7Bgs]])
 - Residence: LA-area since college; The Futur/Blind are in **Santa Monica**. In the Feb 2024 interview he says he had **recently moved to Pasadena** (~1 year prior). 🗣️ (mild tension with the dossier's "lives in Santa Monica" — company location vs. personal residence) ([[2026-07-14-research-biography-dossier]], [[2024-02-24-yt-f5uYRuqK4g0]])
 
+## ★★★★★ October 2025 – April 2026 additions (added 2026-07-28, pass 20) 🗣️
+
+_All self-reported unless marked. Sources: batches 185–194._
+
+### ⚠️★★★★★ Kier McLaren has died (2026-03-31)
+
+> ★★★★★ *"**I've worked with a business coach for 13 years… His name is Kier McLaren. HE'S
+> PASSED AWAY.** He's a big Irish-American man, very big, rides a motorcycle. **And I would
+> meet with him every single week for 13 years, for about an hour and a half to two hours.**"*
+> ([[../wiki/sources/2026-03-31-yt-i9AqXEjbf8I]])
+
+**No date of death is given, and none is inferred.** This is the first record of it in the
+corpus and it **retroactively puts every coaching anecdote in the past tense.** ✅ The 13-year
+figure corroborates the 2020 telling above (against the earlier ~10-year figures).
+
+★★★ **Kier's other clients, for context on the relationship:** *"he consulted and coached many
+people in our industry. **Some of them are world-famous title designers who worked on big
+blockbuster films. Some of them work with world-class musicians.** So I'm just one of many
+people he consults."*
+
+### ★★★★★ The Daywalker — in Kier's own words (2026-03-31)
+
+The self-concept already on this page now has its origin scene:
+
+> ★★★★★ *"He goes: '**Chris, of all my clients, you're not the most creative. Clearly there are
+> more creative people**' — and I know, because I know his clients. **They're my heroes.** And
+> then: '**And you're not the best business person either.**' **And I'm thinking: is this going
+> somewhere, coach?** And he goes: '**BUT NO ONE IS AS GOOD AT DOING CREATIVE AND RUNNING A
+> BUSINESS AS YOU.**'"*
+
+> ★★★★ **The two failure modes Kier was contrasting:** *"the creative person is the pursuit and
+> purity of artistic expression — **and they're running their business into the ground.** And
+> the really good business operators are making a lot of money, but **they have no creative
+> soul.** … **You're the best HYBRID.**"* → hence *Blade*'s **Daywalker**: *"all the strengths
+> of a vampire and none of the weaknesses."*
+
+### ★★★★★ Origin, arrival, and the identity arc (2026-03-31)
+
+- ★★★★★ **Born in Vietnam; arrived in the United States at age 3, in 1975.** ✅ This closes a
+  standing gap on `persona/appearance.md`.
+- **Assimilation was deliberate policy at home:** *"**my parents were different than their
+  siblings — they really wanted us to ASSIMILATE QUICKLY.** They spoke to us in Vietnamese at
+  home, but it wasn't forbidden to speak English, **and they wanted us to fit in fast. And so
+  my Vietnamese is terrible.**"*
+- ★★★★★ **The childhood self-narrative:** *"**for a long time my own identity was: I WISH I
+  WASN'T LIKE THIS. Because all I wanted to do is BE INVISIBLE my entire life. Just leave me
+  alone.**"* — with the mechanism: *"**being Vietnamese meant I was a source of someone to be
+  picked on, to be bullied.**"*
+- ★★★★★ **The loneliest detail:** *"**My biggest concern in school was: I wonder who I'm going
+  to eat lunch with today. Because I just would not like to eat alone.**"*
+- ★★★★★ **His older brother's advice, which he still runs on:** *"**the best thing that you can
+  do for a bully is to STAND UP.** I'm a small guy, I'm not strong, I'm not athletic. But he
+  always told me: **stand up and they'll leave you alone, because they'll move on to someone
+  easier.** And **though I was scared out of my mind to get into fights — and I would get into
+  some — after their first fight they would just leave you alone.**" ✅ This is the childhood
+  root of the adult *"I love my bullies"* posture (2026-03-24).
+
+> ★★★★★ **THE TURNING POINT — the Art Center graduation.** *"**I see something for the very
+> first time: a lot of Asian people — Korean, Chinese, Japanese, and even some Vietnamese who
+> were not born here — PROUDLY WEARING THE DRESS OF THEIR COUNTRY. And I had never seen them
+> like this before.**"* — where his prior reflex had been *"I'm not wearing that. That looks
+> very feminine. I cannot wear that."* →
+> *"**SOMETHING CHANGED INSIDE OF ME. I had not seen Asian people at the height of excellence
+> and to that level of pride. IT MADE ME REALLY ASHAMED OF MYSELF FOR THE SELF-HATE THAT I HAD
+> FOR BEING VIETNAMESE AMERICAN.**"* → *"that started **a multi-year-long journey within myself
+> to celebrate and to love myself 100%.**"*
+
+★★★★ **And the analysis he applies to it**, which is unusually unsparing about his own
+position: those classmates' pride came from having grown up *in* the dominant culture and from
+being *"the top 10%, 1% of their society"* — *"so naturally, when they came to America, they
+had more money than the Americans."* Against that: *"**and me — even though we weren't poor, MY
+PARENTS MADE SURE WE FELT POOR, because I never saw any of that money. So I was just living by
+credit card.**"*
+
+### ★★★★★ Why identity never surfaced during the agency years (2026-03-31)
+
+> ★★★★★ *"We're located in **Santa Monica**, working in advertising — **a predominantly white
+> industry, white man industry. Nothing wrong with that, that's just the culture.** And
+> throughout that whole time, **because it was mostly conference calls — YOU WIN OR DIE BY THE
+> PHONE CALL. THEY DON'T SEE YOU.** You show your work and you pitch, and **WE LIVE IN THE
+> REALM OF IDEAS. And so identity and who I was NEVER CAME INTO PLAY.** It just meant we had to
+> be the best. **And we're pitching on \$100,000 jobs, \$500,000 jobs — and we were winning.**"*
+
+★★★★★ **Representation arrived only with YouTube:** *"**it's not until 2014, making videos with
+my then partner Jose, that people start DMing me** about representation… **I didn't realise
+this, but being an Asian man, Vietnamese American, IT GAVE PERMISSION to lots of people.**"* →
+with the honesty about the burden: *"**even though it wasn't important to me to represent other
+people — I DIDN'T WANT TO CARRY THAT BURDEN — it was important for PEOPLE TO SEE PEOPLE LIKE
+THEM DOING GREAT.**"*
+
+### ★★★★★ The family structure that explains the hybrid (2026-03-31)
+
+> ★★★★★ *"**My father and my entire father's family — there's like NINE SIBLINGS. THEY'RE ALL
+> ENGINEERS. Silicon Valley. They're all doing really well, they own multiple homes, living in
+> San Jose.** **My mom's side — they're all ARTISTIC. Singers, poets, artists, writers. My mom
+> is one too. THEY'RE DREAMERS**… **and many of them are financially just not doing well.**"*
+>
+> ★★★★★ *"**So you can see now: I'M THE EXACT CHILD BETWEEN MY MOM AND MY DAD. And maybe it's
+> coincidental — but I'M ALSO THE MIDDLE CHILD.**"*
+
+★★★★★ **The three brothers, resolved for the first time:**
+
+| | |
+|---|---|
+| **Older brother** | *"a Silicon Valley engineer. **He's exited on multiple companies. He's a founder.**"* — four years his senior; the source of the bully advice |
+| **Chris** | the middle child |
+| **Younger brother** | *"**never went to college**, artist, freelancer who does **visual effects for TV shows**"* — and *"**my younger brother… learned typography from me**"*, now *"a working freelancer for over 25 years"* ([[../wiki/sources/2026-03-10-yt-Zys3dt503Q4]]) |
+
+### ★★★★★ His parents — and the origin of his questioning style (2026-03-31)
+
+- ★★★★ **Latchkey childhood:** *"**both parents worked all the time and we were LATCHKEY
+  KIDS**… for a long time I felt really bad, because I thought we should do more stuff together
+  as a family… **but my parents were just busting their butt just trying to make sure we can pay
+  the mortgage.**"* → ★★★★★ **the reframe:** *"**what I realised many years later was that IT
+  GAVE ME A LOT OF FREEDOM to learn about who I was going to be in this world — versus following
+  a blueprint that they wanted to lay out for me.**"*
+- ★★★★★ **His father's method — plainly the origin of the Socratic style he uses in every
+  coaching session in this corpus:** *"**instead of telling me what to do, MY DAD WOULD JUST ASK
+  ME LOTS OF QUESTIONS. When I got into trouble, it wasn't a long lecture. IT WAS JUST A LOT OF
+  QUESTIONS — getting me to think. And it allowed me the space to not fill in what he wanted me
+  to become, to fit in a mould.**"*
+- ★★★★★ **His mother's intervention over art school** — which he learned only much later:
+  *"**when I decided to go to art school — I didn't know this at the time — MY DAD WAS REALLY
+  AGAINST IT. And I didn't know because HE NEVER TOLD ME. And the reason he never told me was
+  because my mom — she's like that tall, and she never talks back to my dad, traditional
+  family — SHE STOOD UP AND SAID: 'YOU'RE NOT ALLOWED TO TELL HIM YOUR THOUGHTS.'**"* →
+  ★★★★★ *"**AND SO NOW MY MOM HAS BECOME MY HERO.** I'd like to think I'm strong enough to
+  pursue art and design even if they didn't approve — **but I NEVER HAVE TO KNOW, BECAUSE I
+  NEVER HEARD. She shielded me from that.**"*
+- ★★★★ **The proximity reversal:** *"we moved to Los Angeles, **and then eventually they moved
+  to Los Angeles**, because when we had kids the grandparents want to be around the kids. So
+  they sold their house. **Now THEY live close to US, versus us living close to them.**"*
+- ★★★★★ **The cousins ledger:** *"of all my cousins who went a very traditional path… **THEY
+  NEVER MOVED MORE THAN 15 MILES AWAY FROM HOME. They're all still in San Jose.** And they're
+  pharmacists, dentists, doctors, nurses, engineers, lawyers, accountants. Very respectable
+  things. **THEY'RE POORER THAN I AM. And now I'm seen as the one who breaks the mould.**"* —
+  with the cost he attributes to it: *"they're still, **in their 40s, concerned about what their
+  parents are doing**… **they never fully realised their own identity and their own potential.
+  And I think that's just a shame.**"*
+
+### ★★★★★ Blind 1995–97 — the niching decision, and the payoff quantified
+
+Told twice in this window ([[../wiki/sources/2025-10-30-yt-3ikc89b-tkE]],
+[[../wiki/sources/2026-03-10-yt-Zys3dt503Q4]]), and the 2026 telling finally puts numbers on
+the outcome.
+
+- **The generalist years:** *"**Year one and two of Blind — started 1995.** You called me for a
+  logo, I'd make you a logo. An identity system. A broadcast promo. A website. An animation for
+  your ski company. **And as I'm doing all those things, I was never very good at any of them
+  except for the thing I studied in school.**"* → *"**within MONTHS… outside my core skill set,
+  everything that came in, I WAS AN AMATEUR.**"*
+- ★★★★★ **The wake-up call:** *"**the clients who paid me sent one of their senior animators to
+  overlook the project — to give me tips**… **not only did they pay me, they paid for their own
+  guy to come over, because they knew I didn't know what I was doing.**"* (2026 telling uses the
+  harsher verb: *"to **BABYSIT** the project, cuz they weren't sure we could pull it off"*).
+  ★★★★ **His reaction:** *"**And I wasn't embarrassed. I was like: wow, there's so much I don't
+  know.**"*
+- **The decision, ~2 years in**, announced at home: *"'Hey babe, I'm going to make a big
+  business decision for all of us. **I want to focus on one thing. I want to focus on motion
+  design.** I think there's enough there for me to sink my teeth into for a long time **so that
+  I don't get bored.**'"* → the answer: *"Okay, whatever. I trust you."* (wife name-free per
+  policy)
+- **The discipline that followed:** *"**those skills still live with me, but I didn't market
+  those. I didn't accept those projects until I got really good and well known for doing motion
+  design.**"*
+- ★★★★★ **Twenty years later:** *"a client said: '**I know this is not your thing, but can you
+  help us with a logo design?**' — **Not my thing!** '**Do you guys do print?**' I'm like — **do
+  we do print?!** **I was so good at this other new thing that people forgot about the old
+  thing.**"* → *"**And to that I smiled. This is what I know how to do really well.**"*
+- ★★★★★ **THE PAYOFF, QUANTIFIED (2026-03-10 — new):** *"**This allowed me to grow from doing
+  TENS OF THOUSANDS of dollars for a project, to HUNDREDS OF THOUSANDS, and even up to A MILLION
+  DOLLARS for a project. This is the reward of being a specialist.**"*
+
+### ★★★★★ \$2.2M → \$3.9M under Kier McLaren (2026-03-10)
+
+> ★★★★★ *"**I was able to take my company at that time, a couple of years in, from about \$2.2
+> MILLION a year to \$3.9 MILLION a year. The way I achieved that was to bring in a business
+> coach. And that business coach, his name is KIER McLAREN.**"*
+> ([[../wiki/sources/2026-03-10-yt-Zys3dt503Q4]])
+
+> ★★★★★ **And the myth he corrects about coaching:** *"**this is a common myth — that business
+> coaching requires you to change everything you do.** Maybe some of it does; I've not
+> personally experienced that, as someone who's been coached and who coaches lots of people.
+> **IT'S USUALLY THE SMALL TWEAKS. Say this instead of that. Use this phrase. Change this one
+> thing about how you're delivering. Ask clients this one question before you get off the
+> phone.**"*
+
+### ★★★★★ Art Center: fifteen years teaching, at \$58 an hour (2026-03-24)
+
+> ★★★★★ *"**for 15 years I taught at Art Center. It filled my soul with joy. It recharged me all
+> the way. But when I was teaching at school, THEY PAID ME \$58 AN HOUR. That was less money
+> than I paid freelancers to work for me.** So what they were doing is **tapping into my passion
+> for teaching and saying: we'll pay you with passion. As the entrepreneur I'm like: hm, THAT
+> SOUNDS LIKE EXPLOITATION. And I did it for 15 years.**"*
+>
+> ★★★★★ **And the retort to a criticism he clearly receives:** *"**So if you want to criticise
+> me for pursuing the money — you do something for 15 years where you don't get paid, and tell
+> me how you like it.**"* ([[../wiki/sources/2026-03-24-yt-GaDK_zVy1Cc]])
+
+### ★★★★★ "A couple million dollars before I turned 25" (2026-03-24)
+
+> ★★★★★ *"[at the production company] **I made a lot of money. I made millions of dollars.
+> Actually, I made a couple million dollars BEFORE I TURNED 25.** But **the corporate overlords
+> always told me what to do. 'Make it bigger.' 'That pixel — can you move it one pixel to the
+> left?' 'We don't like that shade of green, can you make it more emerald?'**"*
+
+⚠️ Self-reported, undated beyond the age marker; with a birth year of ~1972 this places it
+around **1995–97**, i.e. Blind's earliest years. **Recorded as his claim; not reconciled with
+the Blind revenue figures above, which are later and company-level.**
+
+### ★★★★ The three circles, figured out "in my 40s" (2026-03-24)
+
+At a Las Vegas technology conference, a former student remarks that he seems *"almost glowing"*
+— *"'You know what? **I think I've figured out the secret to my life.**' And I take out a little
+napkin… **I drew three circles. I think I finally figured out my life IN MY 40s.** **Something I
+love to do. Something I'm really good at. And what the world needs.**"*
+
+> ★★★★★ **The circle he deliberately left off:** *"**There's a reason why no circle exists on
+> here that says MAKE MONEY. Because I believe when you find that sweet spot, THE MONEY COMES.
+> If the money hasn't come, IT'S BECAUSE ONE OF THESE CIRCLES IS MISSING.**"*
+
+⚠️ Related to but **distinct from** the four-column *ikigai* exercise elsewhere in the corpus —
+three circles here, four columns there, and he does not name ikigai in this telling.
+
+### ★★★★★ The 2025 setbacks, and coming out of semi-retirement (2026-04-07)
+
+> ⚠️ **Family-privacy rule applied — his wife is referenced by role only.**
+
+- ★★★★ **Departures:** *"**we have moved on from some of the key members of our company and
+  they've gone on to do wonderful, amazing things. I'm really happy for them.**"* — with the
+  consequence stated plainly: *"**when they took Accelerator with them, they also took a large
+  chunk of revenue away from us, and we had to see: CAN WE STILL DO THIS? ARE WE STILL RELEVANT?
+  WHAT ARE WE ALL ABOUT?**"*
+- ★★★★ **The upside he draws:** *"**the smaller your team, the more work you have to do** —
+  everybody understands that. **But the smaller your team, THE LESS FRICTION there is to do what
+  you want to do.**"*
+- ⚠️★★★★★ **The financial disclosure:** *"**for the past couple of years I've been on
+  SEMI-RETIREMENT MODE. I work for fun. It's a lifestyle business. As long as we don't lose
+  money, I'm okay.**"* → his wife tells him she is drawing on other income to cover current
+  bills → *"'How much more money do I need to make?' — **'\$20,000 more a month would probably
+  do it. That's how much short we are.'** I said: **'I can do that.'**"* → then the target moved
+  again for a property purchase.
+- ★★★★★ **The self-knowledge it confirmed:** *"**I can only be PUSHED so much. I NEED TO BE
+  PULLED towards something.** The old pull was: **make enough money so your wife and family have
+  financial security. As a provider, I need to do that. And when I shot past that goal, I'm
+  good — so I didn't feel like I needed to do anything anymore.**"*
+- ★★★ **What "messing around" had meant:** *"**I haven't launched a new product or course in
+  years. I haven't changed a lot of the workshops — I've been refining them.**"* plus long
+  deliberate lulls — *"a 4-hour walk… leisurely work out in the gym for 2 hours. I'm literally
+  probably doing 15 minutes of work, but I'm stretching it out for 2 hours, cuz I get to enjoy
+  my life."* → *"**I live a highly optimised life.**"* → and now: *"**if you think I've been
+  cooking before — you ain't seen nothing yet.**"*
+  ([[../wiki/sources/2026-04-07-yt-d7bgouAH3ns]])
+
+### ★★★★ The Futur, in his own numbers (2026-03-24)
+
+Stated on stage in Dubai: *"I started a company, a YouTube channel called The Futur, in 2014"*
+— **over 2,000 videos**, *"a gazillion hours"*, **over \$1 million in revenue**, and **24 videos
+past a million views**; top video **4.5M**, with two shorts recuts at **50M** and **44M**.
+
+> ★★★★★ *"**Look at the gap between when we released it and when we went viral. WE ARE THE
+> CLASSIC EXAMPLE OF AN OVERNIGHT SUCCESS STORY 10 YEARS IN THE MAKING.**"*
+
+### ★★★ Two named talks, and "recovering graphic designer" (2026-03-31)
+
+His talk titles: ***Unbland Yourself*** and ***Confessions of a Recovering Graphic Designer*** —
+*"my life story and all the twists and turns… **the slide should have said: A SERIES OF
+UNFORTUNATE EVENTS LED ME TO EXACTLY HERE.**"*
+
+> ★★★★ **Why "recovering":** *"**my identity for a very long time WAS graphic design. But being
+> a graphic designer means YOU MUST DESIGN GRAPHICS**… **and after I outgrew that title — though
+> it served me really well — it's time to move on. I still have graphic design tendencies, but
+> I've evolved beyond that. Now I help people with relationships, with their business, with
+> negotiations, with public speaking, with their own personal brand.**"*
+
+★★★ **A small constant:** *"**the happiest that I ever am is with a large piece of paper and
+some markers. And that was just how it was when I was 5 years old. So they continue on into my
+50s.**"*
+
 ## Known uncertainties
 
+- **Kier McLaren's date of death — unknown.** He states only that his coach *"has passed away"*
+  (2026-03-31); no date, and no other source in the corpus mentions it. Do not infer one.
+- **"A couple million before 25"** vs. the company-level revenue figures — both self-reported,
+  different scopes, not reconciled by him.
 - Exact birth date (Jan 13) — aggregator-only (1972 corroborated first-hand by his stated age 51 in Feb 2024). High school — unnamed. Blind founding **1995 (self-reported) vs. incorporation 1997 (registry)**. Blind's dissolution date — unknown. Proper nouns from auto-captioned videos (Brad Shuboya, "Screen Designs," Candace/Candice Lopez, Jose Caballer/"Caraballo") — verify spellings before treating as canonical. ([[2026-07-14-research-biography-dossier]], §14)

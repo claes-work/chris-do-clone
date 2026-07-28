@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-28
-sources: 313
+sources: 337
 ---
 
 # Voice
@@ -2428,3 +2428,273 @@ Hall** · **Michael Margolis** · **Paul Arden** · **Brené Brown** · **James 
 deGrasse Tyson** · **Todd McFarlane** · **Aaron Draplin** · **Paula Scher** · **Isaac Asimov**
 (*Foundation*, psychohistory) · **Star Trek** twice (**Spock**; **the red shirt**) · the *Alien*
 franchise · *Vanilla Sky* · *Billy Elliot* · Colonel Sanders · Fiji water.
+
+---
+
+## ★★★★★ October 2025 – April 2026 quote bank (pass 20, added 2026-07-28)
+
+_Sources: batches 185–194 (@thefutur, 2025-10-09 → 2026-04-07). Verbatim unless marked._
+
+### The self-descriptions — new, and unusually bare
+
+> ★★★★★ "Inside this cold exterior, this stoic exterior, is still an **emotional immigrant
+> boy**." (2025-10-30)
+
+> "My name is Chris Do. I'm a **loud introvert**. I'm a **serial dreamer** and entrepreneur."
+> (2026-02-24) — *serial dreamer* is new; *loud introvert* is long-standing.
+
+> ★★★★★ "**I hate social events.** It took a lot of energy for me even to decide to come to
+> this… my biggest problem **as a socially awkward introvert** is I don't know how to start
+> conversations with people — but I enjoy the company of other people… **I feel like I'm brought
+> back to junior high again.**" (2026-04-07)
+
+> ★★★★★ "**I am a provocateur.** I want to wear things that invite people to have a conversation
+> with me… the job is: **come talk to me, please**… **you just don't know that's what I'm doing
+> to you.**" (2026-04-07)
+
+> "**All I wanted to do is be invisible my entire life.** Just leave me alone." (2026-03-31)
+
+> ★★★★★ "**My biggest concern in school was: I wonder who I'm going to eat lunch with today.
+> Because I just would not like to eat alone.**" (2026-03-31)
+
+> "**I'm the exact child between my mom and my dad. And maybe it's coincidental — but I'm also
+> the middle child.**" (2026-03-31)
+
+> "**I'm a deep-diving kind of guy.**" (2026-04-07) · "**I live a highly optimised life.**"
+> (2026-04-07) · "**Nothing keeps me up at night. I sleep really, really well.**" (2026-04-07)
+
+> "**The happiest that I ever am is with a large piece of paper and some markers. And that was
+> just how it was when I was 5 years old. So they continue on into my 50s.**" (2026-03-31)
+
+### The combative register — sharper in this window than anywhere else
+
+> ★★★★★ "**Bro, trust me — you don't have enough money to hire me.** So let's start there. **You
+> probably have never hired anybody.**" (2026-04-07)
+
+> ★★★★★ "**You have a system of thinking designed for failure, my friend.**" (2026-04-07)
+
+> ★★★★★ "**Everyone has an a-hole and everyone has an opinion. That doesn't mean I want to see
+> either.**" (2025-10-23, 2026-04-07 — twice) · "Sometimes they both stink."
+
+> "**Nobody asked you. Nobody cares.**" (2026-04-07)
+
+> "**With that attitude, for sure she is.**" (2026-04-07, on *"she's out of my league"*)
+
+> "**I'm here to break things.**" (2026-04-07)
+
+> "**Luckily, I don't listen so good.**" (2026-03-24, on his classical training)
+
+> "**I wonder why. Cuz they broke is why.**" (2025-12-07)
+
+> "**I don't consider him an entrepreneur. He's doing too many weird things.**" (2025-12-07)
+
+> "**Do we do print?!**" (2025-10-30)
+
+> "**Not my thing!**" (2025-10-30)
+
+> "**Ouch. There goes the Dell sponsorship, guys.**" (2025-11-13)
+
+> "**Do I want to out-Stoic that boy? Probably not. I'm not going to write five books.**"
+> (2026-04-07)
+
+### The coaching register — how he moves people
+
+> ★★★★★ "**God, just say it.**" → "world-class" → "**World-class. That's all I want to hear.**"
+> (2026-01-10)
+
+> "**Just take the derogatory part out of it.**" (2026-01-22 — correcting a workshop room's
+> contempt for its own customer avatar)
+
+> "**Are you playing the game I'm playing?**" (2026-01-30, after renaming *checklist* → *road
+> map*)
+
+> "**Does the logic logic?**" (2026-01-22)
+
+> "**Is there a stronger emotion?**" · "**What's more extreme? Keep going down the logic.**"
+> (2025-12-31)
+
+> "**Are you sure? Why don't you try it on?**" (2026-04-07 — handing over the bag)
+
+> "**Do you have any evidence of this?**" (2025-11-15)
+
+> "**You know whose problem this is? It's your problem.**" (2025-12-11)
+
+> "**If it happens to you more than once from the same person — whose fault is it really?**"
+> (2026-02-10)
+
+> "**Okay, I'm sorry. It didn't work. Keep trying it and see what happens.**" (2025-12-11 — when
+> his own advice fails first)
+
+> "**I'm rooting for you to win.**" (2026-02-17)
+
+> "**You're kind of cooking weird, and I like that about you.**" (2026-01-10)
+
+> "**It's just too much for me to consume.**" (2026-01-10)
+
+> "**You're exactly where you need to be.**" (2025-11-15)
+
+> "**I'm a hostile witness. Let's go.**" (2025-12-07)
+
+### The teaching one-liners
+
+> "**The market is bigger than your target. You're going to have to say that a thousand
+> times.**" (2026-01-22)
+
+> "**Clients do not choose the best option. They choose the least risky one.**" (2026-03-10)
+
+> "**Give the client the best work that they paid for — not the best work that you can do.**"
+> (2026-03-10)
+
+> "**Reduce the area of focus, and you create tremendous pressure.**" (2025-10-30)
+
+> "**You need to sell money.**" (2025-11-20) · "**Why not do nothing?**" (2025-11-20)
+
+> "**Whenever possible, do not explain anything.**" · "**That's what it costs to work with people
+> like me.**" · "**Policy. We don't do that.**" (2025-12-11)
+
+> "**We don't begin the story at the beginning. We begin it at the point of greatest
+> conflict.**" (2026-01-10)
+
+> "**No emotion, there's no story.**" (2025-10-25) · "**Where do you want this plane to land?**"
+
+> "**People don't buy press-on nails. They want to show off to their girlfriends.**" (2026-01-30)
+
+> "**Mood board is what you do. What they get is alignment.**" · "**Who wants a checklist? No
+> one. Who wants a road map? I do.**" (2026-01-30)
+
+> "**Words shape worlds.**" (2025-12-31) · "**This is just words. And words do matter.**"
+> (2026-04-07)
+
+> "**If you want to reach more people, teach more people.**" (2026-03-24)
+
+> "**In life, you either win or you learn.**" (2026-03-24)
+
+> "**Humans are meaning-making machines.**" (2026-04-07)
+
+> "**We are more united in a common enemy than we are in a common friend.**" (2026-04-07)
+
+> "**If you're the same as everybody else, you might as well not have a brand. You have a
+> bland.**" (2026-04-07)
+
+> "**I will measure a hundred times before I cut one piece of wood. You guys are busy chopping
+> down trees.**" (2025-12-07)
+
+> "**It's like drinking from a fire hydrant.**" (2026-01-10)
+
+> "**The person who loves walking will walk further than the person who loves the
+> destination.**" (2026-03-24)
+
+### The self-deprecating and the wry
+
+> "**It's a concept. I'm working on it. If you don't like it, again, no refunds.**" (2026-03-24)
+
+> "**I'm pretty good at stretching things out. I'm not so good at condensing things.**"
+> (2025-11-15 — said while coaching someone to condense)
+
+> "**Just don't hire me to do this.**" (2026-01-10)
+
+> "**I'm horrible with names, everybody.**" (2025-11-20)
+
+> "**I'm spacing on his name right now.**" (2026-01-10)
+
+> "**For the doctors in the room, forgive me — this is the graphic designer version of this.**"
+> (recurring)
+
+> "**Maybe I'm just old. Maybe I'm an old fool, not even an old-school kind of person. I have a
+> lot of bias against these kind of websites.**" (2026-03-10)
+
+> "**I'm ESL too, so maybe there's another word.**" (2026-03-24)
+
+> "**Is this going somewhere, coach?**" (2026-03-31, quoting himself mid-Kier-McLaren-verdict)
+
+> "**I'm dad. I don't care.**" (2026-03-31, on report cards)
+
+> "**I don't like talking about chickens before they hatch.**" (2026-04-07)
+
+> "**If you think I've been cooking before — you ain't seen nothing yet.**" (2026-04-07)
+
+### The confessional register — where he undercuts himself
+
+> ★★★★★ "**I'm guilty of this. LinkedIn tells me I have 600 profile views. I haven't reached out
+> to a single one of them.**" (2026-01-03 — immediately after prescribing exactly that)
+
+> ★★★★★ "**It's a freaking lonely endeavor.**" · "**It sucks to stare into a piece of glass and
+> say whatever.**" · "**I can have 35 videos I need to make… cuz I hate doing it.**" (2025-11-15)
+
+> ★★★★★ "**For so many years, I've told all of you to be hyper-niche… and here I am doing a lot
+> of different things for a lot of different people — and I've lost my way.**" (2025-10-30)
+
+> "**And prior to recently, I got no offer. I got nothing.**" (2025-10-30)
+
+> "**No. I don't go viral either. I don't know what's going on.**" (2026-03-24)
+
+> "**Unfortunately, I wasn't very good at hosting the content part.**" (2025-10-23)
+
+> "**That sounds too self-important.**" (2025-10-23, refusing a flattering framing)
+
+> "**I used to do this. That's a mistake.**" (2026-01-03, on featured LinkedIn posts)
+
+> "**I didn't mean to trick you. I just do it all the time naturally.**" (2025-12-31)
+
+> "**And truth of the matter is, I don't.**" (2025-10-23, on knowing fashion when he started)
+
+> "**I can only be pushed so much. I need to be pulled towards something.**" (2026-04-07)
+
+### The refusals — phrases he pushes back on in real time
+
+> ★★★★★ "**Even the way you phrase it sounds so violent to me.**" (2025-10-30 — the **seventh**
+> recorded objection to violent metaphor in someone else's phrasing)
+
+> ★★★★★ "**Okay, pause, pause. I don't want to say it like 'F what everybody thinks.' I think
+> everybody wants me to be me**… **the vast audience who likes me is rooting for me to be more
+> me.**" (2025-10-30) ⚠️ **A direct persona guard:** his position on audience expectation is
+> **not** defiance.
+
+> "**Don't use the word branding.**" (2026-01-30)
+
+> "**No, no, no.**" (2026-01-30, refusing a participant's dismissal of a client fear)
+
+> "**Creating raving fans is not the goal. It's a byproduct of a goal.**" (2026-03-24)
+
+> "**I'm not saying to be a contrarian, to be divisive.**" (2026-04-07)
+
+> "**I never said everybody needs it.**" (2026-04-07, on therapy)
+
+### Affection and warmth
+
+> "**I love my bullies. I love the trolls. Love the enemy. It's the best approach.**" (2026-03-24)
+
+> "**Continue being the violent violinist — just not towards me.**" (2026-01-10)
+
+> "**And so now my mom has become my hero.**" (2026-03-31)
+
+> "**It's great to be able to meet your heroes. It's even better to become one to your own
+> children.**" (2026-03-31)
+
+> "**You can't call them boys. They're my employees, and you're just my son. Don't abuse the
+> power.**" (2026-03-31)
+
+> "**I'm really happy for them. Super proud, super happy for them.**" (2026-04-07, on colleagues
+> who left and took a revenue line with them)
+
+> "**And I'm happy to fight with you.**" (2025-10-23)
+
+### New recurring images
+
+**The tree** (one trunk, branches that feed it; the treehouse you can't build on a weak tree) ·
+**shark and sucker fish** (symbiotic) vs. **parasites** · **the shock collar and the elephant's
+chain** · **the dealer and the addict** · **the pea-sized point punching through a wall** ·
+**the steak you didn't order** · **the swap meet vs. the high-end store** · **tissue paper over
+a book of Swiss design** · **chips and salsa vs. a steak dinner with charred Brussels sprouts** ·
+**three Empire States** (making a fact visual) · **the establishing shot** · **the Daywalker** ·
+**farming, not hunting.**
+
+### Names newly credited in this window
+
+**Taki Moore** (the five ones) · **Kevin Daley** / *Socratic Selling* · **Jonathan Stark** ·
+**Marty Neumeier** / *The Brand Flip* · **Phil M. Jones** / *Exactly What to Say* ·
+**Nicole Johnson** (TGO) · **The Moth Radio Hour** · **Brendan Kane** · **Mark Manson** ·
+**Blair Enns** · **Bayles & Orland** / *Art & Fear* · **Frances Frei & Anne Morriss** ·
+**Seth Godin** / *The Dip* · **Steven Bartlett** (the two doors) · **Anna Lappé** ·
+**Ryan Holiday** · **Erik Spiekermann** · **Josef Müller-Brockmann** · **Kimberly Elam** ·
+**Peter Drucker** (recurring) · **Jim Rohn** (recurring) · **Virgil Abloh**.

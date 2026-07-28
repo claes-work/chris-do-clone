@@ -10472,3 +10472,63 @@ from it; **the robot-voice test**; **what "learn" actually means** (*"it gets mu
 brain… it becomes more yours and less theirs"*); **the halo effect**; and **"they squeeze and you
 give — I'd like to play the anti-squeeze."* To `entities/influences`: **Seth Godin** (*The Dip*),
 **Steven Bartlett**, **Anna Lappé**, **Ryan Holiday**, **Virgil Abloh**.
+
+## [2026-07-28] lint | synthesis pass 20 — October 2025 → April 2026 era (persona layer)
+
+**Stage S, the first synthesis checkpoint of this run.** Debt was 10/10. Batches 185–194, 24 L2
+source pages, L2 949 → 973. **system-prompt v21 → v22.**
+
+⚠️ **Scoped deliberately to the persona layer.** The window contained an unusual number of
+landmarks, so this pass promoted `persona/` only and **declared pass 20b up front** as a pending
+checkpoint covering topic hubs and entities — the same split convention as passes 18/18b and
+19/19b. The driver now tracks it; it cannot be silently skipped.
+
+**`persona/appearance.md` — 4 → 8 sources, substantially rewritten.** This was the thinnest
+persona file and the highest-leverage target. Added ★★★★★ **the provocateur answer** — his own
+statement that the clothes are *a social prosthetic for a socially awkward introvert*
+(*"I hate social events… I am a provocateur. I want to wear things that invite people to have a
+conversation with me… the job is: come talk to me, please"*) — plus **clothes as tools** and the
+**corporate-uniform trap**, and **counter-stereotype work** as a third, earlier motive.
+✅ **Two standing gaps on that page are now CLOSED**: ethnicity/heritage (born in Vietnam, arrived
+in the US at 3, in 1975) and the previously-missing *motive* for the visual system. ✅ It also
+resolves a long-standing tension on the page between the *"loud introvert" / "social wallflower"*
+entries and the deliberately loud visual system — **they are the same fact.**
+
+**`persona/biography.md` — 214 → 238 sources.** ⚠️ **Kier McLaren has died** (first record;
+no date given, none inferred) — recorded with the 13-year weekly cadence, his other clients, and
+★★★★★ **the Daywalker verdict in his own words**, plus the **\$2.2M → \$3.9M** turnaround and
+*"it's usually the small tweaks."* Also: the full identity arc (invisible → the Art Center
+graduation → the counter-stereotype mission); the family structure that explains the hybrid; the
+father's questioning method as **the origin of his coaching style**; the mother's art-school
+intervention; **15 years at Art Center for \$58/hour**; *"a couple million before I turned 25"*;
+the Blind niching payoff quantified; the three circles *"in my 40s"*; and the 2025 setbacks.
+
+**`persona/beliefs.md` — 337 → 361 sources.** Focus recorded as **one idea in three registers**
+(five ones · pressure = force ÷ area · diluting your power) rather than three frameworks, with his
+public failure of it attached; **"clients do not choose the best option, they choose the least
+risky one"** promoted as a governing principle rather than a tip; **the steak rule**; the pricing
+causal spine assembled; **the five discovery moves recorded as one method**; the antiviral
+argument; the personal-brand system; self-imposed limits; quantity-over-quality; the DIYer
+fallacy; parenting.
+
+**`persona/voice.md` — 313 → 337 sources.** New quote bank, organised by register — including a
+**confessional register** section (*"I'm guilty of this — 600 profile views and I haven't reached
+out to one"*, *"it's a freaking lonely endeavor"*, *"I've lost my way"*) and a **refusals**
+section for phrases he pushes back on in real time.
+
+⚠️ **Guards written into v22, explicitly:** ① **the algorithm contradiction** — side B now has
+**three** attestations plus a factual admission that The Futur optimises its own titles and
+thumbnails; side A is at its most principled; *"there's nothing wrong with going viral — that
+should not be the goal"* is the closest he comes, and **the goal/byproduct bridge must never be
+offered as though he had stated it**; ② **audience expectation is not defiance** (*"I don't want
+to say it like 'F what everybody thinks'"*); ③ the **seventh** non-violent-language instance;
+④ **politics: decline as out of lane, never invent a position**; ⑤ **family name-free**.
+
+⚠️ **Contradictions flagged, not smoothed:** 10-23 breadth vs. 10-30 five-ones; reps/quantity vs.
+*"I will measure a hundred times before I cut one piece of wood"*; *"creativity expands or
+contracts to meet a deadline"* vs. *"slow down in this stage"*; the steak rule vs. his own
+perfectionism; and *"innovation comes from someone who doesn't know how things are done"* vs. his
+insistence on receipts.
+
+Synthesis notes: none — this IS the synthesis pass. Next: pass 20b (topics + entities), with the
+**Kier McLaren entity rewrite as the highest-priority item**.

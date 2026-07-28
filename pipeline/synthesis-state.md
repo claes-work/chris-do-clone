@@ -6,15 +6,66 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **P2 long-tail through ingest batch 184 (L2=949) — all L2 source pages 2014 → 2025-09-20 (@thefutur; through the September-2025 era).** Synthesis passes **19 + 19b** ran 2026-07-28 → system-prompt **v21**. ✅ **Pass 19b closed the gap pass 19 declared: all 7 active topic hubs updated (+29 sections), the authenticity-gap page rewritten around the 2025-09-16 version, 5 entities deepened and 1 created.** No synthesis work is outstanding.
+Synthesized through: **P2 long-tail through ingest batch 194 (L2=973) — all L2 source pages 2014 → 2026-04-07 (@thefutur).** Synthesis pass **20** ran 2026-07-28 → system-prompt **v22**. Pass 20 promoted the persona layer only (biography, beliefs, voice, appearance, system-prompt). ⚠️ **Pass 20b is PENDING and declared up front**: the topic hubs and entities have NOT yet been updated for the Oct-2025 → Apr-2026 window.
+
 
 ## Pending checkpoints
+
+- [ ] **pass 20b · topic hubs + entities (Oct 2025 – Apr 2026 window)** — declared 2026-07-28 by pass 20, which deliberately scoped itself to `persona/` only. HIGHEST PRIORITY: ⚠️ **rewrite `wiki/entities/kier-mclaren.md` — HE HAS DIED** (2026-03-31, no date given; move to past tense; absorb the 13-year weekly cadence, his other clients, the Daywalker verdict verbatim, the $2.2M→$3.9M turnaround, 'it's usually the small tweaks', and the repeatable story credited to him). Then: `topics/pricing` (sell money, size-of-problem→budget, Maslow×Neumeier ladder w/ his hedge, 10%-of-10% math, geographic arbitrage, $2,500 minimum + 'it's policy', two-option speed premium, price priming, why hourly punishes efficiency); `topics/sales-clients` (⚠️ promote the FIVE discovery/objection moves as ONE method; three call questions; steal their customers; TGO; needs vs emotional wants; profiling as empathy; imagination gap; least-risky-option; follow-five outreach + referral script); `topics/content-strategy` (⚠️ UPGRADE the algorithm-contradiction note — side B now has THREE attestations plus a factual admission that The Futur optimises its own titles/thumbnails; plus the antiviral argument, Content-to-Clients Blueprint, the 'that's me' test, stuck-moment worksheet, 30-30-30, concept-beats-production, sell-through-not-in, omni-channel, rebrand-in-place); `topics/communication` (⚠️ promote the storytelling curriculum as ONE unit — 2025-10-25 + 2026-01-10; repeatable story; make-a-fact-visual; the three renames); `topics/branding` (pick-a-fight qualified, the tree + symbiotic/parasitic test, three-part essence, be-number-one + 3x law, three principles, compel-and-repel, robot-voice test, provenance, stickiness); `topics/business` (the tiers; the five stages to $100k — may warrant its OWN page; pattern-recognition=leverage; off-site vs labour; gift economy; concentration); `topics/mindset` (collar and chain, two doors, out-of-my-league, worst judge of our own value, thank-and-retire the old self, three circles). NEW/UPDATED ENTITIES: Brendan Kane, Taki Moore, Kevin Daley, Jonathan Stark, Phil M. Jones, Marty Neumeier, Nicole Johnson, The Moth, Seth Godin (*The Dip*), Steven Bartlett, Anna Lappé, and `entities/the-futur` (2025 departures, Accelerator, Content Lab pricing, Dubai-stated channel numbers).
+
+### ⏳ Pass 20b — topic hubs + entities (Oct 2025 – Apr 2026 window)
+
+**Declared 2026-07-28 by pass 20, which deliberately scoped itself to `persona/` only.** Pass 20
+was large (24 sources, several of them landmarks) and splitting it keeps each pass reviewable —
+same convention as passes 18/18b and 19/19b.
+
+**Outstanding work:**
+
+1. ⚠️★★★★★ **`wiki/entities/kier-mclaren.md` — REWRITE REQUIRED.** He has **died** (2026-03-31,
+   no date given). The page must move to past tense and absorb: 13 years of weekly 90-minute-plus
+   sessions; his other clients (*"world-famous title designers… people who work with world-class
+   musicians"*); ★★★★★ **the Daywalker verdict verbatim**; the **\$2.2M → \$3.9M** turnaround
+   (2026-03-10); the *"it's usually the SMALL TWEAKS"* characterisation of coaching; and the
+   **repeatable story** credited to him at 2026-02-24. This is the highest-priority item.
+2. **`topics/pricing`** — sell money / dollarise; size of problem → size of budget; the Maslow ×
+   brand-commitment-ladder mapping (with his *"conspiracy theorist"* hedge); the 10%-of-10%
+   qualification math; geographic arbitrage; the \$2,500 minimum + *"it's policy"*; the
+   two-option speed premium; price priming; why hourly punishes efficiency.
+3. **`topics/sales-clients`** — ★★★★★ **the five discovery/objection moves promoted as ONE
+   method** (invite the no · ask for evidence · why not do nothing · pre-empt · arm the buyer);
+   the three call questions; steal their customers; TGO; needs vs. emotional wants; profiling as
+   empathy; the imagination gap; *clients choose the least risky option*; the follow-five outreach
+   system and the referral script.
+4. **`topics/content-strategy`** — ⚠️ **the algorithm contradiction note must be upgraded**: side B
+   now has **three** attestations plus a factual admission about The Futur's own titles and
+   thumbnails; side A is at its most principled (*export my emotional well-being*). Also: the
+   antiviral argument; the Content-to-Clients Blueprint; the *"that's me"* test; the stuck-moment
+   worksheet; 30-30-30; better concept beats better production; sell through not in; omni-channel;
+   rebrand-in-place.
+5. **`topics/communication`** — the storytelling curriculum promoted as ONE unit: the establishing
+   shot, tension before relief, *no emotion no story*, start at the end (2025-10-25) **plus** begin
+   at greatest conflict, *"but"* not *"and then"*, expectation-then-disruption (2026-01-10); the
+   repeatable story; *make a fact visual*; the three renames and *language matters*.
+6. **`topics/branding`** — *pick a fight* properly qualified (*the realm of ideas*); the tree and
+   the symbiotic/parasitic test; the three-part essence; be-number-one and the 3× law; the three
+   principles; compel and repel; the robot-voice test; provenance; branding as stickiness.
+7. **`topics/business`** — the tiers; the five stages to \$100k (may warrant **its own page**);
+   pattern recognition = leverage; off-site work vs. labour; the gift economy; concentration.
+8. **`topics/mindset`** — the collar and the chain; the two doors; *out of my league*; we are the
+   worst judge of our own value; thank-and-retire the old self; the three circles.
+9. **New/updated entities** — **Brendan Kane** (friend; source of the *Man on the Street*
+   question); **Taki Moore**; **Kevin Daley**; **Jonathan Stark**; **Phil M. Jones**;
+   **Marty Neumeier** (*The Brand Flip*); **Nicole Johnson**; **The Moth**; **Seth Godin**
+   (*The Dip*); **Steven Bartlett**; **Anna Lappé**; and `entities/the-futur` (the 2025
+   departures, Accelerator, Content Lab pricing, the Dubai-stated channel numbers).
+
 _(oldest first; the synthesis loop drains these top-down)_
 
 _(none — passes 19 and 19b both done; **synthesis is fully caught up through batch 184 / L2 949.** Next checkpoint: after ~10 more ingest batches or an era boundary.)_
 
 ## Done checkpoints
 
+- [x] **2026-07-28 · pass 20 · system-prompt v22** — P2 long-tail Oct 2025 – Apr 2026 (batches 185–194, 24 L2 pages, L2 949→973). **PERSONA LAYER ONLY — pass 20b declared pending for topics + entities.** `appearance.md` 4→8 sources and substantially rewritten: ★★★★★ the PROVOCATEUR answer (clothes as a social prosthetic for a socially awkward introvert — his own words), clothes-as-tools + the corporate-uniform trap, counter-stereotype work; **2 standing gaps CLOSED** (ethnicity/heritage now established — born Vietnam, arrived US at 3 in 1975; and the motive for the visual system). `biography.md` 214→238: ⚠️ **KIER McLAREN HAS DIED** (first record; no date), the Daywalker verdict in Kier's own words, $2.2M→$3.9M, the identity arc (invisible → Art Center graduation → counter-stereotype mission), the family structure (nine engineer siblings vs artists; middle of three brothers), the father's questioning method as the origin of his coaching style, the mother's art-school intervention, Art Center 15 years at $58/hr, 'a couple million before I turned 25', the Blind niching payoff quantified (tens of thousands → $1M/project), the three circles 'in my 40s', and the 2025 setbacks ($20k/mo shortfall, semi-retirement, Accelerator departures). `beliefs.md` 337→361: focus as ONE idea in three registers (+ his public failure of it), clients-choose-least-risky as a governing principle, the steak rule, the pricing causal spine, the five discovery moves as one method, the antiviral argument, the personal-brand system, self-imposed limits, quantity-over-quality, the DIYer fallacy, parenting. `voice.md` 313→337: new quote bank incl. the confessional register and the refusals. system-prompt v21→v22 (compiled_from 949→973) with explicit GUARDS: the algorithm contradiction (side B now 3 attestations + a factual admission; never supply the goal/byproduct bridge), 'not defiance' on audience expectation, the 7th non-violent-language instance, politics-as-out-of-lane, and family name-free. Contradictions flagged not smoothed: 10-23 breadth vs 10-30 five-ones; reps vs measure-a-hundred-times; steak rule vs perfectionism; innovation-from-ignorance vs receipts.
 - [x] **2026-07-28 · pass 19b · (no version bump — v21 stands)** — **closed the gap pass 19 declared up
   front.** **TOPIC HUBS (+29 sections).** `branding` **frameworks 67–74** (**branding is the act of
   remembering**; **don't chase new** with the **restart loop** and its positive form **world-building**;

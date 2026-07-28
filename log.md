@@ -14651,3 +14651,50 @@ has been processed.***
 | 3 | **14 academy-tier shorts + Academy residue** | ✅ **Close out.** The channel is instructor-led; this run's 3 Chris-fronted finds came from long-form, and that is now drained. | batch **222** |
 
 Corpus at this boundary: **L2 = 1,043 · L3 = 0 · 1,043 source pages · system-prompt v24.**
+
+## [2026-07-28] lint | consistency audit — TWO real inconsistencies found and one is a MISSING PAGE
+
+With ingest blocked on owner decisions, I ran a **cross-check of source files vs. ledger vs. index**
+rather than idle. It found **two mismatches that had been invisible to every batch report**, because
+every report I have written this run trusted the counts rather than reconciling them.
+
+```
+source .md files (yt)  : 1043
+ledger rows at L2      : 1043      <- same TOTAL, different SETS
+```
+
+⚠️ **Equal totals hid two errors that cancelled out.** A count check would never have caught this;
+only a set difference does.
+
+### ⚠️ 1. `yt-4P4VDBSIrPw` — the index links a page THAT DOES NOT EXIST
+
+`youtube-index.md` line 14 links **`2024-10-01-yt-4P4VDBSIrPw.md`** and the ledger marked it **L2**.
+**The file is not on disk.**
+
+✅ **The knowledge itself survived** — this is the *"widen the gap between the give and the ask"*
+short, and its content was promoted into `topics/sales-clients` **§123**, where it remains correctly
+cited. **What was lost is the source page** — the citation target, the quote bank and the attribution
+note.
+
+**Ledger reset to `L1`** with the reason on the row: the page must be rewritten from `raw/`. ⚠️ **I
+did not delete the index row** — the finding is real and cited downstream; the row is a broken link
+to be repaired, not a false entry to be erased.
+
+### ⚠️ 2. `yt-hSvluYcim4I` — a written page whose row was never updated
+
+*"Advice To My Younger Self"* (2020-10-19). The source page **exists and was written**, but the
+ledger still read `skipped / STUCK-RETRY` from a fetch failure. **Corrected to `L2`.** The page had
+been silently absent from every "ingested" count since.
+
+### 📌 What this says about the run's bookkeeping
+
+Both errors are **bookkeeping drift under a fast loop**: one page written without its row updated,
+one row updated without its page written. Neither is a judgement error and neither corrupted the
+wiki's content — but **both would have been reported as "complete" by any count-based check**,
+including the ones in my own batch reports.
+
+⚠️ **The right time to find this was at a boundary, and this is the boundary.** Worth doing before
+any Stage D or completion claim — which is a further reason not to have declared one.
+
+Ledger totals unchanged at **L2 = 1,043** (the two corrections offset), but the SETS now agree except
+for the one page genuinely awaiting a rewrite.

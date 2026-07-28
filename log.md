@@ -13014,3 +13014,69 @@ Ledger: L2 = 1,032. Open: **shorts 793**, @TheFuturAcademy P3:37. ⚠️ Unscope
 Synthesis debt 8/10.
 
 **Synthesis notes:** none — no source ingested.
+
+## [2026-07-28] ingest | ⚠️ SATURATION FINDING — 40 consecutive shorts, zero new material
+
+Batch 235, Stage C, **20-short batch** (doubled deliberately, to get a faster read on the saturation
+question raised last iteration). **No source ingested.** L2 unchanged at **1,032**. Open shorts: 793 →
+**773**.
+
+### The test
+
+All 793 open shorts are **undated until fetched**, so date-sampling isn't possible without pulling
+captions. But the driver has been working **backwards in time** — 2026 → 2025 → now Oct–Dec 2024 — so
+running a larger batch samples an earlier era directly.
+
+**Every distinctive formulation in all 20 matched existing corpus material:**
+
+| Phrase | Matches |
+|---|---|
+| *three options* | **12** |
+| *no enemy within* (the African proverb) | **3** |
+| *sell IN your content* (vs *from*) | **3** |
+| *"\$13 in my bank account"* · *\$140,000* · *seek constructive criticism* | 1–2 each |
+
+⚠️ **Note the two biographical-sounding ones** — *"I was 32 with \$13 in my bank account"* and *"I got
+paid \$140,000"* — **both already in the corpus.** Those are exactly the phrases that would have looked
+like finds.
+
+### The finding
+
+**Combined with the previous two batches: 40 consecutive shorts, zero new material.**
+
+The structural reason is straightforward and worth stating: **shorts are recuts of long-form, and
+@thefutur long-form is fully ingested** (1,032 source pages). The early Stage C yield (~1 in 6) came
+from **2025–26 shorts**, where some clips predate or accompany their parent episode. **Going backwards
+into 2024 and earlier, every parent is already in the corpus.**
+
+### ⚠️ Recommendation — and the second scope decision now has a twin
+
+**Continuing to grind 773 shorts at an observed 0% marginal yield is not a good use of iterations.**
+Options, with a recommendation:
+
+1. ✅ **Bulk-close the remaining @thefutur shorts** as covered-by-long-form, with this finding as the
+   stated basis, and record the reasoning on the rows. **My recommendation.**
+2. **Spot-check periodically** — e.g. 10 shorts every N iterations — to catch the rare clip whose parent
+   is missing, at a fraction of the cost.
+3. **Continue as-is**, accepting ~0% yield.
+
+⚠️ **I am not bulk-closing 773 rows unilaterally** — same reasoning as the Academy channel and the 235
+streams: **scaling work down is the repo owner's call.**
+
+### 📋 The decision queue is now three deep
+
+| Decision | Recommendation | Flagged since |
+|---|---|---|
+| **235 @thefutur streams** (invisible to the driver) | ✅ **Bring into scope** — substantive Chris-led long-form | batch 217 |
+| **37 @TheFuturAcademy rows** | ✅ **Close out** — instructor channel, ~4% | batch 222 |
+| **773 @thefutur shorts** | ✅ **Close out or spot-check** — 0% over the last 40 | **this batch** |
+
+✅ **Two of the three point at the same conclusion**: the corpus's remaining high-value material is the
+**235 streams**, and the other two queues are largely exhausted. **The loop will keep working the
+shorts by default**, because that is honest in-scope work — but it is now measurably the least
+valuable thing available.
+
+Ledger: L2 = 1,032. Open: **shorts 773**, @TheFuturAcademy P3:37. ⚠️ Unscoped: 235 streams.
+Synthesis debt 8/10.
+
+**Synthesis notes:** none — no source ingested.

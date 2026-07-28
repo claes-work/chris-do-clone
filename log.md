@@ -14430,3 +14430,44 @@ contains instead of trusting the batch count.**
 **Stage C running total: 802 shorts processed · 20 ingested · 782 closed.**
 
 Synthesis notes: none.
+
+## [2026-07-28] ingest | yt batch 270 (@TheFuturAcademy, 15 triaged, 0 ingested) — ⭐ CARRIED DEBT RESOLVED
+
+Stage C/B on the Academy channel. **15 rows, 0 ingested.**
+
+### ⭐ `yt-eLxcaKiZsDs` — the run's one HELD row is now closed, with evidence
+
+*"10 Rules of Typography (and Life) **with James Victore**"* has sat at `L0-discovered` **since batch
+222**, deliberately held rather than guessed, with instructions to resolve the speaker before
+ingesting. **The transcript settles it.**
+
+Two voices, and the split is unambiguous:
+
+1. **The doctrine is VICTORE's** — *"perfectionism… **stops you from starting projects because you're
+   not ready**… and it stops you from finishing anything because it's not ready."* The title says
+   *"with James Victore"*, and this is his own material.
+2. **A host then INTRODUCES him** — *"James is an author, an artist, a designer, and **a professional
+   hell-raiser, his own description there**… I've known James's work **longer than I've known who he
+   is.**"*
+
+✅ **The decision no longer depends on identifying the host.** Whoever is introducing, **the content
+is Victore's**, so it is not persona data either way. Closed `skipped` with the reasoning written onto
+the ledger row, and the earlier `HELD` note replaced by `RESOLVED`.
+
+⚠️ **What I did NOT do:** the host's line *"I've known James's work longer than I've known who he
+is"* would be a nice Chris datum **if** the host were Chris — and the corpus does credit Victore on
+**16** pages, including *"an expression which I love, which I CO-OPTED"*. **That coincidence is not
+evidence.** Captions cannot identify the speaker, so the line stays unrecorded.
+
+📌 **Holding that row for ~48 batches rather than guessing was the right call, and it cost nothing.**
+The ledger carried the reason; the transcript arrived; the question answered itself.
+
+### The other 14 rows
+
+All **instructor-led** — Matthew Encina, Greg Gunn, Mark Contreras and others open by name
+(*"Matthew Encina here"*, *"Hey, it's Greg"*). Closed `instructor-led`, consistent with the channel
+characterisation from batches 218–222.
+
+**Stage C running total: 817 shorts/rows processed · 20 ingested.**
+
+Synthesis notes: none.

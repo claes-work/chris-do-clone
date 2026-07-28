@@ -14360,3 +14360,36 @@ placement as pre-approval.
 
 High-water mark advanced to **batch 267 (L2=1,039)**. Pass 26 logged in
 `pipeline/synthesis-state.md`.
+
+## [2026-07-28] ingest | yt shorts batch 268 (@thefutur, 11 triaged, 1 ingested)
+
+Stage C. **11 shorts · 1 ingested · 10 closed.** Open shorts 78 → **67**. L2 = **1040**.
+
+⚠️ **The driver returned only 11 rows** — the @thefutur shorts tail is nearly drained.
+
+**Ingested:** [[wiki/sources/2026-07-26-yt-arFD056cke4]] — *Art of Being You*.
+⏳ **Published two days ago — now the freshest source in the corpus**, and it turned up in the middle
+of a saturated backlog sweep rather than through discovery.
+
+> ★★★★★ *"**Adulting is the process of getting to become the person you always were, or meant to
+> be.** Through **socialization**… your **voice, your identity, your style — everything about you has
+> been stripped away.**"*
+
+✅ **The value is the direction of travel.** Ordinary usage treats *adulting* as **acquiring**
+competence; he defines it as **undoing an accumulated loss**. `adulting` **0** · `lone wolf` **0**.
+The payoff he claims is **presence, not attention** — *"when you walk into a room, **without saying a
+word, without calling any attention**, people feel your energy."*
+
+⚠️ **Two restraints written onto the page:**
+1. The *"when you're the lone wolf, you die… our primitive biological brain has not adapted"*
+   argument is **🗣️ his lay reasoning, recorded as reasoning — not presented as established science.**
+2. ⚠️ **Flagged for reconciliation, not promoted blind**: `mindset` **§106** already holds *"inner
+   peace is what 'attractive' actually means."* **This may be the same claim in new words.** The page
+   and the ledger row both say: **check §106 first; if it is a restatement, extend that section
+   rather than opening a new one.** Filing a rephrasing as a new position is how a hub silently
+   doubles in size while saying nothing more.
+
+**Stage C running total: 794 shorts processed · 20 ingested · 774 closed.**
+
+Synthesis notes: **adulting as recovery not attainment** (2026-07-26) → `topics/mindset`, ⚠️ **only
+after reconciling with §106**; mark the evolutionary argument as his reasoning.

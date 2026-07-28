@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-28 (synthesis passes **21 + 21b** → system-prompt **v23**, **987 L2**; ★★★★★ **two attributions recovered and landed**: *"just ask"* is **Kier McLaren's** — *"kiddo, why don't you just ask?"* — and *"you're probably right, but let's make sure"* came out of **Blair Enns's book**, told against himself; ⏳ plus a **dating correction** moving six frameworks back to 2016–2021)_
+_Last updated: 2026-07-28 (ingest yt batches @thefutur → **992 L2**; ★★★★★ **the sales lineage is now fully sourced**: *"I can count on one hand those influences"* — **Kier McLaren** gave him the permission and method to ask, **Blair Enns** positioning and scripts, **Elay Cohen** the vocabulary; ⚠️ three distinct debts, not to be merged)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **990 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 and P2 both fully drained**; 97 members-only rows skipped as unobtainable; remaining: @thefutur P3:34, @TheFuturAcademy P3:72, 860 shorts).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **992 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 and P2 both fully drained**; 97 members-only rows skipped as unobtainable; remaining: @thefutur P3:31, @TheFuturAcademy P3:72, 860 shorts).
 
 ## Topics
 

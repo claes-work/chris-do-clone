@@ -11290,3 +11290,65 @@ got the transparent paper out and started tracing over my design, it just threw 
 school"*) — ⚠️ observed behaviour, not his own claim. ⚠️ **Nothing from the Kier episode or the guest
 interview is promotable**, and the plumber/mechanic resemblance must **not** be resolved into an
 attribution by a future pass.
+
+## [2026-07-28] ingest | yt batch (@thefutur, 2 + 1 skipped) — the sales lineage completed
+
+Batch 206, Stage B (P3). L2: 990 → **992**. All three captions fetched cleanly.
+
+- `yt-ua1jWIzVl1w` — **2018-11-14, "How I Launched My Silicon Valley Startup" feat. Elay Cohen.**
+  Guest-dominated, and the same recording session as yesterday's productivity episode — **but it
+  contains the batch's find.**
+- `yt-qIvhzoCHzpA` — **2019-04-03, Young Guns Ep. 11.** Unlike Ep. 6, this one intercuts Chris's
+  critique with the reactions, so there is substantial Chris material.
+- `yt-TNeUfQDDerA` — **2020-09-29, "Should You Set Up An LLC".** ⚠️ **SKIPPED, not ingested.** Zero
+  Chris Do: hosted by a team member with a guest attorney, and it is a cut-down of a paid webinar
+  promoting a product. Legal content is context-only in this corpus anyway, and — unlike the Kier
+  MASTERMIND episode kept last batch — **there is no entity page this would serve.** Marked
+  `skipped` with that reasoning on the row.
+
+### ★★★★★ The find: his sales lineage is now fully sourced
+
+> *"You're thinking — well, who is this guy and how does he know this thing? **And then who am I** —
+> and I've been sitting here sharing with you guys in very open and transparent ways what I know
+> about sales. And I have to say: **I can count on one hand those influences — and Elay is definitely
+> one of those fingers on my hand.** And **I learned terms that I never knew even existed before —
+> things like a compelling event, social prospecting, asking open-ended questions.**"
+
+Combined with the two attributions recovered earlier in this run, **the corpus can now state all
+three of his documented sales debts, with dates and with what each one supplied**:
+
+| Source | What he got from them | Dated |
+|---|---|---|
+| **Kier McLaren** | the permission and the method to ask (*"kiddo, why don't you just ask?"*) | 2017-09-27 |
+| **Blair Enns** | positioning, the refuse-to-pitch stance, and specific scripts | 2017-05-03 |
+| **Elay Cohen** | the vocabulary — *a compelling event · social prospecting · open-ended questions* | 2018-11-14 |
+
+⚠️ **These are three distinct debts and must not be merged** — he describes them differently: an
+intervention, a book, a set of terms. Flagged on the source page and in the ledger notes.
+
+The same episode also gives the clearest early demonstration of his claimed core skill: he **recaps
+the guest's founding story back in structured form**, which is *"I can repackage it so people can
+hear their own thoughts said more clearly than they could have said it"* (2017-02-04) happening on
+camera.
+
+Ledger: L2 = 992. Open: @thefutur P3:31, @TheFuturAcademy P3:72, 860 shorts. Synthesis debt 2/10.
+
+**Synthesis notes:** **Four items.** ① ★★★★★ **The sales lineage table above** → `entities/influences`
+and `persona/biography`: *"I can count on one hand those influences"* plus **Elay Cohen** named, with
+the vocabulary debt specified. This completes a provenance thread the last three passes have been
+building, and it should be recorded as **three separate debts**, not one composite. ② ★★★★★
+**Rebrand-as-EVOLUTION** → `topics/design-craft` **and cross-filed to `topics/sales-clients`**,
+because it is a risk-reduction *selling* argument wearing craft clothes: *"it's often very difficult
+for existing brands to see the connection between where they are — the legacy and equity they've
+built — and where you're taking them… so it doesn't seem as foreign to them. It comes from
+something"*, with the **Paul Rand** lineage attached. ③ ★★★★★ **The internal-consistency critique
+test** → `topics/design-craft`: the fault is that the applications contradict the customer the
+designer themselves drew (*"you put a gentleman in here in a business suit… and then everything in it
+does not fit with him"* → *"a mall ad for a massage parlor"*). Also worth carrying beside it:
+**typeface fitness held apart from typeface quality**, and the observation that **his praise is
+itemised in the same specific register as his criticism**. ④ ★★★ **The published-disagreement practice
+is now a PATTERN, not a one-off** → `topics/mindset`: two further instances here, ten months after
+the Ep. 6 case, including a participant disputing his typographic hierarchy call on the record and
+Chris inviting the audience to overrule his winner pick. ★★★★ Also for `business`: *"most creative
+types are going to build something for three and a half years and not have any validation whatsoever
+— and so then their thing hits with a thud."*

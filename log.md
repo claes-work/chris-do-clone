@@ -13190,3 +13190,57 @@ Ledger: L2 = 1,032. Open: **shorts 758**, @TheFuturAcademy P3:37. ⚠️ Unscope
 Bungay Stanier upgrade, the sixth Blair Enns attestation, Jim Rohn's standing and the Tony Robbins
 lineage claim, **Vinh Giang** (spelling unverified), the *widen-the-gap* phrasing check, and the four
 corrected novelty claims — **all to be confirmed against the hub, not patched from notes.**
+
+## [2026-07-28] lint | synthesis pass 23 — influences, written from the hub rather than from my notes
+
+Stage S, triggered at **20/10**. Scope: **`entities/influences` only.** No version bump — **v24
+stands**; nothing in `persona/` changed.
+
+### ⚠️ The method changed, deliberately
+
+Every previous pass wrote from accumulated `Synthesis notes:` lines. **This one read the target page
+first.** That change is a direct response to this run's record: **four false novelty claims** (Al Ries,
+*at or above your level*, the hammer adage, the Anna Lappé sourcing) **and one overstatement**, all now
+corrected in place.
+
+✅ **Reading first immediately caught the fifth.**
+
+### ⚠️ The fifth: Vinh Giang
+
+My source page said he *"appears nowhere"* in the corpus. **My check was scoped to this hub, the topic
+hubs and the persona files — and within that scope it was right.** But the wording was too strong: he
+appears in **two earlier source pages** (2023-03-23 and 2025-03-23). **He was absent from the hub; he
+was not absent from the corpus.** ✅ Corrected on the hub, with both prior sources cross-linked.
+
+### What pass 23 actually added
+
+Each entry states **what was already there** and **what is new** — a format adopted so this failure
+mode is harder to repeat:
+
+- ★★★★★ **Michael Bungay Stanier → structural source.** The hub had the endorsement and the opener. It
+  did **not** have the triad he names: **asking great questions · being slower to answer · staying
+  curious a little bit longer**, *"and it overlaps with how you do sales."*
+- ★★★★ **Blair Enns — a sixth attestation**, and a **category correction**: the corpus files him under
+  sales; **he files the book under positioning.**
+- ★★★★ **Jim Rohn — standing and lineage**: *"the godfather of coaches… the mentor for everybody you
+  look up to today,"* with **Anthony Robbins** named as his student. ⚠️ **His claim about other
+  people's lineage**, recorded as characterisation, not asserted as fact.
+- ★★★ **Vinh Giang added**, with the correction above and ⚠️ a caption-derived spelling flagged.
+- ★★★ **Al Ries** — the correction carried: **the name was already present**; what 2026-03-07 adds is
+  **the title (*Positioning*) and his framing of it.**
+- ✅ **One phrasing confirmed genuinely absent** after checking the hub and the topic pages: **"widen
+  the gap between the time we give and the time we ask"** — the concept is thoroughly covered, this
+  formulation is not, and it is the crispest mechanical statement of *why* give-first works.
+
+### What I did NOT do
+
+⚠️ **No `persona/` changes and no version bump.** The shorts run produced **12 ingests in 103 shorts**,
+almost all restatements of doctrine the persona files already carry. **Recompiling v25 over that would
+be churn**, and the skill warns against exactly this.
+
+Ledger: L2 = 1,032. Open: **shorts 758**, @TheFuturAcademy P3:37. ⚠️ Unscoped: 235 streams.
+**Synthesis debt reset.**
+
+Synthesis notes: none — this IS the synthesis pass. ⚠️ **Standing method note for future passes: read
+the target page before writing.** This run proved that source-page novelty claims are unreliable, and
+the failure is silent — a false absence becomes a fabricated gap the next pass tries to fill.

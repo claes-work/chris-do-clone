@@ -6,7 +6,7 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **the guest-format window through ingest batch 214 (L2=1,013)**. Synthesis passes **22 + 22b** ran 2026-07-28 → system-prompt **v24**. ✅ **Pass 22b closed the gap pass 22 declared:** the sales lineage recorded as **three distinct debts**, a **new entity** for Elay Cohen, the Blair Enns attestation record completed (five dated, one behavioural), ⚠️ the unnamed *"my business mentor"* attribution recorded with its uncertainty, the 2014 offer terms added to `jose-caballer`, and **six topic hubs extended**. ✅ **The Victore "correction" pass 22 anticipated was not needed** — the corpus already credited him; the real finding is **a citation habit**, flagged by Chris on separate occasions years apart. **No synthesis work is outstanding.**
+Synthesized through: **the shorts run through ingest batch 237 (L2=1,032)**. Passes **22 + 22b** ran 2026-07-28 → system-prompt **v24**; **pass 23** ran 2026-07-28 → **`entities/influences` only** (no version bump — v24 stands). ⚠️ **Pass 23 was written AFTER reading the hub, not from source-page notes** — a deliberate change of method after **four false novelty claims and one overstatement** during the shorts run, all corrected in place. Remaining Stage-C debt is small: the shorts yielded 12 ingests in 103, all from 2025–26.
 
 
 ## Pending checkpoints

@@ -455,3 +455,75 @@ So they are not later mistaken for his own attributions:
 - ⚠️⚠️ **Mark Manson's *worthwhile suffering* and *"the sandwich you don't mind eating"*** — **his
   published work.** Manson is an influence Chris credits, which is precisely why these must stay
   fenced; see [[../sources/2025-05-07-yt-IJ6u8B3Tn-Q]].
+
+## ★★★★ Added 2026-07-28 (synthesis pass 23) — the shorts-run provenance, verified against this page first
+
+> ⚠️ **This section was written AFTER reading the page above**, not from source-page notes. That
+> sequence matters: **four novelty claims made during the shorts run proved false**, and a fifth was
+> overstated. Each item below states what was **already here** and what is **actually new**.
+
+### ★★★★★ Michael Bungay Stanier — UPGRADED to a structural source
+
+**Already here (entry #2):** *"I believe *The Coaching Habit* is one of the best sales books that you
+can buy"*, and *"so, what's on your mind?"* as an opener.
+
+> ★★★★★ **NEW (2025-05-18):** he names **what he takes from it as a triad** — *"an excellent framework
+> for understanding **the value of ASKING GREAT QUESTIONS, BEING SLOWER TO ANSWER, AND STAYING CURIOUS
+> A LITTLE BIT LONGER**… and it so happens to **OVERLAP WITH HOW YOU DO SALES.**"*
+> ([[../sources/2025-05-18-yt-YkhN94U6MVE]])
+
+✅ **The corpus held the endorsement and the opener; it did not hold the three components.** This makes
+the debt **structural** — it is a named source for the ask-don't-tell discipline, not a one-line credit.
+
+### ★★★★ Blair Enns — a SIXTH dated attestation, and a category correction
+
+**Already here (entry #3):** *"probably the book that I refer to the most — hands down, bar none."*
+
+★★★★ **NEW (2025-05-18):** he classifies it — *"a great **POSITIONING** book for people who **sell
+expert services**"* — prefaced *"**no surprise to anybody who's been following me.**"*
+
+✅ **Attestation count is now six, 2017–2025** (see [[blair-enns|his entity page]] for the table).
+⚠️ **Note the classification**: the corpus tends to file him under *sales*; **he files the book under
+positioning.**
+
+### ★★★★ Jim Rohn — standing and lineage, stated for the first time
+
+**Already here (entry #1):** the five-people maxim, ⚠️ with an attribution jab noted.
+
+★★★★ **NEW (2025-05-18):** *"**the godfather of coaches**… **Jim Rohn has been the mentor for everybody
+that you look up to today** and the authors you read. **His most notable student or mentee is ANTHONY
+ROBBINS.**"* — recommending *Seven Strategies for Wealth and Happiness*.
+
+⚠️ **This is his claim about OTHER PEOPLE'S lineage**, not about himself. Recorded as his
+characterisation; **not asserted as fact by this page.**
+
+### ★★★ Vinh Giang — ⚠️ a correction to my own earlier note
+
+⚠️ **My source page for [[../sources/2026-04-10-yt-1ZYBscGK8Gk|2026-04-10]] said he "appears nowhere"
+in the corpus. That was scoped to this hub and the persona files, and was too strongly worded** — he
+appears in **two earlier source pages**, [[../sources/2023-03-23-yt-FuXJln-UtNQ|2023-03-23]] and
+[[../sources/2025-03-23-yt-MqWUPpjMj3o|2025-03-23]]. **He was absent from THIS page; he was not absent
+from the corpus.**
+
+✅ **Adding him here now**, with what he is credited for and the relationship as Chris describes it:
+
+> ★★★★ *"**My brother from another mother, Vinh Giang**"* — credited for **a contrarian answer to *why
+> do we tell stories***: *"**we tell stories to REMIND OURSELVES OF WHO WE ARE — so when people attack
+> us, we remember.**"* Chris's own extension: *"**your story isn't for them. IT'S FOR YOU.**"*
+
+⚠️ **Spelling is caption-derived** across all three sources; treat as probable, not confirmed.
+
+### ★★★ Al Ries and Jack Trout — a title, not a name
+
+⚠️ **Correction carried forward.** I earlier recorded Ries and Trout as absent — **false**; Al Ries is
+already referenced in `topics/branding` and `persona/voice`. ✅ **What 2026-03-07 genuinely adds** is
+**the book title — *Positioning*** — and his framing of it: *"a classic… it really helps you understand
+marketing on **a broader perspective**, and there's some excellent case studies."*
+
+### ✅ One phrasing confirmed genuinely absent
+
+*"**Widen the gap** between the time in which we give and the time in which we ask"* — checked against
+this page and the hubs: **the concept is thoroughly covered** (gift economy, *a gift with an expectation
+is manipulation*, reciprocity, the emotional-debt mechanism) but **this formulation is not.** ✅ It is
+the crispest statement of *why* give-first works mechanically, and belongs with the reciprocity entry
+(#7).

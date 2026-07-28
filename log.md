@@ -11010,3 +11010,59 @@ expensive. ② ★★★★★ **The escalating-brackets practice** — the numb
 ③ ★★★★★ **"I'm a good listener and I can synthesise information"** → `persona/biography`, as his own
 statement of his core skill. ④ ★★★ *"I'm working on it myself"* (2017) as a dating marker for the
 consulting transition. ⚠️ Nothing from the 2015 AMA is promotable.
+
+## [2026-07-28] ingest | yt batch (@thefutur, 2 + 1 deferred) — two early Chris-led sources, both high-yield
+
+Batch 203. Selected 3 P3 rows from 2016–17; all three transcripts fetched successfully (no
+rate-limiting, no paywalls).
+
+**Ingested (L2):**
+
+- `yt-pKMfPGAZHYI` — **2016-02-13, "Win The Interview — Job Interview Tips"** (with Jose Caballer,
+  still *The Process*). A five-tip interview clinic that is really a questioning-and-listening
+  clinic, closing with a live roleplay in which Chris plays the creative director.
+- `yt-BX5Jy0OIVSg` — **2017-03-27, "How do you balance work and life?" (Otis College)**. Work–life
+  integration, the four quadrants, how The Futur was actually managed in 2017, and a rapid-fire
+  hobby list.
+
+**Deferred once (NOT a skip):**
+
+- `yt-KtL02T5MonA` — **2017-05-03, Blair Enns interview** (49 KB, the largest transcript in the
+  batch). Returned to `L0-discovered` at P3 with the reason on the row: Blair is the **interviewee**
+  and one of the most-cited influences in this corpus, so the page needs the same guest-fencing the
+  Demartini and Kier AMA pages got, with his material routed to entities rather than persona files.
+  Transcript is already fetched. **Marked do-not-defer-again.**
+
+**Privacy applied.** The Otis talk discusses his wife and two sons. No names are spoken in the
+source and none are recorded; household detail and the children's ages are deliberately omitted per
+the `SUBJECT.md` rule. Only the parenting principle, stated in general terms, is carried.
+
+**Attribution.** The 2016 episode is co-hosted and the captions do not label speakers: the
+orange-jumpsuit story is Jose's (recorded as his), and one exchange about nervousness could not be
+attributed and is fenced `[HOST — uncertain]` rather than guessed. In the Otis talk the name Chris
+credits the four-quadrant model to is garbled beyond recovery and is **left unattributed**.
+
+Ledger: L2 = 984. Open: @thefutur P3:40, @TheFuturAcademy P3:72, 860 shorts. Synthesis debt 8/10.
+
+**Synthesis notes:** Two **precedence findings**, both from the 2016 interview episode and both
+moving frameworks the wiki currently dates far later. (1) *"The value of you as a person is
+reflected in the QUALITY OF THE QUESTIONS YOU ASK"* — stated in his own words in **February 2016**,
+applied to hiring, with no attribution; the wiki currently carries this idea via the **Demartini
+epigraph from 2025–26 sources**. ⚠️ This source establishes the date only, not the origin — whether
+he arrived at it independently is not shown. (2) *"Silence the thoughts in your head and play a
+game: **whoever talks first loses**"* — the **then-shut-up** rule a full year before the 2017-02-04
+pricing session the wiki treats as its earliest telling, and here demonstrated in roleplay with him
+**catching himself breaking it** under emotional pressure. Together with the magic question
+(*"ask that at the beginning… you're reading it back to them"*), this means the **tailoring +
+silence machinery of the discovery call was fully formed by early 2016**, aimed at job seekers
+before it was ever aimed at studio owners — the next synthesis pass should cite these dates.
+Third: the Otis talk gives a **dated reversal in his own account** — Blind ran on strict work–life
+*separation* (*"don't call me at home"*) and he now argues that it *"creates all sorts of
+problems"* — which belongs in `persona/biography` as a change of position, not a current view.
+Fourth: the only concrete picture in the corpus of **how the company was managed in 2017** (clear
+goal + autonomy, the micromanagement mechanism, *"guidelines on the field"*, Daniel Pink) — a
+`topics/business` candidate. Fifth: **unusually dense character material** — *"I'm a deep diver"*
+with the earthworm-kit illustration, Marvel over DC, UFC from #1, buying books to support their
+makers, and the **five-years-before-you-teach rule** with its 70%-knowledge-extraction theory —
+all of which `persona/appearance` and `voice` should draw on. ⏳ Also flagged: a falsifiable
+**March-2017 prediction that The Futur would become "like a \$100 million company."**

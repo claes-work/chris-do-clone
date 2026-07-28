@@ -13480,3 +13480,45 @@ pain so many times"* describes a coaching practice that is not the subject's doc
 **Stage C running total: 228 shorts processed · 14 ingested · 214 closed.**
 
 Synthesis notes: none.
+
+## [2026-07-28] ingest | yt shorts batch 244 (@thefutur, 25 triaged, 0 ingested)
+
+Stage C. **25 shorts, 0 ingested.** Open shorts 633 → **608**.
+
+### ⚠️ SEVENTH near-miss — and the first that got as far as a WRITTEN PAGE
+
+`yt-gQVd00pgH5Q` presents **Shu Ha Ri** (守破離) as a three-stage mastery model, with a stated
+**~10-year Shu phase**. My corpus-wide probe returned **0** for `shu ha ri` and **0** for `shuhari`;
+`stages of mastery` returned **0**; `break the rules` returned **2**, neither in topics/persona.
+On that evidence **I wrote the full source page**, including a "the corpus does not otherwise
+contain" claim and a tension-with-anti-credentialism note.
+
+**It was already in the corpus.** Going to insert the index row, I read the neighbouring lines and
+found, **six days later**, [[wiki/sources/2023-06-29-yt-BJ7nX1t4g9k]] — which carries Shu-Ha-Ri in
+its **tags, summary, a dedicated key-claims block, the ~10-year figure, the provenance (*"shared
+with him by a friend"*), and the same verbatim**. The short is a recut of that workshop.
+**Page deleted; row closed `dup-of:yt-BJ7nX1t4g9k`.**
+
+**Cause: tokenization, not scope.** The corpus writes it **hyphenated** — `Shu-Ha-Ri`. I probed the
+spaced and the joined forms and neither matches. `grep -riE "shu.?ha.?ri"` returns it immediately.
+
+⚠️ **Standing rule added — probe the RAREST SINGLE TOKEN, not the phrase.** `shu` alone is
+separator-independent and would have hit on the first try. Multi-token probes fail on every
+punctuation choice the corpus might have made; single rare tokens fail on none. This supersedes
+nothing — it stacks on *corpus-wide scope* (batch 242) and *a zero is a hypothesis* (batch 241).
+
+✅ **What worked:** the near-miss was caught by the **standing habit of re-reading the index
+neighbourhood before inserting a row** — a date-ordering discipline adopted for an unrelated reason
+two runs ago, which turns out to double as a novelty check. Worth keeping deliberately.
+
+⚠️ **What did NOT work, and is worth being plain about:** three correct-syntax, corpus-wide probes
+all returned 0 on material that was present. Probe count is not evidence of thoroughness if every
+probe shares the same blind spot. **Vary the FORM of the probe, not just the wording.**
+
+Other candidates, all covered: Kirby Ferguson / *Everything Is a Remix* **9** · "story delaying"
+**2** · fluid agency **2** · Microsoft Clarity **2**. `yt-RK2tUzL8FJs` closed `guest-only`
+(the LinkedIn practitioner thread, same speaker as `yt-burJ6ZqG2GA` in batch 242).
+
+**Stage C running total: 253 shorts processed · 14 ingested · 239 closed.**
+
+Synthesis notes: none.

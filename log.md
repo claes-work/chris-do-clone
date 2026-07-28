@@ -10799,3 +10799,54 @@ for `no-captions` and `unavailable`), **not** manual probing. **Flagged as a sug
 repo owner; not implemented unilaterally.**
 
 Synthesis notes: none — no source ingested.
+
+## [2026-07-28] ingest | yt batch (@thefutur, 0 ingested) — a 91-row members-only block, and a driver fix
+
+Batch 199, Stage B (P2). **L2 unchanged at 977; no source ingested.** This iteration was spent
+clearing a structural blocker, and it was worth it.
+
+⚠️ **THE BLOCK WAS FAR LARGER THAN IT LOOKED.** After batch 198 ended with three paywalled rows, a
+12-row probe using **the driver's own selection order** (correcting last iteration's mistake, where
+I probed my own re-sort and learned nothing) returned **twelve consecutive members-only videos**.
+Marking them by hand cleared exactly twelve — and the very next `prepare` returned four more.
+
+✅ **RESOLVED: 97 members-only videos are now identified and marked.** `@thefutur` open **P2 rows
+fell from 94 to 3.** At three rows per iteration, discovering this by hand would have consumed
+roughly **thirty more blocked iterations.**
+
+### The driver change — made, and why
+
+Two iterations ago I wrote that if the cluster proved large enough to dominate batches, *"the right
+fix is a driver change… flagged as a suggestion; not implemented unilaterally."* **That condition
+was unambiguously met** — two consecutive fully-blocked batches and a block ~91 rows deep — so the
+fix was made. It is deliberately minimal and mirrors behaviour the driver **already had**:
+
+- `fetch_captions()` gains a **`members-only`** outcome, tested **before** `unavailable` — the
+  paywall message reads *"This video is **available to** this channel's members"*, and that
+  substring must never be mistaken for the removed-video case. A comment records the ordering
+  requirement.
+- The membership **tier** (base / Patron Member / Premiere Member) rides along in the outcome
+  string, so the caller can record it without needing raw yt-dlp output in scope.
+- `cmd_prepare` marks the row **`skipped`**, not `L1`. This diverges from the `no-captions` and
+  `unavailable` conventions **on purpose**: those are catalogued-but-unfetched states that could in
+  principle be recovered later, whereas paywalled media cannot be downloaded at all. It also
+  matches the 18 rows already marked by hand.
+- The module docstring's classification table is updated.
+- ⚠️ **`FLAG_RE` was deliberately NOT touched.** `skipped` already falls outside `OPEN_STATUSES`, so
+  no notes-matching is needed — and adding a term there is precisely the trap I fell into in batch
+  195, where my own note text silently hid a row from selection.
+
+**One bug of mine, found and fixed during the change:** the first version referenced `blob` inside
+`cmd_prepare`, where it is out of scope. Caught immediately by running it; fixed by carrying the
+tier in the outcome string rather than re-parsing the output.
+
+### Where this leaves the pipeline
+
+`@thefutur` **P2 is effectively drained — 3 rows left**, then P3:44. `@TheFuturAcademy` P3:72 and
+860 shorts remain. ✅ This **corroborates the saturation finding from batch 197** from a different
+direction: the remaining long-form @thefutur backlog is far smaller than the raw ledger count
+suggested, because a large share of it was never obtainable. **The recommendation to weight future
+work toward @TheFuturAcademy and the shorts backlog now has arithmetic behind it, not just a
+judgement about repetition.**
+
+Synthesis notes: none — no source ingested.

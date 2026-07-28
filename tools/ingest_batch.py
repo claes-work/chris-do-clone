@@ -33,10 +33,11 @@ WHAT `prepare` DOES, PER SELECTED VIDEO
     - Runs yt-dlp exactly like tools/fetch_captions.ps1 (manual subs preferred, auto fallback,
       en.*, vtt) into raw/youtube/<channel-slug>/<YYYY-MM-DD>-<id>.en.vtt
     - Converts the .vtt to clean .txt (via tools/vtt_to_text.py)
-    - Classifies the outcome: ok | no-captions | rate-limited(429) | unavailable | error
+    - Classifies the outcome: ok | no-captions | members-only | rate-limited(429) | unavailable | error
     - Learns the true upload date from the produced filename (backfills `published` if it was NA)
     - Auto-marks the ledger (unless --no-mark):
         no-captions  -> status=L1, notes="no-captions (no subtitles available)"
+        members-only -> status=skipped, notes="MEMBERS-ONLY video (<tier>)"  [never recoverable]
         unavailable  -> status=L1, notes="video unavailable (removed)"
         429          -> LEFT OPEN (transient) and reported for a later retry
     - Emits a work order: for every OK video, the metadata + transcript path + the target
@@ -197,6 +198,17 @@ def fetch_captions(url: str, slug: str, video_id: str) -> tuple[str, Path | None
     low = blob.lower()
     if "http error 429" in low or "too many requests" in low:
         return "429", None, None
+    # members-only must be tested BEFORE `unavailable`: the paywall message reads
+    # "This video is available to this channel's members on level: <tier>", and an
+    # "available to" substring must never be mistaken for the removed-video case.
+    if "members-only" in low or "join this channel" in low or "channel's members" in low:
+        # Carry the membership tier in the outcome string so the caller can record it
+        # without needing the raw yt-dlp output in scope.
+        if "premiere member" in low:
+            return "members-only:Premiere Member tier or higher", None, None
+        if "patron member" in low:
+            return "members-only:Patron Member tier or higher", None, None
+        return "members-only:base membership", None, None
     if "video unavailable" in low or "not available" in low or "no longer available" in low:
         return "unavailable", None, None
     if "no subtitles" in low or "there are no subtitles" in low:
@@ -273,6 +285,18 @@ def cmd_prepare(a: argparse.Namespace) -> None:
                 ledger_set(r["id"], status="L1", notes="no-captions (no subtitles available)")
             marked.append((r["id"], "no-captions"))
             print(f"  no-captions  {r['id']}  (marked L1)" if not a.no_mark else f"  no-captions  {r['id']}")
+        elif outcome.startswith("members-only"):
+            # Paywalled behind channel membership: unlike no-captions, this can never be
+            # recovered later (the media itself is not downloadable), so it is `skipped`
+            # rather than L1. The tier rides along in the outcome string.
+            tier = outcome.split(":", 1)[1] if ":" in outcome else "base membership"
+            if not a.no_mark:
+                ledger_set(r["id"], status="skipped",
+                           notes=f"MEMBERS-ONLY video ({tier}). Paywalled behind channel "
+                                 f"membership; cannot be ingested.")
+            marked.append((r["id"], "members-only"))
+            print(f"  members-only {r['id']}  (marked skipped)" if not a.no_mark
+                  else f"  members-only {r['id']}")
         elif outcome == "unavailable":
             if not a.no_mark:
                 ledger_set(r["id"], status="L1", notes="video unavailable (removed)")

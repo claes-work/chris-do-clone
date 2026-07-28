@@ -14222,3 +14222,26 @@ doctrine is saturated) · the **beta-test-on-Twitter** content workflow (`repurp
 
 Synthesis notes: **information vs education** (2021-09-17) → `topics/business`, ⚠️ carrying the
 neutral subtraction framing and the solo-format attribution basis.
+
+## [2026-07-28] ingest | yt shorts batch 264 (@thefutur, 25 triaged, 0 ingested)
+
+Stage C. **25 shorts, 0 ingested.** Open shorts 173 → **148**.
+
+⚠️ **Caption quality is visibly degrading in this stretch** — several rows are near-unreadable
+(*"Do you think of SAS westa collide with respect To What"*, *"for the livelihood of How to dress
+morgenstern beneath"*). These are auto-caption failures on older uploads, not content. **Each was
+still checked** — a garbled transcript is not a reason to skip, only a reason it is harder to
+classify — and none carried a recoverable claim.
+
+Resolved by token:
+
+| Short | Token | Corpus |
+|---|---|---|
+| **the five-monkey ladder experiment** | `five monkey\|monkey ladder` **1** | [[wiki/sources/2016-10-11-yt-W9r5NbxxTW0]] — same parable, same use (inherited *"that's just how it's done"* behaviour), paired there with a Stephen Covey line |
+| **Donald Miller** video reference | `donald miller` **9** | held |
+| *"I don't mind the expression **fake it till you make it**"* | `fake it (till\|until)` **7** | held |
+| *"in the 80s and 90s the qualifier to get a job"* | `in the 80s\|1980s` **12** | held |
+
+**Stage C running total: 713 shorts processed · 19 ingested · 694 closed.**
+
+Synthesis notes: none.

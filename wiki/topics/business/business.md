@@ -2981,6 +2981,88 @@ SOCIAL CURRENCY**"* — time, attention, status, support, connection.
 > ⚠️ **Cuts against his own insistence on receipts and experience elsewhere on this page. He does
 > not address it.** Record both.
 
+## ★★★★★ Early-era additions (pass 21b, added 2026-07-28) — how the company was actually run
+
+### ★★★★★ 81. Clear goal, then leave them alone — the 2017 management model
+
+⏳ **The only concrete account in the corpus of how his company was managed at this date**, given to
+an Otis College audience: a *"very loose structure"*, a general 10am–7pm, *"other than that I leave
+people to do what they need to do."*
+
+> ★★★★★ *"**A sign of a good leader is somebody who TELLS YOU WHAT THE GOAL IS — is very clear about
+> the goal — BUT LEAVES YOU ALONE to let you figure out how to get to the goal.**"*
+
+★★★★★ **The micromanagement failure, described as a mechanism rather than a complaint** — this is the
+part worth teaching: *"imagine if every hour I came by — 'hey, how's that frame?' — **every time, HE'S
+THINKING WHAT DOES HE WANT, and he stops thinking about what he's supposed to do. THE TALENT THAT
+BROUGHT HIM IN THE DOOR IS NOW GETTING CLAMPED DOWN, and that's shutting off his creativity.** So at a
+certain point he becomes so shell-shocked, **he now just thinks: I'M GOING TO JUST DO WHATEVER, so I
+can get him to tell me what to do. WE DON'T WORK WELL WITH THOSE KINDS OF PEOPLE.**"*
+
+★★★★ **The protocol instead:** state the requirement, confirm understanding, agree the duration —
+*"**is it reasonable to get this thing done in 3 days?**"* — *"and you say yes, **then that's what we
+work towards.** I'll check in from time to time; **if you need me, come find me.** But in 3 days I
+expect it done. **THERE'S NO BABYSITTING, NO HELICOPTERING — WE DO NOT HAVE THAT KIND OF TIME.**"*
+
+★★★★ **The one exception is a redirect that is still questions:** *"**from time to time I do sit down
+and say: I've noticed you're doing this, there's a couple of other ways I want you to think about how
+to do it. And we'll sketch and we'll draw and we'll talk — AND I'LL ASK YOU LOTS OF QUESTIONS,**
+hopefully to **recharge you and redirect you.**"* ✅ Consistent with the ask-don't-tell material in
+`sales-clients` — **the same instrument, turned inward on his own team.**
+
+★★★★★ **The image for the whole approach:** *"**all I want to do is put the GUIDELINES ON THE FIELD,
+so you don't go out of [bounds] — and within that, IT'S VAST AREAS FOR YOU TO EXPLORE.**"*
+
+★★★★ **Credited:** *"**as we found out from DANIEL PINK — AUTONOMY is what makes you more creative,
+allows you to solve more complex problems.**"* ★★★ **And why the office was deliberately silly** —
+dress-up days: *"**we don't want you to start to BOX YOURSELF IN. We want you to be OKAY WITH MAKING
+MISTAKES, MAKING A FOOL OF YOURSELF, AND NOT TAKING YOURSELF SERIOUSLY AT ALL.**"*
+
+★★★ **A limit he puts on his own advice here, unprompted:** *"**to be honest, I've worked at very few
+companies in my life, for a very short period of time — so I can only guess.**"* → and the advice that
+follows from it: go and see other companies, *"**because the first company you go to work for, you're
+going to think THAT'S the best company, that's the only way it can be done. It might have been. But
+it might not.**"* ([[../../sources/2017-03-27-yt-BX5Jy0OIVSg]])
+
+### ★★★★★ 82. 90% of the proposal is already written
+
+> ★★★★★ *"**Keep in mind, 90% OF THE PROPOSAL IS ALREADY DONE.** Once you get a good template going,
+> **you're just modifying the relevant parts — because WE DIDN'T CHANGE WHO WE WERE. We're not
+> changing our staff overnight, we're not changing our client testimonials. So really what we're
+> changing is THE COVER LETTER, THE BUDGET AND THE TIMELINE.**"*
+
+★★★★ **What a proposal contains:** *"**our qualifications, a couple of client testimonials, our
+approach, our process, a couple of relevant projects, and then a timeline and a budget.**"* ★★★ **And
+the scale that makes it cheap:** *"we have probably **HUNDREDS of proposals** that we've put
+together… we have those things worked out."*
+([[../../sources/2017-09-27-yt-UHrjn11F6hc]])
+
+### ★★★★ 83. The cost of the wrong client, spelled out — and faith with the loophole closed
+
+★★★★★ **The downside, in full:** *"imagine — heaven forbid — **they're yelling at you all the time,
+berating you, belittling you, you hate life, your margins disappear, now you're UPSIDE DOWN on the job
+AND THEY WANT A REFUND — and then they go on Yelp and tarnish your name.** … **You get hit by a truck
+the day after. THAT WAS YOUR LIFE. IS THAT THE LIFE YOU WANT?**"* → *"**I WILL PAY YOU MONEY TO LEAVE.
+I don't want this job any more.**"* → and the reduction: *"**you're better off doing nothing — sitting
+in your room staring at the wall. THAT WOULD BE MORE ENTERTAINING AND COST LESS.**"*
+
+★★★★ **What the solo owner carries that the agency employee doesn't** — the client refusing to pay
+while staff still must be paid: *"**not only are you not doing the work and not getting paid — you
+still have to pay [your team]. So now you're LITERALLY PAYING TO MAKE THE THING GO AWAY.**"*
+
+★★★★★ **And the counterweight, with its loophole explicitly closed:** *"**I have faith. I have faith
+in MYSELF, MY PROCESS, MY WORK, MY NETWORK.** … it's darkest before dawn — **just have faith that the
+sun does come up.** **THAT DOES NOT MEAN YOU CAN SIT ON YOUR LAURELS** and expect work to come in,
+expect new leads. **YOU'VE GOT TO POUND THE PAVEMENT. You pick up the phone, you call three new
+clients or three old clients.**"*
+
+### ★★★ 84. What he hires for (2016-02-13)
+
+Stated in role, as the creative director being interviewed: *"**I'm looking for somebody who's really
+DRIVEN, who's a SELF-STARTER, who TAKES INITIATIVE — and not somebody who's waiting to be told what
+the next step is. THOSE are people that I find it's a lot harder to work with.**"*
+([[../../sources/2016-02-13-yt-pKMfPGAZHYI]])
+
 ## Sources
 
 - [[wiki/sources/2016-02-24-yt-4ZeNq6s_aX4]] — "3 Tips on starting your own design agency"

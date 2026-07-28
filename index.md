@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-28 (ingest yt batches @thefutur, 5 → **987 L2**; ★★★★★ **two attributions recovered**: *"just ask"* is credited by name to **Kier McLaren** — *"kiddo, why don't you just ask?"* — and *"you're probably right, but let's make sure"* came out of **Blair Enns's book**, told against himself; plus the ★★★★★ **four things** first-meeting method and **two precedence findings** moving the question-quality and whoever-talks-first-loses rules back to **February 2016**)_
+_Last updated: 2026-07-28 (synthesis passes **21 + 21b** → system-prompt **v23**, **987 L2**; ★★★★★ **two attributions recovered and landed**: *"just ask"* is **Kier McLaren's** — *"kiddo, why don't you just ask?"* — and *"you're probably right, but let's make sure"* came out of **Blair Enns's book**, told against himself; ⏳ plus a **dating correction** moving six frameworks back to 2016–2021)_
 
 ## Sources
 
@@ -32,9 +32,9 @@ _Last updated: 2026-07-28 (ingest yt batches @thefutur, 5 → **987 L2**; ★★
 - [wiki/entities/andrea-sampson.md](wiki/entities/andrea-sampson.md) — CONTEXT: speaker coach, ex-agency SVP strategy, TEDx Toronto programming. ⚠️ **Her frameworks and her clients' stories are hers, fenced.**
 - [wiki/entities/maria-ross.md](wiki/entities/maria-ross.md) — CONTEXT: author on empathy in business. ⚠️ Fenced — **and the source of the only OUTSIDE verdict on Chris's blunt manner** (*"that's highly empathetic"*).
 - [wiki/entities/cynthia-kane.md](wiki/entities/cynthia-kane.md) — CONTEXT: communication author/coach, recurring guest (budget talk, silence, EQ); does NOT train the persona.
-- [wiki/entities/blair-enns.md](wiki/entities/blair-enns.md) — INFLUENCE/CONTEXT: Win Without Pitching / Pricing Creativity author; 4+ on-camera co-host appearances; his frameworks (MLE, Blairtopia, retreat-and-follow) are HIS, do NOT train the persona.
+- [wiki/entities/blair-enns.md](wiki/entities/blair-enns.md) — ⚠️ **DOCUMENTED CAUSAL INFLUENCE** (upgraded pass 21b), not merely an author Chris cites: *Win Without Pitching* / *Pricing Creativity*; earliest contact now **2017** (podcast interview), plus the 2021 book-club nights. ★★★★★ **Source of "you're probably right, but let's make sure"** and **the \$1,000 paid-estimate script**; the book is a named **contributing cause** of Chris leaving commercial motion design (⚠️ *"began to spark"* hedge). His own frameworks (MLE, Blairtopia, the room of doors, retreat-and-follow) are HIS — do NOT train.
 - [wiki/entities/thefutur-youtube.md](wiki/entities/thefutur-youtube.md) — the main channel: eras, formats, ID UC-b3c7kxa5vU-bnmaROgvog.
-- [wiki/entities/kier-mclaren.md](wiki/entities/kier-mclaren.md) — CONTEXT: Chris's longtime business consultant (~10–15 yrs); doubled Blind's revenue; MASTERMIND series host (Eps 1–10); ★★ the two causal interventions ("you're hiding in your room"; get-the-job-done).
+- [wiki/entities/kier-mclaren.md](wiki/entities/kier-mclaren.md) — CONTEXT/INFLUENCE: Chris's longtime business consultant (~10–15 yrs, d. by 2026-03-31); doubled Blind's revenue; MASTERMIND series host (Eps 1–10). ★★★★★ **THREE causal interventions** — "you're hiding in your room"; get-the-job-done-or-be-right-or-be-popular; and **the origin of "just ask"** (*"kiddo, why don't you just ask?"*, 2017), which the persona had been carrying as Chris's own.
 - [wiki/entities/tom-ross.md](wiki/entities/tom-ross.md) — CONTEXT: Design Cuts CEO / Learn Community; 3 appearances; his community frameworks are HIS — do NOT train.
 - [wiki/entities/simon-squibb.md](wiki/entities/simon-squibb.md) — ⚠️ GUEST CONTEXT / do-not-train: the "what's your dream?" creator; the page isolates **where Chris agrees and where he pushes back**.
 - [wiki/entities/matt-essam.md](wiki/entities/matt-essam.md) — ⚠️ DO-NOT-TRAIN: the recurring **Chris-absent** @thefutur teaching slot (4 instances); fence by name.

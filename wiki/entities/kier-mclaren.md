@@ -548,3 +548,63 @@ self-deprecation immediately after he had sold a professional sales trainer live
 ✅ Note the use he puts it to: not as a boast about the demonstration, but as an explanation of why
 it worked so easily. ⏳ **An early attestation (2021)** — one of the oldest direct Kier quotations
 recorded on this page.
+
+## ★★★★★ Added 2026-07-28 (synthesis pass 21b) — THE THIRD INTERVENTION: the origin of "just ask"
+
+> ⏳ **The earliest Kier intervention in the corpus (2017-09-27), and the most consequential.** It
+> is the documented origin of **ask-don't-tell** — the principle the whole `topics/sales-clients`
+> hub is built on, and which the persona files had been carrying as **Chris's own**.
+> ⚠️ **This is a THIRD intervention** and should be read alongside the two recorded above
+> ([[#1. "You're hiding in your room" — the origin of client-facing (and eventually stage-facing) Chris|the hiding-in-your-room intervention]]
+> and [[#2. "Get the job done, or be right, or be popular"|get-the-job-done]]) — the section heading
+> further up this page that says *"two interventions"* predates this find.
+
+### The confession that sets it up
+
+Teaching a one-to-one coaching client how to run a first meeting, Chris describes the habit Kier
+broke — and he is unsparing about it:
+
+> ★★★★★ *"**There's this game that we think we have to play: that we have to IMPRESS THEM BY NOT
+> SAYING ANYTHING; that it's a game of ONE-UPSMANSHIP; that we can't be fully transparent and honest.
+> AND THAT'S A GAME THAT I USED TO PLAY. I used to — believe it or not — GO INTO CONFERENCE CALLS FOR
+> SIX-FIGURE JOBS AND NOT ASK THE CLIENT WHAT THEY WANTED US TO BUILD.**"*
+
+★★★★ **And the reasoning behind the silence, which he now regards as self-defeating:** *"because it
+was **the game that I thought we had to play** — that we have to **INTUIT** it… **you feel like you
+should know, and you want them to think that you know that you know — but then you don't know.** And
+then they walk away thinking: **I don't think Chris knows what he's talking about. HE DIDN'T EVEN ASK
+ME WHAT I WANTED. They just beat around the bush.**"*
+
+### The intervention
+
+> ★★★★★ *"**This is something I learned from MY BUSINESS COACH, KIER MCLAREN. He's the one who said:
+> 'KIDDO, WHY DON'T YOU JUST ASK? Just be yourself and just ask. Just ask for what you want'** — and
+> here's a couple of ways of asking. **As soon as he said that, IT WAS LIKE THE HEAVENS PARTED, THE
+> CLOUDS PARTED AND THE SUN CAME THROUGH AND SHONE IN MY FACE. And it was like: THAT SEEMS SO OBVIOUS
+> AND SIMPLE — THEN WHY THE HECK HADN'T I DONE THIS?**"*
+> ([[../sources/2017-09-27-yt-UHrjn11F6hc]])
+
+✅ **Note the two halves.** Kier supplied both the permission (*"just be yourself and just ask"*) and
+the **method** (*"here's a couple of ways of asking"*) — which is consistent with the account already
+on this page under *What he actually taught*, where Chris credits him with **the question list**.
+
+### What Chris built on it, in the same breath
+
+> ★★★★★ *"**We walk around with a set of rules — AN OPERATING SYSTEM — THAT IS INCORRECT. IT'S
+> FLAWED. And most of the time, IT'S US WRITING THE CODE. So that's the good news: BECAUSE WE CAN
+> REWRITE THE CODE.**"*
+
+⚠️ **The operating-system metaphor is Chris's, not Kier's** — it is his generalisation *from* the
+intervention, and should be attributed to him.
+
+### Why this matters for the clone
+
+- ⚠️ **`ask, don't tell` must no longer be presented as originally his.** When the origin comes up,
+  the persona credits Kier by name and tells it with the confession attached — that is how Chris
+  himself tells it.
+- ✅ **It dates the change.** The corpus can now place the shift at **~2017**, taught as settled
+  method in September of that year, which is consistent with the *order taker → consultant*
+  repositioning of Blind dated to 2016 ([[../sources/2016-03-04-yt-KlnOS_Blig4]]).
+- ✅ **It is the third documented instance of the same pattern**: Kier says one short, plain sentence,
+  and Chris reorganises his practice around it. Compare *"you're hiding in your room"* and
+  *"get the job done, or be right, or be popular."*

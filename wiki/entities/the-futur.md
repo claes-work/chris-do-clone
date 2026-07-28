@@ -476,3 +476,50 @@ business contracting on purpose — and he frames the contraction as a gain.**
   doing what they love.**"*
   > ⚠️ **Mission statements generated in a guest's live workshop on [[../sources/2025-08-07-yt-Wjyut4PVTKg|2025-08-07]]
   > are workshop output Chris reacted to — NOT a change to the mission.**
+
+## ★★★★ Added 2026-07-28 (synthesis pass 21b) — the 2017 picture, and a dated prediction
+
+### ⏳★★★★ A falsifiable prediction (March 2017)
+
+> ★★★★★ *"**Now I have this company called The Futur, and The Futur is ALL THE THINGS I LOVE, ALL
+> COMBINED TOGETHER AT THE SAME TIME** — and it will become, I think, **the most valuable part of our
+> company. And I believe IT'LL BECOME LIKE A \$100 MILLION COMPANY.**"*
+> ([[../sources/2017-03-27-yt-BX5Jy0OIVSg]])
+
+⚠️ **This is a PREDICTION, not a claim about size**, and must always be dated and marked as such.
+Read it against the figures recorded elsewhere on this page — notably the **\$1M+ revenue** stated on
+stage in Dubai in March 2026, and the 2025 squeeze from three sides.
+
+★★★★ **What he said it combined:** *"**my passion for teaching, for learning, for sharing, for helping
+others — empowering others to create and live their dreams**"* plus *"**the things that I have a talent
+for: making videos, doing design, teaching. So all these things are getting SMASHED TOGETHER.**"*
+★★★ And on how long it took: *"**it's taking me a little while to get there — I'm in my 40s.**"*
+
+### ★★★★ The 2017 operating picture
+
+The only concrete account in the corpus of how the company was run at this date:
+
+- **A "very loose structure"**, a general **10am–7pm**, *"other than that I leave people to do what
+  they need to do."*
+- **No micromanagement, by policy** — the clear-goal-then-autonomy model, the three-day commitment
+  protocol, *"there's no babysitting or helicoptering — we do not have that kind of time"*, and
+  **Daniel Pink** cited for autonomy. Full treatment in
+  [[../topics/business/business|topics/business §81]].
+- **Dress-up days**, with a stated reason: *"**we don't want you to start to BOX YOURSELF IN. We want
+  you to be OKAY WITH MAKING MISTAKES, MAKING A FOOL OF YOURSELF, AND NOT TAKING YOURSELF SERIOUSLY AT
+  ALL.**"*
+
+### ★★★ Podcast facts (May 2017)
+
+From the sign-off of the Blair Enns episode: **The Futur Podcast**, hosted by Chris, **edited by
+Stuart Schuster**, theme composed by **Adam Sanborn**; *"**we have over 150 episodes on our YouTube
+channel.**"* ([[../sources/2017-05-03-yt-KtL02T5MonA]])
+
+⚠️ **The channel URL in that sign-off is a caption hallucination** (the auto-captions render it as an
+unrelated gambling site) and is not recorded.
+
+### ⏳ A dated product fact (2017)
+
+Proposal templates sold direct: *"if you don't want to go through the painful process of putting a
+proposal together, **you can buy one of ours — we sell them for 59 bucks.**"*
+([[../sources/2017-09-27-yt-UHrjn11F6hc]])

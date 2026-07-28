@@ -382,3 +382,56 @@ losing.** At a certain level I can win the project — but at the next level **w
 Their ideas were better. Their phone game was better** — **they give good phone**, as they would say."*
 A fortuitous encounter with producers taught him to bid; then he hired someone who *"says: here's all
 the things you don't know about."* ([[../sources/2025-06-15-yt-EeEsglitUe8]])
+
+## ★★★★★ Added 2026-07-28 (synthesis pass 21b) — the founding, told end to end (2016-03-04)
+
+The fullest account in the corpus, and more specific than earlier summaries on nearly every point.
+⚠️ **All of it is self-reported.**
+
+- ★★★★★ *"**Blind was started and formed in DECEMBER OF 1995 as a corporation.**"* ⚠️ **Bears on the
+  standing 1995-vs-1997 discrepancy** — still self-reported, but now **with a month attached**, which
+  the registry date (1997) does not match. **Record both; do not reconcile them.**
+- ★★★★ **Immediately before:** an ad agency and **a punk rock music label** — *"**I didn't feel like I
+  could express who I was.**"*
+- ★★★★★ **His uncle initiated it:** *"**do you want to start a design company?**"* — because an
+  attorney partner had a client who owned hotels, and *"**it's cheaper to own one than to continually
+  pass the work out.**"* Chris had been out of school *"**no more than two and a half months.**"*
+- ★★★★★ **The business plan, pre-search:** *"**search was not even a thing yet**"* — he phoned his
+  brother in Silicon Valley to ask *"what is the internet?"*, then a roommate's investment-banker
+  father. *"**Use the resources that you know. Use the resources that are around you.**"*
+- ★★★★★ **The ask and the answer:** *"**I just came up with a wild number, and the number was
+  \$100,000. Completely arbitrary**"* — the reasoning was **six months of runway** — *"**and he
+  reaches into his briefcase and writes a check on the spot. NOT for \$100,000**… **he wrote a check
+  for \$5,000. 5%**… **No contracts. No percentage.**"*
+- ★★★★ **The first office:** the Brewery in downtown LA, ~2,000 sq ft — *"**I literally slept
+  upstairs, walked down the metal stairway, and the office was there.**"* On quitting his freelance
+  gig: *"**call us back when you fail**"* → *"**there's no way I could fail. Let's just go for it.**"*
+- ★★★★★ **The breakthrough:** *"**I kept in my mind: maybe one day somebody's going to ask me that
+  question. I NEED TO KNOW WHEN THAT MOMENT IS**"* → **the first national TV spot, about a year in.**
+- ★★★★ **Revenue:** he says Blind broke **\$1M in its second year** (≈1996–97)
+  ([[../sources/2026-05-19-yt-nY58IHYAARM]]). ⚠️ Different scope from the *"a couple million before I
+  turned 25"* claim; **both self-reported, neither reconciled by him.**
+
+([[../sources/2016-03-04-yt-KlnOS_Blig4]])
+
+### ⚠️★★★★★ How Blind was actually run: on strict work–life SEPARATION
+
+A year later, arguing for integration, he describes the studio era as its opposite:
+
+> ★★★★★ *"**I used to just run Blind and that's all I was doing — so it was ALL ABOUT WORK.** So when
+> I was at home, and people didn't understand this about me: **DON'T CALL ME AT HOME, I DON'T RESPOND
+> TO YOUR EMAILS** — and they get all bent out of shape. It's like: **I gave you my time at work. Now
+> I'm at home. And I TRY NOT TO LET THOSE TWO WORLDS BLEED. AND IT CREATES ALL SORTS OF PROBLEMS.**"*
+> ([[../sources/2017-03-27-yt-BX5Jy0OIVSg]])
+
+⚠️ **A dated change of position.** Never present the separation stance as current advice.
+
+### ★★★★ The 2016 repositioning, stated twice in three weeks
+
+*"**We are positioning ourselves as BUSINESS DESIGN CONSULTANTS**… **I don't prescribe solutions
+until I understand the problem. I'M NO LONGER AN ORDER TAKER**"* (2016-03-04) — and, stated in role
+during an interview roleplay three weeks earlier: *"**what we're trying to do is to PIVOT OUT OF BEING
+A MOTION DESIGN FIRM EXCLUSIVELY and to being THE DIGITAL AGENCY OF THE FUTURE — to incorporate a lot
+of branding, design, identity — and most of it is centred around STRATEGY.**"*
+([[../sources/2016-02-13-yt-pKMfPGAZHYI]]) ✅ **Two independent contexts, three weeks apart, same
+repositioning.**

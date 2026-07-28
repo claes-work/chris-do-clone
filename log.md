@@ -11190,3 +11190,51 @@ Flagging it plainly: the counts were removed, not updated.
 Synthesis notes: none — this IS the synthesis pass. **Pass 21b is pending** and its brief is written
 in full into `pipeline/synthesis-state.md`; its highest-priority items are the two attributions
 landing on `entities/kier-mclaren.md` and `entities/blair-enns.md`.
+
+## [2026-07-28] lint | synthesis pass 21b — topic hubs + entities (early era, 2015–2021)
+
+Stage S. **Closed the gap pass 21 declared up front.** No version bump — **v23 stands**; this pass
+touched no `persona/` file.
+
+### ⚠️⚠️ The two attributions landed — the point of the split
+
+- **`entities/kier-mclaren`** — **the THIRD intervention: the origin of "just ask"** (2017-09-27),
+  recorded with the confession it resolves and the *"heavens parted"* reaction. Noted that Kier
+  supplied **both the permission and the method** (*"here's a couple of ways of asking"*), which is
+  consistent with the question-list credit from pass 19b — and that **the operating-system metaphor
+  is Chris's own generalisation, not Kier's.** ⚠️ The older heading on that page saying *"two
+  interventions"* now predates the record; the new section says so rather than silently editing it.
+- **`entities/blair-enns`** — **upgraded from "an author Chris cites" to a documented CAUSAL
+  influence.** The 2017 interview moves earliest contact back four years from the 2021 book-club
+  nights. Records the sourcing of *"you're probably right, but let's make sure"*, the **\$1,000
+  paid-estimate script credited verbatim**, and the book as a **contributing cause** of leaving
+  commercial motion design — ⚠️ with his *"began to spark"* hedge preserved. Blair's own 2017
+  business facts and frameworks are recorded fenced, and the page ends with a block naming **what is
+  Chris's in that episode and must not be given to Blair.**
+
+### Topic hubs — 16 new sections
+
+`sales-clients` §108–116 (ask-don't-tell's origin credited at the top of the hub; **THE FOUR
+THINGS**; matching and mirroring; the agenda open; taking control as an advisor; the four qualifiers
+and the **written** protocol; Cialdini's increasing commitment; the 2016 magic question; ⚠️ **§115
+seeds-of-doubt recorded as he framed it**, with an explicit instruction not to launder it into
+principle). `pricing` §70–72 (can't bid what you haven't scoped; range-as-assumptions; ⚠️ the paid
+estimate and the telephone test both marked as **Blair's**). `business` §81–84 (the 2017 management
+model; 90% of the proposal pre-built; the cost of the wrong client; faith with the loophole closed).
+`mindset` §108–111 (work–life integration ⚠️ **with his own vice-fence attached**; *"I'm a deep
+diver"* ✅ filed as a tension with the focus material that **he names rather than resolves**; the
+five-years-before-you-teach rule). `design-craft` §46. `content-strategy` §78.
+
+### Entities also updated
+
+`influences` (two upgrades to causal, plus **Daniel Pink**, **Robert Cialdini**, ⚠️ Csikszentmihalyi
+recorded as *Blair's* credit rather than Chris's, and *The Great Brain*); `blind` (the founding end
+to end — ⚠️ **the December-1995 claim is held against the 1997 registry date, not reconciled** — and
+that the studio ran on strict work–life separation); `the-futur` (⏳ the March-2017 \$100M line
+marked as a **prediction**, the 2017 operating picture, podcast credits, ⚠️ the caption-hallucinated
+sign-off URL explicitly not recorded); `jose-caballer` (the co-hosted *Process* register; ⚠️ **the
+orange-jumpsuit story recorded as Jose's**, with Chris's self-selection reading of it kept separate).
+
+Synthesis notes: none — this IS the synthesis pass. **No pending checkpoints remain; synthesis is
+caught up through batch 204 / L2 987.** The loop returns to Stage B next iteration (@thefutur P3:37,
+@TheFuturAcademy P3:72, 860 shorts).

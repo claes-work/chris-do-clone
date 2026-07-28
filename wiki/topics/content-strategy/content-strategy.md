@@ -3370,6 +3370,27 @@ A 90-day experimentation framework found nowhere else in the corpus:
 > for the craft material (establishing shot, *"but" not "and then"*, start at the end, the
 > repeatable story, the naming layer).
 
+## 78. ★★★★★ Frame the work before you show it (2017-06-08)
+
+⏳ **The earliest form of a move this hub records in later, more elaborate versions.** Given to a
+graduate about to play a reel, but it applies to any presentation of work:
+
+> ★★★★★ *"**What you want to do is give people CONTEXT of the work they're about to see, YOUR ROLE in
+> the work, and any kind of PROBLEMS you were trying to solve or a MESSAGE you're trying to
+> communicate.** [Otherwise] **I have no idea what you're trying to do, what you did, if it was a team
+> group project, if you're responsible for the 2D compositing or the entire thing.**"*
+
+★★★★★ **The script he dictates:** *"'**This is a montage of work that I've completed. It's a sample of
+2D and 3D animation, some cel — and I'm exploring Cinema 4D as a 3D application as well. IT'S 45
+SECONDS, and I hope that gives you a taste of the work that I'm capable of doing.**' **You might even
+talk about your STRENGTHS AND WEAKNESSES — and then you hit play.**"*
+
+★★★★ **The payoff, stated from the receiving end:** *"**Now I know how long it is. I know what I'm
+looking for. I KNOW HOW TO JUDGE THE WORK.**"*
+
+✅ **Same logic as the magic question** (`sales-clients` §114): **establish the frame first so the
+content is received against the right criteria.** ([[../../sources/2017-06-08-yt-5MVuviyGW0c]])
+
 ## Sources
 
 - [[wiki/sources/2015-11-29-yt-z7Y9TKfgstE]] — "Is Your Design Resume Still Relevant?" —

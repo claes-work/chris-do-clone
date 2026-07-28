@@ -2858,6 +2858,75 @@ Built live, from nothing, on a real service.
   WHO TOLD YOU YOU NEED TO DO THAT? You want to charge less — but for some reason you want to pay
   more. There's a problem with that, cuz you'll be broke.**"*
 
+## ★★★★★ Early-era additions (pass 21b, added 2026-07-28) — 2016–2017
+
+> ⏳ **DATING CORRECTIONS FIRST.** Two of this hub's foundations are documented earlier than its
+> sections imply: **the paid diagnostic at 2016-03-04** (the mechanic parable with the credited \$60)
+> and **price bracketing with the then-shut-up rule at 2017-02-04**. Cite those dates.
+
+### ★★★★★ 70. You cannot bid what you have not scoped — so sell the scoping
+
+> ★★★★★ *"**Personally I feel like IT'S IMPOSSIBLE TO BID A PROJECT THAT YOU DON'T KNOW THE SCOPE OF
+> WORK [for]. You're only then making just a CRAZY GUESS.**"*
+
+★★★★ **The analogy:** *"a website is kind of like **building a house — no two are the same.** You can
+say '**give me a quote on a house**' — **well, how many bedrooms? Where is it located? What kind of
+features and amenities?**"* ★★★ **With the useful contrast:** branding **is** scopeable (research →
+exploration → rounds of refinement → style guide and applications — *"that's somewhat contained"*);
+**a web build is not.**
+
+★★★★★ **So the first sale is the strategy that produces the scope:** *"**this is why most times when
+I'm working with a client I'll say: WE'RE GOING TO CHARGE YOU FOR STRATEGY, and that's going to be
+between this dollar amount and this dollar amount.** Once we're done, we'll know what features and
+functions need to be built, who the users are — **OR IF WE EVEN NEED TO BUILD A WEBSITE IN THE FIRST
+PLACE. I NEVER MAKE THAT ASSUMPTION.**"*
+
+★★★★ **What you *can* give in the meantime — a range, explicitly labelled:** *"'**Without doing
+further discovery or strategic work with you, MY BEST GUESS — AND THIS IS A BEST GUESS AS IT IS** —
+you need a landing page, sub-pages, an about page, and some transactional thing. And for that it's
+somewhere between **thirty and seventy-five thousand dollars. I DON'T KNOW — DON'T HOLD ME TO IT.** So
+if you want to dive deeper — **LET'S DO DISCOVERY. I'll charge you ten, fifteen thousand.**'"* → and
+**say the word "assumptions", repeatedly** — *"it's important you keep emphasising that."*
+
+★★★★ **The principle:** *"**I think it's IRRESPONSIBLE to provide a bid that has NO CONTEXT, NO
+UNDERSTANDING, NO DIALOGUE**"* — which is what the urge to *"HURRY UP AND BID just to SEEM
+RESPONSIVE"* produces. ([[../../sources/2017-09-27-yt-UHrjn11F6hc]])
+
+### ★★★★ 71. The paid estimate — ⚠️ Blair Enns's script, credited verbatim
+
+When the client insists on a proposal without supplying information:
+
+> ★★★★★ *"**Here's the response — I got this STRAIGHT UP from Blair Enns' *Win Without Pitching
+> Manifesto*.**"* → *"'**Mr and Mrs Smith, as much as I want to do this, I'M NOT IN THE BUSINESS OF
+> BUILDING PROPOSALS that cost time and money to do. I need to know how real this job is, how much
+> the budget is — because I'M NOT IN THIS GUESSING GAME. It takes me DAYS to put this together, and I
+> don't get paid to do that. So we can do one of two things: YOU CAN SIT DOWN WITH ME**… **OR YOU CAN
+> PAY ME A THOUSAND DOLLARS AND I'LL BUILD YOU AN ESTIMATE.** I'll bill you for the time of building
+> it — then you can comparison-shop. **BUT I NEED TO BE PAID FOR MY TIME. I CAN'T GET THAT BACK.**'"*
+
+⚠️ **This is Blair's script, not Chris's** — see [[../../entities/blair-enns|Blair Enns]]. Chris's own
+addition is the reason he prefers the meeting: **levels of increasing commitment** (see
+`sales-clients` §113).
+
+★★★★ **The budget-confirmation sequence he runs instead:** *"**before we even get into features and
+functions: WHO IS THIS FOR? What are the business and marketing objectives?**"* → *"**based on that,
+something like this should be somewhere between EIGHTY TO A HUNDRED AND TWENTY THOUSAND. Is that kind
+of where you're at?**"* → *"**so if I came back to you with a budget of one hundred and eighteen
+thousand, you're good to go?**"* → *"**what else are you going to use to decide who you work with?**"*
+
+### ★★★★ 72. "As much as they're willing to pay — and more" (2017-05-03)
+
+> ★★★★★ *"**My trick is always to CHARGE AS MUCH MONEY AS THE CLIENT IS WILLING TO PAY — AND MORE.**"*
+
+★★★★ **The failure mode he attaches to it:** *"**THE NATURE OF THE CREATIVE PERSON IS TO TRY TO GIVE
+MORE OF THEMSELVES, TO OVER-DELIVER — and the conflict comes in when they feel like they're being
+TAKEN ADVANTAGE OF.**"* ★★★ **And the guilt he names in himself, not just his audience:** *"**I think
+some of them FEEL GUILTY FOR CHARGING MONEY FOR SOMETHING THAT THEY TRULY ENJOY**… I like salmon
+fishing — **for me to charge somebody to do what I love seems like a strange concept.**"*
+
+⚠️ **The telephone test** (*when they call, are you happy to answer?*) that he praises in the same
+breath **is Blair's**, not his.
+
 ## Sources
 
 - [[wiki/sources/2015-10-08-yt-wd0ejVP_g78]] — Pricing & estimating creative jobs (the cost build-up, payment terms)

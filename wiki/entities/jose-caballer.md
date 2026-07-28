@@ -94,3 +94,32 @@ insistence** as the deciding factor: *"I'm not going to do this without you."*
 **What happened next, also his:** the first videos were bad — *"**your videos are unwatchable**"* (his
 wife) — *"**and the worst part is she was right**, because **Jose and I, we didn't really prepare. We
 just showed up.**"* Then **25 views → 300 views**, *"about a year in — **I'm a slow learner**."*
+
+## ★★★ Added 2026-07-28 (synthesis pass 21b) — the co-hosted *Process* register
+
+⏳ **The earliest sources in the corpus (2015–2016) are co-hosted**, and the format is materially
+different from the later solo material: two hosts talking over each other, banter, competing show
+intros in the cold open, and a noticeably looser on-camera manner from Chris.
+
+- ★★★ **The show's framing, in his own words:** *"**my name is Chris Do and I talk about the business
+  of design**"* alongside Jose's parallel introduction — and Chris interrupting the intro itself
+  (*"can we just tell them what the show title is"*). ✅ Useful as a **dating marker**: the channel is
+  still *The Process*, pre-Futur.
+- ⚠️ **The orange-jumpsuit story is JOSE'S, not Chris's.** In the 2016 interview episode, Jose recounts
+  wearing an orange jumpsuit to his first New York interview: *"**some people thought that was just a
+  little too much — so the people who liked that, who liked me and all the craziness, made offers.
+  The people that didn't, didn't.**"* **Do not attribute this to Chris.**
+- ★★★★ **What IS Chris's is his reading of it** — self-selection: *"**his attire is SELF-SELECTING in
+  terms of who's going to buy in** — 'dude, an orange jumpsuit, we should hire him, he's crazy' — or
+  'don't hire that guy.'"* ✅ The same logic as his *law of attraction* framing at
+  [[../sources/2016-03-04-yt-KlnOS_Blig4]].
+- ★★★★ **And his qualification of it**, which is a good example of him calibrating advice to the
+  listener's leverage rather than to his own: *"**let's be sensitive to our audience. Chances are, if
+  you're watching this episode on how to win at an interview, then you're NOT going to want to rattle
+  the boat too much**… **he can do that because he's really confident and he doesn't really care. But
+  IF YOU'RE REALLY LOOKING FOR A JOB AND YOU'VE BEEN STRIKING OUT, I WOULD PULL THAT BACK.**"*
+  ([[../sources/2016-02-13-yt-pKMfPGAZHYI]])
+
+⚠️ **Attribution caution for all co-hosted episodes:** the auto-captions do not label speakers, and
+several passages in the 2016 material cannot be assigned with confidence. Where the source pages mark
+a passage `[HOST — uncertain]`, **it must not train the persona.**

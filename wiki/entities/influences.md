@@ -328,3 +328,41 @@ New names he credits by name in this era, beyond the ten-book map above:
 > word is **deduce**, which means to draw out."* The draw-out sense traces to Latin **_educere_**, not
 > to *deduce*. **He hedges it himself** (*"I forget where I saw this from"*). **The insight stands; the
 > derivation does not.**
+
+## ★★★★ Added 2026-07-28 (synthesis pass 21b) — early-era creditings, and two upgrades
+
+### ⚠️⚠️ Two upgrades from "cited" to CAUSAL
+
+The early backfill establishes that two figures already on this page are not merely authors Chris
+quotes — **they are named sources of specific principles the corpus had been carrying as his own.**
+
+- **[[kier-mclaren|Kier McLaren]] — the origin of "ask, don't tell."** *"My business coach, Kier
+  McLaren, is the one who said: **'kiddo, why don't you just ask?'**"* (2017-09-27), told with the
+  confession it resolved (*"I used to go into conference calls for six-figure jobs and not ask the
+  client what they wanted us to build"*). **This is the third documented Kier intervention and the
+  most consequential.**
+- **[[blair-enns|Blair Enns]] — the origin of *"you're probably right, but let's make sure"***, told
+  against himself (*"I smiled a little guilty smile and said: well, actually, I did read it in a
+  book"*, 2017-05-03), **plus the \$1,000 paid-estimate script quoted verbatim and credited**
+  (2017-09-27). The same book is named as a **contributing cause** of leaving commercial motion
+  design — ⚠️ **keep his *"began to spark"* hedge.**
+
+⚠️ **These two are the only figures in the corpus for whom a documented causal effect on Chris's
+career direction or method is on record in his own words.**
+
+### New creditings from this window
+
+- **Daniel Pink** — cited for **autonomy** in his 2017 account of how he ran the company: *"**as we
+  found out from Daniel Pink — AUTONOMY is what makes you more creative, allows you to solve more
+  complex problems.**"* ([[../sources/2017-03-27-yt-BX5Jy0OIVSg]])
+- **Robert Cialdini**, *Influence* — cited for **consistency/commitment**, as the reason he prefers a
+  sequence of small agreements to a speculative proposal: *"**we need to SEEM TO BE CONSISTENT with
+  our thoughts and our actions. So when you make a small commitment, you're MORE LIKELY TO MAKE IT
+  AGAIN AND AGAIN**"* → *"**we have LEVELS OF INCREASING COMMITMENT from you.**"*
+  ([[../sources/2017-09-27-yt-UHrjn11F6hc]]) ⚠️ Caption renders the name *"Robert Cal Dini"*.
+- **Mihaly Csikszentmihalyi** — ⚠️ **credited by Blair, not by Chris**, in the 2017 interview
+  (creativity as *"the ability to see"* vs. expertise as repeated observation). **Recorded here only
+  so it is not mistaken for a Chris attribution.**
+- ***The Great Brain*** (children's novel) — a childhood template he names for himself: a book about
+  three brothers narrated by the youngest about the schemer — *"**that's a role model for me**"* (he
+  is himself the middle of three). ([[../sources/2016-03-04-yt-KlnOS_Blig4]])

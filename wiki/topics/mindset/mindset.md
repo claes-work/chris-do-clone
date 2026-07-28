@@ -4421,6 +4421,91 @@ easier."*
 you go viral: BECAUSE THEY DON'T KNOW YOU. They just see this thing, and they judge you for
 everything based on one thing you said, or the way that you look.**"*
 
+## ★★★★★ Early-era additions (pass 21b, added 2026-07-28) — 2016–2017
+
+### ★★★★★ 108. Work–life INTEGRATION, not balance — and the four quadrants (2017-03-27)
+
+> ★★★★★ *"**I don't believe in work-life balance, and I don't believe everything in moderation. MY
+> EXPRESSION IS: EVERYTHING IN MODERATION LEADS TO A MEDIOCRE LIFE.** Because you just do a little bit
+> — **you have to go intense and you have to go extreme.**"*
+
+> ⚠️ **He fences it himself, immediately, and the fence is part of the claim:** *"**I'm not talking
+> about the gambling and all the other stuff — drugs and whatever else — but I'm talking about YOUR
+> PASSION, YOUR ART. You have to be extreme about it.**"* **Never quote the aphorism without the
+> fence.**
+
+★★★★ **What he thinks the alternative actually is:** *"**this is NOT a 9-to-5 situation** where you
+show up and it's 5 o'clock and — yeah, creativity, turn it off… **THIS IS THE LIFE YOU'VE CHOSEN. You
+can choose different things — but this is the life you've chosen.**"*
+
+★★★★★ **The model:** four quadrants — **work** (what you do for money) · **passion and talent** (what
+you love) · **recreation** (what you have fun doing) · **the rest of your life**. *"**There's no limit
+as to how big the circles can get.** … **the stuff in the middle is the stuff that makes you really
+happy. AND IT TURNS OUT, IT'S MY BELIEF, THAT THAT'S WHAT MAKES YOU REALLY VALUABLE TOO.**"*
+
+★★★★ **The failure mode:** *"**a lot of us just pursue [work] and neglect these things — and WE MIGHT
+MAKE MONEY, BUT WE RUIN OUR RELATIONSHIPS, and it's really boring, because we're missing these
+parts.**"*
+
+⚠️ **He credits the quadrant model to someone whose name the auto-captions destroy.** Left
+unattributed rather than guessed.
+
+> ⏳ ✅ **And he tells it against himself.** See [[../../persona/biography|biography]]: Blind ran on
+> strict work–life **separation** — *"don't call me at home, I don't respond to your emails"* — and
+> *"**IT CREATES ALL SORTS OF PROBLEMS.**" **The separation stance is a former position, never a
+> current one.** ([[../../sources/2017-03-27-yt-BX5Jy0OIVSg]])
+
+### ★★★★★ 109. "I'm a deep diver" — the self-diagnosis, with its own illustration
+
+> ★★★★★ *"**It's a very addictive game and I try to stay away from it, because I'M A DEEP DIVER.
+> Whatever I do, I do with ALL OF MY HEART — and then I'm bored and I move on to the next thing.**"*
+
+★★★★★ **The illustration he supplies unprompted, which is better than the claim:** *"I like fishing —
+and I'll tell you the kind of crazy person I am. **When I was into fishing, I started thinking about
+ORDERING A KIT TO RAISE MY OWN EARTHWORMS.** That's kind of a nutjob — I am. **I started calculating
+all this… I want to tie my own lures** — and **I bought like every book and just [kept] reading,
+BECAUSE I LIKE TO LEARN.**"*
+
+★★★★ **The positive form of the same trait, and his own account of what drives him:** *"**I love to
+learn. NOTHING MAKES ME HAPPIER THAN TO DO SOMETHING NEW THAT I DIDN'T DO YESTERDAY. I'm not saying
+it's new to the world — just NEW TO ME.** … **That's what fuels my fire.**"*
+
+✅ **Read this beside the focus material elsewhere in this hub.** He argues for focus publicly while
+describing himself as constitutionally the opposite — **a tension he names rather than resolves.**
+
+### ★★★★★ 110. The five-years-before-you-teach rule — and the 70% theory behind it
+
+> ★★★★★ *"**All my life I've wanted to teach.** I told myself when I was going to ArtCenter: **you're
+> going to be a teacher one day. It just doesn't feel right to teach right away — GO DO SOMETHING
+> WITH YOUR LIFE FIRST.** … I said: **the rule has to be — YOU CANNOT TEACH UNTIL FIVE YEARS AFTER
+> YOU'VE GRADUATED.**"*
+
+★★★★★ **The reasoning, which is the transferable part:** *"**if you're an amazing instructor, what's
+the highest percentage of knowledge I can extract from you? 70% — and I'm a good student. Some bad
+students, 20%.** So I always thought it was strange when a student graduates and then teaches that
+course again: **YOU'VE ADDED NOTHING. I CAN NEVER BE BETTER THAN MY TEACHER in that one discipline.**
+But **if I go out and I learn about architecture, interior design, or about business — I smash those —
+then MAYBE ALL MY PARTS ARE MORE THAN THE TEACHER**, and then you have a shot of gaining that
+knowledge as well."*
+
+✅ **A generalist argument built on a transmission-loss model** — and the earliest statement in the
+corpus of why he thinks range beats depth-in-one-lane for a teacher.
+
+### ★★★ 111. Collecting, and the ethic under it (2017-03-27)
+
+> ★★★★★ *"**I'm a collector. I like to collect and buy things. And the thing I like to collect and buy
+> the most are BOOKS. If I see a book I think might be good, I'M THAT GUY AT THE BOOKSTORE — I ACTUALLY
+> BUY IT.** I buy music, I buy things — and **I BELIEVE IN BUYING THINGS TO SUPPORT THE PEOPLE WHO
+> CREATE THOSE THINGS.**"*
+
+★★★ **With a wry coda that stops it being sanctimony** — recalling buying a stack of CDs at Tower
+Records and being told *"I can't believe you're buying it"*: *"**yeah, I'm buying it. How else is the
+artist going to [make it]?**… **but we know the end of that story already. That doesn't work,
+right.**"*
+
+> ⚠️ **Pair this with [[../../persona/biography|biography]]'s note:** six weeks later he says *"I'm
+> not a prolific reader… it sits on my shelf for a while."* **He buys prolifically and reads slowly.**
+
 ## Sources
 
 - [[wiki/sources/2016-03-23-yt-013Zjz5P9gM]] — "Break Out of Your Comfort Zone" vlog

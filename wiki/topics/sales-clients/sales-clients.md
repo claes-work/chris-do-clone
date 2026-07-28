@@ -4327,6 +4327,191 @@ asking for referrals.**"*
   to be twice as much**… **ask them to show you examples**"*) → **she won the job at twice the
   competing quote.**
 
+## ★★★★★ Early-era additions (pass 21b, added 2026-07-28) — 2016–2021
+
+> ⏳ **A DATING LAYER.** Several sections of this hub are built on 2025–26 sources. The early
+> backfill shows the same machinery **fully formed years earlier**, and in one case shows that its
+> founding principle **is not Chris's**.
+
+### ⚠️⚠️ 108. "Ask, don't tell" — the origin, and it is not his
+
+The principle this entire hub rests on has a named source and a dated moment. See
+[[../../entities/kier-mclaren|Kier McLaren]] for the full account.
+
+> ★★★★★ *"**That's a game that I used to play. I used to — believe it or not — GO INTO CONFERENCE
+> CALLS FOR SIX-FIGURE JOBS AND NOT ASK THE CLIENT WHAT THEY WANTED US TO BUILD.** … **This is
+> something I learned from MY BUSINESS COACH, KIER MCLAREN. He's the one who said: 'KIDDO, WHY DON'T
+> YOU JUST ASK?'** … **IT WAS LIKE THE HEAVENS PARTED**… **THAT SEEMS SO OBVIOUS AND SIMPLE — THEN
+> WHY THE HECK HADN'T I DONE THIS?**"* ([[../../sources/2017-09-27-yt-UHrjn11F6hc]])
+
+⚠️ **Whenever this hub's diagnose-first material is traced to its origin, credit Kier.**
+
+### ★★★★★ 109. THE FOUR THINGS every first meeting must accomplish (2017-09-27)
+
+The most complete first-meeting method in the corpus, and notable for how he arrives at it — **he
+asks the person he is coaching what leaves the strongest impression on her**, takes her four answers
+(*"those are excellent, great observations"*), and then answers each in turn.
+
+1. ★★★★★ **COMFORTABLE = not being in a rush.** *"**How do I make you feel comfortable? WELL, I'M
+   NOT IN A RUSH.**"* — against the counter-example *"'we've got to wrap up, I have two more calls' —
+   **does that make you feel comfortable? No.**"* Instead: *"**I've got time to sit down and talk to
+   you. I want to learn about your problem, the challenges you're facing. I WANT TO GET TO KNOW WHO
+   YOU ARE.**"*
+2. ★★★★★ **KNOWLEDGEABLE = listening, not telling.** *"**I DEMONSTRATE MY KNOWLEDGE BY BEING A GOOD
+   LISTENER** — and when I hear a problem I may be able to advise you, but **I CAN'T ADVISE YOU UNTIL
+   I HEAR WHAT THE PROBLEMS MAY BE.**"* ✅ The operational form of his own account of his core skill
+   (*"I'm a good listener and I can synthesise information"*, [[../../sources/2017-02-04-yt-swiG31QGKVc]]).
+3. ★★★★★ **RAPPORT = matching and mirroring.** *"I'm trying to build rapport **to make sure we share
+   values and beliefs, that we SEE THE WORLD IN THE SAME WAY.** **If you're a really slow,
+   smooth-talking person, I want to be slow and smooth-talking. If you're talking really fast, I need
+   to talk really fast with you** — so it doesn't feel like you're being left behind, or that I'm
+   making you wait, **because your patience is going to be really thin.** So **I'm going to change my
+   TEMPO, my TONE, my LANGUAGE, my BODY LANGUAGE — everything — TO MATCH AND MIRROR how you're
+   behaving**… **I just want to SYNC UP to you.**"*
+4. ★★★★★ **EASY = the audition for the whole engagement.** *"**I want to make it an easy process,
+   because I WANT THEM TO ENVISION WORKING WITH ME — that THIS IS HOW IT'S GOING TO BE THE ENTIRE
+   ENGAGEMENT.** If I feel like you're in a rush, if I feel like you don't respect my time — **all
+   those things send little SUBLIMINAL SIGNALS that we're probably NOT A GOOD FIT.**"*
+
+★★★★★ **The frame around all four, which keeps it from being technique:** *"**NONE OF THIS IS ABOUT
+SELLING YOU ANYTHING.** You're either going to like me, like my process and like my work — or you're
+not. **AND I CAN'T CHANGE THAT AT ALL. I'M NOT IN THE GAME TO CONVINCE YOU that what was black is not
+white.**"*
+
+### ★★★★★ 110. Run the meeting on an agenda — and know your questions before you leave
+
+> ★★★★★ *"**When you go to the meeting, we LAY OUT AN AGENDA: what would you like to get from this
+> meeting? What would I like to get from this meeting?** And I like to be **VERY UPFRONT** about
+> that: **THIS IS NOT A MEET AND GREET.** This is not 'hey how are you, let's talk about our kids.'
+> **This is a business thing.**"*
+
+★★★★★ **The discipline it enforces:** *"**know what the questions you need answered are BEFORE YOU
+LEAVE A MEETING — and don't spend your time dealing with all that small talk that doesn't add up to
+anything ACTIONABLE for you.**"* ★★★ **And the recovery when you fail it** — email or call afterwards,
+*"**that's totally okay**… let's just jump on the phone, **I don't need you to type. I want to make
+it easy for you.**"*
+
+### ★★★★★ 111. Taking control when the client doesn't know what they want
+
+Where §109 makes them comfortable, this is what to do when the answer to *"what do you want from
+this meeting"* is vague:
+
+> ★★★★★ *"**It sounds like you're pretty early in the stage of considering a firm, and YOU DON'T KNOW
+> WHAT YOU WANT YET. So why don't you just LET ME TAKE CONTROL OF THIS DIALOGUE for half a second.
+> Here's what I think — if I'm being an ADVISOR to you, here's what you want to know**, because
+> you're going to talk to a handful of people and you'll need to make a decision. **You're probably
+> looking for FIT — do we believe the same kinds of things — you're looking at SCHEDULE, you're
+> looking at SCOPE, you want to know we have the EXPERTISE and a dev team, and HOW ACCESSIBLE AND
+> RESPONSIVE am I. Does that sound about right?** … **If you don't mind, I'll just go through these
+> and answer them for you.**"*
+
+★★★★★ **And the mechanism, which he narrates to the audience immediately:** *"**FIRST OF ALL, I'M
+JUST SAYING WHAT I THINK. HAVE THE COURAGE TO SAY WHAT'S ON YOUR MIND.** 'You seem confused. You seem
+early on in the stage. Can I help you?' **And I KNOW that you're going to talk to other people — SO
+LET'S NOT EVEN PRETEND LIKE YOU'RE NOT GOING TO.**"*
+
+> ✅ **Provenance.** *"Say what you're thinking"* is **Blair Enns's company core value**, which Chris
+> told Blair four months earlier he already practised (*"I love that idea, and I practise that
+> myself"*, [[../../sources/2017-05-03-yt-KtL02T5MonA]]). See [[../../entities/blair-enns|Blair Enns]].
+
+★★★ **A companion line for the money question:** *"**I know budget's a concern. IT DOESN'T MATTER IF
+YOU'RE WARREN BUFFETT OR A MOM-AND-POP SHOP DOWN THE STREET — budget is ALWAYS a concern, because YOU
+NEVER WANT TO OVERPAY FOR SERVICES.**"*
+
+### ★★★★★ 112. Qualifying — the four questions, and the written filter
+
+> ★★★★★ *"**When we get a call for a new project, I'M GOING TO GET TO THE NUMBER REALLY FAST — as
+> fast as it seems not rude to do.**"*
+
+★★★★ **The rule, from an in-house example** where a producer brought an exciting-sounding brand
+project with no budget attached (*"how much is the budget?" — "I didn't ask" — "**DON'T TALK TO ME.
+GO FIND OUT.**"*): **"DON'T GET EXCITED OVER THE PROSPECT OF DOING WORK THAT YOU FORGET TO ASK ABOUT
+THE BUDGET."**
+
+★★★★★ **The four qualifiers, in order:** **budget · timeline · project type (creative fit) ·
+personality fit** — *"**anything can be done given enough time and money — SO THAT'S WHY TIME AND
+MONEY ARE YOUR FIRST TWO QUESTIONS.**"*
+
+★★★★★ **And the institutional half, which the hub did not previously have:** *"**we WRITE PROTOCOL
+after every one of those [bad clients] and say: HOW DO WE PREVENT THIS FROM HAPPENING? So WE TIGHTEN
+THE FILTER.** We have **extensive documentation**, a whole **checklist**: '**you haven't secured
+financing — see you later. You haven't sold the job through to your superiors — see you later.
+You're actually going after new business yourself, so THIS ISN'T EVEN A REAL JOB YET — see you
+later.**'"* → ★★★★ **with the admission that the system still fails:** *"**when we don't listen to
+them, when our memory fades, we make that mistake every once in a while. AND THEN WE HATE OURSELVES.
+And it's never worth it.**"*
+
+★★★★★ **The gut outranks the money:** *"**LISTEN TO YOUR GUT REGARDLESS OF HOW MUCH YOU THINK YOU
+NEED THE MONEY**… **your life is too short.**"* — asked whether he has regretted overriding it:
+*"**every time.**"* → and the end state he describes: *"**I WILL PAY YOU MONEY TO LEAVE. I don't want
+this job any more.**"*
+
+### ★★★★ 113. Levels of increasing commitment (credit: Robert Cialdini)
+
+Why he would rather have a meeting than build a free proposal:
+
+> ★★★★ *"**I'm only going to build the proposal because we have LEVELS OF INCREASING COMMITMENT from
+> you.** Every time you decide to do a meeting with me, a follow-up meeting, a discovery — **YOU'RE
+> MAKING LITTLE BITS OF AGREEMENT. SO I'M BRINGING YOU IN.**"*
+
+★★★ **The principle, credited:** *"it's one of the principles from the book ***Influence* by Robert
+Cialdini** — **we need to SEEM TO BE CONSISTENT with our thoughts and our actions. So when you make a
+small commitment, you're MORE LIKELY TO MAKE IT AGAIN AND AGAIN.**"* → *"**you're ONBOARDING THEM
+SLOWLY — versus 'give me a little information, I'll go away and do all the work, only for you to tell
+me weeks later — OR NOT EVEN CALL ME BACK — that it didn't work out.**"*
+
+⚠️ **He draws the analogy to telemarketers and door-to-door solicitation explicitly.** Recorded as
+stated.
+
+### ★★★★★ 114. The magic question (2016-02-13) — the earliest form of the tailoring move
+
+⏳ **This predates everything else in this hub.** Aimed at job seekers, but it is the same machinery:
+
+> ★★★★★ *"This is **the magic question** — **the holy grail of questions**: '**if [the sky] opened and
+> your deity of choice gave you THE PERFECT [person] to fill this role — what would that look like?**'
+> **And let them describe the profile of that person.**"*
+
+★★★★★ **The reason for the timing IS the technique:** *"**Ask that at the BEGINNING — because you can
+then TAILOR what you're telling them to what they said to you. YOU'RE READING IT BACK TO THEM.** And
+then **the fidelity between what they're looking for and what you're telling them will be
+awesome.**"* → with the aside *"that works in dating too."*
+
+★★★★★ **The value principle attached to it:** *"**THE VALUE OF YOU AS A PERSON IS REFLECTED IN THE
+QUALITY OF THE QUESTIONS YOU ASK.**"* — ⚠️ **stated in his own words in February 2016**, which
+predates the Demartini-sourced version this corpus carries elsewhere. **The source establishes the
+date, not the origin.**
+
+★★★★★ **And the listening discipline, a year before the pricing version:** *"**when the person is
+talking, SILENCE THE THOUGHTS IN YOUR HEAD and PLAY A GAME: WHOEVER TALKS FIRST LOSES.**"*
+([[../../sources/2016-02-13-yt-pKMfPGAZHYI]])
+
+### ⚠️★★★★★ 115. Seeds of doubt — a competitive tactic he names himself
+
+**Recorded as he framed it.** Teaching the car-repair parable — *would you trust an appraiser who
+quoted your accident damage over the phone?* — he then states plainly what it is for:
+
+> ⚠️★★★★★ *"**That's why I PLANT THE SEEDS OF DOUBT. If someone else doesn't give you a thorough
+> DIAGNOSTIC before giving you a quote, I WOULD BE CONCERNED — BUT I DON'T SAY THOSE WORDS. I just
+> plant the seeds, subtly.**"* → *"**anybody who gives them a budget without wanting a conversation,
+> without doing discovery, is giving them a bogus [number]. SO WHAT YOU'RE DOING THERE IS YOU'RE
+> SETTING SOMEBODY ELSE UP TO FAIL**… **you're either getting overcharged, or they're UNDER-BIDDING
+> and you're getting hit with OVERAGES.** … **I'M TRYING TO DIFFERENTIATE THE WHOLE TIME.**"*
+
+> ⚠️ **Do not launder this into pure principle.** The diagnose-before-prescribing material elsewhere
+> in this hub is argued on the merits; **here he describes the same parable being used as a
+> competitive instrument, and says so.** Both are his, and the corpus carries both.
+
+### ★★★★ 116. "You already got the meeting" — the same argument, twice, three years apart
+
+- **To job seekers (2016-02-13):** *"**relax. Your work IS good enough. THE FACT THAT YOU GOT AN
+  INTERVIEW MEANS THAT YOU'RE QUALIFIED.** People don't call designers or developers in because they
+  want to spend time talking to you."*
+- **To business owners (2017-09-27):** *"**the fact that we're having the meeting says I'M QUALIFIED,
+  I'M READY AND I'M CAPABLE — BECAUSE IF I'M NOT, PEOPLE DON'T MEET WITH US.**"* → *"there are
+  hundreds of people who send me emails saying 'look at this' and **I have no response, because it's
+  just bad.** If I agree to a meeting, **I'VE ALREADY CHECKED OUT THE WORK.** … **The client sees you
+  in a certain light EVEN IF YOU DON'T SEE YOURSELF IN THAT LIGHT.**"*
+
 ## Sources
 
 - [[wiki/sources/2014-08-20-yt-1HuIfKDr54A]] — How To Ask for the Sale Pt.1 (2014-08-20) —

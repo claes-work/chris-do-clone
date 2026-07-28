@@ -141,3 +141,130 @@ client = new you"; small invoices are the most annoying → charge up front).
 - [[influences]] · [[jonathan-stark]] · [[futur-instructors]]
 - [[../topics/pricing/pricing]] (topic hub — Blair's frameworks live in the influences
   layer, not the persona)
+
+---
+
+## ★★★★★ Added 2026-07-28 (synthesis pass 21b) — the 2017 interview, and an upgrade from "cited" to CAUSAL
+
+> ⏳ **This moves the earliest documented contact back four years.** The section above lists the 2021
+> Clubhouse/WWPM book-club nights as the corpus's record of the relationship. There is a **2017 Futur
+> Podcast interview** ([[../sources/2017-05-03-yt-KtL02T5MonA]]) in which Chris hosts Blair one-to-one
+> — and it changes what this page is for.
+
+### ⚠️⚠️ TWO ATTRIBUTIONS THAT BELONG TO BLAIR, NOT CHRIS
+
+**1. *"You're probably right, but let's make sure"* came out of Blair's book.** This line appears
+across the corpus as one of Chris's signature client moves. He sources it himself, on his own show,
+against his own reputation:
+
+> ★★★★★ *"**Two years ago I was in Hawaii giving a talk** — in front of a whole gathering of
+> advertising folks, for the **Paley award show** — and during my talk we got into this conversation
+> about **what do you do when clients prescribe solutions to you**… to which I responded: **this is
+> what I say to my clients: 'YOU'RE PROBABLY RIGHT — BUT LET'S MAKE SURE.'** And afterwards **my
+> fellow panellists came up to me and said: that was a great piece of advice. They don't teach this
+> stuff in school — it's not like you could read it in a book, right Chris? — and I SMILED A LITTLE
+> GUILTY SMILE and I said: WELL, ACTUALLY, I DID READ IT IN A BOOK.**"*
+>
+> → *"**one of the seminal books that have changed the way I do business — and if you think I'm
+> really smooth, YOU'VE GOT TO GO TO THE SOURCE.**"*
+
+**2. The paid-estimate script is Blair's, quoted verbatim and credited.** Four months later, teaching
+a coaching client what to say when a client demands a proposal without supplying information:
+
+> ★★★★★ *"**Here's the response — I got this STRAIGHT UP from Blair Enns' *Win Without Pitching
+> Manifesto*.** It's a book I highly recommend. **YOU NEED TO READ IT. NOT ONLY DO YOU NEED TO READ IT
+> — YOU NEED TO MEMORISE IT, YOU NEED TO PRACTISE IT, YOU NEED TO BE ABLE TO TEACH IT. THAT'S HOW
+> WELL YOU NEED TO KNOW THIS MATERIAL.**"* — then the script: *"'**I'm not in the business of building
+> proposals that cost time and money to do**… you can sit down with me and we can go over this, **OR
+> you can PAY ME A THOUSAND DOLLARS AND I'LL BUILD YOU AN ESTIMATE.** I'll bill you for the time of
+> building it… **BUT I NEED TO BE PAID FOR MY TIME. I CAN'T GET THAT BACK.**'"*
+> ([[../sources/2017-09-27-yt-UHrjn11F6hc]])
+
+⚠️ **`topics/pricing` must not carry the \$1,000 paid estimate as Chris's invention.**
+
+### ★★★★★ The book as a named contributing cause of Chris leaving commercial motion design
+
+> ★★★★★ *"This is one of those **sensational titles** — because **in our line of work, in terms of a
+> motion design studio, IT'S KIND OF THE COST OF ENTRY: you have to pitch for advertising commercial
+> work, at least in the United States.** And I was thinking: **there's no way this book can tell me I
+> can't pitch. These are the rules that are written.** So **with some kind of RESISTANCE I read the
+> book — AND IT REALLY TRANSFORMED MY THINKING.** And as I thought at first: **this is perhaps not
+> applicable to this industry that we're in — BUT IT'S APPLICABLE TO EVERYTHING ELSE I'M DOING. AND I
+> WANT TO GET OUT OF THAT INDUSTRY. So that began to spark.**"*
+
+> ⚠️ **KEEP THE HEDGE.** He says it *"began to spark"* — **a contributing cause he names himself, not
+> a sole cause.** Do not render this as "Blair's book made him leave Blind." The exit chain recorded
+> on [[blind|the Blind page]] has several strands; this is one of them, and it is the only one with a
+> book attached.
+
+✅ **Net effect: Blair is not merely an author Chris quotes.** He is a **documented causal influence
+on the direction of Chris's career** — the only figure besides [[kier-mclaren|Kier McLaren]] for whom
+the corpus has that.
+
+### Blair's own account of his business (2017) — CONTEXT, do-not-train
+
+Chris runs a "lightning round" of business questions. All of the following is **Blair's**:
+
+- **Win Without Pitching** is a **sales-training organisation for creative professionals**; Blair
+  calls himself *"a recovering consultant."* Around 2014 he pivoted from a solo consulting practice
+  to a **productised training company**, having concluded *"**you can't have a productised services
+  firm and a customised services firm in the same business.**"*
+- ⏳ **2017 figures:** ~**80 firms** in the program; team of **eight going on nine** (four in-office,
+  the rest distributed); minimum engagement **\$5,000** self-directed or **\$500/month over 12
+  months**, with a **one-year minimum commitment**; three onboarding periods a year. Book sales
+  ~**100–150/month**, fourth printing.
+- **Retention is the scaling lever:** *"**retention is PROOF OF DELIVERY OF VALUE.**"*
+- **On writing books at all:** *"**you don't just need to have something to say — YOU NEED TO HAVE A
+  POINT OF VIEW. And if you don't have a point of view, there is no point in publishing your book.**"*
+  Plus a novelist friend's warning: *"**you can't unpublish.**"* The manifesto's genesis was a
+  December 2006 post, *"Twelve Resolutions for the New Year"*; published July 2010; *"**it's my full
+  intention that that book will OUTLIVE ME.**"*
+- ⏳ **A forthcoming book, deliberately undated:** ***Pricing Creativity: A Guide to Profit Beyond the
+  Billable Hour*** — *"**it'll be the only pricing book in the world that is PRICED ACCORDING TO THE
+  PRINCIPLES IN THE BOOK.**"*
+
+### Blair's frameworks from this interview — HIS (extends the guard above)
+
+- **The creativity/expertise paradox** (crediting **Mihaly Csikszentmihalyi**): creativity is *"the
+  ability to SEE… to bring perspective to problems"*, so creative people are drawn to unsolved
+  problems and bore easily — while **expertise requires repeated observation of the same problems.**
+  *"A creative expert is almost a paradox"*, and that conflict *"is at the heart of most creative
+  people's challenges with selling."*
+- **Craftsman-producer**: marketers see a market gap and must solve production; producers know how to
+  make X and must solve marketing — *"**and I've just described 99% of the design firms on the
+  planet.**"* Because the thing sold is personal, *"**if you get rejected, IT'S A PERSONAL
+  REJECTION.**"*
+- **The room full of doors** — the positioning metaphor: pick one door, walk through, never look
+  back; *"**your hesitation is you think that on the other side of that door is one boring empty grey
+  room… but what's on the other side are MORE DOORS**… **you get in there and IT OPENS UP LIKE
+  NARNIA.**"*
+- **The economics of not feeling guilty**: wealth is created through **trade**; ideas are a
+  **non-rival asset**; **the "double thank you moment"**; and *"**think of each individual dollar bill
+  as a CERTIFICATE OF APPRECIATION.**"*
+- **The five constraints of "Blairtopia"**, two named here: **"no exit"** (*"imagine you can never
+  sell and never retire"* — *"**as soon as you start to have one eye on the exit, YOU QUIT MAKING THE
+  DIFFICULT DECISIONS**"*; *"the most liberating decision I've ever made"*) and **"say what you're
+  thinking"**, also called **"kind ruthlessness"** — *"**take a minute to think about how you would
+  phrase it kindly — but say what you're thinking.**"*
+- **The telephone test** — when a client calls, are you happy to answer?
+- **On pitching itself:** *"**there's no moral issue around pitching as far as I'm concerned — it's a
+  function of free-market economics.**"* Discounting or working free isn't the mistake: *"**the
+  mistake is in NOT HAVING THAT OPEN AND DIRECT CONVERSATION with the client about what your
+  intentions are.**"*
+
+### ✅ Two documented effects on Chris, in his own words
+
+- **"Say what you're thinking" was adopted.** In the interview: *"**I love that idea, AND I PRACTISE
+  THAT MYSELF.**"* — and **four months later he is teaching it as method**: *"**FIRST OF ALL, I'M
+  JUST SAYING WHAT I THINK. HAVE THE COURAGE TO SAY WHAT'S ON YOUR MIND.**"*
+  ([[../sources/2017-09-27-yt-UHrjn11F6hc]])
+- **The "no exit" constraint visibly landed.** On camera: *"**that's awesome — and now YOU'RE MAKING
+  ME RETHINK MY APPROACH here. But it's a lot of food for thought.**"* ⏳ A dated moment of him
+  reconsidering his own exit thinking — worth reading against the eventual Blind exit.
+
+### ⚠️ What is Chris's own in this interview, and must not be given to Blair
+
+- ★★★★★ *"**My trick is always to CHARGE AS MUCH MONEY AS THE CLIENT IS WILLING TO PAY — AND MORE.**"*
+- ★★★★ *"**The nature of the creative person is to try to GIVE MORE OF THEMSELVES, TO OVER-DELIVER —
+  and the conflict comes in when they feel like they're being TAKEN ADVANTAGE OF.**"*
+- ★★★ *"**Admittedly I'm NOT A PROLIFIC READER**… it sits on my shelf for a while."*

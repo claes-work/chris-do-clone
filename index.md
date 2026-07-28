@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-28 (ingest yt batch @thefutur, 2 → **979 L2**, 1 deferred — **@thefutur P2 is DRAINED**. Two early landmarks: the corpus's only end-to-end **six-step sales process** (2020) with the Coldplay *"he was in love with the plan"* story, and a 2021 live roleplay where he sells Blair Enns on camera — *"I didn't even know I was being sold"* — first recorded **"statements tell, questions sell"**)_
+_Last updated: 2026-07-28 (ingest yt batch @thefutur, 1 → **980 L2**, 2 deferred — ★★★★★ **the richest biographical source in the run**: the fullest Blind founding (Dec 1995, the uncle's call, a \$100k ask answered with a \$5,000 cheque, the loft he slept above), *The Great Brain* as a childhood template, and **the earliest mechanic parable** including the paid diagnostic later tellings drop)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **979 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 and P2 both fully drained**; 97 members-only rows skipped as unobtainable; remaining: @thefutur P3:45, @TheFuturAcademy P3:72, 860 shorts).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **980 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 and P2 both fully drained**; 97 members-only rows skipped as unobtainable; remaining: @thefutur P3:45, @TheFuturAcademy P3:72, 860 shorts).
 
 ## Topics
 

@@ -10908,3 +10908,56 @@ on the topic page, not to the 2025–26 sources that restate it. ④ ★★★�
 `persona/biography`. Also promoted already: the Kier McLaren line. ⚠️ **A dating instruction for the
 next synthesis pass:** where a 2025–26 framework has a 2020–21 antecedent recorded here, **cite the
 earlier date** — the corpus has been implicitly treating several of these as recent inventions.
+
+## [2026-07-28] ingest | yt batch (@thefutur, 1 + 2 deferred) — the fullest Blind founding story
+
+Batch 201, Stage B — **the first P3 batch.** L2: 979 → **980**. All four rows fetched cleanly (no
+paywalls in this stretch), and one of them turned out to be the **richest biographical source
+ingested in this entire run**, so it took the batch.
+
+- **[2016-03-04] How did you start your design business? — AMA** (`yt-KlnOS_Blig4`) —
+  ★★★★★ **BIOGRAPHY LANDMARK.** The Blind founding told end to end, with specifics the corpus did
+  not have: ★★★★★ **"formed in DECEMBER of 1995 as a corporation"**; prior jobs at **an ad agency
+  and a punk rock music label**; ★★★★★ **his uncle's phone call** (an attorney partner's client
+  owned hotels — *"cheaper to own [a design company] than to continually pass the work out"*), when
+  he was *"no more than two and a half months"* out of school; a **pre-Google business plan**
+  researched by phoning his brother in Silicon Valley and a roommate's investment-banker father;
+  ★★★★★ **a \$100,000 ask — "completely arbitrary", though reasoned as six months of runway —
+  answered with a \$5,000 good-faith cheque written at the dinner table**, no contract and no
+  percentage; the **Brewery loft in downtown LA he slept above**; and *"call us back when you
+  fail"* from the colleagues he left. ★★★★★ **The breakthrough moment** — the first national TV
+  spot, about a year in — with the reason he had an answer ready: *"I kept in my mind, maybe one
+  day somebody's going to ask me that question. **I need to know when that moment is.**"*
+
+★★★★★ **Two finds beyond the biography.** ① ***The Great Brain*** as a childhood template — a book
+about **three brothers**, narrated by the youngest about the schemer, which he took as *"a role
+model"* and applied in school *"which got me into all sorts of trouble."* Notable because he is
+himself **the middle of three brothers** (2026-03-31). ② ★★★★★ **the earliest recorded mechanic
+parable**, and it carries a pricing move **every later telling drops**: *"**I don't do diagnostics
+for free.** I'm going to charge you \$60 — **and that will be a credit applied to whatever you want
+to do. But you don't need to do it with me.**" The paid-discovery position in this corpus turns out
+to be **fully formed in 2016**, with a concrete mechanic attached.
+
+⏳ **This strengthens the precedence finding from batch 200.** Together, 2016-03-04, 2020-11-23 and
+2021-03-18 show that **diagnosis-before-solutions, objections-as-interest, and ask-don't-tell were
+all in place years before the 2025–26 sources that restate them.** The wiki has been implicitly
+dating several of these to the recent material. **The next synthesis pass should cite the earlier
+dates** — a note to that effect is already on the 2020-11-23 page.
+
+⚠️ **TWO DEFERRALS (each a first).** ① `yt-8CWD3KSaeVs` — *"AMA w/ Keir McLaren Pt 2"*, 34 KB, a
+**Kier-dominated** source; `entities/kier-mclaren` already flags the 2015 AMA series as one he
+dominates, and much of it was mined in synthesis pass 4. It needs the guest-fenced treatment the
+Demartini page got, not a rushed pass. ② `yt-swiG31QGKVc` — a 20 KB guest episode on scaling,
+deprioritised behind the AMA. **Both transcripts are already fetched; neither may be deferred
+again.**
+
+Synthesis notes: **five items.** ① ★★★★★ **The Blind founding sequence** → `persona/biography`,
+where it should **largely replace the thinner existing summaries** — it is more specific on almost
+every point, including the incorporation month, which bears on the standing 1995-vs-1997 note.
+② ★★★★★ **The mechanic parable's paid diagnostic with a credit** → `topics/pricing` and
+`topics/sales-clients`, dated **2016**. ③ ★★★★★ **Order taker → consultant** as a dated
+repositioning of Blind, which gives the corpus's diagnosis-first material a concrete origin rather
+than an abstract principle. ④ ★★★★ ***The Great Brain*** → `entities/influences`.
+⑤ ★★★★★ **Giving with an explicit limit** — *"I try to give as much of myself as I can **without
+hurting myself**… what I give away is **sleep**"* — which is the honest version of a generosity
+theme the corpus otherwise records only in its flattering form.

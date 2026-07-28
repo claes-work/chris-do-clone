@@ -57,7 +57,7 @@ that was missing) and by lint passes. Each entry: date noticed, what was missing
   whole series rather than clip by clip.
 
   ✅ **Third instance, batch 257:** `yt-Su3KTdOhgro` — *"**News Reader** is one of my favorite
-  typefaces."* **Four for four on the same opening line** (LaFarge · Archivo · News Reader · **Lejeune**, batch 258), each
+  typefaces."* **Five for five on the same opening line** (LaFarge · Archivo · News Reader · Lejeune · **Neue Haas Grotesque**, batch 259), each
   returning **0** corpus-wide. The formula is now conclusively a **series template**. ⚠️ Treat every
   remaining *Fonts You NEED To Know* row as ONE decision, not N findings.
 

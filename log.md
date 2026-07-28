@@ -14055,3 +14055,41 @@ genuinely close to bottom — not a judgement call on my part.
 **Stage C running total: 581 shorts processed · 16 ingested · 565 closed.**
 
 Synthesis notes: none.
+
+## [2026-07-28] ingest | yt shorts batch 259 (@thefutur, 19 triaged, 1 ingested)
+
+Stage C. **19 shorts · 1 ingested · 18 closed.** Open shorts 280 → **261**. L2 = **1037**.
+
+**Ingested:** [[wiki/sources/2021-12-14-yt-RIYXIbHwlXc]] — *Say NO To A Client w/ Confidence*.
+★★★★ **Two biographical figures the corpus did not hold**, plus the mechanism they support:
+
+- ⏳ 🗣️ *"When I was **16 or 17** I was making **three dollars and 25 cents an hour**."* — `3.25` **0**
+- ⏳ 🗣️ *"The first time we got this giant check… **$68,000** — more money than I made in a whole year
+  — I'm like, *oh that's interesting, let me just deposit it.*"* — the lone `68,000` hit was a **false
+  positive** (a **$168,000** Kickstarter total on an unrelated page)
+- ★★★★ *"**I want you to become somewhat desensitized to numbers**"* — `desensitized` **0**
+
+✅ **The mechanism is the reason this isn't a duplicate.** `walk away / turned down / saying no to`
+returns **16** and firing clients **14** — the corpus is saturated on the *conclusion*. What it
+lacked is the **stated psychological precondition**: a big number stops being an emotional event once
+you've watched your own scale change, and that is what makes the $350k refusal survivable.
+
+⚠️ **Two restraints recorded on the page.** (1) **The figures are undateable from this clip** —
+*"not that long ago"* linking a teenage wage to the cheque cannot be literal, so I recorded both as
+stated and explicitly declined to reconstruct an interval or present them as a before/after pair.
+(2) All figures marked 🗣️ **self-reported**.
+
+### Other rows
+
+- `yt-8U-ftSc7zeY` — *"**Neue Haas Grotesque** is one of my favorite typefaces."* **Fifth instance**;
+  `gaps.md` now reads *five for five*. Closed `attribution-uncertain`.
+- `yt-ECW3j4hoclQ` *"The REAL COST Of Being Right"* — the two-intentions doctrine (get the job done
+  vs. be right), held at `mindset` **§2063** and **§2444**, dated **2019-07-29**. Closed.
+  ⚠️ The clip contains a family anecdote (*"mom, me and our two boys, your grandchildren"* — said to
+  his father). **Generic references only, no names — nothing recorded**, per the standing rule.
+
+**Stage C running total: 600 shorts processed · 17 ingested · 583 closed.**
+
+Synthesis notes: **two self-reported income figures** (\$3.25/hr at 16–17; \$68k first big cheque) →
+`persona/biography`, marked self-reported with the ⚠️ undateable caveat intact; **desensitization to
+numbers** → `topics/mindset` as the walk-away precondition.

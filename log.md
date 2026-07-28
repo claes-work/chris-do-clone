@@ -9976,3 +9976,59 @@ and **"you can put the genie back in the bottle"** are a matched pair and should
 brand"*, *"send your hate letters to Matt"*) should be recorded in `persona/voice` as a **debating
 posture**, alongside the compliment-refusal reflex. (6) ★★ **Shawn Stussy** and **Cleon Peterson** are
 new case studies; **Erwin McManus** joins `entities/influences`.
+
+## [2026-07-28] ingest | yt batch (@thefutur, 3) — the Content Lab week: "pick a fight" defined, a live writing workshop, and "I messed up"
+
+Batch 187, Stage B (P2). Three consecutive @thefutur uploads from late October 2025, all three
+★★★★+ and all three L3-candidates — an unusually strong run. **No deferrals; no skips.**
+L2: 952 → **955**.
+
+- **[2025-10-23] Why You Need Controversy When Building an Online Brand** (`yt-eluwXdhzJ5k`,
+  44.5 KB, host: Mo) — ★★★★★ the fullest exposition of **pick a fight** in the corpus, and the
+  first one that answers the standing objection to it (*if you say be authentic, why do you never
+  post about politics?*). The answer is a category distinction: *"those are ideas. **I want to
+  fight in the realm of ideas and philosophy.**"* Contains ★★★★★ **the tree** (one stout trunk —
+  *pricing, communications, personal branding* — plus branches that feed it; *"what I don't want
+  is a **multi-trunk tree** where some wind blows and the whole thing falls over"*), ★★★★★ **the
+  symbiotic-vs-parasitic test** for side interests, ★★★★★ **the Black Lives Matter episode**
+  (he posted, was told by the Black and brown community to stay out, **agreed**, and derived a
+  standing rule), and ★★★★★ **"it was a parasite"** — The Futur draining Blind in 2014, the
+  coach's objection, *"I don't even know what it is yet."*
+- **[2025-10-25] Your Writing Feels Flat Because You're Missing This** (`yt-Z0wnvRTWYmo`) —
+  ★★★★ a live line-by-line workshop yielding four named rules: **the establishing shot**
+  (*"think like a director… wide vista, tighter, tighter, tighter"*), **tension before relief**,
+  **"no emotion, there's no story"** with its definition of art as transferred emotion, and
+  ★★★★★ **"start at the end"** — which also explains, for the first time, **how he retrieves
+  stories live on stage.** ⚠️ The 1996 Portland story workshopped here is the **participant's**,
+  not his.
+- **[2025-10-30] I Messed Up…The Truth About Niching Down** (`yt-3ikc89b-tkE`, host: Mo) —
+  ★★★★★ a public self-correction: *"for so many years I've told all of you to be hyper-niche…
+  **and I've lost my way.**"* Names **Taki Moore's five ones**, supplies ★★★★★ **pressure =
+  force ÷ area** (focus as leverage, not discipline), and tells ★★★★★ **the Blind 1995–97
+  niching sequence** in full — including **the client who sent their own senior animator to
+  supervise the work.** ⚠️ Contains the **seventh** non-violent-language attestation and a
+  direct refusal of the host's *"F what everybody thinks."*
+
+⚠️ **Family-privacy rule applied** on 2025-10-30: a family member's name appears in the
+captions and is **not** recorded; she is referenced by role only.
+
+⚠️ **A tension is recorded, not resolved.** 10-23 defends breadth (branches feed the trunk);
+10-30, seven days later, says he over-branched. They are reconcilable — different scopes, and
+10-23 supplies the very test 10-30 applies — **but he never connects them himself**, so the
+bridge is flagged on both pages as the curator's reading.
+
+Synthesis notes: **five genuinely new items, all L3-worthy.** ① **"Pick a fight" = the realm of
+ideas and philosophy** — a qualifier the corpus has been missing for years, plus the
+all-in-or-all-against test and the *marketing-in-the-disguise-of-thought-leadership* distinction.
+② **The tree + symbiotic/parasitic framework** — a complete, reusable model for side interests
+that does not exist elsewhere, with the treehouse sequencing rule and his own worked branches
+(MMA → Spike TV, 13 years of coaching, YouTube 2014, fashion). ③ **Two biography-grade
+admissions**: the BLM post he was asked to withdraw and agreed to (the cleanest grounding for why
+the persona declines political questions), and **"it was a parasite"** on The Futur's first
+years. ④ **Four named writing rules** — establishing shot, tension before relief, emotion per
+paragraph, start at the end — the last of which doubles as a mechanism for his live storytelling.
+⑤ **The five ones, pressure = force ÷ area, and the Blind niching decision**, plus two direct
+persona guards: *"even the way you phrase it sounds so violent to me"* and *"I don't want to say
+it like 'F what everybody thinks' — **everybody wants me to be me**."* Also new to
+`entities/influences`: **Taki Moore**. Also: ★★★★★ *"inside this cold exterior, this stoic
+exterior, is still an **emotional immigrant boy**."*

@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-28 (ingest yt batch @thefutur, 1 → **952 L2** — ✅✅ **Essam Ep. 2**: the exception is now a series, and it yields **the four-criteria reputation-vs-brand test**, the first in the corpus, plus the frozen-rice experiment he flags as pseudoscience himself)_
+_Last updated: 2026-07-28 (ingest yt batch @thefutur, 3 → **955 L2** — ★★★★★ **the Content Lab week**: "pick a fight" finally defined as *the realm of ideas*, with the tree/trunk framework and the symbiotic-vs-parasitic test; the BLM episode and *"it was a parasite"*; a live writing workshop yielding **the establishing shot** and **start at the end**; and ★★★★★ **"I messed up"** — the five ones, **pressure = force ÷ area**, and the full Blind 1995–97 niching sequence)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **952 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-10-16, no deferrals outstanding] + the 2026-07-21 fresh upload; synthesized through batch 184 → persona **v21**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **955 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2025-10-30, no deferrals outstanding] + the 2026-07-21 fresh upload; synthesized through batch 184 → persona **v21**).
 
 ## Topics
 

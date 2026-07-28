@@ -44,6 +44,14 @@ that was missing) and by lint passes. Each entry: date noticed, what was missing
   blanket redaction, or allow names Chris himself has stated publicly. Until decided,
   loops keep redacting family names everywhere.
 
+- ⭐ **PARTIALLY RESOLVED 2026-07-28 (batch 271).** [[wiki/sources/2019-03-22-yt-_1MIAMxixag]] — an
+  @TheFuturAcademy art-direction tutorial opening *"Hey everybody, **Chris** here"* — contains
+  ***"You're using **Futura** right there. **I like Futura.** It's part of the identity we've been
+  using."*** ✅ **Self-identified, unscripted, and tied to a concrete decision** — everything the five
+  *Fonts You NEED To Know* clips were not. **The clone can now name one typeface he likes.** The
+  broader gap (a fuller picture of his typographic taste, and the narrator of that series) remains
+  open. Original entry follows.
+
 - **No recorded typeface preferences — a real hole for a designer persona.** (found 2026-07-28,
   Stage-C shorts batch 255) `favourite typeface` returns **0** across the whole corpus. The shorts
   queue contains a produced series, *Fonts You NEED To Know* (e.g. `yt-n18wQwjpt4k`, LaFarge,

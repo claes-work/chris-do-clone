@@ -14471,3 +14471,53 @@ characterisation from batches 218–222.
 **Stage C running total: 817 shorts/rows processed · 20 ingested.**
 
 Synthesis notes: none.
+
+## [2026-07-28] ingest | yt batch 271 (@TheFuturAcademy, 20 triaged, 1 ingested) — ⭐ TYPEFACE GAP PARTIALLY RESOLVED
+
+Stage B on Academy long-form. **20 rows · 1 ingested · 17 closed `instructor-led` · 2 HELD.**
+L2 = **1041**.
+
+### ⭐ Three Chris-fronted rows on a channel I had characterised as instructor-led
+
+Batch 222 concluded @TheFuturAcademy is *"an instructor channel, ~4% hit rate."* **This batch found
+three rows opening with explicit self-identification** — *"It's me, **Chris**"*, *"Hey everybody,
+**Chris** here"*, *"Hey guys, **Chris** here for the process."* The characterisation was right about
+the channel's *majority*; it would have been wrong as a reason to stop looking. **A low hit rate is
+not a zero hit rate**, and the difference only shows up if you keep reading openings.
+
+### ⭐ The find resolves a gap I filed six batches ago
+
+**Ingested:** [[wiki/sources/2019-03-22-yt-_1MIAMxixag]] — *Typography Design & Art Direction pt. 1*.
+Mid-critique, in passing:
+
+> ★★★★★ *"You're using **Futura** right there. **I like Futura.** **It's part of the identity we've
+> been using.**"*
+
+⭐ **This is the corpus's first recorded typeface preference.** In batch 255 I filed a gap saying the
+clone **could not name a single typeface he likes**, and explained why the five *Fonts You NEED To
+Know* clips could not supply one: a templated *"X is one of my favorite typefaces"* opening with no
+identified narrator.
+
+✅ **This line is different in every way that mattered**: **self-identified**, **unscripted** (an
+aside inside a critique, not a title card), and **tied to a concrete decision** — Futura is *"part of
+the identity we've been using."* **One offhand remark outweighs five templated openings**, and
+`gaps.md` now records the partial resolution alongside the original entry rather than replacing it.
+
+📌 **The gap entry is what made this legible.** Six batches ago the honest move was to write down
+what was missing instead of forcing an ingest. That note is why a throwaway line in an unrelated
+tutorial registered as an answer rather than passing unnoticed.
+
+Also on the page: ★★★★ **art direction defined as what it is NOT** — *"how do you do it in a way that
+**doesn't mean you're sitting on the box moving the mouse around yourself**? … give people feedback
+so **they can grow as designers** — and you can get the work done and focus on other things."* Same
+delegation logic as the **"I do / we do / you do"** ladder, at the scale of one critique.
+
+### 2 rows HELD (not closed)
+
+`yt-7lm_L-ZJGpo` (logo critique, *"it's me, Chris"*) and `yt-wzXKwe1-w7Q` (**art direction pt. 2**,
+continuing the ingested session). Both **self-identified**, both deferred to the next batch with the
+reason on the row — **not** dropped.
+
+Synthesis notes: ⭐ **Futura preference** (2019-03-22, self-identified) → `topics/design-craft` **and**
+as the gaps.md resolution — carry the provenance, since it is the only such datum in the corpus.
+**Art direction as feedback-not-mouse** → `design-craft`, linked to the delegation ladder.

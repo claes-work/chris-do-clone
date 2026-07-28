@@ -11544,3 +11544,64 @@ being able to be more objective about the work"* sharpens what the corpus curren
 temperament into something learnable. ★★★ Also: *"this is me playing amateur psychoanalyst"* →
 `persona/voice` as the hedge he attaches to speculation about another person, and **R/GA corroborated**
 in passing.
+
+## [2026-07-28] ingest | yt batch (@thefutur, 3) — the corpus passes 1,000 source pages
+
+Batch 210, Stage B (P3). L2: 999 → **1,002**. ✅ **No deferrals outstanding.**
+
+- `yt-hdDP14c3ltY` — **2023-06-09, selling masterclass.** The row deferred last batch, **done as
+  required.** ⚠️⚠️ **Zero Chris Do** — a Chris-absent guest masterclass on his own channel, written as
+  a fence page.
+- `yt-3AS0gfiG63Y` — **2024-04-30, personal branding.** ★★★★ **Chris-led**, and the best source in
+  the batch.
+- `yt-vZPW0sdulo4` — **2023-12-01, podcast interview.** Guest-dominated; kept for two interviewer-craft
+  items.
+
+### ⚠️ An identification I declined to make
+
+The masterclass matches the recurring Chris-absent teaching slot fenced at `entities/matt-essam` —
+same audience, same structure, same closing workshop CTA — **but the presenter is never named in the
+captions and never introduces himself.** The page records the resemblance and explicitly does not
+assign a name. A guess here would have been convenient and unverifiable.
+
+Two further cautions on that page: the guest name-checks **Alex Hormozi** as a contrast (⚠️
+third-party mention, **not source material for the Hormozi clone**), and the one passage about Chris —
+*"he has two million subscribers but he doesn't have two million clients… there are people who are
+never going to pay Chris a penny, and he's made peace with that"* — is **the guest's read of his
+motives, not his own statement**, and is flagged as such.
+
+### The good source
+
+The personal-branding episode gives **a definition stack, credited source by source** — his own
+(*"branding is the act of influencing positive associations"*), **Marty Neumeier**, **Jeff Bezos**,
+and a researcher on impression management (⚠️ caption spelling unverified, flagged rather than
+guessed). From the stack he derives **four components** — looks, performance, after-service, and
+**culture** — with culture argued as *constitutive*, not adjacent: *"anytime they run into anybody
+from the company and they act like jerks, that's the brand"*, credited to **Tony Hsieh**.
+
+★★★★★ **And a method worth extracting from a personal story**: having asked for professional help, he
+ran the instruction **unmodified** — *"I did exactly as I was told, because I'm a really good student.
+I didn't try to improvise… because if it doesn't work, at least I can go back and say: I did exactly
+what you said."* That is a **procedure for evaluating expert advice**, not an anecdote.
+
+⚠️ **Privacy applied.** That passage concerns family therapy and his children. No names appear in the
+source and none are recorded; the therapist is referred to by first name in the source and is a
+private professional, so **she is not named on the page either.** Only the transferable framework and
+the principle are carried.
+
+Ledger: L2 = 1,002. Open: @thefutur P3:21, @TheFuturAcademy P3:72, 860 shorts. Synthesis debt 6/10.
+
+**Synthesis notes:** **Four items.** ① ★★★★★ **The branding definition stack and its four components**
+→ `topics/branding`, with **culture as constitutive of brand** (Tony Hsieh) rather than a separate
+concern — the hub currently treats culture and brand as neighbouring topics. ② ★★★★ **Why corporate
+branding worked and what social broke** → same hub: association bought through *distribution and
+repetition* when distribution was scarce, and the early-2000s change that ended it. This is the
+historical premise under the personal-brand argument and the hub states the conclusion without it.
+③ ★★★★★ **"Run the expert's instruction unmodified so failure is informative"** → `topics/mindset`,
+beside the asking-for-help material: *"I didn't try to improvise, I didn't try to flip it… at least I
+can go back and say I did exactly what you said."* Pairs with *"I'm a really good student"* and the
+70%-extraction theory from 2017-03-27. ④ ★★★★ **The suspend-modesty opening question** →
+`topics/content-strategy` as an interview technique: establish the comparison set, then say *"you
+don't need to be humble here."* Also for `persona/voice`: *"more threads are opening up — I want to
+close a couple before I move on"*, the audible form of the notepad method. ⚠️ **Nothing from the
+masterclass is promotable anywhere**, and its Chris-adjacent passage must never be quoted as his.

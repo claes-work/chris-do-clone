@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-28 (ingest yt batches @thefutur → **999 L2**; ★★★★★ **he shows his working on a line that circulates as his** — *"what makes you weird makes you wonderful"* is credited to **James Victore** and acknowledged as *"co-opted and modified"*; plus a **fifth dated Blair Enns credit** and the **removing-the-ladder** AI argument, ⏳ dated Nov 2023)_
+_Last updated: 2026-07-28 (ingest yt batches @thefutur → **1,002 L2** — the corpus passes a thousand source pages; newest: the **branding definition stack** with culture as constitutive (Tony Hsieh), and **"run the expert's instruction unmodified so failure is informative"**)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **999 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 and P2 both fully drained**; 97 members-only rows skipped as unobtainable; remaining: @thefutur P3:24, @TheFuturAcademy P3:72, 860 shorts).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **1,002 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 and P2 both fully drained**; 97 members-only rows skipped as unobtainable; remaining: @thefutur P3:21, @TheFuturAcademy P3:72, 860 shorts).
 
 ## Topics
 

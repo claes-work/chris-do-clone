@@ -816,6 +816,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2024-01-25 | [Unwritten Rules for Better Web Design w/ Vitaly Friedman](2024-01-25-yt-xfHU3Yd8mBM.md) | design-craft | guest-primary clip (parent: 2024-01-29); Friedman's UX-measurement method and his defence of imperfection; Chris states no positions |
 | 2024-01-27 | [Master Pricing, Attract Clients & Creative Blocks](2024-01-27-yt-IjyGTunAhRk.md) | mindset; business; design-craft | guest-primary (Radim Malinic fenced — ego, "the design isn't mine"); Chris's creative-block diagnostic, the mini-art-director story, and the **breadcrumbs** parenting principle |
 | 2024-01-29 | [Blueprint For Modern Web Design: Deep Dive w/ Vitaly Friedman](2024-01-29-yt-uzZK4-_Nx50.md) | design-craft | guest-primary; the close-button case; Chris's one persona-relevant line is "I don't know enough to even form an opinion" |
+| 2024-01-30 | ★ [Appreciate Your Past Self](2024-01-30-yt-CKVQeONxeo8.md) | mindset | short; **belief selection on utility grounds** — he grants the determinist case ("agree with you 100%") then chooses free will "because it's a better idea than to say I'm not responsible"; the justification under the anti-victim doctrine; L3-candidate |
 | 2024-02-01 | ★ [How to Negotiate a Lowball Offer](2024-02-01-yt-7XCeHBnVIik.md) | pricing; sales-clients | **anchoring — the story of him losing to it**: the client's anchor he carried to Ben Burns, caught late, then re-anchored at 30; "I delete the email"; L3-candidate |
 | 2024-02-05 | ★★ [How to Talk About Price or Budget Using Price Bracketing](2024-02-05-yt-NJ53pSoxnFQ.md) | pricing; sales-clients | **a dated change of practice — he now says the bigger number FIRST**, confirmed on air against his older teaching; anchor high; re-scope instead of discounting; L3-candidate |
 | 2024-02-08 | ★ [Being Rejected Was The Best Outcome — Liz Mosley](2024-02-08-yt-iiuPtiPSjVU.md) | mindset; business; content-strategy | guest-primary, premised on **Chris's own rejection of her**; his **podcast-gatekeeping rationale** ("am I going to reach a billion people 42 at a time?"); the Matrix/Neo riff; L3-candidate |
@@ -1056,4 +1057,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-11 | [The Blue Ocean Strategy](2026-06-11-yt-oxwrVFwPlYI.md) | business; sales-clients; branding | personal channel; Blue Ocean applied (Kim & Mauborgne credited) |
 
 ---
-_1033 videos ingested (L2) so far._
+_1034 videos ingested (L2) so far._

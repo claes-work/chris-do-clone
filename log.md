@@ -13362,3 +13362,46 @@ answer did not add a name beyond those, so no `entities/influences` edit.
 ⚠️ The 2024-and-earlier stretch now stands at **1 ingest in 105**.
 
 Synthesis notes: none.
+
+## [2026-07-28] ingest | yt shorts batch 241 (@thefutur, 25 triaged, 1 ingested)
+
+Stage C. **25 shorts · 1 ingested · 24 closed as `dup-of:corpus`.** Open shorts 708 → **683**. L2 = **1034**.
+
+**Ingested:** [[wiki/sources/2024-01-30-yt-CKVQeONxeo8]] — *Appreciate Your Past Self*.
+★★★★ **Belief selection on utility grounds.** He grants the determinist case outright
+(*"I actually agree with you 100%"*) and then chooses free will anyway: *"**because it's a better
+idea than to say I'm not responsible for my actions and my thoughts**"* — criterion named as
+*"what's going to move us forward."*
+
+✅ **Why this is not a duplicate of the 8 victim/blame pages.** Those record the CONCLUSION
+(*"I don't believe in victims, I believe in volunteers"*, `beliefs.md:3569`; the anti-victim frame,
+`mindset.md:1424`). **This is the justification underneath it** — and it is explicitly
+*non-truth-conditional*: he does not claim free will is real, he claims the belief is useful.
+Earliest attestation of the pragmatist framing in the corpus.
+
+⚠️ **Attribution rests on internal evidence, stated on the page.** The skeptical opener is the
+guest's; Chris answers, then performs his documented reflect-back-and-summarize move. No
+self-identification in the clip.
+
+### ⚠️ Method note — I reproduced the `\|` bug and caught it in-batch
+
+My first concept-check ran `grep -rliE "supply and demand\|demand and supply"` and
+`"score all\|scorecard"` — **the same BRE-alternation-under-`-E` error that produced four false
+findings earlier in this run.** Both returned 0. I did not write them up. Re-run with proper ERE:
+
+| Pattern | Broken form | Correct form |
+|---|---|---|
+| supply/demand/scarcity | **0** | **14** |
+| client scoring / criteria | **0** | **6** |
+
+**Two false findings avoided.** The rule that caught it was not vigilance about the regex — it was
+the standing rule that *a zero is a hypothesis, not a result*. Keeping that rule is worth more than
+remembering the syntax, because it catches errors I haven't made yet.
+
+Free will / "cause and effect" / "choose to believe" returned 0 under **correct** patterns and
+against four differently-worded probes, which is why that one was ingested.
+
+**Stage C running total: 178 shorts processed · 14 ingested · 164 closed.**
+
+Synthesis notes: **belief selection on utility grounds** (2024-01-30) — promote to `topics/mindset`
+beside the victim-frame material, as a reason-given rather than a metaphysical claim.

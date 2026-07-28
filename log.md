@@ -12847,3 +12847,56 @@ classification. ② ★★★★★ **The too-expensive script** → `topics/sal
 price objection as a problem-sizing error.** ③ ★★★ **Note for the dedup method**: the channel
 re-uploads identical cuts under new IDs, so **corpus-level phrase matching is the right rail, not
 ID-level parent matching.**
+
+## [2026-07-28] ingest | yt batch (@thefutur shorts, 0 ingested) — the check collapsed a third hold, and a grep I don't trust
+
+Batch 232, Stage C. **No source ingested.** L2 unchanged at **1,032**. Open shorts: 813 → **804**.
+
+### ✅ The held row resolved — and it was a dup after all
+
+`yt-VxLzSsQM-NQ` was held last batch because *"mild, medium and spicy"* returned zero matches. **On a
+full read it is the ACCLIMATION method** — covered on **6** pages — illustrated with **the sushi
+analogy**, covered on **8**. The only unmatched phrasing is *"think of it like a six-course meal"*,
+which is **the same idea in different words.**
+
+⚠️ **Marked dup — but with two components flagged for the synthesis pass anyway**, because they may not
+be in the acclimation entry: *"get them to **commit to the bold statement**… **I'm going to use that
+against them in a little bit**"*, and *"**are you committed to this BEFORE I do [the work]?**"* ✅ **A
+row can be a duplicate overall and still contain a detail worth checking.**
+
+**That is now three holds in a row that the check killed** — *contour*, *too extra*, and this. The
+phrase-grep is good at flagging candidates and **poor at judging them**; only the full read decides.
+
+### ⚠️ A grep result I do not trust, and did not act on
+
+`yt-Qn4ws_UiVbs` opens with an explicitly **Jungian** frame — *"in Jungian ideology the **ego regulates
+between the shadow self**, the things you have anxiety about, that make you feel shame"* — applied to
+*"showing up to blend into being average."*
+
+My phrase-check returned **0 matches for Jung/shadow across sources, topics and persona files.**
+⚠️ **That contradicts the recorded index entry**, which states the authenticity-gap page is *"grounded
+in **Jung** (persona/shadow)"*. **The grep is more likely wrong than the corpus.**
+
+✅ **So I held the row rather than writing it up as new.** The note instructs: **read
+`wiki/topics/branding/authenticity-gap.md` directly** and mark dup if the ego/shadow framing is already
+there. **Writing a "new" Jungian entry on the strength of a grep I can see is inconsistent with the
+index would have been the worst kind of error** — a fabricated novelty, backed by a broken check.
+
+### Seven closed as covered
+
+*Whoever wants it more has less leverage* (5 pages) · *pricing is positioning* (5) · don't compete with
+the machine, ask better questions and have taste · KISS/precision · show up as you · the 130M-views
+claim · *everyone has a personal success system*.
+
+### Running Stage C tally
+
+**63 shorts processed · 4 named-parent dups · 36 dup-of-corpus · 3 guest-only · 12 ingested · 1 held.**
+⚠️ **The new-material rate has fallen sharply** — 0 of the last 10. The early shorts (2026) were
+recut-heavy; this stretch (early 2025) is doctrine-heavy and **almost entirely already captured.**
+
+Ledger: L2 = 1,032. Open: **shorts 804**, @TheFuturAcademy P3:37. ⚠️ Unscoped: 235 streams.
+Synthesis debt 8/10.
+
+**Synthesis notes:** none — no source ingested. ⚠️ **Two carry-forwards**: verify the **Jung/shadow**
+coverage by reading the authenticity-gap page directly (not by grep), and check whether **"commit to
+the bold statement, then hold them to it"** is present in the acclimation/commitment-trap material.

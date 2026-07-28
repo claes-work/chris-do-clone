@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-28 (ingest yt batch @thefutur, 1 → **977 L2**; 2 more members-only rows diagnosed and skipped — a 160 KB **co-taught** workshop yielding ★★★★★ **"The Crucible"** and ★★★★★ **the avatar-language test**, plus a saturation finding: a 2-hour flagship session on the channel's #1 topic produced only two new items)_
+_Last updated: 2026-07-28 (ingest yt batch @thefutur, 2 → **979 L2**, 1 deferred — **@thefutur P2 is DRAINED**. Two early landmarks: the corpus's only end-to-end **six-step sales process** (2020) with the Coldplay *"he was in love with the plan"* story, and a 2021 live roleplay where he sells Blair Enns on camera — *"I didn't even know I was being sold"* — first recorded **"statements tell, questions sell"**)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **977 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 fully drained**, draining P2 [through 2026-06-24, no deferrals outstanding; 3 members-only rows skipped] + the 2026-07-21 fresh upload; synthesized through batch 184 → persona **v21**).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **979 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 and P2 both fully drained**; 97 members-only rows skipped as unobtainable; remaining: @thefutur P3:45, @TheFuturAcademy P3:72, 860 shorts).
 
 ## Topics
 

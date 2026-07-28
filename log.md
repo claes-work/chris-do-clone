@@ -10850,3 +10850,61 @@ work toward @TheFuturAcademy and the shorts backlog now has arithmetic behind it
 judgement about repetition.**
 
 Synthesis notes: none — no source ingested.
+
+## [2026-07-28] ingest | yt batch (@thefutur, 2 + 1 deferred) — ✅ @thefutur P2 IS DRAINED
+
+Batch 200, Stage B. L2: 977 → **979**. ✅ **A milestone: `@thefutur` priority-2 long-form is
+COMPLETE.** What remains on that channel is **P3:45**, plus `@TheFuturAcademy` P3:72 and 860 shorts.
+
+Both sources are **early** — 2020 and 2021 — and both turned out to be more valuable than their
+position in the queue suggested.
+
+- **[2020-11-23] One Thing You Should Never Do In Sales** (`yt-qTp7SFtZ6uI`) — ★★★★★ **the corpus's
+  only end-to-end numbered SALES PROCESS**: prospecting · qualifying (*can they afford it · do they
+  have **the power** · do they have **the desire***) · approach (*"**seek to understand, not to
+  diagnose**"*) · presentation · **objection** (★★★★★ *"**raising objections is a sign of the
+  customer's interest — otherwise they'd just politely nod and move on**"*) · close (three buying
+  signals and **the hypothetical close**, *"**why a question? It reduces the pressure of not having
+  to make a decision right now**"*). Framed by **"going past the sale"** and closed with the
+  **Coldplay *Ghost Stories*** story — Chris Martin says *"I love it"*, the executive producer asks
+  *"do you want to see the rest?"*, and Chris *"pulls the emergency handbrake."* ★★★★★ **The
+  diagnosis is the best part, and it is generous**: *"**he was in love with the plan**… the pitfall
+  of over-preparing gives you tunnel vision… **he couldn't hear that the client was happy.**"*
+- **[2021-03-18] 3 Designers Pitch A Sales Expert** (`yt-zMVayexyVlU`) — ★★★★★ **he demonstrates
+  his own method live against a professional sales trainer.** Two designers pitch **Blair Enns**
+  cold and are deflected; Chris then opens with nothing that sounds like a pitch, surfaces a
+  budgeted need neither found, and **qualifies rather than pounces**. ★★★★★ **Blair's own reaction
+  is the evidence**: *"**I didn't even know I was being sold**… in 60 seconds you had me: who is
+  it? I'll hire them… **I would pay more.**"* Contains the **first recorded** *"**statements tell,
+  questions sell**"* and *"**if you're telling, you're not selling**"*, plus a new Kier McLaren
+  item (*"salespeople are the easiest people to sell to"*), promoted straight to that entity page.
+
+⏳ **A PRECEDENCE FINDING WORTH KEEPING.** These 2020–21 sources establish, years earlier, several
+principles the corpus had recorded only from 2025–26: **objections signal interest** (later *invite
+the no*), **qualify on budget/power/desire** (later the three call questions), and **ask rather
+than tell** (later *"I never assume them to tell the truth"*, *"why not do nothing?"*). ✅ The
+2025–26 material is more sophisticated, but **it is not new thinking — it is refinement.** A
+precedence table is recorded on the 2020-11-23 page.
+
+⚠️ **An attribution catch on 2021-03-18.** The transcript has no speaker labels, and the final
+third is a panel discussion. The passage about adults being competent conversationalists *"until the
+moment the conversation is about sales"*, together with the **homeschooled-children analogy**,
+follows immediately after **Chris asks the panel for their read** — so it is **a panel member's
+answer, not his**, and it is fenced as such. It would have been easy and wrong to promote it into
+`voice.md`; the closing summary in the same video *is* his, since it sits in his standard voiceover
+outro position.
+
+⚠️ **DEFERRED (once): `yt-QoMPxUWMo8g` — 2021-03-23, the Beeple/NFT episode.** Heavily panel- and
+guest-driven (a resident crypto expert delivers the NFT primer) and highly topical to March 2021.
+**Dropped to P3** so it sorts with the long tail rather than blocking P2 completion; transcript
+already fetched. Not to be deferred again.
+
+Synthesis notes: **four items.** ① ★★★★★ **The six-step sales process** → `topics/sales-clients`,
+as the spine the later, more sophisticated material hangs on. ② ★★★★★ **"Going past the sale"** with
+*"how much more of a yes could we get?"* as its test, and the **over-preparation/tunnel-vision**
+diagnosis. ③ ★★★★★ **"Statements tell, questions sell" / "if you're telling, you're not selling"** —
+the earliest and crispest form of the ask-don't-tell principle, and it should be dated to **2021**
+on the topic page, not to the 2025–26 sources that restate it. ④ ★★★★ **The Coldplay story** →
+`persona/biography`. Also promoted already: the Kier McLaren line. ⚠️ **A dating instruction for the
+next synthesis pass:** where a 2025–26 framework has a 2020–21 antecedent recorded here, **cite the
+earlier date** — the corpus has been implicitly treating several of these as recent inventions.

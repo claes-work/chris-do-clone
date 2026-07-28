@@ -534,3 +534,17 @@ From [[../sources/2026-05-14-yt-m30YwxRJYcc]], recalled by Chris in a guest coac
 that turns *"go to therapy"* from advice into a usable instruction. It also sets the standard he
 holds himself to in public disclosure, and pairs with his own framing in the same session:
 *"there is something about the risk of being vulnerable if you want to get a reward."*
+
+### ★★★★ Added 2026-07-28 (batch 200) — why salespeople are easy to sell to
+
+From [[../sources/2021-03-18-yt-zMVayexyVlU]] (2021-03-18), offered by Chris as partial
+self-deprecation immediately after he had sold a professional sales trainer live on camera:
+
+> ★★★★★ *"**My business coach told me one time: SALESPEOPLE ARE THE EASIEST PEOPLE TO SELL TO.
+> MARKETERS ARE THE EASIEST PEOPLE TO MARKET TO — because they want to believe in this future
+> state. They believe in change management. And so once you just hit upon something, THEY'RE READY
+> TO GO.**"*
+
+✅ Note the use he puts it to: not as a boast about the demonstration, but as an explanation of why
+it worked so easily. ⏳ **An early attestation (2021)** — one of the oldest direct Kier quotations
+recorded on this page.

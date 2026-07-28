@@ -14300,3 +14300,27 @@ his own voice**, so they resolve as ordinary duplicates rather than attribution 
 **Stage C running total: 759 shorts processed · 19 ingested · 740 closed.**
 
 Synthesis notes: none.
+
+## [2026-07-28] ingest | yt shorts batch 267 (@thefutur, 24 triaged, 0 ingested)
+
+Stage C. **24 shorts, 0 ingested.** Open shorts 102 → **78**. May 2021.
+
+⚠️ **Correction to my previous report:** I said the checkpoint would fire this iteration. It did not
+— the driver read **9/10**, not 10. I ran a normal Stage C batch instead. **The checkpoint fires
+next iteration**, at 10.
+
+**Closest call:** `yt-RiIBcGxVbXE` — *"you need to **build a better gate** to keep out people who are
+not qualified to be working with you,"* with the early-money roleplay (*"for local work we typically
+charge somewhere between **five to eight thousand dollars** — is that within your budget?"*).
+
+`better gate` returns **0**. But the doctrine is held: `bring up money / money up front` **4** and
+`qualify` **9** in topics/persona, plus the price-bracketing material. **A fresh metaphor for a
+recorded doctrine is a voice datum, not a new belief** — the sixth time this run I have made that
+call, and it is now a settled rule rather than a judgement each time.
+
+Also resolved: **Blairtopia** (`blairtopia` **5** — the Blair Enns thought-experiment is already
+recorded) · `familiarity/surprise` **1** · `pat flynn` **3** (closed **`guest-only`**, ninth this run).
+
+**Stage C running total: 783 shorts processed · 19 ingested · 764 closed.**
+
+Synthesis notes: none. **Debt 10/10 after this entry — checkpoint next iteration.**

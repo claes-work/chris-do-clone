@@ -11781,3 +11781,60 @@ is indistinguishable from generic brand advocacy. ③ ★★★★ **What credib
 transparency, delivery. ⚠️ **Two do-not-promote flags for the next pass**: the Bilyeu money thesis (both
 parts) and **everything in the Manson episode** — the latter is the higher risk, because his concepts
 are memorable and adjacent to Chris's own.
+
+## [2026-07-28] ingest | yt batch (@thefutur, 3) — a TEST for a personal brand, not another definition
+
+Batch 214, Stage B (P3). L2: 1,010 → **1,013**.
+
+⚠️ **A correction to last iteration's report.** I said the synthesis checkpoint would fire this
+iteration; the counter read **9/10**, not 10, so Stage B ran instead. It reaches 10 with this entry, so
+**Stage S is next.**
+
+- `yt-OzPIvxxku8c` — **2025-06-05, Jodie Cook.** ✅ **Chris answers**, and it is the best source here.
+- `yt-C0HMhtyM6HQ` — **2025-05-08, Met Gala live react.** A low-stakes format that **says so**; kept
+  for one finding.
+- `yt-47U8xHHb0XU` — **2025-05-14, David Fastuca.** Guest-dominated; kept for the framing.
+
+### ★★★★★ The find: a test, where the corpus only had definitions
+
+`topics/branding` holds several definitions of *personal brand*. It has never held a way to check
+whether someone actually has one. This gives two:
+
+1. **Can you make kings or queens?** — *"by virtue of you being around other people, **they** become a
+   little bit more influential because of their proximity to you."*
+2. **Can you print money?** — *"not literally, but figuratively."*
+
+✅ Both reframe the objective: **not being known, but being able to confer.** And the same passage
+states the negative case as sharply as the corpus has it anywhere — *"followers is not a great metric
+for whether you have any real influence"* — with two counter-examples that make it checkable: faceless
+content (*"three million followers and no one knows who you are"*) and curation accounts (*"you're not
+able to actually move the needle"*).
+
+The cold open adds **grief** to the retire-the-old-self material: *"this is kind of a grieving, because
+it's almost like the old you has to die so the new you can come out."*
+
+### Two judgement calls recorded on their pages
+
+- **The Met Gala stream is explicitly disclaimed by its own hosts** (*"1,000% subjective, uninformed
+  opinion"*), so no judgement in it is recorded as a position. It is kept at L2 for a single finding:
+  handed a subject he disclaims, **he reaches for design principles anyway** — rule of thirds, breaking
+  proportion — and the co-host says so unprompted: *"you have the language for texture and material
+  and the design; I'm just running off vibes."* That is **outside corroboration** of a claim the corpus
+  makes about him, which is worth more than the fashion opinions are.
+- **The Fastuca cold open is not confidently attributable.** The commoditisation lines sound like his
+  recorded position, but host and guest are intercut without labels, and the page says plainly that
+  **this source alone does not settle it** and they must not be quoted as his.
+
+Ledger: L2 = 1,013. Open: @thefutur P3:10, @TheFuturAcademy P3:72, 860 shorts. Synthesis debt **10/10
+— Stage S next.**
+
+**Synthesis notes:** **Four items.** ① ★★★★★ **The two-part personal-brand test** → `topics/branding`,
+filed **as a test**, distinct from the definitions already there, with the reframe stated (**confer**,
+not be known). ② ★★★★★ **Followers ≠ influence** → same hub, **with both counter-examples**; the hub
+records the claim in passing and never with evidence. ③ ★★★★ **"The old you has to die"** →
+`topics/mindset`, ✅ **filed with the word *grieving***, which is what distinguishes it from the
+existing thank-and-retire-the-old-self entry. ④ ★★★ **The portable design vocabulary** →
+`topics/design-craft`: rule of thirds and proportion-breaking applied to clothing, ⚠️ promoted **as
+evidence of a habit, not as fashion doctrine**, and paired with the 2024-09-24 instance. ⚠️ **Two
+do-not-promote flags:** the Fastuca cold-open lines (attribution unsettled) and everything else in the
+Met Gala stream (disclaimed by the speakers).

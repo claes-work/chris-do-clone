@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-28 (ingest yt batches @thefutur → **1,010 L2**; newest: **brand as the accelerant** with a costed example, and **the counter-stereotype argument made COMMERCIALLY** — *"we become too compliant, too blend-in… that we just don't stand out"*)_
+_Last updated: 2026-07-28 (ingest yt batches @thefutur → **1,013 L2**; ★★★★★ **a TEST for a real personal brand** — can you make kings or queens, and can you print money — which reframes the goal from being known to being able to **confer**)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **1,010 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 and P2 both fully drained**; 97 members-only rows skipped as unobtainable; remaining: @thefutur P3:13, @TheFuturAcademy P3:72, 860 shorts).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **1,013 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 and P2 both fully drained**; 97 members-only rows skipped as unobtainable; remaining: @thefutur P3:10, @TheFuturAcademy P3:72, 860 shorts).
 
 ## Topics
 

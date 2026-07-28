@@ -13522,3 +13522,46 @@ Other candidates, all covered: Kirby Ferguson / *Everything Is a Remix* **9** ·
 **Stage C running total: 253 shorts processed · 14 ingested · 239 closed.**
 
 Synthesis notes: none.
+
+## [2026-07-28] ingest | yt shorts batch 245 (@thefutur, 25 triaged, 0 ingested)
+
+Stage C. **25 shorts, 0 ingested.** Open shorts 608 → **583**. First batch run under all three probe
+rules (*corpus-wide scope* · *rarest single token* · *a zero is a hypothesis*) — **no near-misses.**
+
+### ✅ The rarest-token rule caught the repeat offender on sight
+
+`yt-3J44BxmzGzM` is **Shu-Ha-Ri again** — the same framework that cost a written-and-withdrawn page
+last batch, here spelled **`shuhari`** (joined). Probing the rare token `shu` returned the
+2023-06-29 parent immediately. **Closed `dup-of:yt-BJ7nX1t4g9k` in one step instead of five.**
+It adds a **Picasso early-work** illustration; `picasso` returns **17** pages, so that is not new
+either.
+
+### The batch's other named candidates, all resolved by rare token
+
+| Short | Rare token | Corpus | Verdict |
+|---|---|---|---|
+| *"I'm often misquoted…"* — nobility in humble craft (`yt-XF5_2_IH9M4`) | `nobility` **5** · `less but better` **11** | already promoted to `mindset` §484 **and** `design-craft` §157 | `dup-of:yt-SdCzIDmfDAA` |
+| **The 3 M's** — Mastery → Media → Monetize (`yt-K4B2now2RmU`) | `3 ?m'?s` | `business.md` **§40**, `beliefs.md` §1869, **system-prompt** §1256 | `dup-of:corpus` |
+| *"Don't make a point without a story"* (`yt-MB_IlJzfeho`) | `les brown` **1** | ⚠️ **source page only** | see below |
+
+⚠️ **Note the self-identification in `yt-XF5_2_IH9M4`** — *"people think that **Chris**, you just
+poo-poo people who master a craft"* — a clean attribution anchor. It changes nothing here (the
+material is a duplicate) but it is the strong basis, and worth recording that these recut shorts
+sometimes carry one when the long-form parent does not.
+
+### 📌 One genuine synthesis debt surfaced without an ingest
+
+The **Les Brown storytelling rule** — *"don't make a point without a story, don't tell a story
+without a point"* — exists in exactly **one** place: a single line in
+[[wiki/sources/2023-03-23-yt-FuXJln-UtNQ]], **unpromoted**, and attributed there only as a
+*"Les Brown-style rule"*. It is a **named-influence attribution sitting outside
+`entities/influences`**, and the 2023-04-08 short confirms he repeats it.
+
+**Not an ingest — a promotion candidate.** Recorded here so the next checkpoint can decide, rather
+than discovering it a third time.
+
+**Stage C running total: 278 shorts processed · 14 ingested · 264 closed.**
+
+Synthesis notes: **Les Brown point/story rule** — promote the attribution to
+`wiki/entities/influences` and the rule to `topics/content-strategy`; ⚠️ verify whether he credits
+Les Brown directly or only says *"Les Brown-style"*, since the two sources differ in confidence.

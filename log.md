@@ -14801,3 +14801,50 @@ around this very workbook. **I did not re-file it.**
    skipped.**
 
 Open long-form: **232 streams** remain. L2 = **1045**.
+
+## [2026-07-29] ingest | yt stream batch 274 (@thefutur, 5 triaged, 2 ingested)
+
+First full stream batch. **5 rows · 2 ingested · 1 guest-primary · 2 members-only.**
+Open long-form 232 → **227**. L2 = **1047**.
+
+### ⚠️ A source that CORRECTS the corpus
+
+[[wiki/sources/2025-12-02-yt-jomVDSzhKEo]] opens: *"My guest today — **or my co-host, as always** —
+is Miss Jodie Cook,"* and she adds: *"**Chris and I have been recording together all year, nearly a
+year now** — the first time I showed up we were doing **How to Stop Caring About What Everyone
+Thinks**, all the way back in **January.**"*
+
+⚠️ **The corpus records her as a repeat GUEST.** [[wiki/sources/2025-01-09-yt-Sb80TUwoTOE]] tags her
+`second-appearance` and notes *"now two appearances — worth a page at the next pass."* **She is a
+co-host of a year-long recurring series**, and that January video was its *first recording*, not an
+isolated second booking.
+
+📌 **This is precisely the class of fact livestreams hold and uploads do not.** A recurring format is
+visible in the live feed and invisible in the edited catalogue — so the corpus mischaracterised the
+relationship **for exactly as long as streams were out of scope**. The entity page owed since
+2025-01-09 should now be created as a **co-host page dated from January 2025**, not a guest page.
+
+### ⏳ A speaking engagement the timeline lacked
+
+[[wiki/sources/2024-10-15-yt-Ju4Hz6tZUXg]] — **Adobe MAX 2024, Miami.** `adobe max` returns **34**
+hits but only for **2018** and **2023**; the 2024 Miami appearance is absent.
+
+The talk's argument is already familiar (`tim cook` **7**, `richard branson` **4**) — **but the bound
+he puts on it is not**:
+
+> ★★★★ *"Apple and **Tim Cook — who's not even the founder** — has way more followers than Apple…"*
+> → ⚠️ *"**it seems to hold true IF it's an interesting CEO.**"*
+
+✅ **The qualifier is the find.** The Tim Cook example is chosen to show the effect is not about
+founding; the *"interesting CEO"* condition then concedes it is not universal either. **Recorded with
+an explicit instruction that the qualifier travels with the claim** — quoting the follower comparison
+without it would overstate a position he himself bounded on stage.
+
+### Discipline notes
+
+- **Both pages say SAMPLED, not read end to end** (13.2k and 19.8k words). Streams are 10–20× a
+  normal video; **claiming full reads I did not do would be the easiest lie in this whole pipeline.**
+- `yt-RA2qEWrY9w0` closed **`guest-primary`** — live reviews of submitted Reels; the content under
+  discussion belongs to the submitters.
+- **2 of 5 auto-skipped `members-only`.** Running at ~40% across the first 8 stream rows, so the
+  effective queue is materially smaller than 227.

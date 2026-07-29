@@ -38,7 +38,9 @@ Probed corpus-wide: `3.25|three dollars and 25` returns **0**; `desensitized` re
 > interesting, let me just deposit it.* **And that was that.**"*
 
 ⚠️ **Neither figure is dateable to a year from this clip.** *"16 or 17"* places the wage in the late
-1980s given the biography's ~1973 birth year, but **he does not say so**, and the $68,000 cheque is
+1980s given the biography's **1972** birth year (⚠️ corrected 2026-07-29 — this page originally
+wrote "~1973", which was my own loose inference, not what `biography.md` records; the late-1980s
+conclusion is unaffected), but **he does not say so**, and the $68,000 cheque is
 placed only as *"not that long ago"* relative to the wage — which cannot be right literally and is
 best read as narrative compression. **Recorded as stated, not reconstructed.**
 

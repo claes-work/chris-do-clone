@@ -14848,3 +14848,47 @@ without it would overstate a position he himself bounded on stage.
   discussion belongs to the submitters.
 - **2 of 5 auto-skipped `members-only`.** Running at ~40% across the first 8 stream rows, so the
   effective queue is materially smaller than 227.
+
+## [2026-07-29] ingest | yt stream batch 275 (@thefutur, 6 triaged, 1 ingested)
+
+**6 rows · 1 ingested · 4 closed · 1 members-only.** Open long-form 227 → **221**. L2 = **1048**.
+
+**Ingested:** [[wiki/sources/2021-12-11-yt-cQrw7pu_jqQ]] — the 2021 year-end channel review.
+
+★★★★★ **Shorts as the growth engine, quantified:** *"**we got over 17,000 subscribers in ONE DAY.
+One day.**"* — and he flags why it is anomalous: *"our channel is **not one where we're used to
+having viral hits** — it's just teaching people design concepts."* `17,?000 subscribers` returned
+**0**.
+
+✅ **The corpus held Shorts DOCTRINE and, since the 2026-07-28 sweep, ~800 of the Shorts themselves —
+but not the moment the format was recognised as the growth engine, nor any number attached to it.**
+
+⏳ **A second datum, and it settles something:** *"in 2014, in January, we released our first video
+together [with **Jose Caballer**], and **I was 42 years old.**"* → born ~1971–72, agreeing with the
+**1972** birth year in `biography` and with *"47 years old"* stated in June 2019. **Three
+independent self-reports now agree**, which matters because the biography flags the exact birth
+*date* as aggregator-only and low-confidence.
+
+### ⚠️ A correction to my own earlier page
+
+Checking that datum, I found I had written *"the biography's **~1973** birth year"* into
+[[wiki/sources/2021-12-14-yt-RIYXIbHwlXc]] on 2026-07-28. **`biography.md` records 1972.** That was
+my own loose inference presented as a citation. **Corrected in place with the correction visible**;
+the conclusion it supported (a late-1980s teenage wage) is unaffected either way.
+
+📌 **Worth stating plainly: the error was mine, not a source's.** Nothing in the transcript said 1973
+— I introduced a number while paraphrasing what the corpus held, which is exactly the failure mode
+the citation rule exists to prevent. It survived one day because nothing else referenced it.
+
+### The four closed rows
+
+| Row | Reason |
+|---|---|
+| *AI & Thought Leadership* | **Chris is a GUEST** on Alistair McDermott's show — noted on the row: **2.41M YouTube followers at 2024-04-10** |
+| *The Who You Know Show* | **Chris is a GUEST** |
+| *Looking Into The Future* (w/ Ben Burns) | format-history only — first YouTube live in *"two and a half, three years"* |
+| *Business Bootcamp graduation, cohort 6* | **guest-primary** — the graduates speak, Chris facilitates |
+
+📌 **Two of six were Chris appearing on OTHER people's shows.** The stream type mixes his own
+broadcasts with syndicated guest slots, so **"it is on @thefutur" says even less about authorship
+here than it did for shorts.**

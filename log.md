@@ -14737,3 +14737,67 @@ is the whole point of the citation rule.
 
 Corpus: **L2 = 1,044 · L3 = 0 · 1,044 source pages · index footer 1,044 · system-prompt v24.**
 All three counts now agree, and the underlying SETS agree — which the counts alone never proved.
+
+## [2026-07-29] ingest | ⭐ SCOPE EXPANDED — livestreams brought into the pipeline (owner decision 1)
+
+The repo owner approved **decision 1** from the 2026-07-28 pass-27 entry: bring the **235 @thefutur
+livestreams** into scope.
+
+### The driver fix
+
+`tools/ingest_batch.py` hard-coded `type == "video"` at **three** call sites — the open-row counter,
+the selection filter, and the per-channel status block — so `stream` rows were **counted nowhere and
+selected never**. Replaced all three with a single module constant:
+
+```python
+LONGFORM_TYPES = {"video", "stream"}
+```
+
+⚠️ **Deliberately a constant, not three literal edits.** The bug existed *because* the same rule was
+written three times and only kept in sync by luck; a fourth call site added later would have
+reintroduced it. The constant carries a comment explaining the 2026-07-29 decision and pointing at
+batch 217 where the gap was found.
+
+✅ **Verified:** `grep '"video"'` now returns only the comment and the constant. Status immediately
+went from *"@thefutur: drained"* to **`@thefutur 235 (P3:235)`**.
+
+### ⭐ The first stream fetched is a book launch
+
+Of the first 3 rows, **2 were auto-skipped `members-only`** (the batch-199 detector working as
+intended) and **1 fetched cleanly** — and it is
+[[wiki/sources/2025-12-22-yt-Zo_SxRuUGjQ]], the launch event for his own workbook
+***Unbland: How to Stand Out in a Noisy World***.
+
+**That is the scope decision justifying itself on the first row.** ⚠️ Note also that the ledger
+carried `published: NA` for every stream; **the date came from the caption fetch** (raw filename
+`2025-12-22-…`), so the rows were undated in the ledger but are datable in practice. Ledger updated
+to `published=2025-12-22`, `priority=1`.
+
+### What was actually new — and what wasn't
+
+⚠️ **The doctrine in the stream is already held**: `courage to be disliked` **6** · `correct
+contrarian` **4** · `jodie cook` **5** · `unbland` **18**, largely from the 2026-04-07 podcast built
+around this very workbook. **I did not re-file it.**
+
+**What the corpus genuinely lacked**, all probing to **0**:
+- ⏳ **the launch date itself** (`2025-12-22` → 0) — later sources discuss the workbook as an existing
+  thing; this is the event that created it
+- ★★★★★ **the digital-first publishing rationale** (`digital.?first` → 0): *"that gives me the
+  opportunity to **update it as I go**… once I feel like it's perfect, **then I will go to press** —
+  and that way **we don't waste a lot of paper**"*, designed around the constraint that ***"you can't
+  unpublish a book."***
+- ★★★★ **his own product priced in public** — $99 anchor, **$59** launch, **$20 voucher** pre-selling
+  the print edition. He teaches pricing; here the corpus can watch him do it.
+- ★★★★ **the version/edition ladder** — v1 upgrades free, but *"editions two and three… as part of the
+  **series**, not just as an update. I just want to be fully transparent."*
+
+### ⚠️ Two limits recorded on the page, not hidden
+
+1. **21,848 words — SAMPLED, not read end to end.** The page says so explicitly. Sections outside the
+   launch mechanics and two doctrine passages have **not** been reviewed.
+2. **Filed L2 though `AGENTS.md` says a book launch is a LANDMARK deserving inline L3.** Honest
+   promotion is synthesis-sized — only the launch, rationale, pricing and edition policy should go up;
+   merging the doctrine would duplicate 2026-04-07. **Flagged for L3 at the next checkpoint, not
+   skipped.**
+
+Open long-form: **232 streams** remain. L2 = **1045**.

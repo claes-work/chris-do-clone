@@ -72,6 +72,13 @@ SYNTH_CHECKPOINT = 10  # ingest batches since last synthesis -> a synthesis pass
 FLAG_RE = re.compile(r"\b429\b|no-captions|unavailable|dup-of", re.IGNORECASE)
 OPEN_STATUSES = {"L0-discovered", "L1"}
 
+# Long-form ledger types. "stream" was added 2026-07-29 on the repo owner's explicit
+# scope decision: 235 @thefutur livestreams were counted nowhere and selected never,
+# because all three call sites here hard-coded type == "video" (see log.md batch 217,
+# where the gap was found, and the 2026-07-28 pass-27 entry listing it as decision 1).
+# Keep every long-form filter reading from THIS constant, not a literal.
+LONGFORM_TYPES = {"video", "stream"}
+
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from vtt_to_text import vtt_to_text  # noqa: E402  (local helper, reused not duplicated)
 
@@ -126,7 +133,7 @@ def batches_since_synthesis() -> int:
 
 
 def channel_open_count(rows: list[dict], channel: str) -> int:
-    return sum(1 for r in rows if r["channel_or_publisher"] == channel and r["type"] == "video"
+    return sum(1 for r in rows if r["channel_or_publisher"] == channel and r["type"] in LONGFORM_TYPES
                and r["status"] in OPEN_STATUSES and not FLAG_RE.search(r.get("notes", "")))
 
 
@@ -155,7 +162,7 @@ def ledger_set(row_id: str, **fields: str) -> None:
 # ----------------------------------------------------------------------------- selection
 def select_rows(rows: list[dict], channel: str, n: int,
                 priority: str | None, include_shorts: bool) -> list[dict]:
-    types = {"video", "short"} if include_shorts else {"video"}
+    types = LONGFORM_TYPES | {"short"} if include_shorts else set(LONGFORM_TYPES)
     pool = [
         r for r in rows
         if r["channel_or_publisher"] == channel
@@ -222,7 +229,7 @@ def cmd_status(_: argparse.Namespace) -> None:
     channels = sorted({r["channel_or_publisher"] for r in rows if r["channel_or_publisher"].startswith("@")})
     print("OPEN long-form rows (L0/L1, excl. 429/no-captions/unavailable/dup):")
     for ch in channels:
-        openv = [r for r in rows if r["channel_or_publisher"] == ch and r["type"] == "video"
+        openv = [r for r in rows if r["channel_or_publisher"] == ch and r["type"] in LONGFORM_TYPES
                  and r["status"] in OPEN_STATUSES and not FLAG_RE.search(r.get("notes", ""))]
         if openv:
             by_p = {}

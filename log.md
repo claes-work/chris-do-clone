@@ -14932,3 +14932,36 @@ read Chris's framing within them.
 particular is a significant photographer. **These are `wiki/entities/` context-page candidates**, and
 the observation stands on its own: opening streams did not just add sources, it revealed **who he has
 been in the room with** was under-recorded.
+
+## [2026-07-29] plan | stream-queue triage — a cheap map of the 221 remaining rows
+
+**No ingests this iteration, deliberately.** Context budget was too thin to read another 20k-word
+stream honestly, so I spent it on something that makes every *later* batch cheaper: a title-level
+map of the remaining stream queue.
+
+| Class | Rows | What it implies for ingest |
+|---|---|---|
+| **No guest marker** | **153** | Most likely Chris-led — AMAs, workshops, celebrations, After Hours. **Highest expected yield; work these first.** |
+| **Guest marker naming someone else** | **59** | Interviews. ⚠️ Guest-primary by format, **but batch 212 proved that is not a reason to close unread.** |
+| **Guest marker naming CHRIS** | **9** | ⚠️ **His own show** — see below |
+
+### ⚠️ My own heuristic produced a false positive, and the fix is the useful part
+
+A naive `w/|with|ft.` filter flagged **"YouTube Live AMA … w/Chris Do"** and **"AMA with Chris Do"**
+as guest content. **They are the opposite** — the `w/` names *him*, marking a cross-posted or
+syndicated AMA where **he is the featured speaker.** Nine rows match this shape.
+
+📌 **The marker means "featuring", not "hosted by someone else"** — its meaning inverts depending on
+whose name follows. **Treating the 9 as guest content would have buried nine Chris-fronted AMAs**,
+the exact error class that hid 235 streams behind a `type` filter and mischaracterised Jodie Cook as
+a guest. **A pattern that classifies by shape and ignores the value inside it will keep doing this.**
+
+### Recommended order for the next session
+
+1. **The 9 `w/Chris Do` AMAs** — his own material, mislabelled by shape, cheapest correction
+2. **The 153 unmarked rows** — likely Chris-led; AMAs and workshops
+3. **The 59 guest interviews** — read for *his framing*, not the guest's; 3 of the 4 sampled so far
+   introduced guests **absent from the corpus entirely**
+
+⚠️ **This is a title-level map, not a content classification.** Titles have been unreliable all run;
+it orders the work, it does not decide any row.

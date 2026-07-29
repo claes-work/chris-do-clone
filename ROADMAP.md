@@ -38,12 +38,23 @@ chapter (source page per chapter, framework pages in topics/), per-book synthesi
 voice/beliefs updates with verbatim quote banks, system-prompt recompile per book.
 *Needs from user: the texts (purchased copies dropped into `raw/books/`).*
 
-## Phase 3 — Video corpus (the bulk)
+## Phase 3 — Video corpus (the bulk) — _substantially done; streams remain_
 Drain the ledger by priority via the ingest loop (`/loop /ingest-loop`, or the Codex/Pi
 opener in `tools/INGEST.md`): P1 landmark → P2 long-form → P3 guest content (with
 attribution pass) → shorts dedup. Checkpoint synthesis every ~10 batches / channel
 boundary. A small watched-video sample (~10–20 across years) grounds
 `persona/appearance.md` and the visual half of `voice.md`.
+
+**Status 2026-07-29 — 1,045 sources at L2.** Long-form and shorts are drained across
+@thefutur, @ChrisDo and @TheFuturAcademy. **232 livestreams remain**, opened on
+2026-07-29 after a driver fix.
+
+> ⚠️ **Lesson worth keeping — a queue can look drained because the tool cannot see it.**
+> `tools/ingest_batch.py` hard-coded `type == "video"` at three separate call sites, so
+> 235 `stream` rows were **counted nowhere and selected never**; `status` reported
+> @thefutur as complete while a book launch, business Q&As and guest sessions sat
+> untouched. Fixed by routing all three through one `LONGFORM_TYPES` constant.
+> **When a channel reports "drained", check what the residual rows ARE before believing it.**
 
 ## Phase 4 — Articles, websites, social, press
 Websites/blog, press coverage, X/Instagram/LinkedIn posts (best-effort; platform
@@ -57,7 +68,7 @@ Monthly lint. *Needs from user: consent to install schedules.*
 
 - [x] Phase 0 — Identity & infrastructure (bootstrap) — done 2026-07-14
 - [x] Phase 1 — Biography & source map (bootstrap) — done 2026-07-14
-- [ ] Phase 2 — Books & landmark documents
-- [ ] Phase 3 — Video corpus
+- [ ] Phase 2 — Books & landmark documents — ⚠️ *Unbland* launch ingested (L2, L3 owed); book TEXTS still needed from user
+- [~] Phase 3 — Video corpus — long-form + shorts DONE (1,045 L2); **232 streams open**
 - [ ] Phase 4 — Articles & social
 - [ ] Phase 5 — Automation

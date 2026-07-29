@@ -14892,3 +14892,43 @@ the citation rule exists to prevent. It survived one day because nothing else re
 📌 **Two of six were Chris appearing on OTHER people's shows.** The stream type mixes his own
 broadcasts with syndicated guest slots, so **"it is on @thefutur" says even less about authorship
 here than it did for shorts.**
+
+## [2026-07-29] ingest | yt stream batch 276 (@thefutur, 6 triaged, 0 ingested, 4 DEFERRED)
+
+**6 rows · 0 ingested · 1 closed · 4 deferred · 1 members-only.** Open 221 → **219**.
+
+### The one solo row, closed
+
+`yt-1OVPyH3K4G0` — *How To Grow Your Video Business*, a whiteboard session with Mo as the live case
+study. Its thesis — *"**help your clients increase their business and you will grow**"* — is a
+compression of the outcome-over-deliverable doctrine already held (`outcome/deliverable` **4**,
+`x-factor` **3** in topics/persona). **Fresh formulation of a recorded belief = voice datum**, the
+rule applied consistently since batch 246. Closed.
+
+### ⚠️ Four rows DEFERRED, not closed — and the distinction is deliberate
+
+Four guest interviews: **AJ Cassata · Tom Ross · Apostolos Roussas · Jill Greenberg**, 8k–21k words
+each.
+
+**The lazy call would be `guest-primary` on the strength of the "w/ <name>" titles.** I did not make
+it, for two reasons:
+
+1. ⚠️ **Batch 212 of this run established that guest-dominated ≠ low-yield.** I deferred the Morgan
+   Jay interview on exactly that reasoning and it turned out to contain the stacking argument. **A
+   title is not a speaker attribution** — the through-line of this entire run.
+2. ⚠️ **I do not currently have the context budget to read ~60,000 words honestly.** Closing them
+   would convert "I did not read this" into "there was nothing here", which is the specific
+   misreport I have refused all run.
+
+**Marked `L1` with the reason on each row**, naming the guest and flagging that a later session must
+read Chris's framing within them.
+
+### 📌 A finding that needed zero ingests
+
+**Three of the four guests are entirely absent from the corpus** — `aj cassata` **0** ·
+`jill greenberg` **0** · `apostolos|roussas` **0** (only Tom Ross, **7**, is known).
+
+✅ **The stream tier carries a guest roster the video tier never surfaced.** Jill Greenberg in
+particular is a significant photographer. **These are `wiki/entities/` context-page candidates**, and
+the observation stands on its own: opening streams did not just add sources, it revealed **who he has
+been in the room with** was under-recorded.

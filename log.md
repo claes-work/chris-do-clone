@@ -15020,3 +15020,47 @@ earlier in this run.
 
 ⚠️ **Both streams SAMPLED, not read end to end** (14.8k and 17.0k words); the confrontation segments
 were read closely and the pages say which parts were not.
+
+## [2026-07-30] ingest | yt stream batch 278 (@thefutur, 4 triaged, 1 ingested) — ⭐ streams supply PARENTS for shorts closed blind
+
+Continued through the Chris-named AMA rows. **4 rows · 1 ingested · 2 closed · 1 members-only.**
+Open 217 → **214**.
+
+### ⭐ The structural finding: this stream is the PARENT of shorts I closed months of batches ago
+
+`yt-ot8GVe3m5w0` (2017-06-23) is a **first-meeting prep deck**: have a goal for the meeting · discover
+a problem you can actually solve · *101 Things I Learned in Business School* (Preis & Frederick) ·
+*"a good salesperson **first seeks to understand the true nature of a customer's problem** and only
+then offers a solution"* · **talk a customer out of a wrong purchase to earn trust** · establish
+rapport.
+
+⚠️ **Every one of those is already in the corpus** — so as content it is a duplicate. **But two shorts
+I closed in batch 263 as bare `dup-of:corpus` are recuts of THIS stream:**
+
+| Short | Was | Now |
+|---|---|---|
+| `yt-Nmj788nwr0Q` *Here's What A Good Sales Person Does* | `dup-of:corpus` | **`dup-of:yt-ot8GVe3m5w0`** |
+| `yt-RY45y0645tg` *How To Become Great At Sales* | `dup-of:corpus` | **`dup-of:yt-ot8GVe3m5w0`** |
+
+📌 **`dup-of:corpus` was the honest answer at the time and a weaker one than the ledger deserves.**
+I used it throughout the shorts sweep precisely when I could establish that doctrine existed but
+could **not** name a specific parent — and now I know why that kept happening: **the parents were
+livestreams, and livestreams were invisible to the pipeline.** Both rows upgraded to a named parent
+with the reason recorded.
+
+✅ **This is a compounding benefit of the scope change that I did not anticipate**: every stream
+ingested can retroactively resolve provenance for shorts already closed. Worth watching for
+deliberately rather than noticing by luck.
+
+⚠️ **Filed the stream at L2 with its duplicate status stated plainly** — it earns a page as a
+*provenance anchor*, not as new doctrine, and the page note says so.
+
+### The two closed AMAs
+
+- `yt-_YuYqg3BJVs` (2017-12-15) — open AMA plus a **Photoshop demo**; asset libraries and the Spot
+  Healing Brush are **tooling, not persona material.**
+- `yt-pa4u8KwpO0k` (2017-10-26, 20.9k words) — open business AMA, **question-led with no prepared
+  framework.** Sampled; the freelance-business ground it covers is saturated. ⚠️ Closed rather than
+  deferred **because the format itself is the reason** — an unstructured Q&A with no deck offers no
+  anchor to check against, unlike the four guest interviews I deferred in batch 276, which have
+  identifiable interlocutors and framing worth reading.

@@ -15725,3 +15725,30 @@ near-misses, but with higher stakes because it concerns a named person's role in
 
 📌 **The pattern is usable without the name**, which is why the page exists rather than being deferred —
 and the promotion note says to word it so it stands **without** an identification.
+
+## [2026-07-30] ingest | yt stream batch 292 (@thefutur, 8 triaged, 0 ingested)
+
+**8 rows · 0 ingested · 8 closed.** Open 134 → **126**. Both sweeps clean.
+
+**One candidate assessed properly and still closed.** `yt-rcNMyrt2nvg`:
+
+> *"If I'm being totally honest about my technical abilities — **99% of the stuff I learned from Googling
+> or asking someone else. THEY taught me, I didn't figure that out. I am not that smart.**"*
+
+⚠️ **Tempting**, because the three existing `not that smart` hits are about **other people** (*"they're
+not that smart"*), not himself. **But the disposition is held**: `googl` **78** · `hyper-learner` **6** —
+the corpus already records him as a learner-by-asking who reframes himself from designer to
+*"hyper-learner"*. **A sharper self-deprecating phrasing of a documented disposition is a voice datum, not
+a new belief.**
+
+📌 **That is now the eighth time this run I have applied that rule.** Recording the count because
+consistency is the only thing that makes it a rule rather than a mood — and because **the alternative
+(promoting every crisper restatement) is how a persona file doubles in length while saying nothing more.**
+⚠️ **The quote is preserved on the ledger row**, so a future voice pass can find it without re-reading the
+stream.
+
+Also closed: a **2019 Gary Vaynerchuk interview** — `gary vee` already on **43** pages and his answers are
+his; a Hoodzpah freelance interview; a creative-director steps stream (guest); product-launch, lead-gen
+and biz-dev streams (saturated).
+
+📌 **Stream tally: 19 batches · 15 ingests · 126 open.**

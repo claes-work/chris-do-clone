@@ -28,6 +28,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2014-09-17 | ★ [Overcoming Client Objections](2014-09-17-yt-OuOL8xQGpyE.md) | sales-clients; business | seed of objection-handling (price→value pivot); Skool-era |
 | 2014-09-17 | [Why Social Media Matters to Designers](2014-09-17-yt-KadIcPiw9lU.md) | content-strategy; business | early (2014) positions; platform specifics dated |
 | 2014-09-30 | ★ [Confidence, Culture & Money](2014-09-30-yt-KDlAjE-2JQM.md) | mindset; business | early money-mindset root; guest Rocio (context) |
+| 2014-11-11 | ★★★★★ [How To Design Brand Identity Stylescapes](2014-11-11-yt-lGmPCutgI2o.md) | design-craft; branding | livestream; ⚠️⚠️ **DISCLAIMS INVENTION of a signature method** — *"there's something called **style tiles**… **I learned this from HENRY MINH, and he got it from DIGITAS.** You just got to give reference to where you got it — **I DIDN'T INVENT IT**"*; `style tiles`/`digitas`/the name all **0**; `branding.md` **Framework 22** carries stylescapes with **no provenance**; name unverified → gaps.md; SAMPLED |
 | 2015-01-28 | [New Agency Model — w/ Sue Parker](2015-01-28-yt-vfSLpMCUffA.md) | business | guest (Parker = context); 3 Chris quotes |
 | 2015-02-11 | [Social Media to Grow Business — w/ Mark Fidelman](2015-02-11-yt-ItvgJ3o5CS0.md) | content-strategy; business | guest (Fidelman = context); early positions |
 | 2015-03-24 | ★ [Trojan Storage — Branding Case Study](2015-03-24-yt-FYHD1fBKZDk.md) | branding; design-craft; business | end-to-end client identity workflow (CORE/stylescapes); L3-candidate |
@@ -1090,4 +1091,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-07-26 | ★ [Art of Being You](2026-07-26-yt-arFD056cke4.md) | mindset; branding | short; ⏳ **FRESHEST SOURCE IN THE CORPUS** — **adulting as recovery, not attainment** ("the person you always were… stripped away by socialization"); the lone-wolf conformity argument (🗣️ his reasoning, not science); authenticity → presence; ⚠️ reconcile with mindset §106 before promoting; L3-candidate |
 
 ---
-_1068 videos ingested (L2) so far._
+_1069 videos ingested (L2) so far._

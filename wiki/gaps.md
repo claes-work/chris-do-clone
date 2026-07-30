@@ -91,4 +91,13 @@ that was missing) and by lint passes. Each entry: date noticed, what was missing
   marketing activities"*). **Not recorded as Chris's.** If a later source shows he uses this framework
   himself, it becomes a real addition; on this evidence it is the guest's toolkit.
 
+- ⚠️ **Stylescape provenance — an unverified name and an unidentified upstream artefact.** (found 2026-07-30,
+  stream batch 307) In [[wiki/sources/2014-11-11-yt-lGmPCutgI2o]] Chris says of stylescapes: *"**I learned this
+  from HENRY MINH, and he got it from DIGITAS. You just got to give reference to where you got it — I didn't
+  invent it.**"* ⚠️ **Three things need resolving:** (1) the **spelling of "Henry Minh"** (caption rendering;
+  may be *Ming*/*Min*) — ⚠️ **do NOT conflate with Henry Kaminsky**, already on 12 pages with a different
+  surname; (2) **what Digitas' original artefact was**; (3) the relationship to **"style tiles"**, which he
+  names as near-identical prior art and which returns **0** corpus-wide. 📌 Until resolved,
+  `branding.md` Framework 22 should carry the chain **as he states it**, with the name marked unverified.
+
 ## Resolved

@@ -16213,3 +16213,56 @@ attributed on this source.** That is now the third unnamed-coach line I have dec
 **synthesis pass is well overdue** — passes 24–28 covered through batch 281, and batches 282–306 have produced
 **8 ingests** including the criticism method's motive, three therapy-traced habits, the paternal maxim, two
 re-datings and an attribution repair. **Next iteration: finish the streams, then Stage S.**
+
+## [2026-07-30] ingest | yt stream batch 307 — ⭐ STREAM TIER DRAINED, and the strongest attribution finding of the run
+
+**10 rows · 1 ingested · 9 closed.** ⭐ **`OPEN long-form rows` is now EMPTY.** L2 = **1069**.
+Set-check clean.
+
+### ⚠️⚠️ He disclaims inventing one of his most identifiable methods
+
+[[wiki/sources/2014-11-11-yt-lGmPCutgI2o]] — from **2014**, among the oldest sources in the corpus:
+
+> ★★★★★ *"There's something called **STYLE TILES**, which you can also research — it's very similar, pretty
+> much almost the same thing, and **we make ours a little bit more artfully.** **I LEARNED THIS FROM HENRY
+> MINH, AND HE GOT IT FROM DIGITAS.** **You just got to give reference to where you got it — I DIDN'T INVENT
+> IT.**"*
+
+| Element | In corpus |
+|---|---|
+| **style tiles** (prior art) | **0** |
+| **"Henry Minh"** (who taught him) | **0** |
+| **Digitas** (upstream source) | **0** |
+| *"we make ours more artfully"* (his contribution) | ✅ the only part recorded |
+
+⚠️⚠️ **`branding.md` carries stylescapes as Framework 22 with no provenance at all.** ⚠️ **This is a more
+serious exposure than the Richard St. John repair** — stylescapes are far more central to how a clone would
+present him, and **the earliest source we hold has him naming prior art, naming his teacher, naming the
+upstream agency, and saying *"I didn't invent it."***
+
+📌 **And the quote contains its own instruction:** *"**you just got to give reference to where you got it.**"*
+**He is prescribing the crediting practice the hub currently fails.** ⚠️ The corpus is not wrong that he
+refined and popularised the artefact — **it is missing that he says he did not originate it.**
+
+⚠️ **Three things I could not verify, all logged in [[wiki/gaps.md]]:** the spelling of *"Henry Minh"* (caption
+rendering; ⚠️ **not** Henry Kaminsky, already on 12 pages with a different surname), what Digitas' original
+artefact was, and the exact relationship to style tiles.
+
+### ⭐ Tier complete
+
+**The 235 @thefutur livestreams — invisible to the pipeline until the type filter was widened on 2026-07-29 —
+are now fully triaged in 34 batches.**
+
+| | |
+|---|---|
+| Streams triaged | **235** |
+| Ingested | **23** |
+| members-only / guest-primary / saturated | the remainder |
+| **New doctrine** | ~5 items |
+| **Provenance repairs & re-datings** | **~10**, including two that corrected material already in the wiki |
+
+📌 **The tier's value was never doctrine — it was provenance**, and this last batch is the clearest case:
+**a signature framework the corpus was quietly presenting as his own invention.**
+
+⚠️ **Next: Stage S.** Batches 282–307 have produced **9 ingests** and are unsynthesised; passes 24–28 covered
+only through batch 281.

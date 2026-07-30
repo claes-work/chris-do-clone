@@ -15150,3 +15150,49 @@ the reminder.
 
 ⏳ Noted in passing: a **COVID-era artefact** — recorded while the CARES Act was *"waiting for the
 president's signature."*
+
+## [2026-07-30] lint | ⚠️ I repeated my own documented failure — plus an attribution sweep that paid off
+
+### ⚠️ First, the error: L2 with no page. Again.
+
+Routine check: `L2 = 1053` but `files = 1052`. **`yt-ot8GVe3m5w0` had been set to `L2` in batch 278
+with no source page written.**
+
+⚠️ **This is precisely the defect I audited and repaired on 2026-07-28** — and I reintroduced it
+**two batches later**, in the same session, having written the log entry describing it. The batch-278
+entry even says the row *"earns a page as a provenance anchor"*. **I set the status and did not write
+the page.**
+
+📌 **The lesson is not "be careful."** It is that **my bookkeeping is ordered wrongly**: I set the
+ledger status *while triaging*, then write pages afterwards, so any interruption between the two
+leaves exactly this footprint. **Set status only after the page exists** — and the set-difference
+check (not the count check) is the only thing that catches it, which is why it now runs every batch.
+
+**Repaired:** [[wiki/sources/2017-06-23-yt-ot8GVe3m5w0]] written as the provenance anchor it was
+meant to be, index row added, footer 1052 → **1053**. Verified:
+
+```
+L2: 1053  files: 1053  |  L2-no-file: []  |  file-not-L2: []
+```
+
+### ⭐ Then the productive half: an attribution sweep on already-fetched transcripts
+
+Acting on the batch-280 observation that **streams carry citations the edited uploads drop**, I
+grepped the stream transcripts already in `raw/` for attribution markers (*"his book"*, *"developed
+by"*, *"I got this from"*, *"according to"*) instead of fetching anything new. **Cost: near zero.**
+
+⭐ **It found the cause of a finding I had already published.** My own batch-275 page recorded the
+Shorts pivot's *result* (17,000 subscribers in a day) and **missed who prompted it**:
+
+> ★★★★★ *"It wasn't the idea of sitting there thinking *let's take advantage of Shorts* — **it was
+> actually during a conversation with a fellow YouTube creator… his name is BRIAN ELLIOTT and he has a
+> YouTube channel called BEHIND THE BRAND** — and **I have to tip my hat towards him**, because after we
+> finish talking about his book he says: *Chris, you really need to take advantage of Shorts.*"*
+
+`brian elliott` returned **0**. ⚠️ **The corpus recorded the channel's largest documented growth event
+as a strategy; it was advice he accepted and credited.** The page is amended **with a visible note that
+it originally missed this**, not silently patched — and Brian Elliott is flagged as an entity candidate.
+
+📌 **Both halves of this entry come from the same root cause: sampling.** I read the sections a title
+points at and miss what sits three paragraphs away. **The sweep is the cheap countermeasure** — it does
+not require reading 20k words, only searching them for the one thing streams are unusually rich in.

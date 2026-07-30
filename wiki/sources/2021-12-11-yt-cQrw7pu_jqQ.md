@@ -21,6 +21,30 @@ that **independently corroborates the recorded birth year**.
 
 ## ★★★★ Chris-attributed material
 
+### ⭐ WHO told him to do it — added 2026-07-30
+
+> ⚠️ **This page originally recorded the RESULT and missed the CAUSE.** Found on a later attribution
+> sweep of the same transcript; the passage sits outside the section I read closely when this page was
+> first written from a sample. **Recorded here rather than quietly patched.**
+
+> ★★★★★ *"[It wasn't] the idea of sitting there thinking **man, let's take advantage of Shorts** — it
+> wasn't that at all. **It was actually during a conversation with a fellow YouTube creator.** We were
+> talking about his book — **his name is BRIAN ELLIOTT and he has a YouTube channel called BEHIND THE
+> BRAND** — and **I have to tip my hat towards him**, because after we finish talking about his book he
+> says: *Chris, you know you really need to take advantage of Shorts.* I'm like: **um, what do I need to
+> do?**"*
+
+> ★★★★ *"Brian tells me that some other people have had success and he thinks **the kind of things that
+> we do are ideally suited for Shorts.** So here's where **I love the YouTube creator community** — are
+> we in competition with [each other]…"*
+
+✅ **`brian elliott` returns 0 across the corpus.** The Shorts pivot — the single largest documented
+growth event on the channel — **was someone else's suggestion, and Chris credits him by name and
+channel.** ⚠️ The corpus recorded the outcome as a strategy; **it was advice he accepted.**
+
+📌 **Entity/influence candidate**: **Brian Elliott** (*Behind the Brand*). Note the framing he attaches
+— peer creators as collaborators rather than competitors.
+
 ### ★★★★★ Shorts as the growth mechanism — with a measured result
 
 > ★★★★★ *"Something that's been really incredible: **the use of Shorts in accelerating, propelling the

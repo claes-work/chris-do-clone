@@ -167,6 +167,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2017-08-06 | ★ [How To Respond When Clients Say You're Too Expensive (Role Play)](2017-08-06-yt-FcyIGgFELGw.md) | pricing; sales-clients | objection playbook: anchor, hold floor, calm walk-away; L3-candidate |
 | 2017-08-07 | [Design Portfolio Examples — Art Center (Blind Hiring)](2017-08-07-yt-G06ljt6JGAo.md) | design-craft; branding | body-typography as #1 hiring criterion + cultural fit |
 | 2017-08-09 | ★ [How To Get Work On Behance (Ep.8)](2017-08-09-yt-5S7n-OODN2A.md) | content-strategy; business | portfolio-platform case study, measurable leads; Melinda=context; L3-candidate |
+| 2017-08-10 | ★★★ [Finding Your Passion — How To Discover Work You Love](2017-08-10-yt-aCFDG3ubqW4.md) | mindset | livestream; ⭐ ***"I'm a constant improver — that's what MY THERAPIST told me"*** — the corpus held this label only from **a team member via Myers-Briggs** (2019-06-12, marked not-his-voice); ⚠️ **two stated origins, flagged**; **second therapist-given label** after "caretaker"; post-mortems after every call/pitch/meeting; SAMPLED |
 | 2017-08-15 | ★ [Logo Ideation & Brainstorming — Life At Blind Ep.2](2017-08-15-yt-AiAZAuvO2sY.md) | design-craft; branding | logo ideation method (quantity, draw-don't-think, combine+simplify); team=context; L3-candidate |
 | 2017-08-16 | [My First Motion Design Portfolio — Greg Gunn](2017-08-16-yt-NFNTtSzuGvw.md) | design-craft | CONTEXT: Greg Gunn's portfolio; Chris hosts (teaching subsection separated) |
 | 2017-08-22 | [Meet Storyboard Artist Tristyn Pease](2017-08-22-yt-lg28bG9xvks.md) | business; content-strategy | CONTEXT: Tristyn Pease profile; Chris interviewer minimal |
@@ -1088,4 +1089,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-07-26 | ★ [Art of Being You](2026-07-26-yt-arFD056cke4.md) | mindset; branding | short; ⏳ **FRESHEST SOURCE IN THE CORPUS** — **adulting as recovery, not attainment** ("the person you always were… stripped away by socialization"); the lone-wolf conformity argument (🗣️ his reasoning, not science); authenticity → presence; ⚠️ reconcile with mindset §106 before promoting; L3-candidate |
 
 ---
-_1066 videos ingested (L2) so far._
+_1067 videos ingested (L2) so far._

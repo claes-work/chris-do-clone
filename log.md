@@ -16121,3 +16121,38 @@ possessive it caught even inside a single speaker's story.** Third distinct way 
 (guest speaker · guest's own book · a third party quoted by the subject).
 
 📌 **Stream tally: 30 batches · 20 ingests · 38 open.**
+
+## [2026-07-30] ingest | yt stream batch 304 (@thefutur, 8 triaged, 1 ingested)
+
+**8 rows · 1 ingested · 7 closed.** Open 38 → **30**. L2 = **1067**. Set-check clean.
+
+### ⭐ A self-label re-sourced from an instrument to a person
+
+[[wiki/sources/2017-08-10-yt-aCFDG3ubqW4]]:
+
+> ★★★★★ *"I'm **a constant improver** — **that's what MY THERAPIST told me.** I'm always looking for ways to
+> improve: improve the broadcast, improve the lighting."*
+
+⚠️ **What the corpus held.** `constant improver` returns **3**, and the load-bearing one is a **team member**
+in 2019 — explicitly marked *"context, not Chris's own voice"* — deriving it from a personality test:
+*"Chris is an **INTJ on the Myers-Briggs scale**… that means he's a constant improver."*
+
+| | Source of the label |
+|---|---|
+| **2019-06-12** | a colleague, via **Myers-Briggs** |
+| **2017-08-10 (this)** | ⭐ **Chris himself, via his therapist** — and **two years earlier** |
+
+⚠️ **Not necessarily a contradiction** — a therapist could have administered the instrument. **But the corpus
+should stop presenting an MBTI derivation as the origin** when the subject attributes it to a person, earlier
+and in his own voice. **Flagged on both pages, neither deleted.**
+
+✅ **This is the second therapist-given LABEL**, after *"you're a caretaker"*. ⚠️ **Recorded as a pattern in how
+he describes his own self-knowledge** — a noticeable share of his self-vocabulary is quoted from her — **and
+explicitly not as a theory about the therapy.** Two labels do not license one.
+
+Also kept: **post-mortems enumerated** as standing practice (*"after the call, after the pitch, after a
+meeting"* — the habit was known at **7** hits, the enumeration was not), and the drive stated as **fear**
+rather than ambition: *"the scariest thing to me is to look back on my life in one year and be the same
+person."*
+
+📌 **Stream tally: 31 batches · 21 ingests · 30 open** — roughly four batches from draining the tier.

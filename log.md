@@ -16185,3 +16185,31 @@ Also closed: price-objection and sales AMAs, a logo-winner announcement, a desig
 evening event, a studio year-one recap, and a *Win Without Pitching* reference (Enns saturated).
 
 📌 **Stream tally: 32 batches · 21 ingests · 22 open** — about three batches left.
+
+## [2026-07-30] ingest | yt stream batch 306 (@thefutur, 9 triaged, 1 ingested)
+
+**9 rows · 1 ingested · 8 closed.** Open 22 → **12**. L2 = **1068**. Set-check clean.
+
+### ★★★★ Attitude as a permission threshold, not a vice
+
+[[wiki/sources/2017-05-06-yt-1KjMCOQFMuM]]:
+
+> ★★★★ *"**My coach would say: YOU'RE NOT GOOD ENOUGH TO THROW ATTITUDE.** If you're a **Picasso** you can
+> throw attitude. If you're **David Fincher** you can throw attitude. **But short of being them, don't throw
+> attitude.**"*
+
+✅ **Note the structure.** Attitude is not framed as a character failing — it is **unaffordable at his level**,
+and two people are named who *can* afford it. ⚠️ **That sits oddly beside the entitlement material the corpus
+carries**, which treats attitude as a vice. **Recorded as a distinct angle rather than merged into it** —
+"you haven't earned this yet" and "this is wrong" are different claims.
+
+⏳ **And he places himself below the bar, in 2017:** *"I know what I'm capable of, so it's worth something —
+**but I'm not to that point where I feel like the clients are doing me a favour.**"*
+
+⚠️ **Coach unnamed again** — the habitual *"would say"* fits the documented McLaren relationship, and **is not
+attributed on this source.** That is now the third unnamed-coach line I have declined to attach.
+
+📌 **Stream tally: 33 batches · 22 ingests · 12 open.** ⚠️ **One more batch drains the tier**, and a
+**synthesis pass is well overdue** — passes 24–28 covered through batch 281, and batches 282–306 have produced
+**8 ingests** including the criticism method's motive, three therapy-traced habits, the paternal maxim, two
+re-datings and an attribution repair. **Next iteration: finish the streams, then Stage S.**

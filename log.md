@@ -15668,3 +15668,23 @@ like: I submit"*), and **he corrects clients with questions** (the saturated dia
 doctrine). ⚠️ **Three instances across two people and one practice is suggestive, not established** — I am
 recording the observation on the pages and **not** writing a tidy "he learned Socratic method from his
 coach and therapist" story the sources do not support.
+
+## [2026-07-30] ingest | yt stream batch 290 (@thefutur, 8 triaged, 0 ingested)
+
+**8 rows · 0 ingested · 8 closed.** Open 150 → **142**. Both sweeps clean.
+
+A flat batch: three *Design From Scratch* Q&A episodes, a live Procreate painting session, a logo-making
+stream, an inbound-marketing stream. **The sweeps returned nothing Chris-attributable.**
+
+**One marker checked and closed:** `yt-JTi3nJAvzRs` is **Blair Enns describing writing his own book** —
+*"when I started writing this book it was all about what happens in my brain when I sit down to price a
+project… **I'm a big systems guy**, and I tried to systemize my own mental process."* Enns is the corpus's
+most-attested influence (~45 pages) and this is his own work.
+
+⚠️ **One line I noted on the ledger row rather than promoting:** Enns tells Chris *"**you're in the same
+boat, Chris — you don't have to do the worksheets in this book to know what to price.**"* That is an
+external professional's read of **Chris pricing intuitively rather than by system** — mildly interesting,
+but **it is Enns's opinion about Chris, not Chris's material**, and the persona trains only on
+subject-attributed content. **Recorded where a future reader will find it; not promoted.**
+
+📌 **Stream tally: 17 batches · 13 ingests · 142 open.**

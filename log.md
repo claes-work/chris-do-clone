@@ -15451,3 +15451,27 @@ education panel (his critique is saturated) · a client role-play (saturated).
 
 📌 **Stream tally: 11 ingests, still zero new doctrine** — and now **one Phase-2 partial**, two timeline
 anchors, four attribution repairs, two named shorts-parents.
+
+## [2026-07-30] ingest | yt stream batch 285 (@thefutur, 7 triaged, 0 ingested)
+
+**7 rows · 0 ingested · 7 closed guest-primary.** Open 189 → **182**.
+
+**All seven are guest interviews**, and the provenance sweep returned **only the guests' own books and
+mentors**: *Run Studio Run* (Eli Altman) · *Perfectly Hidden Depression* (Dr. Margaret Rutherford) ·
+Nicole LePera on holistic psychology · Fabian Geyrhalter's brand test · Brett Brown on branding.
+
+📌 **This is what a genuinely empty batch looks like under the sweep, and it is worth one line rather
+than a page of hedging.** Every marker resolved to *"the guest describing their own work"* — which is
+the expected outcome for a run of interview-format streams, not a failure of the method.
+
+⚠️ **One thing I checked before closing rather than after:** whether any guest name was **absent from
+the corpus AND carrying material Chris uses.** Results — `brett brown` **0** · `eli altman` **1** ·
+`nicole lepera` **2** · `henry kaminsky` **5** · `fabian geyrhalter` **6**. **Brett Brown is absent, and
+that is fine**: absence is only interesting when the corpus *uses* someone's framework without crediting
+them, which is the Richard St. John case. **Here the frameworks stay with their owners.**
+
+📌 **Running stream tally: 12 batches, 11 ingests, 182 rows left.** The doctrine yield remains **zero**
+and the provenance yield is slowing — the guest-interview stretch of the queue is thin by construction.
+Continuing because the sweep costs one command per batch, but ⚠️ **if the next two batches also return
+nothing, that is the point to say the tier is exhausted for practical purposes rather than keep grinding
+the remaining ~180.**

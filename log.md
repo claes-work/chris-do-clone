@@ -15064,3 +15064,44 @@ deliberately rather than noticing by luck.
   deferred **because the format itself is the reason** — an unstructured Q&A with no deck offers no
   anchor to check against, unlike the four guest interviews I deferred in batch 276, which have
   identifiable interlocutors and framing worth reading.
+
+## [2026-07-30] ingest | yt stream batch 279 (@thefutur, 5 triaged, 1 ingested) — the Chris-named AMA rows are done
+
+**5 rows · 1 ingested · 3 closed · 1 members-only.** Open 214 → **209**. L2 = **1051**.
+**The 11 Chris-named stream rows from the 2026-07-29 triage are now fully worked.**
+
+### ⭐ Why the one ingest earns its page: attribution, not doctrine
+
+[[wiki/sources/2017-06-15-yt-9lq8gs3CYfk]] is **mostly duplicate**. It is kept for one narrow reason:
+
+> ★★★★ *"We have a framework… **it's called CORE, and it was something that JOSE CABALLER
+> developed.**"*
+
+⚠️ [[wiki/entities/jose-caballer]] already credits Caballer as CORE's creator — **but sources it to
+Caballer's own Medium post**, marked self-reported. **This is the same attribution from the SUBJECT's
+mouth, on air, in 2017.** For a clone whose hard rule is not to mis-credit other people's frameworks,
+subject-voiced corroboration is a materially better class of evidence than the beneficiary's own claim.
+
+Also kept: ★★★ **concrete Blind culture practices** — *"a very family-oriented structure… lunches
+together, bowling, the park and a barbecue… we want to make sure the place **feels SAFE to make
+mistakes**."* `topics/business` §9 holds the culture *principle* (hire and fire on values) and the
+failure case; it did not hold the day-to-day.
+
+⚠️ **Deliberately NOT promoted:** *"a lot of you sell **making** — what I sell is **the process of
+figuring out what the heck we're going to do**."* `sell the process of figuring` returns **0**, but
+`charge to think / paid to think` returns **15**. **A sharper phrasing of held doctrine is a voice
+datum** — the seventh time this run I have made that call the same way.
+
+### Three closed
+
+| Row | Reason |
+|---|---|
+| **Aaron Draplin / DDC** (2018-02-15) | guest-primary — Chris hosts and introduces; `draplin` already on **26** pages |
+| Live main-title design critique w/ Ben Burns (2017-02-18) | craft demo; the critique doctrine is held |
+| Viewer-question AMA (2017-06-09) | open format, no prepared framework to anchor against |
+
+📌 **Pattern across batches 277–279, worth stating:** the Chris-named rows split cleanly into
+**prepared segments** (a deck, a framework, a confrontation) which yielded every single find, and
+**open Q&A** which yielded none. **The presence of structure, not the presence of Chris, predicted
+value.** That is the heuristic I will carry into the 153 unmarked rows next — look for a deck or a
+premise, not just for his voice.

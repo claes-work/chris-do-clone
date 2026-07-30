@@ -144,6 +144,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2017-06-09 | ★ [Stop Selling. Start Closing. (Win Without Pitching)](2017-06-09-yt-cHveCGDZfhQ.md) | sales-clients; business | Whisper-vs-Scream; consultative closing; L3-candidate |
 | 2017-06-13 | ★ [Surface Unspoken Objections — Defeat Pt.4 (conclusion)](2017-06-13-yt-b7dQXL-3jj8.md) | sales-clients; mindset; business | surface-unspoken-objections; diagnose-don't-prescribe; least-risky-option; L3-candidate |
 | 2017-06-14 | ★ [Win More Clients — Build Empathy to Earn Trust](2017-06-14-yt-1oKyG0JD1do.md) | sales-clients; mindset; business | haircut analogy; start-empty-and-listen; L3-candidate |
+| 2017-06-15 | ★ [What is Strategy and How Do You Sell It? — AMA](2017-06-15-yt-9lq8gs3CYfk.md) | sales-clients; business; branding | livestream; ⭐ **CHRIS crediting the CORE framework to Jose Caballer on air** — the entities page had this only from Caballer's own post; the three CORE exercises; ★★★ concrete Blind culture practices (lunches, bowling, "safe to make mistakes"); ⚠️ CORE is NOT his; 14.7k words, SAMPLED |
 | 2017-06-18 | ★ [How Pitching Works With Ad Agencies](2017-06-18-yt-TvpOKlrlE7o.md) | sales-clients; business | agency pitch system; anti-spec-work; saying-no; L3-candidate |
 | 2017-06-19 | [Typographic Terminology A to Z](2017-06-19-yt-WzVl_ATHUQ0.md) | design-craft | animated glossary, no speech — context |
 | 2017-06-21 | ★ [Run A Creative Business w/ Melinda Livsey](2017-06-21-yt-D8BN2YSyYkg.md) | business; sales-clients; pricing; branding; mindset | Chris coaches Livsey (context); kiss-off script + money-mindset; L3-candidate |
@@ -1072,4 +1073,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-07-26 | ★ [Art of Being You](2026-07-26-yt-arFD056cke4.md) | mindset; branding | short; ⏳ **FRESHEST SOURCE IN THE CORPUS** — **adulting as recovery, not attainment** ("the person you always were… stripped away by socialization"); the lone-wolf conformity argument (🗣️ his reasoning, not science); authenticity → presence; ⚠️ reconcile with mindset §106 before promoting; L3-candidate |
 
 ---
-_1050 videos ingested (L2) so far._
+_1051 videos ingested (L2) so far._

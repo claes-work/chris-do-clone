@@ -16100,3 +16100,24 @@ wildly different life would not have needed one.**
 📌 **Stream tally: 29 batches · 20 ingests · 46 open.** The 2017 design-critique stretch is thin by
 construction — these are craft demonstrations with guest artists, and the sweeps correctly return their
 lives, not his.
+
+## [2026-07-30] ingest | yt stream batch 303 (@thefutur, 8 triaged, 0 ingested)
+
+**8 rows · 0 ingested · 8 closed.** Open 46 → **38**.
+
+**Two candidates assessed, both closed on the corpus rather than on attribution:**
+
+1. *"The Difference Between Self Confidence & Self Esteem"* — ⚠️ already held at `mindset` **§21**, and
+   **already correctly marked *"(guest-supplied)"*** there. **The corpus was ahead of me**, including on the
+   attribution.
+2. `yt-v3NFV277d_0` — he **demands a citation in live conversation**: *"where did you learn this from? **I want
+   him to cite his source.**"* ✅ Distinctive, and an **enactment** of the cite-your-sources doctrine already
+   at `content-strategy` **§2599** plus two 2023/24 sources. **Voice datum** — the ninth application of that
+   rule this run. Quote preserved on the ledger row.
+
+⚠️ **One sweep artefact worth naming:** the marker in that row was *"my mom did when I was a kid"* — **and the
+mother belongs to the OTHER person in Chris's anecdote**, not to Chris. **The sweep cannot tell whose
+possessive it caught even inside a single speaker's story.** Third distinct way that grep has misled
+(guest speaker · guest's own book · a third party quoted by the subject).
+
+📌 **Stream tally: 30 batches · 20 ingests · 38 open.**

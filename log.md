@@ -15823,3 +15823,44 @@ him.** Adding it on shape alone is how an entity page accumulates plausible fict
 value rests on its interventions being **documented**, not inferred.
 
 📌 **Stream tally: 21 batches · 16 ingests · 110 open.**
+
+## [2026-07-30] ingest | yt stream batch 295 (@thefutur, 8 triaged, 1 ingested) — ⚠️ a dated shift in a documented pattern
+
+**8 rows · 1 ingested · 7 closed.** Open 110 → **102**. L2 = **1062**. Set-check clean.
+
+### ⏳ The request-filter is 16 months older than I recorded — and aimed at someone else
+
+[[wiki/sources/2018-11-08-yt-loqjx-dOtWc]] contains the same filter I ingested in batch 286:
+
+> ★★★★★ *"Something that **my therapist shared with me**… **when somebody says something you have to ask
+> yourself: WAS A REQUEST MADE OF ME?** So if **my son** walks in the room [saying] *I'm hungry*, **I just
+> sit there and do what I do.**"*
+
+**Dated 2018-11-08 — the earliest attestation.** The 2020-03-07 telling should no longer be treated as the
+origin.
+
+### ⚠️ But the framing differs, and I flagged it rather than smoothing it
+
+| | Who the caretaker is |
+|---|---|
+| **2018-11-08 (this source)** | ⚠️ **his wife** — *"my wife is busy being the caretaker for the family, and sometimes she can feel like taken advantage of, and rightfully so"*; **he** *"just sits there"* |
+| **2020-03-07** | ⚠️ **him** — *"my therapist… **identified I'M a caretaker**… I'm a middle child, so I'm a caretaker"* |
+
+⚠️ **Both are his own accounts, 16 months apart, assigning the role differently.** Plausible readings: the
+therapy moved from the household to him; he recognised it in himself later; or one tool describes two
+people's over-functioning. **The corpus cannot distinguish them.**
+
+📌 **What I refused to do:** smooth this into one story. The 2020 diagnosis is well documented in
+`biography` §252 with the therapist named — **this earlier framing must not be used to undercut it, nor
+erased to protect it.** ⚠️ **The tool is constant from 2018; who it is aimed at is not**, and that sequence
+is informative whichever reading turns out right.
+
+⚠️ **Family referred to generically only** (*my wife*, *my son*) — **no names recorded**, per `SUBJECT.md`.
+
+### 📌 A limit of the title heuristic, found the same batch it was adopted
+
+This row's title is *"Finding Your Style on YouTube – **Madelynn De La Rosa** Interview"* — **a guest name
+with no `w/` and no "with"**, so my title classifier passed it through as non-guest. ⚠️ **It is a guest
+interview**, and the find inside it happens to be Chris's own — **but the classifier got that right by
+luck, not by logic.** The pattern needs *"Interview"* and bare-name forms added; recorded rather than
+patched mid-batch.

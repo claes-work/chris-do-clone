@@ -324,6 +324,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-10-31 | ★ [How To Get More Clients — A Challenge To Get More Leads](2018-10-31-yt-iWDoF1pJfGY.md) | sales-clients; content-strategy; business | "reach out to 30 new people in a week" (Jim Rohn) + bigger-fish/fringe-creatives outreach taxonomy; L3-candidate |
 | 2018-11-02 | [How Do You Communicate What You Do? (1-min tip)](2018-11-02-yt-qTtEPQP6vSM.md) | branding; sales-clients; content-strategy | reframe self-description → customer value: profile customers, find pain-points you solve; Chris solo |
 | 2018-11-08 | [Manage Time Better — A Challenge to Find More Time](2018-11-08-yt-0IPDtWmYWVg.md) | mindset; business | Commute Challenge: track 2 days in 15-min increments; email=biggest time-sink; Chris solo |
+| 2018-11-08 | ★★★ [Finding Your Style on YouTube — Madelynn De La Rosa Interview](2018-11-08-yt-loqjx-dOtWc.md) | mindset | livestream; ⏳ **EARLIEST attestation of the request-filter** ("was a request made of me?"), 16 months before the 2020-03-07 telling; ⚠️ **but the framing differs** — here **his wife** is the caretaker and he "just sits there"; in 2020 the therapist identifies **him** as the caretaker. **Flagged, not resolved.** Family generic, no names; SAMPLED |
 | 2018-11-09 | ★ [How Strategy Changed My Design Business](2018-11-09-yt-yevZjd-YwUY.md) | business; sales-clients; branding | BIOGRAPHY: Blind near-collapse/reinvention (1995→$7M-peak-2007→2013-inflection→motion-to-branding, CORE from Jose Caballer, Trojan Storage/Oles); Matthew=context; L3-candidate |
 | 2018-11-09 | ★ [How Positioning Your Brand Can Increase Your Value](2018-11-09-yt-ODcdMUgsxMI.md) | branding; pricing; sales-clients | value=max-willingness-to-pay, Rolex-vs-Timex, hourly-billing=self-commoditization, become-the-go-to-person; L3-candidate |
 | 2018-11-12 | [How to Deal With a Client — Direction Changes](2018-11-12-yt-P7qZd8_gdTI.md) | sales-clients; pricing | NOT SUBJECT: Matthew Encina role-play; re-anchor-on-goals, change-order/overage; no persona data |
@@ -1083,4 +1084,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-07-26 | ★ [Art of Being You](2026-07-26-yt-arFD056cke4.md) | mindset; branding | short; ⏳ **FRESHEST SOURCE IN THE CORPUS** — **adulting as recovery, not attainment** ("the person you always were… stripped away by socialization"); the lone-wolf conformity argument (🗣️ his reasoning, not science); authenticity → presence; ⚠️ reconcile with mindset §106 before promoting; L3-candidate |
 
 ---
-_1061 videos ingested (L2) so far._
+_1062 videos ingested (L2) so far._

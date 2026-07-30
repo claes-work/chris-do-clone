@@ -15752,3 +15752,36 @@ his; a Hoodzpah freelance interview; a creative-director steps stream (guest); p
 and biz-dev streams (saturated).
 
 📌 **Stream tally: 19 batches · 15 ingests · 126 open.**
+
+## [2026-07-30] ingest | yt stream batch 293 (@thefutur, 8 triaged, 0 ingested) — ⚠️ a near-miss caught by reading the title
+
+**8 rows · 0 ingested · 8 closed.** Open 126 → **118**.
+
+### ⚠️ I nearly attributed a guest's own attribution-disclaimer to Chris
+
+The sweep flagged `yt-ykDOSPLmjAM`: *"Let's go through **the four stages of creativity**… this is actually
+**coined by the psychologist Graham Wallas. THIS IS NOT MY INTELLECTUAL PROPERTY.** I'm no psychologist,
+but **I am an avid researcher of all things to do with creativity.**"*
+
+`graham wallas` returns **0** corpus-wide. **A named framework, absent, with the speaker explicitly
+disclaiming ownership — that is the strongest attribution shape there is**, and it looked exactly like the
+Richard St. John case.
+
+⚠️ **It is Joana Galvao's.** The ledger title reads *"How To Create Habits That Inspire Creativity **w/
+Joana Galvao**"*, and the opening is Chris introducing her: *"I've invited Joanna Galvao on to the show —
+founder, CEO and art director of Gift Design Studios in Porto."* **The disclaimer, the self-description as
+an avid researcher, and the framework are all hers.**
+
+📌 **The failure was in my ORDER of operations, not my judgement.** My sweep command prints the title
+alongside the markers — **I had the `w/ Joana Galvao` on screen and read the transcript first anyway.**
+⚠️ **Check the title before reading the passage**: it is free, it is already printed, and in this corpus a
+`w/` in the title has predicted guest-authorship every time it has been tested.
+
+⚠️ **`graham wallas` staying at 0 is the correct outcome.** An absent name is only a gap when the corpus
+*uses* the framework uncredited — and it does not use this one at all.
+
+Also closed: Austin Kleon's *Show Your Work* (**22** pages), a *Power of Habit* reference inside a
+guest-led course stream (`power of habit` **0**, but the guest's), three passive-income guest streams, a
+logo-critique stream, a Young Guns learning session.
+
+📌 **Stream tally: 20 batches · 15 ingests · 118 open.**

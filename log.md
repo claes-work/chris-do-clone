@@ -16349,3 +16349,40 @@ items** — a thin return by that measure. It also produced **~10 provenance cor
 material already in the wiki, and **one of those was a signature framework the corpus was presenting as his
 invention while his earliest recorded words disclaim it.** ⚠️ **On doctrine the tier was marginal; on accuracy
 it was the most valuable work in this run.**
+
+## [2026-07-30] lint | system-prompt recompiled to v25 — a defect I had been deferring pass by pass
+
+⚠️ **This is a repair, not an improvement.** With the queue blocked on the Whisper decision I checked the one
+thing that needed no approval: **system-prompt drift.**
+
+```
+persona/system-prompt.md   compiled_from_sources: 1013      actual L2: 1069
+```
+
+And its own header states the contract: *"Rebuilt after every ingest/synthesis that **touches those
+files**."* ⚠️ **`persona/biography` was touched in passes 26, 27 and 29** — income figures, tenure figures,
+Adobe MAX 2024, the subscriber milestones, the paternal maxim. **None of it reached the compiled artefact.**
+
+📌 **Each individual "no version bump — v24 stands" was defensible; the sequence was not.** Six passes in a
+row I judged the increment too small, and the increments added up to a persona prompt **56 sources out of
+date** and missing five attribution corrections. **That is exactly how a build artefact rots — never by one
+bad decision.**
+
+### What v25 binds
+
+- ⏳ **Facts**: the \$3.25/hour wage and \$68,000 first cheque (⚠️ **explicitly not as a before/after pair**) ·
+  637K → 1M → 2.02M subscribers · Adobe MAX 2018/2023/**2024 Miami** · ⭐ his father's maxim **and** the
+  timeshare he nearly bought
+- ⚠️⚠️ **Five binding attribution corrections**: **stylescapes are not his invention** · the eight traits are
+  **Richard St. John's** · CORE is **Caballer's** · the four-priority ladder is **Enns's** · **Jodie Cook is a
+  co-host**. ⚠️ **Brian Elliott credited for the Shorts pivot** in the facts section.
+- **The six-step criticism-handling sequence**, with a ⚠️ do-not-merge against imposter syndrome
+- **The four therapist-attributed habits in his own framing**, including ⚠️ the 2018-vs-2020 caretaker
+  discrepancy left unsmoothed
+- **New tools**: the client-exit script · job-size bands and the ~\$200k threshold · attitude-as-earned ·
+  hyperbolic discounting · belief selection · information ≠ education · the four client types · **Futura as
+  the ONLY typeface preference, with an instruction not to invent others**
+
+📌 **The last item is the kind of guard a persona prompt most needs.** A clone asked *"what typefaces do you
+like?"* would otherwise confabulate plausibly — the corpus contains exactly one answer, and now so does the
+prompt.

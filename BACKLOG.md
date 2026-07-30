@@ -5,7 +5,19 @@ still open."_ This is the single human-readable checklist of all planned work. T
 `[x]` when done; keep it current after each work block. (Machine state of truth for
 sources stays in `pipeline/ledger.csv`; this file is the plain-language overview.)
 
-**Snapshot (2026-07-29):** **1,045 sources ingested (L2)**, system-prompt **v24**,
+**Snapshot (2026-07-30):** ⭐ **The livestream tier is DRAINED.** 235 streams triaged in 34 batches,
+23 ingested. **L2 = 1,069**, system-prompt **v24**, synthesis current through **pass 29**. Ledger, files and
+`youtube-index.md` reconcile **as sets** (checked every batch, not occasionally).
+
+⚠️ **EVERY SOURCE THE PIPELINE CAN REACH IS NOW PROCESSED.** Of 2,347 ledger rows: **1,069 L2 · 1,158
+skipped · 120 open — and 102 of the 120 are `no-captions`.** The rest are 14 closed-out academy-tier
+shorts and 4 dups/unavailable. **Only owner decision 2 (Whisper) can unlock more.**
+
+📌 **The stream tier's value was provenance, not doctrine** — ~5 new doctrine items against ~10 attribution
+repairs and re-datings, including **stylescapes**, which `branding.md` presented as his invention while the
+corpus's earliest source has him saying *"I didn't invent it."*
+
+**Superseded snapshot (2026-07-29):** **1,045 sources ingested (L2)**, system-prompt **v24**,
 synthesis current through pass 27. Ledger, files and `youtube-index.md` reconcile
 **as sets**, not merely as counts (verified 2026-07-28 after a lint found two
 offsetting bookkeeping errors).
@@ -32,11 +44,16 @@ call sites, so streams were counted nowhere and selected never (found log.md bat
 - [x] ~~PO-token blocker (2026-07-21)~~ — **RESOLVED.** Caption fetching has worked throughout
       the 2026-07-28/29 runs (batches 239–274). Kept visible rather than deleted so the history
       of the block stays readable.
-- [ ] **Livestreams — 232 of 235 still open** (scope opened 2026-07-29). Expect a meaningful
+- [x] ⭐ **Livestreams — DONE 2026-07-30.** All 235 triaged, **23 ingested**; a ~40% `members-only` fraction
+      and a large guest-interview fraction closed with reasons. ⚠️ **10 remain `no-captions`** and fall under
+      decision 2. *(Original entry:)* **232 of 235 still open** (scope opened 2026-07-29). Expect a meaningful
       `members-only` fraction: 2 of the first 3 were auto-skipped by the batch-199 detector.
       ⚠️ Ledger `published` is `NA` for all stream rows; **the real date comes from the caption
       fetch** (raw filename), so set `published=` when writing each page.
-- [ ] ⚠️ **OWNER DECISION 2 — 88 `no-captions` rows.** Approve Whisper transcription? 45 are
+- [ ] ⚠️ **OWNER DECISION 2 — now 102 `no-captions` rows, and THE ONLY REMAINING BLOCKER.**
+      Breakdown: **41 @thefutur long-form · 45 @thefutur shorts · 10 @thefutur streams · 5 Academy · 1 @ChrisDo.**
+      **Recommendation: the 41 long-form + 10 streams only** (~51 rows) — the 45 shorts are overwhelmingly
+      recuts on the evidence of the 800 already triaged. *(Original entry:)* **88 `no-captions` rows.** Approve Whisper transcription? 45 are
       @thefutur long-form (possibly valuable), 43 are shorts (likely recuts).
       **Recommendation: long-form only, if any.** Whisper is never run without explicit approval.
 - [x] ⚠️ **OWNER DECISION 3 — @TheFuturAcademy.** Closed out 2026-07-28: instructor-led channel

@@ -16311,3 +16311,41 @@ deliberately apart from the entitlement material.
    framing of his own conduct; **no source offers an outside account and the corpus must not manufacture one.**
 
 High-water mark: **batch 307, all channels, stream tier drained.**
+
+## [2026-07-30] lint | the reachable corpus is complete — status files refreshed, one decision left
+
+No ingest: **there is nothing left the pipeline can reach.** Full ledger audit:
+
+| | Rows |
+|---|---|
+| **L2 (ingested)** | **1,069** |
+| skipped (dup / guest / members-only / promo / no-content) | **1,158** |
+| open | **120** — ⚠️ **of which 102 are `no-captions`** |
+| remainder | 14 closed-out academy-tier shorts · 4 dups/unavailable |
+| **Total** | **2,347** |
+
+### ⚠️ Precisely what "complete" means, and what it does not
+
+✅ **Every source with usable captions, on every channel, has been triaged.** That now includes the 235
+livestreams that were invisible to the driver until 2026-07-29.
+
+⚠️ **It does NOT mean the corpus is finished.** **102 rows have no captions** and can only be opened by
+approving Whisper — **owner decision 2, and now the single remaining blocker.** Breakdown recorded in
+`BACKLOG.md`: **41 @thefutur long-form · 45 shorts · 10 streams · 5 Academy · 1 @ChrisDo.**
+
+📌 **My recommendation is narrower than the whole set**: transcribe the **41 long-form + 10 streams** (~51
+rows) and leave the 45 shorts. **On the evidence of the ~800 shorts already triaged, they are overwhelmingly
+recuts** — a 1-in-80 hit rate — and spending transcription budget on them would be the worst use of it.
+
+### Status files brought current
+
+`BACKLOG.md` and `ROADMAP.md` now record the completion boundary honestly: **Phase 3 marked complete for all
+reachable sources**, the livestream line ticked with its 23 ingests, and decision 2 restated with the exact
+row breakdown. ⚠️ **Superseded snapshots were kept, not overwritten** — the history of what was believed when
+stays readable.
+
+📌 **What the stream expansion was worth, stated plainly.** It cost 34 batches and produced **~5 new doctrine
+items** — a thin return by that measure. It also produced **~10 provenance corrections**, two of which fixed
+material already in the wiki, and **one of those was a signature framework the corpus was presenting as his
+invention while his earliest recorded words disclaim it.** ⚠️ **On doctrine the tier was marginal; on accuracy
+it was the most valuable work in this run.**

@@ -69,6 +69,6 @@ Monthly lint. *Needs from user: consent to install schedules.*
 - [x] Phase 0 — Identity & infrastructure (bootstrap) — done 2026-07-14
 - [x] Phase 1 — Biography & source map (bootstrap) — done 2026-07-14
 - [ ] Phase 2 — Books & landmark documents — ⚠️ *Unbland* launch ingested (L2, L3 owed); book TEXTS still needed from user
-- [~] Phase 3 — Video corpus — long-form + shorts DONE (1,045 L2); **232 streams open**
+- [x] Phase 3 — Video corpus — ⭐ **COMPLETE for all reachable sources 2026-07-30** (L2 **1,069**): long-form, shorts and **all 235 livestreams** triaged. ⚠️ **102 `no-captions` rows remain, blocked on Whisper approval (decision 2)** — not on work.
 - [ ] Phase 4 — Articles & social
 - [ ] Phase 5 — Automation

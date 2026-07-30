@@ -828,6 +828,30 @@ in the room, and it prefigures the 2024 customer-first value-prop chain (Framewo
 
 ### Framework 22 — Stylescapes, the fit check, and the fun↔functional sweet spot
 
+> ⚠️⚠️ **PROVENANCE — added 2026-07-30. STYLESCAPES ARE NOT HIS INVENTION, AND HE SAYS SO.**
+> The corpus's **earliest** source on the method (2014-11-11, the Skool era) has him giving a two-step
+> chain unprompted:
+>
+> ★★★★★ *"There's something called **STYLE TILES**, which you can also research — it's very similar, pretty
+> much almost the same thing, and **we make ours a little bit more artfully.** **I LEARNED THIS FROM HENRY
+> MINH, AND HE GOT IT FROM DIGITAS.** **You just got to give reference to where you got it — I DIDN'T INVENT
+> IT.**"*
+>
+> | | |
+> |---|---|
+> | Prior art he names | **style tiles** |
+> | Who taught him | ⚠️ **"Henry Minh"** — caption spelling, **unverified**; ⚠️ **NOT** [[henry-kaminsky]] |
+> | Upstream source | **Digitas** (the agency) |
+> | **His actual contribution** | *"we make ours a little bit more **artfully**"* — plus the presentation
+>   discipline documented below |
+>
+> ⚠️ **This section previously carried the method with no provenance at all.** He refined the artefact and
+> built the presentation protocol around it; **he did not originate it**, and the instruction inside his own
+> quote — *"you just got to give reference to where you got it"* — is the standard this hub was failing.
+> ⚠️ Open questions logged in [[../../gaps|gaps.md]].
+> ([[../../sources/2014-11-11-yt-lGmPCutgI2o]])
+
+
 - **Stylescapes**: typography-driven mood explorations that deliberately *don't* look like
   websites. Presented **one at a time** (never side by side); each stakeholder is asked
   likes/dislikes ("getting a temperature read") to build consensus, then a consolidated

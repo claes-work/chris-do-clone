@@ -4690,6 +4690,37 @@ choice* — than this hub's usual advice to reach the decision-maker.
 taxonomy** — recorded as his framing without asserting he originated it. **Not promoted to
 `persona/`.** ([[../../sources/2021-11-17-yt-YYGfApY1alk]])
 
+## ★★★★ 126. The client-exit script, verbatim (added 2026-07-30, pass 29)
+
+The hub is thick with **when** to fire a client. It did not hold **how he words the exit.**
+
+> ★★★★★ *"**Look, I want to make sure you FEEL WHOLE walking away from this relationship.** I'll do whatever I
+> can to make sure this is **as smooth a transition for you as possible.** **I am truly sorry it did not work
+> out for both of us. I wish you well.**"*
+
+★★★ Then the mechanics, in order: *"we just **resolve the finances, then the files**, and be done with it."*
+
+✅ **What the script omits is the operative choice.** No diagnosis of the client, no defence of himself, no
+fault assigned — *"it did not work out **for both of us**"* distributes the outcome without blaming anyone.
+⚠️ The governing rule (*"be the bigger person, take the high road"*) is **therapist-sourced** and lives in
+[[../mindset/mindset]]. ([[../../sources/2018-07-17-yt-PpiSSbmnDeU]])
+
+## ★★★★ 127. Attitude as an EARNED permission, not a vice (added 2026-07-30, pass 29)
+
+> ★★★★ *"**My coach would say: YOU'RE NOT GOOD ENOUGH TO THROW ATTITUDE.** If you're a **Picasso** you can throw
+> attitude. If you're **David Fincher** you can throw attitude. **But short of being them, don't throw
+> attitude.**"*
+
+⚠️ **Note the structure — a threshold, not a prohibition.** Attitude is framed as **unaffordable at your
+level**, with two people named who can afford it. ⚠️ **This sits deliberately apart from the entitlement
+material elsewhere in the corpus**, which treats attitude as a character failing. *"You haven't earned this
+yet"* and *"this is wrong"* are different claims and are kept separate.
+
+★★★ The behaviour it corrects, in his own voice: *"when they call me it's like — **oh, you again. Oh, I guess I
+could do that.**"* ⏳ And in **2017 he placed himself BELOW the threshold**: *"I'm not to that point where I feel
+like the clients are doing me a favour."* ⚠️ Coach **unnamed** on this source.
+([[../../sources/2017-05-06-yt-1KjMCOQFMuM]])
+
 ## Sources
 
 - [[wiki/sources/2014-08-20-yt-1HuIfKDr54A]] — How To Ask for the Sale Pt.1 (2014-08-20) —

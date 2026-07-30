@@ -232,6 +232,44 @@ _Source: [[../sources/2025-02-02-yt-mw_0Hy1-tic]] (2025-02-02). **Self-reported,
 ⚠️ **No date is given, and none is inferred.** The statement is recorded exactly as made. **Any present-tense
 description of him elsewhere in the corpus should be revised at the next pass.**
 
+### ★★★★ 3. "You bring your wife" — the first PERSONAL intervention (added 2026-07-30)
+
+_Source: [[wiki/sources/2018-09-17-yt-zDErNstrCvs]] (2018-09-17). ⭐ **Chris names him explicitly** — "my coach
+Kier McClaren"._
+
+Chris had won an award he **did not want to accept** — *"I knew I was gonna have to go onstage and be in front
+of people… **it scared the living daylights out of me.**"* Allowed a plus-one, he asked who to bring:
+
+> ★★★★★ *"**I was thinking about asking my EXECUTIVE PRODUCER**… and he looked at me like this: **ARE YOU KIDDING
+> ME? YOU BRING YOUR WIFE.** How often are you gonna win one? **Take her out on a night on the town — this is
+> your excuse.**"* → *"**Luckily I had that wise man saying that.**"*
+
+⚠️ **What was corrected is an instinct, not a tactic**: his default was to treat a personal milestone as a work
+occasion. **The other interventions on this page are all professional; this is the only one about his life.**
+Also note *"that wise man"* as how Chris characterises him. (Family generic, no names.)
+
+### ★★★★ 4. The rebuke behind "why don't you just ask" (added 2026-07-30)
+
+_Source: [[wiki/sources/2019-11-09-yt-7snev8P4ENU]] (2019-11-09). The advice itself is already recorded at
+[[wiki/sources/2017-09-27-yt-UHrjn11F6hc]] — **this is the correction that preceded it, and its consequence.**_
+
+> ★★★★★ *"I have experience, I talk to clients — **I thought I was doing a great job UNTIL MY COACH TOLD ME:
+> you're not doing a great job.** And I'm like: what do you mean? And he told me: **how can you GUESS at what
+> the client wants? Why don't you just ASK them what they want?**"*
+
+> ★★★★★ ⏳ *"And after some practice we did it, and **it CHANGED THE ENTIRE TRAJECTORY OF OUR COMPANY** — by
+> learning this one basic technique."*
+
+⚠️ 🗣️ **The trajectory claim is self-reported and unquantified** — recorded as his account, **not as company
+history**. ✅ But it is the *causal* half this page exists to hold. He also draws the principle: *"it's **not
+about expediency, it's about understanding** — and I choose understanding over speed."*
+
+⚠️ **THREE further coaching lines are recorded in the corpus with the coach UNNAMED** and are deliberately
+**not** attributed here: the *~$200k global-competition threshold*
+([[wiki/sources/2018-12-13-yt-AkHGk1l1Lx4]]), *"you're not good enough to throw attitude"*
+([[wiki/sources/2017-05-06-yt-1KjMCOQFMuM]]), and one further habitual saying. **The pattern matches this
+relationship; the sources do not name him. Contemporaneity is not identity.**
+
 ### ★★★ How they met — a question Chris was embarrassed to ask
 
 *"I'm having lunch with a friend at **Fritto Misto**, an Italian pasta place, and they were talking about

@@ -2927,6 +2927,21 @@ fishing — **for me to charge somebody to do what I love seems like a strange c
 ⚠️ **The telephone test** (*when they call, are you happy to answer?*) that he praises in the same
 breath **is Blair's**, not his.
 
+## ★★★★ The job-size matrix, and the ~$200k global-competition threshold (added 2026-07-30, pass 29)
+
+> ★★★★ *"I **created this matrix of different size jobs**: **under $5,000 · $5–30k · $30–200k · over $200k.**"*
+
+> ★★★★★ *"**I thought I was playing at the A LEAGUE** — but **my coach told me: once you get north of $200,000,
+> most clients can CHOOSE TO WORK WITH WHOMEVER THEY WANT.** … It's not who's best in your town or your state —
+> **it's WHO'S BEST IN THE WORLD.**"*
+
+✅ **A falsifiable claim about market structure, not a motivational line**: at roughly **$200k+, geography stops
+protecting you.** Below it you compete locally; above it the client's option set is global.
+
+⚠️ **The coach is UNNAMED on this source.** The pattern matches [[../../entities/kier-mclaren]] — whom Chris
+names by name in the same period — **but contemporaneity is not identity**, and the attribution is deliberately
+withheld. ([[../../sources/2018-12-13-yt-AkHGk1l1Lx4]])
+
 ## Sources
 
 - [[wiki/sources/2015-10-08-yt-wd0ejVP_g78]] — Pricing & estimating creative jobs (the cost build-up, payment terms)

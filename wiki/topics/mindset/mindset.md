@@ -4753,6 +4753,69 @@ critic can.
 method, and reproducing the accusations as hub content would read as the corpus endorsing them.
 ([[../../sources/2019-12-06-yt-NT3uiJJ7KWs]] · [[../../sources/2019-12-12-yt-SzztLX6qv7U]])
 
+## ★★★★ Stream-tier additions (pass 29, added 2026-07-30)
+
+### ★★★★★ Why he engages criticism at all — and how he concedes (2020-02-15)
+
+The criticism-handling section above documents **how** he answers an attack. **This is the appetite underneath
+it.**
+
+> ★★★★ *"I do [this] **to be intellectually stimulated** — because **I want to be critical about my own
+> thinking.**"* → *"**If I don't feel like I'm growing then I'm dying.**"*
+
+> ★★★★★ *"**My coach used to do this to me — my therapist did this to me all the time.** She would ask me a
+> couple of questions and I'm like: ***I submit, you have the superior argument, ma'am.*** … **My worldview has
+> changed forever moving forward.**"*
+
+✅ **Three features of that concession**: it is **explicit and ungrudging** (*"I submit"*), it is produced **by
+questions rather than counter-assertion**, and he reports the effect as **permanent**.
+
+★★★★ **And the boundary is about return, not comfort**: *"when you compare spending time intellectually
+sparring with a troll — **and that was someone who is NOT a troll** — I just get more out of that."*
+⚠️ Engage where your view could actually move. ([[../../sources/2020-02-15-yt-hgn7sr4PNrg]])
+
+### ★★★★ "Be the bigger person" — a therapist-sourced conflict rule (2018-07-17)
+
+> ★★★★ *"**Relationships are hard to build and they're easy to destroy.** So weigh it: **is it worth it**,
+> whatever you want to get off your chest, to [say] *let's go mano-a-mano*? **Most of the time it's not worth
+> it.**"*
+
+> ★★★★★ *"What we have to do is **just do what MY THERAPIST tells me to do: be the bigger person, take the high
+> road.**"*
+
+✅ **The calculation is cost–benefit, not virtue** — not *am I right* but *is discharging this worth what it
+destroys*. ([[../../sources/2018-07-17-yt-PpiSSbmnDeU]]) — the exit script itself lives in
+[[../sales-clients/sales-clients]].
+
+### ★★★★ Anticipatory dread, and anger that does not survive the wait (2017-11-21)
+
+From a childhood confrontation — three boys stomped his brother's lunch, he challenged them, a fight was set
+for after school:
+
+> ★★★★★ *"**That's the worst — because now it ruins your whole day. You're just thinking about having to meet
+> up.** … I was really angry, **but by the time you get there, the anger dissipates. Like it doesn't even
+> matter.**"*
+
+⚠️ **He offers this as an answer about VULNERABILITY**, not anger management. ⚠️ **Do not use it to explain his
+adult conflict-avoidance** — he draws no such line, and the corpus should not draw it for him.
+([[../../sources/2017-11-21-yt-2591Djv_qJE]])
+
+### ⚠️ "Constant improver" — re-sourced (2017-08-10)
+
+> ★★★★★ *"I'm **a constant improver** — **that's what MY THERAPIST told me.**"*
+
+⚠️ **The corpus previously held this label only from a TEAM MEMBER in 2019**, deriving it from **Myers-Briggs
+INTJ** and marked *"context, not Chris's own voice."* **This is two years earlier, in his own voice, sourced
+to a person.** ⚠️ **Both accounts retained; neither deleted.** Also: *"we are always doing **post-mortems** —
+after the call, after the pitch, after a meeting"*, and the drive stated as **fear** — *"the scariest thing is
+to look back on my life in one year and be the same person."*
+([[../../sources/2017-08-10-yt-aCFDG3ubqW4]])
+
+> ⚠️ **A thread, deliberately not a theory.** Four habits in this hub and in `biography` are now traced by him
+> to his therapist: the **caretaker request-filter**, the **manner of conceding**, the **high-road rule**, and
+> the **"constant improver"** label. **That is his own framing of where his conduct comes from — no source
+> offers an outside account, and the corpus must not manufacture one.**
+
 ## Sources
 
 - [[wiki/sources/2016-03-23-yt-013Zjz5P9gM]] — "Break Out of Your Comfort Zone" vlog

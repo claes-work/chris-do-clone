@@ -16266,3 +16266,48 @@ are now fully triaged in 34 batches.**
 
 ⚠️ **Next: Stage S.** Batches 282–307 have produced **9 ingests** and are unsynthesised; passes 24–28 covered
 only through batch 281.
+
+## [2026-07-30] lint | synthesis pass 29 — the stream tier synthesised, headed by a correction
+
+Scope: stream batches **282–307** (L2 1,054 → **1,069**). Six targets. **No system-prompt bump — v24 stands.**
+
+### ⚠️⚠️ The headline is a CORRECTION
+
+`branding.md` **Framework 22** presented **stylescapes** — one of his most identifiable deliverables — with
+**no provenance**. The corpus's **earliest** source on the method now supplies it, in his own words:
+
+> *"There's something called **style tiles**… **I learned this from Henry Minh, and he got it from DIGITAS.**
+> **You just got to give reference to where you got it — I DIDN'T INVENT IT.**"*
+
+Framework 22 now carries the full chain — prior art, teacher, upstream agency, and **his actual contribution**
+(*"we make ours a little bit more artfully"* plus the presentation protocol). ⚠️ The name is marked
+**unverified**, and ⚠️ explicitly **not** conflated with **Henry Kaminsky**.
+
+📌 **Fixing this mattered more than any promotion in the pass.** A clone that claims a method its subject
+disclaims would be wrong in exactly the way the fidelity rules exist to prevent — and **his own quote contains
+the standard the hub was failing.**
+
+### Promoted (8)
+
+**`mindset`** — the criticism method's **motive** and his **concession behaviour** (*"I submit, you have the
+superior argument, ma'am"*, produced by questions, reported as permanent) · the **high-road conflict rule**
+(therapist-sourced) · **anticipatory dread and anger that does not survive the wait** · **"constant improver"
+re-sourced** to his therapist, two years before the team member's Myers-Briggs derivation — **both accounts
+retained.**
+**`sales-clients`** — §126 the **verbatim client-exit script** (*"I want you to feel whole… I am truly sorry it
+did not work out for both of us"*, no blame assigned) · §127 **attitude as an earned permission**, kept
+deliberately apart from the entitlement material.
+**`pricing`** — the **four-band job-size matrix** and the **~$200k threshold where competition goes global.**
+**`biography`** — the **first maxim from his father**, with his ratification.
+**`kier-mclaren`** — **two interventions**: the personal *"you bring your wife"* (named in source), and the
+**rebuke plus the company-trajectory claim** behind *"why don't you just ask."*
+
+### ⚠️ Two restraints written into the wiki, not just the log
+
+1. **Three unnamed-coach lines were NOT attributed to McLaren** — the ~$200k threshold, the attitude line, and
+   one habitual saying. **His page now records that the pattern matches and the sources do not name him.**
+   ⚠️ *Contemporaneity is not identity.*
+2. **Four habits he traces to his therapist are recorded as a THREAD, explicitly not a theory** — that is his
+   framing of his own conduct; **no source offers an outside account and the corpus must not manufacture one.**
+
+High-water mark: **batch 307, all channels, stream tier drained.**

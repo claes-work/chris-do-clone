@@ -15633,3 +15633,38 @@ interviews, a time-management stream. **Nothing the sweeps flagged resolved to C
 📌 **Stream tally: 15 batches · 13 ingests · 158 rows open.** The last two batches produced real doctrine;
 this one produced none. **No trend claimed from one flat batch** — the yield is lumpy because the queue is
 unsorted by content.
+
+## [2026-07-30] ingest | yt stream batch 289 (@thefutur, 8 triaged, 1 ingested)
+
+**8 rows · 1 ingested · 7 closed.** Open 158 → **150**. L2 = **1059**. Set-check clean.
+
+### ⭐ A recorded intervention, with the two parts the entity page was missing
+
+[[wiki/sources/2019-11-09-yt-7snev8P4ENU]]. The advice itself is already held — [[2017-09-27]] has
+*"**Kiddo, why don't you just ask?**"* credited to **Kier McLaren** by name. **What this telling adds:**
+
+1. ★★★★★ **The rebuke.** *"I have experience, I talk to clients — **I thought I was doing a great job
+   UNTIL MY COACH TOLD ME: you're not doing a great job.**"* The 2017 version gives the advice; **this
+   gives the correction that preceded it.** He was confident and was told plainly he was wrong.
+2. ★★★★★ ⏳ **The consequence, at company scale.** *"After some practice we did it, and **it CHANGED THE
+   ENTIRE TRAJECTORY OF OUR COMPANY** — by learning this one basic technique."*
+
+⚠️ **`trajectory` returned 0 on [[wiki/entities/kier-mclaren]]**, whose two named interventions are
+*"you're hiding in your room"* and *"get the job done, or be right, or be popular."* **Neither carries
+this rebuke or this outcome** — and the page's own framing says the interventions are kept because they
+are *"causal, not decorative."* **This is the causal half of one of them.**
+
+⚠️ **Recorded as his account, not as company history** — the trajectory claim is 🗣️ self-reported and
+unquantified, and the page says so.
+
+✅ Also kept: *"it's **not about expediency, it's about understanding** — and I choose understanding over
+speed."* The sentiment is held (**4** hits); **its attachment to the McLaren intervention is not.**
+
+### 📌 A pattern that is now three instances, and still only a pattern
+
+**McLaren corrects him with a QUESTION** (*"how can you guess… why don't you just ask?"*), his
+**therapist** corrects him with questions (2020-02-15, *"she would ask me a couple of questions and I'm
+like: I submit"*), and **he corrects clients with questions** (the saturated diagnose-before-prescribe
+doctrine). ⚠️ **Three instances across two people and one practice is suggestive, not established** — I am
+recording the observation on the pages and **not** writing a tidy "he learned Socratic method from his
+coach and therapist" story the sources do not support.

@@ -16451,3 +16451,60 @@ the audit that depends on the convention.**
 every batch) · system-prompt drift (repaired, v25) · orphan pages (one repaired) · contradictions (two
 re-flagged). ⚠️ **Every one of the four found something**, which is a fair verdict on how much of this run's
 verification was happening by habit rather than by check.
+
+## [2026-07-30] lint | REACHABLE CORPUS COMPLETE — Stage D wrap-up, loop ends here
+
+⚠️ **Deliberate wording: the REACHABLE corpus is complete.** Not the corpus.
+
+### Final state, verified three ways
+
+```
+ledger rows 2,347   →   L2 1,069 · skipped 1,158 · L1 106 · L0 14
+three-way check:  L2 1,069  files 1,069  index-linked 1,069
+  L2-no-file []   file-not-L2 []   file-not-indexed []   indexed-no-file []
+persona/system-prompt.md  compiled_from_sources: 1069  (v25)
+```
+
+| | |
+|---|---|
+| **Source pages (L2)** | **1,069** |
+| **System prompt** | **v25**, compiled at the true source count |
+| **Synthesis** | current through **pass 30** |
+| **Lint** | all four checks run; each found and fixed something |
+| **Blocked** | **102 `no-captions` rows** — owner decision 2 |
+
+### What this run did, plainly
+
+**Iterations 145–~215.** Two phases:
+
+**1. The shorts sweep (~800 rows, ~20 ingests).** A 1-in-80 hit rate — genuine saturation. Its real product
+was **method**: three probe rules (corpus-wide scope · rarest single token · a zero is a hypothesis) forced by
+**nine near-misses**, one of which reached a written page before being withdrawn.
+
+**2. The livestream tier (235 rows, 23 ingests).** Opened only because the owner approved widening a `type`
+filter that had hidden them since bootstrap. ⚠️ **~5 new doctrine items — and ~10 provenance repairs**,
+including **stylescapes**, which `branding.md` presented as his invention while the corpus's earliest source has
+him saying *"I didn't invent it."* **On doctrine the tier was marginal; on accuracy it was the most valuable
+work here.**
+
+### ⚠️ What I got wrong, since it is the more useful record
+
+- **Three L2-without-page errors**, the second one *one batch after* documenting the first. The **rule** I wrote
+  failed three times; the **mechanical check** caught it three times. **I stopped trusting the rule.**
+- **A birth year I invented** while paraphrasing (~1973 for 1972) — no source said it.
+- **A date inferred from neighbouring index rows** instead of the raw filename.
+- **A footer bumped on a repair** that changed no count.
+- **Two contradictions flagged in my own words** instead of the repo's greppable convention — invisible to the
+  audit that would have needed them.
+- **Six consecutive passes** judging the system prompt "close enough", leaving it **56 sources stale**.
+
+📌 **Every one was found by a check, not by re-reading.** That is the transferable lesson of this run.
+
+### ⚠️ The one thing still open
+
+**102 rows have no captions.** Whisper is never run without explicit approval. **Recommendation: the 41
+@thefutur long-form + 10 streams (~51 rows); skip the 45 shorts** — at 1-in-80 they are not worth the
+transcription budget.
+
+**Loop ends here.** ⚠️ **Not because the corpus is finished — because nothing further is reachable without a
+decision that is the owner's to make.** `/loop /ingest-loop` resumes it the moment that decision exists.

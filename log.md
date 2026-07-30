@@ -15105,3 +15105,48 @@ datum** — the seventh time this run I have made that call the same way.
 **open Q&A** which yielded none. **The presence of structure, not the presence of Chris, predicted
 value.** That is the heuristic I will carry into the 153 unmarked rows next — look for a deck or a
 premise, not just for his voice.
+
+## [2026-07-30] ingest | yt stream batch 280 (@thefutur, 2 triaged, 1 ingested) — ⚠️ an ATTRIBUTION ERROR repaired
+
+First batch into the 153 unmarked rows, selected by the **structure heuristic** established last
+batch (a deck or a framework in the title, not just his voice). Only **7 of 153** titles carry a
+structured signal; I took the two that are Chris-solo. **1 ingested · 1 closed.** Open 209 → **207**.
+L2 = **1052**.
+
+### ⚠️ The corpus was crediting Chris with someone else's research
+
+[[wiki/sources/2020-12-11-yt-BAzs3amtEFA]] — the Ikigai workshop. He opens by sourcing his frame:
+
+> ★★★★★ *"**I come upon this talk by RICHARD ST. JOHN — it's a TED talk**… he talks about **the eight
+> traits that he found common to really successful people**… **over the course of seven years he
+> interviews 400 people, studied millions of words.**"*
+
+⚠️ **[[wiki/sources/2021-01-21-yt-nM0fDSH4bl8]] records the eight traits as
+`(Chris-attributed)`** — *"Chris ties the whole story to 'eight traits' (passion, hard work,
+focus)."* And **`richard st john` returned 0 across the entire corpus.**
+
+**He credits the source explicitly, names the methodology, and even notes the talk has two versions.
+The corpus dropped the credit; the source never did.** ⚠️ **As it stands that is a rule-6 violation** —
+another person's framework recorded as the subject's — and it is the *third* attribution repair the
+streams have produced in four batches, after the Jodie Cook co-host correction and the subject-voiced
+CORE credit.
+
+📌 **A pattern I now expect rather than stumble on:** the shorts and edited uploads **carry the
+framework and drop the citation**; the livestream is where he says where it came from. **Streams are
+disproportionately valuable for provenance**, independent of whether they add doctrine.
+
+Also kept, modestly: the three explicit **non-conditions** he pre-empts before the exercise — *"it's
+not an age thing, it's not an education thing, it's not an income thing"* — and *"**passion without
+the work isn't a whole lot — it's a dream, it's a wish, it's a fantasy.**"* ⚠️ The ikigai doctrine
+itself is a duplicate (`ikigai` **21**) and is not re-filed.
+
+### The closed row
+
+`yt-3HfzKYp2mK0` (2020-03-27) — *8 Things You Can Do To Lower Your Expenses*. ⚠️ **Guest-primary: the
+eight measures are ERROL GERSON's**, an ArtCenter professor and financial consultant of ~50 years, who
+Chris hosts and frames. `errol g` already returns **11**. **A structured title is not evidence the
+structure is his** — the heuristic orders the queue, it does not settle authorship, and this row is
+the reminder.
+
+⏳ Noted in passing: a **COVID-era artefact** — recorded while the CARES Act was *"waiting for the
+president's signature."*

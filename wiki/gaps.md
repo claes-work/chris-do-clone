@@ -81,4 +81,14 @@ that was missing) and by lint passes. Each entry: date noticed, what was missing
   merged on the strength of one word. **Needs an external source or a later telling.** Until then the
   corpus knows only that an incident existed and was damaging.
 
+- ⚠️ **Eugene Schwartz / *Breakthrough Advertising* — the "five stages of awareness", speaker
+  unresolved.** (found 2026-07-30, stream batch 282) In `yt-puQJ9skmXYc` (*How To Find & Get Dream
+  Clients **w/ AJ Cassata***) someone teaches the **five stages of awareness** — unaware → problem-aware
+  → … — crediting *"**Eugene Schwartz**, a really famous copywriter… in his book **Breakthrough
+  Advertising**."* `breakthrough advertising|eugene schwartz` returns **0** corpus-wide.
+  ⚠️ **The transcript has no speaker labels and the prior favours the GUEST** — Cassata is a
+  lead-generation trainer and the passage is framed as instruction (*"these will help you with all your
+  marketing activities"*). **Not recorded as Chris's.** If a later source shows he uses this framework
+  himself, it becomes a real addition; on this evidence it is the guest's toolkit.
+
 ## Resolved

@@ -15319,3 +15319,50 @@ format**: the long unedited stream is where he says where things came from, and 
 exactly that. ⚠️ **A corpus built only from edited video systematically under-credits.** It is the
 strongest argument for finishing the remaining **206 streams** even though the doctrine yield is near
 zero.
+
+## [2026-07-30] ingest | yt stream batch 282 (@thefutur, 5 triaged, 0 ingested) — the provenance sweep as a working method
+
+**5 rows · 0 ingested · 5 closed.** Open 206 → **201**. **Four of the five are the interviews deferred
+in batch 276** — the sweep is the lighter treatment they needed, and it resolved them without a
+60,000-word read.
+
+### The method, stated so it can be repeated
+
+Instead of reading each stream for doctrine, I grepped all five transcripts for **attribution markers**
+(*"a book called"*, *"his book"*, *"developed by"*, *"I learned this from"*, *"taught me"*,
+*"according to"*) and checked every name that came back against the corpus. **Cost: one command per
+batch.**
+
+⚠️ **The sweep is a FINDER, not a DECIDER.** Both of this batch's results prove why.
+
+### ⚠️ 1. A near-miss that would have fabricated a biographical relationship
+
+The sweep surfaced: *"**he taught me everything I know about DJing.**"* With `djing` already on **21**
+corpus pages — Chris's own DJ history — **the tempting read is that a mentor named Lee taught Chris to
+DJ.**
+
+**It is Matt Essam, the guest, talking about his own friend.** *"He goes by Wise Old Sage on YouTube…
+**he's my fellow DJ back in the day. Me and Lee used to DJ together.**"*
+
+📌 **Had I taken the marker at face value I would have invented a mentor for the subject** — a
+fabricated relationship attached to a real, already-documented part of his life, which is the hardest
+kind of error to notice later. **Every marker needs a speaker check; the grep only tells you where to
+look.**
+
+### ⚠️ 2. A real named framework, deliberately left unattributed
+
+`yt-puQJ9skmXYc` (*w/ AJ Cassata*) teaches the **five stages of awareness**, crediting *"**Eugene
+Schwartz**… in his book **Breakthrough Advertising**."* `eugene schwartz|breakthrough advertising`
+returns **0** corpus-wide — a genuinely absent named source.
+
+⚠️ **But the prior favours the guest**: Cassata is a lead-generation trainer and the passage is framed
+as instruction to the audience. **Logged in [[wiki/gaps.md]] as speaker-unresolved rather than recorded
+as his.** If a later source shows Chris using the framework himself, it becomes a real addition.
+
+### The three quiet closes
+
+Jill Greenberg (portrait photography) · Apostolos Roussas (animation passive income) · Tom Ross
+(community, already on **7** pages) — **the sweep found no Chris-attributable credits in any of them.**
+⚠️ **Stated precisely: the sweep is narrower than a full read.** These are closed on the combination of
+*guest-expert format* + *zero attribution markers*, which is a weaker basis than reading 60k words —
+and the ledger rows say so rather than implying I read them end to end.

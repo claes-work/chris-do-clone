@@ -15366,3 +15366,50 @@ Jill Greenberg (portrait photography) · Apostolos Roussas (animation passive in
 ⚠️ **Stated precisely: the sweep is narrower than a full read.** These are closed on the combination of
 *guest-expert format* + *zero attribution markers*, which is a weaker basis than reading 60k words —
 and the ledger rows say so rather than implying I read them end to end.
+
+## [2026-07-30] ingest | yt stream batch 283 (@thefutur, 6 triaged, 1 ingested)
+
+**6 rows · 1 ingested · 3 closed · 2 members-only.** Open 201 → **195**. L2 = **1055**.
+Set-check clean: `L2-no-file: []  file-not-L2: []`.
+
+### ⚠️ I ordered the bookkeeping wrongly a THIRD time — caught in-turn
+
+I set `yt-I_SswL6QSUI` to `L2` **before writing its page**, one iteration after adopting the rule *"set
+status only after the page exists"* and two after repairing the same defect.
+
+**Caught before committing this time**, because the set-check now runs as part of the batch rather than
+as an occasional audit. ⚠️ **The rule did not prevent the error; the check caught it.** Worth being
+precise about which of the two is actually doing the work — **the habit I wrote down has failed three
+times, and the mechanical check has caught it three times.** I am relying on the check.
+
+### ⏳ The ingest: a six-year gap in the growth timeline, closed
+
+[[wiki/sources/2020-12-16-yt-I_SswL6QSUI]] — *1 Million YouTube Subscribers (Community Celebration)*.
+
+`persona/biography` recorded the channel's growth as **175K (2017) → 2.02M (Jan 2023)** — with
+**nothing in between.** Two stream ingests now fill it:
+
+| Point | Date | Basis |
+|---|---|---|
+| **637K** | 2019-12-06 | 🗣️ stated on air (from the Reddit-fraud stream) |
+| **1M** | **2020-12-16** | ✅ **an entire livestream exists because the number was hit** |
+
+✅ **The 1M point is the firmer evidence of the two** — a celebration built around a milestone beats a
+figure quoted in passing. Timeline line updated.
+
+⏳ **One incidental production fact:** *"**Mark put together a whole deck**, so I'm going to do my best
+to figure out via ESP what he wanted me to do."* A producer builds the deck; Chris improvises against
+it live — consistent with *"I don't really interview people, there's people who do that for me"*
+(2020-11-17).
+
+⚠️ **The page says plainly that a celebration stream is thin on doctrine** rather than padding it.
+
+### Three closed by sweep
+
+Tim Brown (*7 agency mistakes* — **his**) · a visualization/dreams stream (no external credits,
+doctrine saturated) · Vincent Brathwaite (the sweep's book markers are **the guest's**
+recommendations).
+
+📌 **Running tally for the stream tier: 10 ingests, and the yield is entirely provenance and dates** —
+4 attribution repairs, 2 named shorts-parents, 2 timeline anchors, 1 book launch, 1 corrected
+relationship. **Zero new doctrine in ten streams.**

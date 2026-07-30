@@ -15475,3 +15475,51 @@ and the provenance yield is slowing — the guest-interview stretch of the queue
 Continuing because the sweep costs one command per batch, but ⚠️ **if the next two batches also return
 nothing, that is the point to say the tier is exhausted for practical purposes rather than keep grinding
 the remaining ~180.**
+
+## [2026-07-30] ingest | yt stream batch 286 (@thefutur, 8 triaged, 1 ingested) — ⭐ the first NEW DOCTRINE from a stream
+
+**8 rows · 1 ingested · 7 closed.** Open 182 → **174**. L2 = **1057**. Set-check clean.
+
+⚠️ **Correction to my own prediction.** Last batch I said two more empty sweeps would mean the tier was
+practically exhausted. **This batch produced the tier's first genuinely new doctrine in twelve
+batches** — so the prediction was wrong, and I am recording that rather than quietly moving on.
+
+### ⭐ The caretaker countermeasure
+
+[[wiki/sources/2020-03-07-yt-dQNPikq2xHo]] — an *After Hours* session. `biography` §252 already records
+the **diagnosis**: therapist **Joan Lightfoot** told him *"you're a caretaker"*, he resisted, she asked
+who mowed the lawn. **The corpus never had what she told him to DO about it.**
+
+> ★★★★★ *"**She gave me a couple of questions to ask myself. Was the request being made?** When somebody
+> says **'I'm hungry'** — **that's a STATEMENT.** It didn't say *Dad, I'm hungry.* **So if no request was
+> made, you just move on.**"*
+
+Then: **can I do it?** (*"I can drive, but I can't cook"*) → **do I want to do it?** → and the line that
+carries the whole thing:
+
+> ★★★★★ *"**I can, but I'm not going to.**"*
+
+✅ **The filter separates capability from obligation** — the caretaker's failure mode is treating *able*
+as *must*. `was the request being made` returned **0**.
+
+### ⭐ And the evidential structure is unusually strong
+
+**The co-host names the behaviour BEFORE Chris explains it:**
+
+> *"**I love how you do that in client meetings too, or even in role plays — you'll be SILENT until you
+> feel you've either been given space to speak, or you've been DIRECTLY ASKED to speak.**"* → *"Yeah. I
+> learned this from my therapist…"*
+
+⚠️ **This is better than a self-report.** A colleague observed the pattern in his professional conduct
+*independently*, and he then supplied its origin. **The corpus documents the disciplined silence in
+discovery calls as technique; on his own account it is a boundary habit learned in therapy.**
+
+📌 **Why this took twelve batches to surface, and it is not bad luck:** the provenance sweep looks for
+*"a book called"*, *"developed by"*, *"his book"*. **The marker that mattered here was
+*"I learned this from my therapist"*** — which was in my pattern list, and only fired because the source
+was a **person in his life rather than an author.** ⚠️ **The sweep is biased toward published sources.**
+Personal-origin markers (*therapist · coach · my mom · a friend told me*) deserve their own pass over the
+already-fetched transcripts.
+
+Seven others closed: guest interviews and saturated topics, including two COVID-era streams
+(2020-03) whose medical content is a guest infectious-disease specialist's.

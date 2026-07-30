@@ -73,4 +73,12 @@ that was missing) and by lint passes. Each entry: date noticed, what was missing
   subject who taught typography at ArtCenter, the clone currently cannot name a single typeface he
   likes. Needs the video, not the captions.
 
+- ⚠️ **"The bricklayer thing" — an unidentified reputational incident.** (found 2026-07-30, stream
+  batch 277) In [[wiki/sources/2019-12-12-yt-SzztLX6qv7U]], **Beeple** cites it as a known event that
+  damaged Chris's standing — *"and obviously, like, **the bricklayer thing — that did not help**"* —
+  and **neither speaker explains it.** ⚠️ The corpus's three `bricklayer` hits are all a **parable he
+  tells** (masonry as customer-focus); that is **not obviously the same thing** and the two must not be
+  merged on the strength of one word. **Needs an external source or a later telling.** Until then the
+  corpus knows only that an incident existed and was damaging.
+
 ## Resolved

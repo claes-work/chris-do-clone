@@ -14965,3 +14965,58 @@ a guest. **A pattern that classifies by shape and ignores the value inside it wi
 
 ⚠️ **This is a title-level map, not a content classification.** Titles have been unreliable all run;
 it orders the work, it does not decide any row.
+
+## [2026-07-30] ingest | yt stream batch 277 (@thefutur, 2 triaged, 2 ingested) — ⭐ the criticism pair
+
+Resumed the loop on the triage order set on 2026-07-29: the Chris-named AMA rows first. Two of them
+were obvious outliers by title, so I **promoted them to P1 and pulled them deliberately** rather than
+taking whatever the queue offered. Both ingested. L2 = **1050**. Open 219 → **217**.
+
+### ⭐ They are a PAIR, six days apart, and that is the finding
+
+| | |
+|---|---|
+| [[wiki/sources/2019-12-06-yt-NT3uiJJ7KWs]] | *"Chris Do Is A FRAUD"* — he reads a **Reddit** thread accusing him and answers it |
+| [[wiki/sources/2019-12-12-yt-SzztLX6qv7U]] | **Beeple** delivers the **"snake oil salesman"** charge to his face, reporting conferences where *"it was testy"* |
+
+**One reaction would be an anecdote. Two in a week, in the same posture, is a practice** — and the
+pages cross-link as such.
+
+### ⚠️ The corpus held the INVERSE of both
+
+`fraud` returns **22** hits and `snake oil` **4** — and **every one is Chris using those words**:
+imposter syndrome (*"are they going to think I'm a fraud?"*, *"imposter syndrome is theft"*) or the
+snake-oil framing applied to others. **None is him being accused.** ⚠️ Filing these under imposter
+syndrome would collapse *"I fear I'm a fraud"* into *"someone called me a fraud"* — different
+situations, different behaviour. **Both pages carry an explicit do-not-merge instruction.**
+
+### ★★★★★ The method, which is what deserves promotion
+
+1. **Steelman first.** Before touching a charge he reconstructs the Reddit critic generously — *"their
+   teacher, we have that in common, that's awesome… **I love that they're trying to learn something to
+   teach others**"* — and finds a shared origin (*"as a high school student I was also on the yearbook
+   staff — that was my entrée into graphic design"*).
+2. **Accept the feeling, not the conclusion:** *"okay, I accept it — **something about me bothers
+   you.** Could be my face, could be my voice."*
+3. **Credit whoever says it aloud:** *"**it is easy to say bad things behind someone's back. It's a lot
+   harder to say it in front of their face.** You're not saying it per se — **you're saying it for
+   them.**"* He adds that he routinely invites critics on and *"**without a doubt they ALL refuse** —
+   they have a hair appointment, they got to feed their cat."*
+4. ⭐ **Make the accusation define itself:** *"**so what does a snake oil salesman DO, Mike?**"* — his
+   documented diagnose-before-prescribe discipline, turned on his own reputation.
+5. **Name the deflationary reading yourself:** on 637,000 subscribers as evidence — *"either we're
+   pretty good, **or we've tricked 637,000 people or robots to follow us.**"*
+
+### ⚠️ One thing I deliberately did NOT resolve
+
+Beeple: *"and obviously, like, **the bricklayer thing — that did not help.**"* **Neither speaker
+explains it.** The corpus's three `bricklayer` hits are a **parable about masonry and customer focus** —
+plausibly unrelated. **I did not connect them.** Logged in [[wiki/gaps.md]] as an open question, because
+one shared word is exactly the evidence that produced the dig-a-ditch and price-fisher near-misses
+earlier in this run.
+
+⏳ Also dated: **637k subscribers** (2019-12-06) · *Pricing Design Work* at **2.3M views** · Beeple at
+**1M Instagram followers**, 15 months before his $69M sale.
+
+⚠️ **Both streams SAMPLED, not read end to end** (14.8k and 17.0k words); the confrontation segments
+were read closely and the pages say which parts were not.

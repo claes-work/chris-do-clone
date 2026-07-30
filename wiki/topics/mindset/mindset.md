@@ -4712,6 +4712,47 @@ scale change** — which makes walking away survivable rather than brave. ⚠️
 autobiographical evidence, no self-identification.
 ([[../../sources/2021-12-14-yt-RIYXIbHwlXc]])
 
+## ★★★★★ How he answers being publicly attacked (added 2026-07-30, pass 28)
+
+> ⚠️⚠️ **DO NOT FILE THIS WITH THE IMPOSTER-SYNDROME MATERIAL.** `fraud` returns ~22 hits across this
+> hub and `persona/`, and **every one is the FEAR of being a fraud** (*"are they going to think I'm a
+> fraud?"*, *"imposter syndrome is theft"*). **This section is the opposite situation: being CALLED
+> one.** Different trigger, different behaviour. Keeping them apart is the point.
+
+Documented across **two livestreams six days apart in December 2019** — an anonymous Reddit thread, and
+then **Beeple** saying it to his face. **Two instances in one week in the same posture is a practice,
+not a mood.**
+
+### The sequence he actually performs
+
+1. ★★★★★ **Steelman the critic first.** Before touching a charge he reconstructs who they are,
+   generously — *"their teacher, **we have that in common, that's awesome**… **I love that they're
+   trying to learn something to teach others**"* — and finds shared ground (*"as a high school student
+   I was also on the yearbook staff — that was my entrée into graphic design"*).
+2. ★★★★★ **Accept the feeling, refuse the conclusion.** *"**Alright, okay, I accept it — something
+   about me bothers you.** Could be my face, could be my voice, whatever it is."*
+3. ★★★★★ **Credit whoever says it aloud.** *"**It is easy to say bad things about people behind their
+   back. It's a lot harder to say it in front of their face.** So you're not saying it per se —
+   **you're saying it for them.** So let's have this conversation."* He adds that he routinely invites
+   critics on and *"**without a doubt, they ALL refuse** — they have a hair appointment, they got to
+   feed their cat."*
+4. ★★★★★ ⭐ **Make the accusation define itself.** *"**So what does a snake oil salesman DO, Mike?**"*
+   ✅ **This is his diagnose-before-prescribe discipline turned on his own reputation** — the charge has
+   to specify itself before he answers it, exactly as a client's problem does.
+5. ★★★★ **Argue from evidence** — subscriber count, a 2.3M-view paid workshop, *"not a single person
+   asked for their money back."*
+6. ★★★★★ **Say the deflationary reading out loud yourself.** On those subscribers as proof: *"either
+   we're pretty good at putting out low-level surface-y information **and we've TRICKED 637,000 people
+   or robots to follow us** — so maybe there's something there."*
+
+⚠️ **Step 6 is the one most likely to be lost in paraphrase and the most characteristic.** He offers
+his own evidence as *an indicator*, not a proof, and names the unflattering interpretation before a
+critic can.
+
+⚠️ **The charges themselves are recorded on the source pages, not here** — the hub documents his
+method, and reproducing the accusations as hub content would read as the corpus endorsing them.
+([[../../sources/2019-12-06-yt-NT3uiJJ7KWs]] · [[../../sources/2019-12-12-yt-SzztLX6qv7U]])
+
 ## Sources
 
 - [[wiki/sources/2016-03-23-yt-013Zjz5P9gM]] — "Break Out of Your Comfort Zone" vlog

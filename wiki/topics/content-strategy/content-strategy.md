@@ -3447,6 +3447,29 @@ I-got-100-downloads. **What do you think makes you so unique?… AND YOU DON'T N
 Just really, let's call it out. What do you bring to the table that makes you you — and what's your
 SECRET SAUCE?**"*
 
+## ★★★★ The Shorts pivot — quantified, and it was someone else's idea (added 2026-07-30, pass 28)
+
+The hub is thick with Shorts *doctrine*. What it lacked is **the moment the format was recognised as
+the growth engine, a number attached to it, and who suggested it.**
+
+> ★★★★★ *"The use of **Shorts in accelerating, propelling the growth of the channel** — believe it or
+> not, **we got over 17,000 subscribers in ONE DAY. One day.**"* (2021-12-11) 🗣️ self-reported
+
+★★★★ **He flags it as anomalous for this channel:** *"that's really significant because **our channel
+is not one where we're used to having viral hits** — it's just teaching people design concepts, how to
+run their business, things about sales and marketing."*
+
+> ⚠️ ★★★★★ **It was advice he accepted, not a strategy he devised.** *"It wasn't the idea of sitting
+> there thinking *let's take advantage of Shorts* — **it was actually during a conversation with a
+> fellow YouTube creator… his name is BRIAN ELLIOTT and he has a YouTube channel called BEHIND THE
+> BRAND** — and **I have to tip my hat towards him.**"* Elliott's line: *"Chris, you really need to take
+> advantage of Shorts."* → *"**um, what do I need to do?**"*
+
+✅ **Record the credit with the result.** The channel's largest single documented growth event followed
+a peer's suggestion, and he names him. ⚠️ Presenting the Shorts pivot as his own strategic insight
+would be a real misattribution — see [[../../entities/influences]].
+([[../../sources/2021-12-11-yt-cQrw7pu_jqQ]])
+
 ## Sources
 
 - [[wiki/sources/2015-11-29-yt-z7Y9TKfgstE]] — "Is Your Design Resume Still Relevant?" —

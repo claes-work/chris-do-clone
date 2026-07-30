@@ -15274,3 +15274,48 @@ the count is drifting below the true number of batches. ⚠️ **Noted, not work
 condition also fires on *"a channel/era completes"*, and the honest trigger here is **the stream tier's
 provenance yield**, which is what the next synthesis pass should work — not a number I could nudge by
 renaming a heading.
+
+## [2026-07-30] lint | synthesis pass 28 — the first pass over the livestream tier
+
+Scope: stream batches **274–281** (L2 1,043 → **1,054**). Targets: **`mindset` · `content-strategy` ·
+`business` · `persona/biography` · `entities/influences`**. **No system-prompt bump — v24 stands.**
+
+### Promoted (5)
+
+1. ★★★★★ **How he answers being publicly attacked** → `topics/mindset`. The six-step sequence, drawn
+   from the December 2019 pair: **steelman the critic → accept the feeling not the conclusion → credit
+   whoever says it aloud → make the accusation define itself → argue from evidence → say the
+   deflationary reading yourself.**
+   ⚠️⚠️ Filed with a **hard do-not-merge** against the ~22 `fraud` hits, which are all
+   **imposter syndrome**. *"Someone called me a fraud"* and *"I fear I'm a fraud"* are different
+   situations and the hub now says so at the top of the section.
+   ⚠️ **The charges are left on the source pages, not the hub** — reproducing them as hub content would
+   read as the corpus endorsing them.
+2. ★★★★ **The Shorts pivot** → `content-strategy`: quantified (**17,000 subscribers in one day**) **and
+   credited** — ⚠️ *"it wasn't the idea of sitting there thinking let's take advantage of Shorts"*;
+   **Brian Elliott suggested it.** Presenting it as his own strategic insight would be a real
+   misattribution, and the hub says so.
+3. ★★★ **Blind's day-to-day culture** → `business`: lunches, bowling, barbecues — and the load-bearing
+   part, *"the place **feels SAFE to make mistakes**."* ⚠️ Written to be read **against** §9's
+   unmanaged-culture failure case: same owner, different eras, neither quotable without the other.
+4. ⏳ **Adobe MAX 2024, Miami** → `persona/biography`. The timeline held **MAX 2018** and **MAX Dec
+   2023** only. ⚠️ Promoted **with** the *"it seems to hold true if it's an interesting CEO"* bound.
+5. ⏳ **Nicole Johnson, ~2014–2018** → `entities/influences`: Skool-era business-model graphics, 2018
+   guest teacher. The corpus had a lone 2026 credit.
+
+### Not promoted, and why
+
+- ***Thirst*** — already promoted in pass 27.
+- **The CORE framework** — already correctly credited to Jose Caballer; the stream only **corroborated**
+  it from the subject's own mouth, which the source page records.
+- **Every doctrine passage in eight streams.** ⚠️ Saturated. **Nothing was promoted merely because it
+  was newly read.**
+
+### 📌 What this pass says about the tier
+
+**Eight stream ingests produced four attribution repairs and two named parents for shorts previously
+closed as bare `dup-of:corpus` — and almost no new doctrine.** That is a **structural property of the
+format**: the long unedited stream is where he says where things came from, and the edited uploads cut
+exactly that. ⚠️ **A corpus built only from edited video systematically under-credits.** It is the
+strongest argument for finishing the remaining **206 streams** even though the doctrine yield is near
+zero.

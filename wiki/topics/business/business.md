@@ -3151,6 +3151,24 @@ commits to a quarter on camera — a **dated intention**, not a musing.
 > `persona/biography`**, because a biography entry would imply it happened.
 > ([[../../sources/2019-03-25-yt-wzXKwe1-w7Q]])
 
+## ★★★ How Blind's culture was run day to day (added 2026-07-30, pass 28)
+
+§9 above holds the culture **principle** (hire *and* fire on values) and the **failure case** (the
+unmanaged, toxic period). It did not hold the ordinary practice. Asked *"what makes your workers so
+invested in your company?"* in 2017:
+
+> ★★★ *"Create **a fun place for people to want to be**… that starts with **the culture** — how we
+> behave, how we treat each other. There's a very **family-oriented structure**: a lot of people **go
+> out to lunch together**, we'll spend time **going bowling or going to the park and having a
+> barbecue.** And we want to make sure the place **feels SAFE to make mistakes**, to explore your
+> creative self, to express yourself."*
+
+✅ **"Safe to make mistakes" is the load-bearing part** — the social activities are the visible layer,
+but the stated purpose is psychological safety for creative risk. ⚠️ Read against §9's failure case:
+**the same owner describes both a deliberate culture and a period he let go unmanaged.** Not a
+contradiction — different eras — but neither should be quoted without the other.
+([[../../sources/2017-06-15-yt-9lq8gs3CYfk]])
+
 ## Sources
 
 - [[wiki/sources/2016-02-24-yt-4ZeNq6s_aX4]] — "3 Tips on starting your own design agency"

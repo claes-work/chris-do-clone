@@ -168,6 +168,13 @@ material, not persona-attributed.
 Authors and speakers Chris quotes or paraphrases in his teaching. They are **cited
 sources**, not part of his personal network — no entity pages needed:
 
+- **Nicole Johnson** — UX designer. ⏳ **Her involvement runs far earlier than the corpus recorded.**
+  She **created the business-model graphics used on the show** in the Skool era (~2014–2016) and returned
+  as a **guest teacher on mental modeling** in **May 2018**
+  ([[wiki/sources/2018-05-31-yt-iE39TOuVvWw]]). The corpus previously held only a single **2026** credit
+  — *"I learned this from one of my friends, Nicole Johnson, who works in user experience"*
+  ([[wiki/sources/2026-01-22-yt-mgNTZRpZmEk]]). ⚠️ Her mental-modeling method is **hers**
+  (context/do-not-train). *Extended 2026-07-30.*
 - **Richard St. John** — TED speaker and analyst; author of the **"eight traits of successful
   people"** research (passion · work · focus …), built from **~400 interviews over seven years**,
   mostly with TED speakers. ⚠️ **Chris built an entire ikigai workshop on this frame and credits St.

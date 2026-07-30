@@ -16043,3 +16043,39 @@ replaced: **one comparison against a documented life beats title parsing, regist
 inference combined.**
 
 📌 **Stream tally: 27 batches · 19 ingests · 62 open.**
+
+## [2026-07-30] ingest | yt stream batch 301 (@thefutur, 7 triaged, 1 ingested)
+
+**7 rows · 1 ingested · 6 closed.** Open 62 → **54**. L2 = **1066**. Set-check clean.
+
+### ⭐ Two observations from a childhood fight
+
+[[wiki/sources/2017-11-21-yt-2591Djv_qJE]] — an imposter-syndrome stream. Three bigger boys stomped his
+brother's lunch at recess; he confronted them and was called out to fight after school.
+
+> ★★★★★ *"**That's the worst — because now it ruins your whole day. You're just thinking about having to meet
+> up.** … I was really angry, **but by the time you get there, the anger dissipates. Like it doesn't even
+> matter.**"*
+
+✅ **Two things, both absent** (`anger dissipat` **0**): **anticipatory dread is the real cost** of a scheduled
+confrontation, and **the emotion does not survive the wait.**
+
+⚠️ **He offers this as an answer about VULNERABILITY**, not anger — the co-host had just challenged him
+(*"tell me how I'm not vulnerable"*). **The framing is part of the datum.**
+
+### ⚠️ Three restraints on one page
+
+1. **Speaker unnamed.** ✅ He addresses his own crew mid-story (*"what do you want from Aeron?"*) and the
+   setting matches the documented **latchkey / outcast immigrant childhood**. ⚠️ **Positive consistency is not
+   proof** — the basis is written on the page rather than assumed away.
+2. **Second protective act toward a brother** (with the near-drowning rescue) — ⚠️ **recorded as a second
+   instance, not as evidence of a trait.** Two data points are not a disposition.
+3. ⚠️ **I did NOT use the childhood story to explain his adult conflict-avoidance**, though it sits right
+   beside *"most of the time it's not worth it"* from [[2018-07-17]]. **He draws no such line, and drawing it
+   for him would be inventing a causal chain** — the tidiest and most seductive error available in a
+   biography.
+
+⚠️ Also checked and dismissed: the `dugout` hits in the corpus are a **baseball metaphor**, unrelated to
+*"I'll call you out by the dugout."* Same word, different use — the trap this run keeps meeting.
+
+📌 **Stream tally: 28 batches · 20 ingests · 54 open.**

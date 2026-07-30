@@ -192,6 +192,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2017-11-13 | ★ [Stop Overthinking — Take Action (Ep.3)](2017-11-13-yt-yCFGKzFHnOc.md) | mindset | "too-dumb-to-fail" action model, kayak-vs-ship metaphor; Melinda/guest=context; L3-candidate |
 | 2017-11-15 | ★ [17yr Old Designer Sean Campbell](2017-11-15-yt-xRmqvnKepN4.md) | mindset; design-craft; content-strategy | interview (Campbell = context); logo-critique method; L3-candidate |
 | 2017-11-19 | ★ [What Business Advice Has Worked For You? (Ep.4 Finale)](2017-11-19-yt-BV-2cMw6QlY.md) | business; sales-clients; mindset | coaching finale, 2 unnamed coachees=context; client-pyramid/"big-game hunting", drop-small-clients-for-capacity; Blind's first modern-era site $5k → next ~$20k; "make a difference more than making things"; L3-candidate |
+| 2017-11-21 | ★★★ [Conquering Your Internal Demons: Overcoming Imposter Syndrome](2017-11-21-yt-2591Djv_qJE.md) | mindset | livestream; ⭐ **anticipatory dread as the real cost** of a scheduled confrontation, and **the anger not surviving the wait** — *"by the time you get there, the anger dissipates"* (`anger dissipat` was **0**); a childhood lunch-stomping incident where he intervened for his brother; ⚠️ speaker unnamed but biography-consistent; family generic; SAMPLED |
 | 2017-11-23 | ★ [The Best Logos Are Simple, Not Overworked](2017-11-23-yt-TH-jqZ4xueI.md) | design-craft; branding | restraint=timelessness, judge mark separate from application, Dieter Rams; Molly=context; L3-candidate |
 | 2017-12-04 | ★ [What Not To Do With A Design Layout](2017-12-04-yt-atS36kzr8zg.md) | design-craft | layout/craft critique; Chris-led (co-host Molly); L3-candidate |
 | 2017-12-07 | ★ [Self-Doubt & Imposter Syndrome — Tips To Overcome](2017-12-07-yt-EIW1Xt5l2T8.md) | mindset | self-confidence-vs-self-esteem, caregiver-imprint, empty-chair; therapist=context; rich Chris biography; L3-candidate |
@@ -1087,4 +1088,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-07-26 | ★ [Art of Being You](2026-07-26-yt-arFD056cke4.md) | mindset; branding | short; ⏳ **FRESHEST SOURCE IN THE CORPUS** — **adulting as recovery, not attainment** ("the person you always were… stripped away by socialization"); the lone-wolf conformity argument (🗣️ his reasoning, not science); authenticity → presence; ⚠️ reconcile with mindset §106 before promoting; L3-candidate |
 
 ---
-_1065 videos ingested (L2) so far._
+_1066 videos ingested (L2) so far._

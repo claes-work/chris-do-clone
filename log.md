@@ -15907,3 +15907,40 @@ I wrote the page as **2018-09-13**, inferred from surrounding index rows. **The 
 2018-09-17.** Renamed the file and corrected three date references before the index row went in. 📌 **The
 raw filename is the authority for `source_date`** — it comes from the fetch, not from my reading of
 neighbours. **Guessing a date from adjacent index rows is how a timeline quietly drifts.**
+
+## [2026-07-30] ingest | yt stream batch 297 (@thefutur, 8 triaged, 0 ingested) — ⚠️ the biography as the speaker test
+
+**8 rows · 0 ingested · 8 closed.** Open 94 → **86**.
+
+### ⚠️ A rich childhood story that is not his — and how I settled it
+
+`yt-EGZG-tGlFEw` contains a first-person origin story with everything a biographer wants:
+
+> *"[A German émigré] came to Cambridge, Massachusetts after he left Germany, and he was **a professor at
+> the Harvard Graduate School of Design**… one of those graduate students was **my neighbour**. So **when I
+> was 10 I got this book, and it's a MILTON GLASER**, filled with work [by] Seymour Chwast and Paul Davis
+> and Edward Sorel… **that's when I realized I fell in love with this stuff.**"*
+
+`milton glaser` returns **0** corpus-wide. **It looked like an unrecorded origin datum.**
+
+⚠️ **It is Brian Collins's** — CCO and co-founder of COLLINS, the guest in *"Why Redesign the Dropbox Logo?
+**Design Master Brian Collins Explains**."*
+
+📌 **My widened title pattern missed it again** — a name plus *"Explains"*, with no `w/`, `with`,
+`interview` or `panel`. **Two batches in a row the title heuristic has failed on the same shape.**
+
+✅ **What settled it was not the title — it was the BIOGRAPHY.** Chris's recorded childhood is **San Jose,
+a Vietnamese refugee family, IBM dot-matrix paper and Crayola markers at ~7, skateboard graphics**. A
+Harvard-GSD neighbour and a Milton Glaser monograph at 10 **contradicts it outright.**
+
+⚠️ **This is a better speaker test than any title pattern**, and I am adopting it as the primary one:
+**check a first-person biographical claim against `persona/biography` before believing it.** Register can be
+imitated and titles are inconsistent; **a documented life is a fixed point.**
+
+⚠️ `brian collins` already returns **21** — the guest is well known to the corpus; only this childhood
+detail was new, and it is his.
+
+Also closed: an *Hourly Billing Is Nuts* stream (Jonathan Stark's book, already fenced), a delegation-book
+reference, in-house vs agency, entrepreneur myths (Blair Enns's *Pricing Creativity*), pricing streams.
+
+📌 **Stream tally: 24 batches · 17 ingests · 86 open.**

@@ -344,6 +344,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-12-11 | [How to Apply What You Learn](2018-12-11-yt-nI5NmyTtyu4.md) | mindset; content-strategy | consume→convert→share, don't-be-a-learning-hoarder; Chris solo |
 | 2018-12-12 | [What Is Your Creative Process? A Documenting Challenge](2018-12-12-yt-DxvKsid8trg.md) | design-craft; mindset; content-strategy | document-tacit-process = precursor to codify-steps + delegation + explain-to-clients; Coffee Challenge; Chris solo |
 | 2018-12-16 | [Pros & Cons of Running A Design Business From Home](2018-12-16-yt-7bDassY8uP0.md) | business; mindset | distributed-teams, remote-hiring, cost-of-living-arbitrage; Chris solo; generic |
+| 2018-12-13 | ★★★ [5 Tips On How To Talk To New Clients](2018-12-13-yt-AkHGk1l1Lx4.md) | pricing; sales-clients; business | livestream; ⭐ **a four-band job-size matrix** (<$5k · $5–30k · $30–200k · >$200k) and ⭐ **the ~$200k threshold above which competition goes GLOBAL** — *"most clients can choose to work with **whomever they want**… it's **who's best in the world**"*; his coach corrects an inflated self-assessment (*"I thought I was playing at the A League"*); ⚠️ coach UNNAMED — not attributed to McLaren; SAMPLED |
 | 2018-12-19 | ★ [How to Make More Time: Document, Delegate, Automate](2018-12-19-yt-I09EDxElu3o.md) | business; mindset | doc mechanics: 2 audiences, 6-point how-to, medium-agnostic, Notion-wiki + public-YouTube training; Matthew/Jonah=context; L3-candidate |
 | 2018-12-20 | ★ [How to Get a Mentor](2018-12-20-yt-3PMB0emL7RY.md) | sales-clients; mindset | value-exchange, ask-SMALL (15min for a yes), scaffolding (trade-up), give-2-5x-value, don't-assume; complements level-up-to-close-gap; L3-candidate |
 | 2018-12-26 | ★ [Stop Charging Hourly — Pricing Design Work](2018-12-26-yt-jE53O1PzmNU.md) | pricing; sales-clients | Socratic-flip, symmetry-of-logic (can't cap AND count hours), "hourly punishes me for being good", value-appreciates ($18k→26k); Jung=context; L3-candidate |
@@ -1082,4 +1083,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-07-26 | ★ [Art of Being You](2026-07-26-yt-arFD056cke4.md) | mindset; branding | short; ⏳ **FRESHEST SOURCE IN THE CORPUS** — **adulting as recovery, not attainment** ("the person you always were… stripped away by socialization"); the lone-wolf conformity argument (🗣️ his reasoning, not science); authenticity → presence; ⚠️ reconcile with mindset §106 before promoting; L3-candidate |
 
 ---
-_1060 videos ingested (L2) so far._
+_1061 videos ingested (L2) so far._

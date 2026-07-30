@@ -15785,3 +15785,41 @@ guest-led course stream (`power of habit` **0**, but the guest's), three passive
 logo-critique stream, a Young Guns learning session.
 
 📌 **Stream tally: 20 batches · 15 ingests · 118 open.**
+
+## [2026-07-30] ingest | yt stream batch 294 (@thefutur, 8 triaged, 1 ingested)
+
+**8 rows · 1 ingested · 7 closed.** Open 118 → **110**. L2 = **1061**. Set-check clean.
+
+✅ **Title-first ordering applied**, per last batch's near-miss: the sweep classified each row by title
+before any transcript was read, and **only the six non-guest-titled rows were swept.** One row
+(`w/ Jonathan Stark`) was set aside on its title alone — Stark is already fenced in `entities/influences`
+as context/do-not-train.
+
+### ⭐ A job-size matrix and a threshold with a real edge
+
+[[wiki/sources/2018-12-13-yt-AkHGk1l1Lx4]]:
+
+> ★★★★ *"I **created this matrix of different size jobs**: **under $5,000 · $5–30k · $30–200k · over
+> $200k.**"* — `5 to 30|30 to 200` returns **0**; the corpus holds many price points but **not this as a
+> deliberate segmentation.**
+
+> ★★★★★ *"**I thought I was playing at the A LEAGUE** — but my coach told me: **once you get north of
+> $200,000, most clients can choose to work with WHOMEVER THEY WANT.** … It's not who's best in your town
+> or your state — **it's who's best in the world.**"*
+
+✅ **This is falsifiable, not motivational**: at ~$200k+, geography stops protecting you. `whomever they
+want` and `a league` both **0**.
+
+### ⚠️ The attribution I withheld
+
+The coach is **unnamed**. [[wiki/entities/kier-mclaren]] is the documented *"long-running business
+consultant/coach (~10–15 years)"*, and this correction has **exactly the shape of the two already on his
+page** — *"you're hiding in your room"*, *"you're not doing a great job"* — plus the one I added yesterday.
+**A fourth would fit the pattern neatly.**
+
+⚠️ **I recorded it as "his business coach" and did not attach the name.** The pattern matching is
+suggestive and the source is silent; **`kier-mclaren` should gain an intervention only when a source names
+him.** Adding it on shape alone is how an entity page accumulates plausible fiction — and this page's own
+value rests on its interventions being **documented**, not inferred.
+
+📌 **Stream tally: 21 batches · 16 ingests · 110 open.**

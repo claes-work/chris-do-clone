@@ -50,6 +50,11 @@ call sites, so streams were counted nowhere and selected never (found log.md bat
       *Unbland Yourself* (Dec 2025 digital workbook); 15 Teachable courses at
       academy.thefutur.com (see media inventory dossier)
 - [ ] Obtain texts from the user → `raw/books/` → L3 ingest
+- [x] ⭐ **Partial cover found 2026-07-30 while the texts are still missing:**
+      [[wiki/sources/2020-08-14-yt-3Xv8G8KZMhY]] is a **Pro-group AMA in which Chris answers questions
+      about *Pocket Full of Do* himself** — authorial commentary the text alone would not contain
+      (sold-out first edition, demand-driven second edition, Greg Gunn's colour palette).
+      ⚠️ **It does NOT replace the text**; the Phase-2 need above stands.
 
 ## D. Other sources — OPEN (23 named guest appearances listed in the media
       inventory dossier are ready ledger candidates)

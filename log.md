@@ -15413,3 +15413,41 @@ recommendations).
 📌 **Running tally for the stream tier: 10 ingests, and the yield is entirely provenance and dates** —
 4 attribution repairs, 2 named shorts-parents, 2 timeline anchors, 1 book launch, 1 corrected
 relationship. **Zero new doctrine in ten streams.**
+
+## [2026-07-30] ingest | yt stream batch 284 (@thefutur, 6 triaged, 1 ingested)
+
+**6 rows · 1 ingested · 4 closed · 1 members-only.** Open 195 → **189**. L2 = **1056**.
+Set-check clean. **Page written BEFORE the status was set this time.**
+
+### ⭐ The stream tier reaches into Phase 2
+
+[[wiki/sources/2020-08-14-yt-3Xv8G8KZMhY]] — *Answering Questions About My Book*, a Pro-group AMA on
+***Pocket Full of Do***.
+
+📌 **Why this matters beyond its content:** `BACKLOG.md` Phase 2 has been blocked since bootstrap on
+*"obtain the book texts from the user."* **This is the author answering questions about his own book** —
+not a substitute for the text, but **authorial commentary the text alone would not contain.** Recorded
+in BACKLOG as a partial cover, with the original need left open rather than ticked off.
+
+⏳ **Two dated publishing facts:** *"This is the first edition. I have **the second edition** here…
+**the first edition was SOLD OUT.**"* `biography` records a neutral *"2nd printing 2020"*; this fixes
+the state at **2020-08-14** and shows the reprint was **demand-driven**.
+
+★★★ **A design credit on his own book:** *"**GREG GUNN**… **was responsible for picking these
+colours**… if I don't know what colours to pick, **I'm gonna go to the colour guy himself.**"* `greg
+gunn` is on **49** pages, but **this credit was not** — the second edition's palette is Gunn's choice.
+⚠️ Note the deference: he outsources a colour decision on his own book and says so publicly.
+
+### Four closed, one with a caveat worth recording
+
+`Cysz2DEHM_g` (*8 ESSENTIAL Things To Run A Successful Business*) — ⚠️ **`marcus whitney` returns 0
+corpus-wide**, so the sweep flagged a genuinely absent name. **But the material is his**: the eight
+essentials and *"his book is mostly about my failures"* are **Whitney describing his own work** as the
+guest. **A name being absent is not a reason to record it** — the question is whose material it is.
+Closed guest-primary.
+
+Also closed: Petrula Vrontikis dream-job stream (her method already fenced at `yt-GV9fj-Cud5U`) · an
+education panel (his critique is saturated) · a client role-play (saturated).
+
+📌 **Stream tally: 11 ingests, still zero new doctrine** — and now **one Phase-2 partial**, two timeline
+anchors, four attribution repairs, two named shorts-parents.

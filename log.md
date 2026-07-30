@@ -15196,3 +15196,44 @@ it originally missed this**, not silently patched — and Brian Elliott is flagg
 📌 **Both halves of this entry come from the same root cause: sampling.** I read the sections a title
 points at and miss what sits three paragraphs away. **The sweep is the cheap countermeasure** — it does
 not require reading 20k words, only searching them for the one thing streams are unusually rich in.
+
+## [2026-07-30] lint | three attribution repairs applied to the wiki (not deferred to the checkpoint)
+
+⚠️ **Correction to my previous report:** I said the synthesis checkpoint would fire this iteration. The
+driver reads **9/10** — the lint entry did not count as an ingest batch. **I did not wait.**
+
+📌 **Reasoning for acting now rather than at the checkpoint:** the streams have produced four
+attribution findings, and **three of them are corrections to material already in the wiki, not
+candidates for promotion.** A wrong credit sitting in `wiki/` is a standing **rule-6 violation** —
+someone else's framework recorded as the subject's. **Promotions can wait for a checkpoint; errors
+should not.**
+
+### 1. ⚠️ `wiki/sources/2021-01-21-yt-nM0fDSH4bl8` — attribution marker corrected
+
+The bullet tying the story to *"eight traits (passion, hard work, focus)"* carried
+***(Chris-attributed)***. **The eight traits are RICHARD ST. JOHN's** TED research — 400 interviews
+over seven years — which Chris credits explicitly at
+[[wiki/sources/2020-12-11-yt-BAzs3amtEFA]].
+
+**Marker changed to *(mixed — ikigai framing Chris-attributed; eight traits = Richard St. John)***,
+with an inline note explaining what was wrong and where the credit comes from. ⚠️ **The note stays
+visible** — a silently corrected attribution teaches nothing to the next reader.
+
+### 2–4. Three names added to [[wiki/entities/influences]], all previously absent
+
+| Name | Why it matters |
+|---|---|
+| **Richard St. John** | the eight-traits research; marked **context/do-not-train** |
+| **Brian Elliott** (*Behind the Brand*) | ⏳ **told Chris to use Shorts.** The channel's largest documented growth event — 17,000 subscribers in a day — **followed advice he accepted**, not a strategy he devised |
+| **Jodie Cook** | ⚠️ **co-host, not recurring guest** — recording weekly since **January 2025**; the existing `second-appearance` tag understates it. Flagged for her own collaborator page |
+
+### 📌 What four batches of streams have actually been worth
+
+Not doctrine — the doctrine is saturated. **Provenance.** In seven stream ingests the tier has produced
+**four attribution repairs** (St. John, CORE→Caballer corroborated, Jodie Cook's role, Brian Elliott)
+and **two named parents** for shorts previously closed as bare `dup-of:corpus`.
+
+⚠️ **This is a structural property of the source type, not luck**: the long unedited format is where he
+says *where things came from*, and the edited uploads and shorts cut exactly that. **A corpus built only
+from edited video will systematically under-credit.** Worth stating plainly because it argues for
+finishing the stream tier even as the doctrine yield falls.

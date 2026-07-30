@@ -168,6 +168,23 @@ material, not persona-attributed.
 Authors and speakers Chris quotes or paraphrases in his teaching. They are **cited
 sources**, not part of his personal network — no entity pages needed:
 
+- **Richard St. John** — TED speaker and analyst; author of the **"eight traits of successful
+  people"** research (passion · work · focus …), built from **~400 interviews over seven years**,
+  mostly with TED speakers. ⚠️ **Chris built an entire ikigai workshop on this frame and credits St.
+  John by name** ([[wiki/sources/2020-12-11-yt-BAzs3amtEFA]], 2020-12-11) — but the credit had been
+  **lost** in [[wiki/sources/2021-01-21-yt-nM0fDSH4bl8]], where the traits were marked
+  *(Chris-attributed)*. **Corrected 2026-07-30.** (Context/do-not-train — the research is his.)
+- **Brian Elliott** — YouTube creator, channel ***Behind the Brand***. ⏳ **The person who told Chris
+  to use YouTube Shorts.** After a conversation about Elliott's book he said *"Chris, you really need
+  to take advantage of Shorts"* — and Chris *"tip[s] my hat towards him."* ⚠️ **The channel's largest
+  documented growth event (17,000 subscribers in one day) followed advice he accepted, not a strategy
+  he devised.** ([[wiki/sources/2021-12-11-yt-cQrw7pu_jqQ]], 2021-12-11; found 2026-07-30.)
+- **Jodie Cook** — Forbes contributor. ⚠️ **NOT a recurring guest — a CO-HOST.** She and Chris
+  *"have been recording together all year, nearly a year now,"* starting **January 2025** with *How to
+  Stop Caring About What Everyone Thinks*. [[wiki/sources/2025-01-09-yt-Sb80TUwoTOE]] tags her
+  `second-appearance`, which **understates the relationship**; corrected from the livestream tier
+  ([[wiki/sources/2025-12-02-yt-jomVDSzhKEo]], found 2026-07-30). **Deserves her own entity page as a
+  collaborator.**
 - **Jim Rohn**, **Brian Tracy** — personal-development / discipline and goals.
 - **Blair Enns** — pricing and winning-without-pitching for creatives. Co-host of the
   2021 WWPM Clubhouse rooms; full context page: [[blair-enns]].

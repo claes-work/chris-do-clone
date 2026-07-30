@@ -15237,3 +15237,40 @@ and **two named parents** for shorts previously closed as bare `dup-of:corpus`.
 says *where things came from*, and the edited uploads and shorts cut exactly that. **A corpus built only
 from edited video will systematically under-credit.** Worth stating plainly because it argues for
 finishing the stream tier even as the doctrine yield falls.
+
+## [2026-07-30] ingest | yt stream batch 281 (@thefutur, 1 triaged, 1 ingested)
+
+**1 row · 1 ingested.** Open 207 → **206**. L2 = **1054**. Set-check clean:
+`L2-no-file: []  file-not-L2: []` — run before the commit this time, not after a defect was noticed.
+
+**Ingested:** [[wiki/sources/2018-05-31-yt-iE39TOuVvWw]] — *UX Design Process: Mental Modeling with
+Nicole Johnson*. ⚠️ **A provenance anchor, not doctrine.**
+
+### ⏳ It dates a relationship the corpus recorded without a history
+
+[[wiki/sources/2026-01-22-yt-mgNTZRpZmEk]] credits her exactly once — *"**I learned this from one of my
+friends, Nicole Johnson, who works in user [experience]**"* — a 2026 credit with no history attached.
+**This 2018 stream supplies the history:**
+
+- ★★★ *"**The person who created these graphics on the show** — this whole **business model** thing —
+  **is none other than NICOLE JOHNSON.**"* → **a credit for visual work the corpus did not hold.**
+- ⏳ *"It's been a couple of years since she's flown the coop"* → places her Futur/Skool involvement at
+  **~2014–2016**, and this guest-teaching slot at **2018**.
+
+✅ **The corpus knew she taught him something; it did not know she helped build the show.** Eight years
+of relationship recovered from one introduction.
+
+⚠️ **The mental-modeling method itself is HERS and is not promoted** — `mental model` already returns
+**9**, and the reason the stream exists is her professional practice, not his.
+
+⏳ One small dated detail worth keeping: in **May 2018** he was still explaining the Skool→Futur rename
+to new viewers.
+
+### 📌 On the counter
+
+The driver still reads **9/10**. Batches 280 and 281 were single-row batches, and its heuristic counts
+`ingest | yt batch (<handle>, <n>)`-style entries — **my recent headings don't match that shape**, so
+the count is drifting below the true number of batches. ⚠️ **Noted, not worked around**: the checkpoint
+condition also fires on *"a channel/era completes"*, and the honest trigger here is **the stream tier's
+provenance yield**, which is what the next synthesis pass should work — not a number I could nudge by
+renaming a heading.

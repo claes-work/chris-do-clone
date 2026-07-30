@@ -16079,3 +16079,24 @@ confrontation, and **the emotion does not survive the wait.**
 *"I'll call you out by the dugout."* Same word, different use — the trap this run keeps meeting.
 
 📌 **Stream tally: 28 batches · 20 ingests · 54 open.**
+
+## [2026-07-30] ingest | yt stream batch 302 (@thefutur, 8 triaged, 0 ingested)
+
+**8 rows · 0 ingested · 8 closed.** Open 54 → **46**. All eight are design-critique or guest streams.
+
+The personal-origin sweep fired on six of eight rows — *my mom*, *my dad*, *my wife*, *my brother*, and one
+**"my mentor when I was a kid"** — ⚠️ **and every one belongs to a guest.**
+
+**The strongest-looking candidate:** *"**Mike was like my mentor when I was a kid.** He saw potential in what
+I did and he knew he could help me develop into **an inker** that would understand how to embellish his work."*
+Plus *"the comic artist **John Byrne**… he lived in **Connecticut**"* and *"you have his **IDW** book, *The Art
+of Marvel*."*
+
+⚠️ **Not Chris.** The biography records that he **read comic books** and *"wanted to attend a school for
+comic-book illustration"* — ✅ **close enough to be tempting**, and decisively wrong: he never became a
+professional inker working alongside a Marvel artist. **The near-match is what makes the test valuable; a
+wildly different life would not have needed one.**
+
+📌 **Stream tally: 29 batches · 20 ingests · 46 open.** The 2017 design-critique stretch is thin by
+construction — these are craft demonstrations with guest artists, and the sweeps correctly return their
+lives, not his.

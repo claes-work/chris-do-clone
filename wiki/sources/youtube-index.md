@@ -198,6 +198,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2017-12-12 | [Learn Typography: Design Course Trailer](2017-12-12-yt-gI8fEZvwZyY.md) | design-craft | promo trailer; VOICE BANK — "if you don't control type, type controls you" catchphrases |
 | 2017-12-15 | ★ [F1 Formula 1 Logo Review Critique](2017-12-15-yt-y42PI9peurI.md) | design-craft; branding | "logo is the tip of the beast" — judge system/business-fit not standalone; Chris solo; L3-candidate |
 | 2017-12-20 | [How To Present Logo Designs to Clients](2017-12-20-yt-BSxg87CoOu4.md) | sales-clients; branding; design-craft | presenter Ben Burns, NOT Chris — context only |
+| 2017-12-21 | ★★★ [Double Your Design Business](2017-12-21-yt-ClJ72Da6cCI.md) | mindset; sales-clients | livestream; ⭐ **the FIRST maxim from his father recorded anywhere** — *"nothing in life worth having is free… **and he's totally right**"* (`my dad told` was **0**; biography had the father as circumstance, not voice); ★★★★ he admits **nearly buying a timeshare he didn't want** — beaten by a technique he teaches against; family generic; SAMPLED |
 | 2017-12-26 | [DIY Packaging Design Assignment Challenge](2017-12-26-yt-yg9-bxIf4s4.md) | design-craft; branding; content-strategy | packaging-redesign exercise (item under $10); student=context |
 | 2018-01-01 | [Why Being Bad Is Good For Art (3 min edit)](2018-01-01-yt-ScACW5YgiXs.md) | mindset; design-craft | CONTEXT: Chris absent; guest Jonah Loeb + host Mark Contreras |
 | 2018-01-10 | [Double Your Revenue — Grow Your Design Agency](2018-01-10-yt-QPKUN40ZjK8.md) | business; pricing; sales-clients | referral/low-hanging-fruit/order-of-ask coaching; coachees=context |
@@ -1086,4 +1087,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-07-26 | ★ [Art of Being You](2026-07-26-yt-arFD056cke4.md) | mindset; branding | short; ⏳ **FRESHEST SOURCE IN THE CORPUS** — **adulting as recovery, not attainment** ("the person you always were… stripped away by socialization"); the lone-wolf conformity argument (🗣️ his reasoning, not science); authenticity → presence; ⚠️ reconcile with mindset §106 before promoting; L3-candidate |
 
 ---
-_1064 videos ingested (L2) so far._
+_1065 videos ingested (L2) so far._

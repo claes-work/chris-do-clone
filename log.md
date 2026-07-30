@@ -16005,3 +16005,41 @@ Also closed: hand-lettering, a career interview, motion-design (GMUNK), a PowerP
 *Pricing Creativity* AMA (Enns saturated at ~45 pages), a clothing-brand launch.
 
 📌 **Stream tally: 26 batches · 18 ingests · 70 open.**
+
+## [2026-07-30] ingest | yt stream batch 300 (@thefutur, 8 triaged, 1 ingested)
+
+**8 rows · 1 ingested · 7 closed.** Open 70 → **62**. L2 = **1065**. Set-check clean.
+
+### ⭐ The first thing his father ever said, in 1,065 sources
+
+[[wiki/sources/2017-12-21-yt-ClJ72Da6cCI]]:
+
+> ★★★★★ *"**I will never go and eat a free breakfast again, because NOTHING IS FREE. That's what MY DAD told
+> me: nothing in life worth having is free. AND HE'S TOTALLY RIGHT.**"*
+
+⚠️ **`my (dad|father) (told|said)` returned 0.** `biography` documents the father **structurally** — the
+immigration, the family's arrival, the parents cutting him off financially — **but nothing the man ever said
+to him.** This is the first line of transmission.
+
+✅ **The ratification is what makes it persona material.** *"And he's totally right"* — he is not reporting a
+family saying, he is **adopting** it. Without that clause it would be an anecdote about a parent.
+
+★★★★ **And the occasion is unusually candid**: a **timeshare pitch he nearly lost to** — *"they're grinding
+me. **I almost bought a timeshare I didn't even want.** That's how effective they are at selling."* ⚠️ **He
+admits being beaten by a pressure technique he teaches against**, and analyses their objection handling while
+conceding it worked on him. **The corpus is thick with him diagnosing manipulative sales; this is him on the
+receiving end.**
+
+### ✅ The biography test, third clean kill
+
+`yt-zwcOx5gXpzk` opened with *"my brother who's a year older than myself"* — ⚠️ **and the biography says an
+older brother 4 years older and a younger brother 1 year younger, so neither fits.** Three more lines
+settled it: *"born in Los Angeles… studied architecture at **Montana State**… my mom was **16** when she had
+two of us."* **Guest.** Chris is the interviewer asking how an architecture student ended up in graphic
+design.
+
+📌 **The test is now doing most of the attribution work**, and it is cheaper than every heuristic it
+replaced: **one comparison against a documented life beats title parsing, register judgement and speaker
+inference combined.**
+
+📌 **Stream tally: 27 batches · 19 ingests · 62 open.**

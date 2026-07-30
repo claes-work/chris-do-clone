@@ -15603,3 +15603,33 @@ CALLER describing what Chris suggested in an earlier video** (*"you had mentione
 Chris introducing a mentor. **Audience feedback about his idea, not new material.** The personal-origin
 sweep flags first-person possessives regardless of speaker, so this is the same speaker-check discipline
 the DJ/Lee near-miss required.
+
+## [2026-07-30] ingest | yt stream batch 288 (@thefutur, 8 triaged, 0 ingested)
+
+**8 rows · 0 ingested · 8 closed.** Open 166 → **158**. Both sweeps run; set-check clean.
+
+**One row needed a decision rather than a glance.** `yt-EiRAVtJLv6o` (*w/ Elizabeth Carey Smith*)
+contains a crisp definition: *"**he taught me how to art direct** — which is mostly **have a vision in
+your head of what you want, communicate that to the photographer, and then get the hell out of their
+way.**"*
+
+⚠️ **Closed on two independent grounds, either of which would suffice:**
+
+1. **Speaker unresolved.** The stream is a two-hander between **two working art directors** — Chris and
+   Smith — and the captions carry no labels. **Both are plausible.** ⚠️ Unlike the DJ/Lee case, there is
+   no autobiographical detail pointing either way, so there is nothing to resolve it *with*.
+2. **Even if it were his, it restates held doctrine.** `get (the hell) out of (their) way` returns **8**,
+   and pass 27 promoted *"art direction as feedback, not taking the mouse"* from a **self-identified**
+   source. **A second, weaker-attributed telling of the same principle adds nothing.**
+
+📌 **Worth noting that ground 2 makes ground 1 moot** — and that is the cheaper order to check. When a
+passage restates held doctrine, the attribution question does not need answering at all. **I checked the
+corpus before spending effort on the speaker**, which is the opposite of what I did in early batches of
+this run.
+
+Seven others closed: a Marty Neumeier branding deep-dive (Neumeier saturated), UX and freelance guest
+interviews, a time-management stream. **Nothing the sweeps flagged resolved to Chris.**
+
+📌 **Stream tally: 15 batches · 13 ingests · 158 rows open.** The last two batches produced real doctrine;
+this one produced none. **No trend claimed from one flat batch** — the yield is lumpy because the queue is
+unsorted by content.

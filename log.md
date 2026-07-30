@@ -16423,3 +16423,31 @@ L2 page* does not change the L2 count. **Corrected back to 1069** in the next co
 📌 **Worth recording rather than quietly fixing.** The reflex "added an index row → bump the count" is right
 in every normal batch and wrong in exactly this repair case. **A habit that is correct 99% of the time is the
 hardest kind to catch**, which is why the three-way check now runs the numbers instead of my reflex.
+
+## [2026-07-30] lint | contradiction audit — my own new flags did not follow the repo's convention
+
+Ran the last unexecuted lint step: **inventory the contradiction flags.**
+
+**53 files carry a `CONTRADICTION` callout** — `mindset` **9** · `biography` **8** · `pricing` **5** ·
+`content-strategy` **5** · `sales-clients` **4** · `business` **4** · `beliefs` **4** · `design-craft` **3** ·
+`branding` **2**. ✅ **The convention is well established and the flags are in place.**
+
+### ⚠️ Except for two I added myself in the last two passes
+
+`AGENTS.md` rule 4 specifies a **`> ⚠️ CONTRADICTION:` callout** — which makes contradictions **greppable**.
+⚠️ **I wrote the "constant improver" sourcing discrepancy as a plain prose warning** (*"TWO DIFFERENT STATED
+ORIGINS"*) on both the source page and in the `mindset` hub. **Readable, and invisible to the audit I just
+ran.**
+
+✅ **Both now carry `⚠️ CONTRADICTION (minor, sourcing)`.** The 2018-vs-2020 caretaker discrepancy was already
+correctly flagged.
+
+📌 **This is a small defect with a disproportionate cost.** The value of a convention is that it turns
+scattered judgements into a queryable set — **a flag written in my own words instead of the repo's is a
+contradiction the wiki no longer knows it has.** ⚠️ **And I would not have found it by reading; only by running
+the audit that depends on the convention.**
+
+📌 **All four Stage-D lint checks have now been run at least once:** index/ledger/file consistency (three-way,
+every batch) · system-prompt drift (repaired, v25) · orphan pages (one repaired) · contradictions (two
+re-flagged). ⚠️ **Every one of the four found something**, which is a fair verdict on how much of this run's
+verification was happening by habit rather than by check.

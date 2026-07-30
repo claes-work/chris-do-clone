@@ -4804,6 +4804,11 @@ adult conflict-avoidance** — he draws no such line, and the corpus should not 
 
 > ★★★★★ *"I'm **a constant improver** — **that's what MY THERAPIST told me.**"*
 
+> ⚠️ **CONTRADICTION (minor, sourcing):** the label **"constant improver"** has two stated origins — **his
+> therapist** (2017-08-10, his own voice) and **Myers-Briggs INTJ** (2019-06-12, a team member, marked
+> *"context, not Chris's own voice"*). **Not necessarily incompatible** — a therapist may have administered
+> the instrument — but **the earlier, first-person account is the therapist.** Both retained.
+
 ⚠️ **The corpus previously held this label only from a TEAM MEMBER in 2019**, deriving it from **Myers-Briggs
 INTJ** and marked *"context, not Chris's own voice."* **This is two years earlier, in his own voice, sourced
 to a person.** ⚠️ **Both accounts retained; neither deleted.** Also: *"we are always doing **post-mortems** —

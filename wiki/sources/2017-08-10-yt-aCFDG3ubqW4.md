@@ -30,7 +30,7 @@ tags: [constant-improver, therapy, post-mortems, self-label, earliest-attestatio
 [[2019-06-12-yt-48x0psjq6Uk]], where it is spoken by **a team member** and explicitly marked *"context, not
 Chris's own voice"*: *"Chris is an **INTJ on the Myers-Briggs scale**… that means he's a constant improver."*
 
-> ⚠️ **TWO DIFFERENT STATED ORIGINS for the same label.**
+> ⚠️ **CONTRADICTION (minor, sourcing): TWO DIFFERENT STATED ORIGINS for the same label.**
 > **2019-06-12 (team member):** the label follows from a **Myers-Briggs type**.
 > **2017-08-10 (here, Chris):** the label came from **his therapist.**
 >

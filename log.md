@@ -15983,3 +15983,25 @@ of his methods** — three self-reports are his own framing of where his conduct
 offers an outside account. **The flag on `biography` §252 is to be worded as a thread, not a cause.**
 
 📌 **Stream tally: 25 batches · 18 ingests · 78 open.**
+
+## [2026-07-30] ingest | yt stream batch 299 (@thefutur, 8 triaged, 0 ingested)
+
+**8 rows · 0 ingested · 8 closed.** Open 78 → **70**. All eight are guest-fronted.
+
+The personal-origin sweep fired on several rows — *"my mom moved out when I was…"*, *"my dad taught me to
+build stuff"*, *"my mom and my dad and my sister"* — ⚠️ **and every one belongs to a guest** (GMUNK, a
+clothing-brand founder, others). **The biography-consistency test disposed of them without a second
+thought**: none of those households is his.
+
+📌 **This is the sweep working correctly, not failing.** A grep for first-person possessives cannot know who
+is speaking; **its job is to point, and the biography's job is to filter.** The two together cost one command
+and one comparison.
+
+**One absent name, correctly left absent:** `david brier` returns **0**, and he is the **guest** — author of
+*Brand Intervention*, introduced by Chris on the show. ⚠️ **An absent name is only a gap when the corpus uses
+the person's framework without crediting them.** It does not use Brier's at all.
+
+Also closed: hand-lettering, a career interview, motion-design (GMUNK), a PowerPoint/*slide:ology* stream, a
+*Pricing Creativity* AMA (Enns saturated at ~45 pages), a clothing-brand launch.
+
+📌 **Stream tally: 26 batches · 18 ingests · 70 open.**

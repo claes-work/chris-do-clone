@@ -15864,3 +15864,46 @@ with no `w/` and no "with"**, so my title classifier passed it through as non-gu
 interview**, and the find inside it happens to be Chris's own — **but the classifier got that right by
 luck, not by logic.** The pattern needs *"Interview"* and bare-name forms added; recorded rather than
 patched mid-batch.
+
+## [2026-07-30] ingest | yt stream batch 296 (@thefutur, 8 triaged, 1 ingested) — ⭐ a NAMED McLaren intervention, and it is personal
+
+**8 rows · 1 ingested · 7 closed.** Open 102 → **94**. L2 = **1063**. Set-check clean.
+Widened the guest-title pattern to catch `interview`, `panel`, `ep. N` and bare-name forms — it set aside
+two rows on title alone this batch.
+
+### ⭐ The fourth intervention, and the first about his life
+
+[[wiki/sources/2018-09-17-yt-zDErNstrCvs]] — ⭐ **he names the coach**: *"I asked **my coach KIER
+MCCLAREN**."*
+
+The setup: an award he **did not want to accept** — *"I didn't want to accept my award, because I knew I was
+gonna have to go onstage… **it scared the living daylights out of me.**"* Allowed a plus-one, he asked who to
+bring:
+
+> ★★★★★ *"**I was thinking about asking my EXECUTIVE PRODUCER**… and he looked at me like this: **ARE YOU
+> KIDDING ME? YOU BRING YOUR WIFE.** How often are you gonna win one? **Take her out on a night on the town —
+> this is your excuse.**"* → *"**Luckily I had that wise man saying that.**"*
+
+✅ **What was corrected is an instinct, not a tactic**: his default was to treat a personal milestone as a
+work occasion. ⚠️ **The other three McLaren interventions in the corpus are all professional** — client-facing
+behaviour, discovery questions, self-assessment. **This is the first personal one**, and `bring your wife`
+returned **0**.
+
+⚠️ Family generic (*my wife*) — **no name recorded.**
+
+### ⚠️ It strengthens an inference I am still refusing
+
+[[2018-09-17]] shows him naming McLaren; [[2018-12-13]] records a coaching correction from an **unnamed**
+*"business coach"* three months later, which I declined to attribute last batch. **They are now shown to be
+contemporaneous.**
+
+⚠️ **Contemporaneity is not identity.** The unnamed one stays unnamed. **What legitimately changed is
+narrower**: the corpus can now show that *"his business coach"* in late 2018 was a relationship he was
+actively consulting **and naming elsewhere** — which is context, not attribution.
+
+### ⚠️ A date error I caught before indexing
+
+I wrote the page as **2018-09-13**, inferred from surrounding index rows. **The raw filename says
+2018-09-17.** Renamed the file and corrected three date references before the index row went in. 📌 **The
+raw filename is the authority for `source_date`** — it comes from the fetch, not from my reading of
+neighbours. **Guessing a date from adjacent index rows is how a timeline quietly drifts.**

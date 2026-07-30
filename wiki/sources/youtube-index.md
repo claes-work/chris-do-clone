@@ -297,6 +297,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-09-11 | ★ [Success Leaves Clues — How to Study Successful People](2018-09-11-yt-Xi3VhHp8llI.md) | mindset | learn-by-modeling / study-successful-people, introvert-who-forced-change; Chris solo; L3-candidate |
 | 2018-09-13 | ★ [Your True Self Is A Full Spectrum](2018-09-13-yt-SAXRxpiJqcE.md) | mindset; branding | prism/full-spectrum authentic-identity ("I haven't changed, I've shown you more of me"); DJ Mike=context; L3-candidate |
 | 2018-09-14 | [How to Create a Wax Seal Logo Mockup in Photoshop](2018-09-14-yt-3i-jz-6Xu8U.md) | design-craft | CONTEXT: Emily-led tool tutorial; Chris interviewer only |
+| 2018-09-17 | ★★★ [Last Week in Design: Nike/Kaepernick — the award plus-one](2018-09-17-yt-zDErNstrCvs.md) | mindset; business | livestream; ⭐ **a fourth Kier McLaren intervention, NAMED in the source, and the first PERSONAL one** — he planned to bring his **executive producer** to an award night; McLaren: *"are you kidding me? **You bring your wife.**"*; ⏳ he was afraid to accept the award in person; `bring your wife` was **0**; SAMPLED |
 | 2018-09-17 | [How To Make Your Idea Happen](2018-09-17-yt-8he7nM4W1vw.md) | mindset; business | "invert the pyramid" prototype→crowdfund→validate; Chris solo, coachees=context |
 | 2018-09-18 | [Day in the Life — Presentation FAIL VLOG](2018-09-18-yt-V1YsOVSSNcE.md) | design-craft; mindset | CONTEXT: Matthew Encina's SIGGRAPH day; Chris absent |
 | 2018-09-20 | ★ [Getting Clients to YES](2018-09-20-yt-F7olfui5Igw.md) | sales-clients; pricing | empathy-first, get-client-to-state-ask-then-mirror, three-outcomes, phased de-risking; coachee=context; L3-candidate |
@@ -1084,4 +1085,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-07-26 | ★ [Art of Being You](2026-07-26-yt-arFD056cke4.md) | mindset; branding | short; ⏳ **FRESHEST SOURCE IN THE CORPUS** — **adulting as recovery, not attainment** ("the person you always were… stripped away by socialization"); the lone-wolf conformity argument (🗣️ his reasoning, not science); authenticity → presence; ⚠️ reconcile with mindset §106 before promoting; L3-candidate |
 
 ---
-_1062 videos ingested (L2) so far._
+_1063 videos ingested (L2) so far._

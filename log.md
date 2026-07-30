@@ -15688,3 +15688,40 @@ but **it is Enns's opinion about Chris, not Chris's material**, and the persona 
 subject-attributed content. **Recorded where a future reader will find it; not promoted.**
 
 📌 **Stream tally: 17 batches · 13 ingests · 142 open.**
+
+## [2026-07-30] ingest | yt stream batch 291 (@thefutur, 8 triaged, 1 ingested)
+
+**8 rows · 1 ingested · 7 closed.** Open 142 → **134**. L2 = **1060**. Set-check clean.
+
+### ⭐ Outgrowing a mentor — a relational pattern the corpus lacked
+
+[[wiki/sources/2019-04-20-yt-0eI6o_mBNqQ]]. `mentor forever` and `looking over my shoulder` both **0**.
+
+> ★★★★★ *"**He could see what was gonna happen into the future — way, way into the future.** What he knew
+> was **I was gonna move so fast**… eventually our relationship was going to **evolve into a place he
+> wasn't comfortable with.** … **I think he wanted to be MY MENTOR FOREVER** — and **there's nothing wrong
+> with that, that's not to throw shade on him** — but once I started running: **hey, why aren't you guys
+> running? I keep looking over my shoulder like, where is everybody?**"*
+
+✅ **Three things make it worth a page.** He **credits the other man with foresight he himself lacked**;
+he **explicitly refuses to blame him**, which is unusual in an account of a breakdown; and the felt part
+is **isolation, not triumph** — *"where is everybody?"*
+
+### ⚠️ The identification I did NOT make
+
+`biography` records the **Jose Caballer / Skool** partnership as *"~2.5 years, then split over creative
+differences."* A mentor, a partnership, a split — **it fits, and I left it open.** Two things do not
+match:
+
+| | This source | Biography |
+|---|---|---|
+| Duration | *"a year and a half later"* | ~2.5 years |
+| Stated cause | *"different **management** styles"* | *"creative differences"* |
+
+⚠️ **He names no one, and the corpus records four other mentor figures** (Kyle Cooper, Garson Yu, Simon
+Johnston, Kier McLaren). **Attaching this to the Skool split would corrupt a documented partnership
+record on the strength of a plausible shape** — the same error class as the price-fisher and dig-a-ditch
+near-misses, but with higher stakes because it concerns a named person's role in his history.
+
+📌 **The pattern is usable without the name**, which is why the page exists rather than being deferred —
+and the promotion note says to word it so it stands **without** an identification.

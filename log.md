@@ -16386,3 +16386,40 @@ bad decision.**
 📌 **The last item is the kind of guard a persona prompt most needs.** A clone asked *"what typefaces do you
 like?"* would otherwise confabulate plausibly — the corpus contains exactly one answer, and now so does the
 prompt.
+
+## [2026-07-30] lint | orphan check — one defect my per-batch verification could not see
+
+Ran the lint step I had never actually run: **orphan source pages.**
+
+```
+source pages: 1071   linked from youtube-index: 1068   ORPHANS: 3
+```
+
+Two are the **research dossiers** — legitimately not YouTube rows, correctly absent. **The third is a real
+defect:** `2020-10-19-yt-hSvluYcim4I.md` ("Advice To My Younger Self") — **the page exists, the ledger reads
+`L2`, and it was never linked from the index.**
+
+### ⚠️ Why my per-batch check was structurally blind to it
+
+Every batch I ran a **two-way** check: `ledger L2 ↔ files on disk`. **Both were correct here.** The missing
+link was in the **third** artefact, which the check never touched.
+
+📌 **This is the same page I repaired on 2026-07-28** — I found the ledger reading `skipped/STUCK-RETRY` while
+the page existed, corrected the status to `L2`, and **never added the index row.** ⚠️ **The repair was
+half-done and my verification was shaped so it could not notice.**
+
+✅ **The check is now three-way**, and all four differences are empty:
+
+```
+L2: 1069   files: 1069   index-linked: 1069
+L2-no-file: []   file-not-L2: []   file-not-indexed: []   indexed-no-file: []
+```
+
+### ⚠️ And I got the footer wrong in the same operation
+
+I bumped the footer 1069 → 1070 while adding the row. ⚠️ **Wrong** — adding a *missing link to an existing
+L2 page* does not change the L2 count. **Corrected back to 1069** in the next command.
+
+📌 **Worth recording rather than quietly fixing.** The reflex "added an index row → bump the count" is right
+in every normal batch and wrong in exactly this repair case. **A habit that is correct 99% of the time is the
+hardest kind to catch**, which is why the three-way check now runs the numbers instead of my reflex.

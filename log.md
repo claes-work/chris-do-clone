@@ -16156,3 +16156,32 @@ rather than ambition: *"the scariest thing to me is to look back on my life in o
 person."*
 
 📌 **Stream tally: 31 batches · 21 ingests · 30 open** — roughly four batches from draining the tier.
+
+## [2026-07-30] ingest | yt stream batch 305 (@thefutur, 8 triaged, 0 ingested)
+
+**8 rows · 0 ingested · 8 closed.** Open 30 → **22**.
+
+### ⚠️ A near-miss that would have compounded with a real find
+
+`yt-Ks9aBrWskaw` surfaced *"**my dad taught me to sell at a very young age.**"* ⚠️ **Five batches after I
+ingested the genuine first maxim from Chris's father**, a second paternal-transmission datum on the same
+theme is exactly the kind of thing that gets waved through.
+
+**It is Elay Cohen's father** — the SalesHood founder and ex-Salesforce sales leader, already on **8** corpus
+pages: *"I had the good fortune of working with some of the best sales reps on the planet — that was at
+**Salesforce**… **I wrote one, the book's called SalesHood.**"*
+
+📌 **Two things caught it, in this order:** the surrounding sentences named Salesforce and his own book
+(cheap), and the biography records **no sales teaching from Chris's father** while it does record **Cohen as
+one of three documented sales debts** (also cheap). ⚠️ **Neither required judgement about register** — the
+facts in the passage disqualified the reading on their own.
+
+⚠️ **Worth naming the risk explicitly:** a corpus that has just gained *"my dad told me nothing worth having
+is free"* is primed to accept *"my dad taught me to sell"* as corroboration. **Thematic momentum is a
+attribution hazard**, and the defence is that every claim gets the same check regardless of how well it fits
+what was just filed.
+
+Also closed: price-objection and sales AMAs, a logo-winner announcement, a design-thinking stream, a guest
+evening event, a studio year-one recap, and a *Win Without Pitching* reference (Enns saturated).
+
+📌 **Stream tally: 32 batches · 21 ingests · 22 open** — about three batches left.

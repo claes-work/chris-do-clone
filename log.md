@@ -15561,3 +15561,45 @@ Mostly incidental family and colleague references — *my wife*, *my brother*, *
 no doctrine attached. Two already-credited coach mentions (**Kier McLaren**, named). ⚠️ **The sweep's
 value was one hit in ~30 transcripts** — low yield, but the one hit reached back into work I had already
 called finished, which is the kind of return a cheap check earns.
+
+## [2026-07-30] ingest | yt stream batch 287 (@thefutur, 8 triaged, 1 ingested)
+
+**8 rows · 1 ingested · 7 closed.** Open 174 → **166**. L2 = **1058**. Set-check clean.
+Both sweeps (published-source and personal-origin markers) now run per batch.
+
+### ⭐ The motive underneath the criticism method
+
+[[wiki/sources/2020-02-15-yt-hgn7sr4PNrg]] — *After Hours* with Sean McCabe. Pass 28 promoted **how he
+answers being publicly attacked**. ⚠️ **That section could not say why he engages at all.** This does:
+
+> ★★★★ *"I do [this] **to be intellectually stimulated** — because **I want to be critical about my own
+> thinking.**"* → *"**if I don't feel like I'm growing then I'm dying.**"*
+
+And ⭐ **how he concedes**, which the corpus had nowhere (`superior argument` **0**):
+
+> ★★★★★ *"**My coach used to do this to me — my therapist did this to me all the time.** She would ask me
+> a couple of questions and I'm like: ***I submit, you have the superior argument, ma'am.*** … **My
+> worldview has changed forever moving forward.**"*
+
+✅ **Three things in one sentence.** The concession is **explicit and ungrudging** (*"I submit"*). It is
+produced **by questions rather than counter-assertion** — the Socratic mechanism he uses on clients, run
+on him. And he reports the effect as **permanent**.
+
+★★★★ Plus the boundary, and its criterion is **return, not comfort**: *"when you compare spending time
+intellectually sparring with a troll — and **that was someone who is NOT a troll** — I just get more out
+of that."* `troll` already returns **39**; the anti-troll stance was held. **The criterion — engage where
+your view could actually move — was not.**
+
+### ⚠️ A thread I am naming but not yet claiming
+
+**Two streams now trace a documented professional habit back to therapy**: the caretaker filter
+(2020-03-07) and this concession behaviour. ⚠️ **Two instances is a thread to watch, not an account of
+where his methods come from** — and both pages say so rather than implying a tidy origin story.
+
+### One close worth explaining
+
+`C7MNa3YlkCM` surfaced *"I have you as my mentor and this has been extremely valuable"* — ⚠️ **that is a
+CALLER describing what Chris suggested in an earlier video** (*"you had mentioned that on a video"*), not
+Chris introducing a mentor. **Audience feedback about his idea, not new material.** The personal-origin
+sweep flags first-person possessives regardless of speaker, so this is the same speaker-check discipline
+the DJ/Lee near-miss required.

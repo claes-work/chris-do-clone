@@ -15944,3 +15944,42 @@ Also closed: an *Hourly Billing Is Nuts* stream (Jonathan Stark's book, already 
 reference, in-house vs agency, entrepreneur myths (Blair Enns's *Pricing Creativity*), pricing streams.
 
 📌 **Stream tally: 24 batches · 17 ingests · 86 open.**
+
+## [2026-07-30] ingest | yt stream batch 298 (@thefutur, 8 triaged, 1 ingested)
+
+**8 rows · 1 ingested · 7 closed.** Open 86 → **78**. L2 = **1064**. Set-check clean.
+
+### ✅ The biography test worked on its first real trial
+
+`yt-9hxFXE2G3SM` surfaced *"when I was 21"* — a biographical age marker. **One line settled it:**
+*"to be fair, **I'm 30 now, I left school when I was 21**, and there I am **a freelance WRITER**."* Chris was
+**~46** in 2018 and is a designer. ⚠️ **Guest, closed in seconds** — no title parsing, no register judgement,
+just a contradiction with a documented life.
+
+### ⭐ The client-exit script, and a third habit traced to therapy
+
+[[wiki/sources/2018-07-17-yt-PpiSSbmnDeU]]:
+
+> ★★★★ *"**Relationships are hard to build and easy to destroy.** So weigh it: **is it worth it**, whatever
+> you want to get off your chest, to [say] *let's go mano-a-mano*? **Most of the time it's not worth it.**"*
+
+> ★★★★★ *"What we have to do is **just do what MY THERAPIST tells me to do: be the bigger person, take the
+> high road.**"*
+
+> ★★★★★ *"**I want to make sure you FEEL WHOLE walking away from this relationship**… **I am truly sorry it
+> did not work out for both of us. I wish you well.**"* → then *"resolve the finances, then the files, and be
+> done."*
+
+✅ **What the script omits is the operative choice**: no diagnosis of the client, no defence of himself, no
+fault assigned — *"it did not work out **for both of us**"* distributes the outcome without blaming anyone.
+`feel whole` and `high road` both **0**: the corpus held the **fire-the-client doctrine** without holding
+**how he words the exit.**
+
+### ⚠️ Three is a thread — and I am still calling it that
+
+The therapy-traced habits now number three: the **caretaker request-filter**, his **manner of conceding an
+argument**, and **this high-road rule**. ⚠️ **Recorded as an observation on the pages, not as an explanation
+of his methods** — three self-reports are his own framing of where his conduct comes from, and no source
+offers an outside account. **The flag on `biography` §252 is to be worded as a thread, not a cause.**
+
+📌 **Stream tally: 25 batches · 18 ingests · 78 open.**

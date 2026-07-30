@@ -266,6 +266,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-07-11 | [How to Growth Hack Your Instagram Profile](2018-07-11-yt-Qsgl5baPHUs.md) | content-strategy | CONTEXT: non-Chris instructor (unnamed); Chris absent |
 | 2018-07-13 | ★ [The Worst Things That Clients Have Said To Me](2018-07-13-yt-Blja-ucC5_k.md) | sales-clients; mindset | Objection Response Deck (acknowledge/answer-with-question/degree/reflect), control-energy-to-neutral, Blair Enns; Chris, Rob=context; L3-candidate |
 | 2018-07-16 | ★ [How To Scale Your Business, Multiply Your Time, and Delegate](2018-07-16-yt-OCcbTVbuRIg.md) | business; mindset | codify-process-into-≤5-steps (ArtCenter red-blue-dot origin), high-vs-super-high quality threshold, churn-to-superstar team; coachee=context; L3-candidate |
+| 2018-07-17 | ★★★ [Nightmare Design Clients — How To Respond](2018-07-17-yt-PpiSSbmnDeU.md) | sales-clients; mindset | livestream; ⭐ **the verbatim client-exit script** — *"I want to make sure you **feel whole** walking away… **I am truly sorry it did not work out for both of us. I wish you well.**"* (no blame assigned); *"be the bigger person, take the high road"* ⚠️ **sourced to his therapist — the THIRD habit so traced**; `feel whole`/`high road` were **0**; SAMPLED |
 | 2018-07-17 | [MASTERMIND: Living A Creative Life (Ep.11)](2018-07-17-yt-uL4Tn0796XI.md) | mindset | CONTEXT: ~100% Kier McLaren; Chris absent; "you are not what you do"; Kier entity |
 | 2018-07-19 | [MASTERMIND: Hard To Make Decisions (Ep.12)](2018-07-19-yt-ADT5g_gxcXI.md) | mindset | CONTEXT: ~100% Kier McLaren; Chris absent; ego-serving decisions, neuroplasticity; Kier entity |
 | 2018-07-20 | ★ [Why Designers Focus On The Wrong Thing](2018-07-20-yt-Fm7mjeJpyZ4.md) | sales-clients; pricing; business | diagnostic-phase / tell-them-what-they-didn't-know / outcomes-over-craft / money-follows-big-problems; Chris coach, designer=context; L3-candidate |
@@ -1085,4 +1086,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-07-26 | ★ [Art of Being You](2026-07-26-yt-arFD056cke4.md) | mindset; branding | short; ⏳ **FRESHEST SOURCE IN THE CORPUS** — **adulting as recovery, not attainment** ("the person you always were… stripped away by socialization"); the lone-wolf conformity argument (🗣️ his reasoning, not science); authenticity → presence; ⚠️ reconcile with mindset §106 before promoting; L3-candidate |
 
 ---
-_1063 videos ingested (L2) so far._
+_1064 videos ingested (L2) so far._

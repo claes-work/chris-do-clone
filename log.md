@@ -15523,3 +15523,41 @@ already-fetched transcripts.
 
 Seven others closed: guest interviews and saturated topics, including two COVID-era streams
 (2020-03) whose medical content is a guest infectious-disease specialist's.
+
+## [2026-07-30] lint | personal-origin sweep — and a possible borrowing eight years apart
+
+No new fetches. Ran the **personal-origin marker sweep** the caretaker find argued for: *my therapist ·
+my coach · my mentor · my mom/wife/brother · a friend told me* — across **every** stream transcript
+already in `raw/`.
+
+### ⚠️ The one real result bears on a page I wrote six batches ago
+
+The sweep surfaced, in [[wiki/sources/2017-05-03-yt-KtL02T5MonA]] (**the Blair Enns podcast
+interview**): *"**a friend of mine said before she died** — she was a novelist — she said **Blair, you
+can't unpublish.**"* Enns tells the story of a friend who **reprinted her own novel at her own expense**,
+backing out the editor's advice, to get the version she actually wanted.
+
+⚠️ **I attributed that constraint to Chris in batch 274.** My *Unbland* launch page records
+***"you can't unpublish a book"*** as *"the constraint he is designing around"* — his stated reason for
+publishing digital-first. **The same phrase is in the corpus eight years earlier, from Enns, said to
+Chris on Chris's own podcast.**
+
+### What I did and did not conclude
+
+✅ **Cross-notes added to BOTH pages**, each flagged **POSSIBLE PROVENANCE — NOT established.**
+
+⚠️ **I did not write it up as a borrowing.** *"You can't unpublish"* is simple enough to reach
+independently, and he credits no one. But the combination is not nothing: **Enns is the corpus's
+most-attested external influence (~45 pages), the phrasing is close, and he said it to Chris directly.**
+
+📌 **The right output here is a question that survives, not a verdict.** A later source in which he
+credits Enns or the novelist settles it; without one, asserting transmission would be exactly the
+shared-phrase error that produced the dig-a-ditch and price-fisher near-misses. **The two pages now
+point at each other, so the next reader inherits the question instead of re-finding it.**
+
+### What the sweep otherwise showed
+
+Mostly incidental family and colleague references — *my wife*, *my brother*, *my mom* — in passing, with
+no doctrine attached. Two already-credited coach mentions (**Kier McLaren**, named). ⚠️ **The sweep's
+value was one hit in ~30 transcripts** — low yield, but the one hit reached back into work I had already
+called finished, which is the kind of return a cheap check earns.

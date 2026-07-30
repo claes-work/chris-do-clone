@@ -53,6 +53,18 @@ existing thing; **this is the event that put it into the world.**
 > a book before, I understand the stress that goes into making a book, and that **you can't unpublish
 > a book.**"*
 
+> ⚠️ **POSSIBLE PROVENANCE — flagged 2026-07-30, NOT established.** The same phrase appears in the
+> corpus **eight years earlier**, and not from Chris: in
+> [[2017-05-03-yt-KtL02T5MonA|the Blair Enns interview on Chris's own podcast]], **Enns** attributes
+> ***"you can't unpublish"*** to a **late novelist friend** who reprinted her own book at her own
+> expense to get the version she actually wanted. Enns is the corpus's most-attested external influence
+> (~45 pages), and he said it **to Chris, on Chris's show.**
+>
+> ⚠️ **This is suggestive, not conclusive.** The idea is simple enough to arrive at independently, and
+> Chris credits no one here. **Do not write this up as a borrowing** — but a later source in which he
+> credits Enns or the novelist would settle it, and the two pages now point at each other so the
+> question is not lost.
+
 ✅ **This is his own iterate-before-committing doctrine applied to himself**, and it is the rare case
 where the corpus can watch him take his own advice on a product of his own — with the irreversibility
 of print named as the reason.

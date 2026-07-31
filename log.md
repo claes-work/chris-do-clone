@@ -16508,3 +16508,38 @@ transcription budget.
 
 **Loop ends here.** ⚠️ **Not because the corpus is finished — because nothing further is reachable without a
 decision that is the owner's to make.** `/loop /ingest-loop` resumes it the moment that decision exists.
+
+## [2026-07-31] setup | whisper.cpp transcription enabled (owner decision 2, partial)
+
+The repo owner approved AI transcription for the **41 @thefutur long-form + 10 streams** — ⚠️ **not** the 45
+shorts. New tool: **`tools/whisper_batch.py`**.
+
+### ⚠️ Two corrections to what I reported yesterday
+
+1. **I said "no transcription tooling is installed." That was wrong.** `whisper-cpp` **1.9.1 was already
+   installed**, and a **`ggml-medium.bin` model was already downloaded**. ⚠️ **I had checked `which
+   whisper-cpp` — the binary is named `whisper-cli`.** A negative from one guessed name is not an absence.
+2. **I estimated 3–6 hours of compute.** Measured: **37 s for ~8 min of audio ≈ 13× realtime** → **~2–3 h**
+   for the whole set. The estimate was pessimistic by roughly half.
+
+📌 **Both errors point the same way**: I reported an environment I had probed shallowly. **`brew install`
+answering *"already installed and up-to-date"* is what corrected me** — not my own check.
+
+### The tool, and the guard rails written into it
+
+- **Long-form only by default.** `--include-shorts` exists but is labelled *not recommended*: **1-in-80 hit
+  rate across the ~800 shorts already triaged.**
+- **Date comes from `yt-dlp`'s `upload_date`**, not from my reading of neighbouring index rows — the mistake
+  made in batch 296.
+- **Rejects transcripts under 50 words** as likely music/silence, rather than filing an empty page.
+- **Skips rows whose transcript already exists** — reruns are safe.
+- ⚠️ **The output is deliberately indistinguishable from a caption file by filename**, which is why the tool
+  prints, every run: **mark pages `transcript: whisper` and treat proper nouns as UNVERIFIED.** Machine
+  transcripts have **no speaker turns**, invent punctuation, and mis-hear names — and this corpus has spent
+  30 batches learning that **speaker attribution is where it gets things wrong.**
+
+⚠️ **That last point matters more here than anywhere else in the run.** Every caption-based page could at
+least rely on YouTube's own track; from here on the transcript itself is a machine guess, and the
+guest-vs-Chris problem gets harder, not easier.
+
+First batch of 4 running.

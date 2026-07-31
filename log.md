@@ -16724,3 +16724,47 @@ economy — *"some people in our audience earn five to nine thousand dollars **a
 about five to nine thousand **a day**"*, matching the coach video's *"I'm talking to multinational,
 multibillion-dollar companies… we need to keep things relative."* ⚠️ Self-reported biographical item: a
 former photographer of his had an iPhone image bought by **Apple for a billboard**.
+
+## [2026-07-31] ingest | whisper transcription COMPLETE (31+4 fail); triage batch 4 — 2 L2, 1 compilation caught
+
+**Transcription of the approved no-caption set is finished**: 31 transcribed, 4 rejected by the script's
+own 50-word floor (music/silence — booked `skipped`, marked do-not-retry). Ran `tools/dup_screen.py` over
+all 28 untriaged transcripts first: **0 duplicates**, 5 too short to screen. 28 → 25 open after this batch.
+
+**⚠️ A third attribution hazard, distinct from the first two: the COMPILATION.** `yt-avTemiwR1IA`
+(*Best Non-Design Books for Designers*) is hosted by two staff members and consists of **separate people
+each pitching one book**. It scored **0** vocatives and would pass a solo check. A naive read attributes
+**four** book recommendations to Chris. He appears once, self-identified — *"My name is Chris Do[e], I'm
+the founder and CEO of The Futur"* — recommending **Win Without Pitching** (Blair Enns), which returns
+**46/90** hits: fully saturated, nothing new. 📌 **The other three books are colleagues'** — and one,
+*The Secret Lives of Color*, returns **0** corpus-wide, i.e. **it looks exactly like a valuable find and
+is precisely the thing that must not be added.** Booked `skipped` with the reason recorded.
+
+📌 **Three hazards, three different detectors, in three days**: addressed guest → vocative grep;
+unaddressed guest with a published body of work → provenance sweep; **compilation → the self-ID check**
+(does the segment's speaker name themselves, and does that name match the subject). None subsumes another.
+
+**Ledger:** 2 → L2 · 2 → skipped · 4 failures booked. L2 total **1076**.
+
+Synthesis notes: ⭐⭐ **The 2018 Dublin IDI keynote is one of the most biographically dense sources in the
+corpus and almost none of it was held.** ⭐ **Vietnam, 1975, fled to escape communism, arrived in the US at
+age three, *"we left everything"*.** ⭐ **Childhood racial abuse, in his own words**: *"in some
+neighborhoods I was **not brown enough**, and for some I **wasn't white enough**… isolated, targeted,
+picked on by bullies and bigots… **I was spit on by complete strangers**"* — all at **0** corpus-wide,
+and he explicitly declines the heroic reading: *"I'm not telling you I'm brave or courageous… **I was in
+survival mode**."* ⭐ **The gender-in-design tweet and the backlash**: he asked *"why aren't there more
+women in design?"*, called it *"stepping into a political and emotional landmine"*, and **tried to quit**
+after a DM saying *"you don't deserve to be there."* His own correction is a change of **framing**, not
+position: *"I should have said: **I need help.** I don't know what I'm doing. Please help me."* ⚠️ He
+reports the criticism unrebutted (*"don't put the burden of learning on us"*) — **do not soften it into
+agreement.** ⚠️ 🗣️ Self-reported and unverifiable here: *"I paid women more than their male counterparts…
+at one point we were all women except for me."* ⭐ Closing observation: *"something that happens **online**
+isn't indicative of how it really works **in real life**."*
+⭐ **From 2016 (early era): the ask-for-a-raise script**, given unusually **from the employer's side** —
+*"hardly have I ever seen it done the right way… they're just describing **what they were paid to do**."*
+The script (**0** corpus-wide): *"**what do I need to do to earn more money from your point of view** —
+and if I meet that criteria, would you consider giving me a raise?"* ⚠️ Structurally the **same move** as
+the documented *"why don't you just ask"*: replace guessing or asserting with a question that makes the
+other party state the criteria — worth recording as one pattern with two instances eight years apart.
+Plus **abstract → tangible** criteria and *"how will we know we get there?"* in a follow-up email.
+⚠️ New entity: **Jose Caballero**, co-host of *The Process* (0 corpus-wide).

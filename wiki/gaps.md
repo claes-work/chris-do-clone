@@ -107,4 +107,17 @@ that was missing) and by lint passes. Each entry: date noticed, what was missing
   names as near-identical prior art and which returns **0** corpus-wide. 📌 Until resolved,
   `branding.md` Framework 22 should carry the chain **as he states it**, with the name marked unverified.
 
+- **Three unverified personal names from whisper transcripts** (found 2026-07-31). Machine transcripts
+  mis-hear proper nouns — the same file renders the subject himself as *"Chris **Doe**."* Open:
+  (1) **"Diane Gibbs"** — named in the 2018 Dublin IDI keynote ([[sources/2018-05-01-yt-nnk-f0B9rOQ]]) as
+  the woman who talked him out of quitting after the Twitter backlash; **0** corpus-wide.
+  (2) **"Billie Jean"** — named in the same talk as who invited him to Ireland; **0** corpus-wide, and
+  ⚠️ **collides with the song title**, so a naive web check will mislead.
+  (3) **"Pei"** — the Art Center graduate in the 2016 raise role-play ([[sources/2016-05-25-yt-lcpxWYaVbLU]]).
+  📌 All three are **low-risk to leave open** (none carries doctrine) but should be resolved before any of
+  them reaches `persona/` or an entity page. ⚠️ Related: the same talk contains a self-description that
+  transcribes as *"an **athletic**, shy, introverted"* kid, which contradicts its own sentence and his
+  documented *"not a big guy, not masculine, didn't like sports"* — **almost certainly "asthmatic."**
+  **Do not quote that word until the audio is re-checked.**
+
 ## Resolved

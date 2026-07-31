@@ -70,6 +70,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2016-04-30 | ★ [Big Client Meeting: Sell Large Digital Projects](2016-04-30-yt-FU63Tv3FiKo.md) | sales-clients; business; pricing | big-meeting selling framework (role-play); L3-candidate |
 | 2016-05-14 | [Conversion Optimization Funnel (CRO)](2016-05-14-yt-a6NDggNvspU.md) | content-strategy; business | guest-led (Alan Martinez); 3 Chris quotes |
 | 2016-05-20 | [How to Get a Graphic Design Job in LA](2016-05-20-yt-NnRgT4vRylQ.md) | business; design-craft; content-strategy | hiring/career; intl-designer angle |
+| 2016-05-25 | [How to: Ask For A Raise](2016-05-25-yt-lcpxWYaVbLU.md) | sales-clients; business; mindset | ⚠️ WHISPER. *The Process* w/ Jose Caballero (0 corpus). ⭐ Raise script 'what do I need to do to earn more from your point of view' (0 corpus); employer-side advice; abstract→tangible criteria |
 | 2016-06-09 | [How to Get Hired as a Graphic Designer](2016-06-09-yt--9WuYBXZ-jw.md) | business; design-craft; content-strategy | hiring; overlaps existing |
 | 2016-06-16 | ★ [Be a Happier, Better Designer](2016-06-16-yt-6ZtbgCbcyeo.md) | mindset; business | success=growth; "absent a narrative, people invent one"; L3-candidate |
 | 2016-06-21 | ★ [Where Do Good Ideas Come From?](2016-06-21-yt-hvrmngTHVJ8.md) | design-craft; mindset; content-strategy | everything-is-remix; copy-transform-combine; L3-candidate |
@@ -241,6 +242,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-04-18 | [Want To Raise Your Value? Solve Bigger Problems](2018-04-18-yt-CmqAJ4sILHo.md) | pricing; sales-clients; branding; mindset | reinforces value-ladder; self-label/"little box" + law-of-the-instrument; Chris solo |
 | 2018-04-21 | ★ [Learn Self Acceptance — Letting Go Of Ego](2018-04-21-yt-VCvebusD5Fo.md) | mindset | distinct "Mirrormask" metaphor + YouTube-origin discomfort story (hated own voice); Chris solo; L3-candidate |
 | 2018-04-24 | [MASTERMIND: Go Your Own Way (Ep.4)](2018-04-24-yt-gB7WZQNwsdE.md) | mindset | CONTEXT: ~100% Kier McLaren; Chris silent; Kier entity material |
+| 2018-05-01 | ★★★★★ [Finding Courage To Show Up As Who You Are — Dublin IDI](2018-05-01-yt-nnk-f0B9rOQ.md) | mindset; content-strategy | ⚠️ WHISPER. ⭐⭐ Dense biography: Vietnam 1975/age 3, childhood racial abuse, gender-tweet backlash + near-quit, Diane Gibbs. All self-reported |
 | 2018-05-06 | ★ [Believe In Yourself — Power of Self Confidence](2018-05-06-yt-0WQVRQ07WtE.md) | mindset; sales-clients | distinct mechanism: be-nothing/be-a-mirror, decouple confidence from credentials, credentials-as-crutches, remove-yourself-from-the-equation; Chris solo; L3-candidate |
 | 2018-05-08 | ★ [Pharma Package Design Challenge — Young Guns (Ep.3)](2018-05-08-yt-FDhK1R3GJzs.md) | design-craft; branding | Chris-led: "me too" design, shelf-presence via shape/color, aesthetic→demographic mapping, house-vs-name-brand; contestants=context; L3-candidate |
 | 2018-05-09 | [MASTERMIND: Look Inside Yourself (Ep.6)](2018-05-09-yt-ktGYhw7gmMY.md) | mindset; business | CONTEXT: ~100% Kier McLaren (inner-child exercise, hero's-journey); Chris silent; Kier entity material |
@@ -1097,4 +1099,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-07-26 | ★ [Art of Being You](2026-07-26-yt-arFD056cke4.md) | mindset; branding | short; ⏳ **FRESHEST SOURCE IN THE CORPUS** — **adulting as recovery, not attainment** ("the person you always were… stripped away by socialization"); the lone-wolf conformity argument (🗣️ his reasoning, not science); authenticity → presence; ⚠️ reconcile with mindset §106 before promoting; L3-candidate |
 
 ---
-_1074 videos ingested (L2) so far._
+_1076 videos ingested (L2) so far._

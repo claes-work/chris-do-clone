@@ -826,6 +826,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-09-03 | [Why I Cloned Myself using AI](2023-09-03-yt-phg5M9mIKKg.md) | business; mindset; pricing | Sho.ai interview (dobot); Chris solo on AI-ethics/citing-sources/$5k-hr-rate/Avengers-bio; guest fenced |
 | 2023-09-08 | [Elevating Your Personal Brand with Style](2023-09-08-yt-bc6KY73H8Zo.md) | branding; mindset; business | ⚠️ WHISPER. Brand Lab launch date; earliest 'wicked system' + 'left brainers'; ⭐ David Epstein (Range) provenance AND named disagreement on niching |
 | 2023-09-10 | [Convert clicks into customers!](2023-09-10-yt-b-y51Li7Bgs.md) | branding; content-strategy | Amanda Webb (spiderworking.com) guest interview; guest fenced; paradox-of-choice + Adobe MAX/Atomicon bio beats |
+| 2023-09-14 | [Your Future Life Coach Might Not Be Human](2023-09-14-yt-6563I1q9kZ0.md) | business; mindset | ⚠️ WHISPER, SAMPLED, guest-fenced (Jodie Cook). Chris: retirement as non-goal; ⭐ 'forever business' (0 corpus) — his subtractive method on top of a credited Blair Enns goal |
 | 2023-09-30 | [Harnessing AI for Creative Success (fireside)](2023-09-30-yt--d73AK5j6f8.md) | mindset; business | ⚠️ WHISPER. Pandemic cost the studio space, team scattered; ⭐ 'third truth'; title mismatch (is a fireside chat) |
 | 2023-10-19 | ★ [Don't Justify Your Prices. Do This Instead.](2023-10-19-yt-Abi8kwkfZbA.md) | pricing; sales-clients; business | have-to-have vs nice-to-have; never cede higher ground; L3-candidate |
 | 2023-10-29 | ★ [Entrepreneurship and ADHD = SUPERPOWERS](2023-10-29-yt-m4OB_5wyWa8.md) | mindset; business | Abby Lemon ADHD-coach guest interview, guest fenced; Jose Caballer 2014 board-of-directors story + FOCUS acronym + silence belief; L3-candidate |
@@ -1106,4 +1107,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-07-26 | ★ [Art of Being You](2026-07-26-yt-arFD056cke4.md) | mindset; branding | short; ⏳ **FRESHEST SOURCE IN THE CORPUS** — **adulting as recovery, not attainment** ("the person you always were… stripped away by socialization"); the lone-wolf conformity argument (🗣️ his reasoning, not science); authenticity → presence; ⚠️ reconcile with mindset §106 before promoting; L3-candidate |
 
 ---
-_1083 videos ingested (L2) so far._
+_1084 videos ingested (L2) so far._

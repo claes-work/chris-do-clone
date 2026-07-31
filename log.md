@@ -17011,3 +17011,41 @@ because the first check was sound.**
 - ⚠️ **Roland Young's name needs one external check** before he is treated as verified in `persona/`.
   Chris supplies the search term himself.
 - **4 whisper rows remain** — all held guest interviews.
+
+## [2026-07-31] ingest | whisper back-catalogue COMPLETE — the four held interviews resolved; 1 L2
+
+**The owner-approved whisper scope is finished.** All 51 long-form and livestream no-caption rows are
+triaged. The 45 remaining no-caption rows are **all shorts** — the set explicitly excluded from the
+2026-07-31 transcription approval. ⚠️ **That exclusion stands as an owner decision**, not an oversight.
+
+**The four held guest interviews, resolved:**
+
+- `yt-f3rEtqlMxrU` — **Daniel Priestley** on his own book *Oversubscribed*; all four publication markers are
+  **his** books. Priestley returns **38** corpus hits, *Oversubscribed* **12**: saturated. ⚠️⚠️ **This file is
+  the cleanest confirmation yet that vocative-free ≠ Chris** — it is **91% vocative-free** and almost entirely
+  the guest. What identified it was the **publication sweep**, not the vocative grep.
+- `yt--_GaSasjJuU` (*The Rolex Effect*) — ⭐ **re-opened under the clip rule** when its parent was skipped,
+  exactly as its own ledger note instructed. Triaged individually: the whole clip is Priestley's doctrine
+  (the profit-gods argument, demand/supply tension). **Still a skip — but now for a verified reason rather
+  than an inherited one.** 📌 **The clip rule earned its keep here**: without the re-open, a skip would have
+  rested on a parent judgement that had itself changed.
+- `yt-0MGRQVqaD_0` (Ayman Al-Abdullah) and `yt-1eDCyVRUgJs` (LinkedIn) — **9 and 11 vocatives spread across
+  2–90% and 4–87%**: mixed conversation throughout, **not minable at quote level**. All personal markers
+  checked; none Chris's.
+- `yt-6563I1q9kZ0` (Jodie Cook) → **L2**, heavily fenced. ⚠️ Her mother's business, her sister, the
+  butterflies reframe and all of CoachFox are **hers**; the cold-open is a spliced montage of both voices.
+
+**Ledger:** 1 → L2 · 3 → skipped · 1 re-booked. **L2 total 1084.** Open long-form: **3 P2 rows** (@thefutur,
+captioned) plus 59 shorts across all channels.
+
+Synthesis notes: ⭐ **The "forever business."** Asked what he'll do when he retires: *"**I don't know. I think
+I'm doing the exact same thing**"* (`when you retire` = 0). He credits **Blair Enns** by name and book for the
+goal — *"as a creative person, we should **design our businesses so that we don't want to run away from it**,
+that we can't see ourselves doing anything else"* — and then **adds the method and the name himself**:
+*"it's **a disciplined practice of ELIMINATING things you don't like and honing in on only the things you
+like**, so that you can build that **FOREVER BUSINESS**"* (`forever business` = 0, `disciplined practice of
+eliminating` = 0). ⚠️ **Keep the credit attached**: the goal is Enns's, the subtractive method and the name are
+Chris's, and separating them misattributes both. 📌 **A subtraction-based theory of business design applied to
+oneself** rather than to an offer — consistent with his positioning doctrine but pointed inward. ★★ Voice:
+*"I'd probably **get fat and get old really fast** — because I have no motivation. Do anything. And probably
+die."*

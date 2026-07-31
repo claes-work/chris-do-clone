@@ -14,7 +14,7 @@ enables. Approval for the 41+10 long-form set was given 2026-07-31.
 
 REQUIREMENTS (all already present on this machine, verified 2026-07-31)
     whisper-cli            brew install whisper-cpp   -> /opt/homebrew/bin/whisper-cli
-    a ggml model           ~/.cache/whisper/ggml-medium.bin
+    a ggml model           ~/whisper-models/ggml-medium.bin  (⚠️ NOT ~/.cache — see below)
     yt-dlp, ffmpeg
 
 OUTPUT
@@ -41,7 +41,9 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
 LEDGER = REPO / "pipeline" / "ledger.csv"
-MODEL = Path.home() / ".cache" / "whisper" / "ggml-medium.bin"
+# ⚠️ NOT in ~/.cache — that directory was wiped by a system cleanup mid-run on 2026-07-31,
+# taking a 1.5 GB model with it and failing a batch. Models live somewhere durable.
+MODEL = Path.home() / "whisper-models" / "ggml-medium.bin"
 WHISPER = "/opt/homebrew/bin/whisper-cli"
 
 CHANNEL_DIRS = {

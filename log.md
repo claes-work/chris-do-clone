@@ -16543,3 +16543,50 @@ least rely on YouTube's own track; from here on the transcript itself is a machi
 guest-vs-Chris problem gets harder, not easier.
 
 First batch of 4 running.
+
+## [2026-07-31] ingest | whisper batch 1 (4 transcribed) — and the first triage result is a REJECTION
+
+**4 of 4 transcribed, 0 failed** (~40,000 words). ⚠️ **Transcription is procurement, not ingestion** — every
+file still goes through the same triage.
+
+### ⚠️ The very first whisper transcript I triaged would have been a false find
+
+`yt-5xjAXZUo7Dc` (815 words) is a clean solo explainer building an **Island A → Island B** metaphor: *"clients
+aren't really buying you… what they're buying is a result."* ✅ Well-formed, teachable, no guest marker in the
+title. **Exactly the shape of a good ingest.**
+
+**It is not Chris.** Two independent signals agreed:
+1. It closes with *"apply for **MY live workshop**… for other **creative agencies**"* — not his framing.
+2. ⭐ **The corpus had already settled it.** `island a` returns **3**, and
+   [[wiki/sources/2023-05-25-yt-s_lOf3PuGeA]] carries `attribution: uncertain` and states outright: *"This
+   video is **NOT presented by Chris Do**… Chris does not speak in this video."* **Same uncredited instructor,
+   same metaphor.**
+
+📌 **This is the corpus's own prior attribution work catching a new source** — the single best argument for
+having done that work carefully rather than fast. ⚠️ **And it happened on transcript #1**, which sets the
+expectation for the remaining 47: **whisper output has no speaker labels, so the pipeline's existing
+attribution record is now the primary defence.**
+
+### ⚠️ I nearly over-corrected on speaker turns
+
+Seeing `-` dashes in one transcript, I was about to report that whisper gives usable turn markers. **Checked
+all four instead:** `0 · 0 · 0 · 17` markers. **17 in a 15,600-word conversation is an artefact, not
+diarisation.** The original warning stands unchanged.
+
+### Triage state of the four
+
+| Row | Words | Status |
+|---|---|---|
+| `5xjAXZUo7Dc` | 815 | ⚠️ **closed — not Chris** |
+| `wsg7hZMKnW4` | 2,442 | HELD — solo, no guest marker, **not established** |
+| `jUHRI5eqmqo` | 21,250 | HELD — ✅ **Chris hosts** (guest: *"it's been a blast, **Chris**"* — Rob Fitzpatrick, on 5 pages) |
+| `MbGVbB5mkzA` | 15,606 | HELD — guest-titled (Rene Rodriguez) |
+
+### ⚠️ Infrastructure failure mid-run, and what it changes
+
+**Batch 2 died instantly: `model missing`.** ⚠️ **The entire `~/.cache/` directory had been wiped** by a
+system cleanup (~11 GB freed) minutes after a successful run — taking the 1.5 GB model with it. **Nothing in
+this pipeline writes there**; the script touches only `/tmp` and `raw/`.
+
+✅ **Re-downloaded to `~/whisper-models/`** — deliberately **outside any cache directory**, with the reason
+written into the script so the next person does not put it back somewhere a cleaner will eat it.

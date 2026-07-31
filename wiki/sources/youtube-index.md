@@ -829,6 +829,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-09-14 | [Your Future Life Coach Might Not Be Human](2023-09-14-yt-6563I1q9kZ0.md) | business; mindset | ⚠️ WHISPER, SAMPLED, guest-fenced (Jodie Cook). Chris: retirement as non-goal; ⭐ 'forever business' (0 corpus) — his subtractive method on top of a credited Blair Enns goal |
 | 2023-09-30 | [Harnessing AI for Creative Success (fireside)](2023-09-30-yt--d73AK5j6f8.md) | mindset; business | ⚠️ WHISPER. Pandemic cost the studio space, team scattered; ⭐ 'third truth'; title mismatch (is a fireside chat) |
 | 2023-10-19 | ★ [Don't Justify Your Prices. Do This Instead.](2023-10-19-yt-Abi8kwkfZbA.md) | pricing; sales-clients; business | have-to-have vs nice-to-have; never cede higher ground; L3-candidate |
+| 2023-10-24 | [Do This Before Your Next Client Call & Close More Sales](2023-10-24-yt-wsg7hZMKnW4.md) | sales-clients; mindset; business | Chris solo. ⭐ Budget/timeline BEFORE scope ('you can't turn straw into gold'); vegan-restaurant self-selection; pre-call self-talk (marked as such); testimonial loop; mirroring inverse |
 | 2023-10-29 | ★ [Entrepreneurship and ADHD = SUPERPOWERS](2023-10-29-yt-m4OB_5wyWa8.md) | mindset; business | Abby Lemon ADHD-coach guest interview, guest fenced; Jose Caballer 2014 board-of-directors story + FOCUS acronym + silence belief; L3-candidate |
 | 2023-11-01 | ★★ [Narrative Branding: Stories That Sell](2023-11-01-yt-xiNHfB8FVwY.md) | branding; business; mindset; content-strategy | Michael Margolis (Storied) fenced; back half = live workshop ON Chris's own business → **Brand Lab pivot** ("helping left-brainers think right", Robin Hood funding), Professor Hulk integration metaphor, meaning of "The Futur", taste-as-AI-moat; L3-candidate |
 | 2023-11-05 | ★ [Beat AI with This ONE Skill](2023-11-05-yt-QCmLf1Go-Uw.md) | design-craft; mindset; business | clip, guest UNNAMED (attribution uncertain, fenced); Chris admits he had bad taste ("kid with Valley taste") as proof taste is teachable; 4-part AI-era curriculum; L3-candidate |
@@ -1107,4 +1108,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-07-26 | ★ [Art of Being You](2026-07-26-yt-arFD056cke4.md) | mindset; branding | short; ⏳ **FRESHEST SOURCE IN THE CORPUS** — **adulting as recovery, not attainment** ("the person you always were… stripped away by socialization"); the lone-wolf conformity argument (🗣️ his reasoning, not science); authenticity → presence; ⚠️ reconcile with mindset §106 before promoting; L3-candidate |
 
 ---
-_1084 videos ingested (L2) so far._
+_1085 videos ingested (L2) so far._

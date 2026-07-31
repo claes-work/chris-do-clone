@@ -17049,3 +17049,43 @@ Chris's, and separating them misattributes both. 📌 **A subtraction-based theo
 oneself** rather than to an offer — consistent with his positioning doctrine but pointed inward. ★★ Voice:
 *"I'd probably **get fat and get old really fast** — because I have no motivation. Do anything. And probably
 die."*
+
+## [2026-07-31] ingest | yt batch (@thefutur, 3) — ⚠️⚠️ the vocative rule silently fails on caption transcripts
+
+**1 → L2, 2 → skipped.** But the batch surfaced two process findings that matter more than the ingest.
+
+**⚠️ 1. `no-captions` is NOT a permanent property.** All three rows in this batch were flagged
+`no-captions` and were whisper-transcribed earlier today — and `ingest_batch.py prepare` **fetched real
+caption tracks for all three**, overwriting the machine transcripts in `raw/`. YouTube had generated
+captions at some point after the original sweep. ✅ **The replacement is better data**, so the page here is
+built on the caption track. ⚠️ **But part of today's Whisper compute was avoidable**, and the flag should be
+re-checked rather than trusted. ✅ **Checked the consequences immediately**: the 45 remaining no-caption
+**shorts genuinely still have none** (yt-dlp: *"has no automatic captions / has no subtitles"*, verified
+against a known-positive control), so the owner's exclusion stands. ⚠️ And the two highest-stakes whisper
+sources — `P89iLoCETLU` (**Roland Young**) and `nnk-f0B9rOQ` (Dublin keynote) — **still have no captions**,
+so those names remain whisper-dependent and the external check is still required.
+
+**⚠️⚠️ 2. The vocative rule I wrote this morning silently fails on the entire caption corpus.** All three
+transcripts scored **0 vocatives** — because **YouTube auto-captions carry no punctuation at all**
+(a 2,475-word file contained **two** punctuation marks), and the test is `[,.] ?Chris[,.?]`. **That regex
+returns 0 for ~1,080 of 1,084 sources regardless of who is speaking.** A future run applying it to caption
+material would classify **every guest interview as "vocative-free, therefore Chris."**
+✅ **Fixed in `SUBJECT.md`**: the punctuated test is marked **whisper-only**; on captions use raw name
+frequency with context, which correctly surfaced *"Rene welcome to the show"* and *"thanks for having me
+Chris"* and identified both interviews as guest-led. 📌 **Fourth refinement to that rule in one day** — it
+keeps failing in a new direction each time it meets new material.
+
+Synthesis notes: ⭐ **A sequencing claim the corpus does not state this way**: *"**there's no point to talk
+about scope if they can't afford it and the timeline's impossible. You're not a magician — you can't turn
+straw into gold**"* (`straw into gold` = 0). ⚠️ **Ending the call is framed as something owed to the
+client** — *"they deserve to get off the phone and find the right partner"* — not as rejection.
+⭐ **Self-selection as a restaurant**: *"we only serve vegan options — so people don't come in saying
+there's not enough beef on the patty"* (0 corpus). 📌 Same voice pattern as the pasta-sauce analogy: a
+domestic image doing analytical work. ⭐ **The pre-call self-talk** — *"I know I'm better than anybody the
+clients can hire; they just have to be smart enough to pay me so I can share my gift with them"* (0
+corpus). ⚠️⚠️ **He marks it as self-talk himself** (*"that's what I tell myself"*) and undercuts it with a
+joke; **promoting it without that frame would misrepresent him as claiming superiority.** ⭐ **The
+testimonial loop**: cut client video testimonials together and play them on a loop to stop negative
+self-talk (0 corpus) — a **mechanical fix for a psychological problem**, the same move as locating creative
+block in a missing procedure. ★★★ **Mirroring** is already held (13 hits); **the new part is the inverse** —
+anxiety mirrors too, and the client reads it as a risk signal: *"are you safe to spend money with?"*

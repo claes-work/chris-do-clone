@@ -108,7 +108,15 @@ STATUS: INITIALIZED (2026-07-14)
   self-reported — always mark as such.
 - ⚠️⚠️ **THE VOCATIVE RULE — mandatory before mining ANY `transcript: whisper` source.**
   Whisper output has **no speaker turns**, so first person in it is NOT evidence that Chris is
-  speaking. **Test:** grep the transcript for vocative address — `[,.] ?Chris[,.?]` (*"Chris, I get
+  speaking.
+  ⚠️⚠️ **FOURTH REFINEMENT (2026-07-31) — THIS TEST IS PUNCTUATION-DEPENDENT AND SILENTLY RETURNS 0 ON
+  YOUTUBE AUTO-CAPTIONS, WHICH CARRY NO PUNCTUATION.** A 2,475-word caption file contained **two**
+  punctuation marks in total. **The regex therefore returns 0 across essentially the whole caption corpus
+  (~1,080 of 1,084 sources) no matter who is speaking** — and a naive run would read every guest interview
+  as *"vocative-free, therefore Chris."* **On caption transcripts use raw name frequency with context
+  instead** (`grep -io ".\{60\}\bchris\b.\{60\}"`), which correctly surfaced *"Rene welcome to the show"*
+  and *"thanks for having me Chris"*. **The punctuated test below is valid for WHISPER OUTPUT ONLY.**
+  **Test:** grep the transcript for vocative address — `[,.] ?Chris[,.?]` (*"Chris, I get
   the feeling…"*, *"Any questions, Chris?"*). **A vocative hit proves the speaker is NOT Chris**, and
   in interview formats the transcribed dominant voice is usually **the guest**, not the host.
   Then locate the hits by position: only a **vocative-free zone** may be mined, and only when content

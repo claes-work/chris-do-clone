@@ -70,7 +70,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2016-04-30 | ★ [Big Client Meeting: Sell Large Digital Projects](2016-04-30-yt-FU63Tv3FiKo.md) | sales-clients; business; pricing | big-meeting selling framework (role-play); L3-candidate |
 | 2016-05-14 | [Conversion Optimization Funnel (CRO)](2016-05-14-yt-a6NDggNvspU.md) | content-strategy; business | guest-led (Alan Martinez); 3 Chris quotes |
 | 2016-05-20 | [How to Get a Graphic Design Job in LA](2016-05-20-yt-NnRgT4vRylQ.md) | business; design-craft; content-strategy | hiring/career; intl-designer angle |
-| 2016-05-25 | [How to: Ask For A Raise](2016-05-25-yt-lcpxWYaVbLU.md) | sales-clients; business; mindset | ⚠️ WHISPER. *The Process* w/ Jose Caballero (0 corpus). ⭐ Raise script 'what do I need to do to earn more from your point of view' (0 corpus); employer-side advice; abstract→tangible criteria |
+| 2016-05-25 | [How to: Ask For A Raise](2016-05-25-yt-lcpxWYaVbLU.md) | sales-clients; business; mindset | ⚠️ WHISPER. *The Process* w/ José Caballer (⚠️ NOT new — 96 files; whisper spelling caused a false gap). ⭐ Raise script 'what do I need to do to earn more from your point of view' (0 corpus); employer-side advice; abstract→tangible criteria |
 | 2016-06-09 | [How to Get Hired as a Graphic Designer](2016-06-09-yt--9WuYBXZ-jw.md) | business; design-craft; content-strategy | hiring; overlaps existing |
 | 2016-06-16 | ★ [Be a Happier, Better Designer](2016-06-16-yt-6ZtbgCbcyeo.md) | mindset; business | success=growth; "absent a narrative, people invent one"; L3-candidate |
 | 2016-06-21 | ★ [Where Do Good Ideas Come From?](2016-06-21-yt-hvrmngTHVJ8.md) | design-craft; mindset; content-strategy | everything-is-remix; copy-transform-combine; L3-candidate |

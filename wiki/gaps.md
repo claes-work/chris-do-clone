@@ -109,8 +109,11 @@ that was missing) and by lint passes. Each entry: date noticed, what was missing
 
 - **Three unverified personal names from whisper transcripts** (found 2026-07-31). Machine transcripts
   mis-hear proper nouns — the same file renders the subject himself as *"Chris **Doe**."* Open:
-  (1) **"Diane Gibbs"** — named in the 2018 Dublin IDI keynote ([[sources/2018-05-01-yt-nnk-f0B9rOQ]]) as
-  the woman who talked him out of quitting after the Twitter backlash; **0** corpus-wide.
+  (1) ✅ **RESOLVED same day — "Diane Gibbs" was NOT a gap.** My probe said 0; the corpus wraps the name
+  across a line break, which line-based grep cannot see. She is documented in
+  [[sources/2019-02-25-yt-RGTUPlf9tAo]] as a mutual connection whose introduction got him onto a show.
+  The keynote ([[sources/2018-05-01-yt-nnk-f0B9rOQ]]) *explains* that relationship — she talked him out
+  of quitting. **Use `tools/probe.py`, not grep, for phrase probes.**
   (2) **"Billie Jean"** — named in the same talk as who invited him to Ireland; **0** corpus-wide, and
   ⚠️ **collides with the song title**, so a naive web check will mislead.
   (3) **"Pei"** — the Art Center graduate in the 2016 raise role-play ([[sources/2016-05-25-yt-lcpxWYaVbLU]]).

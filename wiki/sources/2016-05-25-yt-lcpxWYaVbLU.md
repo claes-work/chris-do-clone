@@ -8,7 +8,7 @@ format: video
 transcript: whisper
 ingested: 2026-07-31
 domains: [sales-clients, business, mindset]
-tags: [ask-for-a-raise, role-play, the-process, jose-caballero, negotiation, employer-side, tangible-criteria, whisper, early-era]
+tags: [ask-for-a-raise, role-play, the-process, jose-caballer, negotiation, employer-side, tangible-criteria, whisper, early-era]
 ---
 
 # How to: Ask For A Raise (2016-05-25) — *The Process*
@@ -16,7 +16,7 @@ tags: [ask-for-a-raise, role-play, the-process, jose-caballero, negotiation, emp
 > ⚠️ **`transcript: whisper`** — no speaker turns, proper nouns UNVERIFIED (the transcript renders the
 > subject as *"Chris Doe"* — a **mis-hearing of "Do"**, and a good illustration of the warning).
 > ✅ **Attribution:** Chris teaching, plus a role-play partner (**Pei**, described as a recent **Art
-> Center** graduate) and co-host **Jose Caballero**. The doctrine below is Chris's; the role-play lines
+> Center** graduate) and co-host **José Caballer**. The doctrine below is Chris's; the role-play lines
 > spoken *as an employee* are Pei's.
 
 ## Summary
@@ -24,8 +24,14 @@ tags: [ask-for-a-raise, role-play, the-process, jose-caballero, negotiation, emp
 ★★★★ **An early-era source (2016) with a negotiation script the corpus does not hold** — and, unusually,
 it is advice given **from the employer's side of the table.**
 
-⚠️ **Show context, new to the corpus:** this is *The Process*, co-hosted with **Jose Caballero**
-(*"My name is Jose Caballero and I talk about the business of design"*). `Jose Caballero` returns **0**.
+⚠️⚠️ **CORRECTION (2026-07-31, same day as this page was written).** This page originally called the
+co-host *"Jose Caballero"* and claimed he *"returns 0 corpus-wide — a new entity."* **Both were wrong.**
+The name is **José CABALLER** (no final vowel — whisper added it), and he appears in **96** corpus files:
+he is the friend who **taught Chris the CORE framework** and drove the 2013 strategy pivot that turned
+Blind from a motion shop into a branding consultancy ([[../../persona/biography|biography]]).
+**Probing the mis-heard spelling returned a false gap.** See the note in `SUBJECT.md`.
+The show is *The Process*, co-hosted with him (*"My name is Jose Caballer and I talk about the business
+of design"*).
 
 ## ★★★★ Chris-attributed material
 
@@ -102,8 +108,9 @@ responsibility if you want to make more money."*
   *"why don't you just ask"* — make the other side state the criteria.
 - [[../topics/business/business|business]] — ⭐ **advice from the employer's side**, rare in the corpus;
   responsibility-expansion as the path to more money, and the self-assigned-work trap.
-- [[../entities/influences|influences]] — ⚠️ **Jose Caballero** as **co-host** of *The Process* (0
-  corpus-wide); **Pei** as a role-play participant, ⚠️ unverified spelling.
+- [[../entities/influences|influences]] — **José Caballer** as **co-host** of *The Process* ⚠️ (already on
+  **96** pages — not a new entity; see the correction above); **Pei** as a role-play participant,
+  ⚠️ unverified spelling.
 
 ## L3 candidate
 

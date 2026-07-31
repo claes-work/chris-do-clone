@@ -16768,3 +16768,42 @@ the documented *"why don't you just ask"*: replace guessing or asserting with a 
 other party state the criteria — worth recording as one pattern with two instances eight years apart.
 Plus **abstract → tangible** criteria and *"how will we know we get there?"* in a follow-up email.
 ⚠️ New entity: **Jose Caballero**, co-host of *The Process* (0 corpus-wide).
+
+## [2026-07-31] ingest | triage batch 5 — 3 skipped, and TWO false "0 corpus-wide" claims of my own found and corrected
+
+**The batch itself was thin: 3 → skipped, 0 → L2.** `yt-rFz80GrU7Gg` is not Chris (closes *"apply for MY
+live workshop"* — the same tell as the earlier Island A/B false find); `yt-kbv3RH49yPA` is **"Joey"**, an
+IP attorney (*"I am not a patent attorney… more in my wheelhouse"*); `yt-Xb5wldT512U` is a **2022
+re-telling** of the 2013 strategy pivot **already fully recorded** from `yt-yevZjd-YwUY` (2018-11-09) —
+brother's $5k web project, strategic divide, CORE, Trojan Storage, Oles, paid-to-think, ~50×.
+
+**⚠️⚠️ The real work was correcting myself. Two "0 corpus-wide" claims written into pages TODAY were wrong.**
+
+1. **`Jose Caballero` → 0.** The corpus spells him **José CABALLER** and carries him in **96 files**. He
+   is the friend who taught Chris the **CORE framework** and drove the entire 2013 pivot. I had recorded
+   him on a source page as *"a new entity."* **Wrong by a factor of 96, on one of the best-documented
+   relationships in the biography.** Cause: **whisper added a vowel** and I probed the mis-hearing.
+2. **`Diane Gibbs` → 0**, written into `gaps.md` as an unknown name. The corpus contains
+   *"mutual connection Diane\n  Gibbs"* — **the name wraps across a line break**. `grep` is line-based;
+   this corpus is hard-wrapped at ~100 chars with heavy inline markdown. ⚠️ **This can defeat ANY phrase
+   probe ever run against this repo** — the eighth and most pervasive false-gap mode.
+
+📌 **The second error is the serious one, because it is not about whisper at all** — it is a flaw in the
+probing method I have been relying on for hundreds of novelty judgements. Built `tools/probe.py`
+(whitespace- and markdown-normalised, `--stem` for mis-heard proper nouns) and **re-ran every doctrine
+claim I made today**: `reverse sale`, `net 15`, `third truth`, `better than zero`, the raise script,
+`seems like a bargain`, `used to work for me`, `five to nine thousand` — **all held** (every hit was my
+own page). **One more fell**: `close the skill gap` is in **2 prior sources**, and
+[[wiki/sources/2023-07-28-yt-BHqb2j7mFwE]] carries a **three-gap diagnostic** (confidence · skill ·
+opportunity). ✅ The finding still stands and is **distinct** — that page asks *which* gap you face, mine
+says *price above the skill gap deliberately*. **Cross-linked, not merged.**
+
+All three corrections applied in place with the correction visible; `SUBJECT.md` carries both new rules.
+**Nine of eleven claims survived verification** — the day's promotions stand, but they stand because they
+were re-checked, not because the first check was sound.
+
+**Ledger:** 3 → skipped. L2 total **1076** (unchanged). 22 whisper rows open, of which 9 are long streams.
+
+Synthesis notes: none new this batch — but ⚠️ **one correction is binding on the next synthesis pass**:
+do **not** promote *"close the skill gap"* as a novel item; promote it as the **pricing** angle on an
+already-held **three-gap diagnostic**, and link the two.

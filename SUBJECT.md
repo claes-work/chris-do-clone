@@ -148,6 +148,28 @@ STATUS: INITIALIZED (2026-07-14)
   **Use rare-word containment instead** (`tools/dup_screen.py`): tokens with document-frequency ≤2%,
   containment ≥55%. That flagged the known case at **89%**. ⚠️ Exact matching is still worth running as a
   **complement** — it catches whisper-vs-whisper dups within a batch that containment can miss.
+- ⚠️⚠️ **NEVER PROBE A WHISPER SPELLING AND TRUST THE ZERO.** Machine transcripts mis-hear proper nouns,
+  so a name probe run on whisper's rendering returns a **false gap** — the seventh known way a probe reads
+  as a hole that isn't there (after plurals, hyphens, acronyms, symptom-vs-remedy framing, word-order
+  flips, and surname collisions).
+  ⚠️ **Established 2026-07-31 by my own error.** Whisper wrote *"Jose **Caballero**"*; I probed that
+  string, got **0**, and recorded him on a source page as *"a new entity."* The corpus spells him
+  **José CABALLER** and carries him in **96 files** — he is the friend who taught Chris the **CORE
+  framework** and drove the 2013 pivot from motion shop to branding consultancy. **Wrong by a factor of
+  96, on one of the best-documented relationships in the biography.** Corrected in place.
+  **Procedure: probe a truncated stem (`Caballer`, not `Caballero`), and probe a second distinctive
+  token from the same passage before believing any zero on a proper noun.**
+- ⚠️⚠️ **USE `tools/probe.py`, NOT `grep`, FOR ANY MULTI-WORD PROBE.** **`grep` is line-based and this
+  corpus is hard-wrapped at ~100 characters with heavy inline markdown**, so a two-word phrase silently
+  returns **0** whenever the text happens to wrap or bold between the words. This is the **eighth** known
+  false-gap mode and by far the most pervasive: **it can defeat any phrase probe ever run against this
+  repo.**
+  ⚠️ **Established 2026-07-31 by a second error the same day.** `Diane Gibbs` probed to **0** and was
+  written into `gaps.md` as an unknown name. The corpus contains *"mutual connection Diane\n  Gibbs"* —
+  she is a documented connection of his. A re-run of the day's ten doctrine claims with the normalised
+  probe found **one more** false zero (`close the skill gap`, present in 2 prior sources); the other
+  nine held. `tools/probe.py` normalises whitespace and strips emphasis before matching, and `--stem`
+  covers the mis-heard-name mode above.
 - ⚠️ **A CLIP'S UPLOAD DATE IS NOT THE DATE OF ITS MATERIAL.** `yt-XxizQ1AdJUk` uploaded 2021-03-25 but
   says *"starting in 2020, January 1st"* and is cut from a 2019-12-03 stream. Frontmatter keeps the
   filename date; the page must carry a visible date caveat so fidelity rule 3 (never present an old

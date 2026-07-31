@@ -125,6 +125,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2017-04-21 | ★ [The Importance of Keeping a Journal](2017-04-21-yt-EICCL7uoikc.md) | mindset; content-strategy | 21-day single-habit pledge + accountability partner; L3-candidate |
 | 2017-04-22 | [What companies look for in a portfolio](2017-04-22-yt-X_tUOfHpoyM.md) | business; design-craft; mindset | classroom Q&A (CSUN/Dave Moon context) |
 | 2017-04-25 | ★ [Beliefs & Behavior Define Your Personal Brand](2017-04-25-yt-MUHQVsOnKbw.md) | branding; mindset; content-strategy | beliefs→brand; think-say-do harmony (Unbland); L3-candidate |
+| 2017-04-25 | ★★★★★ [What Does it Mean To Be a Self Taught Graphic Designer?](2017-04-25-yt-P89iLoCETLU.md) | design-craft; mindset; business | ⚠️ WHISPER, SAMPLED (last 30%). ⭐⭐ ROLAND YOUNG — ArtCenter Comm Design 1 teacher, 0 corpus-wide, 'slay the master'; 3 university rejections; second-born-son framing; silk-screening boss named ArtCenter; 'typography is the secret glue' |
 | 2017-04-28 | ★ [Designing for Business Goals + Client Empathy](2017-04-28-yt-GmHjnLVDcuY.md) | sales-clients; design-craft; business | design-as-business discovery + empathy-as-fiduciary; L3-candidate |
 | 2017-05-02 | ★ [Is Strategy for Creatives Who Can't Design? (Pt.1/3)](2017-05-02-yt-0Cgi_aFM4j8.md) | business; branding; design-craft | "strategy supports the design"; debate (Mark Posh context); L3-candidate |
 | 2017-05-03 | ★ [Is Strategy HOPE for Creatives? (Pt.2/3)](2017-05-03-yt-A65A-yW-FzY.md) | business; branding; design-craft | symptoms-vs-root-cause; autonomy→creative-control; L3-candidate |
@@ -1101,4 +1102,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-07-26 | ★ [Art of Being You](2026-07-26-yt-arFD056cke4.md) | mindset; branding | short; ⏳ **FRESHEST SOURCE IN THE CORPUS** — **adulting as recovery, not attainment** ("the person you always were… stripped away by socialization"); the lone-wolf conformity argument (🗣️ his reasoning, not science); authenticity → presence; ⚠️ reconcile with mindset §106 before promoting; L3-candidate |
 
 ---
-_1078 videos ingested (L2) so far._
+_1079 videos ingested (L2) so far._

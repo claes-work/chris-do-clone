@@ -123,4 +123,14 @@ that was missing) and by lint passes. Each entry: date noticed, what was missing
   documented *"not a big guy, not masculine, didn't like sports"* — **almost certainly "asthmatic."**
   **Do not quote that word until the audio is re-checked.**
 
+- ⭐⭐ **ROLAND YOUNG — a formative teacher the corpus does not know.** (found 2026-07-31, whisper stream
+  triage) In [[sources/2017-04-25-yt-P89iLoCETLU]] Chris names the teacher of his **first ArtCenter class**
+  (Communication Design 1) and quotes his lesson **25 years later**: *"you're going to be competing against
+  ME — are you going to be able to take work away from me?"* → *"**you've got to slay the master.**"*
+  ✅ `Roland Young` returns **0**, and the stem `Roland` **also 0** — so this is not a spelling miss.
+  ⚠️ **One external confirmation is needed before he enters `persona/`**, because the name comes from a
+  machine transcript. 📌 **Chris supplies the search term himself**: *"go and search the internet —
+  **Roland is God** — and you'll see a video of this man tearing people apart ruthlessly."* Low effort,
+  high payoff: he would be one of the few named formative teachers in the biography.
+
 ## Resolved

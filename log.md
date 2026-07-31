@@ -16851,3 +16851,46 @@ this is how long you let it simmer, this is when you incorporate things"* — an
 distinction (0 corpus-wide), and he uses it to locate **creative block in a missing procedure rather than
 a mood**. ⭐ *"We all have habits. Not all of us have a process."* ⚠️ **Do NOT attribute *"amateurs have
 results, professionals have a process"* to him** — he says on the recording that he **reshared** it.
+
+## [2026-07-31] ingest | stream triage batch 1 — ⭐⭐ ROLAND YOUNG, a formative teacher at 0 corpus-wide
+
+Ran both provenance sweeps plus the vocative screen across all 10 remaining whisper streams before
+reading any of them. `yt-P89iLoCETLU` stood out immediately: **8 personal-origin markers against only 3
+vocatives** — the highest personal density in the set.
+
+**The structure was unusually clean and decided how to read it:** all three vocative addresses sit in the
+**first 34%**; **all eight personal-origin markers sit in the last 29%.** The tail is his origin story told
+uninterrupted. Read that; left the mixed Q&A alone and said so on the page.
+
+**⭐⭐ The find: ROLAND YOUNG.** `Roland Young` returns **0** — and the stem `Roland` **also returns 0**,
+so this is not a spelling miss but a genuine absence. He taught Chris's **first ArtCenter class**
+(Communication Design 1). Chris describes not a lesson but a **recalibration of a word**: *"I called up my
+mom… **mom, my teacher, he's a GENIUS.** …She's never heard me say that word. **I didn't know what a genius
+WAS. And that guy was a genius.**"* And he quotes the man **25 years later**: *"who are you competing
+against in this class? …**No. You're going to be competing against ME. Are you going to be able to take work
+away from me?**"* → *"**You've got to slay the master.**"* ⚠️ Whisper name — but Chris supplies a searchable
+handle himself (*"search the internet: **Roland is God**"*), logged in `gaps.md` as a cheap verification.
+
+📌 **Discipline note: most of this stream's biography was already held** — `Candace Lopez`, `Gemma O'Brien`,
+`San Diego City College`, `Cal Poly` all return hits. The page records **only the four things that probe
+to 0**, and says so. The temptation with a source this rich is to write it all down again.
+
+**Ledger:** 1 → L2. L2 total **1079**. 13 whisper rows open (9 streams + 4 held interviews).
+
+Synthesis notes: ⭐⭐ **"You've got to slay the master"** — a formative principle, dated, attributed, and
+absent: his first ArtCenter teacher told the class their real competitor was **him**, and Chris still
+quotes it. ⚠️ Verify the name before it reaches `persona/`. ⭐ **The origin was not a plan and he says so**:
+rejected by **UCLA, UC San Diego and Cal Poly SLO**, *"no more options"*, community college by default —
+*"**it wasn't part of some plan**… I just couldn't get into any other school"* — with the family cost named
+plainly (*"disgraceful… their **second-born son** couldn't get into a university one they can brag to their
+friends"*, `second born` = 0, birth order new). ⭐ **The school choice was arbitrary**: a boss at a
+**silk-screening t-shirt shop** (`silk screening` = 0) named ArtCenter as *"the Harvard of design schools"*
+— *"**you could have said 'go to butthole design' and I would have said: that's it.**"* ⭐ **The brother's
+intervention**, which he upgrades from *"big-brother advice"* to *"**fatherly advice**"*: *"come live with
+me… you got to get away from mom and dad"*, and 🗣️ *"he's given me a credit card so I can start my
+business."* Conclusion he draws: *"**people around you can see things about you that you're kind of blind
+to.**"* ⭐ *"**Typography is the secret glue that unlocks all the design problems in your life**"* (0
+corpus-wide), with the gallery before/after after Simon Johnston's Typography One — *"I went back and it
+literally looked different to me"* — and the hubris he owns: *"I don't want to do work that's good, I'm
+going to do work that's **better** than this, because I can do it today."* ⚠️ Correctly attributed by him
+and to be preserved as such: the **9pm–12am audit is Gary Vaynerchuk's**.

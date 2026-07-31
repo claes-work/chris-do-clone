@@ -16807,3 +16807,47 @@ were re-checked, not because the first check was sound.
 Synthesis notes: none new this batch — but ⚠️ **one correction is binding on the next synthesis pass**:
 do **not** promote *"close the skill gap"* as a novel item; promote it as the **pricing** angle on an
 already-held **three-gap diagnostic**, and link the two.
+
+## [2026-07-31] ingest | triage batch 6 — 8 short solo videos: 2 L2, 6 skipped; one damaged transcript
+
+Cleared the remaining short whisper videos. **2 → L2, 6 → skipped.** Every skip has a stated, checkable
+reason rather than a judgement call:
+
+- `yt-HusdRYu84UA` — **not Chris**: *"**if I WAS a designer**, I would say to them"*, and the speaker
+  compares the work to *"building an API for a node application."* A software guest.
+- `yt-bTX-9n_vnYk` — **not Chris**: *"**I'm a beginner.**"*
+- `yt-S68b1zbcIg4` — **guest-dominant**: the host outro thanks **Alex** and points to *"his handles"*.
+  The ability/benevolence/integrity trust model cited there is the guest's citation, not Chris's.
+- `yt-vuwakdStwkk` — Chris, but a **pure course promo**; its one substantive line (agency founded 1995)
+  is already established.
+- `yt-j6MBrSmi7_M` — kerning conventions, expert instruction, **no self-ID and no first person**.
+  Closed `attribution-uncertain`. ⚠️ Tempting to attribute — he taught Dynamic Type at ArtCenter — but
+  **register is not attribution**, which is the error this loop keeps catching.
+- `yt-t9qPZNMlI3A` — ⚠️ **WHISPER TRANSCRIPT DAMAGED**: it degenerates into a repeating loop
+  (*"So that is explaining your trigger"* ×30) from ~40% on. A failure mode not previously seen and worth
+  knowing about — **the file looks complete and is not.** Speaker also unestablished, and it contains a
+  *"my two year old"* reference that does not fit the subject's 2018 family timeline. **Not mined.**
+
+**Ledger:** L2 total **1078**. 14 whisper rows open: 4 held interviews + 9 long streams + 1.
+
+Synthesis notes: ⭐⭐ **The most persona-relevant item found today**: asked in a live debrief *"where did
+you get that level of finesse… you kept it calm"*, he **declines the premise and answers with a
+disposition, not a technique** — *"**Did it look like that? Because I don't care. The secret is I just
+don't care.** I don't care [about] the outcome."* ⚠️ The corpus records his negotiating composure as
+**skill**; he sources it to **indifference**. One prior hit exists but it is *social* indifference
+(*"I drive a Toyota… I don't give an F if you think that's cool"*, 2015-12-13) — this is the same
+disposition applied to money on the table, and consistent with that page's *"I go in completely
+unprepared… I don't do any research, because then I don't jump to any conclusions."*
+⭐ **A pricing derivation the corpus lacks**: *"most people in the consulting space charge about **20% of
+their first year of realized revenue** — and **it's been discounted for uncertainty**"* → $200K against a
+client's own stated goal of doubling $1M. **Price computed from the client's stated outcome, not scope.**
+⭐ *"**Are we your last call?**"* — call order treated as extractable information about what the client
+already knows. ⭐ **Refusing to propose blind**: *"the last thing I want to do is submit a proposal for a
+budget that you don't want."* ⭐ *"**I sell stuff I don't know how to make all the time, because I'm
+talking human, I'm talking business**"* — bookends the video, with the safeguard *"could you say it a
+different way, because I don't understand"* plus *"there's a whole team behind me."*
+⭐ **Pasta sauce**: listing ingredients is not a process — *"this is what you buy, this is the prep time,
+this is how long you let it simmer, this is when you incorporate things"* — an **inventory vs. procedure**
+distinction (0 corpus-wide), and he uses it to locate **creative block in a missing procedure rather than
+a mood**. ⭐ *"We all have habits. Not all of us have a process."* ⚠️ **Do NOT attribute *"amateurs have
+results, professionals have a process"* to him** — he says on the recording that he **reshared** it.

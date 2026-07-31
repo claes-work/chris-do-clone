@@ -69,6 +69,13 @@ that was missing) and by lint passes. Each entry: date noticed, what was missing
   returning **0** corpus-wide. The formula is now conclusively a **series template**. ⚠️ Treat every
   remaining *Fonts You NEED To Know* row as ONE decision, not N findings.
 
+  ⚠️ **The same unresolved-narrator pattern now appears in LONG-FORM too** (found 2026-07-31, whisper
+  triage): `yt-gzoOGK4DEyM` — *"This ONE skill could make you RICH!"*, 1,073 words, a **scripted essay
+  read aloud** (*"Remember when your art history teacher talked about art and empires?"*) with **zero
+  first-person markers and no self-identification**. Closed `skipped`, narrator unresolved. 📌 **This
+  raises the stakes on the question**: it is no longer a shorts-only production quirk but a **house
+  format** spanning both tiers, so identifying the narrator once resolves rows in two queues at once.
+
   **Resolving who narrates that series would unlock a genuine persona dimension**: for a
   subject who taught typography at ArtCenter, the clone currently cannot name a single typeface he
   likes. Needs the video, not the captions.

@@ -812,7 +812,9 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-08-15 | ★ [How Typography Elevates Design from Good to Great (Masterclass Part 2/3)](2023-08-15-yt-ITcFFuKO2pU.md) | design-craft; mindset | Do-taught typography Pt2/3; good→great, contrast is Queen; L3-candidate |
 | 2023-08-22 | ★ [What You Missed In Graphic Design & Concepting (Masterclass 3/3)](2023-08-22-yt-fM-Emc75FEA.md) | design-craft; mindset | Do-taught semiotics/conceptual-design Pt3of3, completes trilogy w/ Pt1+2; L3-candidate |
 | 2023-09-03 | [Why I Cloned Myself using AI](2023-09-03-yt-phg5M9mIKKg.md) | business; mindset; pricing | Sho.ai interview (dobot); Chris solo on AI-ethics/citing-sources/$5k-hr-rate/Avengers-bio; guest fenced |
+| 2023-09-08 | [Elevating Your Personal Brand with Style](2023-09-08-yt-bc6KY73H8Zo.md) | branding; mindset; business | ⚠️ WHISPER. Brand Lab launch date; earliest 'wicked system' + 'left brainers'; ⭐ David Epstein (Range) provenance AND named disagreement on niching |
 | 2023-09-10 | [Convert clicks into customers!](2023-09-10-yt-b-y51Li7Bgs.md) | branding; content-strategy | Amanda Webb (spiderworking.com) guest interview; guest fenced; paradox-of-choice + Adobe MAX/Atomicon bio beats |
+| 2023-09-30 | [Harnessing AI for Creative Success (fireside)](2023-09-30-yt--d73AK5j6f8.md) | mindset; business | ⚠️ WHISPER. Pandemic cost the studio space, team scattered; ⭐ 'third truth'; title mismatch (is a fireside chat) |
 | 2023-10-19 | ★ [Don't Justify Your Prices. Do This Instead.](2023-10-19-yt-Abi8kwkfZbA.md) | pricing; sales-clients; business | have-to-have vs nice-to-have; never cede higher ground; L3-candidate |
 | 2023-10-29 | ★ [Entrepreneurship and ADHD = SUPERPOWERS](2023-10-29-yt-m4OB_5wyWa8.md) | mindset; business | Abby Lemon ADHD-coach guest interview, guest fenced; Jose Caballer 2014 board-of-directors story + FOCUS acronym + silence belief; L3-candidate |
 | 2023-11-01 | ★★ [Narrative Branding: Stories That Sell](2023-11-01-yt-xiNHfB8FVwY.md) | branding; business; mindset; content-strategy | Michael Margolis (Storied) fenced; back half = live workshop ON Chris's own business → **Brand Lab pivot** ("helping left-brainers think right", Robin Hood funding), Professor Hulk integration metaphor, meaning of "The Futur", taste-as-AI-moat; L3-candidate |
@@ -1092,4 +1094,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-07-26 | ★ [Art of Being You](2026-07-26-yt-arFD056cke4.md) | mindset; branding | short; ⏳ **FRESHEST SOURCE IN THE CORPUS** — **adulting as recovery, not attainment** ("the person you always were… stripped away by socialization"); the lone-wolf conformity argument (🗣️ his reasoning, not science); authenticity → presence; ⚠️ reconcile with mindset §106 before promoting; L3-candidate |
 
 ---
-_1069 videos ingested (L2) so far._
+_1071 videos ingested (L2) so far._

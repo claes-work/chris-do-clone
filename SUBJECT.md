@@ -106,3 +106,16 @@ STATUS: INITIALIZED (2026-07-14)
   The one page that breached this has been redacted. All family facts remain self-reported.
 - Claims like "$80M lifetime billings" (Blind) and The Futur revenue figures are
   self-reported — always mark as such.
+- ⚠️⚠️ **THE VOCATIVE RULE — mandatory before mining ANY `transcript: whisper` source.**
+  Whisper output has **no speaker turns**, so first person in it is NOT evidence that Chris is
+  speaking. **Test:** grep the transcript for vocative address — `[,.] ?Chris[,.?]` (*"Chris, I get
+  the feeling…"*, *"Any questions, Chris?"*). **A vocative hit proves the speaker is NOT Chris**, and
+  in interview formats the transcribed dominant voice is usually **the guest**, not the host.
+  Then locate the hits by position: only a **vocative-free zone** may be mined, and only when content
+  ownership independently confirms him (his company, his initiative, his premises). State the basis in
+  the page's attribution line. **Scattered hits = mixed conversation = not minable at quote level.**
+  ⚠️ **Established 2026-07-31 by a near-miss that would have breached the family rule above:** in
+  `yt-2MCyY7WCl0M` the five first-person *"my son"* lines (incl. *"played handball for the UNC
+  handball team"*) are the **GUEST's** — Brian, who opens *"thanks again for inviting me on the show."*
+  Mined naively, that transcript writes a fabricated fact about a son of the subject into `biography.md`.
+  **The register test alone would NOT have caught it; the vocative grep did.**

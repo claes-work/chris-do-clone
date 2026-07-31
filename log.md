@@ -16590,3 +16590,48 @@ this pipeline writes there**; the script touches only `/tmp` and `raw/`.
 
 ✅ **Re-downloaded to `~/whisper-models/`** — deliberately **outside any cache directory**, with the reason
 written into the script so the next person does not put it back somewhere a cleaner will eat it.
+
+## [2026-07-31] ingest | whisper triage batch 1 (@thefutur, 12 transcripts) — 2 L2, 7 skipped, vocative rule established
+
+Triaged the first 12 whisper transcripts. ⚠️ **Transcription is procurement, not ingestion** — every file
+went through the same triage as caption material, with extra caution because whisper has no speaker turns.
+
+**⚠️⚠️ THE FINDING OF THE BATCH — a near-miss on the family rule.** `yt-2MCyY7WCl0M` contains five
+first-person *"my son"* lines, one with a checkable detail (*"played handball for the UNC handball team"*).
+They belong to the **GUEST** — Brian, who opens *"Hey Chris, thanks again for inviting me on the show."*
+Mined the normal way, that transcript writes a **fabricated fact about a son of the subject** into
+`biography.md` — the worst failure available in this repo, against a subject whose family is deliberately
+non-public. **Register judgement would not have caught it. A mechanical grep did.**
+
+**Rule established and written into `SUBJECT.md` (the vocative rule):** before mining any
+`transcript: whisper` source, grep `[,.] ?Chris[,.?]`. **A vocative hit proves the speaker is NOT Chris**;
+in interview formats the dominant transcribed voice is usually the guest. Only a **vocative-free zone**
+may be mined, and only when content ownership independently confirms him. Basis stated on every page.
+📌 This is the fourth time a mechanical check has caught what a written habit did not.
+
+**Ledger:** 2 → L2 · 7 → skipped (2 course promos by other presenters, self-identified: James Martin,
+Stephanie Owens · 1 clip dup, `dup-of:yt-0MGRQVqaD_0`, 4 distinctive phrases matched · 2 guest-presented
+with Chris addressed throughout · 1 guest-dominant · 1 scripted narrator unresolved) · 3 interview rows
+remain held for the next pass.
+
+⚠️ **Probe correction worth keeping:** `Epstein` returned 1 and read as coverage — but that hit is **Seth**
+Epstein (Fuel, motion design). **David** Epstein (*Range*) was at 0. **A surname collision reads as
+coverage** — a sixth way a probe returns a false negative.
+
+**Sample was unrepresentative, and I nearly drew the wrong conclusion from it.** These 12 were the 2023
+podcast block; on that evidence the whole whisper effort looked near-worthless at quote level. Checking the
+remaining 36 before acting: only **3** are guest-marked. The rest are solo teaching content (*How Strategy
+SAVED My Design Business*, *Best Business Tip My Coach Gave Me*, *Take a Tour of the Blind Studios*).
+Background transcription continues.
+
+Synthesis notes: ⭐ **David Epstein, *Range*** — provenance for the **fair-system vs. wicked-system**
+framing (`wicked` was at 1, dated 5 months later and unattributed; `Epstein` at 0 for this person), plus a
+**named disagreement**: he adopts Epstein's diagnosis and **explicitly rejects** his anti-niching
+prescription — the corpus carries the niching advocacy in volume but not that he has answered the
+best-known counter-case. ⭐ **The pandemic cost him the studio space** (*"now I'm a person without a
+space"*, `without a space` = 0), presented as **causing** the team's dispersal; self-reported, undated as
+to when, known true by 2023-09-30. ⭐ **"There's my truth, there's your truth, and somewhere in between
+there's a third truth"** (`third truth` = 0) — an epistemic position with mind-changing as the criterion,
+extending the documented "constant improver" self-label outward from self to interlocutor. Earliest
+attestations also recorded for *"left brainers think right"* (predates its only other hit by ~4 months)
+and the Brand Lab launch date.

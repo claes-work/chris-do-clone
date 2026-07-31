@@ -4768,6 +4768,38 @@ than letting the numbers stand unmarked.
 on what we're talking about, it probably needs to be **less than $18,000**. **See what I did there?**"*
 ([[../../sources/2018-02-22-yt-5JC2gx2fh2c]])
 
+## ★★★★ Final-pass additions (added 2026-07-31, pass 32)
+
+### ★★★★★ ⭐ Budget and timeline come BEFORE scope
+
+> ★★★★★ *"**There's no point to talk about scope if they can't afford it and the timeline's impossible.
+> You're not a magician — you can't turn straw into gold.** …You need to then get off the phone, **because
+> they deserve to get off the phone and find the right partner who can do this.**"*
+
+⚠️ **Ending the call is framed as something OWED to the client**, not as a rejection — that framing is the
+promotable part. ✅ And he closes the loop back to qualification: *"if you had followed the first part of
+what I said, **you wouldn't even be here in the first place** — because these are unqualified leads."*
+✅ `straw into gold` returns **0**. ([[../../sources/2023-10-24-yt-wsg7hZMKnW4]])
+
+### ★★★★ ⭐ Self-selection, stated as a restaurant
+
+> ★★★★ *"It's almost like you created a restaurant and you say **we only serve vegan options** — so people
+> don't come in like *there's not enough beef on the patty*. You're like: **yeah, because it's a vegan
+> restaurant.**"*
+
+⚠️ Pre-qualification framed as **positioning work done in public**, not a phone screen: state on your own
+site who you serve, what you charge and which problems you solve, so people **remove themselves** before
+contact. ([[../../sources/2023-10-24-yt-wsg7hZMKnW4]])
+
+### ★★★ Mirroring — the inverse, which the corpus did not carry
+
+> ★★★ *"When you're around people who are scared, **you're on edge yourself.** …**No one wants to hire
+> someone who's scared, nervous and anxious** — it creates anxiety in them. **Are you safe to spend money
+> with? Are you reliable and trustworthy?**"*
+
+✅ `mirroring` returns **13** — the concept is held. ⚠️ **New: anxiety mirrors too, and the client reads it
+as a RISK SIGNAL about you.** ([[../../sources/2023-10-24-yt-wsg7hZMKnW4]])
+
 ## Sources
 
 - [[wiki/sources/2014-08-20-yt-1HuIfKDr54A]] — How To Ask for the Sale Pt.1 (2014-08-20) —

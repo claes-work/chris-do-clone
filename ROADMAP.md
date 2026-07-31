@@ -38,7 +38,7 @@ chapter (source page per chapter, framework pages in topics/), per-book synthesi
 voice/beliefs updates with verbatim quote banks, system-prompt recompile per book.
 *Needs from user: the texts (purchased copies dropped into `raw/books/`).*
 
-## Phase 3 — Video corpus (the bulk) — _substantially done; streams remain_
+## Phase 3 — Video corpus (the bulk) — _COMPLETE within the approved scope_
 Drain the ledger by priority via the ingest loop (`/loop /ingest-loop`, or the Codex/Pi
 opener in `tools/INGEST.md`): P1 landmark → P2 long-form → P3 guest content (with
 attribution pass) → shorts dedup. Checkpoint synthesis every ~10 batches / channel
@@ -69,6 +69,13 @@ Monthly lint. *Needs from user: consent to install schedules.*
 - [x] Phase 0 — Identity & infrastructure (bootstrap) — done 2026-07-14
 - [x] Phase 1 — Biography & source map (bootstrap) — done 2026-07-14
 - [ ] Phase 2 — Books & landmark documents — ⚠️ *Unbland* launch ingested (L2, L3 owed); book TEXTS still needed from user
-- [x] Phase 3 — Video corpus — ⭐ **COMPLETE for all reachable sources 2026-07-30** (L2 **1,069**): long-form, shorts and **all 235 livestreams** triaged. ⚠️ **102 `no-captions` rows remain, blocked on Whisper approval (decision 2)** — not on work.
+- [x] Phase 3 — Video corpus — ⭐⭐ **COMPLETE within the approved scope, 2026-07-31 (L2 1,086).** Long-form, shorts and all 235 livestreams triaged, **plus the whisper back-catalogue**: the 51 no-caption long-form/stream rows the owner approved for AI transcription on 2026-07-31 were transcribed (31 ok, 4 rejected by a 50-word floor as music/silence) and fully triaged. **Open long-form: ZERO.** ⚠️ **51 rows remain at L1, all `no-captions`: 45 @thefutur shorts (explicitly EXCLUDED from the transcription approval — a 1-in-80 hit rate made them the worst use of the budget), 5 @TheFuturAcademy software tutorials and 1 @ChrisDo trailer (outside the approved channel).** **These are blocked on an owner scope decision, not on work.** ✅ Verified 2026-07-31 that the shorts genuinely still have no caption tracks (yt-dlp, against a known-positive control).
 - [ ] Phase 4 — Articles & social
 - [ ] Phase 5 — Automation
+
+> ⚠️ **Second lesson, 2026-07-31 — `no-captions` is not a permanent property.** Three rows flagged
+> `no-captions` and whisper-transcribed that morning had **acquired real YouTube caption tracks** by the
+> afternoon; `ingest_batch.py prepare` fetched them and replaced the machine transcripts. **Part of that
+> day's transcription compute was avoidable.** ✅ The flag should be **re-checked** before any future
+> transcription run, not trusted. ⚠️ It does not rescue everything: the two highest-value whisper sources
+> (the Dublin keynote and the Roland Young origin stream) still have no captions.

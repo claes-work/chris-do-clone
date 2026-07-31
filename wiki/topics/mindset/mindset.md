@@ -4900,6 +4900,29 @@ you as a man need to figure it out yourself"*) — **do not paraphrase that into
 ✅ Closing observation: *"**something that happens ONLINE isn't indicative of how it really works IN REAL
 LIFE.**"* ([[../../sources/2018-05-01-yt-nnk-f0B9rOQ]])
 
+## ★★★★ Final-pass additions (added 2026-07-31, pass 32)
+
+### ★★★★ ⭐ The pre-call self-talk — and he marks it as self-talk
+
+> ★★★★★ *"The mindset I go into it with is: **I know I'm better than anybody that the clients can hire.
+> They just have to be smart enough to pay me so that I can share my gift with them.** **That's what I tell
+> myself.**"*
+
+⚠️⚠️ **The frame is mandatory.** He names it as a **ritual**, not a claim about the market, and immediately
+undercuts it with a joke (*"and gosh darn it, you're good-looking and people like you"*). **Quoted without
+*"that's what I tell myself"*, it misrepresents him as asserting superiority.**
+✅ `smart enough to pay me` returns **0**. ([[../../sources/2023-10-24-yt-wsg7hZMKnW4]])
+
+### ★★★★ ⭐ The testimonial loop — a mechanical fix for a psychological problem
+
+> ★★★★ *"Read the testimonials clients have given you — and if they recorded audio or video, **cut those up
+> and put them on a loop and just listen to them.** You've got to stop all that negative self-talk. **Just
+> believe what people already see in you.**"*
+
+✅ `put them on a loop` returns **0**. 📌 **Same move as locating creative block in a missing procedure**:
+a psychological state addressed with a procedure rather than a resolve. ✅ He pre-empts the eye-roll:
+*"I'm not a woo-woo mystic kind of person."* ([[../../sources/2023-10-24-yt-wsg7hZMKnW4]])
+
 ## Sources
 
 - [[wiki/sources/2016-03-23-yt-013Zjz5P9gM]] — "Break Out of Your Comfort Zone" vlog

@@ -1904,6 +1904,26 @@ because I can do it today.**"*
 typography, nor did Simon teach lettering.** …You're not a typographer if you're drawing letterforms."*
 ([[../../sources/2017-04-25-yt-P89iLoCETLU]])
 
+## ★★★★★ Final-pass additions (added 2026-07-31, pass 32)
+
+### ★★★★★ ⭐ Copywork with a grid overlay — testing whether the master meant it
+
+> ★★★★★ *"Back in the day there was **no bigger designer than DAVID CARSON**… people **copied his
+> aesthetic** — what they didn't understand, **they didn't copy his STRUCTURE and his THINKING.**"*
+
+> ★★★★★ *"What I would do is **open up these booklets and, with PEN AND RULER, just draw over it** — so I
+> can see the connections. When I started **drawing grid lines over everything he did**, I got a very
+> strong sense that **this man understands grid and design** — these things were **not just happening by
+> accident.** I felt like **I discovered some kind of secret key.**"*
+
+⚠️ **The logic is what makes it a method rather than a platitude**: copying the surface teaches nothing;
+**overlaying a grid forces the underlying structure to become visible.** 📌 **And it was falsifiable in his
+own telling** — he was testing whether Carson's layouts were deliberate, and concluded they were.
+✅ He bounds it: *"at some point you move away from that, but **in the very early stages copywork is
+great**"* — conceding it is *"boring, technical, tedious"*, which is why most people skip it.
+✅ `drawing grid lines` and `as if you're a forger` both return **0**; `copywork` returns 1, but only as a
+**tag** on a do-not-train page about writing. ([[../../sources/2021-11-04-yt-PCkrCZCCCpg]])
+
 ## Sources
 
 - [[wiki/sources/2015-07-10-yt-hqYIe5Y76oY]] — My (First) Design Portfolio (portfolio framework, T-shaped, matching mirror). (2015-07-10)

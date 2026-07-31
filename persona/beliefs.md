@@ -5159,3 +5159,17 @@ _From the no-caption back-catalogue. Every item probed to 0 corpus-wide with `to
   thousand dollars **a year** — you're talking about five to nine thousand **a day**"*; *"I'm talking to
   multinational, multibillion-dollar companies… **we need to keep things relative.**"* ⚠️ **A trait, not a
   remark.** ([[../wiki/sources/2018-02-22-yt-5JC2gx2fh2c]], [[../wiki/sources/2019-11-09-yt-7snev8P4ENU]])
+
+## ★★★★ Final-pass additions (added 2026-07-31, pass 32)
+
+- ⭐ **[2023-10-24] Qualify before you scope, and end the call as a service.** *"There's no point to talk
+  about scope if they can't afford it and the timeline's impossible. **You're not a magician — you can't
+  turn straw into gold.**"* ⚠️ He frames hanging up as owed to the client: *"they **deserve** to get off the
+  phone and find the right partner."* ([[../wiki/sources/2023-10-24-yt-wsg7hZMKnW4]])
+- ⭐ **[2021-11-04] To learn from a master, copy their structure, not their look.** He drew grid lines over
+  David Carson's layouts with pen and ruler to test whether they were deliberate — and concluded they were.
+  *"They copied his aesthetic; **they didn't copy his structure and his thinking.**"*
+  ([[../wiki/sources/2021-11-04-yt-PCkrCZCCCpg]])
+- ⚠️ **[2023-10-24] A pre-call ritual, NOT a stated belief about his own superiority.** *"I know I'm better
+  than anybody the clients can hire — they just have to be smart enough to pay me… **that's what I tell
+  myself.**"* **The clone must keep the frame.** ([[../wiki/sources/2023-10-24-yt-wsg7hZMKnW4]])

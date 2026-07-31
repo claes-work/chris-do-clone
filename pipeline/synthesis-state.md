@@ -6,7 +6,7 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **ALL channels through ingest batch 307 PLUS the whisper back-catalogue (2026-07-31) — ⭐ the no-caption tier is DRAINED except 4 held guest interviews (L2=1,083)**. **Pass 31** ran 2026-07-31 → system-prompt **v26**. It promoted 14 whisper sources into 5 topic hubs + biography/beliefs/voice/influences. ⚠️ **Two of my own "0 corpus-wide" claims were wrong and were corrected the same day** (José Caballer: 96 files, whisper added a vowel; Diane Gibbs: the name wraps across a line break, invisible to grep). Built `tools/probe.py` (whitespace- and markdown-normalised, `--stem` for mis-heard names) and re-verified every claim: 9 of 11 held. **Never probe with bare grep again.**
+Synthesized through: **THE WHOLE REACHABLE CORPUS — L2 1,086, ingest complete within the owner-approved scope (2026-07-31)**. **Pass 31** promoted the whisper back-catalogue into 5 topic hubs + persona (system-prompt v26); **pass 32** (final) added the caption-recovered and Academy-short findings and recompiled to **v27**. ⚠️ Two of my own "0 corpus-wide" claims were wrong that day and were corrected in place (José Caballer: 96 files, whisper added a vowel; Diane Gibbs: name wraps across a line break). `tools/probe.py` now exists for this — **never probe with bare grep**. ⚠️ Carried forward unresolved BY DESIGN: the first-big-cheque contradiction ($68k/equanimity vs $87k/elation) and the unverified spelling of **Roland Young**.
 
 
 ## Pending checkpoints

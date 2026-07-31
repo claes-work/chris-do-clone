@@ -17121,3 +17121,59 @@ teaches nothing, and **overlaying a grid forces the underlying structure to beco
 **falsifiable in his own telling** — he was testing whether Carson's layouts were deliberate and concluded
 they were. ✅ And he bounds it: *"at some point you move away from that, but in the very early stages
 copywork is great"*, conceding it is *"boring, technical, tedious"* — which is why most people skip it.
+
+## [2026-07-31] lint | corpus complete — Phase 3 done within the approved scope; final counts
+
+**Stage D wrap-up.** Final synthesis (pass 32), persona refresh, full lint, ROADMAP updated. **The loop
+ends here**: the actionable ingest queue is empty and what remains is blocked on an owner decision.
+
+### Final counts
+
+| | |
+|---|---|
+| Ledger rows | **2,347** |
+| **L2 (ingested)** | **1,086** |
+| skipped (dup / not-Chris / promo / unreachable) | **1,210** |
+| L1 remaining | **51 — all `no-captions`, all out of approved scope** |
+| Open long-form | **ZERO** |
+| system-prompt | **v27**, `compiled_from_sources: 1086` |
+
+### Lint results — all clean, one real finding
+
+1. **Three-way consistency** (ledger L2 ↔ pages on disk ↔ index-linked): **1086 / 1086 / 1086**, all four
+   differences **empty**.
+2. **Ledger integrity**: 0 invalid statuses, 0 duplicate ids.
+3. **Orphan pages**: **0**.
+4. **System-prompt drift**: `compiled_from_sources` matches actual L2 exactly.
+5. **Contradiction callouts**: greppable and present on all affected pages.
+6. **Synthesis debt**: 0 pending checkpoints.
+7. ⚠️ **FINDING — four rows sat in the wrong status and were corrected.** Three `dup-of` re-cuts were at
+   **L1** instead of `skipped`; I checked their parents under the clip rule first (**both L2**, so they are
+   genuinely discardable) before correcting. A fourth row was a removed video still marked pending.
+   📌 **The L1 count is the check that caught it**: 55 rows where 45 were expected. **A number that doesn't
+   reconcile is a finding, not a rounding error.**
+
+### What remains, and why it is not work
+
+- **51 `no-captions` rows**: **45 @thefutur shorts** — explicitly **excluded** by the owner from the
+  2026-07-31 transcription approval (a 1-in-80 hit rate across ~800 already triaged made them the worst
+  available use of the budget) — plus **5 @TheFuturAcademy software tutorials** and **1 @ChrisDo trailer**,
+  both outside the approved channel. ✅ **Verified today** that the shorts genuinely still have no caption
+  tracks (yt-dlp, against a known-positive control), so this is not a fetch failure. **Blocked on a scope
+  decision that is the owner's to make.**
+- **Phase 2** (book texts for *Pocket Full of Do* and *Unbland*) still needs the texts from the owner.
+- **Phases 4 and 5** (articles/social; cron automation) are untouched by design.
+
+### Two things deliberately left unresolved
+
+- ⚠️⚠️ **The first big cheque is recorded two ways** — **$68,000** with equanimity (*"let me just deposit
+  it, and that was that"*) versus **$87,000** with elation (*Scarface*, *"I wanted more of this"*). Same
+  defining phrase in both, so almost certainly one event told twice. **The reaction, not the figure, is
+  load-bearing**: the biography cites its version as evidence for desensitization to numbers. Flagged on
+  both pages; **a third source is needed.**
+- ⚠️ **Roland Young** — a formative ArtCenter teacher at 0 corpus-wide, whose lesson Chris quotes 25 years
+  later. Name comes from a machine transcript; Chris supplies the search term himself. **One external check
+  would settle it.**
+
+Synthesis notes: none new — pass 32 drained the remaining debt into `sales-clients`, `mindset`,
+`design-craft` and `persona/beliefs`, and recompiled the system prompt to **v27**.

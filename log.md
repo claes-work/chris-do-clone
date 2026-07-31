@@ -16894,3 +16894,42 @@ corpus-wide), with the gallery before/after after Simon Johnston's Typography On
 literally looked different to me"* — and the hubris he owns: *"I don't want to do work that's good, I'm
 going to do work that's **better** than this, because I can do it today."* ⚠️ Correctly attributed by him
 and to be preserved as such: the **9pm–12am audit is Gary Vaynerchuk's**.
+
+## [2026-07-31] ingest | stream triage 2 — ⚠️⚠️ a CONTRADICTION in a persona-load-bearing anecdote; 2 L2
+
+**⚠️⚠️ The first big cheque is told two ways, and the corpus compiled the untested one.**
+`yt-rAcdX5jRRgQ` puts the cheque at **$87,000** (*"give or take"*), **dates** it — a car commercial *"a
+year, a year and a half out of school"*, at the top of a **$500 → $18,000 → $87,000** ladder — and reports
+**elation**: *"I told my wife, I have now in my hands more money in one job than I thought I would have in
+a year… like that scene in **Scarface** — **the world is yours.** That's how I felt. **And I wanted more
+of this.**"* `persona/biography.md` records **$68,000**, *"not dateable from the source"*, and the opposite
+reaction: *"oh, that's interesting — **let me just deposit it. And that was that.**"*
+
+✅ Both tellings use the same defining phrase (*more money than I made in a whole year*), so it is almost
+certainly **one event told twice**. ⚠️⚠️ **The reaction is the load-bearing difference, not the figure**:
+the biography cites its version as evidence for **desensitization to numbers**, and `68,000` already
+appears in **`persona/system-prompt.md`**. **Flagged on both pages with the greppable callout, not
+resolved** — neither version is his settled attitude until a third source breaks the tie.
+
+**⚠️ I also booked a source `skipped` and had to reverse it in the same iteration.** `yt-LVSKW3my7mc`
+showed one published-source marker resolving to **Peter Drucker / *The Effective Executive*** — saturated
+at 28/7 hits — and I closed it on that. **The personal-origin marker two lines away carried a complete
+delegation doctrine.** 📌 **Rule learned: a saturated marker says nothing about the marker beside it.**
+The sweeps are a *reading order*, not a verdict. Reversed to L2 with the reversal recorded on the page.
+
+**Ledger:** 2 → L2 · 1 → skipped (`yt-DqudGFOK75g`, TikTok: personal markers are jokes and a guest's
+example, 11 vocatives). L2 total **1081**. 11 whisper rows open.
+
+Synthesis notes: ⭐ **The trade-up ladder, dated and concrete**: a **$500** anti-meth spot for the
+**Partnership for a Drug-Free America** at 22 (*"I slept on the floor, I worked hundreds of hours"*) →
+put on the reel → entered competitions → awards and notoriety → **$18,000** → a car commercial at
+**$87,000**. He states the mechanism: *"**the only way you can trade up is if you do better work than you
+can do currently**"* — and ties **hiring** to the same mechanism (*"hire people better than you, and that's
+what you get to trade up"*). ⭐⭐ **A delegation model the corpus lacks, attributed to his coach** (⚠️
+**unnamed on the source** — do not attribute to McLaren): *"if they could do **75% of you** — that's 25%
+short. But if you had **two people doing 75% of you**, they're now **1½ times you**"* (`25% short` = 0),
+prefaced by the coach's check *"**Chris, are we being realistic right now?**"* (0 corpus-wide), and
+completed by ⭐ **"COACH THE GAP"** (0 corpus-wide) — attention goes to closing the missing 25%, not to
+redoing the 75%. ⚠️ Promote the arithmetic and *coach the gap* **together**; they are one model and weaker
+apart. The **curse of knowledge** is already held (11 hits) but only as a *teaching* bias — its
+application to **first-hire frustration** is new.

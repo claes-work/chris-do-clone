@@ -772,6 +772,8 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2020-06-25 | [How Much Should You Charge To Make Money](2020-06-25-yt-Y-x5J1SIN2Q.md) | pricing; mindset; business | ⚠️⚠️ WHISPER, clip of SKIPPED parent. GUEST-DOMINANT (Eli Altman) — opening+closing NOT Chris. Chris: '$80 is better than $0' self-story; out-price your skill gap |
 | 2020-08-14 | ★ [Answering Questions About My Book — *Pocket Full of Do* AMA](2020-08-14-yt-3Xv8G8KZMhY.md) | business; content-strategy; mindset | livestream, ✅ self-ID; ⭐ **partial Phase-2 cover while the book text is unavailable** — the author on his own book; ⏳ **first edition SOLD OUT, second edition in hand by 2020-08-14** (demand-driven reprint); ★★★ **Greg Gunn picked the 2nd-edition colours**; 16.4k words, SAMPLED |
 | 2020-08-19 | ★ [Use This Sales Technique When You Pitch](2020-08-19-yt-EeBfMUD7j60.md) | sales-clients; business | "Eight Mile Principle" (name the objection first); L3-candidate |
+| 2020-11-04 | ★★★★★ [Scaling Up: How To Run A Successful Creative Agency](2020-11-04-yt-rAcdX5jRRgQ.md) | business; pricing; mindset | ⚠️ WHISPER, SAMPLED. ⚠️⚠️ CONTRADICTION on the first big cheque ($87k + Scarface elation vs biography's $68k + equanimity); ⭐ $500→$18k→$87k trade-up ladder, anti-meth spot at 22 |
+| 2020-11-18 | [Should You Hire Others?](2020-11-18-yt-LVSKW3my7mc.md) | business; mindset | ⚠️ WHISPER, SAMPLED. ⭐ 75% delegation arithmetic (two 75% hires = 1.5× you) + ⭐ 'coach the gap' (0 corpus); coach UNNAMED. ⚠️ Rescued from a premature skip |
 | 2021-03-16 | ★ [Reinvent Yourself — Obstacles Are Opportunities](2021-03-16-yt-XH-wD0Jbo5Y.md) | mindset; business | reinvention/origin-story keynote + biography; L3-candidate |
 | 2021-03-25 | [How To Discount And Make Money (Whiteboard Edit)](2021-03-25-yt-XxizQ1AdJUk.md) | pricing; sales-clients; business | ⚠️ WHISPER. Clip of SKIPPED parent yt-UNrd-XtaC28 — never ingested. ⭐ 'the reverse sale' (0 corpus) + 2% net 15 + $102 build; $16k self-reported; doctrine dates ~2019-12 not upload date |
 | 2021-07-11 | ★ [Market Yourself — Tell Your Story Pt.1](2021-07-11-yt-lrM5CRg-O0I.md) | content-strategy; branding; mindset | personal-branding storytelling framework; L3-candidate |
@@ -1102,4 +1104,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-07-26 | ★ [Art of Being You](2026-07-26-yt-arFD056cke4.md) | mindset; branding | short; ⏳ **FRESHEST SOURCE IN THE CORPUS** — **adulting as recovery, not attainment** ("the person you always were… stripped away by socialization"); the lone-wolf conformity argument (🗣️ his reasoning, not science); authenticity → presence; ⚠️ reconcile with mindset §106 before promoting; L3-candidate |
 
 ---
-_1079 videos ingested (L2) so far._
+_1081 videos ingested (L2) so far._

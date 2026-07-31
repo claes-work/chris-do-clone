@@ -210,6 +210,20 @@ They are promoted here **as a pair**: [[2024-03-29-yt-zCSjA-QoNiM]] is the "befo
   before/after pair.** He offers them as evidence for a habit, not a chronology — see
   [[../wiki/topics/mindset/mindset]] on **desensitization to numbers**.
   ([[../wiki/sources/2021-12-14-yt-RIYXIbHwlXc]])
+
+  > ⚠️ **CONTRADICTION (added 2026-07-31): the big-cheque story exists in a second telling with a
+  > different figure AND the opposite reaction.** In [[../wiki/sources/2020-11-04-yt-rAcdX5jRRgQ]] the
+  > cheque is **$87,000** (*"give or take"*), it is **dated** — a car commercial *"a year, a year and a
+  > half out of school"*, at the top of a **$500 → $18,000 → $87,000** ladder — and the reaction is
+  > **elation, not equanimity**: *"I told my wife, I have now in my hands more money in one job than I
+  > thought I would have in a year… like that scene in **Scarface** — **the world is yours.** That's how
+  > I felt. **And I wanted more of this.**"*
+  >
+  > ✅ **Both tellings use the same defining phrase** (*more money than I made in a whole year*), so this
+  > is almost certainly **one event told twice.** ⚠️⚠️ **The reaction is the load-bearing difference:**
+  > the entry above is cited as evidence for **desensitization to numbers**, and the second telling is
+  > its opposite. **Flagged, not resolved — neither version is his settled attitude until a third source
+  > breaks the tie.** ⚠️ Note the $68,000 version is already compiled into `persona/system-prompt.md`.
 - ★★ **The rate arc, every step named**: **$30/hour** on an ArtCenter job-board gig doing **bank
   brochures** → freelancing *"not even a year out of school"* at **$300/day**, accepted → **$400 → $450 →
   $500 → $650 → $700**, where he hit *"a theoretical cap"* he refused to treat as final → today *"people

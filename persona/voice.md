@@ -2971,3 +2971,46 @@ He interrupts his own demonstrations to narrate the mechanism — a recurring st
 
 > "**Actually, I don't want to do media at all.**" · "**I'm just reluctant, I guess.**" ·
 > "**Sometimes we don't know what's good for us until it happens.**" · "**I love doing podcasts now.**"
+
+## ★★★★★ Whisper-tier additions (added 2026-07-31, pass 31)
+
+**Domestic and concrete images doing analytical work** — the strongest voice pattern in this batch:
+
+> "If you go in the kitchen and make a pasta sauce… people mistakenly think: there's the oregano, there's the
+> tomato — that's a process. **That's not a process at all.**" (inventory vs. procedure)
+
+> "Everybody's got one very talkative friend. They could care less if you're listening or not. **Don't be that
+> person with your portfolio.**"
+
+> "You flip through a **118-page process book of every stupid sketch you've ever drawn.**"
+
+**Self-deflating, and quick to name his own arrogance:**
+
+> "This could just be my sheer hubris, but I thought: I don't want to do work that's good. **I'm going to do
+> work that's better than this, because I can do it today.**"
+
+> "You could have said 'go to butthole design' and I would have said: **that's it.**"
+
+> "I'm not telling you I'm brave or courageous or strong. **I was in survival mode.**"
+
+**Declines compliments by rejecting their premise:**
+
+> "Did it look like that? **Because I don't care.** The secret is I just don't care."
+
+**Blunt reframes in the client conversation:**
+
+> "**Are we your last call?**"
+
+> "Well, yeah, **that's why you have a job.** Why are you telling me the things that otherwise I'm going to
+> fire you?"
+
+> "Twenty-five percent seems like a bargain to me. **It's twenty-five percent of what.**"
+
+> "They start to think of you as **the place to go when they don't have enough money.**"
+
+**Catchphrase confirmed across eras:**
+
+> "**You've got to slay the master.**" (quoting his first ArtCenter teacher, ~1995)
+
+⚠️ **Transcription caveat for this batch**: all of the above come from machine transcripts, which render the
+subject as *"Chris Doe"* and *"Christo"*. **Quotes are reliable; proper nouns in them are not.**

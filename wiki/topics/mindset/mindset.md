@@ -4821,6 +4821,85 @@ to look back on my life in one year and be the same person."*
 > the **"constant improver"** label. **That is his own framing of where his conduct comes from — no source
 > offers an outside account, and the corpus must not manufacture one.**
 
+## ★★★★★ Whisper-tier additions (added 2026-07-31, pass 31)
+
+### ★★★★★ ⭐⭐ Composure is not a technique — it is indifference
+
+_Asked in a live debrief, after a hard price negotiation, where the finesse came from — the questioner noting
+he **kept calm** where **"most people would stop at that moment"**:_
+
+> ★★★★★ *"**Did it look like that? Because I DON'T CARE. The secret is I just don't care.** …**I don't care
+> [about] the outcome. I just don't care.**"*
+
+⚠️⚠️ **He declines the premise of the compliment.** Asked about **skill**, he answers with a **disposition**.
+📌 **This matters for the persona**: the corpus records his negotiating composure as *capability*; he sources
+it to *indifference*. ✅ One earlier hit exists but is **social** indifference (*"I drive a Toyota… I don't give
+an F if you think that's cool"*, [[../../sources/2015-12-13-yt-mnSgHLBpOpw]]); **this is the same disposition
+applied to money on the table**, and it is consistent with that page's *"I go in completely unprepared… I don't
+do any research, because then I don't jump to any conclusions."*
+([[../../sources/2018-11-06-yt-V_gVXZD9y8k]])
+
+### ★★★★★ ⭐ "Slay the master" — the lesson he still quotes 25 years later
+
+> ★★★★★ *"**Roland Young** — my first ArtCenter class, Communication Design One. Three-quarters through, he
+> said: **who are you guys competing against in this class?** People said: each other, the department, that
+> other school. And he goes: **NO. You're going to be competing against ME. Are you going to be able to take
+> work away from me?**"* → *"**You've got to SLAY THE MASTER.**"*
+
+⚠️ **The teacher–student relation reframed as future competition**, and Chris presents it as the thing that
+landed hardest. ⚠️ **Name is from a machine transcript and needs one external check** before it enters
+`persona/` — see [[../../gaps]]. ([[../../sources/2017-04-25-yt-P89iLoCETLU]])
+
+### ★★★★ ⭐ Fair systems vs. wicked systems — and he rejects the author's conclusion
+
+> ★★★★★ *"When we're living in a **fair system** — school, where we know the rules, the outcomes, how we're
+> scored… **the real world doesn't operate under a fair system. It works under a WICKED system. And DAVID
+> EPSTEIN writes about this in his book RANGE.**"*
+
+> ★★★★ *"…and **why he thinks you need to NOT niche down. But I'm going to hold off on that, because I DON'T
+> AGREE with that point. I DO agree with the observation.**"*
+
+✅ **A clean split worth preserving**: he **adopts Epstein's diagnosis** and **explicitly rejects his
+prescription.** ⚠️ **The corpus carries his niching advocacy in volume but did not record that he has read and
+answered the best-known counter-case** — record it as a **named disagreement**, not folded into the general
+position. ⚠️ **Do not conflate David Epstein with Seth Epstein** (Fuel, motion design), already in the corpus.
+([[../../sources/2023-09-08-yt-bc6KY73H8Zo]])
+
+### ★★★★ ⭐ The third truth
+
+> ★★★★ *"I believe in that **friction that exists between two ideas.** **There's my truth, there's your truth,
+> and somewhere in between there's a THIRD TRUTH.** And if we can take steps towards each other, **we can
+> change our mind and opinion.** I'm always game to have my mind stretched."*
+
+⚠️ **A stated epistemic position, not a debate tactic** — the success criterion is *changing your own mind*.
+✅ Extends the documented **"constant improver"** self-label ([[../../sources/2017-08-10-yt-aCFDG3ubqW4]])
+outward: from self-improvement to an interpersonal mechanism.
+([[../../sources/2023-09-30-yt--d73AK5j6f8]])
+
+### ★★★★ ⭐ Creative block is a missing procedure, not a mood
+
+> ★★★★ *"If you're a young designer, all you care about is getting to the finish line. And when it's done,
+> **you have no idea how you got there, or if you can recreate it.** And you go through that every time.
+> **And THAT'S where the stress comes from. That's where the CREATIVE BLOCK comes from.**"*
+
+✅ **A mechanical explanation of a state usually described psychologically.** Rests on the
+**inventory-vs-procedure** distinction promoted to [[../design-craft/design-craft]] this pass.
+✅ *"**We all have habits. Not all of us have a process.**"*
+([[../../sources/2020-06-21-yt-1bWeEBjE2wI]])
+
+### ★★★★ ⭐ "I should have said: I need help"
+
+_On walking into a pile-on after tweeting *"why aren't there more women in design?"*:_
+
+> ★★★★★ *"What I didn't realise was **I was stepping into a political and an emotional landmine.** …**I should
+> have said: I NEED HELP. I've been invited. I don't know what I'm doing.** And throw myself on the sword."*
+
+⚠️ **His correction is to the FRAMING, not the position** — ask for help rather than pose the question as if
+convening the discussion. ⚠️ **He reports the criticism unrebutted** (*"don't put the burden of learning on us;
+you as a man need to figure it out yourself"*) — **do not paraphrase that into agreement.**
+✅ Closing observation: *"**something that happens ONLINE isn't indicative of how it really works IN REAL
+LIFE.**"* ([[../../sources/2018-05-01-yt-nnk-f0B9rOQ]])
+
 ## Sources
 
 - [[wiki/sources/2016-03-23-yt-013Zjz5P9gM]] — "Break Out of Your Comfort Zone" vlog

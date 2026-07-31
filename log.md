@@ -16977,3 +16977,37 @@ not make. ⚠️ **Attribution care required**: this is a two-host stream and th
 business models — the **extensive software-contract reasoning is José Caballer's**, and Chris explicitly
 contrasts himself with it (*"broadcast is a little looser… it's not going to kill anybody, we're not
 saving lives"*). ⭐ Minor biography: the brother **has exited two startups** (self-reported, undated).
+
+## [2026-07-31] lint | synthesis pass 31 — the whisper back-catalogue promoted; system-prompt v26
+
+Checkpoint fired at 10 batches. Promoted the session's whisper findings into **5 topic hubs** (`pricing`,
+`business`, `mindset`, `design-craft`, `sales-clients`) plus `persona/biography`, `persona/beliefs`,
+`persona/voice` and `wiki/entities/influences`. Recompiled **`persona/system-prompt.md` → v26**,
+`compiled_from_sources` **1069 → 1083**. High-water mark advanced.
+
+**What was promoted, and what was deliberately not.** Pure repeats were dropped: the anchor/scarcity/
+loss-aversion material, Peter Drucker, Blair Enns, Brand Lab, Gemma O'Brien, Candace Lopez and the
+ArtCenter path were all already held, and only the genuinely absent items went in. Two items were promoted
+**as pairs because they are weaker apart** — the 75% arithmetic with *"coach the gap"*, and Epstein's
+diagnosis with Chris's rejection of Epstein's prescription.
+
+**⚠️ The methodological result of this pass matters more than any single promotion.** Two of my own
+*"0 corpus-wide"* claims, written earlier the same day, were **wrong**:
+- **José Caballer** — probed as *"Jose Caballero"* (whisper added a vowel), recorded as a new entity. He is
+  on **96 pages** and taught Chris the CORE framework.
+- **Diane Gibbs** — probed to 0 and filed as an unknown name. The corpus wraps *"Diane\n  Gibbs"* across a
+  line break, which line-based `grep` cannot see.
+
+Built **`tools/probe.py`** (whitespace- and markdown-normalised, `--stem` for mis-heard proper nouns) and
+**re-ran every claim made today: 9 of 11 held**; one more fell (`close the skill gap`, present in 2 prior
+sources — promoted anyway as a *distinct* pricing angle on an already-held three-gap diagnostic, and
+cross-linked rather than merged). **The promotions in this pass stand because they were re-verified, not
+because the first check was sound.**
+
+**Still open and carried forward:**
+- ⚠️⚠️ **The flagged CONTRADICTION on the first big cheque** ($68,000 + equanimity vs $87,000 + Scarface
+  elation) — **unresolved by design**, and the $68,000 version is what v25 compiled. Both sides now carry
+  the greppable callout; **a third source is needed.**
+- ⚠️ **Roland Young's name needs one external check** before he is treated as verified in `persona/`.
+  Chris supplies the search term himself.
+- **4 whisper rows remain** — all held guest interviews.

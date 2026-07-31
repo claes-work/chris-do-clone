@@ -557,3 +557,50 @@ this page and the hubs: **the concept is thoroughly covered** (gift economy, *a 
 is manipulation*, reciprocity, the emotional-debt mechanism) but **this formulation is not.** ✅ It is
 the crispest statement of *why* give-first works mechanically, and belongs with the reciprocity entry
 (#7).
+
+## ★★★★★ Whisper-tier additions (added 2026-07-31, pass 31)
+
+### ★★★★★ ⭐⭐ Roland Young — the formative teacher the corpus did not have
+
+**ArtCenter, Communication Design One — Chris's first class.** He is the only teacher in the corpus whose
+lesson Chris quotes **25 years later**: *"who are you competing against in this class? …**No. You're going to
+be competing against ME. Are you going to be able to take work away from me?**"* → *"**You've got to slay the
+master.**"* Chris also reports him as the person who redefined a word for him — *"I called my mom: **my
+teacher, he's a genius**… I didn't know what a genius **was**."*
+
+⚠️ **Name from a machine transcript, UNVERIFIED.** ✅ Chris supplies a searchable handle himself — *"go and
+search the internet: **Roland is God**, and you'll see a video of this man tearing people apart ruthlessly."*
+⚠️ **Do not treat as verified until that check is done** ([[../gaps]]).
+⚠️ **Distinct from Simon Johnston**, who taught Typography One and is already documented.
+([[../sources/2017-04-25-yt-P89iLoCETLU]])
+
+### ★★★★ ⭐ David Epstein (*Range*) — adopted diagnosis, rejected prescription
+
+**Provenance for the "fair system vs. wicked system" framing**, which the corpus held **without a source**
+(`wicked` appeared once, five months later and unattributed). ⚠️⚠️ **The important half is the disagreement**:
+*"…and why he thinks you need to **not niche down**. But **I don't agree with that point. I DO agree with the
+observation.**"* **Record as a named disagreement** — the corpus carries his niching advocacy in volume but did
+not record that he has read and answered the best-known counter-case.
+
+⚠️⚠️ **DO NOT CONFLATE with Seth Epstein** (founder of Fuel, motion design), already in the corpus. A probe on
+the surname alone reads as coverage and is wrong — a documented false-gap mode.
+([[../sources/2023-09-08-yt-bc6KY73H8Zo]])
+
+### ★★★ Andrea Stern — a photographers' rep (guest, not an influence)
+
+Introduced as a guest on a 2018 stream about artists' representation. ⚠️ **Fenced**: the 25% repping rate, day
+rates, usage/buyout pricing and the *"hyper reality"* aesthetic observation are **her professional knowledge,
+not Chris's doctrine**. Listed here only so the name is attributable if it recurs.
+([[../sources/2018-02-22-yt-5JC2gx2fh2c]])
+
+### ⚠️ Two corrections to my own notes, same day
+
+- **José Caballer** — I recorded him from a whisper transcript as *"Jose Caballero, 0 corpus-wide, a new
+  entity."* **Wrong by a factor of 96.** Whisper added a vowel; he is on **96 corpus pages** and is the friend
+  who taught Chris the **CORE framework**. Corrected in place.
+- **Diane Gibbs** — recorded as an unknown name at 0. **Wrong**: the corpus wraps *"Diane\n  Gibbs"* across a
+  line break, invisible to line-based grep. She is a documented connection
+  ([[../sources/2019-02-25-yt-RGTUPlf9tAo]]).
+
+📌 **Both errors were name probes on multi-word strings.** Use `tools/probe.py` (whitespace-normalised,
+`--stem` for mis-heard names), never bare `grep`, before declaring any person absent.

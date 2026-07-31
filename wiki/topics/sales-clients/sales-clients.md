@@ -4721,6 +4721,53 @@ could do that.**"* ⏳ And in **2017 he placed himself BELOW the threshold**: *"
 like the clients are doing me a favour."* ⚠️ Coach **unnamed** on this source.
 ([[../../sources/2017-05-06-yt-1KjMCOQFMuM]])
 
+## ★★★★★ Whisper-tier additions (added 2026-07-31, pass 31)
+
+### ★★★★★ ⭐ "I sell stuff I don't know how to make"
+
+_Debriefing a live role-play against a hostile, price-fishing client — a sales-funnel/development brief:_
+
+> ★★★★★ *"**I have no idea about development. I have no idea.** None of this was technical — **you do realize
+> that ZERO of it was technical.** **I sell stuff I don't know how to make all the time, because I'm talking
+> HUMAN, I'm talking BUSINESS.**"*
+
+⚠️ **He bookends the recording with this line** (it opens and closes the video), so it is the point he wanted
+taken away. ✅ **The safeguards he names, which stop it becoming bluffing**: *"**could you say it a different
+way, because I don't understand what you just said**"* — and *"**there's a whole team behind me** who can
+understand this work."* ([[../../sources/2018-11-06-yt-V_gVXZD9y8k]])
+
+### ★★★★ ⭐ Call order is information
+
+> ★★★★★ *"**And in what order are you calling us? How many people are you talking to? …ARE WE YOUR LAST
+> CALL?** …So **you already know what the other budgets are**, because they've already submitted them, right?"*
+
+⚠️ **He treats his position in the sequence as an extractable fact** about what the client already knows.
+✅ In the same conversation he **names the pitch demand instead of complying with it** — *"so are you suggesting
+that **we pitch ideas to you** to determine?"* — and the client immediately retreats to *"I want to understand
+your process."* ([[../../sources/2018-11-06-yt-V_gVXZD9y8k]])
+
+### ★★★★ He bounds his own advice by the listener's economy — two independent instances
+
+> ★★★★ *"I can imagine there are people in our audience who earn **five to nine thousand dollars A YEAR** in
+> parts of the world. And you're talking about **five to nine thousand dollars for A DAY.**"*
+> ([[../../sources/2018-02-22-yt-5JC2gx2fh2c]])
+
+> ★★★★ *"I'm talking to clients from **multinational, multibillion-dollar companies** and six-to-seven-figure
+> budgets. It's worth the time. **So there's context. We need to keep things relative to what's going on.**"*
+> ([[../../sources/2019-11-09-yt-7snev8P4ENU]])
+
+📌 **Recorded as a TRAIT, not a remark** — two independent instances, in both cases **after being challenged**
+on whether the advice generalises. He names the gap between his own reference class and his audience's rather
+than letting the numbers stand unmarked.
+
+### ★★★ Anchoring — one new phrasing of held doctrine
+
+★★★ *"Your job is always to **anchor high, because you want them to TALK YOU DOWN** versus shooting too low."*
+✅ `price bracketing` (18) and `anchor high` (6) are thoroughly held — **only the stated *goal* is new.**
+**Voice datum.** ✅ The applied script: *"the last logo I did for a company like yours was **$25,000**. But based
+on what we're talking about, it probably needs to be **less than $18,000**. **See what I did there?**"*
+([[../../sources/2018-02-22-yt-5JC2gx2fh2c]])
+
 ## Sources
 
 - [[wiki/sources/2014-08-20-yt-1HuIfKDr54A]] — How To Ask for the Sale Pt.1 (2014-08-20) —

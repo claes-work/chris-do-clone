@@ -1857,6 +1857,53 @@ they were using).
 back and this looks super resolved."*
 ([[../../sources/2019-03-22-yt-_1MIAMxixag]])
 
+## ★★★★★ Whisper-tier additions (added 2026-07-31, pass 31)
+
+### ★★★★★ ⭐ Process is a procedure, not an inventory — the pasta sauce
+
+> ★★★★★ *"If you go in the kitchen and make a pasta sauce — there's basil, tomato, oregano, herbs, salt and
+> pepper. **People mistakenly think: well, there's the oregano, there's the tomato — that's a process. THAT'S
+> NOT A PROCESS AT ALL.**"*
+
+> ★★★★★ *"A process is: **this is what you have to do when you go to the supermarket. This is what you need to
+> buy. This is how long the prep takes. This is how long you let certain things simmer. This is when you
+> incorporate things. This percentage of that with this equals this result — TIME AFTER TIME.**"*
+
+⚠️ **The distinction is between an INVENTORY and a PROCEDURE**: listing what is involved is not describing how
+it is done, and only the second is repeatable. 📌 **A strong voice datum** — a domestic, concrete image doing
+analytical work.
+
+⚠️⚠️ **PROVENANCE**: the aphorism that seeds the passage — *"amateurs have results, professionals have a
+process"* — is **NOT his**. He says on the recording that he **reshared** it and does not name the author.
+**The pasta-sauce analysis is what he adds.** ([[../../sources/2020-06-21-yt-1bWeEBjE2wI]])
+
+### ★★★★ Showing process in a portfolio — earn the right first
+
+> ★★★★ *"**I personally don't have time to look at your process. I want to see your work.** …And **if I really
+> love it, I might ask you about your process.**"* — ⚠️ **order matters**; process is what you earn the right
+> to show. ✅ He names teaching as the source of the bad habit: *"a lot of teachers tell students it's all about
+> the process books — and then you flip through a **118-page process book of every stupid sketch you've ever
+> drawn.**"* ✅ **The condition, not a flat no**: *"if you want to show process, **give it the respect it
+> deserves. Design it. Document it. Build mock-ups around it.**"*
+> ([[../../sources/2020-06-21-yt-1bWeEBjE2wI]])
+
+### ★★★★ ⭐ "Typography is the secret glue"
+
+> ★★★★★ *"**Typography is the secret glue that unlocks all the design problems in your life.** I promise you:
+> **become a master of type, you become a master of design.**"*
+
+✅ He dates the change precisely — **Typography One, third term at ArtCenter, with Simon Johnston** — and
+describes it as a perceptual shift: he had walked the student gallery *"like a kid in a candy store"*; after
+the class *"**I went back to the gallery and it looked DIFFERENT to me. It literally looked different.**"*
+⚠️ His own analogy, and he dates it himself: the Matrix scene where Neo stops seeing a person and sees code —
+*"**and this is before the Matrix.**"* ✅ What he concluded, and owns as arrogance: *"this could just be my sheer
+hubris, but I thought: **I don't want to do work that's good. I'm going to do work that's BETTER than this,
+because I can do it today.**"*
+
+★★★ **Lettering ≠ typography**, and he ties it to who taught what: *"**Nils taught lettering. He did not teach
+typography, nor did Simon teach lettering.** …You're not a typographer if you're drawing letterforms."*
+([[../../sources/2017-04-25-yt-P89iLoCETLU]])
+
 ## Sources
 
 - [[wiki/sources/2015-07-10-yt-hqYIe5Y76oY]] — My (First) Design Portfolio (portfolio framework, T-shaped, matching mirror). (2015-07-10)

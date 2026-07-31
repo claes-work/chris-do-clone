@@ -1656,6 +1656,82 @@ EMOTIONS, to be AS STOIC AS POSSIBLE.**"*
   for a living — and I've LEFT THAT WORLD LONG BEHIND.**"* ✅ **R/GA corroborated** in the same
   exchange.
 
+## ★★★★★ Whisper-tier additions (added 2026-07-31, pass 31) 🗣️
+
+_From the no-caption back-catalogue, transcribed 2026-07-31. All self-reported unless marked. **Family
+appears by role only, never by name**, per the standing rule._
+
+### ★★★★★ ⭐ The origin was not a plan, and he says so
+
+- ⭐ **Rejected by UCLA, UC San Diego and Cal Poly San Luis Obispo.** *"I had **no more options.** And that was
+  **considered disgraceful for my family** — their **SECOND-BORN SON** couldn't get into a university one they
+  can brag to their friends."* ⚠️ **Birth order is new** (`second born` = 0 before this pass).
+  He states the cultural frame bluntly: *"where I grew up in **Northern California**, everybody was going to
+  become a computer scientist… **this is where all the washed-up loser Asian kids go — community college.**"*
+  ⚠️ **He explicitly rejects the tidy version**: *"**it wasn't part of some plan**… the plan was **I just
+  couldn't get into any other school.**"* ([[../wiki/sources/2017-04-25-yt-P89iLoCETLU]])
+- ⭐ **The school choice came from a boss at a silk-screening t-shirt shop** (`silk screening` = 0): *"the best
+  school you're ever going to go to for graphic design is a school called **ART CENTER** — **this is the Harvard
+  of design schools.**"* ⚠️ **He is candid that it was arbitrary**: *"**you could have said 'go to butthole
+  design' and I would have said: that's it.**"* 📌 Two people then validated it — his **high-school yearbook
+  teacher** (whom he had previously rebuffed: *"I'm going to be broke, that's not a thing for me"*), and his
+  brother. ([[../wiki/sources/2017-04-25-yt-P89iLoCETLU]])
+- ⭐ **The brother's intervention**, which he upgrades himself: *"come live with me, go to college here. **You
+  got to get away from mom and dad. You got to figure out your way in life**"* — *"that sounds like big-brother
+  advice; **this is more than big brother, this is FATHERLY advice.**"* ⭐ *"**He's given me a credit card so I
+  can start my business.**"* ⭐ The brother is a **UCSD computer-science graduate** who *"is in a couple of
+  different startups and **has exited out of two of them**"* ([[../wiki/sources/2017-02-25-yt-FKR8C0MSjcY]]).
+  📌 The conclusion Chris draws: *"**people around you can see things about you that you're kind of blind to.**"*
+  ([[../wiki/sources/2017-04-25-yt-P89iLoCETLU]])
+
+### ★★★★★ ⭐⭐ Roland Young — his first ArtCenter teacher
+
+- ⭐⭐ **Communication Design One**, his first class. *"On your transcript it just says **R. Young** — I didn't
+  know the R was for Roland."* An elderly man, shocking white hair, black sweats and beat-up sneakers,
+  *"he looks like a homeless guy"* — *"and **he goes on to blow my mind.**"*
+- ⭐ *"A couple of classes in, **I called up my mom**… **mom, my teacher, he's a GENIUS.** …**She's never heard
+  me say that word. I didn't know what a genius WAS. And that guy was a genius.**"*
+- ⭐⭐ The lesson he still quotes: *"**who are you competing against in this class? …No. You're going to be
+  competing against ME. Are you going to be able to take work away from me?**"* → *"**You've got to slay the
+  master.**"*
+- ⚠️ **Name from a machine transcript — one external check needed before it is treated as verified**; Chris
+  supplies the search term himself (*"Roland is God"*). See [[../wiki/gaps]].
+  ([[../wiki/sources/2017-04-25-yt-P89iLoCETLU]])
+
+### ★★★★★ ⭐ The 2018 Dublin IDI keynote — childhood, and an online pile-on
+
+- ⭐⭐ *"We're **first-generation immigrants. We fled Vietnam in 1975 to escape communism.** We came to the
+  United States **when I was three years old** and **we left everything.**"*
+- ⭐⭐ **Childhood racial abuse, in his own words**: *"**In some neighborhoods I was NOT BROWN ENOUGH, and for
+  some I WASN'T WHITE ENOUGH.** …isolated, targeted, and picked on by bullies and bigots who would yell racial
+  slurs at me. **I was SPIT ON by complete strangers** and I got into lots of fights."* ⚠️ **He declines the
+  heroic reading**: *"**I'm not telling you I'm brave or courageous or strong**… I was **in survival mode**, and
+  all that external pressure started to **make me lose myself.**"*
+- ⭐ **The gender-in-design tweet and the backlash.** He asked *"why aren't there more women in design?"*, called
+  it *"stepping into a political and an emotional landmine"*, and **tried to quit** after a DM saying *"**you
+  don't deserve to be there. You are taking the place of someone more deserving than you.**"* He notes the irony
+  himself: *"I'm on the internet telling everybody **face your fears, overcome doubt** — and **I was looking for
+  the exit door.**"*
+- ⚠️ 🗣️ **Self-reported and unverifiable from that source**: *"**I paid women more than their male
+  counterparts**… at one point **we were all women except for me.**"*
+- ⭐ **Diane Gibbs** talked him out of quitting. ✅ **Not a new name** — she is already in the corpus as a mutual
+  connection whose introduction got him onto a show ([[../wiki/sources/2019-02-25-yt-RGTUPlf9tAo]]); this keynote
+  **explains the relationship.** ([[../wiki/sources/2018-05-01-yt-nnk-f0B9rOQ]])
+
+### ★★★★ ⭐ The early fee ladder, and the pandemic
+
+- ⭐ **$500 → $18,000 → ~$87,000**: an anti-meth spot for the **Partnership for a Drug-Free America** at **22**
+  (*"I slept on the floor. I worked hundreds of hours"*) → put on the reel → competitions → awards and notoriety
+  → an $18,000 job → a **car commercial** roughly **a year to eighteen months out of school**.
+  ⚠️⚠️ **See the CONTRADICTION callout above** on the cheque figure and his reaction.
+  ([[../wiki/sources/2020-11-04-yt-rAcdX5jRRgQ]])
+- ⭐ **The pandemic cost him the studio space**: *"**I had to give up this incredible space that we had**… and
+  that also changed our team, in that **everybody scattered like the wind.** People moved overseas."* →
+  *"**now I'm a person without a space.**"* ⚠️ Presented as **causing** the dispersal and a change in the
+  business model. ⚠️ Undated as to when; known true by **2023-09-30**. 📌 **Both valences recorded**: he calls
+  the scattering *"wonderful"* for the people and the loss *"a big deal for me."*
+  ([[../wiki/sources/2023-09-30-yt--d73AK5j6f8]])
+
 ## Known uncertainties
 
 - **Kier McLaren's date of death — unknown.** He states only that his coach *"has passed away"*

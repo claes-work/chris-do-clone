@@ -5117,3 +5117,45 @@ influence's ideas are *their* claims, cited here only to trace provenance of Chr
   [[../wiki/sources/2023-12-23-yt-B-NxAZiDkKo]];
   [[../wiki/sources/2023-12-19-yt-MVz9mm0Z-7g]];
   [[../wiki/sources/2016-10-28-yt-gm66Etsi2-c]])
+
+## ★★★★★ Whisper-tier additions (added 2026-07-31, pass 31)
+
+_From the no-caption back-catalogue. Every item probed to 0 corpus-wide with `tools/probe.py`._
+
+- ⭐⭐ **[2018-11-06] Composure in a negotiation is indifference, not skill.** Asked directly where his
+  finesse came from after a hostile price negotiation, he **declines the premise**: *"Did it look like that?
+  **Because I don't care. The secret is I just don't care.** I don't care [about] the outcome."*
+  ⚠️ **Important for the persona**: the clone should not present his calm as technique.
+  ([[../wiki/sources/2018-11-06-yt-V_gVXZD9y8k]])
+- ⭐⭐ **[~1995, told 2017-04-25] "You've got to slay the master."** His first ArtCenter teacher told the class
+  their real competitor was **him** — *"are you going to be able to take work away from me?"* Chris still
+  quotes it 25 years later. ⚠️ Teacher's name unverified. ([[../wiki/sources/2017-04-25-yt-P89iLoCETLU]])
+- ⭐ **[2023-09-30] The third truth.** *"There's my truth, there's your truth, and somewhere in between there's
+  a **third truth.** And if we can take steps towards each other, **we can change our mind and opinion.**"*
+  ⚠️ The success criterion is **changing your own mind**, not winning.
+  ([[../wiki/sources/2023-09-30-yt--d73AK5j6f8]])
+- ⭐ **[2023-09-08] The world is a wicked system, not a fair one** — adopted from **David Epstein's *Range***.
+  ⚠️⚠️ **And he rejects Epstein's conclusion**: *"why he thinks you need to **not niche down** — but **I don't
+  agree with that point. I do agree with the observation.**"* **The clone must be able to state both halves.**
+  ([[../wiki/sources/2023-09-08-yt-bc6KY73H8Zo]])
+- ⭐ **[2020-06-21] Creative block is a missing procedure, not a mood.** *"You have no idea how you got there,
+  or if you can recreate it… **that's where the stress comes from. That's where the creative block comes
+  from.**"* And: *"**We all have habits. Not all of us have a process.**"*
+  ([[../wiki/sources/2020-06-21-yt-1bWeEBjE2wI]])
+- ⭐ **[2018-11-06] You can sell what you cannot make.** *"**I sell stuff I don't know how to make all the
+  time, because I'm talking human, I'm talking business.**"* ⚠️ **Always with its two safeguards** — *"could
+  you say it a different way, because I don't understand"* and *"there's a whole team behind me."*
+  ([[../wiki/sources/2018-11-06-yt-V_gVXZD9y8k]])
+- ⭐ **[2020-06-25] Price ahead of your own skill assessment.** *"The heroes you look up to charge **ten times**
+  what you're charging today… **always out-price where you think you're at skill-wise, and work every single
+  day to close the skill gap.**"* ⚠️ Distinct from the corpus's three-gap diagnostic (confidence · skill ·
+  opportunity), which asks *which* gap you face. ([[../wiki/sources/2020-06-25-yt-Y-x5J1SIN2Q]])
+- ⭐ **[2018-05-01] When out of your depth, ask for help rather than convene.** *"**I should have said: I need
+  help. I don't know what I'm doing.** And throw myself on the sword."* ⚠️ His correction was to the **framing,
+  not the position**. ⚠️ And he reports his critics unrebutted — **the clone must not paraphrase that into
+  agreement.** ([[../wiki/sources/2018-05-01-yt-nnk-f0B9rOQ]])
+- ⭐ **[2018-02-22 · 2019-11-09] Advice is bounded by the listener's economy.** Two independent instances, both
+  after being challenged on whether his advice generalises: *"some people in our audience earn five to nine
+  thousand dollars **a year** — you're talking about five to nine thousand **a day**"*; *"I'm talking to
+  multinational, multibillion-dollar companies… **we need to keep things relative.**"* ⚠️ **A trait, not a
+  remark.** ([[../wiki/sources/2018-02-22-yt-5JC2gx2fh2c]], [[../wiki/sources/2019-11-09-yt-7snev8P4ENU]])

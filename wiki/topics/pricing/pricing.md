@@ -2942,6 +2942,99 @@ protecting you.** Below it you compete locally; above it the client's option set
 names by name in the same period — **but contemporaneity is not identity**, and the attribution is deliberately
 withheld. ([[../../sources/2018-12-13-yt-AkHGk1l1Lx4]])
 
+## ★★★★★ Whisper-tier additions (added 2026-07-31, pass 31) — the no-caption back-catalogue
+
+_All five items come from machine transcripts of videos that had no captions and were therefore
+unreachable until 2026-07-31. Every one probed to **0** corpus-wide with the whitespace-normalised probe
+(`tools/probe.py`), not with `grep` — see the eighth false-gap mode in `SUBJECT.md`._
+
+### ★★★★★ ⭐ "The reverse sale" — announce the increase, then sell at the old price
+
+> ★★★★★ *"I want to introduce you to a concept that most people don't talk about. **It's called THE REVERSE
+> SALE.** …I make a typography course. **It's $149.** So I tell **Ben Burns**: **Ben, this class is TOO
+> CHEAP.** …**I want to DOUBLE the price** — charge **$299** — and **email everybody** that in a certain
+> number of days the price will be going up."*
+
+> ★★★★★ 🗣️ *"And you know what happened? The first day the email went out — **$16,000 in sales in 24 hours.**"*
+
+✅ **He then decomposes his own tactic**: the old price is revealed as an **anchor** against the new one,
+the announcement supplies **urgency**, and he notes explicitly that **quantity scarcity is absent** because
+it is a digital product. ⚠️ **Naming the lever he does NOT have is the tell of teaching a mechanism rather
+than running it.** ⚠️ 🗣️ **$16,000 is self-reported and unaudited.**
+([[../../sources/2021-03-25-yt-XxizQ1AdJUk]] — ⚠️ doctrine dates to **~2019-12**, not the 2021 upload)
+
+### ★★★★★ ⭐ 2% net 15 — and the discount is pre-funded
+
+> ★★★★★ *"Write into your invoices: **we will give you a 2% discount, NET 15** — paid within 15 days…
+> 2% doesn't seem like a lot, but **you'll be surprised how quickly you get paid.**"*
+
+> ★★★★★ *"**If you're going to bill a project for $100, build the estimate at $102.** So you've already made
+> the money… **and if they miss it by one day, you get the $102.**"*
+
+✅ **The mechanic is the point**: the concession costs nothing because it was priced in, and the failure case
+pays better than the success case. ([[../../sources/2021-03-25-yt-XxizQ1AdJUk]])
+
+### ★★★★ ⭐ Five named exceptions to his own never-discount rule
+
+> ★★★★ *"**Every rule is made to be broken.**"* — (1) **best/most loyal clients**; (2) the **"Costco model"**
+> — bulk booking *now*, e.g. *"three projects right now at $240K"*, justified by economies of scale and no
+> team turnover; (3) **concept viability** (Kickstarter-style early-buyer); (4) **prelaunch**, their own
+> practice — a discount for accepting ~30 days of delivery risk; (5) **early payment** (2% net 15, above).
+
+⚠️ `Costco model` was previously attested only at **2024-02-26**; this source predates it by **~4 years**.
+([[../../sources/2021-03-25-yt-XxizQ1AdJUk]])
+
+### ★★★★★ ⭐ Price from the client's stated outcome, not from scope
+
+> ★★★★★ *"**Most people in the consulting space charge about 20% of their first year of realized revenue** —
+> and **it's been discounted for uncertainty.** So **are you prepared to spend somewhere north of
+> $200,000** to do this work?"*
+
+✅ The client had just said they do ~**$1M** and want **$2M**. **The fee is 20% of the increase the client
+named** — arithmetic performed live on their own number. ⚠️ *"Discounted for uncertainty"* pre-answers the
+"you can't guarantee it" objection **before it is raised**.
+
+> ★★★★ **And he refuses to proceed on a guess**: *"**I think we should HIT PAUSE on this conversation**…
+> because **the last thing I want to do is submit a proposal for a budget that you don't want.** I'll tell
+> you right now: **it's going to be north of $200,000.**"* ⚠️ Note what he does **not** do — he neither
+> lowers nor withdraws the number when the client hedges. ([[../../sources/2018-11-06-yt-V_gVXZD9y8k]])
+
+### ★★★★ ⭐ Two reframes, one for the buyer and one for the seller
+
+> ★★★★ **The denominator question** — on a rep's 25% commission: *"Don't sit there and think *I have to pay
+> somebody else 25%* — when you're in all likelihood **getting four, five, TEN times as much as you could get
+> on your own.** **25% seems like a bargain to me. It's 25% OF WHAT.**"*
+> ([[../../sources/2018-02-22-yt-5JC2gx2fh2c]])
+
+> ★★★★ **Out-price your own skill assessment** — asked *"what if my work isn't good enough yet?"*: *"**The
+> heroes you look up to charge TEN TIMES what you're charging today.** …**Always out-price where you think
+> you're at skill-wise, and work every single day to close the skill gap.**"* ⚠️ **A deliberate inversion**:
+> the gap becomes a work obligation instead of a reason to discount. ⚠️ **Distinct from — not a repeat of —
+> the three-gap diagnostic** (confidence · skill · opportunity) in [[../../sources/2023-07-28-yt-BHqb2j7mFwE]],
+> which asks *which* gap you face. ([[../../sources/2020-06-25-yt-Y-x5J1SIN2Q]])
+
+### ★★★★ ⭐ The underpricer's self-narrative — the error is a story before it is arithmetic
+
+> ★★★★★ *"When a client says: I'll pay you **$80** for something that should be **$1,000** — you and I would
+> say, that's below what it takes for me just to live doing this work. **In fact I think I'm going to be
+> PAYING YOU for this project.** But then they tell themselves a story, and the story is: **I'm not doing
+> anything anyways, and $80 is better than $0.**"*
+
+✅ **What they leave out of the equation**: *"their own living expense — their computer, their software, their
+hardware, their own mortgage or rent. **They think: my life is free.**"* ⚠️ **He diagnoses the sequence** —
+the narrative comes first, the omitted arithmetic follows.
+([[../../sources/2020-06-25-yt-Y-x5J1SIN2Q]] — ⚠️ **guest-fenced page**: the opening and closing passages of
+that source are **Eli Altman's**, not Chris's)
+
+### ★★★ Payment terms, from the earliest era
+
+★★★ *"Our terms are **50, 25, 25** — 50% upfront, 25% at three-quarters through, 25% on delivery."* — with a
+safeguard: *"if we're not sure about a brand-new client, **we make sure there's a check ready to go before we
+hand over the final product.**"* ✅ `50% upfront` was already held; **the split and the withhold are new.**
+★★★ *"**Net 30, and we like net 30**… net 90 or net 120 means up to four months. **When we first started out
+that felt like an eternity** — because you're running on your own cash."*
+([[../../sources/2014-10-07-yt-xHtvh3d-Gc0]])
+
 ## Sources
 
 - [[wiki/sources/2015-10-08-yt-wd0ejVP_g78]] — Pricing & estimating creative jobs (the cost build-up, payment terms)

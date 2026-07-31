@@ -6,7 +6,7 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **ALL channels through ingest batch 307 — ⭐ **the livestream tier is DRAINED** (235 triaged, 23 ingested) (L2=1,069)**. Passes **22 + 22b** ran 2026-07-28 → system-prompt **v24**; **pass 23** ran 2026-07-28 → **`entities/influences` only** (no version bump — v24 stands). ⚠️ **Pass 23 was written AFTER reading the hub, not from source-page notes** — a deliberate change of method after **four false novelty claims and one overstatement** during the shorts run, all corrected in place. Remaining Stage-C debt is small: the shorts yielded 12 ingests in 103, all from 2025–26.
+Synthesized through: **ALL channels through ingest batch 307 PLUS the whisper back-catalogue (2026-07-31) — ⭐ the no-caption tier is DRAINED except 4 held guest interviews (L2=1,083)**. **Pass 31** ran 2026-07-31 → system-prompt **v26**. It promoted 14 whisper sources into 5 topic hubs + biography/beliefs/voice/influences. ⚠️ **Two of my own "0 corpus-wide" claims were wrong and were corrected the same day** (José Caballer: 96 files, whisper added a vowel; Diane Gibbs: the name wraps across a line break, invisible to grep). Built `tools/probe.py` (whitespace- and markdown-normalised, `--stem` for mis-heard names) and re-verified every claim: 9 of 11 held. **Never probe with bare grep again.**
 
 
 ## Pending checkpoints

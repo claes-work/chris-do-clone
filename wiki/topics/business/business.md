@@ -3169,6 +3169,95 @@ but the stated purpose is psychological safety for creative risk. ⚠️ Read ag
 contradiction — different eras — but neither should be quoted without the other.
 ([[../../sources/2017-06-15-yt-9lq8gs3CYfk]])
 
+## ★★★★★ Whisper-tier additions (added 2026-07-31, pass 31)
+
+### ★★★★★ ⭐⭐ Indemnification — and what large clients do to it
+
+> ★★★★★ *"There's a whole thing you really need to have as a designer, and it's **INDEMNIFICATION**. That
+> sounds fancy, but it's basically: **if shit hits the fan and whatever we did for you messes up your
+> business — it wasn't us.** You can't hold the service provider liable."*
+
+> ★★★★★ *"**Big corporate clients are going to REMOVE the indemnification clause**, because they have really
+> powerful lawyers — and they're going to **require you to have at least $2 million in insurance.**"*
+
+✅ `indemnification` returned **0** corpus-wide before this pass — **an entire contract dimension was
+missing.** ⚠️ **The second half is the operative part**: the protection you write in is the first thing a
+large client strikes, and the substitute is **insurance you must buy** — *"**consulting insurance**… an
+insurance broker will give it to you. **It's about a thousand dollars a year.**"*
+⚠️ 🗣️ **2014 figures — do not present as current.**
+
+📌 **He frames the clause fight as a THRESHOLD MARKER**: *"if you're making a transition from working with a
+mom-and-pop to working with a larger corporate client."* **That argument is the reason to record it** — it
+tells you where you are, not just what to sign. ([[../../sources/2014-10-07-yt-xHtvh3d-Gc0]])
+
+### ★★★★ ⭐ Statement of work ≠ contract, and your position in the chain
+
+> ★★★★ *"**The statement of work has deliverables, price and schedule**… **it doesn't have any of the
+> clauses.**"* — commercial terms in one document, legal terms in another.
+
+> ★★★ *"On the motion-graphics side they're more like **POs against an ad agency's existing master services
+> contract** with the client. **So understand that you're NOT the final holder.** If you're doing **direct to
+> client, like I do — we hold master contracts.**"* ⚠️ **Contract type is downstream of your position in the
+> chain**, with an architect→developer→client analogy. A structural point the pricing material does not make.
+
+⚠️ **Attribution care**: that source is a two-host stream and **the extensive software-contract reasoning is
+José Caballer's**; Chris explicitly contrasts himself (*"broadcast is a little looser… it's not going to kill
+anybody, we're not saving lives"*). ([[../../sources/2014-10-07-yt-xHtvh3d-Gc0]])
+
+### ★★★★★ ⭐ The 75% delegation model, and "coach the gap"
+
+> ★★★★★ *"I had this problem **until my coach started telling me: are we being REALISTIC right now?** …What he
+> also told me is: **if they could do 75% of you** — yes, that's 25% short. But **if you had TWO people doing
+> 75% of you, they're now 1½ times you, and you can take on more work.**"*
+
+✅ **The move is to stop comparing one hire against yourself and compare the *sum* against yourself.**
+He supplies the fairness argument himself: *"they are most definitely **not 100% you. And if they were, they
+would charge 100% of you.**"*
+
+> ★★★★★ *"We know that **in that last 25% is where the magic is** — where we obsess over the details, finesse
+> the edit, make sure the sequence of shots is right. So this is what we need to do: **COACH THE GAP.** The
+> part you focus on is **the part that's missing**."*
+
+⚠️ **Promote the arithmetic and *coach the gap* TOGETHER — they are one model and weaker apart**: the first
+says hire anyway, the second says where your attention goes afterwards (closing the 25%, **not redoing the
+75%**). ✅ He names the cause of first-hire frustration as the **curse of knowledge** — already held in the
+corpus, but only as a *teaching* bias; **its application to your own irritation with freelancers is new.**
+⚠️ **The coach is UNNAMED on this source** — the habitual framing fits [[../../entities/kier-mclaren]] but is
+not attributed there. ([[../../sources/2020-11-18-yt-LVSKW3my7mc]])
+
+### ★★★★★ ⭐ The trade-up ladder — dated, with figures
+
+> ★★★★ *"I did a project for **500 bucks** — the **Partnership for a Drug-Free America**, an anti-meth spot.
+> **I slept on the floor. I worked hundreds of hours.** …I was **22**."*
+
+> ★★★★★ *"But **I used this $500 project. I put it on my reel. I entered competitions. We won a bunch of
+> awards and got some notoriety.** And **we traded up.** The next project was something like **$18,000**…
+> and then a car commercial at **eighty-something thousand.**"*
+
+✅ **The mechanism, stated**: *"**the only way you can trade up is if you do better work than you can do
+currently**"* — and he ties **hiring** to the same mechanism (*"hire people better than you, and that's what
+you get to trade up"*). ⚠️ **The cheap job is framed as INVENTORY**, not exploitation: it bought the next rung.
+⚠️⚠️ **See the flagged CONTRADICTION** on that cheque in [[../../../persona/biography]].
+([[../../sources/2020-11-04-yt-rAcdX5jRRgQ]])
+
+### ★★★★ ⭐ Asking for a raise — from the employer's side of the table
+
+> ★★★★ *"**Being an employer, I've seen it done lots of ways. Hardly have I ever seen it done the right way.**
+> …Most people **just talk about themselves** — what they've done, that they showed up on time. **They're just
+> describing WHAT THEY WERE PAID TO DO.** From an employer I'm thinking: **well, yeah, that's why you have a
+> job.**"*
+
+> ★★★★★ **The script**: *"I'd like to make more money. **What do I need to do to earn more money FROM YOUR
+> POINT OF VIEW? And if I meet that criteria, would you consider giving me a raise at that point?**"*
+
+✅ **Structurally the same move as the documented *"why don't you just ask"*** — replace guessing or asserting
+with a question that makes the other party state the criteria. ⚠️ **Two instances, eight years apart (2016 and
+the McLaren rebuke) — record as one pattern, not two findings.** ✅ Then: **make abstract language tangible**
+(*"your 'better' is going to be different than mine"*) and **put it in writing** — *"boss, we talked, these are
+the four things I'm going to work on — **and how will we know we get there?**"* ⚠️ **The trap he names**:
+self-assigned extra responsibilities don't count; the criteria must be agreed in advance.
+([[../../sources/2016-05-25-yt-lcpxWYaVbLU]])
+
 ## Sources
 
 - [[wiki/sources/2016-02-24-yt-4ZeNq6s_aX4]] — "3 Tips on starting your own design agency"

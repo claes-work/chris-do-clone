@@ -16635,3 +16635,45 @@ there's a third truth"** (`third truth` = 0) — an epistemic position with mind
 extending the documented "constant improver" self-label outward from self to interlocutor. Earliest
 attestations also recorded for *"left brainers think right"* (predates its only other hit by ~4 months)
 and the Brand Lab launch date.
+
+## [2026-07-31] ingest | whisper triage batch 2 — dup screen built; 4 clips rescued from skipped parents
+
+Screened 24 whisper transcripts for re-uploads before spending triage effort on them. The screening
+itself produced the two findings.
+
+**⚠️ Exact matching cannot detect duplicates across transcription systems.** `yt-CbQNwT7FsVg` was proven a
+re-upload of the L2 `yt-7snev8P4ENU` (phrase spot-checks + 72% vocabulary overlap) and then passed **two**
+exact-match screens as "unique" — a raw 7-gram grep, and a whitespace-normalised one. The cause is
+structural: **whisper and YouTube's caption engine word the same audio differently**, which is precisely
+the boundary that matters when back-filling no-caption rows. Replaced with **rare-word containment**
+(tokens with document-frequency ≤2%; word choice differs between transcribers, *which rare things get
+talked about* does not). It scores the known case at **89%**. Written up as `tools/dup_screen.py`, which
+also runs the exact screen as a complement — that one catches within-batch whisper-vs-whisper dups the
+containment metric can miss. **Both screens are needed; neither alone is sound.**
+
+**⚠️⚠️ The clip rule — a hit is not a skip.** 6 duplicates found; **only 1** had an L2 parent. Four hung
+off streams closed 2026-07-30 as *"guest-primary"*. **That judgement was correct about provenance markers
+— and wrong as a reason to discard the clips**, because the channel's own editors had cut clips out of
+those streams **titled after Chris's own segments**. Marking them `dup-of:` would have discarded never-
+ingested material a second time. 📌 **Editors' clip choices are an index into skipped long-form.**
+Triaged individually, the sample split **50/50**: `yt-mpOGY4bMoWQ` genuinely was the guest's doctrine
+(David C. Baker's "20 aha moments" positioning test) → parent judgement confirmed; `yt-XxizQ1AdJUk` was
+Chris solo at a whiteboard. **Neither blanket rule would have been right.**
+
+Also refined the vocative rule established this morning: **vocative-free ≠ solo.** `yt-CbQNwT7FsVg` scored
+0 vocatives and still has a co-host (*"Can I add some into that?"*). The grep catches an **addressed**
+Chris, not an unaddressed second speaker. A zero remains a hypothesis.
+
+**Ledger:** 1 → L2 · 2 → skipped · 3 clips of skipped parents still queued for individual triage
+(`5JC2gx2fh2c` 95%, `Y-x5J1SIN2Q` 71%, `-_GaSasjJuU`). L2 total **1072**. Transcription still running
+(24 of 56 whisper rows done, faster than the measured 2 min/file estimate).
+
+Synthesis notes: ⭐ **"The reverse sale"** — a NAMED concept at **0** corpus-wide, with a worked case: his
+typography course at $149, he instructs **Ben Burns** to double it to $299 and email the list first →
+🗣️ **"$16,000 in sales in 24 hours"** (self-reported, unaudited). He then decomposes his own tactic and
+notes which lever is *absent* (no quantity scarcity — digital product), which is the tell of teaching a
+mechanism rather than running it. ⭐ **"2% net 15"** (0 corpus-wide) with the mechanic: *"if you're going
+to bill $100, build the estimate at $102"* — the discount is pre-funded. ⭐ **Five named exceptions to his
+own never-discount rule** (*"every rule is made to be broken"*), incl. the **Costco model** at ~2019-12,
+**4 years earlier** than its only other attestation. Applied anchor script for logo pricing ($25K → "less
+than $18K", *"see what I did there?"*). ⚠️ Date all of it **~2019-12**, not the 2021-03 upload date.

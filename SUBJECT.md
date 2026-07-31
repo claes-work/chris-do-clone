@@ -119,3 +119,27 @@ STATUS: INITIALIZED (2026-07-14)
   handball team"*) are the **GUEST's** — Brian, who opens *"thanks again for inviting me on the show."*
   Mined naively, that transcript writes a fabricated fact about a son of the subject into `biography.md`.
   **The register test alone would NOT have caught it; the vocative grep did.**
+  ⚠️ **REFINEMENT (2026-07-31, same day): vocative-free ≠ solo.** `yt-CbQNwT7FsVg` scored **0** vocatives
+  yet contains a co-host (*"Can I add some into that?"* — Mo). The grep catches an **addressed** Chris, not
+  an **unaddressed** second speaker. **A zero is a hypothesis: still read the opening for turn-taking.**
+- ⚠️ **THE CLIP RULE — a clip is only a discardable duplicate if its PARENT is L2/L3.**
+  If the parent is `skipped`, the clip's content **was never ingested**, and marking it `dup-of:` discards
+  the material a second time. **Triage such clips on their own merits.**
+  ⚠️ **Established 2026-07-31.** A duplicate screen over 24 whisper transcripts found 6 re-uploads —
+  **only 1** had an L2 parent. Four hung off streams closed as *"guest-primary"* (a judgement about
+  **provenance markers**, which was correct) — but the channel's own editors had cut clips out of those
+  streams **titled after Chris's own segments**. 📌 **Editors' clip choices are therefore an index into
+  skipped long-form**: they mark where the subject's own material sits inside a guest-heavy stream.
+  ✅ Individually triaged, the sample split **50/50**: `yt-mpOGY4bMoWQ` really was the guest's doctrine
+  (David C. Baker) → skip confirmed; `yt-XxizQ1AdJUk` was Chris solo at a whiteboard and yielded a named
+  concept at **0** corpus-wide (*the reverse sale*). **Neither blanket rule would have been right.**
+- ⚠️ **DUPLICATE DETECTION MUST BE TRANSCRIPTION-SYSTEM-INDEPENDENT.** Exact n-gram/phrase matching
+  **fails between whisper output and YouTube captions of the same audio** — two systems word the same
+  speech differently. A known dup (`yt-CbQNwT7FsVg`) passed two exact-match screens as "unique."
+  **Use rare-word containment instead** (`tools/dup_screen.py`): tokens with document-frequency ≤2%,
+  containment ≥55%. That flagged the known case at **89%**. ⚠️ Exact matching is still worth running as a
+  **complement** — it catches whisper-vs-whisper dups within a batch that containment can miss.
+- ⚠️ **A CLIP'S UPLOAD DATE IS NOT THE DATE OF ITS MATERIAL.** `yt-XxizQ1AdJUk` uploaded 2021-03-25 but
+  says *"starting in 2020, January 1st"* and is cut from a 2019-12-03 stream. Frontmatter keeps the
+  filename date; the page must carry a visible date caveat so fidelity rule 3 (never present an old
+  position as current) is not breached in reverse.

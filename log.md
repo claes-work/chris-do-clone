@@ -16677,3 +16677,50 @@ to bill $100, build the estimate at $102"* — the discount is pre-funded. ⭐ *
 own never-discount rule** (*"every rule is made to be broken"*), incl. the **Costco model** at ~2019-12,
 **4 years earlier** than its only other attestation. Applied anchor script for logo pricing ($25K → "less
 than $18K", *"see what I did there?"*). ⚠️ Date all of it **~2019-12**, not the 2021-03 upload date.
+
+## [2026-07-31] ingest | whisper triage batch 3 — the three orphan-parent clips; vocative rule corrected twice
+
+Triaged the three clips whose parents are `skipped` — the category yesterday's blanket "dup → skip" would
+have discarded. **Two were worth ingesting, one was a true dup.** The clip rule holds.
+
+**⚠️ My own vocative rule was wrong in two ways, and both showed up in this batch.**
+
+1. **A vocative inside REPORTED SPEECH points AT Chris, not away.** `yt-5JC2gx2fh2c` scored 1 hit:
+   *"he came and asked me: **Chris**, how much should I negotiate this image for?"* — someone else's
+   address, quoted by Chris. The rule as written would have disqualified the passage that proves he is
+   the speaker.
+2. **The grep does not catch an UNADDRESSED guest.** `yt-Y-x5J1SIN2Q` scored **0** and is majority
+   **Eli Altman** — including the passage the clip opens *and* closes on, which reads exactly like the
+   subject (*"we do sliding scale pricing, we do pro bono projects, we make up the difference on the
+   multinationals…"*). ⚠️ **That is the second near-miss in two days where guest doctrine was one step
+   from the persona.** What caught it was the **published-source provenance sweep** — *"one of the things
+   I have in **the book**"* → the guest's own book, not *Pocket Full of Do* or *Unbland*.
+
+📌 **The conclusion is not a better single test.** The vocative grep, the provenance sweep, and the
+biography-consistency test each catch a different failure mode, and **none subsumes the others.** All
+three refinements are written into `SUBJECT.md`.
+
+✅ **Follow-up run and closed the same day, not left open:** the near-miss implied the corpus's **6**
+existing `sliding scale` hits might carry the same hazard. Checked — **clean**: Chris's own
+learning-vs-money scale for internships (2018-07-01) and a risk-based scale already correctly attributed
+to **Dan Mall's *Pricing Design*** (2021-03-03). No contamination.
+
+**Ledger:** 2 → L2 (both guest-fenced) · 1 → skipped (`-_GaSasjJuU`, dup of a parent still queued —
+noted to re-open if that parent is skipped). L2 total **1074**. Whisper transcription still running,
+35 rows open. ⚠️ Index housekeeping: I introduced one date-order violation and fixed it; **21 pre-existing
+violations remain** (verified identical at HEAD) — logged, not silently absorbed.
+
+Synthesis notes: ⭐ **The underpricer's self-narrative** — *"I'm not doing anything anyways, and **$80 is
+better than $0**"* (0 corpus-wide), with the diagnosis that the error is **narrative first** and the
+arithmetic (own living costs omitted from the equation — *"they think: my life is free"*) downstream.
+⭐ **Out-price your self-assessment**: *"the heroes you look up to charge **ten times** what you're charging
+today… always out-price where you think you're at skill-wise, and **work every single day to close the
+skill gap**"* (0 corpus-wide) — a deliberate inversion that makes the gap a work obligation rather than a
+reason to discount. ⚠️ The taste-exceeds-ability setup is Ira Glass's "taste gap" in substance; **he does
+not attribute it and the corpus must not attribute it for him.** ⭐ **The denominator reframe**: *"25%
+seems like a bargain — it's 25% **of what**"* (0 corpus-wide). ⭐⭐ **A characteristic move now has TWO
+independent instances and is a trait, not a remark**: he bounds his pricing advice by the listener's
+economy — *"some people in our audience earn five to nine thousand dollars **a year**… you're talking
+about five to nine thousand **a day**"*, matching the coach video's *"I'm talking to multinational,
+multibillion-dollar companies… we need to keep things relative."* ⚠️ Self-reported biographical item: a
+former photographer of his had an iPhone image bought by **Apple for a billboard**.

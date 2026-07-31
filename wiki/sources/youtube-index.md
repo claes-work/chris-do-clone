@@ -218,6 +218,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-02-08 | [Inspiration Is For Amateurs — Ideas w/ Kyle Cooper (edit)](2018-02-08-yt-l4NRhEp5efU.md) | design-craft; mindset | CONTEXT: Kyle Cooper interview (~80% Kyle=influence); "let the problem tell you what it wants"; Kyle-Cooper entity material |
 | 2018-02-09 | [Young Graphic Designers Get Coached — Young Guns (Ep.1)](2018-02-09-yt-b9uU-ZjgiHU.md) | mindset; sales-clients; business | series intro/teaser; Chris coaches but doesn't speak on-camera; coachees=context |
 | 2018-02-13 | ★ [Typography — Rules for Graphic Design](2018-02-13-yt-EozQvV3oQ7c.md) | design-craft | legibility rules: triadic size/measure/leading, x-height→leading, 65/52 char max-measure, 9–12pt; attribution uncertain (verify); L3-candidate |
+| 2018-02-22 | [How Much To Charge For Professional Commercial Photography](2018-02-22-yt-5JC2gx2fh2c.md) | pricing; sales-clients; business | ⚠️ WHISPER, clip of SKIPPED parent. Guest Andrea Stern FENCED. Chris: '25% of what' denominator reframe; audience-economics qualifier (2nd instance); Apple-billboard anecdote |
 | 2018-02-26 | [MASTERMIND: Business Coach Kier McLaren (Ep.1 Intro)](2018-02-26-yt-J_m9-4rgpiE.md) | business | CONTEXT: ~95% Kier McLaren bio; Chris 15s framing; Kier entity material |
 | 2018-02-28 | [What Does An Executive Producer Actually Do?](2018-02-28-yt-jOeHZVWAbaw.md) | business; sales-clients; content-strategy | CONTEXT: Scott Ross (Blind/Futur EP) explains his role; Chris absent |
 | 2018-03-02 | ★ [From $0 to $5k For Strategy in 6 Months (Ep.9)](2018-03-02-yt-D2rDvkSfrCI.md) | pricing; sales-clients; business | charge-for-thinking, strategy>objectives>deliverables, budget=5–10% gross, lead-with-strategy; Melinda=context; L3-candidate |
@@ -763,6 +764,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2019-12-26 | ★ [When Client Says 'Your Price Is Too High' (Role Play)](2019-12-26-yt-RFk8ZmIDrFM.md) | sales-clients; pricing; business | qualify-then-walk + risk-reversal script; L3-candidate |
 | 2019-12-31 | [What Is Branding? 4-Min Crash Course](2019-12-31-yt-sO4te2QNsHY.md) | branding; business | Marty Neumeier interview — definition is Neumeier's (context) |
 | 2020-06-09 | ★ [How to Learn Anything (Whiteboard)](2020-06-09-yt-ujxvy5NjeRQ.md) | mindset; content-strategy | Five Ingredients + learn-reflect-implement-share; L3-candidate |
+| 2020-06-25 | [How Much Should You Charge To Make Money](2020-06-25-yt-Y-x5J1SIN2Q.md) | pricing; mindset; business | ⚠️⚠️ WHISPER, clip of SKIPPED parent. GUEST-DOMINANT (Eli Altman) — opening+closing NOT Chris. Chris: '$80 is better than $0' self-story; out-price your skill gap |
 | 2020-08-14 | ★ [Answering Questions About My Book — *Pocket Full of Do* AMA](2020-08-14-yt-3Xv8G8KZMhY.md) | business; content-strategy; mindset | livestream, ✅ self-ID; ⭐ **partial Phase-2 cover while the book text is unavailable** — the author on his own book; ⏳ **first edition SOLD OUT, second edition in hand by 2020-08-14** (demand-driven reprint); ★★★ **Greg Gunn picked the 2nd-edition colours**; 16.4k words, SAMPLED |
 | 2020-08-19 | ★ [Use This Sales Technique When You Pitch](2020-08-19-yt-EeBfMUD7j60.md) | sales-clients; business | "Eight Mile Principle" (name the objection first); L3-candidate |
 | 2021-03-16 | ★ [Reinvent Yourself — Obstacles Are Opportunities](2021-03-16-yt-XH-wD0Jbo5Y.md) | mindset; business | reinvention/origin-story keynote + biography; L3-candidate |
@@ -1095,4 +1097,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-07-26 | ★ [Art of Being You](2026-07-26-yt-arFD056cke4.md) | mindset; branding | short; ⏳ **FRESHEST SOURCE IN THE CORPUS** — **adulting as recovery, not attainment** ("the person you always were… stripped away by socialization"); the lone-wolf conformity argument (🗣️ his reasoning, not science); authenticity → presence; ⚠️ reconcile with mindset §106 before promoting; L3-candidate |
 
 ---
-_1072 videos ingested (L2) so far._
+_1074 videos ingested (L2) so far._

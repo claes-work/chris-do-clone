@@ -122,6 +122,15 @@ STATUS: INITIALIZED (2026-07-14)
   ⚠️ **REFINEMENT (2026-07-31, same day): vocative-free ≠ solo.** `yt-CbQNwT7FsVg` scored **0** vocatives
   yet contains a co-host (*"Can I add some into that?"* — Mo). The grep catches an **addressed** Chris, not
   an **unaddressed** second speaker. **A zero is a hypothesis: still read the opening for turn-taking.**
+  ⚠️ **SECOND REFINEMENT (2026-07-31): a vocative inside REPORTED SPEECH points AT Chris, not away.**
+  `yt-5JC2gx2fh2c`: *"he came and asked me: **Chris**, how much should I negotiate this image for?"* — the
+  address is someone else's, quoted by Chris. **Check whether each hit sits inside quoted speech before
+  letting it disqualify a passage.**
+  ⚠️ **THIRD REFINEMENT: the grep does NOT catch an unaddressed guest.** `yt-Y-x5J1SIN2Q` scored **0** and
+  is majority **Eli Altman** — including the passage it opens AND closes on, which reads exactly like the
+  subject (*"we do sliding scale pricing, we do pro bono projects…"*). What caught it was the
+  **published-source provenance sweep**: *"one of the things I have in **the book**"* → the guest's own
+  book. **Run BOTH screens. They cover different failure modes and neither subsumes the other.**
 - ⚠️ **THE CLIP RULE — a clip is only a discardable duplicate if its PARENT is L2/L3.**
   If the parent is `skipped`, the clip's content **was never ingested**, and marking it `dup-of:` discards
   the material a second time. **Triage such clips on their own merits.**

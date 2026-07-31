@@ -17089,3 +17089,35 @@ testimonial loop**: cut client video testimonials together and play them on a lo
 self-talk (0 corpus) — a **mechanical fix for a psychological problem**, the same move as locating creative
 block in a missing procedure. ★★★ **Mirroring** is already held (13 hits); **the new part is the inverse** —
 anxiety mirrors too, and the client reads it as a risk signal: *"are you safe to spend money with?"*
+
+## [2026-07-31] ingest | Stage C — Academy shorts (14): 1 L2, 13 skipped; the actionable queue is now EMPTY
+
+Worked the 14 captioned open shorts (all @TheFuturAcademy). **1 → L2, 13 → skipped.**
+
+📌 **The *Fonts You NEED To Know* series was closed as ONE decision, not seven**, exactly as `wiki/gaps.md`
+instructed after the pattern was established across five earlier instances. All open with the same
+templated line (*"X is one of my favorite typefaces"*) or third-person editorial register, with **no
+self-identification** — LaFarge · Archivo · Newsreader · Everett · Le Jeune · Neue Haas Grotesk, plus the
+*Times New Roman* history short. **The narrator remains unresolved and the gap entry stands.** ✅ Following
+the corpus's own earlier instruction saved re-deciding the same question seven times.
+
+⚠️ **One short was tempting and was skipped anyway**: `yt-2TM5-lLm8dQ` is first person and plausibly Chris
+(*"start by simply describing what I'm seeing"* — his documented critique method), but all three of its
+points are saturated doctrine. **Plausible attribution plus zero new content is not a reason to ingest.**
+
+**Ledger: L2 total 1086. Open long-form: ZERO. Open shorts: 45 — all `no-captions`, all outside the
+owner-approved transcription scope.** ⚠️ **The actionable ingest queue is empty**; what remains is blocked
+on a scope decision that is the repo owner's to make, not mine.
+
+Synthesis notes: ⭐ **Copywork with a grid overlay — a physical method, not general advice.** *"Back in the
+day there was **no bigger designer than David Carson**… people **copied his aesthetic** — what they didn't
+understand, **they didn't copy his STRUCTURE and his THINKING.**"* His practice: *"**I would open up these
+booklets and, with PEN AND RULER, just draw over it** — so I can see the connections. When I started
+**drawing grid lines over everything he did**, I got a very strong sense that **this man understands grid
+and design** — these things were **not just happening by accident.** I felt like **I discovered some kind of
+secret key.**"* (`drawing grid lines` = 0, `as if you're a forger` = 0; `copywork` returns 1 but only as a
+**tag** on a do-not-train page about writing). ⚠️ **The logic is the promotable part**: copying the surface
+teaches nothing, and **overlaying a grid forces the underlying structure to become visible.** 📌 It is also
+**falsifiable in his own telling** — he was testing whether Carson's layouts were deliberate and concluded
+they were. ✅ And he bounds it: *"at some point you move away from that, but in the very early stages
+copywork is great"*, conceding it is *"boring, technical, tedious"* — which is why most people skip it.

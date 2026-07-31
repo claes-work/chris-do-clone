@@ -779,6 +779,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2021-03-16 | ★ [Reinvent Yourself — Obstacles Are Opportunities](2021-03-16-yt-XH-wD0Jbo5Y.md) | mindset; business | reinvention/origin-story keynote + biography; L3-candidate |
 | 2021-03-25 | [How To Discount And Make Money (Whiteboard Edit)](2021-03-25-yt-XxizQ1AdJUk.md) | pricing; sales-clients; business | ⚠️ WHISPER. Clip of SKIPPED parent yt-UNrd-XtaC28 — never ingested. ⭐ 'the reverse sale' (0 corpus) + 2% net 15 + $102 build; $16k self-reported; doctrine dates ~2019-12 not upload date |
 | 2021-07-11 | ★ [Market Yourself — Tell Your Story Pt.1](2021-07-11-yt-lrM5CRg-O0I.md) | content-strategy; branding; mindset | personal-branding storytelling framework; L3-candidate |
+| 2021-11-04 | [How To Start Becoming A Creative](2021-11-04-yt-PCkrCZCCCpg.md) | design-craft; mindset | @TheFuturAcademy short, but content establishes Chris. ⭐ Copywork with a GRID OVERLAY on David Carson's work — pen and ruler, to extract structure not aesthetic; 'as if you're a forger' |
 | 2022-04-20 | ★ [How I Got 800K+ Instagram Followers Organically](2022-04-20-yt-6YFU39Vfw0E.md) | content-strategy; business | organic-growth playbook (self-reported metrics); L3-candidate |
 | 2022-08-11 | [Science of Social Media — Masterclass w/ Brendan Kane](2022-08-11-yt-s9YsIgBX5jg.md) | content-strategy; business | guest masterclass (Kane = context); 4 Chris quotes |
 | 2022-08-22 | [Lead Generation Machine — Masterclass w/ Joana Galvao](2022-08-22-yt-Zl2NEKUCZSg.md) | business; sales-clients; content-strategy | guest masterclass (Galvao = context); 5 Chris quotes |
@@ -1108,4 +1109,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-07-26 | ★ [Art of Being You](2026-07-26-yt-arFD056cke4.md) | mindset; branding | short; ⏳ **FRESHEST SOURCE IN THE CORPUS** — **adulting as recovery, not attainment** ("the person you always were… stripped away by socialization"); the lone-wolf conformity argument (🗣️ his reasoning, not science); authenticity → presence; ⚠️ reconcile with mindset §106 before promoting; L3-candidate |
 
 ---
-_1085 videos ingested (L2) so far._
+_1086 videos ingested (L2) so far._

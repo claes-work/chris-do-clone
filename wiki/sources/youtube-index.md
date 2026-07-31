@@ -28,6 +28,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2014-09-17 | ★ [Overcoming Client Objections](2014-09-17-yt-OuOL8xQGpyE.md) | sales-clients; business | seed of objection-handling (price→value pivot); Skool-era |
 | 2014-09-17 | [Why Social Media Matters to Designers](2014-09-17-yt-KadIcPiw9lU.md) | content-strategy; business | early (2014) positions; platform specifics dated |
 | 2014-09-30 | ★ [Confidence, Culture & Money](2014-09-30-yt-KDlAjE-2JQM.md) | mindset; business | early money-mindset root; guest Rocio (context) |
+| 2014-10-07 | ★★★★ [Contracts: The Ins And Outs Of Creative Service Agreements](2014-10-07-yt-xHtvh3d-Gc0.md) | business; sales-clients; pricing | ⚠️ WHISPER, SAMPLED. The Skool era w/ José Caballer. ⭐⭐ indemnification (0 corpus) + corporate clients strike it → $2M insurance; consulting insurance ~$1k/yr (2014); SOW ≠ contract; 50/25/25 |
 | 2014-11-11 | ★★★★★ [How To Design Brand Identity Stylescapes](2014-11-11-yt-lGmPCutgI2o.md) | design-craft; branding | livestream; ⚠️⚠️ **DISCLAIMS INVENTION of a signature method** — *"there's something called **style tiles**… **I learned this from HENRY MINH, and he got it from DIGITAS.** You just got to give reference to where you got it — **I DIDN'T INVENT IT**"*; `style tiles`/`digitas`/the name all **0**; `branding.md` **Framework 22** carries stylescapes with **no provenance**; name unverified → gaps.md; SAMPLED |
 | 2015-01-28 | [New Agency Model — w/ Sue Parker](2015-01-28-yt-vfSLpMCUffA.md) | business | guest (Parker = context); 3 Chris quotes |
 | 2015-02-11 | [Social Media to Grow Business — w/ Mark Fidelman](2015-02-11-yt-ItvgJ3o5CS0.md) | content-strategy; business | guest (Fidelman = context); early positions |
@@ -110,6 +111,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2017-02-17 | [Typography Manual Cover — Speed Design Pt.2](2017-02-17-yt-IRS4idvfRwc.md) | design-craft | no narration — context only (0 Chris) |
 | 2017-02-17 | [Blind/Futur Studio Tour (FB Live w/ Art Center)](2017-02-17-yt-BFhxfcHCjK8.md) | business; content-strategy; mindset | Chris-narrated; "author not maker" thesis; ⚠️ self-reported "two Emmys" |
 | 2017-02-23 | [Legally Speaking — Attorney Stuart Carroll (PT1)](2017-02-23-yt-LOeJ3be9vJE.md) | business; design-craft | guest attorney (legal = context) |
+| 2017-02-25 | [Motion Design Critique — FB/YT Live](2017-02-25-yt-FKR8C0MSjcY.md) | design-craft; business | ⚠️ WHISPER, thin by design. One new fact: brother has exited two startups (0 corpus). PostScript context already held |
 | 2017-02-28 | [Book Cover — Speed Design](2017-02-28-yt-AOzBE7kZqCM.md) | design-craft | no narration — context only (0 Chris) |
 | 2017-03-03 | [Legally Speaking — Attorney Stuart Carroll (PT2)](2017-03-03-yt-y0yvfC0JBqI.md) | business; design-craft | guest attorney (legal = context) |
 | 2017-03-08 | [Double Exposure Effect in Photoshop](2017-03-08-yt-Xy8hIBfrizA.md) | design-craft | Matthew Encina, NOT Chris — context only |
@@ -1104,4 +1106,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-07-26 | ★ [Art of Being You](2026-07-26-yt-arFD056cke4.md) | mindset; branding | short; ⏳ **FRESHEST SOURCE IN THE CORPUS** — **adulting as recovery, not attainment** ("the person you always were… stripped away by socialization"); the lone-wolf conformity argument (🗣️ his reasoning, not science); authenticity → presence; ⚠️ reconcile with mindset §106 before promoting; L3-candidate |
 
 ---
-_1081 videos ingested (L2) so far._
+_1083 videos ingested (L2) so far._

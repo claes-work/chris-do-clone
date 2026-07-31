@@ -16933,3 +16933,47 @@ completed by ⭐ **"COACH THE GAP"** (0 corpus-wide) — attention goes to closi
 redoing the 75%. ⚠️ Promote the arithmetic and *coach the gap* **together**; they are one model and weaker
 apart. The **curse of knowledge** is already held (11 hits) but only as a *teaching* bias — its
 application to **first-hire frustration** is new.
+
+## [2026-07-31] ingest | stream triage 3 — the whisper STREAM queue is drained; 2 L2, 4 skipped
+
+**All 10 whisper livestreams are now triaged.** Both provenance sweeps were run across every one of them
+in full before any reading; only the marked passages were read. Skips carry quotable evidence, not
+judgement calls:
+
+- `yt-K8h066-AuDM` — ⭐ **the hosts say it on air**: *"No, it's not Christo — **he's hanging out in
+  Japan**."* Chris is **verifiably absent**. Cleanest skip in the whole whisper run.
+- `yt-NvQ0QlESCOE` — the sole book marker is a **Brené Brown / *Daring Greatly*** quote introduced by the
+  **guest** (*"from her book… I made a note of it"*); Chris only answers *"I love that too."* Not his
+  attribution.
+- `yt-elFwomX1mqA` — both personal markers are on-air banter about weight. ✅ Incidental check: his
+  *"I'm alright for a 50-year-old man"* (2021-05) is **consistent** with the recorded birth year — no
+  contradiction to flag.
+- `yt-9f1F3EFZqgw` — sole marker is a joke at 99% of the transcript.
+
+**One page was written deliberately thin** (`yt-FKR8C0MSjcY`): sweeps run over all 15,181 words, exactly
+**one** item probes to 0 — his brother *"has exited out of two"* startups — and the page says so rather
+than manufacturing significance around it.
+
+**Ledger:** 2 → L2 · 4 → skipped. L2 total **1083**. **4 whisper rows remain** (all held guest interviews).
+⚠️ **Synthesis debt is now 9 batches — the checkpoint (10) fires next iteration, so the next stage is S,
+not B.**
+
+Synthesis notes: ⭐⭐ **An entire contract dimension is missing from the corpus.** `indemnification`
+returns **0**: *"if shit hits the fan and whatever we did for you messes up your business — **it wasn't
+us**"* — and the practical half, which is the part that matters: *"**big corporate clients are going to
+REMOVE the indemnification clause**, because they have really powerful lawyers, and they're going to
+require you to have **at least $2 million in insurance**."* The protection you write in is the first thing
+a large client strikes, and the substitute is insurance you buy — ⭐ **consulting insurance, *"about a
+thousand dollars a year"* via a broker** (`consulting insurance` = 0). ⚠️ **2014 figures — date them.**
+📌 He frames the clause fight as a **threshold marker**: it is how you know you have crossed from mom-and-pop
+to corporate clients. ⭐ **SOW ≠ contract**: *"the statement of work has deliverables, price and schedule —
+it doesn't have any of the clauses"* — commercial terms in one document, legal terms in another. ⭐ **Terms
+50/25/25** (upfront / three-quarters through / on delivery) with the safeguard *"if we're not sure about a
+brand-new client, **there's a check ready to go before we hand over the final product**"* — `50% upfront`
+is held, the split and the safeguard are not. ⭐ **Position in the contract chain determines contract
+type**: motion work is **POs against the agency's master contract** (*"you're NOT the final holder"*)
+versus direct-to-client where *"we hold master contracts"* — a structural point the pricing material does
+not make. ⚠️ **Attribution care required**: this is a two-host stream and the two men have different
+business models — the **extensive software-contract reasoning is José Caballer's**, and Chris explicitly
+contrasts himself with it (*"broadcast is a little looser… it's not going to kill anybody, we're not
+saving lives"*). ⭐ Minor biography: the brother **has exited two startups** (self-reported, undated).

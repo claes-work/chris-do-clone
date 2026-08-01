@@ -36,7 +36,7 @@ call sites, so streams were counted nowhere and selected never (found log.md bat
 - [x] Run `/clone-setup Chris Do` (identity check → SUBJECT.md → biography research
       → source map → taxonomy → channel enumeration → first commit)
 
-## B. Video ingest — MOSTLY DONE, streams in progress
+## B. Video ingest — ⭐ COMPLETE within the approved scope (2026-07-31)
 - [x] Drain P1 (landmark), then P2 long-form per channel (ingest loop)
 - [x] P3 guest content with attribution pass
 - [x] Shorts dedup — **~800 shorts triaged, ~20 ingested** (~1 in 80; the tail is recuts of
@@ -50,7 +50,15 @@ call sites, so streams were counted nowhere and selected never (found log.md bat
       `members-only` fraction: 2 of the first 3 were auto-skipped by the batch-199 detector.
       ⚠️ Ledger `published` is `NA` for all stream rows; **the real date comes from the caption
       fetch** (raw filename), so set `published=` when writing each page.
-- [ ] ⚠️ **OWNER DECISION 2 — now 102 `no-captions` rows, and THE ONLY REMAINING BLOCKER.**
+- [x] ⭐ **OWNER DECISION 2 — ANSWERED 2026-07-31: option 1 (long-form + streams only).** 51 rows
+      transcribed with local whisper.cpp (31 ok · 4 rejected by a 50-word floor as music/silence ·
+      the rest already had transcripts) and **fully triaged**. ⚠️ **51 rows still sit at L1, all
+      `no-captions`, and they are NOT work — they need a new scope decision:** **45 @thefutur shorts**
+      (explicitly excluded from that approval), **5 @TheFuturAcademy** software tutorials and
+      **1 @ChrisDo** trailer (outside the approved channel). ✅ Re-verified 2026-07-31 that the shorts
+      genuinely still have no caption tracks. ⚠️ **Worth knowing before any future run: `no-captions` is
+      NOT permanent** — three rows acquired real captions between the morning and afternoon of the same
+      day, so re-check before transcribing. *(Original entry:)* **now 102 `no-captions` rows, and THE ONLY REMAINING BLOCKER.**
       Breakdown: **41 @thefutur long-form · 45 @thefutur shorts · 10 @thefutur streams · 5 Academy · 1 @ChrisDo.**
       **Recommendation: the 41 long-form + 10 streams only** (~51 rows) — the 45 shorts are overwhelmingly
       recuts on the evidence of the 800 already triaged. *(Original entry:)* **88 `no-captions` rows.** Approve Whisper transcription? 45 are
@@ -59,7 +67,16 @@ call sites, so streams were counted nowhere and selected never (found log.md bat
 - [x] ⚠️ **OWNER DECISION 3 — @TheFuturAcademy.** Closed out 2026-07-28: instructor-led channel
       (Encina, Gunn, Contreras). Long-form drained; 3 Chris-fronted rows found and ingested,
       including the corpus's only self-identified typeface preference.
-- [ ] Retry rows flagged `429` / `unavailable`
+- [x] Retry rows flagged `429` / `unavailable` — swept 2026-07-31; the one removed video is now
+      correctly `skipped` rather than pending.
+- [ ] ⚠️ **Two verification items left open BY DESIGN** (both cheap, both need a source I don't have):
+      **(1)** the **first-big-cheque contradiction** — $68,000 with equanimity vs $87,000 with elation,
+      same defining phrase, almost certainly one event told twice; the *reaction* is load-bearing because
+      the biography cites its version as evidence for desensitization to numbers, and that version is
+      compiled into the system prompt. **A third source breaks the tie.**
+      **(2)** **Roland Young** — a formative ArtCenter teacher at 0 corpus-wide whose lesson Chris quotes
+      25 years later; the name comes from a machine transcript. **Chris supplies the search term himself
+      (*"Roland is God"*).**
 - [x] Checkpoint synthesis every ~10 batches / channel boundary (see E) — passes 1–27 done
 
 ## C. Books / courses / landmark documents — OPEN

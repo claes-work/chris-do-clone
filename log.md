@@ -17264,3 +17264,30 @@ don't get along with my brother — at least back then I didn't. But he's family
 ON FAMILY.** So my blood was boiling."* ⚠️ He names the dislike **first** and acts anyway, which is what
 makes it a principle rather than loyalty. ✅ Confirms the sibling structure the corpus holds (older brother
 +4 years, this one −1, *"middle of three"*).
+
+## [2026-08-03] ingest | Phase 4 — Finien Ep004: the wife's exact words on a moment the corpus held only in paraphrase
+
+Tested one candidate (~8,500 words, speaker-labelled), read partially. **Most of the page is saturated** —
+Marty Neumeier, Tony Hsieh, Austin Kleon (13 hits), Gary Vaynerchuk, Seth Godin, 300% growth, the
+burnout→sabbatical arc — and **none of it was re-recorded**.
+
+⚠️ **Two things were deliberately NOT taken.** The page gives a **600–700 video count and 340,000
+subscribers**, but its own date is **internally inconsistent** — the transcript says *"2018, 2019, as this
+was being recorded"* while Chris says *"I am approaching 50 years old"*, which against the recorded birth
+year points to ~2021. **Undated platform metrics are worse than no metrics**, so both were dropped and the
+inconsistency is flagged on the page rather than silently resolved. And **Six Thinking Hats** (0 corpus-wide)
+was recorded as *"a book he was reading"*, **not promoted to `influences`** — a book in progress is weaker
+evidence than one he teaches from.
+
+Synthesis notes: ⭐ **The corpus already held this moment; what was missing was its resolution.**
+`persona/biography` records the **October 2013 catalyst** for The Skool as his wife challenging him **on
+the drive home to Santa Monica** that classroom teaching was *"repetitive and limited in reach"* — a
+paraphrase of her point. This source has **her sentence**: he asked *"**How was class today?**"* — and he
+says plainly why — *"**I'm just looking for a little positive affirmation**"* — and she answered: *"**You
+know, it was really good. But I don't think you're living up to your potential.**"* (`living up to your
+potential` = 0). ✅ **Two details the corpus lacked**: **she had been in the room** — he had invited her to
+sit in on the class, so the judgement was informed — and **he was fishing for praise when he asked**, which
+is what turns the answer into a challenge rather than a suggestion. 📌 **He keeps his own motive in the
+story** rather than tidying it out, which is itself characteristic. ⚠️ **Almost certainly the same moment,
+but neither source cross-references the other — recorded beside the existing entry, not merged into it, and
+the existing entry keeps its date because this page cannot supply a reliable one.** ⚠️ Family by role only.

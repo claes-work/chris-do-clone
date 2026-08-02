@@ -21,10 +21,11 @@ YouTube-hosted external appearance keeps the `yt-` prefix so the caption tooling
 | Date | Source | Publisher | Domains | Notes |
 |---|---|---|---|---|
 | ~2017 | [The Uncertain Future of Mograph](2017-01-01-ext-school-of-motion.md) | School of Motion | business; content-strategy | ✅ **Full transcript, ~28k words** (largest external source), speaker-labelled — ⚠️ partial read. ⭐ *"$7M in 2007… **never been there again**"* — a qualifier the corpus lacked; ⭐ dated prediction: *"working for agencies is a **dead idea**"*, made after he had already bet his own company on it |
+| 2021-07-26 | ★★★★★ [Baby Got Backstory #049](2021-07-26-ext-bgbs-049.md) | Baby Got Backstory | mindset; business; design-craft | ✅ Full transcript ~28k, ⚠️ partial read. ⭐⭐ **Names two anonymous origin figures**: **Brad** (the silkscreen owner who named ArtCenter) via **Coach Rudy**, and **Mike Davita** (the teacher holding his work back). ⭐⭐ Forged a C into a B with his mother's drafting tools. ⭐ $18/hr as an inker vs $3.50 minimum wage. ⭐ *"you don't get to pick on family"* |
 | 2022-08-02 | [Creator Science #111 (Jay Clouse)](2022-08-02-ext-creator-science-111.md) | Creator Science | business; mindset; content-strategy | ⚠️ Excerpt source, not a transcript. ⭐ Blind's revenue **band** $4–7M (corpus held only the $7M peak); ~15–16 core staff plus freelance surge; *"exhausting for an introvert"*; superfan-not-troll for public critique. ⚠️ Page misnames the *Great Brain* author — corpus is correct |
 | 2024-01-13 | ★★★★★ [On Mastering The Power Of Embracing Identity](2024-01-13-ext-vietcetera.md) | Vietcetera | mindset; business; design-craft | ⭐⭐ Mother overruled father on the design career (*"you're not allowed to say that to your son"*); ⭐⭐ the Vietnamese-identity arc — dreamt-in-Vietnamese, *"my power would be to turn invisible"*, the áo dài at ArtCenter graduation; ⭐ two childhood drawing memories (ages 4–5, 7); ⭐ the Kyle Cooper storyboard hour; slow-reader-as-method |
 
-_3 external sources ingested (L2) so far._
+_4 external sources ingested (L2) so far._
 
 ## Screened and closed
 

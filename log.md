@@ -17228,3 +17228,39 @@ hour**"* — which he names as the root of his teaching frustration: *"why can't
 freelance surge layer. ⭐ **Introversion as a cost paid**: *"we would hit agency after agency in New York…
 **it's exhausting for an introvert.**"* ⭐ **Superfan not troll** — *"same work, same initiative, hopefully
 the same outcome, but two totally different approaches."*
+
+## [2026-08-03] ingest | Phase 4 — Baby Got Backstory #049: two anonymous origin figures now have names
+
+Tested one candidate, ingested it. `ext-bgbs-049` is a **full ~28,000-word speaker-labelled transcript**,
+read partially (swept for names, figures and concrete incidents). ⚠️ Its headline topics — Vietnamese
+refugee background (25 hits), skateboarding (18), the Emmy, the $7M year — are **already held**, so none of
+them were re-recorded. **The value was entirely in the specifics the show's backstory format draws out.**
+
+📌 **The format is the reason this tier works.** On his own channel he teaches; a backstory interviewer
+asks *"and then what happened"* until the anonymous figures acquire names.
+
+Synthesis notes: ⭐⭐ **Two people the corpus knew only as roles are now named.** The man who told him
+*"the best school you're ever going to go to is ArtCenter — the Harvard of design schools"*
+([[wiki/sources/2017-04-25-yt-P89iLoCETLU]], where he is just *"my boss"*) is **BRAD**, who owned a
+silk-screening shop — and the introduction came through **COACH RUDY**, his younger brother's wrestling
+coach, not through a job search. 📌 **Brad hired him off the same portfolio that had just been rejected by
+every school** — a point Chris makes himself. And the high-school teacher is **MIKE DAVITA**, who had been
+**holding pieces of Chris's work back**; Chris had to go and ask for them to apply: *"Can I have some of
+these pieces that you held back? …I'm gonna apply for an art program."* ⚠️ **Probably the same person as the
+"yearbook teacher"** in the earlier source — **not merged, because the source does not say so.**
+⭐⭐ **He forged his own school grades**, and names the reason: *"coming home with a C, **with my dad, was
+just going to be the end of it**."* Method, using his mother's drafting tools: an **electric eraser**, then
+*"a really **blunt pencil**, just to get it to the right stroke width"*, then tracing a B from elsewhere on
+the sheet **through carbon paper** and smudging it to disguise the edit (`carbon paper` = 0, `electric
+eraser` = 0). ⚠️ 🗣️ Self-reported and told voluntarily; recorded factually. **It corroborates two things
+already in the corpus** — the fear of his father's reaction, and the early facility with drafting tools.
+⭐ **His first skilled wage: $18/hour as an INKER** (pencil drawings onto acetate), against a minimum wage
+he puts at **$3.50–3.75** — *"four to five times as much as I used to make"* (0 corpus-wide). ⚠️ **Not in
+conflict** with the recorded *"$3.25/hour at 16 or 17"*: that is the minimum-wage-tier job, this is the
+skilled one that followed. ⚠️ The pen brand is garbled in the transcript — **Rapidograph is my inference and
+is bracketed, not asserted.**
+⭐ **A rule stated against his own feelings**: after someone kicked his younger brother's lunch bag, *"**I
+don't get along with my brother — at least back then I didn't. But he's family, and YOU DON'T GET TO PICK
+ON FAMILY.** So my blood was boiling."* ⚠️ He names the dislike **first** and acts anyway, which is what
+makes it a principle rather than loyalty. ✅ Confirms the sibling structure the corpus holds (older brother
++4 years, this one −1, *"middle of three"*).

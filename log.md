@@ -17177,3 +17177,54 @@ ends here**: the actionable ingest queue is empty and what remains is blocked on
 
 Synthesis notes: none new — pass 32 drained the remaining debt into `sales-clients`, `mindset`,
 `design-craft` and `persona/beliefs`, and recompiled the system prompt to **v27**.
+
+## [2026-08-02] ingest | Phase 4 opened — 23 guest appearances enumerated; 2 external sources at L2
+
+**The ledger contained only YouTube until today.** Added the 23 named external guest appearances from the
+media-inventory dossier as the first non-YouTube rows (`ext-` prefix, `type: guest`; the one
+YouTube-hosted appearance keeps `yt-` so the caption tooling still works). Created
+`wiki/sources/external-index.md` as the sister file to the YouTube sub-index.
+
+**⚠️ Feasibility was MEASURED before committing to the tier, not assumed.** Three pages were fetched to
+find out whether they carry usable material: **Millo = show notes only, zero verbatim speech**;
+**Vietcetera ≈ 2,800–3,000 words** of his own answers in a marked Q&A; **Creator Science ≈ 8,500 words** of
+timestamped excerpts. 📌 **Roughly two in three are workable, and it is not predictable from the show** —
+so each one gets tested before it gets ingested. Millo is booked `skipped` with that finding recorded.
+
+📌 **One structural advantage of this tier over the entire video corpus**: printed Q&As mark the speaker
+**typographically**. After a week in which speaker attribution was the single largest source of error —
+four refinements to the vocative rule, two family-rule near-misses — these sources need **no inference at
+all**.
+
+⚠️ **A source-side error caught and NOT propagated**: the Creator Science page names the author of *The
+Great Brain* as *"Tom Fitzgerald."* **Tom is the character; the author is John D. Fitzgerald** — which
+`influences.md` and the 2016 source **already record correctly**. Flagged on the page so nobody "corrects"
+the corpus from the podcast.
+
+Synthesis notes: ⭐⭐ **The origin story's missing half.** The corpus had the cost — *"disgraceful… their
+second-born son couldn't get into a university"* — but not that the opposition was **actively stopped, and
+by whom**: *"I figured out that **it was my mom who had stopped him.** She said to my dad: **'You're not
+allowed to say that to your son. You just let him do what he's going to do.'**"* ⚠️ **He learned it only
+afterwards**, so it is an intervention he did not experience at the time. Plus *"it took my parents **10
+years** to actually have an idea of what I am doing for a living."*
+⭐⭐ **The Vietnamese identity arc, in full for the first time** (all at 0 corpus-wide): asking his mother
+whether she dreamt in Vietnamese or English — *"she said Vietnamese, while I dreamt in English. **So I
+wondered: what am I?**"*; the childhood superpower answer — *"others would say flying or being super
+strong. **But I said my power would be to turn invisible**"*; and the ArtCenter graduation, where
+classmates wore traditional dress with pride and he thought *"**I couldn't picture myself wearing an áo
+dài… this is something I've been trying to hide**"* → *"**I was scared of not being accepted for who I
+am**"* → resolved as *"**I'm a Vietnamese person who happens to be in America.**"* ⚠️ **Handle as he frames
+it — a resolved arc, never a rhetorical device.**
+⭐ **Two dated childhood memories** behind the visual bias: his **great uncle's lap at 4 or 5** teaching him
+to draw, and **a pad of paper and markers at 7** — *"I can't remember the other gifts, but this one, I
+remember."* The advice he derives: *"look back to when you were 5 or 7 and remember what **got you shaking
+in bed** thinking you could do it the next day."*
+⭐ **Slow reading is a method, not a limit**: *"I read at a speed that I can remember what I read — **so
+that I can teach it to other people.**"* Plus *"I have a hard time spelling words until I see them."*
+⭐ **How he learned motion graphics**: an hour waiting for **Kyle Cooper**, reading **stacks of storyboards**
+off the wall — *"by seeing enough of them, back to back to back, **I figured out the game in that one
+hour**"* — which he names as the root of his teaching frustration: *"why can't you see what I see?"*
+⭐ **Blind's revenue BAND $4–7M** (the corpus held only the $7M peak) through a **core of ~15–16** plus a
+freelance surge layer. ⭐ **Introversion as a cost paid**: *"we would hit agency after agency in New York…
+**it's exhausting for an introvert.**"* ⭐ **Superfan not troll** — *"same work, same initiative, hopefully
+the same outcome, but two totally different approaches."*

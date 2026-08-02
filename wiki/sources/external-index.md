@@ -20,9 +20,8 @@ YouTube-hosted external appearance keeps the `yt-` prefix so the caption tooling
 
 | Date | Source | Publisher | Domains | Notes |
 |---|---|---|---|---|
-| 2024-01-13 | ★★★★★ [On Mastering The Power Of Embracing Identity](2024-01-13-ext-vietcetera.md) | Vietcetera | mindset; business; design-craft | ⭐⭐ Mother overruled father on the design career (*"you're not allowed to say that to your son"*); ⭐⭐ the Vietnamese-identity arc — dreamt-in-Vietnamese, *"my power would be to turn invisible"*, the áo dài at ArtCenter graduation; ⭐ two childhood drawing memories (ages 4–5, 7); ⭐ the Kyle Cooper storyboard hour; slow-reader-as-method |
-
 | 2022-08-02 | [Creator Science #111 (Jay Clouse)](2022-08-02-ext-creator-science-111.md) | Creator Science | business; mindset; content-strategy | ⚠️ Excerpt source, not a transcript. ⭐ Blind's revenue **band** $4–7M (corpus held only the $7M peak); ~15–16 core staff plus freelance surge; *"exhausting for an introvert"*; superfan-not-troll for public critique. ⚠️ Page misnames the *Great Brain* author — corpus is correct |
+| 2024-01-13 | ★★★★★ [On Mastering The Power Of Embracing Identity](2024-01-13-ext-vietcetera.md) | Vietcetera | mindset; business; design-craft | ⭐⭐ Mother overruled father on the design career (*"you're not allowed to say that to your son"*); ⭐⭐ the Vietnamese-identity arc — dreamt-in-Vietnamese, *"my power would be to turn invisible"*, the áo dài at ArtCenter graduation; ⭐ two childhood drawing memories (ages 4–5, 7); ⭐ the Kyle Cooper storyboard hour; slow-reader-as-method |
 
 _2 external sources ingested (L2) so far._
 

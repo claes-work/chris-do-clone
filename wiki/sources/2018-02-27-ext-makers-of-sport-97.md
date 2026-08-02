@@ -32,11 +32,29 @@ speaker explains it.** The corpus's existing `bricklayer` hits are:
 |---|---|
 | [[2016-06-30-yt-veG3WbwwaGk]] | ⚠️ **his family's framing of failure** — failing at school meant becoming *a bricklayer / ditch-digger* |
 | [[2016-09-05-yt-oOez6KmcQJ8]] | a **customer-focus parable** (masonry) |
+| [[2023-06-11-yt-edutpq93RnU]] | ⭐ **the same production=bricklaying framing as this quote** (see correction below) |
 | [[2019-12-12-yt-SzztLX6qv7U]] | **Beeple's unexplained reference** |
 
-**This 2018 quote is a fourth and different use, and it is the first that could plausibly give offence:**
-it **equates hands-on design production with bricklaying**, in a sentence whose whole point is that
-production work is the lesser thing.
+> ⚠️⚠️ **CORRECTION, same day.** This page originally described **three** existing uses and called the 2018
+> quote *"a fourth and different use… the first that could plausibly give offence."* **Both claims were
+> wrong.** A line-based grep returned only three contexts and I wrote from it; the normalised probe
+> (`tools/probe.py`) returns **six files**, and the one I missed is the most relevant of all.
+
+**The missed source — [[2023-06-11-yt-edutpq93RnU]] (James Victore episode) — has him saying the same thing
+five years later, with a softener attached:**
+
+> ★★★★ *"**We're all bricklayers.** If we're doing production, if we're not thinking, we're not consulting,
+> we're not advising, **we're bricklayers. AND THERE'S NOTHING WRONG WITH THAT.**"*
+
+📌 **This reframes the lead rather than killing it, and cuts both ways:**
+- ✅ **It strengthens the "recognisable by name" case.** A community calls something *"the bricklayer
+  thing"* when it is a **recurring line**, not a single remark. He has now used the framing in at least
+  **2018 and 2023**.
+- ⚠️ **But it weakens the "gaffe" reading.** In 2023 he **explicitly appends *"there's nothing wrong with
+  that"*** — so the framing as he states it is a **hierarchy of work, not a slur**, and any offence would
+  come from the hierarchy itself, or from a telling without the softener.
+- ⚠️ **The 2018 quote has no softener** — but it is a **show-notes pull-quote**, so its absence may be the
+  editor's, not his.
 
 📌 **Two reasons it is worth recording as a candidate:**
 1. ✅ **The date fits.** 2018-02-27 precedes Beeple's December 2019 remark — a statement can only have

@@ -98,6 +98,16 @@ that was missing) and by lint passes. Each entry: date noticed, what was missing
   **show-notes pull-quote** with unknown surrounding context, and Beeple's phrasing implies something far
   **more public** than one episode blurb — a tweet, a stage talk or a viral clip remains more likely.
 
+  ⚠️⚠️ **CORRECTED SAME DAY, and the correction matters.** I first wrote that the 2018 quote was the only
+  potentially-offensive use. **Wrong** — a line-based grep missed a fourth source. In
+  [[sources/2023-06-11-yt-edutpq93RnU]] he says the same thing **five years later**: *"**We're all
+  bricklayers.** If we're doing production, if we're not thinking, not consulting, not advising, we're
+  bricklayers. **And there's nothing wrong with that.**"* 📌 **This is a RECURRING framing, not a one-off**
+  — which makes *"the bricklayer thing"* far more plausible as a thing people would name — **but the 2023
+  telling carries an explicit softener**, so the offence, if any, lies in the **hierarchy of work** the
+  framing asserts rather than in a slur. **Still open.** ✅ The right next step is an **external** search
+  (X/LinkedIn/stage talk c. 2018–2019), not another corpus probe.
+
 - ⚠️ **Eugene Schwartz / *Breakthrough Advertising* — the "five stages of awareness", speaker
   unresolved.** (found 2026-07-30, stream batch 282) In `yt-puQJ9skmXYc` (*How To Find & Get Dream
   Clients **w/ AJ Cassata***) someone teaches the **five stages of awareness** — unaware → problem-aware

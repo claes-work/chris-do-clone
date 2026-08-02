@@ -17291,3 +17291,33 @@ is what turns the answer into a challenge rather than a suggestion. 📌 **He ke
 story** rather than tidying it out, which is itself characteristic. ⚠️ **Almost certainly the same moment,
 but neither source cross-references the other — recorded beside the existing entry, not merged into it, and
 the existing entry keeps its date because this page cannot supply a reliable one.** ⚠️ Family by role only.
+
+## [2026-08-03] ingest | Phase 4 — three tested, two empty; a dated candidate attached to the "bricklayer" gap
+
+Tested three candidates. **Two were show-notes only** (Ukramedia: a bio blurb; Giant Thinkers: a topic
+list) — both booked `skipped` with the finding. **The third was also show-notes only** — but its single
+~65-word pull-quote turned out to bear on an open question, so it was ingested for that reason alone.
+
+📌 **The hit rate is holding at roughly one in three**, which is why every candidate is fetched before it is
+worked. Six external sources ingested, three screened out.
+
+⚠️⚠️ **A dated candidate for "the bricklayer thing" — and the gap was left OPEN.** `gaps.md` has carried an
+unexplained reputational incident since 2026-07-30: **Beeple**, in December 2019, refers to *"the bricklayer
+thing — that did not help"* and neither speaker explains it. The corpus's three `bricklayer` hits were a
+customer-focus **parable** and his **family's emblem of failure** — neither offensive to anyone.
+
+**Makers of Sport #97 (2018-02-27) supplies a fourth and different use**: *"when you're in the mechanics,
+when you have your hands in the work, it's all production — and **I make no distinction between doing that
+versus becoming a brick layer**."* ✅ **Two reasons to attach it**: the date **precedes** Beeple's remark, and
+the word is **class-inflected for him personally** — his family used *bricklayer* as the emblem of failing
+at school ([[wiki/sources/2016-06-30-yt-veG3WbwwaGk]]), which is precisely the connotation that would make
+the comparison read as disparaging when aimed outward.
+
+⚠️⚠️ **Reasons I did NOT close the gap**: it is a **show-notes pull-quote** with unknown surrounding
+context, and Beeple's phrasing implies something **far more public** than one episode blurb — a tweet, a
+stage talk or a viral clip remains the more likely origin. **A plausible candidate is not an answer**, and
+the difference is the whole point of keeping the entry open.
+
+Synthesis notes: none — nothing here is promotable. The doctrine in the quote (*"designer as maker"* vs
+*"designer as business problem solver"*) is saturated, and **a lead belongs in `gaps.md`, not in
+`persona/`.**

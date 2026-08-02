@@ -88,6 +88,16 @@ that was missing) and by lint passes. Each entry: date noticed, what was missing
   merged on the strength of one word. **Needs an external source or a later telling.** Until then the
   corpus knows only that an incident existed and was damaging.
 
+  ⚠️ **A DATED CANDIDATE, added 2026-08-03 — the gap stays OPEN.** [[sources/2018-02-27-ext-makers-of-sport-97]]
+  (Makers of Sport #97, **2018-02-27**) has him say: *"when you're in the mechanics, when you have your hands
+  in the work, it's all production — and **I make no distinction between doing that versus becoming a brick
+  layer**."* ✅ **Two things make it worth attaching**: the date **precedes** Beeple's December-2019 remark,
+  and the word is **class-inflected for him personally** — [[sources/2016-06-30-yt-veG3WbwwaGk]] has his
+  family using *bricklayer* as the emblem of failure, which is exactly the connotation that would make the
+  comparison land as disparaging to others. ⚠️⚠️ **Reasons NOT to close the gap on it**: it is a
+  **show-notes pull-quote** with unknown surrounding context, and Beeple's phrasing implies something far
+  **more public** than one episode blurb — a tweet, a stage talk or a viral clip remains more likely.
+
 - ⚠️ **Eugene Schwartz / *Breakthrough Advertising* — the "five stages of awareness", speaker
   unresolved.** (found 2026-07-30, stream batch 282) In `yt-puQJ9skmXYc` (*How To Find & Get Dream
   Clients **w/ AJ Cassata***) someone teaches the **five stages of awareness** — unaware → problem-aware

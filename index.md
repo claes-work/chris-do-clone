@@ -7,7 +7,8 @@ _Last updated: 2026-07-28 (**1,033 L2**; synthesis **pass 23** rewrote `entities
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life timeline (origins → Blind → Emmy → The Skool/Futur → books), every claim marked registry-verified/press-corroborated/self-reported.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe (~2,300 primary items).
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **1,033 videos L2** (@thefutur 2014–2026 + @ChrisDo; **P1 and P2 both fully drained**; 98 members-only rows skipped as unobtainable; remaining: @thefutur video P3:0 ✅ complete; ⚠️ **235 @thefutur STREAMS untouched and unscoped — the driver filters on type==video**, @TheFuturAcademy P3:51, 757 shorts).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **1,086 videos L2** across @thefutur, @ChrisDo and @TheFuturAcademy. ⭐ **Phase 3 complete within the approved scope 2026-07-31**: long-form, shorts and all 235 livestreams triaged, plus the whisper back-catalogue. **Open long-form: zero.** ⚠️ 51 rows remain at L1, all `no-captions` and all outside the owner-approved transcription scope (45 @thefutur shorts, 5 Academy tutorials, 1 @ChrisDo trailer) — blocked on a scope decision, not on work.
+- [wiki/sources/external-index.md](wiki/sources/external-index.md) — ⭐ **NEW 2026-08-02**: external sub-index for Phase 4 — guest appearances on other people's shows, press interviews and web material. **1 source L2**, 23 enumerated. 📌 Printed Q&As mark the speaker typographically, so this tier needs **no attribution inference** — unlike the entire video corpus.
 
 ## Topics
 

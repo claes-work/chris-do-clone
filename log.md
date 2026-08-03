@@ -17321,3 +17321,33 @@ the difference is the whole point of keeping the entry open.
 Synthesis notes: none — nothing here is promotable. The doctrine in the quote (*"designer as maker"* vs
 *"designer as business problem solver"*) is saturated, and **a lead belongs in `gaps.md`, not in
 `persona/`.**
+
+## [2026-08-03] ingest | Phase 4 — Beyond a Million: first transcript-grounded appearance material
+
+⚠️ **Iteration ran through two classifier outages** that intermittently blocked WebFetch and Bash. Work was
+resumed rather than abandoned; nothing was written during the gaps.
+
+**⚠️ The third phrasing-variant near-miss of the day.** The page presents a *"911 Formula"* for content —
+nine value pieces, one personal, one CTA. `911 formula` probes to **0**, and I was one step from writing it
+up as a new framework. The corpus spells it **9-1-1**, which returns **8 files** including a full section in
+`content-strategy` (#67), an entry in `beliefs.md` and a line in the system prompt. **Saturated, not
+recorded.** 📌 Same failure mode as *Caballero/Caballer* and *Diane Gibbs* — **a proper-noun or formula
+probe that returns 0 is a hypothesis, and the variant is where the answer hides.**
+
+Synthesis notes: ⭐ **The first transcript-grounded material for `persona/appearance.md`**, which
+`wiki/gaps.md` records as having been built from dossiers **with no transcript evidence at all**. He
+explains his most recognisable visual choice himself, and the origin is **functional, not strategic**: he
+started wearing hats because of **his shiny bald head on camera**, and only afterwards did they become the
+thing people recognise him by. He now **rotates** them deliberately — a **G-Star Raw** cap, a **Type** hat,
+one reading **"God is a Designer"** (`God is a Designer` = 0) — to stay recognisable across platforms.
+📌 **The general rule is the promotable part, and it cuts both ways**: *"**when you do something
+consistently it becomes part of your brand — so BE CAREFUL what it is that you do.**"*
+⭐ **A blunt positioning claim** (0 corpus-wide): *"**It's better to be weird or different than it is to be
+better.**"* ⚠️ **This is a claim about differentiation beating quality as a route to being chosen**, not a
+style preference — consistent with his recorded anti-"just do better work" stance but stated harder than
+anywhere else in the corpus.
+⚠️ **One quotation recorded with its bracket intact**: he cites *"a pretty controversial figure, **Andrew
+Tate**"* — **he applies the warning label himself, before quoting** — for *"I buy Bugatti, not because I
+like the Bugatti."* Filed per the corpus's existing convention for this name (*"analysed, not endorsed"*,
+`branding` §1412). ⚠️ **Not promoted to `persona/`.** ⚠️ **Walter Isaacson's Musk biography** returns 0 but
+arrives without context — recorded as **mentioned**, not as an influence.
